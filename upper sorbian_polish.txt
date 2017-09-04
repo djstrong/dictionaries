@@ -1,0 +1,597 @@
+a - i
+Afrika - Afryka
+Albanjanka - Albanka
+albanski - albański
+ale - ale
+amharšćina - amharski
+apryl - kwiecień
+architektura - architektura
+Argentinska - Argentyna
+asistencny lěkar - lekarz asystent
+astronomija - astronomia
+awgust - sierpień
+Awstriska - Austria
+awto - auto | samochód
+awtor - autor
+Azija - Azja
+Baltiske morjo - Morze Bałtyckie
+Běłoruska - Białoruś
+běły - biały
+biologija - biologia
+blido - stół
+bliski - bliski
+blisko - blisko
+bljedy - blady
+bóh - bóg
+Bóh - Bóg
+bohužel - niestety
+Bołharska - Bułgaria
+bomba - bomba
+bratr - brat | członek organizacji Domowina
+brěza - brzoza
+brjuch - brzuch
+broda - broda | podbródek
+brodaty - brodaty
+bróń - broń
+bróna - brona
+brunica - węgiel brunatny
+brunicowy - związany z węglem brunatnym
+bruny - brązowy
+Budyšin - Budziszyn | Bautzen
+Budyski - budziszyński
+Bukarest - Bukareszt
+bur - chłop (rolnik)
+by - by
+być - być
+bydło - mieszkanie
+byk - byk
+čaj - herbata
+čapla - czapla
+časopis - czasopismo
+ćěło - ciało
+čerw - robak | czerw
+Čerwjene morjo - Morze Czerwone
+čěšćina - język czeski
+Čěska - Czechy
+čěski - czeski
+ćěsto - ciasto
+ćežki - ciężki
+chemija - chemia
+chlěb - chleb
+chłódźak - lodówka
+chmjel - chmiel
+chmjelowy - chmielowy
+Choćebuz - Chociebuż (Cottbus)
+cholowy - spodnie
+chomot - chomąto
+Chorwatska - Chorwacja
+chudoba - bieda
+chudy - biedny (ubogi)
+chwila - chwila
+Ćichi ocean - Ocean Spokojny | Pacyfik
+čisło - liczba
+čisty - czysty
+čitanka - czytanka
+ćjeło - ciało | korpus
+cło - cło
+čłowjek - człowiek
+cokor - cukier
+čołm - łódź
+čoło - oko
+čorny - czarny
+cybla - cebula
+daloki - daleki
+daloko - daleko
+danšćina - język duński
+Danska - Dania
+dawno - dawno
+december - grudzień
+Delnja Łužica - Dolne Łużyce
+delnjoserbski - dolnołużycki
+demonstracija - demonstracja
+dłóń - dłoń
+dobre ranje - dzień dobry
+dobru nóc - dobranoc
+dobry dźeń - dzień dobry
+dobry wječor - dobry wieczór
+doł - dolina
+dom - dom | katedra
+dopokaz - dowód
+dóstać - dostać (uzyskać)
+dóstawać - dostawać
+drózn - drozd
+druhi - drugi
+družka - drużka
+duša - dusza
+dwórnišćo - dworzec kolejowy
+dym - dym
+dypk - punkt
+dźěd - dziadek
+dźeń - dzień
+dźensa - dzisiaj | dziś
+dźiwny - dziwny
+Egyptowska - Egipt
+ekonomija - ekonomia
+encyklopedija - encyklopedia
+Eritreja - Erytrea
+estišćina - język estoński
+Estiska - Estonia
+Europa - Europa
+europski - europejski
+ewangelski - ewangelicki
+falować - brakować
+Färöje - Wyspy Owcze
+februar - luty
+festiwal - festiwal
+film - film
+finšćina - fiński
+Finska - Finlandia
+finski - fiński
+fonem - fonem
+francošćina - język francuski
+francoski - francuski
+fyzika - fizyka
+geografija - geografia
+geologija - geologia
+Georgiska - Gruzja
+grjekšćina - język grecki
+Grjekska - Grecja
+had - wąż
+Haiti - Haiti
+haj - tak (potwierdzenie)
+hakle - dopiero
+hdźež - gdzie (do określania miejsca w zdaniu podrzędnym)
+hebrejski - hebrajski
+historija - historia
+hłós - głos
+hłowa - głowa
+hnězdo - gniazdo
+hołb - gołąb
+honač - kogut | kurek do wody
+hora - góra
+Hornja Łužica - Górne Łużyce
+hornjoserbšćina - język górnołużycki
+hornjoserbski - górnołużycki
+hósć - gość
+howjado - krowa
+howno - kał | wydalina
+hra - gra | sztuka | przedstawienie
+hrać - grać (w grę) | grać (na instrumencie) | grać (odgrywać, pełnić)
+hrajer - gracz
+hranica - granica
+hriwa - grzywa
+hus - gęś
+hydrologija - hydrologia
+ilyriski - albański
+industrija - przemysł
+informatika - informatyka
+interpretować - interpretować
+inženjer - inżynier
+iršćina - język irlandzki
+Irska - Irlandia
+italšćina - język włoski
+ja - ja
+jabłuko - jabłko
+jahoda - jagoda
+jandźel - anioł
+japanski - japoński
+jara - bardzo
+jaternica - wątrobianka
+jatra - wątroba
+jatřob - jastrząb
+je - być
+jebać - oszukiwać | zdradzać | zamieniać | wymieniać
+jebak - oszust
+jebanje - oszustwo
+jebanstwo - oszustwo
+ječmjeń - jęczmień
+jědź - jedzenie
+jeho - jego
+jeje - jej
+jejo - jajko
+jendźelski - angielski
+jenož - jedynie | tylko | jeno
+Jeruzalem - Jerozolima
+jěsć - jeść
+jězor - jezioro
+Jězus Chrystus - Jezus Chrystus
+juhozapad - południowy zachód
+juhozapadny - południowo-zachodni
+julij - lipiec
+junij - czerwiec
+Jurij - Jerzy
+juška - sos
+jutrowny - wielkanocny
+jutry - Wielkanoc
+Južna Amerika - Ameryka Południowa
+južny - południowy
+kał - kapusta | bzdura
+kamjeń - kamień
+kašel - kaszel
+kastilšćina - język hiszpański | kastylijski
+kašubski - kaszubski
+kat - kat
+kawka - kawka
+kisało - ocet
+kisały - kwaśny (smak)
+kłok - strzała
+kniha - książka
+knjez - pan (zwrot grzecznościowy) | pan (władca)
+kóčka - kot
+kokoš - kura
+kokot - kogut
+koleno - kolano
+koleso - koło (do wozu/samochodu) | rower
+kołodźej - kołodziej
+Kolumbiska - Kolumbia
+kompjuter - komputer
+kompjuterowy - komputerowy
+komputer - kompjuter
+komputerowy - kompjuterowy
+kóń - koń
+kopańca - piłka nożna (gra)
+kós - kos
+kosa - kosa
+kósć - kość
+koštować - kosztować (mieć cenę) | kosztować (próbować)
+kotry - który
+kotryž - który
+koza - koza
+koža - skóra
+kóždy - każdy
+kral - król
+krej - krew
+křidło - skrzydło
+kroma - rąbek | otok | skraj
+krótki - krótki
+kruwa - krowa
+kuchar - kucharz
+kultura - kultura
+kulturelny - kulturalny
+kuna - kuna
+kupa - wyspa
+kwět - kwiat
+łastojčka - jaskółka
+ławka - ławka | kładka (nad rzeką)
+łažak - gad
+lěćo - lato
+lěkar - lekarz
+lětać - latać
+Letiska - Łotwa
+lěto - rok
+Libyska - Libia
+lipa - lipa
+Lipsk - Lipsk
+liška - lis
+litawšćina - litewski
+literatura - literatura
+lód - lód (stan skupienia wody)
+lońši - ubiegłoroczny
+łopata - łopata
+łopjeno - liść
+łosos - łosoś
+łožo - łóżko
+luby - drogi
+Łužica - Łużyce
+mać - matka
+madźaršćina - węgierski
+Madźarska - Węgry
+makedonšćina - język macedoński
+Makedonska - Macedonia
+małki - maleńki
+mało - mało (kilka) | mało
+maltašćina - język maltański
+mały - mały
+mapa - mapa
+Mauretanija - Mauretania
+měd - miód
+měrc - marzec
+měsac - miesiąc | księżyc (na niebie)
+město - miasto | zamiast
+meteorologija - meteorologia
+Mexiko - Meksyk
+milinarnja - elektrownia
+minister - minister
+ministerski - ministerialny
+ministerski prezident - premier
+ministerstwo - ministerstwo
+mječ - miecz
+mjedowy - miodowy
+mjedwjedź - niedźwiedź
+mjeniny - imieniny
+mjeno - imię
+mjesyć - miesić | masować | ugnieść | zagnieść
+mjetel - motyl
+młody - młody
+mloko - mleko
+młyn - młyn
+modlitwa - modlitwa
+módry - niebieski (kolor)
+mój - mój | my (dwaj)
+Moldawska - Mołdawia
+móst - most
+mrowja - mrówka
+mucha - mucha
+my - my
+myć - myć
+myš - mysz | mysz (komputerowa)
+mytologija - mitologia
+najebać - mimo
+nalěćo - wiosna
+nalemenje - zwalisko | przełam | ruptura | złamanie | przełom | rozłam | rozbrat
+nan - ojciec
+narod - naród | urodzenie
+naš - nasz
+nazyma - jesień
+Němc - Niemiec
+němčina - język niemiecki
+Němka - Niemka
+Němska - Niemcy
+němski - niemiecki
+nic - nie
+nimale - niemal
+njebjo - niebo
+njedawno - niedawno
+njedźela - niedziela
+nóc - noc
+nochć - paznokieć
+noha - noga
+normalny - normalny
+Norwegska - Norwegia
+nós - nos
+nowember - listopad
+nowy - nowy
+nóž - nóż
+ocon - ozon
+oktober - październik
+organizować - organizować
+paduch - złodziej
+Panchen Lama - panczenlama
+papagaj - papuga
+paproć - paproć
+parlament - parlament
+pas - pasek do spodni | pas (obszar) | pas | paszport
+pawk - pająk
+pcha - pchła
+pčoła - pszczoła
+pěsk - piasek
+Pětr - Piotr
+pić - pić
+pisać - pisać
+piwko - piwko
+piwo - piwo
+pjatk - piątek
+pjenjezy - pieniądze
+płašć - płaszcz
+płód - owoc (np. jabłko)
+płót - płot
+Podstupim - Poczdam
+poł - pół
+policist - policjant
+politika - polityka
+połny - pełny
+połobšćina - język połabski
+pólšćina - język polski
+Pólska - Polska
+pólski - polski
+pomoc - pomoc
+póndźela - poniedziałek
+popjeł - popiół
+porno - wobec | porno
+pornografija - pornografia
+porod - poród
+portugalšćina - język portugalski
+pos - pies
+potajkim - więc | zatem
+powětr - powietrze
+powołać - powołować | powołać
+powołanje - zawód (praca)
+přećel - przyjaciel
+přećiwo - przeciwko | przeciw
+předsyda - przewodniczący
+přidatny - dodatkowy
+přikład - przykład
+přiroda - przyroda | natura
+přirodny - przyrodni
+přistup - dostęp
+protestować - protestować
+protyka - kalendarz
+prowokować - prowokować
+prušćina - pruski
+pšeńca - pszenica
+psychologija - psychologia
+ptačk - ptak
+ptak - ptak
+pytać - szukać
+radnica - ratusz
+rana - rana
+rano - rano
+rěč - język (mowa)
+rěka - rzeka
+renta - emerytura (pieniądze)
+rezerwować - rezerwować
+rola - rola
+róla - rola (funkcja) | rola (w teatrze)
+row - grób
+róža - róża
+rozdźěl - różnica
+ruka - ręka
+rumunšćina - język rumuński
+Rumunska - Rumunia
+rumunski - rumuński
+rušćina - rosyjski
+ruski - rosyjski
+ryba - ryba
+sabotować - sabotować
+šach - szachy
+sad - owoce (rzeczownik zbiorowy)
+Sakska - Saksonia
+samodruha - ciężarna | kobieta w ciąży | samodruhi
+samodruhi - ciężarny | w ciąży
+sćěna - ściana
+šćura - szczur
+sedmy - siódmy
+sekera - siekiera
+september - wrzesień
+Serbiska - Serbia
+serbiski - serbski | związany z Serbią
+serbski - łużycki
+šesty - szósty
+Sewjerna Amerika - Ameryka Północna
+sewjerny - północny
+šija - szyja
+skiba - kromka | kawałek (ciasta)
+šlink - ślimak
+słódki - słodki
+słon - słoń
+słónco - słońce
+Słónco - Słońce
+słowakšćina - język słowacki
+Słowakska - Słowacja
+słownik - słownik
+słowo - słowo
+sněh - śnieg
+so - się (tworzenie strony zwrotnej czasownika) | się (forma bezosobowa)
+sobota - sobota
+sociologija - socjologia
+sokoł - sokół
+sól - sól
+sotra - siostra
+sowa - sowa
+španišćina - język hiszpański
+Španiska - Hiszpania
+španiski - hiszpański
+srjeda - środa
+srjedźišćo - centrum | ośrodek
+srjedźna šula - szkoła średnia
+srjedźny - średni | środkowy
+srjedźowěk - średniowiecze
+sroka - sroka
+stadion - stadion
+stary - stary
+stat - państwo
+sto - sto | 100
+što - co
+stolica - stolica
+štom - drzewo
+štož - co (przy rozwijaniu zdań podrzędnych, nie pytaniu)
+strona - partia (polityczna) | strona (w książce) | strona (internetowa)
+strowy - zdrowy
+student - student
+studnja - studnia
+štwórtk - czwartek
+sud - sąd | beczka
+šula - szkoła
+susod - sąsiad
+Šwedska - Szwecja
+swět - świat
+swój - swój
+sy - być
+sydom - siedem
+syn - syn
+syno - siano
+Tadźikistan - Tadżykistan
+tam - tam
+tcha - pchła
+telefon - telefon
+telewizija - telewizja
+telewizor - telewizor
+temperatura - temperatura
+teologija - teologia
+tež - też
+to - to
+topoł - topola
+Tora - Tora
+torta - tort
+towarstwo - towarzystwo
+tři - trzy
+tuna - tona
+tuni - tani
+turist - turysta
+Turkowska - Turcja
+twarski - budowlany
+twjerdźenje - twierdzenie (opinia)
+twój - twój
+tydźeń - tydzień
+tykać - mówić na „ty” | „tykać”
+ukrainšćina - ukraiński
+waka - robak | robal
+Waršawa - Warszawa
+wažen - szanowny
+wažny - ważny
+wčera - wczoraj
+wěc - rzecz
+wětr - wiatr
+wětřik - wiatr
+widły - widły
+widźeć - widzieć
+wiki - rynek (miejsce) | targ (wydarzenie) | targi
+Wikipedija - Wikipedia
+wino - wino
+wišnja - wiśnia (owoc)
+witać - witać
+wječor - wieczór
+wjedro - pogoda
+wjelk - wilk
+wjes - wieś
+wjewjerčka - wiewiórka
+wnuk - wnuk
+wo - o
+wobjed - obiad
+wobličo - twarz
+woda - woda
+woheń - ogień
+wój - wy (dwaj)
+wójna - wojna
+wojowař - wojownik | bojownik
+wokno - okno
+woko - oko | oko tłuszczu | oczko (na kości do gry)
+wokoło - wokół | około
+wołma - wełna
+wołoj - ołów
+wón - on
+worjoł - orzeł
+wosoba - osoba
+wot - od (od czasu) | od (przy porównaniu)
+wótc - przodek | ojciec
+wrobl - wróbel
+wroblik - wróbel
+wróna - wrona
+wšědny - codzienny
+wučer - nauczyciel
+wucho - ucho
+wuchodny - wschodni
+wudra - wydra
+wulki - wielki
+wuměnk - emerytura (stan spoczynku)
+wurěkowanje - wurjekowanje
+wurjekowanje - wymowa
+wutora - wtorek
+wutroba - serce
+wuž - wąż
+wužitny - użyteczny | przydatny
+wužiwać - używać
+wysoki - wysoki
+žaba - żaba
+žadyn - żaden
+zahroda - ogród
+zajac - zając
+zakazać - zakazować
+zakład - podstawa
+zakładna šula - szkoła podstawowa
+zakładny - podstawowy
+žanr - gatunek (w literaturze, sztuce itp.)
+zapadny - zachodni
+zastojnik - urzędnik
+zeleny - zielony
+železo - żelazo
+žiwjenje - życie
+zjawny list - list otwarty
+złoto - złoto
+złoty - złoty (ze złota) | złoty (polska waluta) | złota moneta
+zły - zły (związany ze złem)
+zo - że
+žołty - żółty
+žona - żona | kobieta
+zwěrjo - zwierzę
+zyma - zima

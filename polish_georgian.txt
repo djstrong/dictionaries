@@ -1,0 +1,697 @@
+abasiofilia - აბასიოფილია
+Abchazja - Apchazeti
+abecadło - ანბანი
+abfal - ანომალია
+abiecadło - ანბანი
+Abwehra - აბვერი
+abwera - აბვერი
+Adonis - ადონისი
+adres - მისამართი
+adwentnik - დეკემბერი (dek'emberi)
+aeracja - აერაცია
+aeroplan - თვითმფრინავი (tvitmprinavi)
+Afganistan - ავღანეთი
+akatyst - დაუჯდომელი
+akwedukt - აკვედუკი
+Akwitania - აკვიტანია
+Albania - ალბანეთი (albaneti)
+Alberta - ალბერტა
+alergiczny - ალერგიული
+alfabet - ანბანი
+alfabetu - ანბანი
+Algieria - ალჟირი
+algofobia - ალგოფობია
+algorytm - ალგორითმი
+Allach - ალაჰი
+Allah - ალაჰი
+alleluja - ალილუია
+aluminium - ალუმინი
+Alzacja - ელზასი
+amajza - ჭიანჭველა (čiančvela)
+ambirz - ჯანჯაფილი
+ambus - გრდემლი
+Amman - ამანი
+Andora - ანდორა (andora)
+Andromeda - ანდრომედა
+Andy - ანდები
+Angielka - ინგლისელი (ingliseli)
+Anglik - ინგლისელი (ingliseli)
+angol - ინგლისელი (ingliseli)
+Angol - ინგლისელი (ingliseli)
+anomalia - ანომალია
+anonimowy - ანონიმური
+Antananarywa - ანტანანარივუ
+Antares - ანტარესი
+Antarktyda - ანტარქტიდა
+antropologia - ანთროპოლოგია
+Antyle Holenderskie - ნიდერლანდის ანტილები
+apasz - დამნაშავე
+apryl - აპრილი (ap'rili)
+Arabia Saudyjska - საუდის არაბეთი
+arfa - არფა
+armia - ჯარი (džari)
+armijo - ჯარი (džari)
+arsen - დარიშხანა
+Arystoteles - არისტოტელე m
+aseksualizm - ასექსუალობა
+Asyria - ასურეთი
+ateista - ათეისტი (ateist'i)
+ateizm - ათეიზმი (ateizmi)
+Ateny - ათენი
+ateusz - ათეისტი (ateist'i)
+Austria - ავსტრია (avst'ria)
+Azerbejdżan - აზარბაიჯანი | აზერბაიჯანი
+Azja - აზია
+babcia - ბებია
+babka - ბებია
+Badenia-Wirtembergia - ბადენ-ვიურტემბერგი
+bala - ბურთი
+Bałtyk - ბალტიის ზღვა
+bar - ბარიუმი
+barzej - ბევრი (bevri)
+bazylia - რეჰანი
+Bejrut - ბეირუთი
+Belgia - ბელგია (belgia)
+Bergamo - ბერგამო
+Berlin - ბერლინი
+beryl - ბერილიუმი
+bezrobocie - უმუშევრობა
+Białoruś - ბელარუსი (belarusi)
+biały - თეთრი (t’et’ri)
+Biblia - ბიბლია (Biblia)
+biseksualizm - ბისექსუალობა
+biskup - ეპისკოპოსი
+biurko - საწერი მაგიდა
+biust - ბიუსტი
+bizmut - ბისმუტი
+blog - ბლოგი
+Bóg - ღმერთი (ghmert’i)
+bohater - გმირი (gmiri)
+bójka - ჩხუბი
+Boston - ბოსტონი
+Brazylia - ბრაზილია
+broń - იარაღი
+brudny - ბინძური | დასვრილი
+brzmienie - ხმის (khmis)
+buc - ყლე (q'le) | კლე (k'le)
+buda - სკოლა
+Budapeszt - ბუდაპეშტი
+buldożer - ბულდოზერი
+Bułgaria - ბულგარეთი (bulgareti)
+burza - ქარიშხალი (kariszchali) | ჭექა–ქუხილი (cz'eka-kuchili)
+burza w szklance wody - ქარიშხალი ჭიქა წყალში
+but - ფეხსაცმელი (pekhsatsmeli)
+być - ყოფნა
+Była Jugosłowiańska Republika Macedonii - იუგოსლავიის ყოფილი რესპუბლიკა მაკედონია
+cal - დიუმი
+Cardiff - კარდიფი
+cenotaf - კენოტაფი
+cera - ქალიშვილი
+chiński - ჩინური
+chłodny - გრილი
+chmiel - სვია
+choinka - საშობაო ნაძვის ხე
+chójk - საშობაო ნაძვის ხე
+choroba - ავადმყოფობა (avadmqopoba)
+Chorwacja - ხორვატია (horvatia)
+chuj - ყლე (q'le) | კლე (k'le)
+ciebie - შენ (shen) | თქვენ (tkven)
+cień - ჩრდილი
+ciżma - ფეხსაცმელი (pekhsatsmeli)
+cnotliwy - სათნო
+córa - ქალიშვილი
+córczysko - ქალიშვილი
+córka - ქალიშვილი
+cukier - շաքար
+Cypr - კვიპროსი (Kviprosi)
+cypresz - კვიპაროსი
+cyprys - კვიპაროსი
+czarna dziura - შავი ხვრელი (shavi khvreli)
+czasownik - ზმნა
+Czechosłowacja - ჩეხოსლოვაკია
+Czecho-Słowacja - ჩეხოსლოვაკია
+cześć - გამარჯობა | კარგად
+człowiek - კაცი (k'aci)
+czorny - ბინძური | დასვრილი
+czyhunka - თორიუმი
+Dagestan - დაღესტანი
+dalajlama - დალაი-ლამა
+Dania - დანია (dania)
+demografia - დემოგრაფია
+Demokratyczna Republika Wyspy Świętego Tomasza i Wysp Świętego Tomasza i Książęcej - სან-ტომესა და პრინსიპის დემოკრატიული რესპუბლიკა
+deszcz - წვიმა (ts'mina)
+deżdż - წვიმა (ts'mina)
+dezercja - დეზერტირობა
+diagnoza - დიაგნოზი
+Dniepr - დნეპრი
+dobranoc - ღამე მშვიდობისა (game mszwidobisa)
+dobry wieczór - საღამო მშვიდობისა
+doktor - ექიმი (ekimi)
+dolmen - დოლმენი
+doradca - მრჩეველი (mrch’eveli)
+doś - ბევრი (bevri)
+do widzenia - ნახვამდის
+do zobaczenia - ნახვამდის
+droga - გზა (gza)
+drzewo - ხე
+dumnie - ამაყად
+Duszanbe - დუშანბე
+dużo - ბევრი (bevri)
+dym - კვამლი
+dyspozycyjny - თავისუფალი
+dziadek - ბაბუა
+dzień dobry - დილა მშვიდობისა
+dżungla - ჯუნგლი (ǰungli)
+ekologia - ეკოლოგია
+ekologio - ეკოლოგია
+eksponat - გამოფენა
+elektrownia wodna - ჰიდროელექტროსადგური (hidroelekt'rosadguri)
+embriologia - ემბრიოლოგია
+endokrynologia - ენდოკრინოლოგია
+epitafium - ეპიტაფია
+eskalator - ესკალატორი
+eskulap - ექიმი (ekimi)
+Etiopia - ეთიოპია
+etyka - ეთიკა
+facet - კაცი (k'aci)
+facetka - ქალი
+fala - ტალღა (talgha)
+familio - ოჯახი (ojakhi)
+famuła - ოჯახი (ojakhi)
+faryna - շաքար
+fawela - ფაველა
+fenek - ფენეკი
+film - ფილმი (p’ilmi)
+Finlandia - ფინეთი
+fiut - ყლე (q'le) | კლე (k'le)
+fizjologia - ფიზიოლოგია
+fizyka Słońca - ჰელიოფიზიკა
+flet - ყლე (q'le) | კლე (k'le)
+fliger - თვითმფრინავი (tvitmprinavi)
+Gabon - გაბონი
+gadałka - ფერია
+galancie - ბევრი (bevri)
+Galilea - გალილეა
+gdzie - სადაც (sadats’)
+genetyczny - გენეტიკური
+Genua - გენუა
+gira - ფეხი (pekhi)
+gitara - გიტარა
+glajza - თორიუმი
+glin - ალუმინი
+głuchota - სიყრუე
+gniew - სიბრაზე
+godka - ენა (ena)
+gołąb - მტრედი
+graba - ხელი (kheli)
+gracz - მოთამაშე (mot’amashe)
+Grecja - საბერძნეთი
+Greczynka - ბერძენი (berdzeni)
+Grek - ბერძენი (berdzeni)
+grudzień - დეკემბერი (dek'emberi)
+Gruzin - ქართველი (kartveli)
+Gruzinka - ქართველი (kartveli)
+Gruzja - საქართველო
+Grzegorz - გრიგოლი
+gwiazda - ვარსკვლავი (varsk'vlavi)
+hajtok - დანა (dana)
+harfa - არფა
+harmonijny - ჰარმონიული
+heban - აბანოზი
+heliofizyka - ჰელიოფიზიკა
+Hellada - საბერძნეთი
+heparyna - ჰეპარინი
+Hindukusz - ჰინდუქუში
+histeria - ისტერია
+historyk - ისტორიკოსი
+Hongkong - ჰონგ კონგი
+hybristofilia - ჰიბრისტოფილია
+hydroelektrownia - ჰიდროელექტროსადგური (hidroelekt'rosadguri)
+hydrologia - ჰიდროლოგია
+i - და (da)
+IKEA - იკეა
+imbir - ჯანჯაფილი
+infrastruktura - ინფრასტრუქტურა
+ino - მხოლოდ
+interesować - დაინტერესება (daint'ereseba)
+Irak - ერაყი
+Irlandia - ირლანდია
+ironiczny - ირონიული
+Italok - იტალიელი (it'alieli)
+ja - მე
+jabłko - ვაშლი (vašli)
+Jahwe - იეჰოვა
+jajo - კვერცხი (kverc’xi)
+Japonia - იაპონია
+jarecka - დედა (deda)
+Jerzy - გიორგი (Giorgi)
+jesień - შემოდგომა
+jest - ყოფნა
+jeż - ზღარბი
+Jezus - იესო (ieso)
+Jezus Chrystus - იესო ქრისტე (ieso kriste)
+język - ენა (ena)
+Jugosławia - იუგოსლავია (iugoslavia)
+Jur - გიორგი (Giorgi)
+jutro - ხვალ (khval)
+kaban - ღორი (ghori)
+kabuki - კაბუკი
+kaj - სადაც (sadats’)
+kajet - რვეული (rveuli)
+kam - სადაც (sadats’)
+kamasz - ფეხსაცმელი (pekhsatsmeli)
+Kanada - კანადა
+kanianka - აბრეშუმა
+kanibalizm - კანიბალიზმი
+karaba - კატა (k'at'a)
+Katmandu - კატმანდუ
+katolicki - კათოლიკური
+Kaukaz - კავკასია
+kędy - სადაც (sadats’)
+kejter - ძაღლი (dzaghli)
+kenotaf - კენოტაფი
+kenotafium - კენოტაფი
+kimać - ძილი
+kitajski - ჩინური
+klasy - კლასობანა
+klaustrofobia - კლაუსტროფობია
+kobieta - ქალი
+kociamber - კატა (k'at'a)
+koleś - კაცი (k'aci)
+Kolumb - კოლუმბი
+komedia - კომედია
+koń - ცხენი
+kóń - ცხენი
+kondensator - კონდესატორი
+Konfucjusz - კონფუცი
+konspiracja - შეთქმულება
+Koran - ყურანი
+kosa - დანა (dana)
+kot - კატა (k'at'a)
+Kotonu - კოტონუ
+kowadło - გრდემლი
+kowalno - გრდემლი
+kozioł ofiarny - განტევების ვაცი
+Kraków - კრაკოვი
+król - მეფე (mepe)
+królestwo - სამეფო (samepo)
+krucjata - ჯვაროსნული ლაშქრობები
+krybuny - ჯვარი
+krzyż - ჯვარი
+książka telefoniczna - სატელეფონო წიგნი
+Kubańczyk - კუბელი (k'ubeli)
+Kubanka - კუბელი (k'ubeli)
+kubizm - კუბიზმი
+kula - ფეხი (pekhi)
+kulos - ფეხი (pekhi)
+kutafon - ყლე (q'le) | კლე (k'le)
+kutas - ყლე (q'le) | კლე (k'le)
+kwarantanna - კარანტინი
+kwiecień - აპრილი (ap'rili)
+lateks - ლატექსი
+lato - ზაფხული (zapkhuli)
+lekarz - ექიმი (ekimi)
+lekcja - გაკვეთილი (gak'vetili)
+leksykon - ლექსიკონი
+lingwista - ენათმეცნიერი (enatmetsnieri)
+lingwistyka - ენათმეცნიერება (enatmetsniereba) | ლინგვისტიკა (lingvist'ik'a)
+linie lotnicze - ავიახაზი
+lis - მელა
+listopad - ნოემბერი (noemberi)
+liturgiczny - ლიტურგიული
+logika - ლოგიკა
+logiko - ლოგიკა
+lojalność - ლოიალობა
+Londyn - ლონდონში
+lotos - ლოტოსი
+lotus - ლოტოსი
+lub - ანუ
+ludobójstwo - გენოციდი
+łudzikwiat - აპრილი (ap'rili)
+Luksemburg - ლუქსემბურგი
+luńt - ძაღლი (dzaghli)
+lustro - სარკე
+luty - თებერვალი (theberwali)
+łza - ცრემლი
+mać - დედა (deda)
+Maghreb - მაღრიბი
+magulanka - ჩხუბი
+malin - ჟოლო (zholo)
+malina - ჟოლო (zholo)
+mały - პატარი (p'at'ari)
+mam - დედა (deda)
+mama - დედა (deda)
+manga - მანგა (manga)
+marynarz - მეზღვაური
+masło - კარაქი (karak'i)
+maszyna do szycia - საკევრავი მანქანა (sakevravi mank'ana)
+matka - დედა (deda)
+matros - მეზღვაური
+mdłość - სისუსტე
+meczet - მეჩეთი
+medyk - ექიმი (ekimi)
+Merkury - მერკური (merkuri)
+metafizyka - მეტაფიზიკა
+metafora - მეტაფორა
+metempsychoza - მეტემფსიქოზი (metemp’sik’ozi)
+mężczyzna - კაცი (k'aci)
+Miami - მაიამი
+Michał - მიხეილი (mikheili)
+miedźwiedź - დათვი
+mięsopustnik - თებერვალი (theberwali)
+miłość - სიყვარული
+minaret - მინარეთი
+mitologia - მითოლოგია
+młyn - წისქვილი
+Mojżesz - მოსე
+Mołdawia - მოლდოვა
+Morze Bałtyckie - ბალტიის ზღვა
+Morze Śródziemne - ხმელთაშუა ზღვა
+most - ხიდი
+motyl - პეპელა
+Mount Everest - ევერესტი
+mowa - ენა (ena)
+mózg - ტვინი (t'vini)
+mrówka - ჭიანჭველა (čiančvela)
+muraszka - ჭიანჭველა (čiančvela)
+mużyk - კაცი (k'aci)
+my - ჩვენ (chven)
+mydło - საპონი (saponi)
+mykita - მელა
+nadzieja - იმედი
+narciarz - მეთხილამურე
+następnie - შემდეგ (shemdeg)
+nauka - მეცნიერება (metsniereba)
+naukowiec - მეცნიერი (metsnieri)
+nekrolog - ნეკროლოგი
+nektaryna - ვაშლატამა
+nektarynka - ვაშლატამა
+neutralność - ნეიტრალიტეტი
+ni - არა (ara) | არ (ar)
+nie - არა (ara) | არ (ar)
+niechybnie - აუცილებლად
+nieduch - ავადმყოფობა (avadmqopoba)
+niedźwiedź - დათვი
+Niemcy - გერმანია (germania)
+nie mieć - არა (ara) | არ (ar)
+niepodległość - დამოუკიდებლობის (damoukideblobis)
+nierówność - უთანასწორობა
+niewiasta - ქალი
+niezwyciężony - უძლეველი
+nihilizm - ნიჰილიზმი
+nim - ის (is)
+no - დიახ (diax) | კი (k'i) | ჰო (ho)
+noc - ღამე (ghame)
+noga - ფეხი (pekhi)
+nominacja - ნომინაცია
+nowotwór - სიმსივნური (simsivnuri)
+nowy - ახალი (akhali)
+nóż - დანა (dana)
+obelisk - ობელისკი
+obiecadło - ანბანი
+obłok - ღრუბელი
+obój - ჰობოი
+obraz - ფილმი (p’ilmi)
+obrońca - ქომაგი
+ocet - ძმარი
+ociec - მამა (mama)
+Odessa - ოდესა (odesa)
+odwet - შურისგება
+odwracalny - შექცევადი
+ogórek - კიტრი (kitri) | खीरा (kīra)
+ojciec - მამა (mama)
+ojczyc - ვაჟი
+ojla - ბუ (bu)
+okręt podwodny - წყალქვეშა ნავი
+oksymoron - ოქსიმორონი
+Olimpia - ოლიმპია
+oma - ბებია
+omieszkać - არა (ara) | არ (ar)
+on - ის (is)
+ona - ის (is)
+one - ისინი (isini)
+oni - ისინი (isini)
+ono - ის (is)
+opium - ოპიუმი
+oraz - და (da)
+orgazm - ორგაზმი
+paciuk - ვირთაგვა
+pająk - ობობა (oboba)
+pajęcznik - სექტემბერი (sekt'emberi) | ოქტომბერი (okt'omberi) | ნოემბერი (noemberi)
+Pakistan - პაკისტანი
+Panama - პანამა
+papier - ქაღალდი
+papuć - ფეხსაცმელი (pekhsatsmeli)
+park - პარკი (p'ark'i)
+pasztet strasburski - ფუა-გრა
+pątnik - მლოცვარე | პილიგრიმი
+październik - ოქტომბერი (okt'omberi)
+paździerzeń - ოქტომბერი (okt'omberi)
+pazura - ხელი (kheli)
+personifikacja - გაპიროვნება
+pęseta - პინცეტი (pinc’eti)
+peso - პესო
+piekło - ჯოჯოხეთი (jojokheti)
+pielgrzym - მლოცვარე | პილიგრიმი
+pies - ძაღლი (dzaghli)
+pięść - მუშტი
+pieśń - სიმღერა
+piłka - ბურთი
+piorun - მეხი (mekhi) | ელვა (elva)
+piosenka - სიმღერა
+pismo - ანბანი
+pizza - პიცა
+plagiator - პლაგიატორი (plagiatori)
+płyta główna - დედაპლატა
+pocestny - მოგზაური
+podejrzenie - ეჭვი
+podróżnik - მოგზაური
+poezja - პოეზია
+pogaństwo - წარმართობა
+pogoda - ამინდი (amindi)
+pojutrze - ზეგ (zeg)
+poleku - ნელა
+polon - პოლონიუმი
+Polska - პოლონეთი
+poniedziałek - ორშაბათი (oršabaṭi)
+popiersie - ბიუსტი
+pornografia - პორნოგრაფია
+portret - პორტრეტი (portreti)
+potem - შემდეგ (shemdeg)
+powietrze - ჰაერი (haeri)
+powoli - ნელა
+pozawczoraj - გუშინწინ (gushints'in)
+pożyczka - სესხი
+prawa ręka - ხელი (kheli)
+prezydent - პრეზიდენტი
+przebiśnieg - თეთრყვავილა
+przedwczoraj - გუშინწინ (gushints'in)
+przenośnia - მეტაფორა
+przesądny - ცრუმორწმუნე
+przestępca - დამნაშავე
+przydomek - მეტსახელი
+psisko - ძაღლი (dzaghli)
+raciądz - მხედარი | რაინდი
+Rajch - გერმანია (germania)
+ranek - დილა (dila)
+rano - დილა (dila)
+rasizm - რასიზმი
+rdza - ჟანგვა (zhangva)
+realizm - რეალიზმი
+ręka - ხელი (kheli)
+Republika Słowacka - სლოვაკეთის რესპუბლიკა
+rodzina - ოჯახი (ojakhi)
+ropień - აბსცესი
+rosa - ნამი
+Rosjanin - რუსი (rusi)
+Rosjanka - რუსი (rusi)
+roso - ნამი
+rouza - ვარდი (vardi)
+również - ასევე (aseve)
+róża - ვარდი (vardi)
+rozsierdzie - სიბრაზე
+rubid - რუბიდიუმი
+ruchome schody - ესკალატორი
+rugby - რაგბი
+rumianek - გვირილა
+ruten - რუთენიუმი
+rycerz - მხედარი | რაინდი
+rywal - მეტოქე | კონკურენტი
+ryż - ბრინჯი
+rzeźbiarz - მოქანდაკე
+samar - სამარიუმი
+samobójstwo - თვითმკვლელობა (tvitmk'leloba)
+samolot - თვითმფრინავი (tvitmprinavi)
+sanskrycki - სანსკრიტული
+satyra - სატირა
+schody ruchome - ესკალატორი
+seksualność - სექსუალობა
+seksuologia - სექსოლოგია
+serologia - სეროლოგია
+serwatka - შრატი
+siano - თივა
+sieczeń - თებერვალი (theberwali)
+siedzieć - ზის
+Singapur - სინგაპური
+siostra - და (da)
+skand - სკანდიუმი
+skaner - სკანერი
+słabość - სისუსტე
+śledziona - ელენთა
+słowa - სიტყვა
+Słowenia - სლოვენია (Slovenia)
+słowo - სიტყვა
+śnieg - თოვლი
+sobaka - ძაღლი (dzaghli)
+Soczi - სოჭი
+Solon - სოლონი
+sowa - ბუ (bu)
+sowa śnieżna - თეთრი ბუ
+spać - ძილი
+śpiewać - მღერა
+spowiedź - აღიარება
+stać - დგომა (dgoma)
+stal - ფოლადი
+starek - ბაბუა
+stare miasto - ძველი (dzveli)
+starka - ბებია
+starosek - ბაბუა
+staroszek - ბაბუა
+starszy - მამა (mama)
+stary - ძველი (dzveli)
+starzyk - ბაბუა
+sterczeć - დგომა (dgoma)
+stojeć - დგომა (dgoma)
+strąpacz - თებერვალი (theberwali)
+styczeń - იანვარი (ianvari)
+świnia - ღორი (ghori)
+syn - ვაჟი
+synteza - სინთეზი
+syra - ფეხი (pekhi)
+szałwia - სალბი
+szczeniak - ლეკვი
+szczenię - ლეკვი
+szczewik - ფეხსაცმელი (pekhsatsmeli)
+szczur - ვირთაგვა
+szczyt - ორგაზმი
+szkita - ფეხი (pekhi)
+Szkocja - შოტლანდია (Šot'landia)
+szkoła - სკოლა
+szlauch - გველი
+sznur - თოკი | საბელი | ბაგირი
+szpiegostwo - შპიონაჟი (špionaži)
+szpuk - მტრედი
+szwaja - ფეხი (pekhi)
+Szwecja - შვედეთი
+Szwecyjo - შვედეთი
+szwestera - და (da)
+tacik - მამა (mama) | ბაბუა
+Tadżykistan - ტაჯიკეთი
+tak - დიახ (diax) | კი (k'i) | ჰო (ho)
+także - ასევე (aseve)
+tal - თალიუმი
+Tamara - თამარი
+tango - ტანგო
+tantal - ტანტალი
+Tasmania - ტასმანია
+tata - მამა (mama)
+tato - მამა (mama)
+Tbilisi - თბილისი
+technet - ტექნეციუმი
+tej - შენ (shen) | თქვენ (tkven)
+tellur - ტელური
+temat - თემის (t’emis)
+terb - ტერბიუმი
+termit - თერმიტი | ტერმიტი
+Termopile - თერმოპილები
+terroryzm - ტერორიზმი
+też - ასევე (aseve)
+Tezeusz - თესევსი
+tlen - ჟანგბადი (zhangbadi)
+tobie - შენ (shen) | თქვენ (tkven)
+tor - თორიუმი
+Tora - თორა
+tory - თორიუმი
+Toskania - ტოსკანა
+tost - ორცხობილას
+tradycyjnie - ტრადიციულად (tradits’iulad)
+trucizna - გესლი (gesli)
+tryktrak - ნარდი
+tudzież - და (da)
+Tunezja - ტუნისი
+Turcja - თურქეთი
+ty - შენ (shen) | თქვენ (tkven)
+tylko - მხოლოდ
+tyrania - ტირანია
+ul. - ქ.
+unikalny - ერთადერთი
+uón - ის (is)
+uśmiech - ღიმილი
+wacha - წვიმა (ts'mina) | წყალი (cqali)
+waluta - ვალუტა (waluta)
+wata cukrowa - ბამბა | ბამბის ნაყინი
+wąż - გველი
+wczoraj - გუშინ (gushin)
+wdowa - ქვრივი
+wdowula - ქვრივი
+Wesołych Świąt - შობას გილოცავთ
+wiatr - ქარი (kari)
+wideo - ვიდეო
+wieczór - საღამო (saghamo)
+Wiedeń - ვენა (vena)
+wielbłąd - აქლემი
+wiele - ბევრი (bevri)
+Wielkanoc - აღდგომა (aĝdgoma)
+Wielkie Antyle - დიდი ანტილის კუნძულები
+Wikisłownik - ვიკილექსიკონი
+Wikiźródła - ვიკიწყარო
+wiktoria - გამარჯვება
+wilk - მგელი (mgeli)
+wilk w owczej skórze - მგელი ცხვრის ტყავში
+winnica - ვენახი
+wino - ღვინო (ghvino)
+winograd - ვენახი | ღვინო (ghvino)
+wiza - ვიზა
+Włoch - იტალიელი (it'alieli)
+włos - თმა
+Włoszka - იტალიელი (it'alieli)
+woda - წყალი (cqali)
+woda mineralna - მინერალური წყალი
+wróżka - ფერია
+wrzesień - სექტემბერი (sekt'emberi)
+wszyscy - ყველანი
+wszystkie - ყველანი
+wulkan - ვულკანი
+wy - თქვენ (tkven)
+wykusz - ერკერი
+wynalazca - გამომგონებელი
+wynalazek - გამოგონება
+wyraz - სიტყვა
+Wyspa Świętego Wyspy Świętego Tomasza i Wyspa Książęca - სან-ტომე და პრინსიპი
+Wyspy Kanaryjskie - კანარის კუნძულები
+żaba - ბაყაყი (baq'aq'i)
+zachód słońca - მზის ჩასვლა
+zagadka - გამოცანა
+żagiew łuskowata - ძერანა
+żal - მწუხარება (mtsukhareba)
+zamieć - ქარბუქი
+Zamość - ზამოსცი
+zapalenie płuc - პნევმონია (pnevmonia)
+zaszczytciel - ქომაგი
+Zatoka Meksykańska - მექსიკის ყურე
+zawistny - შურიანი
+zdrzadło - სარკე
+że ho ho - ბევრი (bevri)
+zelter - მინერალური წყალი
+żeńczyna - ქალი
+zeszyt - რვეული (rveuli)
+zima - ზამთარი (zamtari)
+zimno - სიცივე (sic’ive)
+zimorodek - სწრაფი
+zista - ბებია
+Zjednoczone Emiraty Arabskie - არაბეთის გაერთიანებული საამიროები
+złoto - ოქრო
+Zuzanna - შუშანიკ
+Związek Socjalistycznych Republik Radzieckich - საბჭოთა სოციალისტური რესპუბლიკების კავშირი
+zwierciadło - სარკე
+zwycięstwo - გამარჯვება

@@ -1,0 +1,443 @@
+a - a | ale
+abdikacija - abdykacja
+aerodinamički - aerodynamiczny
+aerodinamika - aerodynamika
+Afganistan - Afganistan
+afganski - afgański
+Afrika - Afryka
+agnosticizam - agnostycyzm
+agresija - agresja
+Akad - Akad
+akuzativ - biernik
+Albanija - Albania
+albanski - albański
+Aljaska - Alaska
+Alžir - Algieria
+američki - amerykański
+anarhistički - anarchistyczny
+anatomia - anatomia
+Andaluzija - Andaluzja
+android - android
+anketa - ankieta
+april - kwiecień
+Arabija - Arabia
+arapski - arabski
+Argentina - Argentyna
+arhanđel - archanioł
+arhanđeo - archanioł
+arheologija - archeologia
+arheološki - archeologiczny
+Arktički okean - Ocean Arktyczny
+armija - armia
+Atlantik - Atlantyk
+Atlantski okean - Ocean Atlantycki
+atletika - lekkoatletyka
+atomski - atomowy
+Australija - Australia
+Austrija - Austria
+austrijski - austriacki
+autizam - autyzm
+automobil - samochód
+Azerbejdžan - Azerbejdżan
+Azija - Azja
+azijski - azjatycki
+baba - babcia
+Bahrein - Bahrajn
+Balučistan - Beludżystan
+Bejrut - Bejrut
+bejzbol - baseball
+Belgija - Belgia
+Beneluks - Benelux
+Benin - Benin
+benzen - benzen
+biber - pieprz
+Biblija - Biblia
+bijelac - biały | osoba białego koloru skóry
+biografija - biografia
+biologija - biologia
+birokracija - biurokracja
+biskup - biskup
+Bivša Jugoslovenska Republika Makedonija - Była Jugosłowiańska Republika Macedonii
+Bizantija - cesarstwo bizantyńskie | Bizancjum
+Bjelorusija - Białoruś
+bjeloruski - białoruski | język białoruski
+Bliski Istok - Bliski Wschód
+bogatstvo - bogactwo
+Bolivija - Boliwia
+bosanski - bośniacki
+Bosna - Bośnia
+Bosna i Hercegovina - Bośnia i Hercegowina
+božanstvo - bóstwo | bóg
+budžet - budżet
+Bugarska - Bułgaria
+bugarski - bułgarski | język bułgarski
+carstvo - cesarstwo
+časopis - czasopismo
+češki - czeski | czeski (język)
+četrdeset - czterdzieści
+Čile - Chile
+ćirilica - cyrylica
+civilizacija - cywilizacja
+čovjek - człowiek
+Crna Gora - Czarnogóra
+crna kutija - czarna skrzynka
+crnogorski - czarnogórski
+čudo - cud
+cvrčak - świerszcz
+dan - dzień
+dan rođenja - urodziny | dzień narodzin
+davno - dawno
+decembar - grudzień
+deklinacija - deklinacja
+demokratija - demokracja
+devedeset - dziewięćdziesiąt | 90
+dijalekt - dialekt
+diktatorski - dyktatorski
+dimorfizam - dymorfizm
+djak - student | uczeń
+dobar dan - dzień dobry
+dobrodošli - witajcie | witamy
+drugi svjetski rat - druga wojna światowa
+država - państwo
+đus - sok
+duša - dusza
+Džibuti - Dżibuti
+džul - dżul
+Egipat - Egipt
+ekonomija - ekonomia
+Ekvador - Ekwador
+elektroliza - elektroliza
+elektrotehnika - elektrotechnika
+Elzas - Alzacja
+energetika - energetyka
+energija - energia
+Engleska - Anglia
+engleski - angielski | angielski (język)
+erbij - erb
+Eritreja - Erytrea
+estetika - estetyka
+Estonija - Estonia
+etika - etyka
+etimologija - etymologia
+Etiopija - Etiopia
+evanđelje - ewangelia
+evolucija - ewolucja
+Evroazija - Eurazja
+Evropa - Europa
+Evropska unija - Unia Europejska
+fašizam - faszyzm
+februar - luty
+Fenicija - Fenicja
+Filipini - Filipiny
+filologija - filologia
+filozofija - filozofia
+Finska - Finlandia
+fizika - fizyka
+fonetika - fonetyka
+Francuska - Francja
+francuski - francuski
+fudbal - futbol | piłka nożna
+fudbalski - futbolowy | piłkarski
+funkcija - funkcja
+Gargantua - Gargantua
+geografija - geografia
+geografski - geograficzny
+geometrija - geometria
+gimnastika - gimnastyka
+godina - rok
+golman - bramkarz
+Gospa - Matka Boska
+građanski rat - wojna domowa
+gramatika - gramatyka
+gravitacija - grawitacja
+grb - godło
+grčki - grecki | grecki (język)
+Grenland - Grenlandia
+Gvatemala - Gwatemala
+Harkiv - Charków
+hedonizam - hedonizm
+hemija - chemia
+Hercegovina - Hercegowina
+himna - hymn
+historija - historia
+historijski - historyczny
+Holandija - Holandia
+hrišćanstvo - chrześcijaństwo
+Hrvatska - Chorwacja
+hrvatski - chorwacki | chorwacki (język)
+i - i
+igra - gra
+igrati - grać
+imenica - rzeczownik
+Indija - Indie
+Indijski okean - Ocean Indyjski
+indoevropski - indoeuropejski
+Indonezija - Indonezja
+informacija - informacja
+infrastruktura - infrastruktura
+internetski - internetowy
+Irska - Irlandia
+istoričar - historyk
+Italija - Włochy
+italijanski - włoski
+Jamajka - Jamajka
+januar - styczeń
+je - biti
+jezero - jezioro
+jezik - język
+Jugoslavija - Jugosławia
+Južna Amerika - Ameryka Południowa
+Kairo - Kair
+kalifat - kalifat
+kaligrafija - kaligrafia
+kalorija - kaloria
+kapitalizam - kapitalizm
+karijera - kariera
+kašupski - kaszubski
+Katalonija - Katalonia
+katalonski - kataloński | kataloński (język)
+kategorija - kategoria
+Katmandu - Katmandu
+katoličanstvo - katolicyzm
+Kazahstan - Kazachstan
+kazaški - kazachski | język kazachski
+Kenija - Kenia
+Kina - Chiny
+Kirgistan - Kirgistan
+kolonoskopija - kolonoskopia
+Kolumbija - Kolumbia
+Kolumbo - Kolumb (odkrywca)
+komisija - komisja
+komunizam - komunizm
+konj - koń
+kontinent - kontynent
+košarka - koszykówka
+kosmologija - kosmologia
+Kosta Rika - Kostaryka
+krađa - kradzież
+kraljevstvo - królestwo
+krivično pravo - prawo karne
+krumpir - ziemniak
+kuća - dom
+kuharski - kucharski | kuchenny
+kukuruz - kukurydza
+Kur'an - Koran
+Kuvajt - Kuwejt
+latinski - łaciński | latyński
+leksikon - leksykon
+Libanon - Liban
+Libija - Libia
+lider - lider
+likopen - likopen
+lingvistika - lingwistyka | językoznawstwo
+ljeto - lato
+London - Londyn
+Luksemburg - Luksemburg
+lupa - lupa
+mađarski - węgierski | język węgierski
+Makedonija - Macedonia
+makedonski - macedoński
+makroekonomija - makroekonomia
+mart - marzec
+mašina - maszyna
+Mauritanija - Mauretania
+međuljudski - międzyludzki
+međunarodni - międzynarodowy
+međunarodno pravo - prawo międzynarodowe
+Meksiko - Meksyk
+melanholija - melancholia
+menadžer - menadżer
+meteorologija - meteorologia
+mikroekonomija - mikroekonomia
+Miroslav - Mirosław
+misticizam - mistycyzm
+mlad - młody
+mlijeko - mleko
+moj - mój
+Monako - Monako
+monofizitstvo - monofizytyzm
+most - most
+munja - piorun | grom | błyskawica
+mural - mural
+muzej - muzeum
+nacija - naród | nacja
+nacionalizam - nacjonalizm
+nagrada - nagroda
+Nairobi - Nairobi
+Najrobi - Nairobi
+Napulj - Neapol
+narkotik - narkotyk
+nauka - nauka
+nebo - niebo
+nedavno - ostatnio | niedawno
+nedjelja - niedziela
+neolitik - neolit
+Nepal - Nepal
+nezavisnost - niepodległość
+nihilizam - nihilizm
+Nikaragva - Nikaragua
+Njemačka - Niemcy
+njemački - niemiecki
+nogomet - futbol | piłka nożna
+Norveška - Norwegia
+novembar - listopad
+numeracija - numeracja
+odvijač - śrubokręt
+okean - ocean
+Okeanija - Oceania
+oktobar - październik
+onkologija - onkologia
+operacija - operacja
+organizacija - organizacja
+organizam - organizm
+Osaka - Osaka
+panteizam - panteizm
+Paragvaj - Paragwaj
+pare kad odlaze imaju stotinu nogu, a kad dolaze samo dvije - pieniądze | kiedy odchodzą | mają setki nóg | kiedy przychodzą | tylko dwie
+parlament - parlament
+parlamentarni - parlamentarny
+perzijski - perski
+petak - piątek
+Petar - Piotr
+piezoelektricitet - piezoelektryczność
+piksel - piksel
+pisac - pisarz
+pisati - pisać
+piti - pić
+pivo - piwo
+podmornica - okręt podwodny
+politički - polityczny
+Poljska - Polska
+poljski - polski | polski (język)
+ponedjeljak - poniedziałek
+populacija - populacja
+porcija - porcja
+Porto Riko - Portoryko
+portugalski - portugalski
+potok - potok | strumień
+Poznanj - Poznań
+prahistorija - prahistoria
+pravda - prawda
+prezentacija - prezentacja
+proljev - biegunka
+proporcija - proporcja
+prorok - prorok
+protiv - przeciw
+pustinja - pustynia
+putovati - podróżować
+rasprava - rozprawa
+rat - wojna
+razgovor - rozmowa | dyskusja
+razum - rozum
+religija - religia
+reprezentacija - reprezentacja
+rešeto - sitko | sito
+revolucija - rewolucja
+revolucionarni - rewolucyjny
+režim - reżim
+režisér - reżyser
+rezultat - rezultat | skutek | wynik
+rijeka - rzeka
+rimski - rzymski
+robotika - robotyka
+romantizam - romantyzm
+Rumunija - Rumunia
+Rusija - Rosja
+ruski - rosyjski
+ruža - róża
+samoglasnik - samogłoska
+Šangaj - Szanghaj
+Sao Tome i Principe - Wyspy Świętego Tomasza i Książęca
+Sardinija - Sardynia
+sat - zegar
+Saudijska Arabija - Arabia Saudyjska
+Savezna Republika Njemačka - Republika Federalna Niemiec | Niemcy
+šećer - cukier
+sedmica - tydzień
+semitski - semicki
+septembar - wrzesień
+simbolički - symboliczny
+simbolizam - symbolizm
+sinonim - synonim
+Sirija - Syria
+sistem - system
+škola - szkoła
+škorpija - skorpion
+slika - fotka | zdjęcie
+Slovačka - Słowacja
+slovački - słowacki
+snijeg - śnieg
+socijalistički - socjalistyczny
+socijalizam - socjalizm
+Somalija - Somalia
+sova - sowa
+Španija - Hiszpania
+španski - hiszpański
+specijalitet - specjalność
+spekulacija - spekulacja
+sperma - sperma | nasienie
+spermatozoid - spermatozoid
+sportski - sportowy
+sprat - piętro | kondygnacja
+šrafciger - śrubokręt
+Sredozemno More - Morze Śródziemne
+srpski - serbski | serbski (język)
+SSSR - Związek Socjalistycznych Republik Radzieckich | ZSRR
+star - stary
+staroengleski - staroangielski
+stoljeće - wiek | stulecie
+sud - sąd
+Suec - Suez
+Sunce - Słońce
+suverenitet - suwerenność
+Švajcarska - Szwajcaria
+Švedska - Szwecja
+švedski - szwedzki
+Švicarska - Szwajcaria
+tadžički - tadżycki | język tadżycki
+Tajland - Tajlandia
+talijanski - włoski | włoski (język)
+Tanzanija - Tanzania
+teologija - teologia
+teorija - teoria
+teritorij - terytorium
+toplota - ciepło
+Tora - Tora
+tornado - tornado
+Toskana - Toskania
+totalitarizam - totalitaryzm
+tramvaj - tramwaj
+transliteracija - transliteracja
+trener - trener
+trg - targ | plac | forum
+trideset - trzydzieści
+turizam - turystyka
+Turska - Turcja
+turski - turecki | język turecki
+u - w
+Ujedinjeni Arapski Emirati - Zjednoczone Emiraty Arabskie
+ukrajinski - ukraiński
+univerzitet - uniwersytet
+Urugvaj - Urugwaj
+uski - wąski
+utorak - wtorek
+valuta - waluta
+veličina - wielkość
+Velika Britanija - Wielka Brytania
+Veliki petak - Wielki Piątek
+Venecuela - Wenezuela
+Vezuv - Wezuwiusz
+vijek - wiek
+višnja - wiśnia
+vjera - wiara
+vlada - władza | rząd
+volan - kierownica
+vrlina - cnota (dyspozycja etyczna)
+žaba - żaba
+Zapadna Evropa - Europa Zachodnia
+zemlja - ziemia
+žena - kobieta | żona
+zlatan - złoty
+zoroastrizam - zaratusztrianizm
+zub - ząb
+zvijezda - gwiazda
