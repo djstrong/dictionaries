@@ -11,7 +11,7 @@ asistencny lěkar - lekarz asystent
 astronomija - astronomia
 awgust - sierpień
 Awstriska - Austria
-awto - auto | samochód
+awto - auto, samochód
 awtor - autor
 Azija - Azja
 Baltiske morjo - Morze Bałtyckie
@@ -27,17 +27,17 @@ Bóh - Bóg
 bohužel - niestety
 Bołharska - Bułgaria
 bomba - bomba
-bratr - brat | członek organizacji Domowina
+bratr - brat, członek organizacji Domowina
 brěza - brzoza
 brjuch - brzuch
-broda - broda | podbródek
+broda - broda, podbródek
 brodaty - brodaty
 bróń - broń
 bróna - brona
 brunica - węgiel brunatny
 brunicowy - związany z węglem brunatnym
 bruny - brązowy
-Budyšin - Budziszyn | Bautzen
+Budyšin - Budziszyn, Bautzen
 Budyski - budziszyński
 Bukarest - Bukareszt
 bur - chłop (rolnik)
@@ -49,7 +49,7 @@ byk - byk
 čapla - czapla
 časopis - czasopismo
 ćěło - ciało
-čerw - robak | czerw
+čerw - robak, czerw
 Čerwjene morjo - Morze Czerwone
 čěšćina - język czeski
 Čěska - Czechy
@@ -68,11 +68,11 @@ Chorwatska - Chorwacja
 chudoba - bieda
 chudy - biedny (ubogi)
 chwila - chwila
-Ćichi ocean - Ocean Spokojny | Pacyfik
+Ćichi ocean - Ocean Spokojny, Pacyfik
 čisło - liczba
 čisty - czysty
 čitanka - czytanka
-ćjeło - ciało | korpus
+ćjeło - ciało, korpus
 cło - cło
 čłowjek - człowiek
 cokor - cukier
@@ -95,7 +95,7 @@ dobru nóc - dobranoc
 dobry dźeń - dzień dobry
 dobry wječor - dobry wieczór
 doł - dolina
-dom - dom | katedra
+dom - dom, katedra
 dopokaz - dowód
 dóstać - dostać (uzyskać)
 dóstawać - dostawać
@@ -108,7 +108,7 @@ dym - dym
 dypk - punkt
 dźěd - dziadek
 dźeń - dzień
-dźensa - dzisiaj | dziś
+dźensa - dzisiaj, dziś
 dźiwny - dziwny
 Egyptowska - Egipt
 ekonomija - ekonomia
@@ -147,16 +147,16 @@ hłós - głos
 hłowa - głowa
 hnězdo - gniazdo
 hołb - gołąb
-honač - kogut | kurek do wody
+honač - kogut, kurek do wody
 hora - góra
 Hornja Łužica - Górne Łużyce
 hornjoserbšćina - język górnołużycki
 hornjoserbski - górnołużycki
 hósć - gość
 howjado - krowa
-howno - kał | wydalina
-hra - gra | sztuka | przedstawienie
-hrać - grać (w grę) | grać (na instrumencie) | grać (odgrywać, pełnić)
+howno - kał, wydalina
+hra - gra, sztuka, przedstawienie
+hrać - grać (w grę), grać (na instrumencie), grać (odgrywać, pełnić)
 hrajer - gracz
 hranica - granica
 hriwa - grzywa
@@ -180,7 +180,7 @@ jaternica - wątrobianka
 jatra - wątroba
 jatřob - jastrząb
 je - być
-jebać - oszukiwać | zdradzać | zamieniać | wymieniać
+jebać - oszukiwać, zdradzać, zamieniać, wymieniać
 jebak - oszust
 jebanje - oszustwo
 jebanstwo - oszustwo
@@ -190,7 +190,7 @@ jeho - jego
 jeje - jej
 jejo - jajko
 jendźelski - angielski
-jenož - jedynie | tylko | jeno
+jenož - jedynie, tylko, jeno
 Jeruzalem - Jerozolima
 jěsć - jeść
 jězor - jezioro
@@ -205,10 +205,10 @@ jutrowny - wielkanocny
 jutry - Wielkanoc
 Južna Amerika - Ameryka Południowa
 južny - południowy
-kał - kapusta | bzdura
+kał - kapusta, bzdura
 kamjeń - kamień
 kašel - kaszel
-kastilšćina - język hiszpański | kastylijski
+kastilšćina - język hiszpański, kastylijski
 kašubski - kaszubski
 kat - kat
 kawka - kawka
@@ -216,12 +216,12 @@ kisało - ocet
 kisały - kwaśny (smak)
 kłok - strzała
 kniha - książka
-knjez - pan (zwrot grzecznościowy) | pan (władca)
+knjez - pan (zwrot grzecznościowy), pan (władca)
 kóčka - kot
 kokoš - kura
 kokot - kogut
 koleno - kolano
-koleso - koło (do wozu/samochodu) | rower
+koleso - koło (do wozu/samochodu), rower
 kołodźej - kołodziej
 Kolumbiska - Kolumbia
 kompjuter - komputer
@@ -233,7 +233,7 @@ kopańca - piłka nożna (gra)
 kós - kos
 kosa - kosa
 kósć - kość
-koštować - kosztować (mieć cenę) | kosztować (próbować)
+koštować - kosztować (mieć cenę), kosztować (próbować)
 kotry - który
 kotryž - który
 koza - koza
@@ -242,7 +242,7 @@ kóždy - każdy
 kral - król
 krej - krew
 křidło - skrzydło
-kroma - rąbek | otok | skraj
+kroma - rąbek, otok, skraj
 krótki - krótki
 kruwa - krowa
 kuchar - kucharz
@@ -252,7 +252,7 @@ kuna - kuna
 kupa - wyspa
 kwět - kwiat
 łastojčka - jaskółka
-ławka - ławka | kładka (nad rzeką)
+ławka - ławka, kładka (nad rzeką)
 łažak - gad
 lěćo - lato
 lěkar - lekarz
@@ -279,15 +279,15 @@ Madźarska - Węgry
 makedonšćina - język macedoński
 Makedonska - Macedonia
 małki - maleńki
-mało - mało (kilka) | mało
+mało - mało (kilka), mało
 maltašćina - język maltański
 mały - mały
 mapa - mapa
 Mauretanija - Mauretania
 měd - miód
 měrc - marzec
-měsac - miesiąc | księżyc (na niebie)
-město - miasto | zamiast
+měsac - miesiąc, księżyc (na niebie)
+město - miasto, zamiast
 meteorologija - meteorologia
 Mexiko - Meksyk
 milinarnja - elektrownia
@@ -300,27 +300,27 @@ mjedowy - miodowy
 mjedwjedź - niedźwiedź
 mjeniny - imieniny
 mjeno - imię
-mjesyć - miesić | masować | ugnieść | zagnieść
+mjesyć - miesić, masować, ugnieść, zagnieść
 mjetel - motyl
 młody - młody
 mloko - mleko
 młyn - młyn
 modlitwa - modlitwa
 módry - niebieski (kolor)
-mój - mój | my (dwaj)
+mój - mój, my (dwaj)
 Moldawska - Mołdawia
 móst - most
 mrowja - mrówka
 mucha - mucha
 my - my
 myć - myć
-myš - mysz | mysz (komputerowa)
+myš - mysz, mysz (komputerowa)
 mytologija - mitologia
 najebać - mimo
 nalěćo - wiosna
-nalemenje - zwalisko | przełam | ruptura | złamanie | przełom | rozłam | rozbrat
+nalemenje - zwalisko, przełam, ruptura, złamanie, przełom, rozłam, rozbrat
 nan - ojciec
-narod - naród | urodzenie
+narod - naród, urodzenie
 naš - nasz
 nazyma - jesień
 Němc - Niemiec
@@ -350,7 +350,7 @@ Panchen Lama - panczenlama
 papagaj - papuga
 paproć - paproć
 parlament - parlament
-pas - pasek do spodni | pas (obszar) | pas | paszport
+pas - pasek do spodni, pas (obszar), pas, paszport
 pawk - pająk
 pcha - pchła
 pčoła - pszczoła
@@ -377,21 +377,21 @@ pólski - polski
 pomoc - pomoc
 póndźela - poniedziałek
 popjeł - popiół
-porno - wobec | porno
+porno - wobec, porno
 pornografija - pornografia
 porod - poród
 portugalšćina - język portugalski
 pos - pies
-potajkim - więc | zatem
+potajkim - więc, zatem
 powětr - powietrze
-powołać - powołować | powołać
+powołać - powołować, powołać
 powołanje - zawód (praca)
 přećel - przyjaciel
-přećiwo - przeciwko | przeciw
+přećiwo - przeciwko, przeciw
 předsyda - przewodniczący
 přidatny - dodatkowy
 přikład - przykład
-přiroda - przyroda | natura
+přiroda - przyroda, natura
 přirodny - przyrodni
 přistup - dostęp
 protestować - protestować
@@ -411,7 +411,7 @@ rěka - rzeka
 renta - emerytura (pieniądze)
 rezerwować - rezerwować
 rola - rola
-róla - rola (funkcja) | rola (w teatrze)
+róla - rola (funkcja), rola (w teatrze)
 row - grób
 róža - róża
 rozdźěl - różnica
@@ -426,21 +426,21 @@ sabotować - sabotować
 šach - szachy
 sad - owoce (rzeczownik zbiorowy)
 Sakska - Saksonia
-samodruha - ciężarna | kobieta w ciąży | samodruhi
-samodruhi - ciężarny | w ciąży
+samodruha - ciężarna, kobieta w ciąży, samodruhi
+samodruhi - ciężarny, w ciąży
 sćěna - ściana
 šćura - szczur
 sedmy - siódmy
 sekera - siekiera
 september - wrzesień
 Serbiska - Serbia
-serbiski - serbski | związany z Serbią
+serbiski - serbski, związany z Serbią
 serbski - łużycki
 šesty - szósty
 Sewjerna Amerika - Ameryka Północna
 sewjerny - północny
 šija - szyja
-skiba - kromka | kawałek (ciasta)
+skiba - kromka, kawałek (ciasta)
 šlink - ślimak
 słódki - słodki
 słon - słoń
@@ -451,7 +451,7 @@ Słowakska - Słowacja
 słownik - słownik
 słowo - słowo
 sněh - śnieg
-so - się (tworzenie strony zwrotnej czasownika) | się (forma bezosobowa)
+so - się (tworzenie strony zwrotnej czasownika), się (forma bezosobowa)
 sobota - sobota
 sociologija - socjologia
 sokoł - sokół
@@ -462,25 +462,25 @@ sowa - sowa
 Španiska - Hiszpania
 španiski - hiszpański
 srjeda - środa
-srjedźišćo - centrum | ośrodek
+srjedźišćo - centrum, ośrodek
 srjedźna šula - szkoła średnia
-srjedźny - średni | środkowy
+srjedźny - średni, środkowy
 srjedźowěk - średniowiecze
 sroka - sroka
 stadion - stadion
 stary - stary
 stat - państwo
-sto - sto | 100
+sto - sto, 100
 što - co
 stolica - stolica
 štom - drzewo
 štož - co (przy rozwijaniu zdań podrzędnych, nie pytaniu)
-strona - partia (polityczna) | strona (w książce) | strona (internetowa)
+strona - partia (polityczna), strona (w książce), strona (internetowa)
 strowy - zdrowy
 student - student
 studnja - studnia
 štwórtk - czwartek
-sud - sąd | beczka
+sud - sąd, beczka
 šula - szkoła
 susod - sąsiad
 Šwedska - Szwecja
@@ -513,9 +513,9 @@ twarski - budowlany
 twjerdźenje - twierdzenie (opinia)
 twój - twój
 tydźeń - tydzień
-tykać - mówić na „ty” | „tykać”
+tykać - mówić na „ty”, „tykać”
 ukrainšćina - ukraiński
-waka - robak | robal
+waka - robak, robal
 Waršawa - Warszawa
 wažen - szanowny
 wažny - ważny
@@ -525,7 +525,7 @@ wětr - wiatr
 wětřik - wiatr
 widły - widły
 widźeć - widzieć
-wiki - rynek (miejsce) | targ (wydarzenie) | targi
+wiki - rynek (miejsce), targ (wydarzenie), targi
 Wikipedija - Wikipedia
 wino - wino
 wišnja - wiśnia (owoc)
@@ -543,17 +543,17 @@ woda - woda
 woheń - ogień
 wój - wy (dwaj)
 wójna - wojna
-wojowař - wojownik | bojownik
+wojowař - wojownik, bojownik
 wokno - okno
-woko - oko | oko tłuszczu | oczko (na kości do gry)
-wokoło - wokół | około
+woko - oko, oko tłuszczu, oczko (na kości do gry)
+wokoło - wokół, około
 wołma - wełna
 wołoj - ołów
 wón - on
 worjoł - orzeł
 wosoba - osoba
-wot - od (od czasu) | od (przy porównaniu)
-wótc - przodek | ojciec
+wot - od (od czasu), od (przy porównaniu)
+wótc - przodek, ojciec
 wrobl - wróbel
 wroblik - wróbel
 wróna - wrona
@@ -569,7 +569,7 @@ wurjekowanje - wymowa
 wutora - wtorek
 wutroba - serce
 wuž - wąż
-wužitny - użyteczny | przydatny
+wužitny - użyteczny, przydatny
 wužiwać - używać
 wysoki - wysoki
 žaba - żaba
@@ -588,10 +588,10 @@ zeleny - zielony
 žiwjenje - życie
 zjawny list - list otwarty
 złoto - złoto
-złoty - złoty (ze złota) | złoty (polska waluta) | złota moneta
+złoty - złoty (ze złota), złoty (polska waluta), złota moneta
 zły - zły (związany ze złem)
 zo - że
 žołty - żółty
-žona - żona | kobieta
+žona - żona, kobieta
 zwěrjo - zwierzę
 zyma - zima

@@ -7,12 +7,12 @@
 альгебра - algebra
 альгебраічны - algebraiczny
 альфабэт - alfabet
-алюмін - aluminium | glin
+алюмін - aluminium, glin
 Аляксандар - Aleksander (imię męskie)
 ампэр - amper
 Амэрыка - Ameryka
-амэрыканец - Amerykanin (mieszkaniec USA) | Amerykanin (mieszkaniec kontynentu amerykańskiego)
-амэрыканка - Amerykanka (mieszkanka lub obywatelka USA) | Amerykanka (mieszkanka kontynentu amerykańskiego)
+амэрыканец - Amerykanin (mieszkaniec USA), Amerykanin (mieszkaniec kontynentu amerykańskiego)
+амэрыканка - Amerykanka (mieszkanka lub obywatelka USA), Amerykanka (mieszkanka kontynentu amerykańskiego)
 амэрыканскі - amerykański
 амэрыц - ameryk
 аналёгія - analogia
@@ -27,7 +27,7 @@
 антысэмітка - antysemitka
 антысэмітызм - antysemityzm
 антысэміцкі - antysemicki
-антысэптык - antyseptyk | środek antyseptyczny
+антысэптык - antyseptyk, środek antyseptyczny
 антысэптыка - antyseptyka
 антысэптычны - antyseptyczny
 апазыцыя - opozycja
@@ -42,7 +42,7 @@
 астралёгія - astrologia
 астралягічны - astrologiczny
 Атлянтычны акіян - Ocean Atlantycki
-атмасфэра - atmosfera | atmosfera (jednostka miary ciśnienia)
+атмасфэра - atmosfera, atmosfera (jednostka miary ciśnienia)
 атмасфэрны - atmosferyczny
 Аўстрыя - Austria
 аўтабіяграфія - autobiografia
@@ -53,7 +53,7 @@
 беларускі - białoruski
 Беларусь - Białoruś
 бізнэс - biznes
-бізнэс-вумэн - businesswoman | bizneswoman | biznesmenka
+бізнэс-вумэн - businesswoman, bizneswoman, biznesmenka
 бізнэс-кляс - klasa biznes
 бізнэсмэн - biznesmen
 бізнэсовы - biznesowy
@@ -97,7 +97,7 @@
 вэнэсуэлька - Wenezuelka
 вэнэсуэльскі - wenezuelski
 Вэнэцыя - Wenecja
-Вэста - Westa (bogini ogniska domowego) | Westa (planetoida)
+Вэста - Westa (bogini ogniska domowego), Westa (planetoida)
 гадалін - gadolin
 галь - gal
 гартаваць - hartować
@@ -105,7 +105,7 @@
 гафн - hafn
 геалёгія - geologia
 геалягічны - geologiczny
-геамэтрычны - geometryczny | geometryczny (składający się z linii i figur geometrycznych)
+геамэтрычны - geometryczny, geometryczny (składający się z linii i figur geometrycznych)
 геамэтрыя - geometria
 гель - hel
 генэтыка - genetyka
@@ -116,7 +116,7 @@
 герпэталёгія - herpetologia
 Гібральтарскі праліў - Cieśnina Gibraltarska
 гінэкалёгія - ginekologia
-гіпэртанія - hipertensja | nadciśnienie
+гіпэртанія - hipertensja, nadciśnienie
 гісторыя - historia
 глябалізацыя - globalizacja
 год - rok
@@ -125,14 +125,14 @@
 гомасэксуаліст - homoseksualista
 гомасэксуальнасьць - homoseksualność
 гомасэксуальны - homoseksualny
-грэгарыянскі - gregoriański (odnoszący się do papieża Grzegorza XIII) | gregoriański (odnoszący się do papieża Grzegorza I)
+грэгарыянскі - gregoriański (odnoszący się do papieża Grzegorza XIII), gregoriański (odnoszący się do papieża Grzegorza I)
 Грэнляндыя - Grenlandia
 гуляць - grać (w grę)
 гэрц - herc
 даляр - dolar
 Данія - Dania
 дармштат - darmsztadt
-дзясяты - dziesiąty | 10.
+дзясяты - dziesiąty, 10.
 другая сусьветная вайна - druga wojna światowa
 дубн - dubn
 дыплямат - dyplomata
@@ -141,9 +141,9 @@
 дыспроз - dysproz
 дэмэнцыя - demencja
 жнівень - sierpień
-жыцьцяпіс - życiorys | biografia
+жыцьцяпіс - życiorys, biografia
 заалёгія - zoologia
-заалягічны - zoologiczny | radykalny | fanatyczny
+заалягічны - zoologiczny, radykalny, fanatyczny
 заалягічны парк - ogród zoologiczny
 залева - ulewa
 затрымаць - zatrzymać
@@ -169,7 +169,7 @@
 кадм - kadm
 калёнізатар - kolonizator
 калёнізацыя - kolonizacja
-калёнія - kolonia | kolonia (jednostka osadnicza) | kolonia (forma wypoczynku letniego dzieci)
+калёнія - kolonia, kolonia (jednostka osadnicza), kolonia (forma wypoczynku letniego dzieci)
 калёрыя - kaloria
 каліфорн - kaliforn
 каль - potas
@@ -185,7 +185,7 @@
 кантынэнт - kontynent
 кантынэнтальны - kontynentalny
 канфэдэрацыя - konfederacja
-канфэсія - konfesja | wyznanie
+канфэсія - konfesja, wyznanie
 капэрніц - kopernik
 кастрычнік - październik
 Касьцюшка - Kościuszko (nazwisko polskie i białoruskie)
@@ -223,11 +223,11 @@
 лістапад - listopad
 літ - lit
 Ліхтэнштайн - Liechtenstein
-Люксэмбург - Luksemburg (państwo) | Luksemburg (miasto)
+Люксэмбург - Luksemburg (państwo), Luksemburg (miasto)
 люмэн - lumen
-люты - luty | mroźny | ostry | bezlitosny
+люты - luty, mroźny, ostry, bezlitosny
 лютэц - lutet
-лягічны - logiczny (odnoszący się do logiki) | logiczny (zgodny z logiką)
+лягічны - logiczny (odnoszący się do logiki), logiczny (zgodny z logiką)
 лянтан - lantan
 магн - magnez
 магнэз - magnez
@@ -248,14 +248,14 @@
 міталёгія - mitologia
 міталягічны - mitologiczny
 множаньне - mnożenie
-мова - język | mowa
+мова - język, mowa
 музэй - muzeum
 мысьленьне - myślenie
 мэдыцына - medycyna
 мэксіканскі - meksykański
 Мэксыка - Meksyk
 Мэсапатамія - Mezopotamia
-мэтал - metal | metal (gatunek muzyki rockowej)
+мэтал - metal, metal (gatunek muzyki rockowej)
 мэталюрг - metalurg
 мэталюргічны - metalurgiczny
 мэталюргія - metalurgia
@@ -266,7 +266,7 @@
 мяжа - granica
 натар - sód
 недатыкальнасьць - nietykalność
-незалежнасьць - niezależność | niepodległość
+незалежнасьць - niezależność, niepodległość
 ніоб - niob
 Новая Зэляндыя - Nowa Zelandia
 норма - norma
@@ -297,14 +297,14 @@
 плятынавы мэтал - platynowiec
 пнэўмалёгія - pneumonologia
 правансальскай - język prowansalski
-правесьці - przeprowadzić | spędzić | poprowadzić | wyznaczyć | wykonać | odprowadzić | pogładzić | przesunąć
+правесьці - przeprowadzić, spędzić, poprowadzić, wyznaczyć, wykonać, odprowadzić, pogładzić, przesunąć
 праект - projekt
 празэадым - prazeodym
 прамысловасьць - przemysł
 прамэт - promet
 пратактын - protaktyn
 прафэсар - profesor
-прэзыдэнт - prezydent | prezes
+прэзыдэнт - prezydent, prezes
 псыхалёгія - psychologia
 псыхалягічны - psychologiczny
 псыхапат - psychopata
@@ -326,8 +326,8 @@
 публіцыст - publicysta
 пульманалёгія - pulmonologia
 пульманоляг - pulmonolog
-пустэльнік - pustelnik | samotnik
-пустэльня - pustynia | pustelnia | samotnia
+пустэльнік - pustelnik, samotnik
+пустэльня - pustynia, pustelnia, samotnia
 пэніцылін - penicylina
 Пэрсыдзкая затока - Zatoka Perska
 рад - rad
@@ -345,7 +345,7 @@
 роўнасьць - równość
 рубід - rubid
 рутэн - ruten
-Рыбы - Ryby | ♓
+Рыбы - Ryby, ♓
 Рым - Rzym
 рэзэрфорд - rutherford
 рэн - ren
@@ -375,8 +375,8 @@
 сымэнс - simens
 сынтэз - synteza
 сынтэзатар - syntezator
-сынтэтычны - syntetyczny | sztuczny
-сыстэма - system | układ
+сынтэтычны - syntetyczny, sztuczny
+сыстэма - system, układ
 сьветапогляд - światopogląd
 сьветлавы год - rok świetlny
 сьнежань - grudzień
@@ -397,7 +397,7 @@
 сэрбка - Serbka
 табліца - tablica
 таль - tal
-тарашкевіца - taraszkiewica | białoruski taraszkiewica
+тарашкевіца - taraszkiewica, białoruski taraszkiewica
 тарпэда - torpeda
 творчасьць - twórczość
 тор - tor
@@ -410,7 +410,7 @@
 тэалягічны - teologiczny
 тэлюр - tellur
 тэмпэратура - temperatura
-тэорыя імавернасьцяў - teoria prawdopodobieństwa | rachunek prawdopodobieństwa
+тэорыя імавернасьцяў - teoria prawdopodobieństwa, rachunek prawdopodobieństwa
 тэрб - terb
 тэрміналёгія - terminologia
 тэрміналягічны - terminologiczny
@@ -421,9 +421,9 @@
 унунпэнт - ununpentium
 унунсэпт - ununseptium
 унунтар - ununtrium
-ў - w | po | do
+ў - w, po, do
 ўдзячнасьць - wdzięczność
-фартэцыя - forteca | twierdza
+фартэцыя - forteca, twierdza
 ф’ёрд - fiord
 фізыялёгія - fizjologia
 фізыялягічны - fizjologiczny
@@ -438,8 +438,8 @@
 фразэалягічны - frazeologiczny
 франц - frans
 Францыя - Francja
-фэдэратыўны - federacyjny | federalny | zjednoczony | sfederowany
-фэдэрацыя - federacja (państwo federalne) | federacja (związek)
+фэдэратыўны - federacyjny, federalny, zjednoczony, sfederowany
+фэдэрацыя - federacja (państwo federalne), federacja (związek)
 фэмінізацыя - feminizacja
 фэмінізм - feminizm
 фэмініст - feminista
@@ -484,7 +484,7 @@
 этналягічны - etnologiczny
 Этыёпія - Etiopia
 этыёпскі - etiopski
-этымалёгія - etymologia | źródłosłów
+этымалёгія - etymologia, źródłosłów
 этымалягічны - etymologiczny
 этыялёгія - etiologia
 Эўразія - Eurazja
@@ -498,7 +498,7 @@
 эўраскептычны - eurosceptyczny
 эўроп - europ
 Эўропа - Europa
-эфэкт - efekt | wrażenie
-эфэктыўнасьць - efektywność | skuteczność | wydajność
-эфэктыўны - efektywny | skuteczny | wydajny
+эфэкт - efekt, wrażenie
+эфэктыўнасьць - efektywność, skuteczność, wydajność
+эфэктыўны - efektywny, skuteczny, wydajny
 Японія - Japonia

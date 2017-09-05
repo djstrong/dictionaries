@@ -1,41 +1,41 @@
 kozak - Kozak
-а - a | ale
+а - a, ale
 Аахен - Akwizgran
-абажур - abażur | żyrandol | klosz
+абажур - abażur, żyrandol, klosz
 абажурний - abażurowy
 абажурчик - abażurek
 абазія - abazja
-абак - abakus | liczydło
+абак - abakus, liczydło
 Абакум - ukraińskie imię męskie
 абандон - porzucenie
 абат - opat
-абатство - klasztor | monastyr
+абатство - klasztor, monastyr
 абдукція - abdukcja
 аберація - aberracja
-абетка - abecadło | alfabet
-абзац - akapit | paragraf | ustęp
-аби - aby | żeby
-абихто - ktokolwiek | obojętnie kto
-абищиця - głupstwo | drobnostka | błahostka
-абищо - cokolwiek | co bądź | co popadnie
+абетка - abecadło, alfabet
+абзац - akapit, paragraf, ustęp
+аби - aby, żeby
+абихто - ktokolwiek, obojętnie kto
+абищиця - głupstwo, drobnostka, błahostka
+абищо - cokolwiek, co bądź, co popadnie
 абиякий - jakikolwiek
 абіогенез - abiogeneza
 Абісинія - Abisynia
 абіссінський - abisyński
 абітурієнт - abiturient
 абітурієнтка - abiturientka
-або - lub | albo | czyli
+або - lub, albo, czyli
 або-або - albo-albo
 або-вже - już
 аболіціонізм - abolicjonizm
 аболіціоніст - abolicjonista
 аболіція - abolicja
 абонемент - abonament
-абонент - abonent | prenumerator | subskrybent
+абонент - abonent, prenumerator, subskrybent
 абориген - aborygen
 аборигенка - aborygenka
 аборигенний - aborygeński
-аборт - aborcja | poronienie
+аборт - aborcja, poronienie
 абракадабра - abrakadabra
 Абрам - Abram
 абревіатура - skrót
@@ -45,26 +45,26 @@ kozak - Kozak
 аброгація - abrogacja
 абсолют - absolut
 абсолютистка - absolutystka
-абсолютна більшість - większość absolutna | większość bezwzględna
+абсолютна більшість - większość absolutna, większość bezwzględna
 абсолютна істина - prawda absolutna
-абсолютний - absolutny | bezwzględny
+абсолютний - absolutny, bezwzględny
 абсолютний нуль - zero absolutne
 абсолютний слух - słuch absolutny
 абсолютність - absolutność
 абсолютно - absolutnie
 абсорбент - absorbent
 абсорбер - absorber
-абсорбувати - absorbować | pochłaniać
+абсорбувати - absorbować, pochłaniać
 абсорбція - absorpcja
 абстракт - abstrakt
 абстрактний - abstrakcyjny
 абстрактність - abstrakcyjność
 абстракціонізм - abstrakcjonizm
 абстракція - abstrakcja
-абсурд - absurd | bujda | głupota | głupstwo
+абсурд - absurd, bujda, głupota, głupstwo
 абсурдний - absurdalny
-абсцес - absces | ropień
-Абу-Дабі - Abu Zabi | Abu Dhabi | Abu Dabi
+абсцес - absces, ropień
+Абу-Дабі - Abu Zabi, Abu Dhabi, Abu Dabi
 абхаз - Abchaz
 Абхазія - Abchazja
 абхазка - Abchazka
@@ -74,37 +74,37 @@ kozak - Kozak
 авангардизм - awangardyzm
 авангардистський - awangardowy
 авангардний - awangardowy
-аванпост - wysunięta placówka | posterunek wysunięty | awanpost
-аванс - awans | kredyt | zadatek | zaliczka
+аванпост - wysunięta placówka, posterunek wysunięty, awanpost
+аванс - awans, kredyt, zadatek, zaliczka
 авансцена - proscenium
-авантюра - przypadek | przygoda | wypadek
+авантюра - przypadek, przygoda, wypadek
 авантюрист - awanturnik
-авантюристичний - ryzykowny | przygodny
+авантюристичний - ryzykowny, przygodny
 авантюрний - awanturniczy
 аварійний - awaryjny
 аварійність - awaryjność
-аварія - awaria | usterka | uszkodzenie | wypadek
+аварія - awaria, usterka, uszkodzenie, wypadek
 Август - August
 Августа - Augusta
 Августин - Augustyn
-авдит - audyt | аудит
-авеню - aleja | prospekt
+авдит - audyt, аудит
+авеню - aleja, prospekt
 авжеж - oczywiście
 авіабаза - baza lotnicza
 авіакатастрофа - katastrofa lotnicza
 авіаконструктор - projektant/konstruktor samolotów
-авіалінія - linia lotnicza | linie lotnicze (przedsiębiorstwo)
-авіаносець - lotniskowiec | baza pływająca dla hydroplanów
-авіатор - awiator | lotnik
+авіалінія - linia lotnicza, linie lotnicze (przedsiębiorstwo)
+авіаносець - lotniskowiec, baza pływająca dla hydroplanów
+авіатор - awiator, lotnik
 авіатранспорт - transport lotniczy
-авіаційний - lotniczy | samolotowy
-авіація - awiacja | lotnictwo
+авіаційний - lotniczy, samolotowy
+авіація - awiacja, lotnictwo
 авізо - awizo
-авіста - awista | a vista
+авіста - awista, a vista
 авокадо - awokado
 авран - konitrut
 Аврелія - Aurelia
-Аврора - Aurora | Aurora (imię)
+Аврора - Aurora, Aurora (imię)
 австралієць - Australijczyk
 австралійка - Australijka
 австралійський - australijski
@@ -121,11 +121,11 @@ kozak - Kozak
 автобусний - autobusowy
 автограф - autograf
 автозаправна станція - stacja benzynowa
-автокар - autokar | autobus turystyczny
+автокар - autokar, autobus turystyczny
 автокаталіз - autokataliza
 автоклав - autoklaw
-автократичний - dyktatorski | autokratyczny
-автомат - automat | robot
+автократичний - dyktatorski, autokratyczny
+автомат - automat, robot
 автоматизація - automatyzacja
 автоматизм - automatyzm
 автоматизувати - automatyzować
@@ -138,11 +138,11 @@ kozak - Kozak
 автономний - autonomiczny
 автономність - autonomiczność
 автопортрет - autoportret
-автор - autor | pisarz | inicjator | twórca | wynalazca | sprawca | winowajca
+автор - autor, pisarz, inicjator, twórca, wynalazca, sprawca, winowajca
 авторадіограма - autoradiogram
 авторитарний - autorytarny
-авторитет - autorytet | władza | wpływ
-авторитетний - autorytatywny | pewny | sądowy
+авторитет - autorytet, władza, wpływ
+авторитетний - autorytatywny, pewny, sądowy
 авторка - autorka
 авторство - autorstwo
 автострада - autostrada
@@ -150,7 +150,7 @@ kozak - Kozak
 агат - agat
 Агата - Agata
 агатовий - agatowy
-агент - agent | przedstawiciel | pośrednik
+агент - agent, przedstawiciel, pośrednik
 агентство - agencja
 агентський - pośredniczący
 агентура - agentura
@@ -160,17 +160,17 @@ kozak - Kozak
 агітаційний - agitacyjny
 агітація - agitacja
 агітувати - agitować
-агломерація - aglomeracja aglomeratu | skupisko mikroorganizmów | aglomeracja miast i osiedli
+агломерація - aglomeracja aglomeratu, skupisko mikroorganizmów, aglomeracja miast i osiedli
 Агнеса - Agnieszka
 агностик - agnostyk
 агностицизм - agnostycyzm
 агностичний - agnostyczny
-агонія - agonia | męczarnia | męka
+агонія - agonia, męczarnia, męka
 агорафобія - agorafobia
 аграрний - agrarny
 агрегат - agregat
-агресивний - agresywny | napastliwy | energiczny | natarczywy
-агресія - agresja | napad | napaść
+агресивний - agresywny, napastliwy, energiczny, natarczywy
+агресія - agresja, napad, napaść
 агресор - agresor
 Агрипина - Agrypina
 агробіологічний - agrobiologiczny
@@ -186,22 +186,22 @@ kozak - Kozak
 Адам - Adam
 адамів - adamowy
 адамове яблуко - jabłko Adama
-адаптація - adaptacja | przystosowanie
+адаптація - adaptacja, przystosowanie
 адаптер - adapter
 адаптуйтеся - dostosowywać się
-адвокат - adwokat | obrońca
-адвокатство - bycie adwokatem | adwokatowanie | adwokatura | adwokactwo
+адвокат - adwokat, obrońca
+адвокатство - bycie adwokatem, adwokatowanie, adwokatura, adwokactwo
 адвокатура - adwokatura
 Аддис-Абеба - Addis Abeba
-адекватний - adekwatny | odpowiedni
-адекватність - odpowiedniość | adekwatność | zgodność
-Аделаїда - Adelajda | imię Adelajda
+адекватний - adekwatny, odpowiedni
+адекватність - odpowiedniość, adekwatność, zgodność
+Аделаїда - Adelajda, imię Adelajda
 адепт - zwolennik
 адипоцит - adipocyt
 адіябата - adiabata
-адміністратор - administrator | zarządca
+адміністратор - administrator, zarządca
 адміністраторський - administratorski
-адміністрація - administracja | ministerstwo | zarząd
+адміністрація - administracja, ministerstwo, zarząd
 адміністрування - administrowanie
 адмірал - admirał
 адміральський - admiralski
@@ -230,14 +230,14 @@ kozak - Kozak
 аерометр - aerometr
 аероплан - samolot
 аеропорт - lotnisko
-аеростат - aerostat | balon
+аеростат - aerostat, balon
 аж - aż
 ажіо - ażio
 ажіотаж - ażiotaż
 ажур - ażur
 ажурний - ażurowy
 азалія - azalia
-азарт - hazard | ferwor
+азарт - hazard, ferwor
 азбест - azbest
 азбестовий - azbestowy
 азбука - abecadło
@@ -287,7 +287,7 @@ kozak - Kozak
 акомпанемент - akompaniament
 акомпаніатор - akompaniator
 акомпаніаторка - akompaniatorka
-аконіт - akonit | tojad
+аконіт - akonit, tojad
 акорд - akord
 акордеон - akordeon
 акордеоніст - akordeonista
@@ -295,7 +295,7 @@ kozak - Kozak
 акордний - zgodny
 акордовий - akordowy
 акр - akr
-акредитувати - akredytować | upełnomocniać | upoważniać
+акредитувати - akredytować, upełnomocniać, upoważniać
 акрил - akryl
 акробат - akrobata
 акробатика - akrobatyka
@@ -305,16 +305,16 @@ kozak - Kozak
 аксіоматика - aksjomatyka
 аксіоматичний - aksjomatyczny
 аксон - akson
-акт - akt | czyn | działanie | dokument | protokół | ara
+акт - akt, czyn, działanie, dokument, protokół, ara
 актив - aktyw
 активація - aktywacja
 активізація - aktywizacja
 активіст - aktywista
 активістка - aktywistka
-активний - aktywny | czynny
-активність - aktywność | działalność
+активний - aktywny, czynny
+активність - aktywność, działalność
 активно - aktywnie
-активувати - aktywować | uaktywnić
+активувати - aktywować, uaktywnić
 актиній - aktyn
 актовий - aktowy
 актор - aktor
@@ -322,35 +322,35 @@ kozak - Kozak
 актуалізація - aktualizacja
 актуальний - aktualny
 актуальність - aktualność
-акула - rekin | wielki spryciarz | cwaniak
+акула - rekin, wielki spryciarz, cwaniak
 акумулювати - akumulować
 акумулюватися - akumulować się
 акумулятор - akumulator
 акумуляція - akumulacja
 акупунктура - akupunktura
-акурат - akurat | dokładnie
-акуратний - dokładny | precyzyjny | szczegółowy | ułożony | porządny | staranny
-акуратність - precyzja | ścisłość | dokładność
+акурат - akurat, dokładnie
+акуратний - dokładny, precyzyjny, szczegółowy, ułożony, porządny, staranny
+акуратність - precyzja, ścisłość, dokładność
 акуратно - ostrożnie
 акустика - akustyka
 акустичний - akustyczny
-акушер - położnik | akuszer
-акушерка - akuszerka | położna
-акушерство - położnictwo | akuszerstwo
-акушерський - położniczy | akuszerski
-акцент - akcent | nacisk
-акцентувати - akcentować | podkreślać | uwydatniać
+акушер - położnik, akuszer
+акушерка - akuszerka, położna
+акушерство - położnictwo, akuszerstwo
+акушерський - położniczy, akuszerski
+акцент - akcent, nacisk
+акцентувати - akcentować, podkreślać, uwydatniać
 акцептант - akceptant
-акцептний - przyjęty | zaakceptowany
+акцептний - przyjęty, zaakceptowany
 акцептор - akceptor
-акцептування - akceptacja | przyjęcie | akceptowanie
-акцептувати - przyjmować | akceptować
+акцептування - akceptacja, przyjęcie, akceptowanie
+акцептувати - przyjmować, akceptować
 акциз - akcyza
 акцизний - akcyzowy
 акціонер - akcjonariusz
 акціонерне товариство - spółka akcyjna
 акціонерний - udziałowy
-акція - akcja | czyn | uczynek
+акція - akcja, czyn, uczynek
 Алабама - Alabama
 албанець - Albańczyk
 Албанія - Albania
@@ -362,7 +362,7 @@ kozak - Kozak
 алгоритм - algorytm
 алгоритмізація - algorytmizacja
 алгоритмічний - algorytmiczny
-але - ale | lecz
+але - ale, lecz
 алебарда - halabarda
 алебардний - halabardowy
 алебастр - alabaster
@@ -373,15 +373,15 @@ kozak - Kozak
 алексія - aleksja
 алерген - alergen
 алергічний - alergiczny
-алергія - alergia | uczulenie
+алергія - alergia, uczulenie
 алерголог - alergolog
 алергологічний - alergologiczny
 алергологія - alergologia
 алея - aleja
-Алжир - Algieria | Algier – stolica Algierii
+Алжир - Algieria, Algier – stolica Algierii
 алжирський - algierski
-алжірець - Algierczyk | algierczyk
-алжірка - Algierka | algierka
+алжірець - Algierczyk, algierczyk
+алжірка - Algierka, algierka
 алібі - alibi
 алігатор - aligator
 алігаторова груша - awokado
@@ -393,7 +393,7 @@ kozak - Kozak
 алкоголізм - alkoholizm
 алкоголь - alkohol
 алкогольний - alkoholowy
-алло - cześć | halo
+алло - cześć, halo
 алмаз - diament
 алмазик - diamencik
 алмазний - diamentowy
@@ -402,7 +402,7 @@ kozak - Kozak
 алонж - alonż
 Алтай - Ałtaj
 алтайський - ałtajski
-алфавіт - alfabet | abecadło
+алфавіт - alfabet, abecadło
 алфавітний - alfabetyczny
 алхімік - alchemik
 алхімія - alchemia
@@ -413,7 +413,7 @@ kozak - Kozak
 альбінос - albinos
 альбом - album
 альв - elf
-альков - alkowa | nisza
+альков - alkowa, nisza
 альманах - almanach
 альманаховий - almanachowy
 Альпи - Alpy
@@ -422,9 +422,9 @@ kozak - Kozak
 альпініст - alpinista
 альпіністка - alpinistka
 альпіністський - alpinistyczny
-альт - alt | altówka
+альт - alt, altówka
 альтанка - altana
-альтернатива - wybór | alternatywa
+альтернатива - wybór, alternatywa
 альтернативний - alternatywny
 альтовий - altowy
 альтруїзм - altruizm
@@ -432,25 +432,25 @@ kozak - Kozak
 альфа - alfa
 Альфонс - Alfons
 Альфред - Alfred
-альянс - sojusz | zrzeszenie
+альянс - sojusz, zrzeszenie
 алюмінієвий - aluminiowy
-алюміній - glin | aluminium
+алюміній - glin, aluminium
 Аляска - Alaska
 амазоніт - amazonit
 Амазонія - Amazonia
 Амазонка - Amazonka
-амальгама - amalgamat | mieszanina | mieszanka
+амальгама - amalgamat, mieszanina, mieszanka
 амарант - amarant
 амариліс - amarylis
 амарилісовий - amarylisowy
-аматор - adorator | amator | wielbiciel | zwolennik
+аматор - adorator, amator, wielbiciel, zwolennik
 аматорство - amatorstwo
 аматорський - amatorski
 амбасада - ambasada
 амбасадор - ambasador
 амбівалентний - ambiwalentny
 амбіційний - ambitny
-амбіція - ambicja | cel
+амбіція - ambicja, cel
 амбра - ambra
 амбразура - ambrazura
 амбровий - ambrowy
@@ -479,10 +479,10 @@ kozak - Kozak
 амнезія - amnezja
 амністія - amnestia
 амоніак - amoniak
-аморальний - amoralny | niemoralny
-аморальність - amoralność | niemoralność
+аморальний - amoralny, niemoralny
+аморальність - amoralność, niemoralność
 амортизація - amortyzacja
-аморфний - amorficzny | bezkształtny
+аморфний - amorficzny, bezkształtny
 Амос - Amos
 ампер - amper
 амплітуда - amplituda
@@ -492,9 +492,9 @@ kozak - Kozak
 ампутація - amputacja
 Амстердам - Amsterdam
 амстердамський - amsterdamski
-амулет - amulet | maskotka
+амулет - amulet, maskotka
 Амур - Amur
-амфібія - amfibia | płaz
+амфібія - amfibia, płaz
 амфітеатр - amfiteatr
 амфора - amfora
 анаболізм - anabolizm
@@ -506,7 +506,7 @@ kozak - Kozak
 аналогійний - analogiczny
 аналогічний - analogiczny
 аналогічно - analogicznie
-аналогія - analogia | podobieństwo
+аналогія - analogia, podobieństwo
 аналоговий - analogowy
 анальний - analny
 анаморфоз - anamorfoza
@@ -523,17 +523,17 @@ kozak - Kozak
 анатом - anatom
 анатомічний - anatomiczny
 анатомія - anatomia
-анафема - przekleństwo | anatema
+анафема - przekleństwo, anatema
 анафора - anafora
 анахронізм - anachronizm
 анахронічний - anachroniczny
 ангажувати - angażować
-ангар - garaż | hangar | magazyn | skład | składnica | zajezdnia
+ангар - garaż, hangar, magazyn, skład, składnica, zajezdnia
 ангел - anioł
 ангел-охоронець - Anioł Stróż
-ангелочок - aniołek | anioł
+ангелочок - aniołek, anioł
 ангельський - anielski
-ангелятко - aniołek | anioł
+ангелятко - aniołek, anioł
 ангіна - angina
 ангіографія - angiografia
 ангіологія - angiologia
@@ -553,14 +553,14 @@ kozak - Kozak
 англомовний - anglojęzyczny
 англосакс - Anglosas
 англофіл - anglofil
-англофільство - anglofilstwo | anglofilizm
+англофільство - anglofilstwo, anglofilizm
 англофільський - anglofilski
 англофоб - anglofob
 англофобство - anglofobia
 англофобський - dotyczący anglofoba lub anglofobii
 Ангола - Angola
-анголець - Angolczyk | Angolijczyk
-анголка - Angolka | Angolijka
+анголець - Angolczyk, Angolijczyk
+анголка - Angolka, Angolijka
 ангольський - angolski
 ангора - moher
 ангорський - angorski
@@ -585,14 +585,14 @@ kozak - Kozak
 анестезіологія - anestezjologia
 анестезувати - znieczulić
 Анжеліка - Angelika
-ані - ni | ani | nie
-анігіляція - zniszczenie | anihilacja
+ані - ni, ani, nie
+анігіляція - zniszczenie, anihilacja
 аніж - aniżeli
 анізокорія - anizokoria
 анізотропія - anizotropia
 анілін - anilina
 аніліновий - anilinowy
-анімація - animacja | animowanie | pobudzanie do działań
+анімація - animacja, animowanie, pobudzanie do działań
 аніме - anime
 анімізм - animizm
 аніон - anion
@@ -602,22 +602,22 @@ kozak - Kozak
 Аніта - Anita
 Анкара - Ankara
 анкарський - ankarski
-анкер - śruba kotwowa | śruba kotwicząca
-анкета - ankieta | kwestionariusz
+анкер - śruba kotwowa, śruba kotwicząca
+анкета - ankieta, kwestionariusz
 Анна - Anna
 аннали - annały
 анод - anoda
 аномалія - anomalia
 аномальний - anomalny
-анонім - anonim | osoba występująca anonimowo | list bez podpisu
+анонім - anonim, osoba występująca anonimowo, list bez podpisu
 анонімний - anonimowy
 анонімність - anonimowość
 анонс - anons
 анормальний - anormalny
 анортит - anortyt
 анотація - adnotacja
-ансамбль - grupa wykonawców występujących wspólnie | zespół | grupa muzyczna | zespół obiektów stanowiących całość
-антагонізм - antagonizm | wrogość | przeciwieństwo | sprzeczność interesów | antagonizm organizmów
+ансамбль - grupa wykonawców występujących wspólnie, zespół, grupa muzyczna, zespół obiektów stanowiących całość
+антагонізм - antagonizm, wrogość, przeciwieństwo, sprzeczność interesów, antagonizm organizmów
 антагоніст - antagonista
 антагоністичний - antagonistyczny
 антагоністка - antagonistka
@@ -637,9 +637,9 @@ kozak - Kozak
 антилопа - antylopa
 антильський - antylski
 Антильські острови - Antyle Holenderskie
-антиномічний - antynomiczny | antynomijny
+антиномічний - antynomiczny, antynomijny
 антиномія - antynomia
-антиоксидант - przeciwutleniacz | antyoksydant
+антиоксидант - przeciwutleniacz, antyoksydant
 антипатія - antypatia
 антисанітарний - antysanitarny
 антисеміт - antysemita
@@ -654,11 +654,11 @@ kozak - Kozak
 антихлор - antychlor
 антихрист - antychryst
 античний - antyczny
-античність - antyczność | starożytność
+античність - antyczność, starożytność
 антологія - antologia
 антонім - antonim
 Антоніна - Antonina
-антракт - antrakt | przerwa
+антракт - antrakt, przerwa
 антрепренер - antreprener
 антрепренерство - zawód wykonywany przez antreprenera
 антрепренерський - dotyczący antreprenera
@@ -668,11 +668,11 @@ kozak - Kozak
 антропометр - antropometr
 антропометрія - antropometria
 антропоморфізм - antropomorfizm
-антураж - orszak | otoczenie | świta
+антураж - orszak, otoczenie, świta
 анулювання - umorzenie
-анулювати - anulować | znosić | kasować | skasować | unieważniać | unieważnić | odwoływać | odwołać | umarzać | umorzyć
+анулювати - anulować, znosić, kasować, skasować, unieważniać, unieważnić, odwoływać, odwołać, umarzać, umorzyć
 анус - odbyt
-анчоус - sardela | anchois
+анчоус - sardela, anchois
 аорта - aorta
 аортальний - aortalny
 апарат - aparat
@@ -685,16 +685,16 @@ kozak - Kozak
 апелювання - apelowanie
 апелянт - apelant
 апеляційний - apelacyjny
-апеляція - apelacja | odwołanie | odwoływanie się
+апеляція - apelacja, odwołanie, odwoływanie się
 Апенніни - Apeniny
 апеннінський - apeniński
 Апеннінський півострів - Półwysep Apeniński
-апетит - apetyt | ochota
+апетит - apetyt, ochota
 апетитик - apetycik
 апетитний - apetyczny
 аплодисменти - oklaski
-аплодувати - oklaskiwać | bić brawo
-апогей - apogeum | maksimum
+аплодувати - oklaskiwać, bić brawo
+апогей - apogeum, maksimum
 апокаліпсичний - apokaliptyczny
 апокрифічний - apokryficzny
 аполітичний - apolityczny
@@ -704,7 +704,7 @@ kozak - Kozak
 апоплексія - apopleksja
 апоплектик - apoplektyk
 апорія - aporia
-апостол - apostoł | propagator
+апостол - apostoł, propagator
 Апостол - księga zawierająca Dzieje Apostolskie
 апостольство - apostolstwo
 апостольський - apostolski
@@ -737,9 +737,9 @@ kozak - Kozak
 Арарат - Ararat (masyw)
 арахіс - orzech ziemny
 арбалет - arbalet
-арбітр - sędzia polubowny | arbiter | rozjemca | sędzia
-арбітраж - arbitraż | rozjemstwo
-арбітражний - arbitrażowy | pojednawczy | rozjemczy
+арбітр - sędzia polubowny, arbiter, rozjemca, sędzia
+арбітраж - arbitraż, rozjemstwo
+арбітражний - arbitrażowy, pojednawczy, rozjemczy
 Аргентина - Argentyna
 аргентинець - Argentyńczyk
 аргентинка - Argentynka
@@ -749,11 +749,11 @@ kozak - Kozak
 аргумент - argument
 аргументація - argumentacja
 аргументування - argumentowanie
-аргументувати - argumentować | uzasadniać | udowadniać
+аргументувати - argumentować, uzasadniać, udowadniać
 ареал - areał
 арена - arena
 ареопаг - areopag
-арешт - areszt | aresztowanie
+арешт - areszt, aresztowanie
 арештант - aresztant
 арештантка - aresztantka
 арештовувати - aresztować
@@ -773,38 +773,38 @@ kozak - Kozak
 арія - aria
 арка - łuk
 аркада - arkada
-аркан - arkan | huculski taniec wykonywany przez mężczyzn
+аркан - arkan, huculski taniec wykonywany przez mężczyzn
 арковий - łukowy
 Арктика - Arktyka
 арктичний - arktyczny
-аркуш - arkusz | karta | arkusz drukarski
-арлекін - arlekin | pajac | błazen
+аркуш - arkusz, karta, arkusz drukarski
+арлекін - arlekin, pajac, błazen
 арлекінада - arlekinada
 армада - armada
-арматура - armatura | przyrządy | przybory | zbrojenie | uzbrojenie
+арматура - armatura, przyrządy, przybory, zbrojenie, uzbrojenie
 армієць - wojskowy
-армія - armia | wojsko | masa | mnóstwo | mnogość
+армія - armia, wojsko, masa, mnóstwo, mnogość
 арніка - arnika
 арніковий - arnikowy
 Арнольд - Arnold
-аромат - aromat | zapach
+аромат - aromat, zapach
 ароматичний - aromatyczny
-ароматний - aromatyczny | pachnący
-ароматотерапія - aromaterapia | aromatoterapia
+ароматний - aromatyczny, pachnący
+ароматотерапія - aromaterapia, aromatoterapia
 арсен - arsen
 арсенал - arsenał
 артезіанський - artezyjski
-артеріальний - arterialny | arteryjny
-артерія - arteria | tętnica | magistrala
+артеріальний - arterialny, arteryjny
+артерія - arteria, tętnica, magistrala
 артефакт - artefakt
 артилерист - artylerzysta
 артилеристка - artylerzystka
 артилерійський - artyleryjski
 артилерія - artyleria
-артист - artysta publicznie wykonujący sztukę | artysta | mistrz w jakiejś dziedzinie
-артистизм - artyzm (piękno czegoś) | artyzm (mistrzowskie wykonanie, umiejętność pięknego tworzenia)
+артист - artysta publicznie wykonujący sztukę, artysta, mistrz w jakiejś dziedzinie
+артистизм - artyzm (piękno czegoś), artyzm (mistrzowskie wykonanie, umiejętność pięknego tworzenia)
 артистичний - artystyczny
-артистка - artystka publicznie wykonująca sztukę | artystka | mistrzyni w jakiejś dziedzinie
+артистка - artystka publicznie wykonująca sztukę, artystka, mistrzyni w jakiejś dziedzinie
 артишок - karczoch
 артіль - artel
 артрит - artretyzm
@@ -812,30 +812,30 @@ kozak - Kozak
 Аруба - Aruba
 арум - aron
 арфа - harfa
-арфіст - harfista | harfiarz
-арфістка - harfistka | harfiarka
-арф'яр - harfista | harfiarz
-арф'ярка - harfistka | harfiarka
+арфіст - harfista, harfiarz
+арфістка - harfistka, harfiarka
+арф'яр - harfista, harfiarz
+арф'ярка - harfistka, harfiarka
 архаїзм - archaizm
 архаїчний - archaiczny
 архаїчність - archaiczność
 архангел - archanioł
 Архангельськ - Archangielsk
-архангельський - archanielski | archangielski
+архангельський - archanielski, archangielski
 археологічний - archeologiczny
 археологія - archeologia
 архів - archiwum
 архіваріус - archiwariusz
 архівний - archiwalny
 архієпископ - arcybiskup
-архієрей - archijerej | archirej
-архієрейський - biskupi | episkopalny
+архієрей - archijerej, archirej
+архієрейський - biskupi, episkopalny
 архімандрит - archimandryta
 архіпелаг - archipelag
 архітект - architekt
 архітектоніка - architektonika
 архітектонічний - architektoniczny
-архітектор - architekt | twórca czegokolwiek
+архітектор - architekt, twórca czegokolwiek
 архітектура - architektura
 архітектурний - architektoniczny
 архітрав - architraw
@@ -845,20 +845,20 @@ kozak - Kozak
 асемблер - asembler
 асептичний - aseptyczny
 асертивність - asertywność
-асигнація - asygnacja | asygnata | przekaz | dyspozycja
-асигнування - asygnacja | asygnowanie | wyasygnowanie | świadczenia | dotacje | dofinansowanie
-асигнувати - asygnować | wyasygnować
+асигнація - asygnacja, asygnata, przekaz, dyspozycja
+асигнування - asygnacja, asygnowanie, wyasygnowanie, świadczenia, dotacje, dofinansowanie
+асигнувати - asygnować, wyasygnować
 асиметричний - asymetryczny
 асиметричність - asymetryczność
 асиметрія - asymetria
 асимілювати - asymilować
 асимілюватися - asymilować się
-асиміляція - asymilacja | przyswojenie
+асиміляція - asymilacja, przyswojenie
 асимптота - asymptota
 асистент - asystent
 асистентка - asystentka
 аскет - asceta
-аскетизм - ascetyzm | asceza
+аскетизм - ascetyzm, asceza
 аскетичний - ascetyczny
 аскетично - ascetycznie
 аскетка - ascetka
@@ -867,10 +867,10 @@ kozak - Kozak
 Асмара - Asmara
 асонанс - asonans
 асортимент - asortyment
-асорті - mieszanka jednorodnych elementów | przedmiotów w różnych odmianach | czekoladki | czekoladowe cukierki
+асорті - mieszanka jednorodnych elementów, przedmiotów w różnych odmianach, czekoladki, czekoladowe cukierki
 асоціативний - asocjatywny
-асоціація - asocjacja | kojarzenie | skojarzenie | towarzystwo | spółka | stowarzyszenie
-аспект - aspekt | ujęcie | postać | przejaw
+асоціація - asocjacja, kojarzenie, skojarzenie, towarzystwo, spółka, stowarzyszenie
+аспект - aspekt, ujęcie, postać, przejaw
 аспірант - aspirant
 аспірантура - aspirantura
 аспіратор - aspirator
@@ -881,11 +881,11 @@ kozak - Kozak
 астенія - astenia
 астероїд - asteroida
 астигматизм - astygmatyzm
-астма - astma | dychawica
+астма - astma, dychawica
 астматик - astmatyk
 астматичка - astmatyczka
 астматичний - astmatyczny
-астрагал - traganek | astragal
+астрагал - traganek, astragal
 астральний - astralny
 астрограф - astrograf
 астролог - astrolog
@@ -919,64 +919,64 @@ kozak - Kozak
 АТ - spółka akcyjna
 атавізм - atawizm
 атавістичний - atawistyczny
-атака - atak | napaść | napad | natarcie | szturm | ofensywa
+атака - atak, napaść, napad, natarcie, szturm, ofensywa
 атакування - atakowanie
-атакувати - atakować (wroga) | atakować (oddziaływać z dużym nasileniem)
+атакувати - atakować (wroga), atakować (oddziaływać z dużym nasileniem)
 атакуючий - atakujący
-аташе - attache | attaché
+аташе - attache, attaché
 атеїзм - ateizm
 атеїст - ateista
 атеїстичний - ateistyczny
 атеїстка - ateistka
-ательє - atelier | pracownia
-атестат - atestat | zaświadczenie | świadectwo | metryka
-атестат зрілості - świadectwo dojrzałości | matura
+ательє - atelier, pracownia
+атестат - atestat, zaświadczenie, świadectwo, metryka
+атестат зрілості - świadectwo dojrzałości, matura
 атестація - atestacja
-атестувати - zaświadczać | atestować
+атестувати - zaświadczać, atestować
 Атлантида - Atlantyda
 атлантичний - atlantycki
 Атлантичний океан - Ocean Atlantycki
-атлас - atlas | atłas
-атласний - atłasowy | atlasowy
+атлас - atlas, atłas
+атласний - atłasowy, atlasowy
 атласовий - atłasowy
-атлет - atleta | atleta cyrkowy | człowiek z rozwiniętą muskulaturą
+атлет - atleta, atleta cyrkowy, człowiek z rozwiniętą muskulaturą
 атлетика - atletyka
 атлетичний - atletyczny
-атлетка - atletka | kobieta postawna | silna | z rozwiniętą muskulaturą
-атмосфера - atmosfera otaczająca ciało niebieskie | atmosfera - jednostka ciśnienia | atmosfera | nastrój
+атлетка - atletka, kobieta postawna, silna, z rozwiniętą muskulaturą
+атмосфера - atmosfera otaczająca ciało niebieskie, atmosfera - jednostka ciśnienia, atmosfera, nastrój
 атмосферний - atmosferyczny
 атол - atol
-атом - atom | energia atomowa | atom (najmniejsza odrobina czegokolwiek)
+атом - atom, energia atomowa, atom (najmniejsza odrobina czegokolwiek)
 атомізм - atomizm
 атомістика - atomistyka
 атомістичний - atomistyczny
-атомна енергія - energia atomowa | energia jądrowa
+атомна енергія - energia atomowa, energia jądrowa
 атомна зброя - broń atomowa
 атомний - atomowy
 атональний - atonalny
 атонія - atonia
-атракціон - wesołe miasteczko | popis | numer estradowy lub cyrkowy
+атракціон - wesołe miasteczko, popis, numer estradowy lub cyrkowy
 атрибут - atrybut
 атрибутивний - atrybutywny
 атріум - atrium
 атропін - atropina
-атрофія - atrofia | zanik cech | wrażliwości
+атрофія - atrofia, zanik cech, wrażliwości
 аттик - attyka
 ату - okrzyk zachęty do zrywu dla psów podczas polowania
 аудит - audyt
 аудитор - audytor
-аудиторія - audytorium (pomieszczenie) | audytorium (słuchacze)
+аудиторія - audytorium (pomieszczenie), audytorium (słuchacze)
 аудієнція - audiencja
 аудіовізуальний - audiowizualny
-аукціон - aukcja | licytacja | przetarg
-аукціоніст - osoba prowadząca sprzedaż dóbr na targu | licytację | licytant
+аукціон - aukcja, licytacja, przetarg
+аукціоніст - osoba prowadząca sprzedaż dóbr na targu, licytację, licytant
 аукціонний - aukcyjny
 аура - aura
 аускультація - osłuchiwanie
 аут - aut
 аутентичний - autentyczny
-аутопсія - sekcja zwłok | autopsja
-аутсайдер - outsider | autsajder
+аутопсія - sekcja zwłok, autopsja
+аутсайдер - outsider, autsajder
 афазія - afazja
 афганець - Afgańczyk
 афгані - afgani
@@ -986,7 +986,7 @@ kozak - Kozak
 афект - afekt
 афектація - afektacja
 афективний - afektywny
-афера - afera | oszustwo
+афера - afera, oszustwo
 аферист - aferzysta
 аферистка - aferzystka
 афікс - zrostek
@@ -995,10 +995,10 @@ kozak - Kozak
 афінський - ateński
 афінянин - ateńczyk
 афінянка - atenka
-афіша - afisz | plakat
+афіша - afisz, plakat
 афішувати - afiszować
 афішуватися - afiszować się
-афонія - bezgłos | afonia
+афонія - bezgłos, afonia
 афоризм - aforyzm
 афористичний - aforystyczny
 афористично - aforystycznie
@@ -1032,9 +1032,9 @@ kozak - Kozak
 ациклічність - acykliczność
 ацтек - Aztek
 ацтекський - aztecki
-аякже - a jakże | oczywiście | naturalnie
+аякже - a jakże, oczywiście, naturalnie
 аятола - ajatollah
-баба - babcia | staruszka | bałwan | baba | kobieta
+баба - babcia, staruszka, bałwan, baba, kobieta
 баба з воза, коням легше - baba z wozu, koniom lżej
 бабуся - babcia
 бавовна - bawełna
@@ -1043,18 +1043,18 @@ kozak - Kozak
 багажник - bagażnik
 Багамські Острови - Bahamy
 багатий - bogaty
-багато - dużo | wiele
-багаторазовий - wielokrotny | wielorazowy
+багато - dużo, wiele
+багаторазовий - wielokrotny, wielorazowy
 багатство - bogactwo
 Багдад - Bagdad
 багнистий - bagnisty
-багно - bagno | trzęsawisko | grzęzawisko | błoto
-бажання - życzenie | pragnienie | chęć | pożądanie | namiętność
+багно - bagno, trzęsawisko, grzęzawisko, błoto
+бажання - życzenie, pragnienie, chęć, pożądanie, namiętność
 бажати - pragnąć
 базальт - bazalt
 базальтовий - bazaltowy
 базар - bazar
-базарний - bazarowy | targowy
+базарний - bazarowy, targowy
 базиліка - bazylika
 Баїрикі - Bairiki
 Байкал - Bajkał
@@ -1083,21 +1083,21 @@ kozak - Kozak
 баптизм - baptyzm
 баптист - baptysta
 баптистський - baptystyczny
-барабан - bęben | faska
-баран - baran (samiec owcy) | baran (o głupim człowieku)
+барабан - bęben, faska
+баран - baran (samiec owcy), baran (o głupim człowieku)
 баранина - baranina
 Барбадос - Barbados
 барбадоський - barbadoski
-бардак - bardak | burdel | bajzel | bałagan | dom publiczny
+бардак - bardak, burdel, bajzel, bałagan, dom publiczny
 барикада - barykada
 барій - bar
 барліг - legowisko
 баскетбол - koszykówka
 батрахологія - batrachologia
 батьківщина - ojczyzna
-батько - ojciec | rodzice
+батько - ojciec, rodzice
 Бахрейн - Bahrajn
-бачити - widzieć | patrzeć | dostrzegać
+бачити - widzieć, patrzeć, dostrzegać
 бджілка - pszczoła
 бджільництво - pszczelarstwo
 бджола - pszczoła
@@ -1106,17 +1106,17 @@ kozak - Kozak
 без - bez
 бездітний - bezdzietny
 бездітність - bezdzietność
-беззубий - bezzębny | bezzębny (słaby, bezsilny i niegroźny)
-безлюддя - bezludzie | odludzie
-безлюдний - bezludny | wyludniony | bezosobowy
+беззубий - bezzębny, bezzębny (słaby, bezsilny i niegroźny)
+безлюддя - bezludzie, odludzie
+безлюдний - bezludny, wyludniony, bezosobowy
 безлюдніти - wyludniać się
 безлюдько - odludek
 безпека - bezpieczeństwo
-безриб'я - bezrybie | brak lub znikoma ilość ryb
+безриб'я - bezrybie, brak lub znikoma ilość ryb
 безрозмірний параметр - liczba bezwymiarowa
 Бейрут - Bejrut
 бейрутський - bejrucki
-бейсбол - baseball | bejsbol
+бейсбол - baseball, bejsbol
 Беліз - Belize
 белізійський - belizeński
 бельгієць - Belg
@@ -1131,11 +1131,11 @@ kozak - Kozak
 березень - marzec
 берилій - beryl
 берклій - berkel
-беркут - orzeł przedni | zys
-Беркут - nazwa zlikwidowanych w lutym 2014 specjalnych oddziałów ukraińskiej milicji | zajmujących się m.in. przestępczością zorganizowaną i ochroną manifestacji
+беркут - orzeł przedni, zys
+Беркут - nazwa zlikwidowanych w lutym 2014 specjalnych oddziałów ukraińskiej milicji, zajmujących się m.in. przestępczością zorganizowaną i ochroną manifestacji
 Берлін - Berlin
 берлінець - berlińczyk
-берлінка - berlinianka | berlinka
+берлінка - berlinianka, berlinka
 берлінський - berliński
 Бермудські острови - Bermudy
 Бескиди - Beskidy
@@ -1143,23 +1143,23 @@ kozak - Kozak
 бик - byk
 бир - birr
 бити - bić
-бити тривогу - bić w dzwony na trwogę | dzwonić na trwogę
-бібліоманія - bibliomania | książkomania
+бити тривогу - bić w dzwony na trwogę, dzwonić na trwogę
+бібліоманія - bibliomania, książkomania
 бібліотека - biblioteka
 бібліотекар - bibliotekarz
 Біблія - Biblia
 біг - bieg
 бігати - biegać
-біда - bieda | nieszczęście
+біда - bieda, nieszczęście
 біда ніколи сама не ходить - nieszczęścia chodzą parami
 бідний - biedny
 бізнес - biznes
 бізнесмен - biznesmen
 біла гарячка - biała gorączka
 білий - biały
-білий як хустка - biały jak chusta | blady jak chusta
+білий як хустка - biały jak chusta, blady jak chusta
 білка - wiewiórka
-білок - białko | białko jaja | biała część oka
+білок - białko, białko jaja, biała część oka
 білорус - Białorusin
 білоруска - Białorusinka
 Білорусь - Białoruś
@@ -1172,21 +1172,21 @@ kozak - Kozak
 біолог - biolog
 біологія - biologia
 біржа - giełda
-бірюзовий - turkusowy | koloru turkusowego | wykonany z turkusu
+бірюзовий - turkusowy, koloru turkusowego, wykonany z turkusu
 Бісау - Bissau
 Бішкек - Biszkek
-блакитний - niebieski | błękitny
+блакитний - niebieski, błękitny
 блакить - błękit
 Близнята - Bliźnięta
-близький - bliski | zbliżony
+близький - bliski, zbliżony
 блискавка - piorun
-блідий - blady (pozbawiony rumieńca, opalenizny, mający jasną karnację) | blady (o mało intensywnej barwie) | blady (mało wyraźny)
+блідий - blady (pozbawiony rumieńca, opalenizny, mający jasną karnację), blady (o mało intensywnej barwie), blady (mało wyraźny)
 блідий як смерть - blady jak śmierć
 блоха - pchła
 блудний син - syn marnotrawny
-бо - dlatego | że | bo | ponieważ
-бобер - bóbr | futro z bobra
-бог - bóg | bóstwo
+бо - dlatego, że, bo, ponieważ
+бобер - bóbr, futro z bobra
+бог - bóg, bóstwo
 Бог - Bóg
 Богдан - Bogdan
 богиня - bogini
@@ -1200,15 +1200,15 @@ kozak - Kozak
 болівійка - Boliwijka
 болівійський - boliwijski
 Болівія - Boliwia
-боліти - boleć | ubolewać | przejmować się
-болотистий - bagnisty | bagienny | błotnisty
-болото - bagno | grzęzawisko | torfowisko | błoto
+боліти - boleć, ubolewać, przejmować się
+болотистий - bagnisty, bagienny, błotnisty
+болото - bagno, grzęzawisko, torfowisko, błoto
 бор - bor
 бордель - burdel
-борода - broda | owłosienie na brodzie (1.1)
+борода - broda, owłosienie na brodzie (1.1)
 бородатий - brodaty
 борона - brona
-боротьба - walka | zapasy
+боротьба - walka, zapasy
 борошно - mąka
 борсук - borsuk
 борщ - barszcz
@@ -1219,18 +1219,18 @@ kozak - Kozak
 боснячка - Bośniaczka
 ботаніка - botanika
 Ботсвана - Botswana
-бочка - beczka | beczka (figura akrobatyczna w pilotażu)
+бочка - beczka, beczka (figura akrobatyczna w pilotażu)
 боятися - bać się
 боятися за свою шкуру - bać się o swoją skórę
 боятися як вогню - bać się jak ognia
-боятися як чорт ладану - bać się jak diabeł święconej wody | bać się jak czart kadzidła
+боятися як чорт ладану - bać się jak diabeł święconej wody, bać się jak czart kadzidła
 боятися як чорт свяченої води - bać się jak diabeł święconej wody
 Браззавіль - Brazzaville
 бразилець - Brazylijczyk
 бразилійка - Brazylijka
-Бразилія - Brazylia | Brasília
+Бразилія - Brazylia, Brasília
 бразильський - brazylijski
-брат - brat | zakonnik
+брат - brat, zakonnik
 брати - brać
 Братислава - Bratysława
 братиславський - bratysławski
@@ -1251,7 +1251,7 @@ kozak - Kozak
 будяк - oset
 Буенос-Айрес - Buenos Aires
 Бужумбура - Bużumbura
-буква - litera | duch | myśl tekstu
+буква - litera, duch, myśl tekstu
 букмекер - bukmacher
 булгур - bulgur
 булімія - bulimia
@@ -1269,47 +1269,47 @@ kozak - Kozak
 бути сіллю в оці - być solą w oku
 Бухарест - Bukareszt
 бухгалтер - księgowy
-бухгалтерія - księgowość | księgowość  (komórka organizacyjna zajmująca się księgowaniem)
+бухгалтерія - księgowość, księgowość  (komórka organizacyjna zajmująca się księgowaniem)
 бухгалтерка - księgowa
 бухгалтерський - księgowy
-бюрократ - biurokrata | biurokrata (wysoki urzędnik)
+бюрократ - biurokrata, biurokrata (wysoki urzędnik)
 бюрократизація - biurokratyzacja
-бюрократизм - biurokratyzm | biurokracja | formalizm | biurokracja (system zarządzania, w którym decydującą rolę odgrywa administracyjny aparat urzędniczy)
+бюрократизм - biurokratyzm, biurokracja, formalizm, biurokracja (system zarządzania, w którym decydującą rolę odgrywa administracyjny aparat urzędniczy)
 бюрократизувати - biurokratyzować
 бюрократизуватися - biurokratyzować się
-бюрократичний - biurokratyczny | formalistyczny | biurokratyczny (związany z systemem biurokracji)
+бюрократичний - biurokratyczny, formalistyczny, biurokratyczny (związany z systemem biurokracji)
 бюрократичність - biurokratyczność
 бюрократично - biurokratycznie
-бюрократія - biurokracja (hierarchiczny system zarządzania, w którym decydującą rolę odgrywa administracyjny aparat urzędniczy) | biurokracja (zbiorowość osób zarządzających)
+бюрократія - biurokracja (hierarchiczny system zarządzania, w którym decydującą rolę odgrywa administracyjny aparat urzędniczy), biurokracja (zbiorowość osób zarządzających)
 бюрократка - biurokratka
 бюстгальтер - biustonosz
 в - w
 Вавилон - Babilon
 Вагадугу - Wagadugu
-вагітна - ciężarna | kobieta w ciąży
+вагітна - ciężarna, kobieta w ciąży
 вагітність - ciąża
 вагон - wagon
 Вадуц - Vaduz
 важка атлетика - ciężka atletyka
 важкий - ciężki
 важкий метал - heavy metal
-важливий - ważny | doniosły
+важливий - ważny, doniosły
 важний - ważny
 вазектомія - wazektomia
 вазелін - wazelina
 Валетта - Valletta
 вампука - wampuka
 ванадій - wanad
-ванна - wanna | łazienka
+ванна - wanna, łazienka
 вантажівка - ciężarówka
 Вануату - Vanuatu
-вареник - pieróg | pierożek
+вареник - pieróg, pierożek
 Варта - Warta
 Варшава - Warszawa
 вата - wata
 Ватикан - Watykan
 ваш - wasz
-вгору ногами - do góry nogami (w odwrotnym położeniu) | do góry nogami (na odwrót, nieprawidłowo, nie tak jak zwykle)
+вгору ногами - do góry nogami (w odwrotnym położeniu), do góry nogami (na odwrót, nieprawidłowo, nie tak jak zwykle)
 вдвічі - dwukrotnie
 вдова - wdowa
 вдовець - wdowiec
@@ -1323,11 +1323,11 @@ kozak - Kozak
 вексилологія - weksylologia
 Велика Британія - Wielka Brytania
 Великдень - Wielkanoc
-великий - duży | wielki | dorosły | wybitny
+великий - duży, wielki, dorosły, wybitny
 Великобританія - Wielka Brytania
 великодержавний - wielkomocarstwowy
 великодержавник - szowinista wielkomocarstwowy
-великодержавництво - wielkomocarstwowość | wielkomocarstwowy szowinizm
+великодержавництво - wielkomocarstwowość, wielkomocarstwowy szowinizm
 великодержавницький - wielkomocarstwowy
 великодержавність - wielkomocarstwowość
 великодній - wielkanocny
@@ -1338,7 +1338,7 @@ kozak - Kozak
 Венесуела - Wenezuela
 венеціанець - wenecjanin
 венеціанка - wenecjanka
-венеціанський - wenecki | język/dialekt wenecki
+венеціанський - wenecki, język/dialekt wenecki
 Венеція - Wenecja
 верба - wierzba
 верблюд - wielbłąd
@@ -1346,35 +1346,35 @@ kozak - Kozak
 вересень - wrzesień
 веретено - wrzeciono
 вертоліт - śmigłowiec
-веселий - wesoły | radosny | zabawny
+веселий - wesoły, radosny, zabawny
 веселка - tęcza
 весілля - wesele
 весна - wiosna
-весь - cały | wszystek
+весь - cały, wszystek
 вечір - wieczór
-вечірній - wieczorny | wieczorowy
+вечірній - wieczorny, wieczorowy
 В'єнтьян - Wientian
 В'єтнам - Wietnam
 вже - już
 взагалі - w ogóle
 взаємодія - interakcja
 взяти - wziąć
-ви - wy | pan | pani
+ви - wy, pan, pani
 вибух - ukraiński
 виверження - erupcja
-вивчення - badanie | studium
-вигук - głośny zwrot | wykrzyknienie | okrzyk | wykrzyknik
+вивчення - badanie, studium
+вигук - głośny zwrot, wykrzyknienie, okrzyk, wykrzyknik
 виделка - widelec
 видра - wydra
-виклад - prezentacja | przedstawienie | wypowiedź
+виклад - prezentacja, przedstawienie, wypowiedź
 вилазити із шкіри - wyłazić ze skóry
-вимова - wymowa | umowa
-вимовити - wymówić | wypowiedzieć
+вимова - wymowa, umowa
+вимовити - wymówić, wypowiedzieć
 вино - wino
 виноград - winorośl
 виноградник - winnica
-вирок - wyrok | werdykt
-вислухувати - słyszeć | słuchać
+вирок - wyrok, werdykt
+вислухувати - słyszeć, słuchać
 високий - wysoki
 високосний рік - rok przestępny
 виставка - wystawa
@@ -1384,12 +1384,12 @@ kozak - Kozak
 вівця - owca
 від - od
 від а до я - od a do zet
-відгомін - odgłos | echo
+відгомін - odgłos, echo
 Відень - Wiedeń
 відео - wideo
-відлюдник - odludek | pustelnik | eremita | anachoreta
-відлюдок - odludek | samotnik
-відмінок - przypadek | forma deklinacji
+відлюдник - odludek, pustelnik, eremita, anachoreta
+відлюдок - odludek, samotnik
+відмінок - przypadek, forma deklinacji
 відповідальний - odpowiedzialny
 відповідальність - odpowiedzialność
 відповідь - odpowiedź
@@ -1398,10 +1398,10 @@ kozak - Kozak
 візит - wizyta
 війна - wojna
 військовий - wojskowy
-вік - wiek | życie | okres | epoka
+вік - wiek, życie, okres, epoka
 Вікіпедія - Wikipedia
 Вікісловник - Wikisłownik
-вікно - okno | okienko
+вікно - okno, okienko
 віл - wół
 Віллемстад - Willemstad
 вільний - wolny
@@ -1423,12 +1423,12 @@ kozak - Kozak
 вірус - wirus
 вірусологія - wirusologia
 вісім - osiem
-вісімдесят - osiemdziesiąt | 80
+вісімдесят - osiemdziesiąt, 80
 вісімдесятий - osiemdziesiąty
-вісімка - ósemka | 8
+вісімка - ósemka, 8
 вісімнадцятий - osiemnasty
-вісімнадцять - osiemnaście | 18
-вісімсот - osiemset | 800
+вісімнадцять - osiemnaście, 18
+вісімсот - osiemset, 800
 віск - wosk
 віскі - whisky
 Вісла - Wisła
@@ -1457,36 +1457,36 @@ kozak - Kozak
 волос - włos
 волосся - włosy
 вольфрам - wolfram
-вона - ona | won
-вони - oni | one
+вона - ona, won
+вони - oni, one
 воно - ono
 ворог - wróg
 ворожий - wrogi
 ворожість - wrogość
-ворон - kruk | zabawa polegająca na udawaniu łapania kurczątek przez kruka | rodzaj podpory w dawnym budownictwie rosyjskim | kruczy
+ворон - kruk, zabawa polegająca na udawaniu łapania kurczątek przez kruka, rodzaj podpory w dawnym budownictwie rosyjskim, kruczy
 ворона - wrona
-воротар - stróż przy bramie | bramkarz
+воротар - stróż przy bramie, bramkarz
 восьмеро - ośmioro
 восьмий - ósmy
 восьмикратний - ośmiokrotny
 восьмисотий - osiemsetny
 воша - wsza
-вродливий - ładny | nadobny
+вродливий - ładny, nadobny
 Вроцлав - Wrocław
 всесвітній - ogólnoświatowy
-вступний - wstępny (dziejący się na wstępie) | wstępny | rekrutacyjny (dający prawo wstępu lub przejścia pewnego etapu)
+вступний - wstępny (dziejący się na wstępie), wstępny, rekrutacyjny (dający prawo wstępu lub przejścia pewnego etapu)
 вступний екзамен - egzamin wstępny
 втрачати - stracić
 вуглець - węgiel
 вугор - węgorz
 вузький - wąski
-вул. - ulica | ul.
+вул. - ulica, ul.
 вулиця - ulica
 вулкан - wulkan
-вухо - ucho | uchwyt naczynia
+вухо - ucho, uchwyt naczynia
 вчора - wczoraj
 в'язень - więzień
-га - ha | hektar
+га - ha, hektar
 Габон - Gabon
 Габороне - Gaborone
 Гавана - Hawana
@@ -1499,24 +1499,24 @@ kozak - Kozak
 гаїтянський - haitański
 галактика - galaktyka
 галій - gal
-Галілея - Galilea (kraina) | Galilea (miasto w Hiszpanii)
-галка - kawka | kawka zwyczajna
+Галілея - Galilea (kraina), Galilea (miasto w Hiszpanii)
+галка - kawka, kawka zwyczajna
 галузь - gałąź
 гамбійський - gambijski
 Гамбія - Gambia
 Гамільтон - Hamilton
 Гана - Ghana
 гандбол - piłka ręczna
-гарантія - gwarancja | rękojmia
+гарантія - gwarancja, rękojmia
 гарбуз - dynia
 Гаргантюа - Gargantua
 гармонія - harmonia
-гарний - ładny | piękny
-гарячий - gorący | gwałtowny | zapalczywy | porywczy
+гарний - ładny, piękny
+гарячий - gorący, gwałtowny, zapalczywy, porywczy
 Гаяна - Gujana
-Гватемала - Gwatemala (państwo) | Gwatemala (miasto)
-гватемалець - Gwatemalczyk | gwatemalczyk
-гватемалка - Gwatemalka | gwatemalka
+Гватемала - Gwatemala (państwo), Gwatemala (miasto)
+гватемалець - Gwatemalczyk, gwatemalczyk
+гватемалка - Gwatemalka, gwatemalka
 гватемальський - gwatemalski
 гвинтівка - karabin
 гвінеєць - Gwinejczyk
@@ -1533,10 +1533,10 @@ kozak - Kozak
 гектолітр - hektolitr
 гелієвий - helowy
 гелій - hel
-гелікоптер - helikopter | вертоліт
+гелікоптер - helikopter, вертоліт
 Гельсінкі - Helsinki
 гематологія - hematologia
-гематурія - krwiomocz | hematuria
+гематурія - krwiomocz, hematuria
 географія - geografia
 геологія - geologia
 геометричний - geometryczny
@@ -1544,13 +1544,13 @@ kozak - Kozak
 германізація - germanizacja
 германій - german
 германський - niemiecki
-героїзм - heroizm | bohaterstwo
+героїзм - heroizm, bohaterstwo
 Гібралтар - Gibraltar
 гібралтарський - gibraltarski
 гівно - gówno
 гілка - gałąź
 гімн - hymn
-гімно - kał | wydalina
+гімно - kał, wydalina
 гіпопотам - hipopotam
 гість - gość
 гітара - gitara
@@ -1560,39 +1560,39 @@ kozak - Kozak
 глибокий - głęboki
 глобалізація - globalizacja
 глобальне потепління - globalne ocieplenie
-глухар - głuszec | głuchy | duża śruba z kwadratową lub sześciokątną główką
+глухар - głuszec, głuchy, duża śruba z kwadratową lub sześciokątną główką
 глухий - głuchy
 гляціологія - glacjologia
 гніздо - gniazdo
-гном - gnom | krasnal
-говорити - mówić | rozmawiać
+гном - gnom, krasnal
+говорити - mówić, rozmawiać
 год. - godz. (= година)
 Ґодзілла - Godzilla
-година - godzina | pora | czas | ładna pogoda
-годинник - zegar | zegarek
+година - godzina, pora, czas, ładna pogoda
+годинник - zegar, zegarek
 голем - golem
 голий - nagi
 голкіпер - bramkarz
-голова - głowa | przewodniczący | prezes
+голова - głowa, przewodniczący, prezes
 голод - głód
 голодний - głodny
 голос - głos
-голуб - gołąb | ozdoba mająca kształt gołębia (1.1) wykonana z papieru | wosku lub innego materiału
-голубий - niebieski | błękitny | homoseksualista
+голуб - gołąb, ozdoba mająca kształt gołębia (1.1) wykonana z papieru, wosku lub innego materiału
+голубий - niebieski, błękitny, homoseksualista
 гольф - golf
 гомеопатія - homeopatia
 гомосексуалізм - homoseksualizm
 Гондурас - Honduras
-гора - góra | szczyt | stos | sterta
-горілка - wódka | palnik
-горіти - palić się | płonąć
-горло - gardło | szyja | szyjka (butelki)
+гора - góra, szczyt, stos, sterta
+горілка - wódka, palnik
+горіти - palić się, płonąć
+горло - gardło, szyja, szyjka (butelki)
 горобець - wróbel
-город - ogród | miasto
-горох - groch | groszek
+город - ogród, miasto
+горох - groch, groszek
 гостина - gościna
-гостинець - gościniec (podarunek od gościa lub powracającego z podróży) | gościniec (droga, trakt)
-гостинний - gościnny (cecha) | gościnny (przeznaczony dla gości)
+гостинець - gościniec (podarunek od gościa lub powracającego z podróży), gościniec (droga, trakt)
+гостинний - gościnny (cecha), gościnny (przeznaczony dla gości)
 гостинність - gościnność
 гостинно - gościnnie
 гострий - ostry
@@ -1603,7 +1603,7 @@ kozak - Kozak
 грам - gram
 граматика - gramatyka
 граната - granat
-грати - grać (na instrumencie muzycznym) | grać (w jakąś grę) | grać (rolę w filmie lub teatrze)
+грати - grać (na instrumencie muzycznym), grać (w jakąś grę), grać (rolę w filmie lub teatrze)
 грати з відкритими картами - grać w otwarte karty
 грати на нервах - grać na nerwach
 грати першу скрипку - grać pierwsze skrzypce
@@ -1616,18 +1616,18 @@ kozak - Kozak
 Греція - Grecja
 грецький - grecki
 гречанка - Greczynka
-гречка - gryka | hreczka
+гречка - gryka, hreczka
 гриб - grzyb
 грива - grzywa
-гривня - hrywna | nazwa ukraińskiej waluty
+гривня - hrywna, nazwa ukraińskiej waluty
 григоріанський - gregoriański
-гріб - grób | trumna
-грім - grom | grzmot
+гріб - grób, trumna
+грім - grom, grzmot
 гріх - grzech
 грішити - grzeszyć
 грішник - grzesznik
 грішниця - grzesznica
-гроза - burza | nawałnica | groza | postrach
+гроза - burza, nawałnica, groza, postrach
 громадянська війна - wojna domowa
 гроші - pieniądz
 грудень - grudzień
@@ -1635,20 +1635,20 @@ kozak - Kozak
 грузинка - Gruzinka
 грузинський - gruziński
 Грузія - Gruzja
-група - grupa | ekipa
-груша - grusza | gruszka
+група - grupa, ekipa
+груша - grusza, gruszka
 гуакамоле - guacamole
-губа - warga | końcówka kleszczy | obcęg i innych narzędzi służąca do przytrzymywania przedmiotów | zatoka głęboko wdzierająca się w obszar wysuszony lub pozbawiony zbiorników wodnych
+губа - warga, końcówka kleszczy, obcęg i innych narzędzi służąca do przytrzymywania przedmiotów, zatoka głęboko wdzierająca się w obszar wysuszony lub pozbawiony zbiorników wodnych
 ґудзик - guzik
 гульден - gulden
 гурд - gourde
-гуска - gęś | gąska
+гуска - gęś, gąska
 давальний відмінок - celownik
 давати - dawać
 Дакка - Dhaka
 даласі - dalasi
-далекий - daleki | odległy | obcy
-далі буде - ciąg dalszy nastąpi | cdn.
+далекий - daleki, odległy, obcy
+далі буде - ciąg dalszy nastąpi, cdn.
 Далмація - Dalmacja
 Даніель - Daniel
 Данія - Dania
@@ -1657,33 +1657,33 @@ kozak - Kozak
 датський - duński
 датчанин - Duńczyk
 датчанка - Dunka
-дах - dach | pokrycie budynku | mieszkanie
-два - dwa | 2
+дах - dach, pokrycie budynku, mieszkanie
+два - dwa, 2
 двадцятий - dwudziesty
 двадцятка - dwudziestka
-двадцять - dwadzieścia | 20
+двадцять - dwadzieścia, 20
 дванадцятий - dwunasty
-дванадцять - dwanaście | 12
+дванадцять - dwanaście, 12
 двері - drzwi
 двійка - dwójka
-двісті - dwieście | 200
+двісті - dwieście, 200
 двоє - dwoje
 двоєдушність - dwulicowość
-дволичний - dwulicowy | obłudny
+дволичний - dwulicowy, obłudny
 дволичність - dwulicowość
 двохсотий - dwusetny
-де - gdzie? | gdzie
+де - gdzie?, gdzie
 дебіл - debil
 дев'яностий - dziewięćdziesiąty
-дев'яносто - dziewięćdziesiąt | 90
+дев'яносто - dziewięćdziesiąt, 90
 дев'ятеро - dziewięcioro
 дев'ятий - dziewiąty
 дев'ятикратний - dziewięciokrotny
 дев'ятисотий - dziewięćsetny
 дев'ятка - dziewiątka
 дев'ятнадцятий - dziewiętnasty
-дев'ятнадцять - dziewiętnaście | 19
-дев'ятсот - dziewięćset | 900
+дев'ятнадцять - dziewiętnaście, 19
+дев'ятсот - dziewięćset, 900
 дев'ять - dziewięć
 декаграм - dekagram
 декламувати - deklamować
@@ -1705,32 +1705,32 @@ kozak - Kozak
 дендрологія - dendrologia
 день - dzień
 депортація - deportacja
-дерево - drzewo | drewno
-держава - państwo | kraj
+дерево - drzewo, drewno
+держава - państwo, kraj
 державний - państwowy
 десятеро - dziesięcioro
 десятий - dziesiąty
 десятикратний - dziesięciokrotny
 десятиліття - dziesięciolecie
 десятка - dziesiątka
-десять - dziesięć | 10
+десять - dziesięć, 10
 де чорт не зможе, туди бабу пошле - gdzie diabeł nie może, tam babę pośle
 дешевий - tani
 Джакарта - Dżakarta
 джерело - źródło
-Джибуті - Dżibuti (kraj) | Dżibuti (miasto)
+Джибуті - Dżibuti (kraj), Dżibuti (miasto)
 джибутійський - dżibutyjski
 джинси - dżinsy
 джміль - trzmiel
 Джорджтаун - Georgetown
 джу́нглі - dżungla
-дзвінко - dźwięcznie | donośnie
-дзеркало - lustro | zwierciadło
+дзвінко - dźwięcznie, donośnie
+дзеркало - lustro, zwierciadło
 дзьоб - dziób
 див. - zob. (= дивись)
-дивитися - patrzeć | spoglądać | oglądać | pilnować | doglądać
+дивитися - patrzeć, spoglądać, oglądać, pilnować, doglądać
 дивитися крізь рожеві окуляри - patrzeć przez różowe okulary
-дизентерія - dyzenteria | czerwonka
+дизентерія - dyzenteria, czerwonka
 диктатор - dyktator
 диктатура - dyktatura
 дим - dym
@@ -1747,19 +1747,19 @@ kozak - Kozak
 Діва - Panna
 дівка - dziewczyna
 дівчина - dziewczyna
-дід - dziadek | dziadzio
-дідусь - dziadek | dziadzio | dziadunio
-дідько знає - licho wie | diabeł wie
+дід - dziadek, dziadzio
+дідусь - dziadek, dziadzio, dziadunio
+дідько знає - licho wie, diabeł wie
 дієслово - czasownik
 дієтологія - dietetyka
 ділити шкуру вбитого ведмедя - dzielić skórę na niedźwiedziu
 дім - dom
 дім розпусти - dom rozpusty
 дірхам - dirham
-дітвора - dzieciarnia | dziatwa
+дітвора - dzieciarnia, dziatwa
 для - dla
 до - do
-доба - doba | epoka
+доба - doba, epoka
 добраніч - dobranoc
 добре - dobrze
 добридень - dzień dobry
@@ -1768,14 +1768,14 @@ kozak - Kozak
 добрий день - dzień dobry
 доброго дня - dzień dobry
 доброго ранку - dzień dobry
-добросовісний - sumienny | rzetelny
-добросовісність - sumienność | rzetelność
+добросовісний - sumienny, rzetelny
+добросовісність - sumienność, rzetelność
 довгий - długi
 довго - długo
-довірливий - ufny | łatwowierny
-довірливість - ufność | łatwowierność
+довірливий - ufny, łatwowierny
+довірливість - ufność, łatwowierność
 довір'я - zaufanie
-догори ногами - do góry nogami (w odwrotnym położeniu) | do góry nogami (na odwrót, nieprawidłowo, nie tak jak zwykle)
+догори ногами - do góry nogami (w odwrotnym położeniu), do góry nogami (na odwrót, nieprawidłowo, nie tak jak zwykle)
 додаток - dodatek
 до зустрічі - do zobaczenia
 доктринер - doktryner
@@ -1791,7 +1791,7 @@ kozak - Kozak
 долоня - dłoń
 долото - dłuto
 домашній - domowy
-Домініка - Dominika | imię Dominika
+Домініка - Dominika, imię Dominika
 Домінікана - Dominikana
 домініканець - Dominikanin
 домініканка - Dominikanka
@@ -1800,36 +1800,36 @@ kozak - Kozak
 домосід - domator
 Донецьк - Donieck
 до побачення - do widzenia
-дорога - droga | kierunek | sposób dojścia do celu | podróż
+дорога - droga, kierunek, sposób dojścia do celu, podróż
 дорогий - drogi
 дорослий - dorosły
 Доха - Ad-Dauha
 дочка - córka
 дощ - deszcz
 дощовий - deszczowy
-д-р - dr (= доктор) | doktor
+д-р - dr (= доктор), doktor
 драм - dram
-драматург - dramaturg | dramatopisarz
+драматург - dramaturg, dramatopisarz
 дриблінг - drybling
-дрижати за свою шкуру - drżeć o swoją skórę | bać się o swoją skórę
+дрижати за свою шкуру - drżeć o swoją skórę, bać się o swoją skórę
 дрізд - drozd
-друг - przyjaciel | kolega
+друг - przyjaciel, kolega
 друга світова війна - druga wojna światowa
-другий - drugi | następny
+другий - drugi, następny
 дружина - żona
 дуб - dąb
 Дублін - Dublin
 дублінський - dubliński
-дуже - bardzo | strasznie
-думати - myśleć | sądzić | zamierzać | mieć zamiar
+дуже - bardzo, strasznie
+думати - myśleć, sądzić, zamierzać, mieć zamiar
 дурень - dureń
 дурень у квадраті - dureń do kwadratu
-дурний - głupi | nierozumny
-дурня клеїти - kleić durnia | rżnąć głupa | udawać Greka | wydurniać się
-душ - prysznic | natrysk
+дурний - głupi, nierozumny
+дурня клеїти - kleić durnia, rżnąć głupa, udawać Greka, wydurniać się
+душ - prysznic, natrysk
 душа - dusza
 дюжина - tuzin
-дядько - wuj | wujek
+дядько - wuj, wujek
 дякувати - dziękować
 дякую - dziękuję
 дятел - dzięcioł
@@ -1845,7 +1845,7 @@ kozak - Kozak
 еквадорка - Ekwadorka
 еквадорський - ekwadorski
 Екваторіальна Гвінея - Gwinea Równikowa
-екзамен - egzamin | sprawdzian | próba | test
+екзамен - egzamin, sprawdzian, próba, test
 екзаменатор - egzaminator
 екзаменаторський - egzaminatorski (dotyczący egzaminatora)
 екзаменаційний - egzaminacyjny
@@ -1868,7 +1868,7 @@ kozak - Kozak
 епідеміолог - epidemiolog
 епідеміологія - epidemiologia
 епідемія - epidemia
-епоха - epoka | okres | czas
+епоха - epoka, okres, czas
 ера - era
 ерекція - erekcja
 Еритрея - Erytrea
@@ -1901,16 +1901,16 @@ kozak - Kozak
 єгиптянин - Egipcjanin
 єгиптянка - Egipcjanka
 єдність - jedność
-єзуїт - jezuita | jezuita (obłudnik)
+єзуїт - jezuita, jezuita (obłudnik)
 єзуїтство - jezuityzm
-єзуїтський - jezuicki | jezuicki (przebiegły, obłudny, przewrotny)
+єзуїтський - jezuicki, jezuicki (przebiegły, obłudny, przewrotny)
 Ємен - Jemen
 єна - jen
 єпископ - biskup
 Єреван - Erywań
 Єрусалим - Jerozolima
 єрусалимський - jerozolimski
-ЄС - Unia Europejska | UE
+ЄС - Unia Europejska, UE
 жаба - żaba
 жарт - żart
 жедрит - gedryt
@@ -1919,15 +1919,15 @@ kozak - Kozak
 женевка - genewka
 женевський - genewski
 живий - żywy
-живопис - malarstwo | malowidło | obraz
-жираф - żyrafa | жирафа
+живопис - malarstwo, malowidło, obraz
+жираф - żyrafa, жирафа
 жирова тканина - tkanka tłuszczowa
-жити - żyć | mieszkać
+жити - żyć, mieszkać
 жити на широку ногу - żyć na wysokiej stopie
 жити як кіт з собакою - żyć jak pies z kotem
 життя - życie
-жінка - kobieta | żona
-жіночий - żeński | kobiecy
+жінка - kobieta, żona
+жіночий - żeński, kobiecy
 жіночий рід - rodzaj żeński
 жовта картка - żółta kartka
 жовтень - październik
@@ -1938,8 +1938,8 @@ kozak - Kozak
 журавель - żuraw
 журналіст - dziennikarz
 журналістика - dziennikarstwo
-з - z - dziesiąta litera ukraińskiego alfabetu | z | od | około
-за - za | na | w ciągu | przez | od | o | po | podczas | przy
+з - z - dziesiąta litera ukraińskiego alfabetu, z, od, około
+за - za, na, w ciągu, przez, od, o, po, podczas, przy
 завжди - zawsze
 завтра - jutro
 Загреб - Zagrzeb
@@ -1950,31 +1950,31 @@ kozak - Kozak
 займенник - zaimek
 закон - prawo
 закоханий - zakochany
-залізо - żelazo | produkty z żelaza (1.1)
+залізо - żelazo, produkty z żelaza (1.1)
 Замбія - Zambia
-замок - zamek | pałac | kłódka
+замок - zamek, pałac, kłódka
 Замостя - Zamość
 зануда - nudziarz
-зараз - zaraz | natychmiast | naraz
+зараз - zaraz, natychmiast, naraz
 затока - zatoka
 захист - obrona
-захід - zachód (chwila zniknięcia ciała niebieskiego, w domyśle: Słońca, za horyzontem) | zachód (kierunek geograficzny) | środek
+захід - zachód (chwila zniknięcia ciała niebieskiego, w domyśle: Słońca, za horyzontem), zachód (kierunek geograficzny), środek
 збити з пантелику - zbić z pantałyku
-зброя - broń | oręż
-звичайний - zwyczajny | zwykły
+зброя - broń, oręż
+звичайний - zwyczajny, zwykły
 з вогню та в полум'я - z deszczu pod rynnę
 звук - dźwięk
-зв'язок - związek | połączenie
-згадувати - przypominać | wspominać | nadmieniać
+зв'язок - związek, połączenie
+згадувати - przypominać, wspominać, nadmieniać
 згода - zgoda
-зграя - zgraja | grupa
+зграя - zgraja, grupa
 здоров - cześć!
 здоровий - zdrowy
 здоров'я - zdrowie
 зебра - zebra
-зелена людинка - zielony ludzik (ufoludek) | zielony ludzik (żołnierz rosyjski)
-зелений - zielony | dolar | polityk związany z ekologią
-земельний - rolny | rolniczy | agrarny
+зелена людинка - zielony ludzik (ufoludek), zielony ludzik (żołnierz rosyjski)
+зелений - zielony, dolar, polityk związany z ekologią
+земельний - rolny, rolniczy, agrarny
 землетрус - trzęsienie ziemi
 земля - ziemia
 Земля - Ziemia
@@ -1983,23 +1983,23 @@ kozak - Kozak
 зимородок - zimorodek
 Зімбабве - Zimbabwe
 зіниця - źrenica
-зірка - gwiazda | gwiazdor
-з'їзд - kongres | konferencja
-злий - zły | gniewny | bolesny
+зірка - gwiazda, gwiazdor
+з'їзд - kongres, konferencja
+злий - zły, gniewny, bolesny
 злопам'ятливий - pamiętliwy
 злопам'ятний - pamiętliwy
 злопам'ятність - pamiętliwość
 злопам'ятство - pamiętliwość
 зміна - zmiana
-змія - żmija | wąż
+змія - żmija, wąż
 знак - znak
 знаменитий - znamienity
-знання - wiedza | wiadomości | znajomość czegoś
-знати - znać | wiedzieć
+знання - wiedza, wiadomości, znajomość czegoś
+знати - znać, wiedzieć
 знахідний відмінок - biernik
 знаходитися - znajdować się
-значний - znaczny | znaczący
-знімок - zdjęcie | kopia
+значний - znaczny, znaczący
+знімок - zdjęcie, kopia
 зозуля - kukułka
 золота рука - złota rączka
 золота середина - złoty środek
@@ -2012,27 +2012,27 @@ kozak - Kozak
 зоологія - zoologia
 зоопарк - zoo
 зоопланктон - zooplankton
-зоря - gwiazda | zorza
+зоря - gwiazda, zorza
 зошит - zeszyt
 З Різдвом Христовим - Wesołych Świąt (Bożego Narodzenia)
 зрозуміти - zrozumieć
 зуб - ząb
-зубний - zębowy | do zębów
-зупинка - przystanek | zatrzymanie się | przerwa
-зустріч - spotkanie | powitanie | przyjęcie
+зубний - zębowy, do zębów
+зупинка - przystanek, zatrzymanie się, przerwa
+зустріч - spotkanie, powitanie, przyjęcie
 зустрічатися - spotykać się
-і - i (oraz) | dwunasta litera ukraińskiego alfabetu
-Іван - Iwan | Jan
-Ігор - Igor | ukraińskie imię męskie
+і - i (oraz), dwunasta litera ukraińskiego alfabetu
+Іван - Iwan, Jan
+Ігор - Igor, ukraińskie imię męskie
 ідеалізм - idealizm
 ідеологічний - ideologiczny
 ідеологія - ideologia
 ідіот - idiota
-ідіотизм - idiotyzm | głupota | idiotyzm (upośledzenie umysłowe)
+ідіотизм - idiotyzm, głupota, idiotyzm (upośledzenie umysłowe)
 ідіотичний - idiotyczny
 ідіотія - idiotyzm (upośledzenie umysłowe)
 ідіотка - idiotka
-ідіотство - idiotyzm | głupota
+ідіотство - idiotyzm, głupota
 ідіотський - idiotyczny
 -ізм - -izm
 Ізраїль - Izrael
@@ -2056,18 +2056,18 @@ kozak - Kozak
 індонезійка - Indonezyjka
 індонезійський - indonezyjski
 Індонезія - Indonezja
-інж. - inż. (= інженер) | inżynier
+інж. - inż. (= інженер), inżynier
 інженер - inżynier
-іновірець - innowierca | różnowierca
-іновірка - innowierka | różnowierka
-іновірний - innowierczy | różnowierczy
-іновірство - innowierstwo | różnowierstwo
+іновірець - innowierca, różnowierca
+іновірка - innowierka, różnowierka
+іновірний - innowierczy, różnowierczy
+іновірство - innowierstwo, różnowierstwo
 інструмент - instrument
 інтелект - intelekt
 інтелігентний - inteligentny
 інтелігенція - inteligencja
 інфекційний - infekcyjny
-інфекція - zakażenie | infekcja
+інфекція - zakażenie, infekcja
 інформація - informacja
 інший - inny
 Ірак - Irak
@@ -2076,7 +2076,7 @@ kozak - Kozak
 іракський - iracki
 Іран - Iran
 іраністика - iranistyka
-іранський - irański | perski
+іранський - irański, perski
 ірландець - Irlandczyk
 Ірландія - Irlandia
 ірландка - Irlandka
@@ -2091,7 +2091,7 @@ kozak - Kozak
 існувати - istnieć
 іспанець - Hiszpan
 Іспанія - Hiszpania
-іспанка - Hiszpanka | hiszpanka
+іспанка - Hiszpanka, hiszpanka
 іспаномовний - hiszpańskojęzyczny
 іспанський - hiszpański
 істина - prawda
@@ -2099,7 +2099,7 @@ kozak - Kozak
 історик - historyk
 історичний - historyczny
 історіографія - historiografia
-історія - historia | dzieje | opowieść
+історія - historia, dzieje, opowieść
 істота - istota
 Ісус - Jezus
 італієць - Włoch
@@ -2123,35 +2123,35 @@ kozak - Kozak
 Йоганнесбург - Johannesburg
 його - jego
 Йоккаїті - Yokkaichi
-йолоп - dureń | głupiec | jełop
+йолоп - dureń, głupiec, jełop
 Йорданія - Jordania
 кабачок - kabaczek
 каблучка - pierścionek
 Кабо-Верде - Zielony Przylądek
 Кабул - Kabul
-кава - kawa | ziarno kawowca | napój z ziaren (1.1) | namiastka kawy (1.2) naturalnej przygotowana z ziaren zbóż
+кава - kawa, ziarno kawowca, napój z ziaren (1.1), namiastka kawy (1.2) naturalnej przygotowana z ziaren zbóż
 Кавказ - Kaukaz
 кавове дерево - kawowiec
 кавун - arbuz
 каганат - kaganat
 кадмій - kadm
 кажан - nietoperz
-казати - mówić | kazać | rozkazywać | polecać
+казати - mówić, kazać, rozkazywać, polecać
 казах - Kazach
 Казахстан - Kazachstan
-казахстанський - kazaski | kazachski | kazachstański
-казахський - kazaski | kazachski | kazachstański
+казахстанський - kazaski, kazachski, kazachstański
+казахський - kazaski, kazachski, kazachstański
 казашка - Kazaszka
-казка - bajka | baśń | bujda
+казка - bajka, baśń, bujda
 Каїр - Kair
 календар - kalendarz
 календарний - kalendarzowy
 калій - potas
 каліфорній - kaliforn
 кальвінізм - kalwinizm
-кальвініст - kalwinista | kalwin
+кальвініст - kalwinista, kalwin
 кальвіністка - kalwinistka
-кальвіністський - kalwiński | kalwinistyczny
+кальвіністський - kalwiński, kalwinistyczny
 калькулятор - kalkulator
 кальцит - kalcyt
 кальцій - wapń
@@ -2177,7 +2177,7 @@ kozak - Kozak
 кардіологія - kardiologia
 карма - karma
 Карпати - Karpaty
-картопля - ziemniaki | kartofle
+картопля - ziemniaki, kartofle
 Кастилія - Kastylia
 каталог - katalog
 Катар - Katar
@@ -2189,12 +2189,12 @@ kozak - Kozak
 кацап - kacap
 кацапка - kacapka (Rosjanka)
 кацапський - kacapski (rosyjski)
-качатися зо сміху - tarzać się ze śmiechu | pokładać się ze śmiechu
+качатися зо сміху - tarzać się ze śmiechu, pokładać się ze śmiechu
 качка - kaczka
 качкодзьоб - dziobak
 каштан - kasztan
 кванза - kwanza
-квартал - kwartał | dzielnica
+квартал - kwartał, dzielnica
 квартира - mieszkanie
 квас - kwas chlebowy
 квасоля - fasola
@@ -2210,25 +2210,25 @@ kozak - Kozak
 кетсаль - quetzal
 кетчуп - keczup
 кефір - kefir
-кидати - rzucać | ciskać
-кидати слова на вітер - rzucać słowa na wiatr (zapowiadać, obiecywać coś, czego się nie zrealizuje) | rzucać słowa na wiatr (używać czczych, próżnych słów)
-кидок - rzut | zryw | skok | przerzut
+кидати - rzucać, ciskać
+кидати слова на вітер - rzucać słowa na wiatr (zapowiadać, obiecywać coś, czego się nie zrealizuje), rzucać słowa na wiatr (używać czczych, próżnych słów)
+кидок - rzut, zryw, skok, przerzut
 Київ - Kijów
 Киргизія - Kirgistan
 Киргизстан - Kirgistan
 кисень - tlen
 кислий - kwaśny
 кит - wieloryb
-китаєзнавство - chinoznawstwo | sinologia
+китаєзнавство - chinoznawstwo, sinologia
 китаєць - Chińczyk
-китаїстика - sinoistyka | filologia chińska | chinoznawstwo | sinologia
+китаїстика - sinoistyka, filologia chińska, chinoznawstwo, sinologia
 Китай - Chiny
 китайський - chiński
 китаянка - Chinka
 кишеня - kieszeń
 Кишинів - Kiszyniów
 ківі - kiwi
-кікс - kiks w grze w piłkę | kiks w bilardzie | kiks
+кікс - kiks w grze w piłkę, kiks w bilardzie, kiks
 кілограм - kilogram
 кілометр - kilometr
 кілька - kilka
@@ -2239,7 +2239,7 @@ kozak - Kozak
 кімнатна температура - temperatura pokojowa
 кімнатний - pokojowy
 Кінгстон - Kingston
-кінець - koniec | kraniec | śmierć
+кінець - koniec, kraniec, śmierć
 кінці з кінцями зводити - wiązać koniec z końcem
 Кіншаса - Kinszasa
 кінь - koń
@@ -2250,7 +2250,7 @@ kozak - Kozak
 кіпріотський - cypryjski
 кіпрський - cypryjski
 Кірибаті - Kiribati
-кістка - kość | ość
+кістка - kość, ość
 кіт - kot
 Кіто - Quito
 кіш - kosz
@@ -2273,17 +2273,17 @@ kozak - Kozak
 кліматологія - klimatologia
 клінічний - kliniczny
 клітина - komórka
-ключ - klucz (do zamka) | klucz | klucz (ptaków) | klucz (na pięciolinii)
-книга - księga | książka
+ключ - klucz (do zamka), klucz, klucz (ptaków), klucz (na pięciolinii)
+книга - księga, książka
 книжка - książka
 коаліція - koalicja
-кобальт - kobalt | ciemnoniebieska farba | w której składzie znajduje się kobalt (1.1)
+кобальт - kobalt, ciemnoniebieska farba, w której składzie znajduje się kobalt (1.1)
 коваль - kowal
 ковбаса - kiełbasa
 код - kod
 кодеїн - kodeina
-кожен - każdy | co
-кожний - każdy | co
+кожен - każdy, co
+кожний - każdy, co
 коза - koza
 козел - kozioł
 Козеріг - Koziorożec
@@ -2296,26 +2296,26 @@ kozak - Kozak
 колективістичний - kolektywistyczny (związany z kolektywizmem, charakterystyczny dla kolektywizmu)
 колективістка - kolektywistka
 колективістський - kolektywistyczny (charakterystyczny dla kolektywisty lub kolektywistki)
-колективний - kolektywny | zespołowy | zbiorowy | wspólny
+колективний - kolektywny, zespołowy, zbiorowy, wspólny
 колективність - kolektywność
-колективно - kolektywnie | zespołowo | zbiorowo | grupowo
+колективно - kolektywnie, zespołowo, zbiorowo, grupowo
 колесо - koło
-коли - kiedy? | kiedy | gdy | gdyby | jakby
-колись - kiedyś | niegdyś
-коліно - kolano | kolanko | pokolenie
-колір - kolor | barwa
-коло - koło | krąg
-колон - kolon | colon
+коли - kiedy?, kiedy, gdy, gdyby, jakby
+колись - kiedyś, niegdyś
+коліно - kolano, kolanko, pokolenie
+колір - kolor, barwa
+коло - koło, krąg
+колон - kolon, colon
 колоноскопія - kolonoskopia
 Колумб - Kolumb (odkrywca)
 Колумбія - Kolumbia
 кольоровий - kolorowy
-кома - przecinek | śpiączka | koma
+кома - przecinek, śpiączka, koma
 комар - komar
 комаха - owad
 коментатор - komentator
 комета - kometa
-комісія - komisja | komis | prowizja
+комісія - komisja, komis, prowizja
 комітет - komitet
 Коморські острови - Komory
 Коморські Острови - Komory
@@ -2325,7 +2325,7 @@ kozak - Kozak
 Конакрі - Konakry
 конвалія - konwalia
 Конго - Kongo
-коновал - konował (człowiek bez przygotowania weterynaryjnego zajmujący się kastrowaniem lub leczeniem koni) | konował (kiepski lekarz)
+коновал - konował (człowiek bez przygotowania weterynaryjnego zajmujący się kastrowaniem lub leczeniem koni), konował (kiepski lekarz)
 консервативний - konserwatywny
 консерватизм - konserwatyzm
 контрабас - kontrabas
@@ -2342,13 +2342,13 @@ kozak - Kozak
 концтабір - obóz koncentracyjny
 Копенгаген - Kopenhaga
 кора - kora
-корабель - statek | okręt
+корабель - statek, okręt
 Коран - Koran
 кордон - granica
 корейський - koreański
-Корея - Korea Południowa | Korea Północna
+Корея - Korea Południowa, Korea Północna
 корзина - kosz
-корисний - korzystny | pożyteczny | użyteczny | przydatny | pomocny | wygodny | użytkowy
+корисний - korzystny, pożyteczny, użyteczny, przydatny, pomocny, wygodny, użytkowy
 корисний ідіот - użyteczny idiota
 коричневий - brązowy
 корінь - korzeń
@@ -2372,11 +2372,11 @@ kozak - Kozak
 Кот-д'Івуар - Wybrzeże Kości Słoniowej
 котел - kocioł
 коханка - kochanka
-кохання - miłość | kochanie
+кохання - miłość, kochanie
 кохати - kochać
 краватка - krawat
 країна - kraj
-край - krawędź | kraniec
+край - krawędź, kraniec
 крамниця - sklep
 крапка - kropka
 крапка з комою - średnik
@@ -2385,17 +2385,17 @@ kozak - Kozak
 крематорій - krematorium
 кремінь - krzemień
 кремній - krzem
-крижень - krzyżówka | kaczka krzyżówka
-крик - krzyk | wrzask
+крижень - krzyżówka, kaczka krzyżówka
+крик - krzyk, wrzask
 крило - skrzydło
 кримінальний - kryminalny
 кримський - krymski
-Кримський півострів - Krym | Półwysep Krymski
+Кримський півострів - Krym, Półwysep Krymski
 криптон - krypton
 криця - stal
-кричати - krzyczeć | wołać
+кричати - krzyczeć, wołać
 кріль - królik
-кріп - koper | koperek
+кріп - koper, koperek
 Кріспін - Kryspin (imię męskie)
 кріт - kret
 кров - krew
@@ -2404,14 +2404,14 @@ kozak - Kozak
 крокодил - krokodyl
 кролик - królik
 крона - korona
-круглий - krągły | kulisty
+круглий - krągły, kulisty
 крук - kruk
 крюк - hak
 ксенофобія - ksenofobia
 Куала-Лумпур - Kuala Lumpur
 Куба - Kuba
 кубізм - kubizm
-кубло розпусти - jaskinia rozpusty | gniazdo rozpusty
+кубло розпусти - jaskinia rozpusty, gniazdo rozpusty
 Кувейт - Kuwejt
 кукурудза - kukurydza
 куленепробивний - kuloodporny
@@ -2427,17 +2427,17 @@ kozak - Kozak
 курець - palacz (tytoniu)
 курити - palić (tytoń)
 курка - kura
-курорт - kurort | uzdrowisko
+курорт - kurort, uzdrowisko
 кутовий удар - rzut rożny
 кухня - kuchnia
 к'ят - kiat
 лабіринт - labirynt
 лабораторія - laboratorium
-лавка - ławka | ława
+лавка - ławka, ława
 ламаїзм - lamaizm
 лампа - lampa
 лампада - lampka
-лампочка - żarówka | lampka choinkowa
+лампочка - żarówka, lampka choinkowa
 Лаос - Laos
 Ла-Пас - La Paz
 ларі - lari
@@ -2456,11 +2456,11 @@ kozak - Kozak
 латинський - łaciński
 лебідь - łabędź
 лев - lew
-Лев - Lew | ♌
+Лев - Lew, ♌
 левиця - lwica
 легеня - płuco
 легінь - młodzieniec
-легка атлетика - lekkoatletyka | lekka atletyka
+легка атлетика - lekkoatletyka, lekka atletyka
 легкий - lekki
 лежати - leżeć
 лей - lej
@@ -2471,12 +2471,12 @@ kozak - Kozak
 лимон - cytryna
 липа - lipa
 липень - lipiec
-лис - lis | chytry człowiek
-лисиця - lisica | samica lisa
+лис - lis, chytry człowiek
+лисиця - lisica, samica lisa
 лист - liść
 листок - listek
 листоноша - listonosz
-листопад - listopad | opadanie liści
+листопад - listopad, opadanie liści
 лит - lit
 Литва - Litwa
 литвин - Litwin
@@ -2496,11 +2496,11 @@ kozak - Kozak
 Ліберія - Liberia
 Лібревіль - Libreville
 Ліван - Liban
-лівий - lewy | lewicowy
+лівий - lewy, lewicowy
 Лівія - Libia
 лід - lód
 ліжко - łóżko
-лік - lek | lekarstwo | liczba
+лік - lek, lekarstwo, liczba
 лікар - lekarz
 лікарка - lekarka
 лікарня - szpital
@@ -2512,7 +2512,7 @@ kozak - Kozak
 лінгвістичний - lingwistyczny
 лінгвістка - lingwistka
 лінія - linia
-ліра - starogrecka lira | dawny instrument strunowy popularny w Rosji | na Ukrainie i Białorusi | lira
+ліра - starogrecka lira, dawny instrument strunowy popularny w Rosji, na Ukrainie i Białorusi, lira
 ліс - las
 лісистий - lesisty
 лісистість - lesistość
@@ -2535,7 +2535,7 @@ kozak - Kozak
 літій - lit
 літній - letni
 літо - lato
-літопис - latopis (staroruski rocznik kronikarski) | kronika
+літопис - latopis (staroruski rocznik kronikarski), kronika
 літр - litr
 ліхтар - latarnia
 Ліхтенштейн - Liechtenstein
@@ -2544,7 +2544,7 @@ kozak - Kozak
 лоб - czoło
 логарифм - logarytm
 логіка - logika
-ложка - łyżka | łyżki | ложки
+ложка - łyżka, łyżki, ложки
 локшина - makaron
 Лондон - Londyn
 лопата - łopata
@@ -2552,26 +2552,26 @@ kozak - Kozak
 лотерея - loteria
 лоті - loti
 Луанда - Luanda
-луг - łąka | ług
+луг - łąka, ług
 лука - łąka
 лупанар - lupanar
 лупанарій - lupanar
 лучник - łucznik
 Львів - Lwów
-льоха - maciora | locha
-любити - lubić | kochać
+льоха - maciora, locha
+любити - lubić, kochać
 любов - miłość
 людина - człowiek
 людство - ludzkość
 Люксембург - Luksemburg
-люксембуржець - Luksemburczyk | luksemburczyk
-люксембуржка - Luksemburka | luksemburka
+люксембуржець - Luksemburczyk, luksemburczyk
+люксембуржка - Luksemburka, luksemburka
 люксембурзький - luksemburski
 лютеранин - luteranin
 лютеранка - luteranka
 лютеранство - luteranizm
 лютеранський - luterański
-лютий - luty | zły | okrutny | srogi
+лютий - luty, zły, okrutny, srogi
 лялька - lalka
 мавпа - małpa
 Маврикій - Mauritius
@@ -2583,15 +2583,15 @@ kozak - Kozak
 Мадрид - Madryt
 майбутній час - czas przyszły
 майдан - plac
-майже - niemal | prawie
+майже - niemal, prawie
 майстер - mistrz
 македонець - Macedończyk
 Македонія - Macedonia
 македонка - Macedonka
 македонський - macedoński
 македонянин - Macedończyk
-макіавеллівський - makiaweliczny | machiaweliczny | makiawelski
-макіавеллізм - makiawelizm (polityka zgodna z zasadą, że „cel uświęca środki”) | makiawelizm (postępowanie przewrotne i perfidne)
+макіавеллівський - makiaweliczny, machiaweliczny, makiawelski
+макіавеллізм - makiawelizm (polityka zgodna z zasadą, że „cel uświęca środki”), makiawelizm (postępowanie przewrotne i perfidne)
 макіавелліст - makiawelista
 максимум - maksimum
 Мала Азія - Azja Mniejsza
@@ -2599,13 +2599,13 @@ kozak - Kozak
 Малаві - Malawi
 малавійський - malawijski
 Малайзія - Malezja
-Маланка - Małanka | zabawa w wieczór poprzedzający Nowy Rok według kalendarza juliańskiego (13 stycznia według kalendarza gregoriańskiego)
+Маланка - Małanka, zabawa w wieczór poprzedzający Nowy Rok według kalendarza juliańskiego (13 stycznia według kalendarza gregoriańskiego)
 Мале - Male
 маленький - mały
 малина - malina
 Малі - Mali
 мало - mało
-малодушність - małoduszność | bojaźliwość | lękliwość
+малодушність - małoduszność, bojaźliwość, lękliwość
 Мальдіви - Malediwy
 Мальта - Malta
 мальтійський - maltański
@@ -2624,12 +2624,12 @@ kozak - Kozak
 маслюк - maślak
 маслюк звичайний - maślak zwyczajny
 маслюк зернистий - maślak ziarnisty
-маслюк модриновий - maślak żółty | maślak modrzewiowy
+маслюк модриновий - maślak żółty, maślak modrzewiowy
 математика - matematyka
-материк - kontynent | ląd
+материк - kontynent, ląd
 матеріал - materiał
 матеріалізм - materializm
-мати - matka | mieć | posiadać
+мати - matka, mieć, posiadać
 мати голову на плечах - mieć głowę na karku
 мати ніж на горлі - mieć nóż na gardle
 Мауглі - Mowgli
@@ -2637,7 +2637,7 @@ kozak - Kozak
 медицина - medycyna
 медичний - medyczny
 Медуза - Meduza
-межувати - graniczyć | rozgraniczać
+межувати - graniczyć, rozgraniczać
 Мексика - Meksyk
 мексиканський - meksykański
 мелодія - melodia
@@ -2664,20 +2664,20 @@ kozak - Kozak
 меч - miecz
 ми - my
 мигдаль - migdał
-мило - mydło | miło | mile
+мило - mydło, miło, mile
 мимовільний - mimowolny
 минулий час - czas przeszły
 мир - pokój
-мистецтво - sztuka | twórczość artystyczna
+мистецтво - sztuka, twórczość artystyczna
 мити - myć
-мить - moment | mgnienie | chwila
+мить - moment, mgnienie, chwila
 миша - mysz
 міастенія - miastenia
 мігматит - migmatyt
 мідь - miedź
 міжнародний - międzynarodowy
 мій - mój
-мікологія - mykologia | mikologia
+мікологія - mykologia, mikologia
 мікроавтобус - mikrobus
 мікроб - mikrob
 мікробіологія - mikrobiologia
@@ -2689,12 +2689,12 @@ kozak - Kozak
 міліціонер - milicjant
 міліціонерка - milicjantka
 міліціонерський - milicyjny (dotyczący milicjanta lub milicjantki)
-міліція - milicja (nazwa policji w niektórych krajach) | milicja (formacja wojskowa tworzona z cywilów mających własną broń, zwykle na czas wojny)
-мільйон - milion | 1 000 000
+міліція - milicja (nazwa policji w niektórych krajach), milicja (formacja wojskowa tworzona z cywilów mających własną broń, zwykle na czas wojny)
+мільйон - milion, 1 000 000
 мільйонер - milioner
 мільйонерка - milionerka
 мільйонний - milionowy
-мільярд - miliard | 1 000 000 000
+мільярд - miliard, 1 000 000 000
 мільярдний - miliardowy
 мінералогія - mineralogia
 Мінськ - Mińsk
@@ -2703,40 +2703,40 @@ kozak - Kozak
 міряти - mierzyć
 міст - most
 містечко - miasteczko
-містити - mieścić | zawierać
+містити - mieścić, zawierać
 місто - miasto
 місце - miejsce
 місцевий - lokalny
 місцевий відмінок - miejscownik
 міський - miejski
-місяць - miesiąc | księżyc | naturalny satelita Ziemi lub innych planet
+місяць - miesiąc, księżyc, naturalny satelita Ziemi lub innych planet
 міф - mit
 міфічний - mityczny
 міфологізація - mitologizacja
 міфологізувати - mitologizować
-міфологія - mitologia | zbiór mitów | nauka o mitach
-міцний - mocny | silny
+міфологія - mitologia, zbiór mitów, nauka o mitach
+міцний - mocny, silny
 мішок - worek
 млин - młyn
-множина - liczba mnoga | zbiór
-мова - język | mowa
+множина - liczba mnoga, zbiór
+мова - język, mowa
 мовознавець - językoznawca
 мовознавство - językoznawstwo
-мовчати - milczeć | cisza!
-могила - mogiła | grób
+мовчати - milczeć, cisza!
+могила - mogiła, grób
 могти - móc
 модриновий - modrzewiowy
 Мозамбік - Mozambik (państwo)
 мозок - mózg
 мокра робота - mokra robota
-мокрий - mokry (pokryty lub nasiąknięty wodą, albo inną cieczą) | mokry (obfity w deszcze)
+мокрий - mokry (pokryty lub nasiąknięty wodą, albo inną cieczą), mokry (obfity w deszcze)
 молдаванин - Mołdawianin
 молдаванка - Mołdawianka
-Молдавія - Mołdawia | Mołdowa
+Молдавія - Mołdawia, Mołdowa
 молдавський - mołdawski
 Молдова - Mołdawia
 молитва - modlitwa
-молодий - młody | pan młody
+молодий - młody, pan młody
 молодь - młodzież
 молоко - mleko
 молочна кислота - kwas mlekowy
@@ -2748,7 +2748,7 @@ kozak - Kozak
 Монровія - Monrovia
 Монтсеррат - Montserrat
 море - morze
-мореплавець - żeglarz | marynarz
+мореплавець - żeglarz, marynarz
 морква - marchew
 мороз - mróz
 морозиво - lody
@@ -2760,34 +2760,34 @@ kozak - Kozak
 Москва - Moskwa
 мотика - motyka
 мрія - marzenie
-мріяти - marzyć | śnić
+мріяти - marzyć, śnić
 мстивий - mściwy
 мстивість - mściwość
 мужність - odwaga
 музей - muzeum
 музейний - muzealny
-музика - muzyka | muzykant | grajek
+музика - muzyka, muzykant, grajek
 музикальний - muzykalny
-музикант - muzykant | muzyk
-музикантка - muzykantka | muzyczka
+музикант - muzykant, muzyk
+музикантка - muzykantka, muzyczka
 музичний - muzyczny
-мука - męka | mąka
+мука - męka, mąka
 муніципальний - municypalny
 мураха - mrówka
 мурашка - mrówka
 мурашник - mrowisko
-мускул - mięsień | muskuł
+мускул - mięsień, muskuł
 мусульманин - muzułmanin
 мусульманський - muzułmański
 муха - mucha
 мухомор - muchomor
 мухомор білий смердючий - muchomor jadowity
-мухомор зелений - muchomor sromotnikowy | muchomor zielonawy
+мухомор зелений - muchomor sromotnikowy, muchomor zielonawy
 мухомор пантерний - muchomor plamisty
 мухомор червоний - muchomor czerwony
-мухомор червоніючий - muchomor czerwieniejący | muchomor czerwonawy
+мухомор червоніючий - muchomor czerwieniejący, muchomor czerwonawy
 м'яз - mięsień
-М'янма - Myanmar | Birma
+М'янма - Myanmar, Birma
 м'ясо - mięso
 м'ята - mięta
 м'яч - piłka
@@ -2801,7 +2801,7 @@ kozak - Kozak
 надія - nadzieja
 на добраніч - dobranoc
 надобраніч - dobranoc
-назва - nazwa | tytuł
+назва - nazwa, tytuł
 називний відмінок - mianownik
 наївний - naiwny
 наївність - naiwność
@@ -2811,7 +2811,7 @@ kozak - Kozak
 намет - namiot
 Намібія - Namibia
 напій - napój
-напр. - np. (= наприклад) | na przykład
+напр. - np. (= наприклад), na przykład
 наприкінці - pod koniec
 наприклад - na przykład
 наркоманія - narkomania
@@ -2819,10 +2819,10 @@ kozak - Kozak
 народжувати - rodzić
 народитися - urodzić się
 народний - ludowy
-населення - ludność | zaludnienie
-наслідник - spadkobierca | następca
+населення - ludność, zaludnienie
+наслідник - spadkobierca, następca
 Нассау - Nassau
-натовп - tłum | ciżba
+натовп - tłum, ciżba
 натрій - sód
 наука - nauka
 науковий - naukowy
@@ -2831,7 +2831,7 @@ kozak - Kozak
 націоналізація - nacjonalizacja
 націоналізм - nacjonalizm
 націоналіст - nacjonalista
-націоналістичний - nacjonalistyczny (odnoszący się do nacjonalizmu) | nacjonalistyczny (związany z nacjonalistami)
+націоналістичний - nacjonalistyczny (odnoszący się do nacjonalizmu), nacjonalistyczny (związany z nacjonalistami)
 націоналістка - nacjonalistka
 націоналістський - nacjonalistyczny (związany z nacjonalistami)
 національний - narodowy
@@ -2839,7 +2839,7 @@ kozak - Kozak
 нгултрум - ngultrum
 Нджамена - Ndżamena
 не - nie
-небо - niebo | część kosmosu widziana z Ziemi | miejsce | gdzie jest Bóg (bogowie)
+небо - niebo, część kosmosu widziana z Ziemi, miejsce, gdzie jest Bóg (bogowie)
 не вірити своїм очам - nie wierzyć własnym oczom
 невірник - niewierzący (w boga)
 негр - Murzyn
@@ -2853,7 +2853,7 @@ kozak - Kozak
 нема диму без вогню - nie ma dymu bez ognia
 немає - nie ma
 неня - matka
-необхідний - konieczny | niezbędny
+необхідний - konieczny, niezbędny
 неодим - neodym
 неолібералізм - neoliberalizm
 неон - neon
@@ -2862,10 +2862,10 @@ kozak - Kozak
 неплатоспроможність - niewypłacalność
 нептуній - neptun
 несправедливий - niesprawiedliwy
-несправедливість - niesprawiedliwość (brak sprawiedliwości) | niesprawiedliwość (niesprawiedliwy postępek)
+несправедливість - niesprawiedliwość (brak sprawiedliwości), niesprawiedliwość (niesprawiedliwy postępek)
 низький - niski
 низько - nisko
-ні - nie | ni | ani
+ні - nie, ni, ani
 Нігер - Niger
 Нігерія - Nigeria
 ніготь - paznokieć
@@ -2873,7 +2873,7 @@ kozak - Kozak
 Нідерланди - Holandia
 нідерландка - Holenderka
 нідерландський - holenderski
-ніж - nóż | niż | aniżeli
+ніж - nóż, niż, aniżeli
 нікель - nikiel
 ніколи - nigdy
 Нікосія - Nikozja
@@ -2882,13 +2882,13 @@ kozak - Kozak
 Німеччина - Niemcy
 німка - Niemka
 нірвана - nirwana
-ніс - nos | dziób
+ніс - nos, dziób
 ніхто - nikt
 Ніцца - Nicea
 ніч - noc
 ніша - nisza
 ніщо - nic
-новий - nowy | nowożytny | nowoczesny
+новий - nowy, nowożytny, nowoczesny
 нога - noga
 ножиці - nożyczki
 нозологія - nozologia
@@ -2902,29 +2902,29 @@ kozak - Kozak
 норвежець - Norweg
 норвежка - Norweżka
 норвезький - norweski
-носок - nosek | czubek | skarpetka
+носок - nosek, czubek, skarpetka
 носоріг - nosorożec
 Нуакшот - Nawakszut
-нуль - zero | 0
+нуль - zero, 0
 нульовий - zerowy
 няв - miau!
 обеліск - obelisk
 Об'єднані Арабські Емірати - Zjednoczone Emiraty Arabskie
-обід - obiad | obwód | obręcz
+обід - obiad, obwód, obręcz
 обіцяти - obiecać
 обіцяти золоті гори - obiecywać złote góry
-обличчя - twarz | oblicze | charakter | wygląd
+обличчя - twarz, oblicze, charakter, wygląd
 оборона - obrona
-Овен - Baran | ♈
+Овен - Baran, ♈
 овечий - owczy
 овоч - warzywo
-овуляція - owulacja | jajeczkowanie
+овуляція - owulacja, jajeczkowanie
 огірок - ogórek
 Одер - Odra
 Одеса - Odessa
-один - jeden | pewien | sam | sam jeden
+один - jeden, pewien, sam, sam jeden
 одинадцятий - jedenasty
-одинадцять - jedenaście | 11
+одинадцять - jedenaście, 11
 одна ластівка не робить весни - jedna jaskółka wiosny nie czyni
 однина - liczba pojedyncza
 ожеледь - gołoledź
@@ -2937,7 +2937,7 @@ kozak - Kozak
 око циклону - oko cyklonu (obszar ciszy w centrum cyklonu)
 Оксана - Ksenia
 окультизм - okultyzm
-окуляри - okulary | окуляр
+окуляри - okulary, окуляр
 олень - jeleń
 оливка - oliwka
 олівець - ołówek
@@ -2950,7 +2950,7 @@ kozak - Kozak
 онкологія - onkologia
 онук - wnuk
 онука - wnuczka
-ООН - ONZ (= Організація Об'єднаних Націй) | Organizacja Narodów Zjednoczonych
+ООН - ONZ (= Організація Об'єднаних Націй), Organizacja Narodów Zjednoczonych
 опал - opal
 оплаток - opłatek
 опозиція - opozycja
@@ -2960,31 +2960,31 @@ kozak - Kozak
 опортуністський - oportunistyczny
 оранжевий - pomarańczowy
 оргазм - orgazm
-орган - narząd | organ
+орган - narząd, organ
 Організація Об'єднаних Націй - Organizacja Narodów Zjednoczonych
-організм - organizm (żywa istota) | organizm (ciało człowieka) | organizm (złożona struktura lub organizacja)
+організм - organizm (żywa istota), organizm (ciało człowieka), organizm (złożona struktura lub organizacja)
 органіст - organista
 органогенез - organogeneza
 орел - orzeł
 орудний відмінок - narzędnik
 оса - osa
-освіта - oświata | edukacja
+освіта - oświata, edukacja
 осел - osioł
-оселедець - śledź | osełedec
+оселедець - śledź, osełedec
 осінній - jesienny
 осінь - jesień
 осінь життя - jesień życia
 осмій - osm
 особа - osoba
-особливість - osobliwość | cecha szczególna/wyróżniająca
+особливість - osobliwość, cecha szczególna/wyróżniająca
 особовий - osobisty
 останній - ostatni
-остракізм - ostracyzm (bojkot jakiejś osoby lub grupy osób) | ostracyzm (sąd skorupkowy)
-острів - wyspa | ostrów
+остракізм - ostracyzm (bojkot jakiejś osoby lub grupy osób), ostracyzm (sąd skorupkowy)
+острів - wyspa, ostrów
 острівець - wyspiarz
-острівок - wysepka | ostrówek
+острівок - wysepka, ostrówek
 отець - ojciec
-отримати - dostać | otrzymać
+отримати - dostać, otrzymać
 отрута - trucizna
 Оттава - Ottawa
 оцет - ocet
@@ -3000,14 +3000,14 @@ kozak - Kozak
 палеоботаніка - paleobotanika
 палеозоологія - paleozoologia
 палеонтологія - paleontologia
-палеофітологія - paleofitologia | paleobotanika
+палеофітологія - paleofitologia, paleobotanika
 палець - palec
 Палікір - Palikir
 Панама - Panama
 пантеїзм - panteizm
 панчоха - pończocha
 панщина - pańszczyzna
-папір - papier (materiał) | papier (dokument)
+папір - papier (materiał), papier (dokument)
 папір усе зносить - papier jest cierpliwy
 папір усе терпить - papier jest cierpliwy
 папороть - paproć
@@ -3022,7 +3022,7 @@ kozak - Kozak
 партія - partia
 парубок - chłopak
 пасивний - bierny
-паспорт - paszport | dowód osobisty
+паспорт - paszport, dowód osobisty
 патологія - patologia
 патріот - patriota
 патріотизм - patriotyzm
@@ -3030,9 +3030,9 @@ kozak - Kozak
 патріотка - patriotka
 пацифізм - pacyfizm
 пацифіст - pacyfista
-пацюк - szczur | prosię
+пацюк - szczur, prosię
 педант - pedant
-педантизм - pedantyzm | pedanteria
+педантизм - pedantyzm, pedanteria
 педантичний - pedantyczny
 педантичність - pedantyczność
 педантка - pedantka
@@ -3045,11 +3045,11 @@ kozak - Kozak
 перевтомлюватися - przemęczać się
 перегонка - destylacja
 переклад - przekład
-перемагати - pokonywać | zwyciężać | przezwyciężać
+перемагати - pokonywać, zwyciężać, przezwyciężać
 перемир'я - zawieszenie broni
 перемога - zwycięstwo
 перепливати - przepływać
-перо - pióro ptasie | pióro | pióro wieczne
+перо - pióro ptasie, pióro, pióro wieczne
 персик - brzoskwinia
 персона - osoba
 Перу - Peru
@@ -3061,7 +3061,7 @@ kozak - Kozak
 петрушка - pietruszka
 печера - jaskinia
 печінка - wątroba
-п'єса - sztuka teatralna | utwór muzyczny
+п'єса - sztuka teatralna, utwór muzyczny
 пивний - piwny
 пиво - piwo
 пилосос - odkurzacz
@@ -3077,11 +3077,11 @@ kozak - Kozak
 південний - południowy
 південноамериканський - południowoamerykański
 Південно-Африканська Республіка - Republika Południowej Afryki
-південь - południe | godzina 12 | południe (kierunek geograficzny)
+південь - południe, godzina 12, południe (kierunek geograficzny)
 півень - kogut
-півкуля - półkula | półkula kuli ziemskiej
+півкуля - półkula, półkula kuli ziemskiej
 півмісяць - półksiężyc
-північ - północ | godzina 24 | północ (kierunek geograficzny)
+північ - północ, godzina 24, północ (kierunek geograficzny)
 Північна Америка - Ameryka Północna
 Північна Ірландія - Irlandia Północna
 Північна Корея - Korea Północna
@@ -3093,7 +3093,7 @@ kozak - Kozak
 півфінал - półfinał
 півфіналіст - półfinalista
 півфінальний - półfinałowy
-пігмент - pigment | barwnik
+пігмент - pigment, barwnik
 під - pod
 підборіддя - podbródek
 під відкритим небом - pod gołym niebem
@@ -3101,19 +3101,19 @@ kozak - Kozak
 підкласти свиню - podłożyć świnię
 підлога - podłoga
 підмет - podmiot
-підосиковик - koźlarz czerwony | podosiniak
-підпільний - podziemny | konspiracyjny
+підосиковик - koźlarz czerwony, podosiniak
+підпільний - podziemny, konspiracyjny
 підставити свиню - podłożyć świnię
 пізній - późny
 пізно - późno
 пінгвін - pingwin
-піонер - pionier (osadnik, który jako pierwszy zasiedla dany teren) | pionier (osoba przecierająca szlaki w jakiejś dziedzinie) | pionier (harcerz zrzeszony w komunistycznej organizacji) | pionier (żołnierz wojsk inżynieryjnych)
-піонерка - pionierka (osadniczka, który jako pierwsza zasiedla dany teren) | pionierka (kobieta przecierająca szlaki w jakiejś dziedzinie) | pionierka (harcerka zrzeszona w komunistycznej organizacji)
-піонерський - pionierski | harcerski
+піонер - pionier (osadnik, który jako pierwszy zasiedla dany teren), pionier (osoba przecierająca szlaki w jakiejś dziedzinie), pionier (harcerz zrzeszony w komunistycznej organizacji), pionier (żołnierz wojsk inżynieryjnych)
+піонерка - pionierka (osadniczka, który jako pierwsza zasiedla dany teren), pionierka (kobieta przecierająca szlaki w jakiejś dziedzinie), pionierka (harcerka zrzeszona w komunistycznej organizacji)
+піонерський - pionierski, harcerski
 піп - pop (duchowny prawosławny)
-піп своє, а чорт своє - pop swoje | czort swoje
+піп своє, а чорт своє - pop swoje, czort swoje
 піроманія - piromania
-пісня - pieśń | piosenka
+пісня - pieśń, piosenka
 пісок - piasek
 пісочниця - piaskownica
 Піттсбург - Pittsburgh (stolica Allegheny)
@@ -3125,17 +3125,17 @@ kozak - Kozak
 платоспроможний - wypłacalny
 платоспроможність - wypłacalność
 плебісцит - plebiscyt
-плече - ramię | bark
-плід - owoc | płód | zarodek ludzki lub zwierzęcy | rezultat działań | ród | rodzina | rasa
-пліт - płot | tratwa
-плітка - plotka | płoć | płotka
-пляшка - butelka | flaszka
+плече - ramię, bark
+плід - owoc, płód, zarodek ludzki lub zwierzęcy, rezultat działań, ród, rodzina, rasa
+пліт - płot, tratwa
+плітка - plotka, płoć, płotka
+пляшка - butelka, flaszka
 Пномпень - Phnom Penh
-повезти - powieźć | odwieźć | poszczęścić się | udać się | powieść się
-поверх - piętro | z wierzchu | ponad | na
+повезти - powieźć, odwieźć, poszczęścić się, udać się, powieść się
+поверх - piętro, z wierzchu, ponad, na
 поверхня - powierzchnia
 повіка - powieka
-повільний - wolny | powolny
+повільний - wolny, powolny
 повісити ніс на квінту - zwiesić nos na kwintę
 повітря - powietrze
 повний - pełny
@@ -3144,7 +3144,7 @@ kozak - Kozak
 повстанський - powstańczy
 поганий - zły
 погода - pogoda
-подарунок - prezent | podarunek
+подарунок - prezent, podarunek
 подвійний - podwójny
 подушка - poduszka
 поезія - poezja
@@ -3153,8 +3153,8 @@ kozak - Kozak
 позбавляти - pozbawiać
 Познань - Poznań
 поїзд - pociąg
-поле - pole | dziedzina | tło
-полечка - Polka | poleczka
+поле - pole, dziedzina, tło
+полечка - Polka, poleczka
 політик - polityk
 політика - polityka
 політичний - polityczny
@@ -3163,22 +3163,22 @@ kozak - Kozak
 полонізація - polonizacja
 полоній - polon
 полуниця - truskawka
-полька - Polka | polka
+полька - Polka, polka
 польський - polski
 Польща - Polska
 поляк - Polak
 помаранчевий - pomarańczowy
-помешкання - mieszkanie | zamieszkanie
+помешкання - mieszkanie, zamieszkanie
 помилка - pomyłka
 помирати - umierać
 помідор - pomidor
 понад - ponad
 понеділок - poniedziałek
-попадя - popadia | żona popa
+попадя - popadia, żona popa
 пора року - pora roku
 порнографічний - pornograficzny
 порнографія - pornografia
-порожня дижка гучить, а повна мовчить - pusta beczka huczy | a pełna milczy
+порожня дижка гучить, а повна мовчить - pusta beczka huczy, a pełna milczy
 Порт-Луї - Port Louis
 Порто-Ново - Porto-Novo
 Порт-о-Пренс - Port-au-Prince
@@ -3190,18 +3190,18 @@ kozak - Kozak
 послідовник - zwolennik
 посмішка - uśmiech
 поставити - wystawić
-потворний - potworny | straszny
+потворний - potworny, straszny
 потреба - potrzeba
 потрійний - potrójny
 поцілувати замок - pocałować klamkę
 поцілувати колодку - pocałować klamkę
 початок - początek
-починати - zaczynać | rozpoczynać
+починати - zaczynać, rozpoczynać
 пошта - poczta
 поштовий - pocztowy (związany z pocztą)
 права тварин - prawa zwierząt
-правда - prawda | dokładność | precyzja
-правий - prawy | prawicowy | niewinny | mający rację
+правда - prawda, dokładność, precyzja
+правий - prawy, prawicowy, niewinny, mający rację
 право - prawo
 Прага - Praga
 празеодим - prazeodym
@@ -3212,15 +3212,15 @@ kozak - Kozak
 праця - praca
 предок - przodek
 президент - prezydent
-привабливий - pociągający | atrakcyjny
+привабливий - pociągający, atrakcyjny
 приватизаційний - prywatyzacyjny
 приватизація - prywatyzacja
 приватизувати - prywatyzować
-приватний - prywatny (niebędący własnością państwa) | prywatny (osobisty) | prywatny (nieoficjalny)
+приватний - prywatny (niebędący własnością państwa), prywatny (osobisty), prywatny (nieoficjalny)
 приватник - prywaciarz
 приватність - prywatność
 приватно - prywatnie
-привіт - cześć! | pozdrowienie | przywitanie
+привіт - cześć!, pozdrowienie, przywitanie
 придатний - przydatny
 приємність - przyjemność
 приїжджати - przyjechać
@@ -3239,22 +3239,22 @@ kozak - Kozak
 про вовка помовка - o wilku mowa
 прогестерон - progesteron
 програма - program
-прогрес - progres | postęp
+прогрес - progres, postęp
 продавати - sprzedawać
 простий - prosty
-проститутка - prostytutka | prostytutka (człowiek sprzedajny)
+проститутка - prostytutka, prostytutka (człowiek sprzedajny)
 проституція - prostytucja
 простодушний - prostoduszny
 простодушність - prostoduszność
 протекціонізм - protekcjonizm
 протест - protest
-протестант - protestant | osoba protestująca
+протестант - protestant, osoba protestująca
 протестантизм - protestantyzm
-протестантка - protestantka | kobieta protestująca
+протестантка - protestantka, kobieta protestująca
 протестантство - protestantyzm
 протестантський - protestancki
 протипожежний - przeciwpożarowy
-професія - profesja | zawód
+професія - profesja, zawód
 процес - proces
 прочитати - przeczytać
 психіатр - psychiatra
@@ -3267,7 +3267,7 @@ kozak - Kozak
 психологія - psychologia
 птах - ptak
 пташка - ptak
-птиця - ptak | persona | figura | szycha
+птиця - ptak, persona, figura, szycha
 публічний - publiczny
 публічний будинок - dom publiczny
 публічний дім - dom publiczny
@@ -3278,21 +3278,21 @@ kozak - Kozak
 пустеля - pustynia
 Пхеньян - Pjongjang
 пшениця - pszenica
-п'ятдесят - pięćdziesiąt | 50
+п'ятдесят - pięćdziesiąt, 50
 п'ятдесятий - pięćdziesiąty
 п'ятеро - pięcioro
 п'ятий - piąty
 п'ятикратний - pięciokrotny
 п'ятисотий - pięćsetny
-п'ятірка - piątka | 5
+п'ятірка - piątka, 5
 п'ятнадцятий - piętnasty
 п'ятнадцятка - piętnastka
-п'ятнадцять - piętnaście | 15
+п'ятнадцять - piętnaście, 15
 п'ятниця - piątek
-п'ятсот - pięćset | 500
+п'ятсот - pięćset, 500
 п'ять - pięć
 Рабат - Rabat
-равлик - ślimak (z muszlą) | znak @ | małpa
+равлик - ślimak (z muszlą), znak @, małpa
 рада - rada
 радіо - radio
 радіоактивний - radioaktywny
@@ -3300,39 +3300,39 @@ kozak - Kozak
 радник - doradca
 Радянський Союз - Związek Radziecki
 раз - raz
-разом - razem | wspólnie
+разом - razem, wspólnie
 рай - raj
-рак - rak (zwierzę) | rak (choroba)
-Рак - Rak | ♋
+рак - rak (zwierzę), rak (choroba)
+Рак - Rak, ♋
 рана - rana
-ранок - ranek | poranek | rano
+ранок - ranek, poranek, rano
 раптом - nagle
-рахувати - liczyć | rachować
+рахувати - liczyć, rachować
 реальгар - realgar
 реальний - realny
-ребро - żebro | krawędź | kant
-ревматичний - reumatyczny | reumatoidalny
+ребро - żebro, krawędź, kant
+ревматичний - reumatyczny, reumatoidalny
 революція - rewolucja
 регент - regent
 регіональний - regionalny
 редиска - rzodkiewka
-реєстрація - rejestracja | rejestrowanie
+реєстрація - rejestracja, rejestrowanie
 реєструвати - rejestrować
 реінкарнація - reinkarnacja
 Рейк'явік - Reykjavík
 релігійний - religijny
 релігійність - religijność
 релігія - religia
-рентабельний - rentowny | opłacalny | zyskowny
-рентабельність - rentowność | opłacalność
-рентабельно - rentownie | opłacalnie | zyskownie
+рентабельний - rentowny, opłacalny, zyskowny
+рентабельність - rentowność, opłacalność
+рентабельно - rentownie, opłacalnie, zyskownie
 республіка - republika
-Республіка Конго - Republika Konga | Kongo
+Республіка Конго - Republika Konga, Kongo
 Республіка Польща - Rzeczpospolita Polska
 ресторан - restauracja
 референдум - referendum
 речення - zdanie
-речовина - substancja | materia
+речовина - substancja, materia
 риба - ryba
 Риби - Ryby
 Рига - Ryga
@@ -3342,34 +3342,34 @@ kozak - Kozak
 ринок - rynek
 рись - ryś
 рицар - rycerz
-ріал - rial | real
+ріал - rial, real
 ріг - róg
-рід - rodzina | ród | plemię | pochodzenie | rodzaj | typ | odmiana
+рід - rodzina, ród, plemię, pochodzenie, rodzaj, typ, odmiana
 рідина - ciecz
 рідкий - rzadki
 рідко - rzadko
 рієль - riel
 Різдво - Boże Narodzenie
-різний - inny | różny
+різний - inny, różny
 рік - rok
 ріка - rzeka
 річка - rzeczka
 РНК - RNA
-робити - robić | wykonywać | tworzyć | produkować | działać | pracować | czynić | uczyniać
-робити з мухи слона - robić z muchy słonia | robić z igły widły | wyolbrzymiać coś
+робити - robić, wykonywać, tworzyć, produkować, działać, pracować, czynić, uczyniać
+робити з мухи слона - robić z muchy słonia, robić z igły widły, wyolbrzymiać coś
 робити, як віл - harować jak wół
 робітник - pracownik
 робітниця - robotnica
 робот - robot
-робота - robota | praca
+робота - robota, praca
 робота горить в руках - robota pali się w rękach
 робота горить під руками - robota pali się w rękach
-робота не вовк, в ліс не втіче - robota nie zając, nie ucieknie | robota nie wilk | do lasu nie ucieknie
+робота не вовк, в ліс не втіче - robota nie zając, nie ucieknie, robota nie wilk, do lasu nie ucieknie
 родій - rod
 родовий - rodowy
 родовий відмінок - dopełniacz
-рожевий - różowy | radosny | pogodny
-розмірність - wymiar | rozmiar
+рожевий - różowy, radosny, pogodny
+розмірність - wymiar, rozmiar
 розмовляти - rozmawiać
 Розо - Roseau
 розпусний - rozpustny
@@ -3380,11 +3380,11 @@ kozak - Kozak
 розпутниця - rozpustnica
 розстабілізація - destabilizacja
 розум - rozum
-розуміти - rozumieć | pojmować
-розумний - rozsądny | rozumny
+розуміти - rozumieć, pojmować
+розумний - rozsądny, rozumny
 рококо - rokoko
 ром - rum
-роман - powieść | romans
+роман - powieść, romans
 романтизм - romantyzm
 романтичний - romantyczny
 ропуха - ropucha
@@ -3397,8 +3397,8 @@ kozak - Kozak
 рослина - roślina
 рослинний - roślinny
 рости - rosnąć
-рот - usta | buzia | otwór gębowy | jama gębowa
-РП - RP (= Республіка Польща) | Rzeczpospolita Polska
+рот - usta, buzia, otwór gębowy, jama gębowa
+РП - RP (= Республіка Польща), Rzeczpospolita Polska
 ртуть - rtęć
 Руанда - Rwanda
 рубідій - rubid
@@ -3409,12 +3409,12 @@ kozak - Kozak
 румунка - Rumunka
 румунський - rumuński
 рупія - rupia
-руський - rosyjski | російський
+руський - rosyjski, російський
 руфія - rupia
 рух - ruch
 Ряшів - Rzeszów
 ряшівський - rzeszowski
-сад - ogród | sad
+сад - ogród, sad
 саксофоніст - saksofonista
 саксофоністка - saksofonistka
 саксофонний - saksofonowy
@@ -3429,16 +3429,16 @@ kozak - Kozak
 самовар - samowar
 самовбивець - samobójca
 самовбивство - samobójstwo
-самовбивця - samobójca | samobójczyni
+самовбивця - samobójca, samobójczyni
 самовбивчий - samobójczy
-самогон - bimber | samogon
-самогонка - bimber | samogon
-самогонний - bimbrowniczy | samogonowy
+самогон - bimber, samogon
+самогонка - bimber, samogon
+самогонний - bimbrowniczy, samogonowy
 самогонник - bimbrownik
 самогубець - samobójca
 самогубний - samobójczy
 самогубство - samobójstwo
-самогубця - samobójca | samobójczyni
+самогубця - samobójca, samobójczyni
 Сана - Sana
 Сан-Марино - San Marino
 сантиметр - centymetr
@@ -3448,7 +3448,7 @@ kozak - Kozak
 Сан-Хосе - San José
 сапфір - szafir
 Сараєво - Sarajewo
-сарана - szarańcza | dokuczliwy | uciążliwy tłum
+сарана - szarańcza, dokuczliwy, uciążliwy tłum
 сардинка - sardynka
 Саудівська Аравія - Arabia Saudyjska
 сауна - sauna
@@ -3461,27 +3461,27 @@ kozak - Kozak
 свій - swój
 Свіноуйсцє - Świnoujście
 світ - świat
-світанок - świt | brzask
-Світлана - Świetlana | Swietłana
+світанок - świt, brzask
+Світлана - Świetlana, Swietłana
 світлий - jasny
 світло - światło
 світовий - światowy
-свічка - świeca | świeczka
-свобода - wolność | swoboda
+свічка - świeca, świeczka
+свобода - wolność, swoboda
 свобода слова - wolność słowa
 святвечір - Wigilia Bożego Narodzenia
-себе - się | siebie
+себе - się, siebie
 седі - cedi
 сейсмічний - sejsmiczny
 сейсмологія - sejsmologia
 секта - sekta
 секунда - sekunda
 секція - sekcja
-селекціонер - selekcjoner | specjalista w zakresie selekcji
+селекціонер - selekcjoner, specjalista w zakresie selekcji
 селекція - selekcja
 селен - selen
 селера - seler
-село - wieś | wioska
+село - wieś, wioska
 семеро - siedmioro
 семестр - semestr
 семикратний - siedmiokrotny
@@ -3497,7 +3497,7 @@ kozak - Kozak
 Сербія - Serbia
 сербка - Serbka
 сербський - serbski
-серед - wśród | pośród
+серед - wśród, pośród
 середа - środa
 Середземне море - Morze Śródziemne
 середній рід - rodzaj nijaki
@@ -3505,10 +3505,10 @@ kozak - Kozak
 серотонін - serotonina
 серпень - sierpień
 сертифікат - certyfikat
-серце - serce | źródło uczuć | główna | najważniejsza lub centralna część czegoś | serce dzwonu | kształt | przedmiot symbolizujący serce (1.1-2)
+серце - serce, źródło uczuć, główna, najważniejsza lub centralna część czegoś, serce dzwonu, kształt, przedmiot symbolizujący serce (1.1-2)
 серцевий - sercowy
 сесія - sesja
-сестра - siostra | pielęgniarka | zakonnica
+сестра - siostra, pielęgniarka, zakonnica
 Сеул - Seul
 сеульський - seulski
 сигарета - papieros
@@ -3517,32 +3517,32 @@ kozak - Kozak
 сидіти як на голках - siedzieć jak na szpilkach
 сидіти як на шпичках - siedzieć jak na szpilkach
 сикхізм - sikhizm
-сила - siła | siły | grupa ludzi mająca na coś wpływ | potęga | moc | moc prawna | sedno | istota
-сильний - silny | intensywny
+сила - siła, siły, grupa ludzi mająca na coś wpływ, potęga, moc, moc prawna, sedno, istota
+сильний - silny, intensywny
 симптом - symptom
 син - syn
 синдром - syndrom
-синій - granatowy | niebieski | siny
+синій - granatowy, niebieski, siny
 синонім - synonim
 синтагма - syntagma
 сир - ser
 Сирія - Syria
 сирний - serowy
-система - system | układ
+система - system, układ
 сіль - sól
 сільське господарство - rolnictwo
 сім - siedem
-сімдесят - siedemdziesiąt | 70
+сімдесят - siedemdziesiąt, 70
 сімдесятий - siedemdziesiąty
 сімка - siódemka
 сімнадцятий - siedemnasty
-сімнадцять - siedemnaście | 17
-сімсот - siedemset | 700
+сімнадцять - siedemnaście, 17
+сімсот - siedemset, 700
 сім'я - rodzina
 Сінгапур - Singapur
 сіно - siano
-сірий - szary | niepozorny
-сірка - siarka | tłusta i żółta wydzielina na ściankach kanału usznego | wydzielina gruczołów u owiec
+сірий - szary, niepozorny
+сірка - siarka, tłusta i żółta wydzielina na ściankach kanału usznego, wydzielina gruczołów u owiec
 сірник - zapałka
 січень - styczeń
 сказати - powiedzieć
@@ -3560,13 +3560,13 @@ kozak - Kozak
 скрипач - skrzypek
 скрипачка - skrzypaczka
 скрипка - skrzypce
-скрипковий - skrzypcowy | wiolinowy
+скрипковий - skrzypcowy, wiolinowy
 скрупульозний - skrupulatny
 скрупульозність - skrupulatność
 скрупульозно - skrupulatnie
 скумбрія - makrela
 славістика - slawistyka
-слива - śliwa | śliwka
+слива - śliwa, śliwka
 сливовий - śliwkowy
 слимак - ślimak (bez muszli)
 сліпий - ślepy
@@ -3581,33 +3581,33 @@ kozak - Kozak
 словник - słownik
 словниковий - słownikowy
 словничок - słowniczek
-слово - słowo | wyraz | mowa | słowo (obietnica) | wystąpienie | głos (prawo przemawiania)
+слово - słowo, wyraz, mowa, słowo (obietnica), wystąpienie, głos (prawo przemawiania)
 слов'янський - słowiański
-слон - słoń | goniec
+слон - słoń, goniec
 слухати - słuchać
 смак - smak
 смачного - smacznego
-смерть - śmierć | koniec życia | personifikacja śmierci (1.1)
+смерть - śmierć, koniec życia, personifikacja śmierci (1.1)
 сметана - śmietana
-сміливість - śmiałość | odwaga
+сміливість - śmiałość, odwaga
 сміх - śmiech
 Смоленськ - Smoleńsk
 смоленський - smoleński
 сніг - śnieg
-сніговий - śniegowy | śnieżny
-сніговик - bałwan | figura ze śniegu
-сніговиця - śnieżyca | zawieja śnieżna | zamieć
+сніговий - śniegowy, śnieżny
+сніговик - bałwan, figura ze śniegu
+сніговиця - śnieżyca, zawieja śnieżna, zamieć
 снігопад - opady śniegu
 снігур - gil
-снігуронька - śnieżka | kula śnieżna
+снігуронька - śnieżka, kula śnieżna
 сніданок - śniadanie
-сніжинка - śnieżynka | płatek śniegu
-сніжка - śnieżka | kula śnieżna
+сніжинка - śnieżynka, płatek śniegu
+сніжка - śnieżka, kula śnieżna
 сніжний - śnieżny
 сніжно-білий - śnieżnobiały
 собака - pies
-собака на сіні - pies ogrodnika | pies na kopie siana
-сова - sowa | nocny marek (osoba, która zwykle późno kładzie się spać, aktywna głównie wieczorem)
+собака на сіні - pies ogrodnika, pies na kopie siana
+сова - sowa, nocny marek (osoba, która zwykle późno kładzie się spać, aktywna głównie wieczorem)
 совєтолог - sowietolog
 совєтологічний - sowietologiczny
 совєтологія - sowietologia
@@ -3616,22 +3616,22 @@ kozak - Kozak
 сокіл - sokół
 солдат - żołnierz
 солідарний - solidarny
-солідарність - solidarność | solidarność (współodpowiedzialność za działania lub ich zaniechanie)
-солодкий - słodki | błogi
+солідарність - solidarność, solidarność (współodpowiedzialność za działania lub ich zaniechanie)
+солодкий - słodki, błogi
 солодко - słodko
 Солон - Solon
 солоний - słony
-сом - sum | som
+сом - sum, som
 Сомалі - Somalia
 сон - sen
 сонет - sonet
-сонечко - słoneczko | słonko | biedronka
+сонечко - słoneczko, słonko, biedronka
 сонце - słońce (widoczne z Ziemi na niebie)
 Сонце - Słońce (gwiazda)
 сонячний - słoneczny
 соняшник - słonecznik
 Сопот - Sopot
-сорок - czterdzieści | 40
+сорок - czterdzieści, 40
 сорока - sroka
 сороковий - czterdziesty
 сосна - sosna
@@ -3640,7 +3640,7 @@ kozak - Kozak
 Софія - Sofia
 соціалізм - socjalizm
 Союз Радянських Соціалістичних Республік - Związek Socjalistycznych Republik Radzieckich
-спальний - sypialny | do spania
+спальний - sypialny, do spania
 спальний мішок - śpiwór
 спасибі - dziękuję
 спати - spać
@@ -3651,9 +3651,9 @@ kozak - Kozak
 спеціалістка - specjalistka
 спеціальний - specjalny
 спеціальність - specjalność
-спина - plecy | grzbiet
-співак - piosenkarz | śpiewak
-співати - śpiewać | piać
+спина - plecy, grzbiet
+співак - piosenkarz, śpiewak
+співати - śpiewać, piać
 спокій - spokój
 спокійний - spokojny
 Сполучені Штати Америки - Stany Zjednoczone Ameryki
@@ -3661,15 +3661,15 @@ kozak - Kozak
 спонсор - sponsor
 спорт - sport
 спосіб - sposób
-справедливий - sprawiedliwy | słuszny
-справедливість - sprawiedliwość | słuszność
-справедливо - sprawiedliwie | słusznie
-справжній - prawdziwy | rzeczywisty
+справедливий - sprawiedliwy, słuszny
+справедливість - sprawiedliwość, słuszność
+справедливо - sprawiedliwie, słusznie
+справжній - prawdziwy, rzeczywisty
 спрага - pragnienie
 спустити ніс на квінту - spuścić nos na kwintę
-спустити носа на квінту - spuścić nos na kwintę | opuścić nos na kwintę
-срібло - srebro | srebro (surowiec) | srebro (srebrny medal)
-срібний - srebrny | wykonany ze srebra | koloru srebra
+спустити носа на квінту - spuścić nos na kwintę, opuścić nos na kwintę
+срібло - srebro, srebro (surowiec), srebro (srebrny medal)
+срібний - srebrny, wykonany ze srebra, koloru srebra
 СРСР - ZSRR (= Союз Радянських Соціалістичних Республік)
 ссавець - ssak
 стабілізація - stabilizacja
@@ -3677,12 +3677,12 @@ kozak - Kozak
 стабільність - stabilność
 стабільно - stabilnie
 стадіон - stadion
-сталініст - stalinista | stalinowiec
+сталініст - stalinista, stalinowiec
 сталь - stal
 станція станція - stacja
 старий - stary
 старість - starość
-стародавній - starodawny | stary
+стародавній - starodawny, stary
 стати поперек горла - stanąć kością w gardle
 стаття - artykuł
 стегно - udo
@@ -3692,14 +3692,14 @@ kozak - Kozak
 стіл - stół
 стілець - krzesło
 стіна - ściana
-сто - sto | 100
+сто - sto, 100
 стократний - stukrotny
 столиця - stolica
 століття - stulecie
 столяр - stolarz
 стоматологія - stomatologia
-стопа - stopa | ryza
-сторінка - strona | stronica
+стопа - stopa, ryza
+сторінка - strona, stronica
 стояти - stać
 страва - danie
 страхування - ubezpieczenie
@@ -3719,31 +3719,31 @@ kozak - Kozak
 сусід - sąsiad
 сусідка - sąsiadka
 суспільно - społecznie
-суспільство - społeczeństwo | społeczność | stowarzyszenie
+суспільство - społeczeństwo, społeczność, stowarzyszenie
 суфікс - przyrostek
 сухий - suchy
 суцвіття - kwiatostan
 сучасний - współczesny
 сушарка - suszarka
 сфера - sfera
-схід - wschód (chwila pojawienia się ciała niebieskiego (w domyśle: Słońca) nad horyzontem) | wschód (kierunek geograficzny)
+схід - wschód (chwila pojawienia się ciała niebieskiego (w domyśle: Słońca) nad horyzontem), wschód (kierunek geograficzny)
 Східний Тимор - Timor Wschodni
 східнокарибський - wschodniokaraibski
-сховати - schować | ukryć
+сховати - schować, ukryć
 Сьєрра-Леоне - Sierra Leone
-сьогодні - dzisiaj | dziś
+сьогодні - dzisiaj, dziś
 сьомий - siódmy
-та - i | ale | lecz | a | zaś | ta
-табір - obóz (miejsce biwakowania) | obóz (miejsce izolacji) | obóz (sojusz, stronnictwo) | tabor | koczowisko | obozowisko
+та - i, ale, lecz, a, zaś, ta
+табір - obóz (miejsce biwakowania), obóz (miejsce izolacji), obóz (sojusz, stronnictwo), tabor, koczowisko, obozowisko
 Таджикистан - Tadżykistan
 Таїланд - Tajlandia
 тайванський - tajwański
-так - tak | w ten sposób | więc
+так - tak, w ten sposób, więc
 така - taka
 так званий - tak zwany
-також - także | też | również
+також - także, też, również
 таксидермія - taksydermia
-таксометр - taksometr | taksomierz
+таксометр - taksometr, taksomierz
 Таллінн - Tallinn
 там - tam
 танець - taniec
@@ -3757,7 +3757,7 @@ kozak - Kozak
 Тбілісі - Tbilisi
 тварина - zwierzę
 тваринка - zwierzątko
-твердий - twardy | stały | stabilny
+твердий - twardy, stały, stabilny
 твій - twój
 творити - tworzyć
 театр - teatr
@@ -3766,7 +3766,7 @@ kozak - Kozak
 Тегусігальпа - Tegucigalpa
 текст - tekst
 телебачення - telewizja
-телефон - aparat telefoniczny | telefon | numer telefonu
+телефон - aparat telefoniczny, telefon, numer telefonu
 телець - cielec
 Телець - Byk
 телятина - cielęcina
@@ -3774,7 +3774,7 @@ kozak - Kozak
 тенге - tenge
 теніс - tenis
 теологічний - teologiczny
-тепер - teraz | obecnie
+тепер - teraz, obecnie
 теперішній час - czas teraźniejszy
 теплий - ciepły
 Терези - Waga
@@ -3784,26 +3784,26 @@ kozak - Kozak
 тероризм - terroryzm
 техніка - technika
 технологія - technologia
-т.з. - tzw. (= так званий) | tak zwany
+т.з. - tzw. (= так званий), tak zwany
 ти - ty
-тигр - tygrys | człowiek | charakterem przypominający drapieżność tygrysa
+тигр - tygrys, człowiek, charakterem przypominający drapieżność tygrysa
 тиждень - tydzień
-тиск - ciśnienie | nacisk | presja | ucisk
-тисяча - tysiąc | 1000
+тиск - ciśnienie, nacisk, presja, ucisk
+тисяча - tysiąc, 1000
 тисячний - tysięczny
 тисячократний - tysiąckrotny
-титан - tytan | silny | potężny człowiek
+титан - tytan, silny, potężny człowiek
 Тихий океан - Ocean Spokojny
 тиша - cisza
 тіло - ciało
-тільки - tylko | jedynie | dopiero | ledwie
+тільки - tylko, jedynie, dopiero, ledwie
 тінь - cień
 Тірана - Tirana
 тісто - ciasto
-тітка - ciocia | ciotka
-тітушка - uliczny chuligan opłacany przez rząd | używany do walki z opozycją
+тітка - ciocia, ciotka
+тітушка - uliczny chuligan opłacany przez rząd, używany do walki z opozycją
 товар - towar
-товариство - towarzystwo | stowarzyszenie | spółka
+товариство - towarzystwo, stowarzyszenie, spółka
 товариство з обмеженою відповідальністю - spółka z ograniczoną odpowiedzialnością
 товариш - towarzysz
 Того - Togo
@@ -3811,13 +3811,13 @@ kozak - Kozak
 Токіо - Tokio
 толерантність - tolerancja
 том - tom
-томат - pomidor | pasta lub sos z pomidorów
+томат - pomidor, pasta lub sos z pomidorów
 Тоскана - Toskania
 тоталітаризм - totalitaryzm
 тоталітарний - totalitarny
 трава - trawa
 травень - maj
-трагедія - tragedia | nieszczęście
+трагедія - tragedia, nieszczęście
 трагікомедія - tragikomedia
 трагікомічний - tragikomiczny
 трагічний - tragiczny
@@ -3835,16 +3835,16 @@ kozak - Kozak
 три - trzy
 тривати - trwać
 тридцятий - trzydziesty
-тридцять - trzydzieści | 30
+тридцять - trzydzieści, 30
 трильйон - trylion
 трильйонний - trylionowy
 тринадцятий - trzynasty
-тринадцять - trzynaście | 13
+тринадцять - trzynaście, 13
 Тринідад і Тобаго - Trynidad i Tobago
-триста - trzysta | 300
+триста - trzysta, 300
 трійка - trójka
 Тріполі - Trypolis
-тріска - trzaska | drzazga | dorsz
+тріска - trzaska, drzazga, dorsz
 троє - troje
 тромбон - puzon
 тромбоніст - puzonista
@@ -3852,12 +3852,12 @@ kozak - Kozak
 тромбонний - puzonowy
 троянда - róża
 труба - trąbka
-трудівник - pracownik | pracuś
+трудівник - pracownik, pracuś
 трьохсотий - trzechsetny
 туалет - toaleta
 туалетний папір - papier toaletowy
 тугрик - tugrik
-туди - tam | tędy
+туди - tam, tędy
 туман - mgła
 тунець - tuńczyk
 Туніс - Tunezja
@@ -3867,9 +3867,9 @@ kozak - Kozak
 Туркменістан - Turkmenistan
 турок - Turek
 турчанка - Turczynka
-тут - tu | tutaj
+тут - tu, tutaj
 Тхімпху - Thimphu
-тхір - tchórz | tchórz (człowiek strachliwy, bojaźliwy)
+тхір - tchórz, tchórz (człowiek strachliwy, bojaźliwy)
 тюль - tiul
 тюркологічний - turkologiczny
 тюркомовний - tureckojęzyczny
@@ -3877,7 +3877,7 @@ kozak - Kozak
 тютюн - tytoń
 тютюнокуріння - palenie tytoniu
 тютюнопаління - palenie tytoniu
-у - w | we | u
+у - w, we, u
 убивати - zabijać
 увага - uwaga
 Уганда - Uganda
@@ -3886,7 +3886,7 @@ kozak - Kozak
 угорка - Węgierka
 угорський - węgierski
 Угорщина - Węgry
-удар - cios | uderzenie | udar
+удар - cios, uderzenie, udar
 удар нижче пояса - cios poniżej pasa
 Узбекистан - Uzbekistan
 Україна - Ukraina
@@ -3897,27 +3897,27 @@ kozak - Kozak
 україністика - ukrainistyka
 українка - Ukrainka
 українознавство - ukrainoznawstwo
-україноненависництво - ukrainofobia | antyukrainizm
+україноненависництво - ukrainofobia, antyukrainizm
 українофобія - ukrainofobia
 українська мова - język ukraiński
 український - ukraiński
-УКХ - UKF (= льтраороткі вилі) | fale ultrakrótkie
+УКХ - UKF (= льтраороткі вилі), fale ultrakrótkie
 Улан-Батор - Ułan Bator
 Улан-Уде - Ułan Ude
 ультразвук - ultradźwięk
 умовний - warunkowy
 університет - uniwersytet
-УПА - UPA | Ukraińska Powstańcza Armia
+УПА - UPA, Ukraińska Powstańcza Armia
 уподібнення - asymilacja
 у поті чола - w pocie czoła
 уран - uran
-Уран - Uranos | Uran
+Уран - Uranos, Uran
 урок - lekcja
 Уругвай - Urugwaj
 у страха великі очі - strach ma wielkie oczy
 утерти носа - utrzeć nosa
 учень - uczeń
-учитель - nauczyciel | instruktor
+учитель - nauczyciel, instruktor
 фагот - fagot
 фанатизм - fanatyzm
 фанатик - fanatyk
@@ -3925,13 +3925,13 @@ kozak - Kozak
 фанатично - fanatycznie
 фараон - faraon
 Фарерські острови - Wyspy Owcze
-фахівець - specjalista | znawca | fachowiec
+фахівець - specjalista, znawca, fachowiec
 фашизм - faszyzm
 фашистський - faszystowski
-Федеративна Республіка Німеччини - Republika Federalna Niemiec | Niemcy
+Федеративна Республіка Німеччини - Republika Federalna Niemiec, Niemcy
 фемінізм - feminizm
 фенілаланін - fenyloalanina
-фенілкетонурія - fenyloketonuria | oligofrenia fenylopirogronowa
+фенілкетонурія - fenyloketonuria, oligofrenia fenylopirogronowa
 феодалізм - feudalizm
 Фермопіли - Termopile
 Фіджі - Fidżi
@@ -3956,7 +3956,7 @@ kozak - Kozak
 Фінікія - Fenicja
 фінікіянин - Fenicjanin
 фінікіянка - Fenicjanka
-фінка - Finka | koń fiński | finka | nóż fiński | rodzaj zimowej czapki fińskiej | lekka łódka z wąskim dziobem
+фінка - Finka, koń fiński, finka, nóż fiński, rodzaj zimowej czapki fińskiej, lekka łódka z wąskim dziobem
 фінляндизація - finlandyzacja
 Фінляндія - Finlandia
 фінський - fiński
@@ -3969,32 +3969,32 @@ kozak - Kozak
 форель - pstrąg
 форма - forma
 фортепіано - fortepian
-фортеця - forteca | twierdza
+фортеця - forteca, twierdza
 фосфор - fosfor
 фотографія - fotografia
 фразеологізм - frazeologizm
 фразеологічний - frazeologiczny
-фразеологія - frazeologia (zasób wyrażeń w danym języku) | frazeologia (nauka o frazeologizmach) | frazeologia (frazesy)
+фразеологія - frazeologia (zasób wyrażeń w danym języku), frazeologia (nauka o frazeologizmach), frazeologia (frazesy)
 франк - frank
 Франція - Francja
 француженка - Francuzka
 француз - Francuz
 французький - francuski
-ФРН - RFN (= Федеративна Республіка Німеччини) | Republika Federalna Niemiec
-фрукт - owoc | typek | nieprzyjemny lub podejrzany człowiek
+ФРН - RFN (= Федеративна Республіка Німеччини), Republika Federalna Niemiec
+фрукт - owoc, typek, nieprzyjemny lub podejrzany człowiek
 фруктаріанство - frutarianizm
 фруктоза - fruktoza
 фтор - fluor
 функція - funkcja
 фунт - funt
-футбол - futbol | piłka nożna
+футбол - futbol, piłka nożna
 футболіст - piłkarz
 футбольний - piłkarski
 футурологія - futurologia
 халіфат - kalifat
 Харків - Charków
-хвилина - minuta | chwila
-хвиля - fala | długość fali
+хвилина - minuta, chwila
+хвиля - fala, długość fali
 хвіст - ogon
 хворий - chory
 хвороба - choroba
@@ -4005,17 +4005,17 @@ kozak - Kozak
 хімія - chemia
 хіроптерологія - chiropterologia
 Хіросіма - Hiroszima
-хліб - chleb | zboże
+хліб - chleb, zboże
 хлопець - chłopiec
-хлопчик - chłopiec | chłopczyk
+хлопчик - chłopiec, chłopczyk
 хлоп'ячий - chłopięcy
 хлор - chlor
 хмара - chmura
-хмарочос - wieżowiec | drapacz chmur
+хмарочос - wieżowiec, drapacz chmur
 хміль - chmiel
 ходити - chodzić
 холодильник - lodówka
-холодний - zimny | chłodny
+холодний - zimny, chłodny
 хор - chór
 хорват - Chorwat
 Хорватія - Chorwacja
@@ -4023,37 +4023,37 @@ kozak - Kozak
 хорватський - chorwacki
 хоробрий - odważny
 хотіти - chcieć
-хоч ми собі брати, але наші кишені не сестри - kochajmy się jak bracia, rachujmy się jak Żydzi | chociaż jesteśmy sobie braćmi | to nasze kieszenie nie są siostrami
-хребет - grzbiet | kręgosłup
+хоч ми собі брати, але наші кишені не сестри - kochajmy się jak bracia, rachujmy się jak Żydzi, chociaż jesteśmy sobie braćmi, to nasze kieszenie nie są siostrami
+хребет - grzbiet, kręgosłup
 хрест - krzyż
 християнин - chrześcijanin
 християнка - chrześcijanka
-християнство - chrześcijaństwo | chrześcijaństwo (ogół chrześcijan)
+християнство - chrześcijaństwo, chrześcijaństwo (ogół chrześcijan)
 християнський - chrześcijański
 христологія - chrystologia
 Христос - Chrystus
 хром - chrom
 хронічний - chroniczny
 хрущ - żuk
-хто - kto? | kto
+хто - kto?, kto
 худий - chudy (o człowieku)
 худоба - bydło
 хуй - chuj (penis)
 цап - koza
-цар - król | cesarz
-цвинтар - cmentarz | podwórko koło cerkwi wraz z cmentarzem
+цар - król, cesarz
+цвинтар - cmentarz, podwórko koło cerkwi wraz z cmentarzem
 цвіклі - ćwikła
 цвіркун - świerszcz
 цвіт - kwiat
 цвітна капуста - kalafior
 цвях - gwóźdź
-це - to | цей
+це - to, цей
 цегла - cegła
 цегляний - ceglany
 цезій - cez
 цей - ten
 Центральна Америка - Ameryka Środkowa
-центральний - centralny | środkowy
+центральний - centralny, środkowy
 церемонія - ceremonia
 церій - cer
 церква - kościół
@@ -4075,13 +4075,13 @@ kozak - Kozak
 цунамі - tsunami
 цуценя - szczeniak
 Чад - Czad
-чай - herbata | napar z ziół
+чай - herbata, napar z ziół
 чайка - mewa
 чапля - czapla
-час - czas | pora | moment
+час - czas, pora, moment
 часник - czosnek
 частина - część
-частка - część | cząstka | partykuła
+частка - część, cząstka, partykuła
 часто - często
 чверть - ćwierć
 чвертьфінал - ćwierćfinał
@@ -4090,7 +4090,7 @@ kozak - Kozak
 червень - czerwiec
 червона картка - czerwona kartka
 червоний - czerwony
-черемша - czosnek niedźwiedzi ( L.) | czosnek siatkowaty ( L.)
+черемша - czosnek niedźwiedzi ( L.), czosnek siatkowaty ( L.)
 черепаха - żółw
 черешня - czereśnia
 чеський - czeski
@@ -4111,27 +4111,27 @@ kozak - Kozak
 число - liczba
 чистий - czysty
 читати - czytać
-чобіт - but | botek
+чобіт - but, botek
 чоло - czoło
-чоловік - mężczyzna | mąż | człowiek | jakaś osoba | zwykle mężczyzna
+чоловік - mężczyzna, mąż, człowiek, jakaś osoba, zwykle mężczyzna
 чоловічий рід - rodzaj męski
-чоловічний - człowieczy | ludzki
-чому - dlaczego? czemu? | dlaczego | czemu
+чоловічний - człowieczy, ludzki
+чому - dlaczego? czemu?, dlaczego, czemu
 чорна скринька - czarna skrzynka
 Чорне море - Morze Czarne
 чорний - czarny
 чорниця - czarna jagoda
 Чорнобиль - Czarnobyl
 Чорногорія - Czarnogóra
-чорт - czart | diabeł
+чорт - czart, diabeł
 чотири - cztery
 чотирикратний - poczwórny
-чотириста - czterysta | 400
+чотириста - czterysta, 400
 чотирнадцятий - czternasty
-чотирнадцять - czternaście | 14
+чотирнадцять - czternaście, 14
 чотирьохсотий - czterechsetny
-чути - słyszeć | słuchać | czuć | odczuwać
-шаблон - szablon | wzornik | wzorzec
+чути - słyszeć, słuchać, czuć, odczuwać
+шаблон - szablon, wzornik, wzorzec
 шавлія - szałwia
 шаманізм - szamanizm
 шафа - szafa
@@ -4146,10 +4146,10 @@ kozak - Kozak
 Швейцарія - Szwajcaria
 швейцарка - Szwajcarka
 швейцарський - szwajcarski
-швейцарський сир - żółty ser | ser szwajcarski
+швейцарський сир - żółty ser, ser szwajcarski
 Швеція - Szwecja
-швидкий - szybki | prędki
-швидко - szybko | prędko
+швидкий - szybki, prędki
+швидко - szybko, prędko
 шекель - szekel
 шестеро - sześcioro
 шестикратний - sześciokrotny
@@ -4162,21 +4162,21 @@ kozak - Kozak
 шинка - szynka
 широко - szeroko
 шити - szyć
-шия - szyja | kark
-шістдесят - sześćdziesiąt | 60
+шия - szyja, kark
+шістдесят - sześćdziesiąt, 60
 шістдесятий - sześćdziesiąty
 шістка - szóstka
 шістнадцятий - szesnasty
-шістнадцять - szesnaście | 16
-шістсот - sześćset | 600
+шістнадцять - szesnaście, 16
+шістсот - sześćset, 600
 шість - sześć
 шкарпетка - skarpetka
 шкідливий - szkodliwy
 шкіра - skóra
 школа - szkoła
-шлунок - żołądek | potrawa z żołądka (1.1)
-шлях - droga | szlak
-шовінізм - szowinizm (skrajna postawa nacjonalistyczna) | szowinizm (wrogość wobec przedstawicieli innych grup społecznych)
+шлунок - żołądek, potrawa z żołądka (1.1)
+шлях - droga, szlak
+шовінізм - szowinizm (skrajna postawa nacjonalistyczna), szowinizm (wrogość wobec przedstawicieli innych grup społecznych)
 шовініст - szowinista
 шовк - jedwab
 шоколад - czekolada
@@ -4187,7 +4187,7 @@ kozak - Kozak
 Шрі-Ланка - Sri Lanka
 штрафний майданчик - pole karne
 штрафний удар - rzut karny
-штука - sztuka | egzemplarz | kawał | żart | figiel
+штука - sztuka, egzemplarz, kawał, żart, figiel
 штурм - szturm
 шукайте і знайдете - szukajcie, a znajdziecie
 шухляда - szuflada
@@ -4195,13 +4195,13 @@ kozak - Kozak
 щасливий - szczęśliwy
 щастя - szczęście
 ще - jeszcze
-що - co? | co | który | jak | że | co jakiś czas (odbywający się)
+що - co?, co, który, jak, że, co jakiś czas (odbywający się)
 щока - policzek
 щука - szczupak
 щур - szczur
 юань - juan
 Юлія - Julia
-юрба - tłum | tłok | masa
+юрба - tłum, tłok, masa
 я - ja
 яблуко - jabłko
 яблуня - jabłoń
@@ -4209,18 +4209,18 @@ kozak - Kozak
 ягня - jagnię
 ягода - jagoda
 яєчко - jądro
-язик - język | ozór | ozorek | jeniec złapany dla uzyskania informacji o wrogu
-яйце - jajko | jajo
+язик - język, ozór, ozorek, jeniec złapany dla uzyskania informacji o wrogu
+яйце - jajko, jajo
 як - jak
 як грім з ясного неба - jak grom z jasnego nieba
 якість - jakość
 як кіт наплакав - tyle, co kot napłakał
-якщо - jeśli | jeżeli
-ялиця - jodła | drewno z jodły (1.1) | las jodłowy
+якщо - jeśli, jeżeli
+ялиця - jodła, drewno z jodły (1.1), las jodłowy
 ялиця сибірська - jodła syberyjska
 яловичина - wołowina
 Ялта - Jałta
-Ямайка - Jamajka (wyspa) | Jamajka (państwo)
+Ямайка - Jamajka (wyspa), Jamajka (państwo)
 Японія - Japonia
 ясен - jesion
 ясень - jesion

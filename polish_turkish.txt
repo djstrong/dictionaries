@@ -4,22 +4,22 @@ abakus - abaküs
 abażur - abajur
 abchaski - Abhazca
 abdest - abdest
-abdykować - çekılmek el çekmek | feragat etmek
-abecadło - alfabe | abece
-abfal - hata | çöp
+abdykować - çekılmek el çekmek, feragat etmek
+abecadło - alfabe, abece
+abfal - hata, çöp
 Abidżan - Abican
-abiecadło - alfabe | abece
+abiecadło - alfabe, abece
 ablegierek - çocuk
 aborcja - kürtaj
 Abraham - İbrahim
 absolutny - mutlak
 abstrakcyjny - abstre
 abstynencja - perhiz
-absurdalny - abes | saçma | absürd
+absurdalny - abes, saçma, absürd
 Abudża - Abuja
 Adam - Adem
 Adonis - Adonis
-adres - yön | adres
+adres - yön, adres
 adwentnik - aralık
 adwokat - avukat
 aeroplan - uçak
@@ -48,14 +48,14 @@ akwarium - akvaryum
 Akwitania - Akitanya
 Albania - Arnavutluk
 albański - Arnavutça
-albinos - albinos | akşın
+albinos - albinos, akşın
 alchemia - alşimi
 Aleksander - İskender
 Aleksandria - İskenderiye
 Aleppo - Halep
 alergia - alerji
-alfabet - alfabe | abece
-alfabetu - alfabe | abece
+alfabet - alfabe, abece
+alfabetu - alfabe, abece
 Algieria - Cezayir
 algofobia - algofobi
 algorytm - algoritma
@@ -78,8 +78,8 @@ Amman - Amman
 amoniak - amonyak
 amper - amper
 amputacja - ampütasyon
-Amu-daria - Amuderya | Ceyhun
-analiza - analiz | tahlil
+Amu-daria - Amuderya, Ceyhun
+analiza - analiz, tahlil
 ananas - ananas
 anarchia - anarşi
 anarchista - anarşist
@@ -91,12 +91,12 @@ andrologia - androloji
 Andromeda - Andromeda
 Andy - And Dağları
 aneksja - ilhak
-anemia - kansızlık | anemi
+anemia - kansızlık, anemi
 Anglik - ingiliz
 angol - ingiliz
 Angol - ingiliz
 animista - canlıcı
-animizm - animizm | canlıcılık
+animizm - animizm, canlıcılık
 Ankara - Ankara
 anons - bildiri
 Antananarywa - Antananarivo
@@ -126,7 +126,7 @@ apteka - eczane
 Arab - Arap
 arabeska - arabesk
 Arabia Saudyjska - Suudi Arabistan
-arabski - Arap | Arapça
+arabski - Arap, Arapça
 arabus - Arap
 arak - arak
 aramejski - Aramice
@@ -145,31 +145,31 @@ arytmetyka - aritmetik
 asafetyda - şeytantersi
 aseksualizm - aseksüel
 asfalt - asfalt
-asterysk - asterisk | yıldız imi | yıldız işareti
+asterysk - asterisk, yıldız imi, yıldız işareti
 astrolog - astrolog
 astrologia - astroloji
 astrologio - astroloji
 astronauta - astronot
-astronom - astronom | gökbilimci
-astronomia - gökbilim | astronomi
-astronomio - gökbilim | astronomi
+astronom - astronom, gökbilimci
+astronomia - gökbilim, astronomi
+astronomio - gökbilim, astronomi
 asturyjski - Asturyasça
 Asyria - Asurlular
 asza - kül
 Aszchabad - Aşkabat
 ateista - ateist
-ateistyczny - Allahsız | ateist
+ateistyczny - Allahsız, ateist
 ateizm - ateizm
 atencja - dikkat
 Ateny - Atina
 ateusz - ateist
-Atlantyk - Atlantik | Atlas Okyanusu
+Atlantyk - Atlantik, Atlas Okyanusu
 atmosfera - atmosfer
 Augiasz - Augeas
 Australia - Avustralya
 Austria - Avusturya
 autoklaw - otoklav
-autonomia - özerklik | muhtariyet | otonomi
+autonomia - özerklik, muhtariyet, otonomi
 autonomiczny - özerk
 autyzm - otizm
 Azerbejdżan - Azerbaycan
@@ -188,7 +188,7 @@ bajka - masal
 bajtel - çocuk
 bajura - çamur
 bak - tankı
-bakałarz - öğretmen | muallim
+bakałarz - öğretmen, muallim
 bakelit - bakalit
 baklawa - baklava
 bakłażan - patlıcan
@@ -199,20 +199,20 @@ Bałtyk - Baltık Denizi
 bambosz - terlik
 bambus - bambu
 bania - baş
-baniaczek - şapka | başlık
+baniaczek - şapka, başlık
 baniak - baş
 bank - banki
 bankructwo - iflas
 Barabasz - Barabbas m
 Baran - Koç
-bardzo - çok | daha
+bardzo - çok, daha
 barter - barter
 barwa - renk
-barzej - çok | daha
+barzej - çok, daha
 baskijski - Baskça
 bebech - mide
 bekwarek - ardıç bülbülü
-belfer - öğretmen | muallim
+belfer - öğretmen, muallim
 Belgia - Belçika
 bengalski - Bengalce
 Benin - Benin
@@ -225,7 +225,7 @@ bezbożny - Allahsız
 bezcelowy - amaçsız
 bezdzietność - çocuksuzluk
 bezgraniczny - hudutsuz
-bezlitosny - merhametsiz | amansız | acımasız | Allahsız
+bezlitosny - merhametsiz, amansız, acımasız, Allahsız
 bezmózgi - beyinsiz
 bezosobowy - kişiliksiz
 beżowy - bej
@@ -237,7 +237,7 @@ bezużyteczny - abes
 bezzapachowy - kokusuz
 biały - beyaz
 biały fosfor - beyaz fosfor
-biber - şapka | başlık
+biber - şapka, başlık
 Biblia - Kutsal Kitap
 bibliografia - bibliyografya
 biblioteka - kütüphane
@@ -252,23 +252,23 @@ binks - morartı
 binol - morartı
 biochemia - biyokimya
 biograficzny - biyografik
-biologia - biyoloji | dirimbilim | canlı bilimi
-Birma - Burma | Birmanya
+biologia - biyoloji, dirimbilim, canlı bilimi
+Birma - Burma, Birmanya
 birmański - Burmaca
 biseksualizm - biseksüellik
 biskup - piskopos
 bizmut - bizmut
 błąd - hata
 blaga - yalan
-Bliski Wschód - Yakın Doğu | Orta Doğu | Ortadoğu
+Bliski Wschód - Yakın Doğu, Orta Doğu, Ortadoğu
 Bliźnięta - İkizler
 błoto - çamur
 bo - çünkü
-Bóg - Tanrı | Allah
+Bóg - Tanrı, Allah
 ból - ağrı
 Boliwia - Bolivya
 bombel - çocuk
-bonsai - bonsai | bonsay
+bonsai - bonsai, bonsay
 bor - bor
 Bośnia - Bosna
 Bośnia i Hercegowina - Bosna ve Hersek
@@ -293,7 +293,7 @@ budka telefoniczna - telefon kulübesi
 buldożer - buldozer
 Bułgaria - Bulgaristan
 bułgarski - Bulgarca
-bulić - ödemek | tediye etmek
+bulić - ödemek, tediye etmek
 Burkina Faso - Burkina Faso
 bursztyn - kehribar
 burzowiny - bira
@@ -307,7 +307,7 @@ cenotaf - anıt mezar
 cera - kız evlat
 chałwa - helva
 chan - kağan
-chaotyczny - karmakarışık | düzensiz
+chaotyczny - karmakarışık, düzensiz
 chart - tazı
 chemia - kimya
 chemia biologiczna - biyokimya
@@ -335,15 +335,15 @@ ciągnik - traktör
 ciało - beden
 ciap - terlik
 ciapryka - çamur
-ciepły - ılık | sıcak
+ciepły - ılık, sıcak
 ciężarny - hamile
 ciga - keçi
 ciocia - teyze
 cipka - tavuk
 ciśnienie - basınç
-ciupa - cezaevi | hapishane
+ciupa - cezaevi, hapishane
 ciurlocek - penis
-ciurma - cezaevi | hapishane
+ciurma - cezaevi, hapishane
 ciut - biraz
 ćmik - sigara
 cnotliwy - erdemli
@@ -362,13 +362,13 @@ cygaretka - sigara
 cynk - çinko
 Cypr - Kıbrıs
 cytologia - sitoloji
-cywilizacja - uygarlık | medeniyet
+cywilizacja - uygarlık, medeniyet
 Czad - Çad
 czador - çador
 czaj - çay
 czajnik - baş
 czarna dziura - kara delik
-czarna skrzynka - kara kutu | karanlık kutu
+czarna skrzynka - kara kutu, karanlık kutu
 Czarnogóra - Karadağ
 czarny - siyah
 czarny rynek - karaborsa
@@ -382,18 +382,18 @@ Czechosłowacja - Çekoslovakya
 Czecho-Słowacja - Çekoslovakya
 Czeczenia - Çeçenya
 czędo - çocuk
-czernica - dut | böğürtlen
+czernica - dut, böğürtlen
 czerwiec - haziran
 czerwony - kırmızı
-cześć - selam | merhaba
+cześć - selam, merhaba
 Częstochowa - Çestohova
 częstoskurcz - taşikardi
-częstotliwość - frekans | titreşim sayısı
+częstotliwość - frekans, titreşim sayısı
 czkawka - hıçkırık
 członek - penis
-człowiek - adam | insan
+człowiek - adam, insan
 czoło - alın
-czorny - siyah | bulaşık
+czorny - siyah, bulaşık
 czwartek - perşembe
 czwartorzęd - Kuvaterner
 czyhunka - toryum
@@ -401,7 +401,7 @@ czyrwiec - haziran
 czyrwień - haziran
 czytać - okumak
 Dagestan - Dağıstan
-dalece - çok | daha
+dalece - çok, daha
 Dania - Danimarka
 darowanemu koniowi w zęby się nie zagląda - hediye atın dişine bakılmaz
 deizm - deizm
@@ -412,7 +412,7 @@ delikatność - hassasiyet
 demografia - demografi
 demokracja - demokrasi
 Demokratyczna Republika Wyspy Świętego Tomasza i Wysp Świętego Tomasza i Książęcej - São Tomé ve Príncipe Demokratik Cumhuriyeti
-demonstracja - gösterme | gösteri
+demonstracja - gösterme, gösteri
 dermatolog - dermatolog
 dermatologa - dermatolog
 despota - despot w
@@ -421,7 +421,7 @@ deszcz - yağmur
 deżdż - yağmur
 dezinformacja - dezenformasyon
 diagnoza - teşhis
-dialekt - lehçe | diyalekt
+dialekt - lehçe, diyalekt
 difalia - diphallia
 dioda - diyot
 Diogenes - Diyojen
@@ -434,9 +434,9 @@ dobrobyt - refah
 dobrowolny - gönüllü
 dobry wieczór - iyi akşamlar
 Dodekanez - Onikiada
-dogmatyzm - dogmatizm | dogmacılık
+dogmatyzm - dogmatizm, dogmacılık
 dogodny - münasip
-doktor - doktor | hekim | tabip
+doktor - doktor, hekim, tabip
 dolegliwość - hastalık
 dolmen - dolmen
 dom - ev
@@ -464,7 +464,7 @@ dynamiczność - hız
 dyplom - diploma
 dysfagia - disfaji
 dysleksja - disleksi
-dywan - kilim | keçe
+dywan - kilim, keçe
 dywanik - halı
 Dżamila - Cemile
 działanie - etki
@@ -497,17 +497,17 @@ dżistać - osurmak
 dziunia - kız
 dziwaczny - acayip
 dziwka - fahişe
-dżungla - cungla | orman | sık orman
+dżungla - cungla, orman, sık orman
 echo - yankı
 echolalia - ekolali
 Edirne - Edirne
 edukacyjny - eğitici
-efekt - etki | sonuç
+efekt - etki, sonuç
 Egipt - Mısır
 egzemplarz - örnek
 egzystencja - varoluş
-egzystencjalizm - varoluşçuluk | egzistansiyalizm
-ejakulacja - boşalma | ejakülasyon
+egzystencjalizm - varoluşçuluk, egzistansiyalizm
+ejakulacja - boşalma, ejakülasyon
 ekologia - ekoloji
 ekologio - ekoloji
 ekonomiczny - ekonomik
@@ -529,15 +529,15 @@ Erzurum - Erzurum
 ESBC - AMBS
 eschatologia - eskatoloji
 eskalator - yürüyen merdiven
-eskulap - doktor | hekim | tabip
+eskulap - doktor, hekim, tabip
 espresso - espresso
 Estonia - Estonya
 estragon - tarhun
 Etiopia - Etiyopya
 etologia - etoloji
 etyka - etik
-etymologia - etimoloji | kökenbilim
-eufemizm - edepi kelam | örtmece
+etymologia - etimoloji, kökenbilim
+eufemizm - edepi kelam, örtmece
 Europa - Avrupa
 ewangelia - İncil
 ewangelista - İncil yazarı
@@ -556,7 +556,7 @@ fałszywy przyjaciel - yalancı eşdeğer
 familio - aile
 famuła - aile
 fana - bayrak
-fanatyzm - fanatiklik | fanatizm
+fanatyzm - fanatiklik, fanatizm
 faraon - firavun
 farba - boya
 farmaceuta - eczacı
@@ -567,7 +567,7 @@ fatwa - fetva
 Federacyjna Republika Brazylii - Brezilya Federal Cumhuriyeti
 fefer - biber
 Fenicja - Fenike
-fest - çok | daha
+fest - çok, daha
 fezeła - arı
 fiasko - fiyasko
 Fidżi - Fiji
@@ -601,20 +601,20 @@ fryzjerstwo - berberlik
 Fudżi - Fuji
 fundament - ana
 fura - araba
-furdygarnia - cezaevi | hapishane
+furdygarnia - cezaevi, hapishane
 fusbal - futbol
 futbol - futbol
 fyrtel - açı
 gabinet cieni - gölge hükûmet
 Gad - Gad
 gadałka - peri
-gała - göz | futbol | kuzgun | leş kargası
+gała - göz, futbol, kuzgun, leş kargası
 galancie - çok
 Galia - Galya
 Galilea - Celile
-gapa - kuzgun | leş kargası
+gapa - kuzgun, leş kargası
 gar - çanak w
-gara - uyku | rüya | düş | hayal
+gara - uyku, rüya, düş, hayal
 gardło - boğaz
 garnek - çanak w
 gaskoński - Gaskonca
@@ -636,11 +636,11 @@ glapa - leş kargası
 glin - alüminyum
 globus - baş
 głód - açlık
-głodny - aç | acıkmış | abazan
+głodny - aç, acıkmış, abazan
 głowa - baş
-główny - asıl | esas | başlıca
+główny - asıl, esas, başlıca
 głupota - aptallık
-gnat - kemik | zar
+gnat - kemik, zar
 gnot - çocuk
 gnuśny - tembel
 godka - konuşma
@@ -656,7 +656,7 @@ gorący - sıcak
 gorączka - ateş
 Górny Śląsk - Yukarı Silezya f
 gorzała - alkol
-gospodarczy - iktisadi | ekonomik
+gospodarczy - iktisadi, ekonomik
 gra - oyun
 graba - el
 gracz - oyuncu
@@ -668,13 +668,13 @@ grudzień - aralık
 gruziński - Gürcüce
 gryfny - sirin
 guli - çünkü
-guma - prezervatif | kondom | kılıf
-gumka - prezervatif | kondom | kılıf
+guma - prezervatif, kondom, kılıf
+gumka - prezervatif, kondom, kılıf
 gwiazda - yıldız
-gwiazdarz - astronom | gökbilimci | astrolog
-gwiaździarz - astronom | gökbilimci | astrolog
+gwiazdarz - astronom, gökbilimci, astrolog
+gwiaździarz - astronom, gökbilimci, astrolog
 Gwinea Równikowa - Ekvator Ginesi
-gwóźdź - çivi | mıh
+gwóźdź - çivi, mıh
 gzub - çocuk
 Haiti - Haiti
 Hajfa - Hayfa
@@ -686,12 +686,12 @@ handlowy - ticari
 harem - harem
 harfa - arp
 haś - çöp
-hau - hev | hav
+hau - hev, hav
 Hawana - Havana
 heban - abanoz
-hedonizm - hedonizm | hazcılık
+hedonizm - hedonizm, hazcılık
 heparyna - heparin
-herbarz - bitki müzesi | bitki koleksiyonu
+herbarz - bitki müzesi, bitki koleksiyonu
 herbata - çay
 Hestia - Hestia
 hiacynt - sümbül
@@ -700,7 +700,7 @@ hierarchia - hiyerarşi
 higiena - hijyen
 hinduizm - hinduizm
 Hindukusz - Hindukuş Dağları
-hipoteza - varsayım | hipotez
+hipoteza - varsayım, hipotez
 histeria - histeri
 historiozofia - tarih felsefesi
 historyk - tarihçi
@@ -708,7 +708,7 @@ hokej - hokeyi
 homeopatia - homeopati
 homeostaza - homeostaz
 homo- - homo-
-homoseksualny - homoseksüel | eşcinsel
+homoseksualny - homoseksüel, eşcinsel
 Hongkong - Hong Kong
 hormon - hormon
 Horus - Horus
@@ -717,7 +717,7 @@ humor - mizah
 Hun - Hun
 Hurghada - Hurgada
 huśtawka - salıncak
-hydrologia - hidroloji | su bilimi
+hydrologia - hidroloji, su bilimi
 i - ve
 ideologia - ideoloji
 idiota - salak
@@ -725,7 +725,7 @@ igła - iğne
 imbir - zencefil
 immaterializm - immateryalizm
 imperium - imparatorluk
-inauguracja - açış | açılış
+inauguracja - açış, açılış
 informować - haber vermek
 ino - sadece
 inżynieria - mühendislik
@@ -745,14 +745,14 @@ ja - ben
 jabłko - elma
 jąderko - çekirdekçik
 Jahwe - Yahveh
-jajko - yumurta | tohum (fertilized)
-jajo - yumurta | tohum (zapłodnione)
+jajko - yumurta, tohum (fertilized)
+jajo - yumurta, tohum (zapłodnione)
 jałowiec - ardıç
 jama ustna - ağız
 jantar - kehribar
 japa - ağız
 jara - kaynana
-jarecka - ame | ana
+jarecka - ame, ana
 jaśmin - yasemin
 jasny - anlaşılır
 jebać - sikmek
@@ -769,7 +769,7 @@ Jezus - İsa
 Jezus Chrystus - İsa Mesih
 język obcy - yabancı dil
 język ojczysty - anadili
-jeżyna - dut | böğürtlen
+jeżyna - dut, böğürtlen
 jidysz - Yidiş
 jogurt - yoğurt
 Jowisz - Jüpiter
@@ -784,18 +784,18 @@ kafenijo - kahvehane
 kaffa - kahve
 kaj - nerede
 kakadu - kakadu
-kalafa - burun | yüz
+kalafa - burun, yüz
 kalapitra - baş
 kalendarz - takvim
-kalifat - hilafet | halifelik
+kalifat - hilafet, halifelik
 kam - nerede
 Kamerun - Kamerun
 kanarek - kanarya
 kaolin - kaolin
-kapcylinder - şapka | başlık
+kapcylinder - şapka, başlık
 kapeć - terlik
-kapeluch - şapka | başlık
-kapelusz - şapka | başlık
+kapeluch - şapka, başlık
+kapelusz - şapka, başlık
 kąpiółka - banyo
 kapitalizm - kapitalizm
 kapować - anlamak
@@ -828,9 +828,9 @@ kenotafium - anıt mezar
 kiełbasa - solsis
 kiepeła - baş
 kijanka - iribaş
-Kilimandżaro - Kilimanjaro Dağı | Kilimanjaro
+Kilimandżaro - Kilimanjaro Dağı, Kilimanjaro
 kimać - uyumak
-kimono - uyku | rüya | düş | hayal
+kimono - uyku, rüya, düş, hayal
 kinematyka - kinematik
 kinol - burun
 Kirgistan - Kırgızistan
@@ -845,12 +845,12 @@ klasy - seksek
 klasyczny - klasik
 klaustrofobia - klostrofobi
 kliber - burun
-klika - klik | hizip
+klika - klik, hizip
 klimatyczny - iklimsel
 kluber - burun
 klucz - anahtar
 kluka - burun
-kluza - cezaevi | hapishane
+kluza - cezaevi, hapishane
 knipa - kitap
 koala - koala
 kobalt - kobalt
@@ -859,7 +859,7 @@ kochanie - aşkım
 kociamber - kedi
 kocioł - kazan
 kodeina - kodein
-kod kreskowy - barkod | bar kod
+kod kreskowy - barkod, bar kod
 kogeneracja - kojenerasyon
 kokosz - tavuk
 kokoszka - tavuk
@@ -880,21 +880,21 @@ komar - sivrisinek
 komat - virgül
 komedia - güldürü
 kometa - kuyruklu yıldız
-komitet - kurul | komite | heyet
+komitet - kurul, komite, heyet
 komp - bilgisayarı
 kompromis - uzlaşma
 komputer - bilgisayarı
 komuch - kırmızı
 komunista - kırmızı
 komunizm - komünizm
-koń - at | beygir | penis
-kóń - at | beygir
-koncentracja - dikkat toplaşımı | konsantrasyon
+koń - at, beygir, penis
+kóń - at, beygir
+koncentracja - dikkat toplaşımı, konsantrasyon
 koncepcja - fikir
 kondensator - kondansatör
-kondom - prezervatif | kondom | kılıf
+kondom - prezervatif, kondom, kılıf
 Konfucjusz - Konfüçyüs
-koniec - son | sonuç
+koniec - son, sonuç
 konieczność - zorunluluk
 konsens - oybirliği
 konsensus - oybirliği
@@ -902,7 +902,7 @@ Konstantynopol - Konstantinopolis
 konstytucja - anayasa
 konstytucyjny - anayasal
 konsumpcja - tüketim
-kontynent - kıta | anakara
+kontynent - kıta, anakara
 koper - dere otu
 kopruch - sivrisinek
 Koran - Kur'an
@@ -910,9 +910,9 @@ kord - kard
 korespondencja - mektuplaşma
 Kos - İstanköy
 kosa - bıçak
-kość - kemik | zar
+kość - kemik, zar
 kość sitowa - etmoid kemik
-kosmos - acun | kozmos
+kosmos - acun, kozmos
 Kosowo - Kosova
 kot - kedi
 kot bengalski - pars kedisi
@@ -921,21 +921,21 @@ kotwica - çıpa
 kowadło - örs
 kowalno - örs
 koza - keçi
-kozioł ofiarny - günah keçisi | şamar oğlanı
+kozioł ofiarny - günah keçisi, şamar oğlanı
 Koziorożec - Oğlak
 krajopis - coğrafyacı
 Kraków - Krakov
-krasula - sığır | inek
+krasula - sığır, inek
 krauza - kavanoz
 krew - kan
 królik - tavşan
-krowa - sığır | inek
+krowa - sığır, inek
 krowa, która dużo ryczy, mało mleka daje - havlayan köpek ısırmaz
 krtań - gırtlak
 krucjata - Haçlı Seferleri
 krucyfiks - haç
 kruk - kuzgun
-kryminał - cezaevi | hapishane
+kryminał - cezaevi, hapishane
 krymskotatarski - Kırım Tatarca
 krytyk - münekkit
 książka - kitap
@@ -943,11 +943,11 @@ księgozbiór - kütüphane
 kto chce żyć z swojej pracy, dolegać nie trzeba - erken kalkan yol alir
 kto rano wstaje, temu Pan Bóg daje - erken kalkan yol alir
 Kuba - Küba
-kucharz - aşçı | ahçı
+kucharz - aşçı, ahçı
 kuć żelazo, póki gorące - demir tavında dövülür
 kulturowy - kültürel
 kura - tavuk
-kurdyjski - Kürt | Kürtçe
+kurdyjski - Kürt, Kürtçe
 Kurdystan - Kürdistan
 kurka - tavuk
 kurki - tavuk
@@ -965,11 +965,11 @@ kwiecień - nisan
 lać - terlik
 łacina - Latince
 lać jak z cebra - bardaktan boşanırcasına yağmak
-lacz - baş | penis
+lacz - baş, penis
 laczek - terlik
 łącznik - koşaç
 ładny - sirin
-łagodny - aheste | acısız
+łagodny - aheste, acısız
 Lahaur - Lahor
 lakier do paznokci - oje
 lala - kız
@@ -986,7 +986,7 @@ laweta - top arabası
 Lazurowe Wybrzeże - Fransız Rivierası
 łechtaczka - klitoris
 lęk - anksiyete
-lekarz - doktor | hekim | tabip
+lekarz - doktor, hekim, tabip
 Leningrad - Petersburg
 leniwy - tembel
 łepetyna - baş
@@ -995,9 +995,9 @@ lew - aslan
 Lew - Aslan
 Liban - Lübnan
 liberalizm - liberalizm
-liberalny - hoşgörülü | liberal
+liberalny - hoşgörülü, liberal
 liceum - lycée
-lichwa - aşırı faiz | tefecilik
+lichwa - aşırı faiz, tefecilik
 limuzyna - limuzin
 linie lotnicze - hava yolu
 lipiec - temmuz
@@ -1026,7 +1026,7 @@ lulka - sigara
 luńt - köpek m
 luty - şubat
 łża - yalan
-mać - ame | ana
+mać - ame, ana
 macica - rahim
 magister - kaptan
 mahometanizm - Müslümanlık
@@ -1037,7 +1037,7 @@ malowidło - boya
 Malta - Malta
 mały palec - serçe parmağı
 małżeństwo - evlilik
-małżonek - zevç | koca
+małżonek - zevç, koca
 mama - kaynana
 Mandżuria - Mançurya
 maniurka - kız
@@ -1049,26 +1049,26 @@ Mars - Mars
 Marsylia - Marsilya
 martwy - ölü
 marzec - mart
-marzenie senne - uyku | rüya | düş | hayal
-masakra - katliam | kırım | toplukıyım
+marzenie senne - uyku, rüya, düş, hayal
+masakra - katliam, kırım, toplukıyım
 masara - sinek
 maska - yüz
 masochizm - mazoşizm
 maszyna do szycia - dikiş makinesi
 matematyka - matematik
-materialista - özdekçi | materyalist | maddeci
-matka - ame | ana
+materialista - özdekçi, materyalist, maddeci
+matka - ame, ana
 matriarchat - anaerkillik
 matrioszka - matruşka
 Mauretania - Moritanya
-mauzoleum - mozole | anıtmezar
-mąż - zevç | koca
+mauzoleum - mozole, anıtmezar
+mąż - zevç, koca
 mazak - yüz
 mecenas - avukat
 męczennik - şehit
-meczet - cami | mescit
+meczet - cami, mescit
 mediana - ortanca
-medyk - doktor | hekim | tabip
+medyk - doktor, hekim, tabip
 melatonina - melatonin
 melodia - melodi
 melodio - melodi
@@ -1076,7 +1076,7 @@ Merkury - Merkür
 metabolizm - metabolizma
 metafora - mecaz
 metal - metal
-meteor - akanyıldız | meteor
+meteor - akanyıldız, meteor
 meteoryt - göktaşı
 metr sześcienny - metreküp
 mężczyzna - adam
@@ -1104,7 +1104,7 @@ miłosierdzie - merhamet
 minaret - minare
 ministerstwo - bakanlık
 minuta - dakiki
-miraż - serap | ılgım
+miraż - serap, ılgım
 mistrzostwa - şampiyonluk
 mistycyzm - mistisizm
 mitologiczny - mitolojik
@@ -1113,12 +1113,12 @@ młody - genç
 młotek - çekiç
 mniejszość - azınlık
 mniej więcej - aşağı yukarı
-moc - güç | kudret | kuvvet
+moc - güç, kudret, kuvvet
 modrakowy - mavi
 modry - mavi
 Mojżesz - Musa
 mokry - ıslak
-moment - an | lahza
+moment - an, lahza
 monocykl - tekteker
 monofizytyzm - monofizit
 monogamiczny - tekeşli
@@ -1144,7 +1144,7 @@ mózg - beyin
 możliwy - mümkün
 mrówka - karınca
 mucha - sinek
-mućka - sığır | inek
+mućka - sığır, inek
 muł - katır
 muraszka - karınca
 Mustafa - Mustafa
@@ -1164,8 +1164,8 @@ napalony - abazan
 napletek - sünnet derisi
 naprany - sarhoş
 naskórek - epiderm
-nauczyciel - öğretmen | muallim
-nauka - bilim | ilim
+nauczyciel - öğretmen, muallim
+nauka - bilim, ilim
 neoliberalizm - neoliberalizm
 neon - neon
 neptun - neptünyum
@@ -1178,8 +1178,8 @@ nieatrakcyjność - alımsızlık
 niebieski - mavi
 niebieskooki - gök gözlü
 niedaleko pada jabłko od jabłoni - armut dalının dibine düşer
-niedokrwistość - kansızlık | anemi
-niedokrwistość tarczowatokrwinkowa - akdeniz anemisi | akdeniz kansızlığı | talasemi
+niedokrwistość - kansızlık, anemi
+niedokrwistość tarczowatokrwinkowa - akdeniz anemisi, akdeniz kansızlığı, talasemi
 nie dospać trzeba, kto chce dostać chleba - erken kalkan yol alir
 niedożywienie - kıtlık
 nieduch - hastalık
@@ -1195,7 +1195,7 @@ Niemiecka Republika Demokratyczna - Demokratik Almanya Cumhuriyeti
 nie od razu Kraków zbudowano - sabreden derviş, muradına ermiş
 niepewność - şüphe
 niepodległość - bağımsızlık
-niepogromny - aheste | acısız
+niepogromny - aheste, acısız
 nieprawidłowy - anormal
 nieskuteczny - etkisiz
 nieśmiertelność - ölümsüzlük
@@ -1227,18 +1227,18 @@ nyga - sivrisinek
 oaza - vaha
 obelisk - dikilitaş
 oberżyna - patlıcan
-obfity - bereketli | feyizli
-obiecadło - alfabe | abece
+obfity - bereketli, feyizli
+obiecadło - alfabe, abece
 obiektywny - tarafsız
 obłok - bulut
 obój - obua
 obojętność - aldırmazlık
 obojętny - aldırmaz
 obraz - film
-obraza - hakaret | onur kırma
+obraza - hakaret, onur kırma
 obrzezanie - sünnet
-obserwować - gözlemlemek | gözlemek
-obwarzanek - simit | gevrek
+obserwować - gözlemlemek, gözlemek
+obwarzanek - simit, gevrek
 ocean - okyanus
 Ocean Atlantycki - Atlas Okyanusu
 ociec - baba
@@ -1254,7 +1254,7 @@ ojla - baykuş
 oko - göz
 okra - bamya
 okręt podwodny - denizaltı
-okrucieństwo - zulüm | acımasızlık | gaddarlık
+okrucieństwo - zulüm, acımasızlık, gaddarlık
 oksymoron - oksimoron
 okupacja - işgal
 olcha - kızılağaç
@@ -1273,22 +1273,22 @@ osioł - eşek
 ośmiornica - ahtapot
 osoba - kişi
 ostateczny - kati
-ostrężyna - dut | böğürtlen
-otwarcie - açıkça | açış
+ostrężyna - dut, böğürtlen
+otwarcie - açıkça, açış
 owoc - meyve
 ożarty - sarhoş
-ożyna - dut | böğürtlen
+ożyna - dut, böğürtlen
 pachniarz - burun
 paciuk - sıçan
 padaczka - epilepsi
 Padwa - Padova
 pajac - palyaço
 pająk - örümcek
-pajęcznik - eylül | ekim | kasım
+pajęcznik - eylül, ekim, kasım
 Pakistan - Pakistan
 pakli - eğer
-pała - baş | penis
-pale - baş | penis
+pała - baş, penis
+pale - baş, penis
 palec wskazujący - işaret parmağı
 Palermo - Palermo
 Palestyńczyk - Filistinli
@@ -1305,7 +1305,7 @@ papuć - terlik
 para - su buharı
 paraliż - paralizi
 partenogeneza - partenogenez
-partner - ortak | eş | arkadaş
+partner - ortak, eş, arkadaş
 pasterz - çoban
 paszenog - bacanak
 paszport - pasaport
@@ -1315,7 +1315,7 @@ październik - ekim
 paździerzeń - ekim
 pechowy - bedbaht
 pedagogika - pedagoji
-pejoratywny - aşağılayıcı | küçültücü
+pejoratywny - aşağılayıcı, küçültücü
 pekator - penis
 penis - penis
 perfumy - parfüm
@@ -1351,13 +1351,13 @@ piosenkarz - şarkıcı
 Pireneje - Pireneler
 piromania - piromani
 piryt - pirit
-pismo - alfabe | abece
+pismo - alfabe, abece
 Pittsburgh - Pittsburgh
 piwo - bira
 piżama - pijama
 Pizydia - Pisidya
 plac - meydan
-płacić - ödemek | tediye etmek
+płacić - ödemek, tediye etmek
 plajster - plaster
 planeta - gezegen
 planetarium - planetaryum
@@ -1369,16 +1369,16 @@ płyn - akışkan
 płynny - sıvı
 pływak - yüzücü
 POChP - KOAH
-poczekalnia - bekleme odası | bekleme salonu
+poczekalnia - bekleme odası, bekleme salonu
 pocztówka - kartpostal
 podatek - vergi
 podatnik - vergi mükellefi
-podejrzewać - şüphelenmek | kuşkulanmak
-podróżować - yolculuk etmek | seyahat etmek
-podstawowy - birincil | temel | esaslı | asıl
+podejrzewać - şüphelenmek, kuşkulanmak
+podróżować - yolculuk etmek, seyahat etmek
+podstawowy - birincil, temel, esaslı, asıl
 poduszka - yastık
 podwórze - avlu
-pogaństwo - paganlık | paganizm
+pogaństwo - paganlık, paganizm
 pójść z kimś do łóżka - yatmak
 poker - poker
 poleku - yavaş
@@ -1404,7 +1404,7 @@ ponton - ponton
 popiół - kül
 populizm - popülizm
 pornografia - pornografi
-pornograficzny - pornografik | müstehcen | açık saçık
+pornograficzny - pornografik, müstehcen, açık saçık
 portret - portre
 porucznik - üsteğmen
 poruta - utanç
@@ -1417,20 +1417,20 @@ powtarzać - tekrarlamak
 pozór - dikkat
 praca domowa - ödev
 prącie - penis
-pracownik - amele | işçi
+pracownik - amele, işçi
 pralka - çamaşır makinesi
 prawa zwierząt - hayvan hakları
 prawda - hakikat
 prawdopodobny - muhtemel
 prawdziwych przyjaciół poznaje się w biedzie - dost kara günde belli olur
-prezerwatywa - prezervatif | kondom | kılıf
+prezerwatywa - prezervatif, kondom, kılıf
 prezydent - başkan
 proch - barut
 proch strzelniczy - barut
 profesor - profesör
 profilaktyczny - profilaktik
 profit - kazanç
-program - program | izlence
+program - program, izlence
 prokurator - savcı
 propaganda - propaganda
 propagando - propaganda
@@ -1438,23 +1438,23 @@ prostolinijność - doğruluk
 proszę - lütfen
 protestować - protesto etmek
 prysznic - duş
-przebaczenie - bağışlama | affetme
+przebaczenie - bağışlama, affetme
 przebiśnieg - kardelen
 przecinek - virgül
 przeciwciało - antikor
 przedmiot - şey
 przedpokój - koridor
 przeludnienie - nüfus fazlalığı
-przemożność - güç | kudret | kuvvet
+przemożność - güç, kudret, kuvvet
 przenośnia - mecaz
-przerażający - korkunç | korkulu
+przerażający - korkunç, korkulu
 przesadzać - abartmak
 przesmyk - kıstak
 przestraszyć - korkutmak
 przewrażliwiony - alıngan
 przybity - yýpranmýþ
 przyjaciel - ahbap
-przyjaźń - ahbaplık | arkadaşlık | dostluk
+przyjaźń - ahbaplık, arkadaşlık, dostluk
 przymiotnik - sıfat
 przymus - zorlama
 przynosić - getirmek
@@ -1464,11 +1464,11 @@ przystojny - yakışıklı
 przytulić - sarılmak
 przywódca - önder
 pseudonauka - sözdebilim
-Psia Gwiazda - Sirius | Akyıldız
+Psia Gwiazda - Sirius, Akyıldız
 psisko - köpek m
 psor - profesör
-psycholog - psikolog | ruhbilimci
-psychologiczny - ruhbilimsel | psikolojik
+psycholog - psikolog, ruhbilimci
+psychologiczny - ruhbilimsel, psikolojik
 psy szczekają, karawana idzie dalej - it ürür, kervan yürür
 pszczoła - arı
 pszenica - buğday
@@ -1479,26 +1479,26 @@ ptaszę - penis
 puste - boş
 pusty - boş
 pustynia - çöl
-puszka - cezaevi | hapishane | bira
+puszka - cezaevi, hapishane, bira
 pyta - penis
 rabarbar - ravent
 rachatłukum - lokum
-raciądz - serefli | şövalye | sipahi
+raciądz - serefli, şövalye, sipahi
 radon - radon
 raj - behişt
 Rajch - Almanya
-rajzować - yolculuk etmek | seyahat etmek
+rajzować - yolculuk etmek, seyahat etmek
 Rak - Yengeç
 ramadan - Ramazan
-rasizm - ırkçılık | anasoyculuk
-razdziawa - kuzgun | leş kargası
+rasizm - ırkçılık, anasoyculuk
+razdziawa - kuzgun, leş kargası
 raz na ruski rok - kırk yılda bir
 reakcja - aksitesir
 recesja - resesyon
 referencja - dolaylama
 rękaw - kol
 rekin - köpek balığı
-reklama - reklâm | ilan | duyuru
+reklama - reklâm, ilan, duyuru
 relacja - alaka
 republika bananowa - muz cumhuriyeti
 Republika Czeska - Çek Cumhuriyeti
@@ -1507,8 +1507,8 @@ Republika Południowej Afryki - Güney Afrika Cumhuriyeti
 Republika Słowacka - Slovak Cumhuriyeti
 rewolucja - devrim
 robić z igły widły - pireyi deve yapmak
-robieniec - amele | işçi
-robotnik - amele | işçi
+robieniec - amele, işçi
+robotnik - amele, işçi
 robotyka - robotik
 rocznica - yıldönümü
 rodzimy - yerli
@@ -1516,9 +1516,9 @@ rodzina - aile
 roentgen - röntgenyum
 rogacizna - sığır
 rok - yıl
-rolnictwo - çiftçilik | ziraat
-romantyzm - coşumculuk | romantizm
-ropa naftowa - yer yağı | neft | petrol
+rolnictwo - çiftçilik, ziraat
+romantyzm - coşumculuk, romantizm
+ropa naftowa - yer yağı, neft, petrol
 ropień - apse
 roślina - bitki
 rouza - gül
@@ -1529,11 +1529,11 @@ róż - pembe
 róża - gül
 rozmowa - sohbet
 różnorodny - çeşitli
-różny - farklı | başka | ayrı
+różny - farklı, başka, ayrı
 różowy - pembe
 rozpaczać - ağlamak
 rozrzutny - müsrif
-roztomaity - farklı | başka | ayrı
+roztomaity - farklı, başka, ayrı
 rozumieć - anlamak
 rozwód - boşanma
 rubid - rubidyum
@@ -1544,22 +1544,22 @@ rugby - ragbi
 ruten - rutenyum
 ryba - balık
 Ryby - Balık
-rycerz - serefli | şövalye | sipahi
+rycerz - serefli, şövalye, sipahi
 rynka - çanak w
 rynna - oluk
 rynwa - oluk
-rysunek - çizim | desen
+rysunek - çizim, desen
 rytuał - tören
 rywal - rakip
 rywalizować - ölçüşmek
 ryż - pirinç
 ryzyko - tehlike
 rzeczywistość - gerçeklik
-rzeka - nehir | ırmak | akarsu
+rzeka - nehir, ırmak, akarsu
 rzeźbiarz - heykeltıraş
 rzut karny - penaltı
 sabotaż - sabotaj
-Safakis - Sfaks | Sfakes | Safakes
+Safakis - Sfaks, Sfakes, Safakes
 sagan - baş
 Sahara Zachodnia - Batı Sahra
 sałatka - salata
@@ -1567,7 +1567,7 @@ Salwador - El Salvador
 samar - samaryum
 samochód - araba
 samolot - uçak
-samowar - semaver | semâver
+samowar - semaver, semâver
 santuri - santur
 sarnapa - zürafa
 sąsiad - komşu
@@ -1580,7 +1580,7 @@ seks oralny - oral seks
 seksualność - cinsellik
 seksuologia - seksoloji
 selen - selenyum
-sen - uyku | rüya | düş | hayal
+sen - uyku, rüya, düş, hayal
 Serbia i Czarnogóra - Sırbistan ve Karadağ
 serce - yürek
 serdce - yürek
@@ -1595,17 +1595,17 @@ sierpień - ağustos
 siestrzan - yeğen
 siestrzeniec - yeğen
 sikhizm - sihizm
-siła - güç | kudret | kuvvet
-silno - çok | daha
+siła - güç, kudret, kuvvet
+silno - çok, daha
 sin - sin
 Singapur - Singapur
 siniak - morartı
-siostra - abla (starsza siostra) | kız kardeş (młodsza siostra)
+siostra - abla (starsza siostra), kız kardeş (młodsza siostra)
 siostrzan - yeğen
 siostrzanek - yeğen
 siostrzeniec - yeğen
 sirpień - ağustos
-sitwa - klik | hizip
+sitwa - klik, hizip
 siusiu - çiş
 skand - skandiyum
 Skandynawia - İskandinavya
@@ -1621,7 +1621,7 @@ skrót - kısaltma
 śledziona - dalak
 ślepucha - tavuk
 ślepy lelek - yarasa
-ślimak - salyangoz | sümüklüböcek
+ślimak - salyangoz, sümüklüböcek
 słoik - kavanoz
 słoń - fil
 słońce - güneş
@@ -1635,7 +1635,7 @@ słowo - söz
 ślusarz - çilingir
 smacznego - afiyet olsun
 smartfon - akıllı telefon
-smerf - Şirin | Şirinler
+smerf - Şirin, Şirinler
 śmieć - çöp
 śmierć - ölüm
 smutniak - ekmek
@@ -1658,7 +1658,7 @@ sowa - baykuş
 sowa śnieżna - kar baykuşu
 spać - uyumak
 specjalnie - özellikle
-sperma - meni | er suyu
+sperma - meni, er suyu
 śpiący - uykulu
 śpiewać - ötmek
 śpiewak - şarkıcı
@@ -1668,11 +1668,11 @@ spis rzeczy - fihrist
 spis treści - fihrist
 spowiedź - itiraf
 spragniony - susamış
-sprawiedliwość - adalet | haklılık
-sprawiedlność - adalet | haklılık
+sprawiedliwość - adalet, haklılık
+sprawiedlność - adalet, haklılık
 sprzeciw - itiraz
 srebro - gümüş
-średniowiecze - ortaçağ | Orta Çağ
+średniowiecze - ortaçağ, Orta Çağ
 Sri Lanka - Sri Lanka
 środa - çarşamba
 środki masowego przekazu - kitle iletişim araçları
@@ -1689,12 +1689,12 @@ Stefan - İstefanos
 stół - masa
 stolica - başkent
 stonka - böceği
-strach - korku | korkuluk
-strach na wróble - korku | korkuluk
+strach - korku, korkuluk
+strach na wróble - korku, korkuluk
 strąpacz - şubat
 strażak - itfaiyeci
 strit - kent
-strój - elbise | giysi
+strój - elbise, giysi
 strój kąpielowy - mayo
 strumień - akarsu
 strumyk - akarsu
@@ -1702,30 +1702,30 @@ struna głosowa - ses teli
 Strzelec - Yay
 strzykwa - deniz hıyarı
 styczeń - ocak
-suchy - kuru | susuz
+suchy - kuru, susuz
 Suez - Süveyş
 sufit - tavan
-sufizm - tasavvuf | sufizm
+sufizm - tasavvuf, sufizm
 sułtanat - sultanlığı
 sutener - pezevenk
-świadomość - bilinç | farkındalık
+świadomość - bilinç, farkındalık
 świat - dünya
 świekra - kaynana
 świeść - kaynana
 święty mikołaj - Noel Baba
 świostka - kaynana
 Sydon - Sayda
-syfilis - frengi | sifiliz
+syfilis - frengi, sifiliz
 syjam - siyam kedisi
 syjonizm - siyonizm
 symbolizować - sembolü olmak
 synapsa - sinaps
 synowiec - yeğen
 sypialnia - yatak odası
-Syriusz - Sirius | Akyıldız
+Syriusz - Sirius, Akyıldız
 syrop klonowy - akçaağaç şurubu
 szachy - satranç
-szahada - kelime-i şehadet | şahadet
+szahada - kelime-i şehadet, şahadet
 szakal - çakal
 szaleństwo - delilik
 szaman - şaman
@@ -1733,7 +1733,7 @@ szampon - şampuan
 szaszłyk - şaşlık
 szczegółowy - ayrıntılı
 szczekać - havlamak
-szczerość - doğruculuk | doğruluk
+szczerość - doğruculuk, doğruluk
 szczerze - açıkça
 szczęśliwego Nowy Nowego Roku - yeni yılınız kutlu olsun
 szczoteczka do zębów - diş fırçası
@@ -1750,8 +1750,8 @@ szkop - Alman
 szlug - sigara
 szmaragd - zümrüt
 sznek - çörek
-szneka - çörek | yüz
-sznur - ip | urgan
+szneka - çörek, yüz
+sznur - ip, urgan
 szok - şok
 szpiegostwo - casusluk
 szpuk - güvercin
@@ -1760,10 +1760,10 @@ sztuki piękne - güzel sanatlar
 szwab - Alman
 Szwecja - İsveç
 Szwecyjo - İsveç
-szwestera - abla (starsza siostra) | kız kardeş (młodsza siostra)
+szwestera - abla (starsza siostra), kız kardeş (młodsza siostra)
 szyja - ense
 szykowny - sirin
-szynal - çivi | mıh
+szynal - çivi, mıh
 tachykardia - taşikardi
 tacik - baba
 Tadżykistan - Tacikistan
@@ -1775,19 +1775,19 @@ tak - evet
 także - ayrıca
 tak zwany - sözde
 tal - talyum
-talasemia - akdeniz anemisi | akdeniz kansızlığı | talasemi
+talasemia - akdeniz anemisi, akdeniz kansızlığı, talasemi
 Tamiza - Thames Nehri
-tan - dans | raks
+tan - dans, raks
 tańczyć - dans etmek
 Tangier - Tanca
 tango - tango
-taniec - dans | raks
+taniec - dans, raks
 tantal - tantal
 Tanzania - Tanzanya
 taoizm - taoizm
-tarcza - kalhan | yüz
+tarcza - kalhan, yüz
 tarcza krystaliczna - kalhan
-tarcza strzelecka - kalhan | yüz
+tarcza strzelecka - kalhan, yüz
 tarcza szkolna - kalhan
 tasza - torba
 Tbilisi - Tiflis
@@ -1833,10 +1833,10 @@ traktor - traktör
 trichotillomania - trikotillomani
 trochę - biraz
 Troja - Troya
-trwałość - kalıcılık | dayanıklılık
+trwałość - kalıcılık, dayanıklılık
 Trynidad i Tobago - Trinidad ve Tobago
 trzcina cukrowa - şeker kamışı
-trzęsienie ziemi - zelzele | deprem | yer sarsıntısı
+trzęsienie ziemi - zelzele, deprem, yer sarsıntısı
 trznadel zwyczajny - Sarı kiraz kuşu
 trzymać - tutmak
 tudzież - ve
@@ -1844,7 +1844,7 @@ Tunezja - Tunus
 turban - türban
 Turcja - Türkiye
 Turecka Republika Cypru Północnego - Kuzey Kıbrıs Türk Cumhuriyeti
-turecki - Türk | Türkçe
+turecki - Türk, Türkçe
 Turkmenistan - Türkmenistan
 turkus - firuze
 turysta - turist
@@ -1862,18 +1862,18 @@ Tyrteusz - Tyrtaios
 ubóstwo - yoksulluk
 ucho - kulak
 uczciwość - doğruluk
-uczciwy - dürüst | hilesiz | namuslu
+uczciwy - dürüst, hilesiz, namuslu
 uderzyć w kimono - yatmak
-ufnal - çivi | mıh
+ufnal - çivi, mıh
 Ugarit - Ugarit
 uj - dayı
 ujec - dayı
 ujek - dayı
 Ujgur - Uygur
 układ okresowy - periyodik cetvel
-układ okresowy pierwiastków - periyodik tablo | periyodik cetvel
+układ okresowy pierwiastków - periyodik tablo, periyodik cetvel
 Ukraina - Ukrayna
-ukraiński - Ukrayince | Ukraynaca | Ukraynca
+ukraiński - Ukrayince, Ukraynaca, Ukraynca
 ultrafiolet - morötesi
 ultraprawica - aşırı sağ
 umierać - ölmek
@@ -1883,26 +1883,26 @@ unikatowy - eşsiz
 upiec dwie pieczenie na jednym ogniu - bir taşla iki kuş vurmak
 Uran - Uranüs
 urępny - güzel
-uroczy - hoş | alımlı
+uroczy - hoş, alımlı
 urodziwy - sirin
 urologia - üroloji
 urządzenie - aygıt
 usta - ağız
 uwaga - dikkat
 Uzbekistan - Özbekistan
-wacha - vahu | yağmur | deniz | su
+wacha - vahu, yağmur, deniz, su
 Waga - Terazi
-wajco - yumurta | tohum (fertilized)
-wariat - deli | budala
-warstwowy - ince tabakalı | tabakalı
-wata cukrowa - pamuk şekeri | pamuk helvası
+wajco - yumurta, tohum (fertilized)
+wariat - deli, budala
+warstwowy - ince tabakalı, tabakalı
+wata cukrowa - pamuk şekeri, pamuk helvası
 wątpić - şüphelenmek
 Watykan - Vatikan
 ważność - önem
 wcześniactwo - erken doğum
 wczoraj - dün
 wczorajszy - dünkü
-weganizm - veganizm | veganlık
+weganizm - veganizm, veganlık
 węgiel - karbon
 Węgry - Macaristan
 Wenera - Venüs
@@ -1910,7 +1910,7 @@ Wenezuelczyk - Venezuelalı
 Wenus - Venüs
 Wesołych Świąt - Mutlu Noeller
 wgłębienie - çukur
-wiatr - rüzgâr | yel
+wiatr - rüzgâr, yel
 wideoklip - video klip
 widzieć - görmek
 wieczność - sonsuzluk
@@ -1926,17 +1926,17 @@ Wielkie Antyle - Büyük Antiller
 wieszak - askı
 wieża ciśnień - su kulesi
 wieża Eiffla - Eyfel Kulesi
-więzienie - cezaevi | hapishane
+więzienie - cezaevi, hapishane
 Wikipedia - Vikipedi
 Wikisłownik - Vikisözlük
 Wikiźródła - VikiKaynak
-wiktoria - zafer | galibiyet
-wilk - kurt | böri
+wiktoria - zafer, galibiyet
+wilk - kurt, böri
 willa - villa
 winnica - bağ
-winograd - bağ | üzüm
+winograd - bağ, üzüm
 winogrono - üzüm
-wiosna - ilkbahar | bahar
+wiosna - ilkbahar, bahar
 Wirakocza - Viracocha
 Wisła - Vistül
 wiśnia - vişne
@@ -1957,7 +1957,7 @@ wrona - leş kargası
 wróżka - peri
 wrzesień - eylül
 wrzód - ülser
-Wschód - Yakın Doğu | Orta Doğu | Ortadoğu
+Wschód - Yakın Doğu, Orta Doğu, Ortadoğu
 wścieklizna - kuduz
 wspaniałomyślny - cömert
 wstyd - utanç
@@ -1970,9 +1970,9 @@ wuj - dayı
 wujek - dayı
 wujko - dayı
 wujo - dayı
-wulkan - yanardağ | volkan
+wulkan - yanardağ, volkan
 wuszt - solsis
-Wybrzeże kość Kości Słoniowej - Fildişi Sahili | Fildişi Kıyısı
+Wybrzeże kość Kości Słoniowej - Fildişi Sahili, Fildişi Kıyısı
 wydma - kumul
 wykonawca - yapan
 wykrywacz kłamstw - yalan makinesi
@@ -1983,19 +1983,19 @@ Wyspa Świętego Wyspy Świętego Tomasza i Wyspa Książęca - São Tomé ve Pr
 Wyspa Wniebowstąpienia - Ascension Adası
 Wyspy Kanaryjskie - Kanarya Adaları
 Wyspy Owcze - Faroe Adaları
-wytrysk - boşalma | ejakülasyon
+wytrysk - boşalma, ejakülasyon
 wytrzymałość - tahammül
-wytrzymały - acar | atılgan
-zabawny - komik | güldürücü | eğlendirici
+wytrzymały - acar, atılgan
+zabawny - komik, güldürücü, eğlendirici
 zabijać - öldürmek
-Zabulon - Zebulun | Zevulun | Zvulun | Zebulon | Zabulon
-Zachodni Brzeg - Batı Şeria | Cisürdün
-Zachodni Brzeg Jordanu - Batı Şeria | Cisürdün
+Zabulon - Zebulun, Zevulun, Zvulun, Zebulon, Zabulon
+Zachodni Brzeg - Batı Şeria, Cisürdün
+Zachodni Brzeg Jordanu - Batı Şeria, Cisürdün
 zachód słońca - gurup
 zaćmienie - tutulma
 zadanie domowe - ödev
 zakażenie - enfeksiyon
-zakład karny - cezaevi | hapishane
+zakład karny - cezaevi, hapishane
 żal - keder
 zalany - sarhoş
 zamówienie - sipariş
@@ -2008,7 +2008,7 @@ Zatoka Bengalska - Bengal Körfezi
 Zatoka Meksykańska - Meksika Körfezi
 Zatoka Perska - Basra Körfezi
 zawój - türban
-zazdrość - çekememezlik | kıskançlık
+zazdrość - çekememezlik, kıskançlık
 zbieg okoliczności - tesadüf
 zbieracz - koleksiyoncu
 zboczeniec - sapık
@@ -2025,7 +2025,7 @@ zemrzeć - ölmek
 żeńczyna - kadın
 zgromadzenie - toplantı
 ziele angielskie - yenibahar
-zielnik - bitki müzesi | bitki koleksiyonu
+zielnik - bitki müzesi, bitki koleksiyonu
 zielonooki - yeşil gözlü
 zielony - yeşil
 Ziemia - Dünya
@@ -2039,14 +2039,14 @@ złoto - altın
 zmieniać - degiştirmek
 zmuszać - zorlamak
 znak wodny - filigran
-zodiak - Zodyak | burç
+zodiak - Zodyak, burç
 żołądek - mide
 żołnierz - asker
 żółw - kaplumbağa
 żongler - jonglör
-źrenica - gözbebeği | açıklık | göz
+źrenica - gözbebeği, açıklık, göz
 źródło - kaynak
-zrozumiały - anlaşılır | açık
+zrozumiały - anlaşılır, açık
 zrywka - torba
 ZUM - İYE
 żurnalista - gazeteci
@@ -2054,7 +2054,7 @@ Związek Radziecki - Sovyetler Birliği
 Związek Socjalistycznych Republik Radzieckich - Sovet Sosyalist Cumhuriyetleri Birliği
 zwierzak - hayvan
 zwierzę - hayvan
-zwycięstwo - zafer | galibiyet
+zwycięstwo - zafer, galibiyet
 życzenie - arzu
 żyrafa - zürafa
 Żyzny Półksiężyc - Bereketli Hilal

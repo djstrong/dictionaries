@@ -1,6 +1,6 @@
 aakkonen - litera
 aakkosellinen - alfabetyczny
-aakkoset - alfabet | abecadło | podstawy | ABC | aakkonen
+aakkoset - alfabet, abecadło, podstawy, ABC, aakkonen
 aakkosjärjestys - porządek alfabetyczny
 aakkosto - alfabet
 ääliömäisyys - głupota
@@ -12,17 +12,17 @@ aaltoinen - falisty
 aaltoviiva - linia falista
 aamen - amen
 aamiainen - śniadanie
-aamu - rano | poranek
-aamupäivä - poranek | rano
+aamu - rano, poranek
+aamupäivä - poranek, rano
 aamupala - śniadanie
 aamuruoka - śniadanie
 aamurusko - wschód słońca
-aamutakki - podomka | szlafrok
+aamutakki - podomka, szlafrok
 aamutossu - kapeć
 äänestäjä - wyborca
 äänestys - głosowanie
 äänettömyys - cisza
-ääni - dźwięk | odgłos | głos
+ääni - dźwięk, odgłos, głos
 Ääninen - Jezioro Onega
 äänneoppi - fonologia
 ääntämys - wymowa
@@ -34,17 +34,17 @@ aari - ar
 aaria - aria
 aarnikotka - gryf
 aarre - skarb
-aasi - osioł | półgłówek
+aasi - osioł, półgłówek
 Aasia - Azja
 aasialainen - azjatycki
-aate - idea | pomysł | myśl
+aate - idea, pomysł, myśl
 aatelismies - szlachcic
-aatto - przeddzień | wigilia
-aave - duch | zjawa
+aatto - przeddzień, wigilia
+aave - duch, zjawa
 aavikko - pustynia
 aavikkohaukka - raróg
 aavikkokettu - fenek
-aavistaa - przeczuwać | mieć przeczucie
+aavistaa - przeczuwać, mieć przeczucie
 abdikaatio - abdykacja
 abdominaalinen - brzuszny
 abessiivi - ? ?  abessivus
@@ -55,7 +55,7 @@ abnormiteetti - nienormalność
 abnormius - nienormalność
 abortti - aborcja
 absintti - absynt
-absolutisti - absolutysta | abstynent
+absolutisti - absolutysta, abstynent
 absoluutti - absolut
 absorbointi - absorpcja
 abstinenssi - abstynencja
@@ -82,92 +82,92 @@ Afganistan - Afganistan
 aforismi - aforyzm
 afrikaans - afrykanerski
 Afrikka - Afryka
-afrikkalainen - Afrykanin | Afrykanka | afrykański
+afrikkalainen - Afrykanin, Afrykanka, afrykański
 agaatti - agat
 agentuuri - agencja
 agglomeraatio - aglomeracja
 aggregaatti - agregat
 aggressiivinen - agresywny
-aggressiivisuus - agresywność | wojowniczość | napastliwość | ofensywność
+aggressiivisuus - agresywność, wojowniczość, napastliwość, ofensywność
 aggressio - agresja
 agitoija - agitator
 agnostisismi - agnostycyzm
 agraarinen - rolny
 agronomia - agronomia
-ahdas - ciasny | wąski
+ahdas - ciasny, wąski
 ahdistelu - molestowanie
 ahjo - kuźnia
-ahkera - pilny | gorliwy | pracowity
+ahkera - pilny, gorliwy, pracowity
 ahma - rosomak
-ahmia - żreć | pochłaniać
-ahnas - chciwy | łapczywy | zachłanny
+ahmia - żreć, pochłaniać
+ahnas - chciwy, łapczywy, zachłanny
 ahomansikka - poziomka
-ahtaasti - ciasno | wąsko
-ahtaus - tłok | ciasnota | brak miejsca
+ahtaasti - ciasno, wąsko
+ahtaus - tłok, ciasnota, brak miejsca
 ahven - okoń
 Ahvenanmaa - Wyspy Alandzkie
 aidas - drewniana podpórka tradycyjnego płotu tyczkowego z Finlandii
-aidata - ogradzać | ogrodzić
+aidata - ogradzać, ogrodzić
 äidinkieli - język ojczysty ( język matczyny)
-aihe - powód | przyczyna | przedmiot | temat
+aihe - powód, przyczyna, przedmiot, temat
 aiheeton - niepotrzebny
-aiheuttaja - powód | przyczyna
-äijä - stary mężczyzna | stary (znajomy, kolega, przyjaciel) | dziadek (lub inna najstarsza osoba w gospodarstwie)
-aika - czas | całkiem | stosunkowo | dość
+aiheuttaja - powód, przyczyna
+äijä - stary mężczyzna, stary (znajomy, kolega, przyjaciel), dziadek (lub inna najstarsza osoba w gospodarstwie)
+aika - czas, całkiem, stosunkowo, dość
 aikaan - czas
-aikaansaannos - dokonanie | osiągnięcie
+aikaansaannos - dokonanie, osiągnięcie
 aikainen - wczesny
-aikainen lintu madon nappaa - kto rano wstaje, temu Pan Bóg daje | wczesny ptak łapie robaka
+aikainen lintu madon nappaa - kto rano wstaje, temu Pan Bóg daje, wczesny ptak łapie robaka
 aikaisin - wcześnie
-aikakauslehti - magazyn | czasopismo
+aikakauslehti - magazyn, czasopismo
 aikamuoto - czas
 aikavyöhyke - strefa czasowa
-aikomus - intencja | zamiar | plan
-aikuinen - dorosły | pełnoletni
+aikomus - intencja, zamiar, plan
+aikuinen - dorosły, pełnoletni
 aina - zawsze
-aine - materia | materiał | przedmiot nauczania | wypracowanie | esej
+aine - materia, materiał, przedmiot nauczania, wypracowanie, esej
 ainesosa - składnik
 ainoa - jedyny
-ainoastaan - tylko | wyłącznie | jedynie
+ainoastaan - tylko, wyłącznie, jedynie
 airo - wiosło
 Aisopos - Ezop
 aistiharha - halucynacja
 aistillinen - zmysłowy
 aistimus - percepcja
-aita - płot | ogrodzenie | płotek
+aita - płot, ogrodzenie, płotek
 äiti - matka
 aitio - loża
 äitipuoli - macocha
-aito - autentyczny | prawdziwy | oryginalny
+aito - autentyczny, prawdziwy, oryginalny
 aitous - autentyczność
 aivastaa - kichnąć
 aivastus - kichnięcie
 aivot - mózg
-ajaa - jechać | jeździć | iść
-ajaja - kierowca | szofer
+ajaa - jechać, jeździć, iść
+ajaja - kierowca, szofer
 ajankohtainen - aktualny
 ajankuluke - hobby
 ajanviete - hobby
 ajanvietto - rekreacja
-ajatella - myśleć | zastanawiać się
+ajatella - myśleć, zastanawiać się
 ajatelma - aforyzm
 ajattelija - myśliciel
 ajatus - myśl
-ajo - jazda | nagonka
+ajo - jazda, nagonka
 ajokoira - pies myśliwski
 ajokortti - prawo jazdy
-ajos - wrzód | ropień
+ajos - wrzód, ropień
 akaatti - agat
 akateeminen - akademicki
 akatemia - akademia
-akka - stara kobieta | babsztyl
+akka - stara kobieta, babsztyl
 äkkinäinen - nagły
 akku - bateria (akumulator)
 akkumulaatio - nagromadzenie
 akkumulaattori - akumulator
 akkusatiivi - biernik
 akseli - oś
-äksy - gniewny | wściekły
+äksy - gniewny, wściekły
 aktiivinen - aktywny
 aktinium - aktyn
 aktivismi - aktywizm
@@ -176,22 +176,22 @@ akupunktio - akupunktura
 akupunktuuri - akupunktura
 akustinen - akustyczny
 akusto - bateria
-akuutti - przenikliwy | ostry
-akuuttinen - przenikliwy | ostry
+akuutti - przenikliwy, ostry
+akuuttinen - przenikliwy, ostry
 akvaario - akwarium
 akvaattinen - wodny
 akvedukti - akwedukt
-ala - terytorium | obszar | dziedzina
+ala - terytorium, obszar, dziedzina
 alalaji - podgatunek
 alanko - nizina
-Alankomaat - Niderlandy | Holandia
-alaraaja - kończyna dolna | kończyna tylna
-alasin - kowadło | kowadełko
+Alankomaat - Niderlandy, Holandia
+alaraaja - kończyna dolna, kończyna tylna
+alasin - kowadło, kowadełko
 alasinluu - kowadełko
-alaston - nagi | goły
+alaston - nagi, goły
 albania - język albański
 Albania - Albania
-albanialainen - Albańczyk | Albanka | albański
+albanialainen - Albańczyk, Albanka, albański
 albatrossi - albatros
 albiino - albinos
 Aleksandra - Aleksandra
@@ -203,10 +203,10 @@ algoritmi - algorytm
 alijäämä - deficyt
 alinomaa - ciągle
 alituisesti - ciągle
-alkaa - zacząć | rozpocząć | zaczynać się
+alkaa - zacząć, rozpocząć, zaczynać się
 alkemia - alchemia
 alkemisti - alchemik
-alkoholi - alkohol | napój alkoholowy
+alkoholi - alkohol, napój alkoholowy
 alkoholijuoma - napój alkoholowy
 alkoholismi - alkoholizm
 alkoholiton - bezalkoholowy
@@ -214,34 +214,34 @@ alku - początek
 alkuaine - pierwiastek
 alkuluku - liczba pierwsza
 alkusointu - aliteracja
-alkusoitto - preludium | uwertura
+alkusoitto - preludium, uwertura
 allakka - almanach
 allas - basen
 allatiivi - ? ? ?  allativus
 allegoria - alegoria
-allekirjoitus - podpis | autograf
-allergia - alergia | uczulenie
+allekirjoitus - podpis, autograf
+allergia - alergia, uczulenie
 alli - lodówka
 alligaattori - aligator
-allihaahka - birginiak | pstrokaczka | kaczka srokata
+allihaahka - birginiak, pstrokaczka, kaczka srokata
 allitteraatio - aliteracja
-almanakka - kalendarz | almanach
+almanakka - kalendarz, almanach
 almu - jałmużna
-aloittaa - zaczynać | rozpoczynać
+aloittaa - zaczynać, rozpoczynać
 aloittelija - początkujący
 alokas - rekrut
-Alpi - Alpi | fińskie imię męskie
+Alpi - Alpi, fińskie imię męskie
 Alpit - Alpy
 alppihiihto - narciarstwo alpejskie
 altimetri - wysokościomierz
 altitudi - wysokość
 altruismi - altruizm
 alttari - ołtarz
-alue - obszar | teren | strefa | terytorium | rejon
+alue - obszar, teren, strefa, terytorium, rejon
 alueellinen - regionalny
 alueittainen - regionalny
 aluepiiri - kraj (jednostka administracyjno-terytorialna w Federacji Rosyjskiej)
-alumiini - glin | aluminium
+alumiini - glin, aluminium
 alushousut - majtki
 alusvaate - bielizna
 älykäs - inteligentny
@@ -250,18 +250,18 @@ amatööri - amator
 ambitio - ambicja
 ambulanssi - ambulans
 amerikanjääkuikka - nur lodowiec
-Amerikan Yhdysvallat - Stany Zjednoczone Ameryki | USA
+Amerikan Yhdysvallat - Stany Zjednoczone Ameryki, USA
 amerikium - ameryk
-Amerikka - Ameryka | USA | Stany Zjednoczone Ameryki
-amerikkalainen - Amerykanin | Amerykanka | amerykański
+Amerikka - Ameryka, USA, Stany Zjednoczone Ameryki
+amerikkalainen - Amerykanin, Amerykanka, amerykański
 ametisti - ametyst
 amfetamiini - amfetamina
 amfora - amfora
 amiraali - admirał
-ämmä - stara baba | stara kobieta
-ammatti - zawód | profesja
+ämmä - stara baba, stara kobieta
+ammatti - zawód, profesja
 ammattikoulu - szkoła zawodowa
-ammattikoulutus - kształcenie zawodowe | nauczanie zawodu
+ammattikoulutus - kształcenie zawodowe, nauczanie zawodu
 ammattiliitto - związek zawodowy
 amme - wanna
 amnesia - amnezja
@@ -270,14 +270,14 @@ amnestia - amnestia
 ampeeri - amper
 ampeerimittari - amperomierz
 ampiainen - osa
-ampua - strzelać | zastrzelić
+ampua - strzelać, zastrzelić
 ampuhaukka - drzemlik
 ampuma-ase - broń palna
 amputaatio - amputacja
 amputointi - amputacja
 amuletti - amulet
 amurinkoskelo - tracz chiński
-amyloidoosi - amyloidoza | skrobiawica | betafibryloza
+amyloidoosi - amyloidoza, skrobiawica, betafibryloza
 ämyri - głośnik
 anakonda - anakonda
 analogia - analogia
@@ -298,18 +298,18 @@ Angola - Angola
 animaalinen - zwierzęcy
 animaatio - animacja
 ankanpoikanen - kaczątko
-ankea - przygnębiony | smutny | ciężki | trudny
-ankerias - węgorz | węgorz europejski
-ankka - kaczka | kaczka dziennikarska
+ankea - przygnębiony, smutny, ciężki, trudny
+ankerias - węgorz, węgorz europejski
+ankka - kaczka, kaczka dziennikarska
 ankkuri - kotwica
 annihilaatio - anihilacja
 anodi - anoda
 anomalia - anomalia
 anonyymi - anonimowy
 anoppi - teściowa
-antaa - dawać | darować | dać | pozwolić
-antagonisti - antagonista | przeciwnik
-Antarktis - Antarktyda | Antarktyka
+antaa - dawać, darować, dać, pozwolić
+antagonisti - antagonista, przeciwnik
+Antarktis - Antarktyda, Antarktyka
 antenni - antena
 antibiootti - antybiotyk
 antibioottinen - antybiotykowy
@@ -318,12 +318,12 @@ Antigua ja Barbuda - Antigua i Barbuda
 antiikki - antyk
 antilooppi - antylopa
 antimoni - antymon
-antipatia - antypatia | niechęć
+antipatia - antypatia, niechęć
 antisosiaalinen - aspołeczny
 antiteesi - antyteza
 antologia - antologia
 antonyymi - antonim
-antropofagia - kanibalizm | ludożerstwo
+antropofagia - kanibalizm, ludożerstwo
 antropologi - antropolog
 antropologia - antropologia
 apaattinen - apatyczny
@@ -344,15 +344,15 @@ approksimaatio - aproksymacja
 aprikoosi - morela
 apteekki - apteka
 apu - pomoc
-apuraha - stypendium | zapomoga | zasiłek
+apuraha - stypendium, zapomoga, zasiłek
 apuverbi - czasownik posiłkowy
 arabi - Arab
 arabia - język arabski
-arabialainen - arabski | Arab | Arabka
+arabialainen - arabski, Arab, Arabka
 Arabian niemimaa - Półwysep Arabski
 Arabiemiirikunnat - Zjednoczone Emiraty Arabskie
 araknofobia - arachnofobia
-arastelu - wahanie | niepewność
+arastelu - wahanie, niepewność
 arbuusi - arbuz
 areena - arena
 Argentiina - Argentyna
@@ -362,12 +362,12 @@ aristokraattisuus - arystokracja
 aristokratia - arystokracja
 Aristoteles - Arystoteles
 aritmetiikka - arytmetyka
-arka - bojaźliwy | lękliwy | czuły | wrażliwy
+arka - bojaźliwy, lękliwy, czuły, wrażliwy
 arkaainen - archaiczny
 arkaistinen - archaiczny
 Arkangeli - Archangielsk
-arkikielinen - kolokwialny | potoczny
-arkki - arkusz | arka
+arkikielinen - kolokwialny, potoczny
+arkki - arkusz, arka
 arkkipiispa - arcybiskup
 arkkitehti - architekt
 arkkitehtuuri - architektura
@@ -394,25 +394,25 @@ artistinen - artystyczny
 arvelu - przypuszczenie
 arvioija - krytyk
 arviolta - około
-arvo - wartość | cena
+arvo - wartość, cena
 arvonta - loteria
-arvostella - oceniać | krytykować
+arvostella - oceniać, krytykować
 arvostelma - osąd
-arvostelu - recenzja | krytyka | sąd | osąd | mniemanie
+arvostelu - recenzja, krytyka, sąd, osąd, mniemanie
 arvoton - bezwartościowy
 asbesti - azbest
-ase - broń | oręż
+ase - broń, oręż
 aseksuaalisuus - aseksualność
-asema - stacja | dworzec | pozycja | położenie | status
+asema - stacja, dworzec, pozycja, położenie, status
 asfaltti - asfalt
-asia - rzecz | sprawa | kwestia
+asia - rzecz, sprawa, kwestia
 asiakas - klient
-asianajaja - adwokat | obrońca
+asianajaja - adwokat, obrońca
 asiantuntija - ekspert
-asiapaperi - dokument | akt
+asiapaperi - dokument, akt
 asiayhteys - kontekst
 askeesi - asceza
-askel - schód | schodek | stopień | krok
+askel - schód, schodek, stopień, krok
 aspiriini - aspiryna
 ässä - as
 assimilaatio - asymilacja
@@ -420,11 +420,11 @@ assimilointi - asymilacja
 assistentti - asystent
 astaatti - astat
 astatiini - astat
-aste - stopień | stopień wielomianu
+aste - stopień, stopień wielomianu
 asteittain - stopniowo
 asteittainen - stopniowy
 asteittaisesti - stopniowo
-asti - do | aż do | od
+asti - do, aż do, od
 astia - naczynie
 astianpesukone - zmywarka
 astrofysiikka - astrofizyka
@@ -433,11 +433,11 @@ astronautti - astronauta
 astronomi - astronom
 astronomia - astronomia
 astronominen - astronomiczny
-astua - wejść | wchodzić
+astua - wejść, wchodzić
 asua - mieszkać
-asukas - mieszkaniec | mieszkanka | lokator | lokatorka
-asumaton - bezludny | niezaludniony
-asunto - mieszkanie | apartament | miejsce zamieszkania
+asukas - mieszkaniec, mieszkanka, lokator, lokatorka
+asumaton - bezludny, niezaludniony
+asunto - mieszkanie, apartament, miejsce zamieszkania
 asuntola - akademik
 Ateena - Ateny
 ateismi - ateizm
@@ -448,13 +448,13 @@ atmosfääri - atmosfera
 atolli - atol
 atomaarinen - atomowy
 atomi - atom
-ätsii - apsik! | a psik!
-ätsiih - apsik! | a psik!
+ätsii - apsik!, a psik!
+ätsiih - apsik!, a psik!
 atsimuutti - azymut
 attraktiivinen - atrakcyjny
 aukean paikan kammo - agorafobia
 aukiokammo - agorafobia
-aukko - otwór | szpara
+aukko - otwór, szpara
 aukkokohta - dziura
 aura - pług
 auringonkilo - światło słoneczne
@@ -472,7 +472,7 @@ aurinkolasit - okulary słoneczne
 Australia - Australia
 autenttinen - autentyczny
 autenttisuus - autentyczność
-autio - bezludny | pusty
+autio - bezludny, pusty
 autiomaa - pustynia
 auto - samochód
 autolautta - prom
@@ -482,27 +482,27 @@ automaattisesti - automatycznie
 autonomia - autonomia
 autonominen - autonomiczny
 auttaa - pomagać
-avain - klucz (narzędzie do otwierania zamków) | klucz (w kryptografii) | klucz (w muzyce)
+avain - klucz (narzędzie do otwierania zamków), klucz (w kryptografii), klucz (w muzyce)
 avanto - przerębel
-avaruus - przestrzeń kosmiczna | kosmos
+avaruus - przestrzeń kosmiczna, kosmos
 avaruuslaiva - statek kosmiczny
-avata - otwierać | otworzyć
+avata - otwierać, otworzyć
 avioero - rozwód
-avioliitto - małżeństwo | związek małżeński
+avioliitto - małżeństwo, związek małżeński
 aviomies - mąż
 avokado - awokado
 avosetti - szablodziób
 avustaja - asystent
 avuton - bezradny
 äyriäinen - skorupiak
-äyriäishuuhkaja - sowa japońska | puchacz japoński
+äyriäishuuhkaja - sowa japońska, puchacz japoński
 Azerbaidžan - Azerbejdżan
 baari - bar
 Bahrain - Bahrajn
 bakteeri - bakteria
 bakteriologia - bakteriologia
 baletti - balet
-balttilainen - bałtycki | nadbałtycki
+balttilainen - bałtycki, nadbałtycki
 bambu - bambus
 banaani - banan
 bandiitti - bandyta
@@ -517,16 +517,16 @@ barrikadi - barykada
 basaari - bazar
 basaltti - bazalt
 baseball - baseball
-basilika - bazylika | bazylia
+basilika - bazylika, bazylia
 baskeri - beret
 baski - baskijski
 baskilainen - baskijski
-basso - bas | gitara basowa
+basso - bas, gitara basowa
 bastioni - bastion
-bataatti - wilec ziemniaczany | batat | patat | słodki ziemniak
+bataatti - wilec ziemniaczany, batat, patat, słodki ziemniak
 beatifikaatio - beatyfikacja
 Belgia - Belgia
-belgialainen - Belg | Belgijka | belgijski
+belgialainen - Belg, Belgijka, belgijski
 Belize - Belize
 bengali - bengalski (język)
 Benin - Benin
@@ -534,7 +534,7 @@ bensiini - benzyna
 bensiiniasema - stacja benzynowa
 berkelium - berkel
 Berliini - Berlin
-berliiniläinen - berlińczyk | berliński
+berliiniläinen - berlińczyk, berliński
 berylli - beryl
 beryllium - beryl
 betoni - beton
@@ -564,11 +564,11 @@ bordyyri - haft
 Bosnia ja Hertsegovina - Bośnia i Hercegowina
 botaniikka - botanika
 Botswana - Botswana
-brandy - brandy | winiak
+brandy - brandy, winiak
 Brasilia - Brazylia
-brasilialainen - brazylijski | Brazylijczyk
+brasilialainen - brazylijski, Brazylijczyk
 briljantti - brylant
-brittiläinen - Brytyjczyk | Brytyjka | brytyjski
+brittiläinen - Brytyjczyk, Brytyjka, brytyjski
 brodeeraus - haft
 brodyyri - haft
 brodyyrikangas - haft
@@ -585,7 +585,7 @@ budjetti - budżet
 bulevardi - bulwar
 bulgaria - bułgarski
 Bulgaria - Bułgaria
-bulgarialainen - bułgarski | Bułgar | Bułgarka
+bulgarialainen - bułgarski, Bułgar, Bułgarka
 bulgarian kieli - język bułgarski
 bulgur - bulgur
 Burkina Faso - Burkina Faso
@@ -606,7 +606,7 @@ curium - kiur
 darmstadtium - darmsztadt
 debatti - debata
 deduktio - dedukcja
-defekti - defekt | wada
+defekti - defekt, wada
 defektiivinen - uszkodzony
 defensiivinen - obronny
 definitio - definicja
@@ -656,7 +656,7 @@ dokumentointi - dokumentacja
 dollari - dolar
 dolmen - dolmen
 Dominica - Dominika
-Dominikaaninen tasavalta - Dominikana | Republika Dominikańska
+Dominikaaninen tasavalta - Dominikana, Republika Dominikańska
 dominointi - dominacja
 dosentti - docent
 draama - dramat
@@ -675,43 +675,43 @@ dyyni - diuna
 eaa - przed naszą erą
 Ecuador - Ekwador
 edellinen - poprzedni
-edellytys - warunek | przesłanka | założenie
+edellytys - warunek, przesłanka, założenie
 edesvastuu - odpowiedzialność
 edistyksellinen - postępowy
 edistys - postęp
-edullinen - tani | niedrogi | korzystny
-eduskunta - sejm | parlament
+edullinen - tani, niedrogi, korzystny
+eduskunta - sejm, parlament
 eduskuntavaalit - wybory do parlamentu
-edustaja - przedstawiciel | agent | pełnomocnik
-edustus - przedstawicielstwo | reprezentacja
+edustaja - przedstawiciel, agent, pełnomocnik
+edustus - przedstawicielstwo, reprezentacja
 eeben - heban
 eebenholtsi - heban
 eebenpuu - heban
-eestiläinen - estoński | Estończyk | Estonka
+eestiläinen - estoński, Estończyk, Estonka
 eettinen - etyczny
 eeva - kobieta
-efektiivisyys - skuteczność | efektywność
+efektiivisyys - skuteczność, efektywność
 egoismi - egoizm
 egoistisuus - egoizm
 Egypti - Egipt
-egyptiläinen - egipski | Egipcjanin
-ehdokas - kandydat | nominowany
+egyptiläinen - egipski, Egipcjanin
+ehdokas - kandydat, nominowany
 ehdollinen - warunkowy
 ehdottaa - proponować
-ehdotus - propozycja | wniosek
+ehdotus - propozycja, wniosek
 ehei - nie
-ehkä - może | być może
-ehto - warunek | zastrzeżenie | klauzula | egzamin poprawkowy
+ehkä - może, być może
+ehto - warunek, zastrzeżenie, klauzula, egzamin poprawkowy
 ehtotapa - tryb warunkowy
-ehtyä - wysychać | wyczerpać się | przestać dawać mleko
-ei - nie - zaprzeczenie | nie - zaprzeczenie czasownika
+ehtyä - wysychać, wyczerpać się, przestać dawać mleko
+ei - nie - zaprzeczenie, nie - zaprzeczenie czasownika
 eilen - wczoraj
-eilinen - wczoraj | wczorajszy
-eilispäivä - dzień wczorajszy | wczoraj
+eilinen - wczoraj, wczorajszy
+eilispäivä - dzień wczorajszy, wczoraj
 ei mikään - nic
 ei milloinkaan - nigdy
 einsteinium - einstein
-ei yksi pääsky kesää tee - jedna jaskółka wiosny nie czyni | jedna jaskółka nie czyni lata
+ei yksi pääsky kesää tee - jedna jaskółka wiosny nie czyni, jedna jaskółka nie czyni lata
 ekologia - ekologia
 ekologinen - ekologiczny
 ekonomia - ekonomia
@@ -731,7 +731,7 @@ ekstrapolaatio - ekstrapolacja
 ekvaattori - równik
 ekvivalentti - równoważny
 ekvivalenttinen - równoważny
-elää - żyć | mieszkać
+elää - żyć, mieszkać
 eläin - zwierzę
 eläinlääkäri - weterynarz
 eläinopillinen - zoologiczny
@@ -761,9 +761,9 @@ elektroninen - elektroniczny
 eliksiiri - eliksir
 eliminaatio - eliminacja
 eliminointi - eliminacja
-elinpaikka - habitat | środowisko
+elinpaikka - habitat, środowisko
 elintarvike - artykuł spożywczy
-elinympäristö - habitat | środowisko
+elinympäristö - habitat, środowisko
 eliö - organizm
 elohopea - rtęć
 elokuu - sierpień
@@ -771,20 +771,20 @@ elokuva - film
 elokuvateatteri - kino
 El Salvador - Salwador
 elukka - zwierzę
-emakko - maciora | locha
+emakko - maciora, locha
 emansipaatio - emancypacja
 emäs - zasada
 emätin - pochwa
 emigrantti - emigrant
 Emilia - Emilia
 emittointi - emisja
-Emmi - Milja | Milla | Emilia
-emootio - emocja | uczucie
+Emmi - Milja, Milla, Emilia
+emootio - emocja, uczucie
 emotionaalinen - emocjonalny
 empatia - empatia
-empiirinen - empiryczny | doświadczalny
-empiristinen - empiryczny | doświadczalny
-en - nie - używany przy chęci zaprzeczenia czasownika | w pierwszej osobie .
+empiirinen - empiryczny, doświadczalny
+empiristinen - empiryczny, doświadczalny
+en - nie - używany przy chęci zaprzeczenia czasownika, w pierwszej osobie .
 endeeminen - endemiczny
 endiivi - endywia
 enemmistö - większość
@@ -792,18 +792,18 @@ energia - energia
 eŋgelasgiella - język angielski
 englanti - język angielski
 Englanti - Anglia
-englantilainen - angielski | Anglik
-eniten - najwięcej | najbardziej
+englantilainen - angielski, Anglik
+eniten - najwięcej, najbardziej
 enkeli - anioł
 enkelimäinen - anielski
-ennakko - zaliczka | zadatek
-ennakkoluulo - przesąd | uprzedzenie
+ennakko - zaliczka, zadatek
+ennakkoluulo - przesąd, uprzedzenie
 ennakkomyynti - przedsprzedaż
 ennakkotapaus - precedens
 ennätys - rekord
-ennen - przedtem | dawniej | przed
+ennen - przedtem, dawniej, przed
 ennenkuin - zanim
-eno - wuj | wujek
+eno - wuj, wujek
 enologia - enologia
 Enontekiö - Enontekiö (gmina w Laponii)
 ensiapu - pierwsza pomoc
@@ -829,7 +829,7 @@ epänormaalius - nienormalność
 epäorgaaninen - nieorganiczny
 epärehellinen - nieuczciwy
 epäröidä - wahać się
-epäröinti - wahanie | niepewność
+epäröinti - wahanie, niepewność
 epäsäännöllinen - nieregularny
 epäsikiö - potwór
 epäsuora - pośredni
@@ -844,23 +844,23 @@ epävakaisuus - niestabilność
 epävakaus - niestabilność
 epäystävällinen - nieprzyjazny
 epideeminen - epidemiczny
-epilepsia - padaczka | epilepsja
-epilogi - epilog | zakończenie
+epilepsia - padaczka, epilepsja
+epilogi - epilog, zakończenie
 epistemologia - epistemologia
 epitafi - epitafium
 epiteetti - epitet
 epuu - odmowa
-erä - część | udział | racja | ilość | połów | zdobycz | runda | tura | partia | raz
-erämaa - położona bardzo daleko od osiedli ludzkich strefa lasu (w Laponii) | ostępy leśne
-eräs - jeden | pewien
+erä - część, udział, racja, ilość, połów, zdobycz, runda, tura, partia, raz
+erämaa - położona bardzo daleko od osiedli ludzkich strefa lasu (w Laponii), ostępy leśne
+eräs - jeden, pewien
 erbium - erb
-erhe - pomyłka | błąd
+erhe - pomyłka, błąd
 eriarvoinen - nierówny
-erikoinen - specjalny | osobliwy | szczególny
-erikseen - osobno | oddzielnie
-erilainen - różny | odmienny
+erikoinen - specjalny, osobliwy, szczególny
+erikseen - osobno, oddzielnie
+erilainen - różny, odmienny
 erilaisesti - inaczej
-erinomainen - wybitny | świetny | znakomity
+erinomainen - wybitny, świetny, znakomity
 eriskummallinen - dziwaczny
 erisnimi - nazwa własna
 eritelmä - specyfikacja
@@ -876,37 +876,37 @@ esihistoriallinen - prehistoryczny
 esikäsittely - przygotowanie
 esikaupunki - przedmieście
 esiliina - fartuch
-esim. - np. | na przykład
-esimerkiksi - na przykład | przykładowo
+esim. - np., na przykład
+esimerkiksi - na przykład, przykładowo
 esimerkki - przykład
-esine - przedmiot | rzecz
+esine - przedmiot, rzecz
 esipuhe - przedmowa
 esitelmöijä - wykładowca
 esitelmöitsijä - wykładowca
 esivanhempi - przodek
 espanja - hiszpański
 Espanja - Hiszpania
-espanjalainen - Hiszpan | Hiszpanka | hiszpański
+espanjalainen - Hiszpan, Hiszpanka, hiszpański
 esperanto - esperanto
 Espoo - Espoo
 essiivi - ? ? ? ?
-esso - ecstasy | metylenodioksymetamfetamina
+esso - ecstasy, metylenodioksymetamfetamina
 este - przeszkoda
 estetiikka - estetyka
 estuaari - ujście
 etäisyys - odległość
 etana - ślimak
-eteinen - przedpokój | przedsionek serca | przedsionek
+eteinen - przedpokój, przedsionek serca, przedsionek
 eteiskäytävä - korytarz
 etelä - południe (kierunek)
 Etelä-Afrikka - Republika Południowej Afryki
 Etelä-Amerikka - Ameryka Południowa
 eteläinen - południowy
 Etelä-Korea - Korea Południowa
-eteläkorealainen - południowokoreański | mieszkaniec/mieszkanka Korei Południowej
+eteläkorealainen - południowokoreański, mieszkaniec/mieszkanka Korei Południowej
 Etelämanner - Antarktyka
 Etelänapamanner - Antarktyka
-etenkin - zwłaszcza | szczególnie | przede wszystkim
+etenkin - zwłaszcza, szczególnie, przede wszystkim
 etiikka - etyka
 etikka - ocet
 etnisyys - narodowość
@@ -925,7 +925,7 @@ eunukki - eunuch
 euro - euro
 Euroopan unioni - Unia Europejska
 Eurooppa - Europa
-eurooppalainen - Europejczyk | Europejka | europejski
+eurooppalainen - Europejczyk, Europejka, europejski
 europium - europ
 eutanasia - eutanazja
 evä - płetwa
@@ -963,7 +963,7 @@ festivaali - festiwal
 Fidži - Fidżi
 filantrooppinen - dobroczynny
 filantropia - filantropia
-filee - filet | polędwica
+filee - filet, polędwica
 Filippiinit - Filipiny
 filmata - filmować
 filmi - film
@@ -973,7 +973,7 @@ filosofi - filozof
 filosofia - filozofia
 filosofinen - filozoficzny
 finni - pryszcz
-flaamilainen - flamandzki | Flamandczyk | Flamandka
+flaamilainen - flamandzki, Flamandczyk, Flamandka
 floora - flora
 flunssa - grypa
 fluori - fluor
@@ -997,7 +997,7 @@ fresko - fresk
 frontaalinen - przedni
 fruitarismi - frutarianizm
 frustraatio - frustracja
-fundamentaalinen - podstawowy | zasadniczy
+fundamentaalinen - podstawowy, zasadniczy
 funktio - funkcja
 furunkuloosi - czyrak
 futurologia - futurologia
@@ -1006,7 +1006,7 @@ fysikaalisesti - fizycznie
 fysiologia - fizjologia
 fyysikko - fizyk
 fyysillisesti - fizycznie
-fyysinen - fizyczny | cielesny
+fyysinen - fizyczny, cielesny
 fyysisesti - fizycznie
 Gabon - Gabon
 gadolinium - gadolin
@@ -1021,7 +1021,7 @@ geeni - gen
 genealogia - genealogia
 geneettinen - genetyczny
 genetiivi - dopełniacz
-genre - gatunek | rodzaj
+genre - gatunek, rodzaj
 gentlemanni - dżentelmen
 geografia - geografia
 geologia - geologia
@@ -1061,75 +1061,75 @@ Guinea-Bissau - Gwinea Bissau
 gynekologi - ginekolog
 Haag - Haga
 haahka - edredon
-haalea - ciepławy | letni
-haamu - duch | upiór | zjawa
+haalea - ciepławy, letni
+haamu - duch, upiór, zjawa
 haapa - osika
 haapana - świstun
 haarahaukka - kania
 haarake - gałąź
-haarapääsky - jaskółka dymówka | dymówka
+haarapääsky - jaskółka dymówka, dymówka
 haarukka - widelec
-haaska - padlina | ścierwo
+haaska - padlina, ścierwo
 haastattelu - wywiad
-häät - wesele | ślub
+häät - wesele, ślub
 haava - rana
 haavautuma - wrzód
 haave - marzenie
 haaveilla - marzyć
 Habarovsk - Chabarowsk
-habitaatti - habitat | środowisko
+habitaatti - habitat, środowisko
 hädässä ystävä tunnetaan - prawdziwych przyjaciół poznaje się w biedzie
-hädin tuskin - ledwie | ledwo | zaledwie
+hädin tuskin - ledwie, ledwo, zaledwie
 hafnium - hafn
-hahmo - postać | kształt | figura
+hahmo - postać, kształt, figura
 hahmotus - percepcja
 hahtuva - puch
 hai - rekin
 haihdunta - parowanie
 haihduttaminen - parowanie
 haihdutus - parowanie
-haihtua - parować | wyparować | ulotnić się | rozproszyć się | zniknąć
+haihtua - parować, wyparować, ulotnić się, rozproszyć się, zniknąć
 häikäilemätön - pozbawiony skrupułów
 haikala - rekin
 haikara - bocian
-haikea - smutny | smętny | gorzki | bolesny
+haikea - smutny, smętny, gorzki, bolesny
 haikeus - nostalgia
 hailea - blady
 haima - trzustka
-haistaa - wąchać | powąchać | węszyć
+haistaa - wąchać, powąchać, węszyć
 haisunäätä - skunks
 haitari - harmonia
 Haiti - Haiti
 häivä - ślad
 hajamielinen - roztargniony
 haje - entropia
-hajottaa - rozbić | rozwalić | rozproszyć | rozebrać na części | rozmontować | rozpuścić
-haju - zapach | woń | smród | odór
-hajuaisti - zmysł powonienie | węch
+hajottaa - rozbić, rozwalić, rozproszyć, rozebrać na części, rozmontować, rozpuścić
+haju - zapach, woń, smród, odór
+hajuaisti - zmysł powonienie, węch
 hajuste - perfumy
 hajuvesi - perfumy
-häkä - tlenek węgla | czad
+häkä - tlenek węgla, czad
 hakaneula - agrafka
 hakaristi - swastyka
-hakemus - podanie | prośba na piśmie
+hakemus - podanie, prośba na piśmie
 hakkailla - flirtować
 hakku - kilof
 haksahdus - gafa
 hakusana - hasło
-halaus - uścisk | objęcie
+halaus - uścisk, objęcie
 halkaisija - średnica
 halla - nocny przymrozek
-halli - hala | foka szara
-hallinto - administracja | rząd | zarząd
-hallitus - rząd | rada ministrów
+halli - hala, foka szara
+hallinto - administracja, rząd, zarząd
+hallitus - rząd, rada ministrów
 hallusinaatio - halucynacja
 halpa - tani
 haltia - elf
-halu - ochota | chęć
+halu - ochota, chęć
 haluta - chcieć
-halveksia - gardzić | pogardzać | lekceważyć | poniżać
+halveksia - gardzić, pogardzać, lekceważyć, poniżać
 hämähäkki - pająk
-hämärä - zmrok | zmierzch | ciemny | mroczny | niewyraźny
+hämärä - zmrok, zmierzch, ciemny, mroczny, niewyraźny
 hame - spódnica
 hammas - ząb
 hammasharja - szczoteczka do zębów
@@ -1141,13 +1141,13 @@ hammastahna - pasta do zębów
 hammastikku - wykałaczka
 hampaankolotus - ból zęba
 Hampuri - Hamburg
-hän - on | ona
+hän - on, ona
 hanakka - chętny
-hänen - jego | jej
+hänen - jego, jej
 hanhi - gęś
-hankala - trudny | ciężki | żmudny
+hankala - trudny, ciężki, żmudny
 hanke - projekt
-hanki - zmrożony wiosenny śnieg | szreń
+hanki - zmrożony wiosenny śnieg, szreń
 hanko - widły
 hansikas - rękawiczka
 häntä - ogon
@@ -1158,7 +1158,7 @@ hapankerma - kwaśna śmietana
 hapankirsikka - wiśnia pospolita
 hapera - kruchy
 happi - tlen
-happo - kwas | pijak
+happo - kwas, pijak
 hapsukiislanen - nurniczek wąsaty
 häpy - srom
 häpyhuuli - warga sromowa
@@ -1170,7 +1170,7 @@ harava - grabie
 harha-aistimus - halucynacja
 harhakuva - iluzja
 harhaoppi - herezja
-harja - szczotka | grzywa | grzebień
+harja - szczotka, grzywa, grzebień
 harjakoskelo - kapturnik
 harjalintu - dudek
 harjas - szczecina
@@ -1181,7 +1181,7 @@ härkä - byk
 Härkä - Byk
 härkälintu - perkoz rdzawoszyi
 härkäpapu - bób
-harmaa - szary | bezbarwny | przygnębiający | szary kolor
+harmaa - szary, bezbarwny, przygnębiający, szary kolor
 harmaahaikara - czapla siwa
 harmaakuukkeli - sójka kanadyjska
 harmaalokki - mewa srebrzysta
@@ -1189,17 +1189,17 @@ harmaapäätikka - dzięcioł zielonosiwy
 harmaasieppo - muchołówka szara
 harmaasirkku - potrzeszcz
 harmaasorsa - krakwa
-harmiton - niegroźny | nieszkodliwy
+harmiton - niegroźny, nieszkodliwy
 harmonia - harmonia
 harmonikka - akordeon
 harppi - cyrkiel
 harppu - harfa
-harrastaa - interesować się | mieć hobby
-harrastaja - hobbysta | amator | entuzjasta | fan
+harrastaa - interesować się, mieć hobby
+harrastaja - hobbysta, amator, entuzjasta, fan
 harraste - hobby
-harrastus - hobby | zainteresowanie
-härski - zjełczały | bezczelny | śmiały
-hartia - ramię | bark
+harrastus - hobby, zainteresowanie
+härski - zjełczały, bezczelny, śmiały
+hartia - ramię, bark
 hartiahuivi - szal
 harvainvalta - oligarchia
 harvinainen - rzadki (nie spotykany często)
@@ -1208,16 +1208,16 @@ hasis - haszysz
 hasselpähkinä - orzech laskowy
 hassium - has
 hätiköinti - pośpiech
-hattara - wata cukrowa | chmurka | obłoczek
+hattara - wata cukrowa, chmurka, obłoczek
 hattu - kapelusz
 hauki - szczupak
-haukka - jastrząb | dzienny ptak drapieżny
+haukka - jastrząb, dzienny ptak drapieżny
 haukkua - szczekać
 haukotella - ziewać
 haukotus - ziewnięcie
 haupitsi - haubica
-hauras - kruchy | łamliwy | słaby
-hauska - sympatyczny | przyjemny | miły
+hauras - kruchy, łamliwy, słaby
+hauska - sympatyczny, przyjemny, miły
 hauta - grób
 hautajaiset - pogrzeb
 hautakirjoitus - epitafium
@@ -1231,25 +1231,25 @@ havainto - obserwacja
 havaintokyky - percepcja
 havaitsija - obserwator
 häviö - porażka
-hävittäjä - niszczyciel | kontrtorpedowiec | myśliwiec
+hävittäjä - niszczyciel, kontrtorpedowiec, myśliwiec
 hävitys - zniszczenie
 havu - igliwie
 havupuu - drzewo iglaste
-he - oni | one
+he - oni, one
 hede - pręcik
 hedelmä - owoc
 hedelmämehu - sok owocowy
 hedonismi - hedonizm
 heeros - bohater
 hegemonia - hegemonia
-hehku - żar | żarzenie
+hehku - żar, żarzenie
 hehkulamppu - żarówka
 heidän - ich
 Heidi - imię żeńskie
 heikko - słaby
 heiluri - wahadło
-heimo - rodzina | szczep | ród | plemię
-heinä - siano | trawa
+heimo - rodzina, szczep, ród, plemię
+heinä - siano, trawa
 heinäkurppa - dubelt
 heinäkuu - lipiec
 heinäsirkka - konik polny
@@ -1259,23 +1259,23 @@ heittiö - łajdak
 heitto - rzut
 heiveröinen - słaby
 heksagoninen - sześciokątny
-helikopteri - helikopter | śmigłowiec
+helikopteri - helikopter, śmigłowiec
 helium - hel
-hellä - wrażliwy | czuły | delikatny | tkliwy
+hellä - wrażliwy, czuły, delikatny, tkliwy
 hellävarainen - delikatny
 hellävaraisesti - delikatnie
 hellävaroen - delikatnie
-helle - upał | upalna pogoda
+helle - upał, upalna pogoda
 helma - łono
 helmi - perła
 helmikana - perliczka
 helmikuu - luty
 helmipöllö - włochatka
 helmitaulu - abakus
-helposti - prosto | łatwo | lekko | bez trudu
+helposti - prosto, łatwo, lekko, bez trudu
 helppo - łatwy
 Helsinki - Helsinki
-heltta - korale | blaszki
+heltta - korale, blaszki
 helvetillinen - piekielny
 helvetti - piekło
 hemisfääri - półkula
@@ -1285,45 +1285,45 @@ hengellisesti - duchowo
 hengenvaara - zagrożenie życia
 hengittää - oddychać
 hengitys - oddech
-henki - oddech | duch | umysł | osoba | życie | wiaterek | powiew wiatru
-henkilö - osoba | postać (np. w sztuce, filmie)
+henki - oddech, duch, umysł, osoba, życie, wiaterek, powiew wiatru
+henkilö - osoba, postać (np. w sztuce, filmie)
 henkilöitymä - personifikacja
-henkilökohtainen - osobisty | prywatny
+henkilökohtainen - osobisty, prywatny
 henkivartija - ochroniarz
 henkselit - szelki
 Henrik - Henryk
-hepokatti - pasikonik | konik polny
+hepokatti - pasikonik, konik polny
 heprea - hebrajski
 hera - serwatka
 heraldiikka - heraldyka
-herätä - budzić się | obudzić się
+herätä - budzić się, obudzić się
 heräte - bodziec
-herättää - budzić | obudzić (kogoś) | wzbudzić | wzbudzać | wywoływać | wywołać (coś)
+herättää - budzić, obudzić (kogoś), wzbudzić, wzbudzać, wywoływać, wywołać (coś)
 hereä - obfity
 herhiläinen - szerszeń
-herkkä - wrażliwy | czuły | tkliwy | uczuciowy | sentymentalny
+herkkä - wrażliwy, czuły, tkliwy, uczuciowy, sentymentalny
 herkullinen - pyszny
 hermo - nerw
 hermotautioppi - neurologia
 herne - groch
-hernekerttu - pokrzewka piegża | piegża
+hernekerttu - pokrzewka piegża, piegża
 heroiini - heroina
 heroismi - bohaterstwo
 herooinen - bohaterski
 herra - pan
 herrasmies - dżentelmen
-herttainen - czarujący | miły | uprzejmy
+herttainen - czarujący, miły, uprzejmy
 herttuatar - księżna
 herukka - porzeczka
-hete - trzęsawisko | bagno | moczar
+hete - trzęsawisko, bagno, moczar
 heterogeeninen - niejednorodny
 heteroseksuaalisuus - heteroseksualizm
 heterous - heteroseksualizm
-hetki - chwila | moment
-hevonen - koń | skoczek
+hetki - chwila, moment
+hevonen - koń, skoczek
 hevosenkenkä - podkowa
 hevosvoima - koń mechaniczny
-hidas - wolny | powolny
+hidas - wolny, powolny
 hieho - jałówka
 hiekka - piasek
 hiekkakello - klepsydra
@@ -1335,8 +1335,8 @@ hienovarainen - subtelny
 hierarkia - hierarchia
 hietakurki - żuraw kanadyjski
 hiha - rękaw
-hihna - rzemyk | pasek
-hiihtää - jeździć na nartach | uprawiać narciarstwo
+hihna - rzemyk, pasek
+hiihtää - jeździć na nartach, uprawiać narciarstwo
 hiihto - narciarstwo
 hiili - węgiel
 hiiri - mysz
@@ -1352,25 +1352,25 @@ hiljaisesti - cicho
 hiljaisuus - cisza
 hilla - malina moroszka
 hilleri - tchórz
-hillo - dżem | konfitury
+hillo - dżem, konfitury
 hilpeä - radosny
 hilse - łupież
 hinnakas - drogi
 hinta - cena
 hinttari - pedał
-hioa - szlifować | ostrzyć
+hioa - szlifować, ostrzyć
 hippiäinen - mysikrólik
 hirmuhallitsija - tyran
 hirmulisko - dinozaur
 hirmuvaltias - tyran
 hirssi - proso
 hirsutismi - hirsutyzm
-hirvi - łoś | mięso łosia
-hirviö - potwór | stwór | bestia
+hirvi - łoś, mięso łosia
+hirviö - potwór, stwór, bestia
 hissi - winda
 historia - historia
 historiallinen - historyczny
-hitaasti - powoli | wolno
+hitaasti - powoli, wolno
 hitsaaja - spawacz
 hiukset - włosy
 hiukseton - bezwłosy
@@ -1378,11 +1378,11 @@ hius - włos
 hiusharja - szczotka do włosów
 hiustenpesuaine - szampon
 hiutale - płatek
-hivellä - gładzić | głaskać
+hivellä - gładzić, głaskać
 hockey - hokej
-hohkainen - porowaty | gąbczasty
+hohkainen - porowaty, gąbczasty
 hohkakivi - pumeks
-hoito - pielęgnowanie | opieka | leczenie | kuracja | nadzór | pilnowanie | czuwanie | manipulownie | obsługiwanie | troska | dbanie | zawiadywanie | administrowanie
+hoito - pielęgnowanie, opieka, leczenie, kuracja, nadzór, pilnowanie, czuwanie, manipulownie, obsługiwanie, troska, dbanie, zawiadywanie, administrowanie
 hollanti - holenderski
 Hollanti - Holandia
 holmium - holm
@@ -1392,7 +1392,7 @@ homogeeninen - jednolity
 homonymia - homonim
 homonyymi - homonim
 homoseksuaalisuus - homoseksualizm
-hömötiainen - sikora czarnogłowa | czarnogłówka
+hömötiainen - sikora czarnogłowa, czarnogłówka
 homous - homoseksualizm
 Hongkong - Hongkong
 honka - sosna
@@ -1408,19 +1408,19 @@ hostelli - hostel
 hotelli - hotel
 housut - spodnie
 höyhen - pióro
-höyry - para | opar
-höyrylaiva - statek parowy | parowiec
+höyry - para, opar
+höyrylaiva - statek parowy, parowiec
 höytäle - płatek
 huhtikuu - kwiecień
 huhu - pogłoska
 huilu - flet
-huippu - szczyt | wierzchołek | wierzch
-Huippuvuoret - Spitsbergen | Svalbard
+huippu - szczyt, wierzchołek, wierzch
+Huippuvuoret - Spitsbergen, Svalbard
 huivi - szalik
 hukka - wilk
 huligaani - huligan
 hulinoitsija - huligan
-hullu - głupiec | wariat | dureń | chory psychicznie | obłąkany
+hullu - głupiec, wariat, dureń, chory psychicznie, obłąkany
 humaani - ludzki
 humaaninen - ludzki
 humala - chmiel
@@ -1428,21 +1428,21 @@ humanitaarinen - humanitarny
 hummeri - homar
 hunaja - miód
 hunajaopas - miodowód
-huoli - zmartwienie | troska | opieka | obawa | trwoga
-huomautus - komentarz | uwaga
-huomen - poranek | jutro
+huoli - zmartwienie, troska, opieka, obawa, trwoga
+huomautus - komentarz, uwaga
+huomen - poranek, jutro
 huomenna - jutro
 huomenta - dzień dobry
 huomio - uwaga
 huomioija - obserwator
-huone - pokój | pomieszczenie | dom | ród | dynastia
+huone - pokój, pomieszczenie, dom, ród, dynastia
 huonekalu - mebel
-huono - zły | biedny
-huono-onninen - nieszczęśliwy | pechowy
-huora - kurwa | dziwka
+huono - zły, biedny
+huono-onninen - nieszczęśliwy, pechowy
+huora - kurwa, dziwka
 huotra - pochwa
 hupaisa - śmieszny
-hupi - zabawa | ubaw | frajda
+hupi - zabawa, ubaw, frajda
 hurja - gwałtowny
 hurraaisänmaallisuus - patriotyzm
 hurrikaani - huragan
@@ -1453,12 +1453,12 @@ huumori - humor
 huumorintaju - poczucie humoru
 huutaa - krzyczeć
 huuto - krzyk
-huutokauppa - aukcja | licytacja
+huutokauppa - aukcja, licytacja
 hydraulinen - hydrauliczny
 hydrostatiikka - hydrostatyka
 hyeena - hiena
 hygienia - higiena
-hyinen - lodowaty | zimny jak lód
+hyinen - lodowaty, zimny jak lód
 hylje - foka
 hylky - wrak
 hylly - półka
@@ -1469,16 +1469,16 @@ hymy - uśmiech
 hymyillä - uśmiechać się
 hyödyllisyys - użyteczność
 hyödytön - bezużyteczny
-hyökätä - napadać | atakować
-hyökkäys - atak | napad
-hyökyaalto - fala przypływu | fala przyboju | fala błądząca | tsunami
+hyökätä - napadać, atakować
+hyökkäys - atak, napad
+hyökyaalto - fala przypływu, fala przyboju, fala błądząca, tsunami
 hyönteinen - owad
 hyönteishävite - środek owadobójczy
 hyönteismyrkky - środek owadobójczy
 hyönteistiede - entomologia
 hyönteistutkimus - entomologia
 hyötyisä - korzystny
-hypätä - skakać | przeskakiwać
+hypätä - skakać, przeskakiwać
 hypnoosi - hipnoza
 hypoteekki - hipoteka
 hypoteesi - hipoteza
@@ -1486,7 +1486,7 @@ hyppääjä - skoczek
 hyppiä - skakać
 hyppy - skok
 hysteria - histeria
-hytti - kabina | kajuta
+hytti - kabina, kajuta
 hyttynen - komar
 hyvä - dobry
 hyvää huomenta - dzień dobry
@@ -1497,12 +1497,12 @@ hyvänmakuinen - smaczny
 hyväntekijä - dobroczyńca
 Hyväntoivonniemi - Przylądek Dobrej Nadzieji
 hyveellinen - cnotliwy
-hyvin - dobrze | bardzo
+hyvin - dobrze, bardzo
 iäkäs - starszy
 iankaiken - na zawsze
 iankaikkisuus - wieczność
-idänuunilintu - wójcik | wójcik zielony
-idea - pomysł | idea | myśl przewodnia
+idänuunilintu - wójcik, wójcik zielony
+idea - pomysł, idea, myśl przewodnia
 ideaalinen - idealny
 idealismi - idealizm
 identifikaatio - identyfikacja
@@ -1514,9 +1514,9 @@ idiootti - idiota
 idioottimainen - idiotyczny
 idoli - idol
 ien - dziąsło
-ihan - całkiem | całkowicie
+ihan - całkiem, całkowicie
 ihanteellinen - idealny
-ihme - cud | cudo | dziwo | zdziwienie | zdumienie
+ihme - cud, cudo, dziwo, zdziwienie, zdumienie
 ihminen - człowiek
 ihmiset - ludzie
 ihmisrakas - dobroczynny
@@ -1533,19 +1533,19 @@ ikkunalauta - parapet
 iktyologi - ichtiolog
 ikuinen - wieczny
 ikuisuus - wieczność
-iljetys - wstręt | odraza
+iljetys - wstręt, odraza
 ilkeämielinen - złośliwy
 illallinen - kolacja
 illatiivi - ? ?  illativus
 illegaali - nielegalny
 illustraatio - ilustracja
 illuusio - iluzja
-ilma - powietrze | pogoda
+ilma - powietrze, pogoda
 ilmailu - lotnictwo
 ilmailuyhtiö - linie lotnicze (przedsiębiorstwo)
 ilmainen - bezpłatny
 ilmakehä - atmosfera
-ilman - bez | bezpłatnie | darmowo | gratis
+ilman - bez, bezpłatnie, darmowo, gratis
 ilmanpaine - ciśnienie atmosferyczne
 ilmanpainemittari - barometr
 ilmapallo - balon
@@ -1558,9 +1558,9 @@ ilmeikäs - ekspresyjny
 ilmeisemmin - oczywiście
 ilmiö - zjawisko
 ilmiselvä - oczywisty
-iloinen - szczęśliwy | zadowolony
+iloinen - szczęśliwy, zadowolony
 Ilomantsi - Ilomantsi
-ilotalo - burdel | dom publiczny
+ilotalo - burdel, dom publiczny
 iloton - ponury
 ilta - wieczór
 iltapäivä - popołudnie
@@ -1583,7 +1583,7 @@ indiisi - poszlaka
 indium - ind
 indonesia - język indonezyjski
 Indonesia - Indonezja
-indonesialainen - Indonezyjczyk | Indonezyjka | indonezyjski
+indonesialainen - Indonezyjczyk, Indonezyjka, indonezyjski
 inertia - bezwładność
 inessiivi - ? ?   inessivus
 inflaatio - inflacja
@@ -1603,7 +1603,7 @@ inspehtori - inspektor
 instituutio - instytucja
 instituutti - instytut
 instruktiivi - ? ?   instructivus
-instrumentti - instrument | narzędzie
+instrumentti - instrument, narzędzie
 integraali - całka
 intensiivinen - intensywny
 intensiteetti - intensywność
@@ -1614,7 +1614,7 @@ interventio - interwencja
 Intia - Indie
 Intian valtameri - Ocean Indyjski
 intimiteetti - prywatność
-into - entuzjazm | zapał
+into - entuzjazm, zapał
 intomielinen - entuzjastyczny
 intomielisyys - entuzjazm
 intuitio - intuicja
@@ -1624,7 +1624,7 @@ Iran - Iran
 iridium - iryd
 Irlanti - Irlandia
 ironia - ironia
-irtolainen - włóczęga | wagabunda
+irtolainen - włóczęga, wagabunda
 irvokas - groteskowy
 isä - ojciec
 isänmaa - ojczyzna
@@ -1633,24 +1633,24 @@ isänmaallisuus - patriotyzm
 isänmaanrakkaus - patriotyzm
 isänpuoleinen - ojcowski
 isäpuoli - ojczym
-iskeä - uderzyć | uderzać | bić
-isku - uderzenie | cios
+iskeä - uderzyć, uderzać, bić
+isku - uderzenie, cios
 islamilainen - islamski
 islaminusko - islam
 islanti - język islandzki
 Islanti - Islandia
 islantilainen - islandzki
-iso - duży | wielki
+iso - duży, wielki
 isoäiti - babcia
 Iso-Britannia - Wielka Brytania
 isoisä - dziadek
 isoisoisä - pradziadek
 isojalkakana - nogal
 isokäpylintu - krzyżodziób sosnowy
-isokihu - wydrzyk wielki | skua
+isokihu - wydrzyk wielki, skua
 isokoskelo - tracz nurogęś
 isolaatio - izolacja
-isolepinkäinen - dzierzba srokosz | srokosz
+isolepinkäinen - dzierzba srokosz, srokosz
 isolokki - mewa blada
 isolunni - maskonur pacyficzny
 isorokko - ospa
@@ -1659,7 +1659,7 @@ isotooppi - izotop
 Iso valtameri - Ocean Spokojny
 Israel - Izrael
 istua - siedzieć
-isuri - ingryjski | iżorski
+isuri - ingryjski, iżorski
 itä - wschód
 itäinen - wschodni
 italia - włoski
@@ -1668,7 +1668,7 @@ italialainen - włoski
 Itämeri - Morze Bałtyckie
 Itä-Timor - Timor Wschodni
 Itävalta - Austria
-itävaltalainen - Austriak | austriacki
+itävaltalainen - Austriak, austriacki
 Itävalta-Unkari - Austro-Węgry
 itiö - zarodnik
 itkeä - płakać
@@ -1681,11 +1681,11 @@ itsenäisesti - niezależnie
 itsenäisyys - niepodległość
 itsepäinen - uparty
 itsetoiminen - automatyczny
-itsetyydytys - samogwałt | masturbacja
+itsetyydytys - samogwałt, masturbacja
 itsevalta - autokracja
 ja - i
-jää - lód | jäädä
-jäädä - pozostawać | zostawać | trwać | pozostać | zostać
+jää - lód, jäädä
+jäädä - pozostawać, zostawać, trwać, pozostać, zostać
 jäähdytin - chłodnica
 jääkaappi - lodówka
 jääkahvi - kawa mrożona
@@ -1694,7 +1694,7 @@ jääkausi - epoka lodowcowa
 jääkiekko - hokej na lodzie
 jääkuikka - nur białodzioby
 jäälautta - kra
-jäämä - pozostałość | reszta
+jäämä - pozostałość, reszta
 jäänmurtaja - lodołamacz
 jääpuikko - sopel
 jäätee - mrożona herbata
@@ -1702,33 +1702,33 @@ jäätelö - lód
 jäätikkö - lodowiec
 jäävuori - góra lodowa
 jaguaari - jaguar
-jakaa - dzielić | rozdzielać
+jakaa - dzielić, rozdzielać
 jakaja - dzielnik
 jäkälä - porost
 jakautua - dzielić się
-jako - podział | dzielenie
+jako - podział, dzielenie
 jakolasku - dzielenie
-jakso - etap | okres | period
+jakso - etap, okres, period
 jaksollinen - okresowy
 jakuutti - język jakucki
 jalanjälki - ślad stopy
 jalava - wiąz
 jäljenne - kopia
 jäljitellä - naśladować
-jalka - stopa | noga | trzon grzyba
+jalka - stopa, noga, trzon grzyba
 jalkajousi - kusza
 jalkapallo - piłka nożna
 jalkapalloilija - piłkarz
 jalkapallojoukkue - drużyna piłkarska
 jalkaterä - stopa
 jalkavaimo - konkubina
-jälki - ślad | trop
+jälki - ślad, trop
 jälkikäteen - potem
 jalkine - obuwie
 jalkineet - obuwie
 jälkiruoka - deser
-jälkisanat - epilog | zakończenie
-jälleen - znowu | znów
+jälkisanat - epilog, zakończenie
+jälleen - znowu, znów
 jalo - szlachetny
 jalohaukka - sokół
 jalokivi - kamień szlachetny
@@ -1736,7 +1736,7 @@ jalopähkinä - orzech włoski
 Jamaika - Jamajka
 jamssi - pochrzyn
 jänis - zając
-jänkä - moczar | bagno | mokradło
+jänkä - moczar, bagno, mokradło
 jänkäkurppa - bekasik
 jänkäsirriäinen - biegus płaskodzioby
 jänne - ścięgno
@@ -1753,23 +1753,23 @@ järjestelmä - system
 järjestelmällinen - systematyczny
 järjestö - organizacja
 järkäle - głaz
-järripeippo - jer | zięba jer
+järripeippo - jer, zięba jer
 jarru - hamulec
 järvi - jezioro
 jäsen - członek
-jäsenistö - zgromadzenie członków | ogół członków | kolegium
+jäsenistö - zgromadzenie członków, ogół członków, kolegium
 jasmiini - jaśmin
 jatkuminen - kontynuacja
 jatsi - jazz
-jättää - wychodzić | opuszczać
+jättää - wychodzić, opuszczać
 jättiläismäinen - gigantyczny
 jättimäinen - gigantyczny
-jauhaa - mleć | mielić
+jauhaa - mleć, mielić
 jauho - mąka
-jäykkä - sztywny | zdrętwiały | uparty | nieugięty
+jäykkä - sztywny, zdrętwiały, uparty, nieugięty
 Jeesus - Jezus
 Jeesus Kristus - Jezus Chrystus
-jekku - żart | żarcik | figiel
+jekku - żart, żarcik, figiel
 Jemen - Jemen
 jo - już
 jodi - jod
@@ -1788,10 +1788,10 @@ joku - ktoś
 jonglööri - żongler
 jonne - gdzie
 jonnekin - gdzieś
-jordanialainen - Jordańczyk | Jordanka | jordański
+jordanialainen - Jordańczyk, Jordanka, jordański
 Jordanjoki - Jordan
 jos - jeśli
-joskus - czasami | czasem | niekiedy
+joskus - czasami, czasem, niekiedy
 jouhisorsa - rożeniec
 joukkue - drużyna
 joulu - święta Bożego Narodzenia
@@ -1801,27 +1801,27 @@ joulupukki - święty mikołaj
 Joulusaari - Wyspa Bożego Narodzenia
 journalismi - dziennikarstwo
 journalistiikka - dziennikarstwo
-jousi - łuk | smyczek
+jousi - łuk, smyczek
 jousiammunta - łucznictwo
 jousiampuja - łucznik
 Jousimies - Strzelec
 joustamaton - sztywny
 joutsen - łabędź
-joutsenhanhi - gęś łabędzionosa | suchonos
+joutsenhanhi - gęś łabędzionosa, suchonos
 joutuin - szybko
 joutuisa - szybki
-judo - judo | dżudo
-juhla - przyjęcie | święto | ceremonia
+judo - judo, dżudo
+juhla - przyjęcie, święto, ceremonia
 juhla-ateria - bankiet
-juhlia - imprezować | świętować
+juhlia - imprezować, świętować
 julkaisija - wydawca
 julkaisu - publikacja
-julki - znany | wiadomy
+julki - znany, wiadomy
 julkisesti - publicznie
-julkisuus - rozgłos | reklama
-julma - okrutny | groźny
+julkisuus - rozgłos, reklama
+julma - okrutny, groźny
 julmasti - okrutnie
-jumala - bóg | bóstwo
+jumala - bóg, bóstwo
 Jumala - Bóg
 jumalainen - boski
 jumalankieltäjä - ateista
@@ -1835,40 +1835,40 @@ junanrata - kolej
 juoda - pić
 juoksija - biegacz
 juoksujalkainen - stonoga
-juolukka - borówka bagienna | łochynia
+juolukka - borówka bagienna, łochynia
 juoma - napój
 juomalasi - szklanka
 juoppo - pijak
-juosta - biegać | biec
+juosta - biegać, biec
 juotikas - pijawka
-juuri - właśnie | akurat | dokładnie | niedawno | korzeń
+juuri - właśnie, akurat, dokładnie, niedawno, korzeń
 juusto - ser
 juutalaisuus - judaizm
 jyrähdellä - grzmieć
-jyrkänne - stromy brzeg | urwisko
-jyrkkä - stromy | urwisty
+jyrkänne - stromy brzeg, urwisko
+jyrkkä - stromy, urwisty
 jyrsijä - gryzoń
-jyvä - ziarno | zboże | muszka (karabinu)
+jyvä - ziarno, zboże, muszka (karabinu)
 Jyväskylä - Jyväskylä
 kaakao - kakao
 kaakko - południowy wschód
 kaakkuri - nur rdzawoszyi
-kaali - kapusta | łeb | głowa
+kaali - kapusta, łeb, głowa
 kaamos - noc polarna
-käännös - tłumaczenie | przekład
-kääntää - tłumaczyć | odwrócić | kompilować
+käännös - tłumaczenie, przekład
+kääntää - tłumaczyć, odwrócić, kompilować
 kääntäjä - tłumacz
 kaaoksellinen - chaotyczny
 kaaos - chaos
 kaaosmainen - chaotyczny
-kaapata - porwać | uprowadzić
+kaapata - porwać, uprowadzić
 kaapeli - kabel
 kääpiö - karzeł
 kaappi - szafka
 Kaarina - Katarzyna
 käärme - wąż
 käärmekaula - wężówka
-käärmekotka - krótkoszpon | gadożer
+käärmekotka - krótkoszpon, gadożer
 käärmetähti - wężowidło
 kaarna - kora
 kaasu - gaz
@@ -1879,15 +1879,15 @@ kadetti - kadet
 kadmium - kadm
 kahdeksan - osiem (8)
 kahdeksankymmentä - osiemdziesiąt
-kahdeksankymmentäkahdeksan - osiemdziesiąt osiem | 88
-kahdeksankymmentäkaksi - osiemdziesiąt dwa | 82
-kahdeksankymmentäkolme - osiemdziesiąt trzy | 83
-kahdeksankymmentäkuusi - osiemdziesiąt sześć | 86
-kahdeksankymmentäneljä - osiemdziesiąt cztery | 84
-kahdeksankymmentäseitsemän - osiemdziesiąt siedem | 87
-kahdeksankymmentäviisi - osiemdziesiąt pięć | 85
-kahdeksankymmentäyhdeksän - osiemdziesiąt dziewięć | 89
-kahdeksankymmentäyksi - osiemdziesiąt jeden | 81
+kahdeksankymmentäkahdeksan - osiemdziesiąt osiem, 88
+kahdeksankymmentäkaksi - osiemdziesiąt dwa, 82
+kahdeksankymmentäkolme - osiemdziesiąt trzy, 83
+kahdeksankymmentäkuusi - osiemdziesiąt sześć, 86
+kahdeksankymmentäneljä - osiemdziesiąt cztery, 84
+kahdeksankymmentäseitsemän - osiemdziesiąt siedem, 87
+kahdeksankymmentäviisi - osiemdziesiąt pięć, 85
+kahdeksankymmentäyhdeksän - osiemdziesiąt dziewięć, 89
+kahdeksankymmentäyksi - osiemdziesiąt jeden, 81
 kahdeksantoista - osiemnaście (18)
 kahdeksas - ósmy
 kahdeksikko - ósemka
@@ -1897,16 +1897,16 @@ kahvi - kawa
 kahvila - kawiarnia
 kahvinpapu - ziarenko kawy
 kahvipapu - ziarenko kawy
-kai - prawdopodobnie | może
+kai - prawdopodobnie, może
 kaikkeus - wszechświat
-kaikki - wszystek | wszystko | każdy
+kaikki - wszystek, wszystko, każdy
 kaikki tiet vievät Roomaan - wszystkie drogi prowadzą do Rzymu
 kaiku - echo
 kaima - imiennik
 kaimaani - kajman
 kainalo - pacha
 kainalokuoppa - pacha
-kaino - wstydliwy | nieśmiały
+kaino - wstydliwy, nieśmiały
 kaipuu - tęsknota
 Kairo - Kair
 kaisla - sitowie
@@ -1926,14 +1926,14 @@ kaksi - dwa (2)
 kaksikielinen - dwujęzyczny
 kaksikylkinen - dwustronny
 kaksikymmentä - dwadzieścia (20)
-kaksikymmentäkahdeksan - dwadzieścia osiem | 28
-kaksikymmentäkaksi - dwadzieścia dwa | 22
-kaksikymmentäkolme - dwadzieścia trzy | 23
-kaksikymmentäkuusi - dwadzieścia sześć | 26
-kaksikymmentäneljä - dwadzieścia cztery | 24
-kaksikymmentäseitsemän - dwadzieścia siedem | 27
-kaksikymmentäviisi - dwadzieścia pięć | 25
-kaksikymmentäyhdeksän - dwadzieścia dziewięć | 29
+kaksikymmentäkahdeksan - dwadzieścia osiem, 28
+kaksikymmentäkaksi - dwadzieścia dwa, 22
+kaksikymmentäkolme - dwadzieścia trzy, 23
+kaksikymmentäkuusi - dwadzieścia sześć, 26
+kaksikymmentäneljä - dwadzieścia cztery, 24
+kaksikymmentäseitsemän - dwadzieścia siedem, 27
+kaksikymmentäviisi - dwadzieścia pięć, 25
+kaksikymmentäyhdeksän - dwadzieścia dziewięć, 29
 kaksikymmentäyksi - dwadzieścia jeden (21)
 kaksisataa - dwieście (200)
 kaksitoista - dwanaście (liczba)
@@ -1947,7 +1947,7 @@ kalastaa - łowić ryby
 kalastaja - rybak
 kalastajakissa - taraj
 Kalastajasaarento - Półwysep Rybacki
-kalastus - rybołówstwo | łowienie ryb
+kalastus - rybołówstwo, łowienie ryb
 kalatiira - rybitwa rzeczna
 kaleidoskooppi - kalejdoskop
 kalenteri - kalendarz
@@ -1963,11 +1963,11 @@ kalkkikivi - wapień
 kalkkuna - indyk
 kallio - skała
 kallionjärkäle - głaz
-kallis - drogi | kosztowny
+kallis - drogi, kosztowny
 kallisarvoinen - cenny
 kallo - czaszka
 kalmari - kalmar
-kalmisto - cmentarz | cmentarzysko
+kalmisto - cmentarz, cmentarzysko
 kalpea - blady
 kalsium - wapń
 kaltainen - podobny
@@ -1982,12 +1982,12 @@ Kamerun - Kamerun
 kamferi - kamfora
 kämmen - dłoń
 kamomilla - rumianek
-kampela - stornia | flądra
+kampela - stornia, flądra
 Kamtšatka - Kamczatka (półwysep)
-kana - kurczak | kura
+kana - kurczak, kura
 Kanada - Kanada
 kanadanhanhi - bernikla kanadyjska
-kanahaukka - jastrząb | jastrząb gołębiarz
+kanahaukka - jastrząb, jastrząb gołębiarz
 kanalja - łajdak
 kananmuna - kurze jajko
 kanarialintu - kanarek
@@ -1995,16 +1995,16 @@ kanarianhemppo - kanarek
 Kanariansaaret - Wyspy Kanaryjskie
 kaneli - cynamon
 kanerva - wrzos
-kangas - tkanina | sukno | wrzosowisko | suche miejsce w lesie
-kangaskiuru - skowronek borowy | lerka
+kangas - tkanina, sukno, wrzosowisko, suche miejsce w lesie
+kangaskiuru - skowronek borowy, lerka
 kangaspuut - krosno
-kani - królik | lombard
+kani - królik, lombard
 kaniini - królik
 kanjoni - kanion
 kankku - pośladek
 kannabis - konopie
 kannas - przesmyk
-kannattaja - zwolennik | stronnik
+kannattaja - zwolennik, stronnik
 kannibaali - kanibal
 kannibalismi - kanibalizm
 kannuste - zachęta
@@ -2018,36 +2018,36 @@ kansalaisuus - obywatelstwo
 kansallinen - narodowy
 kansallismielinen - nacjonalistyczny
 kansallismielisyys - nacjonalizm
-kansallispuisto - park narodowy | rezerwat przyrody
+kansallispuisto - park narodowy, rezerwat przyrody
 kansallisuus - narodowość
 kansanperinne - folklor
 kansanvalta - demokracja
 kansanvaltainen - demokratyczny
 kansatiede - etnologia
-kansi - pokrywka | okładka | pokład
-kanssa - wraz | ze | z | też | również
+kansi - pokrywka, okładka, pokład
+kanssa - wraz, ze, z, też, również
 kanssakäyminen - interakcja
-kantaa - nieść | dźwigać
+kantaa - nieść, dźwigać
 kantapää - pięta
 kanuuna - działo
 kaoottinen - chaotyczny
 käpälä - łapa
 kapalo - pielucha
 kapea - wąski
-kapeasti - wąsko | ciasno
-kapeikko - cieśnina | przesmyk
+kapeasti - wąsko, ciasno
+kapeikko - cieśnina, przesmyk
 Kapernaum - Kafarnaum
-kapina - powstanie | bunt | rebelia
+kapina - powstanie, bunt, rebelia
 kapitalismi - kapitalizm
 kapitalisti - kapitalista
-kappale - sztuka | egzemplarz | ciało | kawałek
+kappale - sztuka, egzemplarz, ciało, kawałek
 kappeli - kaplica
 kapustahaikara - warzęcha
 kapustarinta - siewka złota
 Kap Verde - Republika Zielonego Przylądka
 käpy - szyszka
 käpylintu - krzyżodziób ( Loxia sp.)
-käpytikka - dzięcioł duży | dzięcioł pstry duży
+käpytikka - dzięcioł duży, dzięcioł pstry duży
 karamelli - cukierek
 karanteeni - kwarantanna
 kardemumma - kardamon
@@ -2063,12 +2063,12 @@ karimetso - kormoran czubaty
 karitsa - jagnię
 karjala - język karelski
 Karjala - Karelia
-karjalainen - karelski | Karelczyk
+karjalainen - karelski, Karelczyk
 Karjalan tasavalta - Republika Karelia
 karjapaimen - kowboj
 kärkäs - chętny
 karkausvuosi - rok przestępny
-kärki - szpic | czubek | szczyt
+kärki - szpic, czubek, szczyt
 karnevaali - karnawał
 karpalo - żurawina
 kärpänen - mucha
@@ -2079,24 +2079,24 @@ karriääri - kariera
 karrieeri - kariera
 kärsivällinen - cierpliwy
 kärsivällisyys - cierpliwość
-karski - szorstki | opryskliwy
+karski - szorstki, opryskliwy
 kartasto - atlas
 kartio - stożek
 kartonki - karton
 kartta - mapa
 karttapallo - globus
 kartuttaa - gromadzić
-karu - surowy | niegościnny | nieurodzajny
+karu - surowy, niegościnny, nieurodzajny
 karviainen - agrest
-käry - swąd | woń spalenizny
+käry - swąd, woń spalenizny
 kasari - rondel
-käsi - dłoń | ręka
+käsi - dłoń, ręka
 käsikärryt - taczka
 käsivarsi - ramię
-käskeä - kazać | rozkazywać
-käsky - rozkaz | nakaz | przykazanie
+käskeä - kazać, rozkazywać
+käsky - rozkaz, nakaz, przykazanie
 Kassiopeia - Kasjopeja
-kaste - rosa | chrzest
+kaste - rosa, chrzest
 kastemato - dżdżownica
 kasti - kasta
 kastike - sos
@@ -2131,7 +2131,7 @@ katodi - katoda
 katolinen - katolicki
 katsastaja - inspektor
 katsoa - patrzeć
-katto - sklepienie | sufit | dach
+katto - sklepienie, sufit, dach
 kattohaikara - bocian biały
 katu - ulica
 kauan - długo
@@ -2144,27 +2144,27 @@ kaulakoru - naszyjnik
 kaulaliina - szalik
 kaulus - kołnierz
 kauneus - piękno
-kaunis - piękny | ładny | śliczny
+kaunis - piękny, ładny, śliczny
 kauniste - dekoracja
 kaunistus - dekoracja
 kaunopuheisuus - elokwencja
-kauppa - handel | wymiana handlowa | sklep
+kauppa - handel, wymiana handlowa, sklep
 kauppatori - targ
-kauppias - kupiec | handlarz
+kauppias - kupiec, handlarz
 kaupunki - miasto
 kaupunkimainen - miejski
 kaura - owies
-kausi - epoka | sezon | period
-kauttaaltaan - dokładnie | gruntownie
-kävellä - chodzić | spacerować
-kävely - spacer | chód
-kaveri - kolega | facet | koleś
+kausi - epoka, sezon, period
+kauttaaltaan - dokładnie, gruntownie
+kävellä - chodzić, spacerować
+kävely - spacer, chód
+kaveri - kolega, facet, koleś
 kaviaari - kawior
 kavio - kopyto
 käymälä - toaleta
-käyrä - krzywy | krzywa
+käyrä - krzywy, krzywa
 käytännöllinen - praktyczny
-käyttää - używać | użytkować | korzystać
+käyttää - używać, użytkować, korzystać
 käyttäjä - użytkownik
 käyttäytyminen - zachowanie
 Kazakstan - Kazachstan
@@ -2177,7 +2177,7 @@ kehtolaulu - kołysanka
 kehunta - pochwała
 keidas - oaza
 keihäänheitto - rzut oszczepem
-keihäs - włócznia | oszczep
+keihäs - włócznia, oszczep
 keimailla - flirtować
 keisari - cesarz
 keisaripingviini - pingwin cesarski
@@ -2191,11 +2191,11 @@ kelju - nieprzyjemny
 kellari - piwnica
 kellertävä - żółtawy
 kellervä - żółtawy
-kello - zegar | zegarek | godzina | dzwonek
+kello - zegar, zegarek, godzina, dzwonek
 keltahemppo - kulczyk
-keltainen - żółty | kolor żółty
+keltainen - żółty, kolor żółty
 keltamo - jaskółcze ziele
-keltasirkku - trznadel | trznadel zwyczajny
+keltasirkku - trznadel, trznadel zwyczajny
 keltuainen - żółtko
 kemia - chemia
 kemiallinen - chemiczny
@@ -2206,8 +2206,8 @@ kenkä - but
 kenkänokka - trzewikodziób
 kentauri - centaur
 kenties - prawdopodobnie
-kenttä - pole | teren
-kepponen - figiel | żart | psikus
+kenttä - pole, teren
+kepponen - figiel, żart, psikus
 keraaminen - ceramiczny
 keräkaali - kapusta
 keräkurmitsa - mornel
@@ -2215,33 +2215,33 @@ kerettiläisyys - herezja
 kerjuri - żebrak
 kerma - śmietanka
 kernaasti - chętnie
-kerros - kondygnacja | piętro | warstwa
+kerros - kondygnacja, piętro, warstwa
 kersantti - sierżant
 kerta - raz
-kertoa - opowiadać | mówić | mnożyć
+kertoa - opowiadać, mówić, mnożyć
 kertolasku - mnożenie
 kertosäe - refren
 kertotaulu - tabliczka mnożenia
 kerttu - pokrzewka
 kerttunen - ptak z rodzaju
 kesä - lato
-kesäinen - letni | związany z latem
+kesäinen - letni, związany z latem
 kesakko - pieg
-kesäkurpitsa - cukinia | kabaczek
+kesäkurpitsa - cukinia, kabaczek
 kesäkuu - czerwiec
-kesanto - ugór | odłóg
-kesken - między | pomiędzy
+kesanto - ugór, odłóg
+kesken - między, pomiędzy
 Keski-Afrikan tasavalta - Republika Środkowoafrykańska
 keskiaikainen - średniowieczny
-keskimääräinen - przeciętny | mierny
+keskimääräinen - przeciętny, mierny
 keskinäinen - wzajemny
 keskipäivä - południe
 keskiviikko - środa
-keskiyö - północ | środek nocy | czas około godziny 24:00
+keskiyö - północ, środek nocy, czas około godziny 24:00
 keskus - centrum
 keskushermosto - ośrodkowy układ nerwowy
-keskusta - centrum (miasta) | centrum
-keskustelu - rozmowa | dyskusja
+keskusta - centrum (miasta), centrum
+keskustelu - rozmowa, dyskusja
 kestit - uczta
 ketale - łajdak
 ketju - łańcuch
@@ -2257,7 +2257,7 @@ kevyt - lekki
 kide - kryształ
 kidutus - tortura
 kielenkääntäjä - tłumacz
-kieli - język | język (mówiony) | struna
+kieli - język, język (mówiony), struna
 kieliopillinen - gramatyczny
 kieliopillisesti - gramatycznie
 kielioppi - gramatyka
@@ -2265,20 +2265,20 @@ kielitiede - językoznawstwo
 kielitieteellinen - językowy
 kielitieteilijä - językoznawca
 kielo - konwalia
-kieltää - zabraniać | zakazywać
-kielto - zakaz | odmowa | negacja | przeczenie
-kierto - obrót | cyrkulacja | krążenie
+kieltää - zabraniać, zakazywać
+kielto - zakaz, odmowa, negacja, przeczenie
+kierto - obrót, cyrkulacja, krążenie
 kiertotie - objazd
 kihu - wydrzyk
 kiihkoilija - fanatyk
-kiihoke - bodziec | zachęta
+kiihoke - bodziec, zachęta
 kiihtyvyys - przyśpieszenie
 kiikari - lornetka
-kiina - język chiński | chińszczyzna
+kiina - język chiński, chińszczyzna
 Kiina - Chiny
 kiinalainen - chiński
 kiirastuli - czyściec
-kiire - pośpiech | wierzch głowy | ciemię
+kiire - pośpiech, wierzch głowy, ciemię
 kiiruna - pardwa górska
 kiiski - jazgarz
 kiisla - nurzyk
@@ -2286,7 +2286,7 @@ kiislanen - nurniczek
 kiistelty - kontrowersyjny
 kiitettävä - wspaniały
 kiitollinen - wdzięczny
-kiitos - dzięki | podziękowanie
+kiitos - dzięki, podziękowanie
 kiittää - dziękować
 kiivetä - wspinać się
 kiivi - kiwi
@@ -2294,7 +2294,7 @@ kikherne - groch
 kiljuhanhi - gęś mała
 kilogramma - kilogram
 kilometri - kilometr
-kilpailu - mecz | rozgrywka | zawody
+kilpailu - mecz, rozgrywka, zawody
 kilpakävely - chód sportowy
 kilpi - tarcza
 kilpikonna - żółw
@@ -2321,23 +2321,23 @@ kirjain - litera
 kirjakaappi - regał na książki
 kirjakauppa - księgarnia
 kirjakielinen - literacki
-kirjallinen - literacki | pisemny
+kirjallinen - literacki, pisemny
 kirjallisuus - literatura
 kirjanpitäjä - księgowy
 kirjasto - biblioteka
 kirjastonhoitaja - bibliotekarz
-kirjava - wielobarwny | kolorowy | pstrokaty | pstry | różnorodny | rozmaity
+kirjava - wielobarwny, kolorowy, pstrokaty, pstry, różnorodny, rozmaity
 kirje - list
 kirjohanhi - bernikla
 kirjoittaa - pisać
 kirjoittaja - pisarz
-kirjoitus - pisanie | pismo | tekst
+kirjoitus - pisanie, pismo, tekst
 kirjoituskone - maszyna do pisania
 kirjonta - haft
-kirjosiipikäpylintu - krzyżodziób modrzewiowy | krzyżodziób dwupręgowy
+kirjosiipikäpylintu - krzyżodziób modrzewiowy, krzyżodziób dwupręgowy
 kirkko - kościół
 kirkollinen - kościelny
-kirkonkylä - wieś kościelna | wieś w której znajduje się kościół | wieś parafialna | wieś centralna | centrum gminy
+kirkonkylä - wieś kościelna, wieś w której znajduje się kościół, wieś parafialna, wieś centralna, centrum gminy
 kirnupiimä - maślanka
 kirppu - pchła
 kirsikka - czereśnia
@@ -2346,10 +2346,10 @@ kirva - mszyca
 kirves - siekiera
 kirvesmies - stolarz
 kirvinen - świergotek
-kisa - gra | zabawa
+kisa - gra, zabawa
 kisailija - konkurent
 kisko - szyna
-kissa - kot | atrakcyjna i seksowna młoda kobieta | kociak
+kissa - kot, atrakcyjna i seksowna młoda kobieta, kociak
 kissanpentu - kociątko
 kisu - kotek
 kitalaki - podniebienie
@@ -2360,8 +2360,8 @@ Kittilä - Kittilä (gmina w Laponii)
 kiukku - gniew
 kiuru - skowronek
 kiusaantuneisuus - zażenowanie
-kiusata - dręczyć | nękać | męczyć | przeszkadzać | denerwować
-kiva - fajny | super | miły | przyjemny
+kiusata - dręczyć, nękać, męczyć, przeszkadzać, denerwować
+kiva - fajny, super, miły, przyjemny
 kivääri - karabin
 kivenlohkare - głaz
 kivennäistiede - mineralogia
@@ -2369,7 +2369,7 @@ kives - jądro
 kivespussi - moszna
 kivi - kamień
 kivijärkäle - głaz
-kivikkorastas - nagórnik | drozd skalny
+kivikkorastas - nagórnik, drozd skalny
 kivilohkare - głaz
 kivilouhos - kamieniołom
 kivitasku - białorzytka
@@ -2386,37 +2386,37 @@ klooni - klon
 kloori - chlor
 klorofylli - chlorofil
 klovni - klaun
-ko - czy | zastanawiać się | zadawać sobie pytanie
+ko - czy, zastanawiać się, zadawać sobie pytanie
 -ko - czy
 kö - ko
 koala - koala
 koboltti - kobalt
 koditon - bezdomny
-koe - próba | doświadczenie | eksperyment | test
+koe - próba, doświadczenie, eksperyment, test
 kofeiini - kofeina
-kohina - szum | szmer | hałas | szum fal
-kohtalo - przeznaczenie | los | dola
-kohteliaisuus - grzeczność | komplement
+kohina - szum, szmer, hałas, szum fal
+kohtalo - przeznaczenie, los, dola
+kohteliaisuus - grzeczność, komplement
 kohtio - cel
 kohtu - macica
 koi - mól
-koillinen - północny wschód | północno-wschodni
-koipi - noga ptaka | noga
+koillinen - północny wschód, północno-wschodni
+koipi - noga ptaka, noga
 koira - pies
 koiras - samiec
 koite - świt
 koitos - walka
-koivikko - lasek brzozowy | brzeziniak
+koivikko - lasek brzozowy, brzeziniak
 koivu - brzoza
 kokaiini - kokaina
-kokelas - kandydat | kadet
+kokelas - kandydat, kadet
 kokemus - doświadczenie
 kokko - ognisko
-koko - wielkość | rozmiar | cały | wszystek | całkowicie | całkiem
+koko - wielkość, rozmiar, cały, wszystek, całkowicie, całkiem
 kokoelma - kolekcja
 koksi - koks
 koktaili - koktail
-kolari - wypadek | kolizja | zderzenie
+kolari - wypadek, kolizja, zderzenie
 Kolari - Kolari (gmina w Laponii)
 köli - kil
 kolibri - koliber
@@ -2429,15 +2429,15 @@ kolmas - trzeci
 kolmastoista - trzynasty
 kolme - trzy (3)
 kolmekymmentä - trzydzieści
-kolmekymmentäkahdeksan - trzydzieści osiem | 38
-kolmekymmentäkaksi - trzydzieści dwa | 32
-kolmekymmentäkolme - trzydzieści trzy | 33
-kolmekymmentäkuusi - trzydzieści sześć | 36
-kolmekymmentäneljä - trzydzieści cztery | 34
-kolmekymmentäseitsemän - trzydzieści siedem | 37
-kolmekymmentäviisi - trzydzieści pięć | 35
-kolmekymmentäyhdeksän - trzydzieści dziewięć | 39
-kolmekymmentäyksi - trzydzieści jeden | 31
+kolmekymmentäkahdeksan - trzydzieści osiem, 38
+kolmekymmentäkaksi - trzydzieści dwa, 32
+kolmekymmentäkolme - trzydzieści trzy, 33
+kolmekymmentäkuusi - trzydzieści sześć, 36
+kolmekymmentäneljä - trzydzieści cztery, 34
+kolmekymmentäseitsemän - trzydzieści siedem, 37
+kolmekymmentäviisi - trzydzieści pięć, 35
+kolmekymmentäyhdeksän - trzydzieści dziewięć, 39
+kolmekymmentäyksi - trzydzieści jeden, 31
 kolmesataa - trzysta
 kolmetoista - trzynaście (13)
 kolmikulmainen - trójkątny
@@ -2452,10 +2452,10 @@ kolonoskopia - kolonoskopia
 kolossaalinen - kolosalny
 Kolumbia - Kolumbia
 Kolumbus - Kolumb (odkrywca)
-komea - przystojny | wspaniały | okazały
+komea - przystojny, wspaniały, okazały
 komedia - komedia
 komeetta - kometa
-komeus - elegancja | wspaniałość | świetność | okazałość
+komeus - elegancja, wspaniałość, świetność, okazałość
 komissaari - komisarz
 komitatiivi - ? ?  comitativus
 komitea - komitet
@@ -2465,7 +2465,7 @@ kommunismi - komunizm
 komparaatio - porównanie
 komparatiivi - stopień wyższy
 kompassi - kompas
-kömpelö - niezdarny | ociężały
+kömpelö - niezdarny, ociężały
 kompleksikas - złożony
 kompleksisuus - złożoność
 kompositio - kompozycja
@@ -2479,61 +2479,61 @@ konepaja - warsztat
 konferenssi - konferencja
 konjakki - koniak
 konjektuuri - przypuszczenie
-konjunktio - koniunkcja | spójnik
+konjunktio - koniunkcja, spójnik
 konkreettinen - konkretny
 konna - ropucha
-konsensus - konsensus | zgoda
+konsensus - konsensus, zgoda
 konsertti - koncert
 konservatiivinen - konserwatywny
 konspiraatio - konspiracja
-konstikas - szczególny | osobliwy | skomplikowany | zawiły | złożony
-konstikkuus - osobliwość | zawiłość
+konstikas - szczególny, osobliwy, skomplikowany, zawiły, złożony
+konstikkuus - osobliwość, zawiłość
 konsulaatti - konsulat
 konsuli - konsul
 kontakti - kontakt
 konteksti - kontekst
 kontiainen - kret
-kontio - niedźwiedź | niedźwiadek
+kontio - niedźwiedź, niedźwiadek
 kontrabasso - kontrabas
 konveksi - wypukły
-konvergenssi - konwergencja | ewolucja konwergentna
+konvergenssi - konwergencja, ewolucja konwergentna
 koodi - kod
-kookas - okazały | rosły
+kookas - okazały, rosły
 kookosmaito - mleczko kokosowe
 kookospähkinä - kokos
-koomikko - komediant | komik
+koomikko - komediant, komik
 koominen - komiczny
 Kööpenhamina - Kopenhaga
 kooperaatio - współpraca
-kopea - dumny | pyszny | zarozumiały | pyszałkowaty
+kopea - dumny, pyszny, zarozumiały, pyszałkowaty
 kopio - kopia
-kopioida - kopiować | przerysowywać | przepisywać
+kopioida - kopiować, przerysowywać, przepisywać
 kopisti - kopista
-kopla - banda | szajka
+kopla - banda, szajka
 koppa - kosz
 koppelo - samica głuszca
-koppi - buda | budka | cela
+koppi - buda, budka, cela
 koputtaa - pukać
 Koraani - Koran
 koralli - koral
 korallieläin - koralowiec
 korallisaari - wyspa koralowa
 korea - koreański
-korealainen - Koreańczyk | Koreanka | koreański
-kori - kosz | koszyk
+korealainen - Koreańczyk, Koreanka, koreański
+kori - kosz, koszyk
 koripallo - koszykówka
-koristaa - ozdabiać | dekorować
-koriste - ozdoba | dekoracja
+koristaa - ozdabiać, dekorować
+koriste - ozdoba, dekoracja
 koristella - dekorować
 koristelu - dekoracja
-korjata - naprawić | reperować | remontować
-korjaus - naprawa | reperacja | korekta | poprawa | remont | renowacja
+korjata - naprawić, reperować, remontować
+korjaus - naprawa, reperacja, korekta, poprawa, remont, renowacja
 korkea - wysoki
-korkeapaine - wyż | wyż baryczny
+korkeapaine - wyż, wyż baryczny
 korkeus - wysokość
 korkeushyppy - skok wzwyż
 korkkiruuvi - korkociąg
-korko - obcas | oprocentowanie
+korko - obcas, oprocentowanie
 koronkiskonta - lichwa
 korppi - kruk
 korppikotka - sęp
@@ -2545,23 +2545,23 @@ korsetti - gorset
 korsi - źdźbło
 korskea - wyniosły
 kortti - karta
-koru - ozdoba | dekoracja | biżuteria
+koru - ozdoba, dekoracja, biżuteria
 koruompelu - haft
-korut - biżuteria | ozdoby
-korva - ucho | uszko | rączka | uchwyt | krawędź | skraj
+korut - biżuteria, ozdoby
+korva - ucho, uszko, rączka, uchwyt, krawędź, skraj
 korvakoru - kolczyk
 kosia - zalecać się
-kosija - konkurent | zalotnik
-koska - kiedy | gdy | ponieważ | bo
-koskea - dotykać | dotknąć | dotyczyć | urazić | zranić
+kosija - konkurent, zalotnik
+koska - kiedy, gdy, ponieważ, bo
+koskea - dotykać, dotknąć, dotyczyć, urazić, zranić
 koskelo - tracz
-koski - szybki | wartki nurt w rzece
+koski - szybki, wartki nurt w rzece
 koskikara - pluszcz
 kosminen - kosmiczny
 kostea - wilgotny
 kosto - zemsta
 kostoisku - odwet
-koti - dom | miejsce | w którym się żyje/mieszka
+koti - dom, miejsce, w którym się żyje/mieszka
 kotieläin - zwierzę domowe
 kotikalja - piwo
 kotilo - ślimak
@@ -2570,7 +2570,7 @@ kotimaa - ojczyzna
 kotirouva - gospodyni domowa
 kotitehtävä - zadanie domowe
 kotka - orzeł
-Kotka - Kotka | gwiazdozbiór Orła
+Kotka - Kotka, gwiazdozbiór Orła
 kotoperäinen - endemiczny
 kottarainen - szpak
 koulu - szkoła
@@ -2583,9 +2583,9 @@ koveruus - wklęsłość
 kovin - bardzo
 kovuus - twardość
 köyhä - biedny
-köyhyys - bieda | ubóstwo
-köysi - lina | sznur
-kpl - sztuka | egzemplarz
+köyhyys - bieda, ubóstwo
+köysi - lina, sznur
+kpl - sztuka, egzemplarz
 kraana - kran
 kraatteri - krater
 Krakova - Kraków
@@ -2594,16 +2594,16 @@ kravatti - krawat
 kreatiivinen - kreatywny
 kreikka - grecki
 Kreikka - Grecja
-kreikkalainen - grecki | Grek
+kreikkalainen - grecki, Grek
 kreivi - hrabia
 kreivitär - hrabina
 kriisi - kryzys
 kriitikko - krytyk
-kriminaalinen - przestępczy | kryminalny
+kriminaalinen - przestępczy, kryminalny
 kristalli - kryształ
 kristinusko - chrześcijaństwo
 kristinuskoinen - chrześcijański
-kristitty - chrześcijański | chrześcijanin
+kristitty - chrześcijański, chrześcijanin
 kristologia - chrystologia
 kriteeri - kryterium
 kritiikki - krytyka
@@ -2632,7 +2632,7 @@ kuhankeittäjä - wilga
 kuhilas - snop
 Kuhmo - Kuhmo (miasto we wschodniej Finlandii)
 kuhmura - stłuczka
-kuikka - nur czarnoszyi | ptak z rodzaju nurów
+kuikka - nur czarnoszyi, ptak z rodzaju nurów
 kuinka - jak? w jaki sposób?
 kuiskaus - szept
 kuiskia - szeptać
@@ -2640,39 +2640,39 @@ kuiskina - szept
 kuitu - włókno
 kuiva - suchy
 kuivakas - suchy
-kuivuus - suchość | susza
-kuja - uliczka | alejka
+kuivuus - suchość, susza
+kuja - uliczka, alejka
 kujanne - aleja
-kuje - żarcik | figiel
+kuje - żarcik, figiel
 kuka - kto?
 kukaties - prawdopodobnie
 kukinto - kwiatostan
-kukka - kwiat | marihuana
+kukka - kwiat, marihuana
 kukkakaali - kalafior
 kukkanen - kwiat
-kukkaruukku - donica | doniczka
+kukkaruukku - donica, doniczka
 kukko - kogut
-kukkula - wzgórze | pagórek
+kukkula - wzgórze, pagórek
 kukunta - kukułka
 kulho - miska
-kuljeksija - wędrowiec | wędrownik
-kulkija - wędrowiec | włóczęga
+kuljeksija - wędrowiec, wędrownik
+kulkija - wędrowiec, włóczęga
 kulkutaudinomainen - epidemiczny
-kulma - kąt | zakątek | róg | węgieł
+kulma - kąt, zakątek, róg, węgieł
 kulmakarva - brew
 kulmapotku - rzut rożny
 kulmikas - kanciasty
 kulorastas - paszkot
-kulta - złoto | złoty medal | kochanie | złotko
-kultainen - złoty | słodki
+kulta - złoto, złoty medal, kochanie, złotko
+kultainen - złoty, słodki
 kultakala - złota rybka
 kultarinta - zaganiacz
 kultti - kult
 kulttuuri - kultura
-kumi - guma | gumka do ścierania | prezerwatywa
+kumi - guma, gumka do ścierania, prezerwatywa
 kummitäti - matka chrzestna
-kumppani - kompan | towarzysz | wspólnik | partner
-kumpu - pagórek | wzgórze
+kumppani - kompan, towarzysz, wspólnik, partner
+kumpu - pagórek, wzgórze
 kun - gdy
 kuningas - król
 kuningaskalastaja - zimorodek
@@ -2690,14 +2690,14 @@ kuntoutus - rehabilitacja
 kuoha - piana
 kuohita - kastrować
 kuohkea - puszysty
-kuokka - motyka | oskard
-kuolema - śmierć | zgon
+kuokka - motyka, oskard
+kuolema - śmierć, zgon
 kuolematon - nieśmiertelny
 kuolla - umrzeć (na)
 kuollut - martwy
 Kuollutmeri - Morze Martwe
 kuono - ryj
-kuori - skórka | skorupka
+kuori - skórka, skorupka
 kuoriainen - żuk
 kuorma-auto - ciężarówka
 kuormata - załadować
@@ -2707,16 +2707,16 @@ kuovisirri - biegus krzywodzioby
 kupari - miedź
 kupera - wypukły
 kupoli - kopuła
-kuppa - syfilis | kiła
-kuppatauti - syfilis | kiła
+kuppa - syfilis, kiła
+kuppatauti - syfilis, kiła
 kuppi - filiżanka
 kupula - stłuczka
-kura - błoto | biegunka
+kura - błoto, biegunka
 kurantti - aktualny
 kureliivi - gorset
 kuriiri - kurier
-kurki - żuraw | żuraw zwyczajny | gatunek ptaka lub osobnik należący do rodziny żurawi
-kurkku - gardło | ogórek | korniszon
+kurki - żuraw, żuraw zwyczajny, gatunek ptaka lub osobnik należący do rodziny żurawi
+kurkku - gardło, ogórek, korniszon
 kurmitsa - siewka
 kurpitsa - dynia
 kurppa - bekas
@@ -2732,96 +2732,96 @@ kutsu - zaproszenie
 kutsua - zapraszać
 kutsumanimi - przydomek
 kutu - tarło
-kuu - księżyc | satelita planety | miesiąc | łój | zwierzęcy tłuszcz | litera Q
+kuu - księżyc, satelita planety, miesiąc, łój, zwierzęcy tłuszcz, litera Q
 Kuu - Księżyc
 Kuuba - Kuba
 kuudes - szósty
 kuukausi - miesiąc
-kuukkeli - sójka złowroga | sójka syberyjska
-kuula - kula | pocisk
-kuulakärkikynä - pióro kulkowe | długopis
+kuukkeli - sójka złowroga, sójka syberyjska
+kuula - kula, pocisk
+kuulakärkikynä - pióro kulkowe, długopis
 kuulantyöntö - pchnięcie kulą
 kuuliainen - posłuszny
-kuulla - słuchać | słyszeć
+kuulla - słuchać, słyszeć
 kuulo - słuch
 kuuluisa - słynny
 kuuma - gorący
 kuumailmapallo - balon na ogrzane powietrze
-kuume - gorączka | temperatura
+kuume - gorączka, temperatura
 kuunnella - słuchać
 kuunvalo - światło księżyca
 kuura - szron
 kuurous - głuchota
 Kuusamo - Kuusamo
-kuusi - sześć (6) | świerk
+kuusi - sześć (6), świerk
 kuusikulmainen - sześciokątny
 kuusikymmentä - sześćdziesiąt
-kuusikymmentäkahdeksan - sześćdziesiąt osiem | 68
-kuusikymmentäkaksi - sześćdziesiąt dwa | 62
-kuusikymmentäkolme - sześćdziesiąt trzy | 63
-kuusikymmentäkuusi - sześćdziesiąt sześć | 66
-kuusikymmentäneljä - sześćdziesiąt cztery | 64
-kuusikymmentäseitsemän - sześćdziesiąt siedem | 67
-kuusikymmentäviisi - sześćdziesiąt pięć | 65
-kuusikymmentäyhdeksän - sześćdziesiąt dziewięć | 69
-kuusikymmentäyksi - sześćdziesiąt jeden | 61
+kuusikymmentäkahdeksan - sześćdziesiąt osiem, 68
+kuusikymmentäkaksi - sześćdziesiąt dwa, 62
+kuusikymmentäkolme - sześćdziesiąt trzy, 63
+kuusikymmentäkuusi - sześćdziesiąt sześć, 66
+kuusikymmentäneljä - sześćdziesiąt cztery, 64
+kuusikymmentäseitsemän - sześćdziesiąt siedem, 67
+kuusikymmentäviisi - sześćdziesiąt pięć, 65
+kuusikymmentäyhdeksän - sześćdziesiąt dziewięć, 69
+kuusikymmentäyksi - sześćdziesiąt jeden, 61
 kuusisataa - sześćset
-kuusitiainen - sikora sosnówka | sosnówka
+kuusitiainen - sikora sosnówka, sosnówka
 kuusitoista - szesnaście (16)
 kuutamo - światło księżyca
-kuutio - sześcian | kostka
+kuutio - sześcian, kostka
 kuutonen - szóstka
-kuva - obrazek | obraz
-kuvaannollinen - obrazowy | symboliczny | przenośny | alegoryczny
-kuvaannollisesti - obrazowo | symbolicznie | przenośnie | alegorycznie
-kuvake - ikona | obrazek
+kuva - obrazek, obraz
+kuvaannollinen - obrazowy, symboliczny, przenośny, alegoryczny
+kuvaannollisesti - obrazowo, symbolicznie, przenośnie, alegorycznie
+kuvake - ikona, obrazek
 kuvanveistäjä - rzeźbiarz
 kuvaruutu - ekran
 kuvernööri - gubernator
-kuvitella - wyobrażać | wyobrażać sobie
+kuvitella - wyobrażać, wyobrażać sobie
 kuvitus - ilustracja
-kuvottaa - mdlić | ciągnąć na wymioty
+kuvottaa - mdlić, ciągnąć na wymioty
 Kuwait - Kuwejt
 kvalitatiivinen - jakościowy
 kvantitatiivinen - ilościowy
 kvartsi - kwarc
 kyber- - cyber- (internetowy)
 kybernetiikka - cybernetyka
-kyhmy - guz | narośl
-kyhmyhaahka - edredon okazały | turkan
+kyhmy - guz, narośl
+kyhmyhaahka - edredon okazały, turkan
 kyhmyjoutsen - łabędź niemy
 kyklooppi - cyklop
-kyky - talent | umiejętność | dar
+kyky - talent, umiejętność, dar
 kylä - wieś
 kyläläinen - chłop
-kyläpöllönen - syczek | syczek zwyczajny
+kyläpöllönen - syczek, syczek zwyczajny
 kyljys - kotlet
 kyllä - tak
-kyllästynyt - nasycony | syty | przesycony | znużony | zmęczony
-kylliksi - wystarczająco | dość | dosyć
+kyllästynyt - nasycony, syty, przesycony, znużony, zmęczony
+kylliksi - wystarczająco, dość, dosyć
 kyllin - wystarczająco
-kylmä - zimny | zimno
+kylmä - zimny, zimno
 kylpyhuone - łazienka
 kylvää - siać
 kymmenen - dziesięć (10)
 kymmenes - dziesiąty
 kymmenottelu - dziesięciobój
 kymppi - dziesiątka
-kynä - długopis | ołówek
+kynä - długopis, ołówek
 kynäilijä - pisarz
 kynnys - próg
-kynsi - paznokieć | pazur | szpon
+kynsi - paznokieć, pazur, szpon
 kynttilä - świeca
 kynttilänjalka - świecznik
 kypärä - hełm
 Kypros - Cypr
 kyrillinen - cyrylicki
-kyrpä - chuj | huj
+kyrpä - chuj, huj
 kyssäkurki - gruchacz
-kysyä - pytać | prosić
-kysymys - pytanie | kwestia | problem
+kysyä - pytać, prosić
+kysymys - pytanie, kwestia, problem
 kysymysmerkki - znak zapytania
-kytkeä - połączyć | związać | sprzęgać | sprzęgnąć
+kytkeä - połączyć, związać, sprzęgać, sprzęgnąć
 kyy - żmija
 kyyhky - gołąb
 kyyhkynen - gołąb
@@ -2832,58 +2832,58 @@ kyyninen - cyniczny
 laadukas - jakościowy
 laadullinen - jakościowy
 läähättää - dyszeć
-laaja - szeroki | obszerny | przestronny | wyczerpujący
-laajentaa - rozszerzyć | rozciągnąć | powiększyć
+laaja - szeroki, obszerny, przestronny, wyczerpujący
+laajentaa - rozszerzyć, rozciągnąć, powiększyć
 lääkäri - lekarz
-lääke - lekarstwo | lek
+lääke - lekarstwo, lek
 laakea - płaski
-laakeri - łożysko | laur | wawrzyn
+laakeri - łożysko, laur, wawrzyn
 lääketiede - medycyna
 lääketieteellinen - medyczny
 laakso - dolina
 laama - lama
 laasti - zaprawa murarska
-laatikko - pudełko | pudło | skrzynia | szuflada
-laatu - jakość | gatunek
+laatikko - pudełko, pudło, skrzynia, szuflada
+laatu - jakość, gatunek
 laava - lawa
 laboratorio - laboratorium
 labyrintti - labirynt
 laguuni - laguna
 lähde - źródło
 läheisesti - blisko
-lähellä - blisko | w pobliżu
+lähellä - blisko, w pobliżu
 lähettäjä - nadawca
 lähiseutu - sąsiedztwo
-lahja - prezent | podarunek | dar
-lahjoittaja - dawca | dobroczyńca
-lahjonta - przekupstwo | korupcja
+lahja - prezent, podarunek, dar
+lahjoittaja - dawca, dobroczyńca
+lahjonta - przekupstwo, korupcja
 lahjus - łapówka
 lahna - leszcz
-lahti - zatoka | rzeź | ubój
+lahti - zatoka, rzeź, ubój
 lähtien - od
 laidun - pastwisko
-laiha - chudy | szczupły
-laihtua - chudnąć | schudnąć
+laiha - chudy, szczupły
+laihtua - chudnąć, schudnąć
 laillistus - legalizacja
-laina - pożyczka | kredyt | słowo zapożyczone
-lainata - pożyczać | wypożyczać
+laina - pożyczka, kredyt, słowo zapożyczone
+lainata - pożyczać, wypożyczać
 laine - fala
 lainsäädännöllinen - ustwodawczy
 lainsäädäntö - ustawodawstwo
 laiska - leniwy
 laiskanpulskea - leniwy
 laiskiainen - leniwiec
-laitos - urząd | instytucja
-laituri - pomost | molo
-laiva - statek | nawa
+laitos - urząd, instytucja
+laituri - pomost, molo
+laiva - statek, nawa
 laivanhylky - wrak
-laivue - flotylla | flota
+laivue - flotylla, flota
 laji - gatunek
 lakana - prześcieradło
 lakeija - lokaj
-laki - prawo | ustawa | szczyt górski | sufit | strop | powała
+laki - prawo, ustawa, szczyt górski, sufit, strop, powała
 lakiasäätävä - ustwodawczy
-lakka - moroszka | malina moroszka
+lakka - moroszka, malina moroszka
 lakki - czapka
 läkki - blacha
 lakko - strajk
@@ -2891,17 +2891,17 @@ lakoninen - lakoniczny
 lakritsi - lukrecja
 läksy - zadanie domowe
 lammas - owca
-lammikko - kałuża | sadzawka | bajoro
+lammikko - kałuża, sadzawka, bajoro
 lämmin - ciepły
 lampaanliha - baranina
 lampi - staw (zbiornik wodny)
 lampiviklo - brodziec pławny
 lämpö - ciepło
 lämpötila - temperatura
-lamppu - żarówka | lampa | lampka
+lamppu - żarówka, lampa, lampka
 lampunvarjostin - klosz
 langaton - bezprzewodowy
-lanka - nić | nitka
+lanka - nić, nitka
 lanko - szwagier
 länsi - zachód
 Länsi Berliini - Berlin Zachodni
@@ -2914,16 +2914,16 @@ Laos - Laos
 lapaluu - łopatka
 lapasorsa - kaczka płaskonos
 lapasotka - ogorzałka
-läpeensä - dokładnie | gruntownie
-läpikotaisesti - dokładnie | gruntownie
+läpeensä - dokładnie, gruntownie
+läpikotaisesti - dokładnie, gruntownie
 läpikuultamaton - nieprzezroczysty
 läpinäkymätön - nieprzezroczysty
 läpinäkyvyys - przezroczystość
 lapinkirvinen - świergotek rdzawogardły
 lapinpöllö - puszczyk mszarny
-lapinsirkku - poświerka | poświerka szponiasta
+lapinsirkku - poświerka, poświerka szponiasta
 lapinsirri - biegus mały
-lapintiainen - sikora północna | sikora syberyjska
+lapintiainen - sikora północna, sikora syberyjska
 lapio - łopata
 Lappi - Laponia
 lapsenlapsi - wnuk
@@ -2931,14 +2931,14 @@ lapsi - dziecko
 lapsuus - dzieciństwo
 laser - laser
 laseri - laser
-lasi - szkło | szklanka
+lasi - szkło, szklanka
 lasikaappi - gablota
 lasikko - gablota
 laskea - liczyć
-laskiainen - ostatki | zapusty
+laskiainen - ostatki, zapusty
 laskimo - żyła
 laskin - kalkulator
-lasku - odpływ | ujście rzeki | odjazd | zachód słońca | konto | rachunek
+lasku - odpływ, ujście rzeki, odjazd, zachód słońca, konto, rachunek
 laskuvarjo - spadochron
 Lassi - fińskie imię męskie pochodzenia łacińskiego
 lastentarha - przedszkole
@@ -2949,42 +2949,42 @@ lato - stodoła
 lattana - płaski
 lättänä - płaski
 lattia - podłoga
-latva - wierzchołek | szczyt | korona | górny bieg rzeki
+latva - wierzchołek, szczyt, korona, górny bieg rzeki
 latvia - język łotewski
 Latvia - Łotwa
-latvialainen - łotewski | Łotysz
+latvialainen - łotewski, Łotysz
 latvusto - baldachim
 lauantai - sobota
-laukku - teczka | torba | tornister | plecak
+laukku - teczka, torba, tornister, plecak
 laulaa - śpiewać
 laulaja - śpiewak
-laulu - piosenka | pieśń | śpiewanie
+laulu - piosenka, pieśń, śpiewanie
 laulujoutsen - łabędź krzykliwy
 laulurastas - drozd śpiewak
-lauma - stado,trzoda | gromada | tłum
-laupias - miłosierny | litościwy
-lause - zdanie | twierdzenie
+lauma - stado,trzoda, gromada, tłum
+laupias - miłosierny, litościwy
+lause - zdanie, twierdzenie
 lauta - deska
 lautanen - talerz
-lautta - tratwa | prom
-lavastaja - scenograf | dekorator | altannik
+lautta - tratwa, prom
+lavastaja - scenograf, dekorator, altannik
 lavea - szeroki
 lawrencium - lorens
 legenda - legenda
 legendaarinen - legendarny
 legioona - legion
-lehmä - krowa | otyła kobieta
-lehmipoika - pastuch bydła | kowboj
+lehmä - krowa, otyła kobieta
+lehmipoika - pastuch bydła, kowboj
 lehmus - lipa
 lehteri - balkon
-lehti - liść | gazeta | czasopismo
+lehti - liść, gazeta, czasopismo
 lehtikuusi - modrzew
 lehtipuu - drzewo liściaste
 lehtivihreä - chlorofil
 lehto - zagajnik
-lehtokerttu - pokrzewka ogrodowa | gajówka
+lehtokerttu - pokrzewka ogrodowa, gajówka
 lehtokurppa - słonka
-lehtopöllö - puszczyk | puszczyk zwyczajny
+lehtopöllö - puszczyk, puszczyk zwyczajny
 lehtori - wykładowca
 leija - latawiec
 leijona - lew
@@ -2992,7 +2992,7 @@ leikkiä - bawić się
 leikkikalu - zabawka
 leikkikenttä - plac zabaw
 leikkipuisto - plac zabaw
-Leila - Leila | fińskie imię żeńskie
+Leila - Leila, fińskie imię żeńskie
 leimasin - stempel
 leipä - chleb
 leipoa - piec
@@ -3004,11 +3004,11 @@ leivos - ciastko
 lejeerinki - stop
 lelu - zabawka
 lempeys - czułość
-lempiä - kopulować | kochać się
+lempiä - kopulować, kochać się
 lempinimi - przydomek
 lenko - zgięty
 lentää - latać
-lento - lot | lento
+lento - lot, lento
 lentoasema - lotnisko
 lentokenttä - lotnisko
 lentokone - samolot
@@ -3017,8 +3017,8 @@ lentotukialus - lotniskowiec
 leopardi - lampart
 lepakko - nietoperz
 lepinkäinen - dzierzba
-leppä - olcha | olsza
-leppäkerttu - biedronka | boża krówka
+leppä - olcha, olsza
+leppäkerttu - biedronka, boża krówka
 leppälintu - pleszka
 lesbo - lesbijka
 leski - wdowiec
@@ -3026,13 +3026,13 @@ leskimies - wdowiec
 Lesotho - Lesotho
 lesti - kopyto szewski
 leuhka - chełpliwy
-leuka - podbródek | broda
-levä - alga | glon | wodorost
+leuka - podbródek, broda
+levä - alga, glon, wodorost
 leveä - szeroki
 leveäpyrstökihu - wydrzyk tęposterny
 leveys - szerokość
 leveyspiiri - szerokość geograficzna
-levy - płyta | dysk
+levy - płyta, dysk
 levyke - dyskietka
 Libanon - Liban
 liberaali - liberalny
@@ -3042,17 +3042,17 @@ liberalistinen - liberalny
 Liberia - Liberia
 Libya - Libia
 Liechtenstein - Liechtenstein
-lieju - błoto | muł | szlam
+lieju - błoto, muł, szlam
 liekki - płomień
 lieko - widłak
-liemi - rosół | bulion
+liemi - rosół, bulion
 lieriö - walec
-liesi - kuchenka | piec kuchenny
+liesi - kuchenka, piec kuchenny
 lieska - płomień
 liettua - język litewski
 Liettua - Litwa
-liettualainen - litewski | Litwin
-lievästi - nieco | odrobinę | trochę
+liettualainen - litewski, Litwin
+lievästi - nieco, odrobinę, trochę
 lievike - lekarstwo
 liha - mięso
 lihansyöjä - mięsożerca
@@ -3060,7 +3060,7 @@ lihas - mięsień
 lihavuus - otyłość
 liiallinen - nadmierny
 liiallisesti - nadmiernie
-liian - zbyt | nadto
+liian - zbyt, nadto
 liikalihava - otyły
 liikalihavuus - otyłość
 liike - ruch
@@ -3076,7 +3076,7 @@ liitto - związek
 liittolainen - sojusznik
 liitutaulu - tablica
 lika - brud
-likainen - brudny | naganny | niezgodny z normami etycznymi
+likainen - brudny, naganny, niezgodny z normami etycznymi
 likiarvoinen - przybliżony
 likimääräinen - przybliżony
 likinäköisyys - krótkowzroczność
@@ -3089,27 +3089,27 @@ lingvistiikka - lingwistyka
 lingvistikko - językoznawca
 lingvistinen - językowy
 linja-auto - autobus
-linjalaiva - okręt liniowy | liniowiec | transatlantyk
+linjalaiva - okręt liniowy, liniowiec, transatlantyk
 linko - proca
 linna - zamek
 linnoite - fortyfikacja
 linnunpelätin - strach na wróble
 linnunpelätti - strach na wróble
-linnunpoika - pisklę | pisklak
+linnunpoika - pisklę, pisklak
 Linnunrata - Droga Mleczna
-linssi - soczewka | soczewica
+linssi - soczewka, soczewica
 lintu - ptak
 lintutiede - ornitologia
 lintutieteilijä - ornitolog
-lipas - skrzynka | pudełko | kasetka | magazynek (, )
+lipas - skrzynka, pudełko, kasetka, magazynek (, )
 lipasto - komoda
 lipoa - lizać
-lippu - bilet | flaga
+lippu - bilet, flaga
 liro - łęczak
 lisenssi - licencja
 lisko - jaszczurka
 Lissabon - Lizbona
-lista - lista | listewka
+lista - lista, listewka
 litium - lit
 litra - litr
 litteä - płaski
@@ -3123,13 +3123,13 @@ liuske - łupek
 logaritmi - logarytm
 logiikka - logika
 lohduke - pocieszenie
-lohi - łosoś | łosoś szlachetny
+lohi - łosoś, łosoś szlachetny
 lohikäärme - smok
 lohkare - głaz
 loikkari - dezerter
 loinen - pasożyt
-loistaa - lśnić | błyszczeć
-loistava - lśniący | błyszczący
+loistaa - lśnić, błyszczeć
+loistava - lśniący, błyszczący
 loistelias - wspaniały
 lojaali - lojalny
 lojaalinen - lojalny
@@ -3138,48 +3138,48 @@ lokaalinen - lokalny
 lokakuu - październik
 lokasuoja - błotnik
 lokki - mewa
-lomake - formularz | blankiet | druk
+lomake - formularz, blankiet, druk
 lompakko - portfel
 lonkka - biodro
 Lontoo - Londyn
-lontoolainen - londyński | londyńczyk
+lontoolainen - londyński, londyńczyk
 loogikko - logik
 lootus - lotos
 loppu - koniec
-loppusanat - epilog | zakończenie
+loppusanat - epilog, zakończenie
 lotja - barka
 lounas - południowy zachód
-löytää - znaleźć | odnaleźć
+löytää - znaleźć, odnaleźć
 lude - pluskwa
 luennoija - wykładowca
 luenta - czytanie
-luento - wykład | odczyt
+luento - wykład, odczyt
 luettelo - katalog
 luhta - podmokła łąka
-luhtahuitti - kropiatka | kureczka nakrapiana
+luhtahuitti - kropiatka, kureczka nakrapiana
 luhtakana - wodnik
 luhtakerttunen - łozówka
-luiska - stok | skarpa
+luiska - stok, skarpa
 luistin - łyżwa
-luja - mocny | twardy | niezłomny | nieugięty
+luja - mocny, twardy, niezłomny, nieugięty
 lujike - wzmocnienie
 lujite - wzmocnienie
 lukea - czytać
 lukko - zamek
 lukkoseppä - ślusarz
 luksus - luksus
-luku - liczba | cyfra | rozdział | czytanie
+luku - liczba, cyfra, rozdział, czytanie
 lukuisa - liczny
-lukukausi - półrocze | semestr
+lukukausi - półrocze, semestr
 lukutaidottomuus - analfabetyzm
 lume - iluzja
 lumi - śnieg
 lumiaura - pług śnieżny
-lumihanhi - gęś śnieżna | śnieżyca
-lumihiutale - śnieżynka | płatek śniegu
+lumihanhi - gęś śnieżna, śnieżyca
+lumihiutale - śnieżynka, płatek śniegu
 lumikko - łasica
 lumikurki - żuraw biały
-lumimyrsky - burza śnieżna | zamieć śnieżna
+lumimyrsky - burza śnieżna, zamieć śnieżna
 luminen - śnieżny
 lumipallo - kula śnieżna
 lumipyry - śnieżyca
@@ -3187,18 +3187,18 @@ lumiukko - bałwan śniegowy
 lumivarpunen - śnieżka
 lunnaat - okup
 lunnasraha - okup
-lunni - maskonur | maskonur atlantycki
+lunni - maskonur, maskonur atlantycki
 luoda - tworzyć
 luode - północny zachód
-luokka - klasa | kategoria | klasa społeczna | gromada (taksonomia zwierząt) | klasa (taksonomia roślin)
+luokka - klasa, kategoria, klasa społeczna, gromada (taksonomia zwierząt), klasa (taksonomia roślin)
 luokkahuone - klasa
-luokse - do | ku
-luola - jaskinia | pieczara | grota
+luokse - do, ku
+luola - jaskinia, pieczara, grota
 luomiskyky - kreatywność
 luonnollinen - naturalny
 luonnollisesti - naturalnie
 luonteenomainen - charakterystyczny
-luonto - natura | środowisko naturalne | charakter
+luonto - natura, środowisko naturalne, charakter
 luostari - klasztor
 luoti - kula
 luoto - mała skalista wysepka
@@ -3206,28 +3206,28 @@ luotonantaja - wierzyciel
 luotsi - pilot portowy
 luottokortti - karta kredytowa
 luovuus - kreatywność
-lupa - zezwolenie | pozwolenie | upoważnienie | pełnomocnictwo | koncesja | licencja
+lupa - zezwolenie, pozwolenie, upoważnienie, pełnomocnictwo, koncesja, licencja
 lusikka - łyżka
 lutetium - lutet
 lutikka - pluskwa
-lutka - kurwa | dziwka | prostytutka
+lutka - kurwa, dziwka, prostytutka
 luu - kość
 luultavasti - prawdopodobnie
-luumu - śliwka | śliwa
+luumu - śliwka, śliwa
 luuta - miotła
 luuydin - szpik kostny
 Luxemburg - Luksemburg
-lyhde - snop | kopa
+lyhde - snop, kopa
 lyhenne - skrót
 lyhkäinen - krótki
 lyhty - latarnia
 lyhyt - krótki
 lyhytnokkahanhi - gęś krótkodzioba
-lyhytsanainen - zwięzły | lakoniczny
+lyhytsanainen - zwięzły, lakoniczny
 lyijy - ołów
 lyijykynä - ołówek
-lymy - kryjówka | ukrycie
-lynkata - linczować | zlinczować
+lymy - kryjówka, ukrycie
+lynkata - linczować, zlinczować
 lynkkaus - lincz
 lypsää - doić
 lypsy - dojenie
@@ -3237,7 +3237,7 @@ lyyra - lira
 lyyrikko - liryk
 lyyrinen - liryczny
 lyyrypyrstö - lirogon
-maa - ziemia | grunt
+maa - ziemia, grunt
 Maa - Ziemia
 maagikko - magik
 maaginen - magiczny
@@ -3253,7 +3253,7 @@ maalausteline - sztaluga
 maaliskuu - marzec
 maalivahti - bramkarz
 maallikko - laik
-maallinen - świecki | ziemski
+maallinen - świecki, ziemski
 maallistunut - świecki
 maamies - rolnik
 maanantai - poniedziałek
@@ -3272,7 +3272,7 @@ maaöljy - ropa naftowa
 maaorja - chłop pańszczyźniany
 maapähkinä - orzech ziemny
 maapallo - kula ziemska
-määrä - liczba | ilość
+määrä - liczba, ilość
 määrällinen - ilościowy
 määrite - atrybut
 määritelmä - definicja
@@ -3299,19 +3299,19 @@ maha - brzuch
 mahalaukku - żołądek
 mahdikas - potężny
 mahdollinen - możliwy
-mahdollisesti - prawdopodobnie | możliwie
+mahdollisesti - prawdopodobnie, możliwie
 mahdollisuus - możliwość
 mahdoton - niemożliwy
 mahdottomuus - niemożliwość
 mahla - oskoła
-maila - rakieta | rakietka | kij
+maila - rakieta, rakietka, kij
 mailanen - lucerna
 mainari - górnik
-maine - opinia | renoma | reputacja | sława | orzeczenie
+maine - opinia, renoma, reputacja, sława, orzeczenie
 maininta - wzmianka
-mainita - wspominać | wspomnieć (, )
+mainita - wspominać, wspomnieć (, )
 mainos - reklama
-mainostaa - reklamować | ogłaszać
+mainostaa - reklamować, ogłaszać
 maisema - krajobraz
 maissi - kukurydza
 maistuvainen - smaczny
@@ -3320,10 +3320,10 @@ maito - mleko
 maitohammas - ząb mleczny
 maitokauppa - mleczarnia
 maitomainen - mleczny
-maitoparta - młodzik | żółtodziób
+maitoparta - młodzik, żółtodziób
 maja - chata
 majakka - latarnia morska
-majatalo - gospoda | zajazd
+majatalo - gospoda, zajazd
 majava - bóbr
 majesteettinen - majestatyczny
 majoneesi - majonez
@@ -3339,14 +3339,14 @@ mäkihyppy - skoki narciarskie
 makkara - kiełbasa
 makoisa - smaczny
 maksa - wątroba
-maksaa - płacić | zapłacić
+maksaa - płacić, zapłacić
 maksiimi - maksyma
 maksimi - maksimum
 maksu - opłata
 maksullinen - płatny
 maku - smak
 makuuhuone - sypialnia
-malaria - malaria | zimnica
+malaria - malaria, zimnica
 Malawi - Malawi
 Malediivit - Malediwy
 Malesia - Malezja
@@ -3354,7 +3354,7 @@ Mali - Mali
 maljakko - wazon
 mallas - słód
 mallasjuoma - piwo
-malli - model | wzór | fason | manekin
+malli - model, wzór, fason, manekin
 malline - szablon
 malmi - ruda
 Malta - Malta
@@ -3370,11 +3370,11 @@ manner - kontynent
 Mansaari - Wyspa Man
 mansikka - truskawka
 mäntä - tłok
-manteli - migdał | migdałek
+manteli - migdał, migdałek
 manttelinperijä - następca
 mänty - sosna
 manuli - manul
-manuskripti - rękopis | manuskrypt
+manuskripti - rękopis, manuskrypt
 märehtijä - przeżuwacz
 margariini - margaryna
 marhi - ziemnokraska
@@ -3383,8 +3383,8 @@ Marika - Marika
 marja - jagoda
 Marja - Maria (imię żeńskie)
 märkä - mokry
-märkäpaise - ropień | wrzód
-märkile - ropień | wrzód
+märkäpaise - ropień, wrzód
+märkile - ropień, wrzód
 markka - marka
 marmori - marmur
 marmorimurri - morzyk marmurkowy
@@ -3397,24 +3397,24 @@ marsu - świnka morska
 maskuliini - rodzaj męski
 masto - maszt
 masturboida - masturbować się
-matala - niski | płytki
-matalapaine - niż | niż baryczny
+matala - niski, płytki
+matalapaine - niż, niż baryczny
 matelija - gad
 matemaatikko - matematyk
 matemaattinen - matematyczny
 matematiikka - matematyka
 materiaali - materiał
-mäti - ikra | kawior
-matka - droga | podróż
+mäti - ikra, kawior
+matka - droga, podróż
 matkailu - turystyka
 matkamuisto - pamiątka
 matkapuhelin - telefon komórkowy
-matkia - naśladować | imitować
-matkija - naśladowca | imitator | przedrzeźniacz
-matkustaja - podróżny | pasażer | turysta
+matkia - naśladować, imitować
+matkija - naśladowca, imitator, przedrzeźniacz
+matkustaja - podróżny, pasażer, turysta
 matkustus - podróż
-mato - robak | robak (komputerowy)
-matriisi - matryca | macierz
+mato - robak, robak (komputerowy)
+matriisi - matryca, macierz
 matto - dywan
 maukas - smaczny
 Mauritania - Mauretania
@@ -3428,7 +3428,7 @@ medestäjä - nektarnik
 meditaatio - medytacja
 meditointi - medytacja
 meduusa - meduza
-meedialainen - Med | Medyjczyk | medyjski
+meedialainen - Med, Medyjczyk, medyjski
 mehiläinen - pszczoła
 mehiläiskenno - plaster
 mehiläiskuningatar - królowa pszczół
@@ -3446,9 +3446,9 @@ mekaaninen - mechaniczny
 mekanismi - mechanizm
 mekko - sukienka
 Meksiko - Meksyk
-meksikolainen - Meksykanin | Meksykanka | meksykański
-melkein - prawie | blisko
-melko - dość | dosyć
+meksikolainen - Meksykanin, Meksykanka, meksykański
+melkein - prawie, blisko
+melko - dość, dosyć
 mellakka - rozruchy
 meloni - melon
 melu - hałas
@@ -3458,40 +3458,40 @@ menestyksekkäästi - skutecznie
 menestyksellisesti - skutecznie
 menestyksetön - nieudany
 menetelmä - metoda
-menettää - stracić | utracić
+menettää - stracić, utracić
 menettelytapa - procedura
-mennä - iść | chodzić | przechodzić | mijać | jechać | kursować
+mennä - iść, chodzić, przechodzić, mijać, jechać, kursować
 menneisyys - przeszłość
 menstruaatio - miesiączka
 merenneito - syrena
 meri - morze
-merihanhi - gęś gęgawa | gęgawa
-meriharakka - ostrygojad | morska sroka
-merikihu - wydrzyk ostrosterny | wydrzyk pasożytny
+merihanhi - gęś gęgawa, gęgawa
+meriharakka - ostrygojad, morska sroka
+merikihu - wydrzyk ostrosterny, wydrzyk pasożytny
 merikotka - bielik
 merilokki - mewa siodłata
 merimakkara - strzykwa
 merimetso - kormoran czarny
-meripihka - bursztyn | jantar
+meripihka - bursztyn, jantar
 merirosvo - pirat
 merisiili - jeżowiec
 merisirri - biegus morski
 merkittävästi - znacząco
 merkitys - znaczenie
-merkki - znak | symbol
-mesi - nektar | miód
+merkki - znak, symbol
+mesi - nektar, miód
 mesikko - miodojad
 messinki - mosiądz
 mestari - mistrz
-metabolia - metabolizm | metamorfoza | przeobrażenie
+metabolia - metabolizm, metamorfoza, przeobrażenie
 metaetiikka - metaetyka
-metafora - metafora | przenośnia
+metafora - metafora, przenośnia
 metafysiikka - metafizyka
 metalli - metal
 metallinen - metaliczny
 metalliseos - stop
 metallurgia - metalurgia
-metamorfoosi - metamorfoza | przeobrażenie
+metamorfoosi - metamorfoza, przeobrażenie
 meteori - meteor
 meteoriitti - meteoryt
 meteorologia - meteorologia
@@ -3503,29 +3503,29 @@ metsä - las
 metsähanhi - gęś zbożowa
 metsäkanalintu - głuszec
 metsäkauris - sarna
-metsäkirvinen - świergotek leśny | świergotek drzewny
+metsäkirvinen - świergotek leśny, świergotek drzewny
 metsänhoito - leśnictwo
 metsäsika - borsuk
 metsästää - polować
 metsästäjä - myśliwy
-metsästys - polowanie | myślistwo | łowiectwo
-metsäviklo - samotnik | brodziec samotny
+metsästys - polowanie, myślistwo, łowiectwo
+metsäviklo - samotnik, brodziec samotny
 metso - głuszec
 miekka - miecz
 mieleenpainuva - niezapomniany
-mielellään - chętnie | z przyjemnością
+mielellään - chętnie, z przyjemnością
 mielenkiintoinen - interesujący
 mielenvikainen - obłąkany
-mieli - umysł | rozum | intelekt | zmysł | sąd | zdanie | mniemanie | opinia | charakter | natura | usposobienie | chęć | ochota | nastrój | humor | gust | upodobanie
+mieli - umysł, rozum, intelekt, zmysł, sąd, zdanie, mniemanie, opinia, charakter, natura, usposobienie, chęć, ochota, nastrój, humor, gust, upodobanie
 mielikuvituksellinen - fantastyczny
-mielipuoli - wariat | szaleniec | obłąkany | szalony | chory umysłowo | chory psychicznie
-mielipuolinen - obłąkany | chory psychicznie | umysłowo chory
+mielipuoli - wariat, szaleniec, obłąkany, szalony, chory umysłowo, chory psychicznie
+mielipuolinen - obłąkany, chory psychicznie, umysłowo chory
 mielipuolisuus - szaleństwo
 mielisairas - chory psychicznie
 mielivaltaisesti - dowolnie
 miellyttävä - przyjemny
 mieluisa - przyjemny
-mies - mężczyzna | mąż
+mies - mężczyzna, mąż
 mieskuntoinen - męski
 miesleski - wdowiec
 miespuolinen - męski
@@ -3541,11 +3541,11 @@ Mikronesia - Mikronezja
 mikro-organismi - mikroorganizm
 mikroskooppi - mikroskop
 mikroskooppinen - mikroskopowy
-miksi - dlaczego? | czemu? | po co?
+miksi - dlaczego?, czemu?, po co?
 Milja - Emilia
 miljoona - milion
 Milla - Emilia
-millainen - jaki | jaka | jakie
+millainen - jaki, jaka, jakie
 millimetri - milimetr
 milloin - kiedy
 miltei - prawie
@@ -3569,15 +3569,15 @@ mistä - skąd?
 misteli - jemioła
 mitään - nic
 mitali - medal
-mitella - temblak | chusta trójkątna
+mitella - temblak, chusta trójkątna
 miten - jak
 mitra - mitra
-mittari - miernik | licznik
+mittari - miernik, licznik
 mobiliteetti - mobilność
 moderni - nowoczesny
-moi - cześć! | na razie
+moi - cześć!, na razie
 Moldova - Mołdawia
-molekyyli - cząsteczka | molekuła
+molekyyli - cząsteczka, molekuła
 möljä - molo
 molybdeeni - molibden
 Monaco - Monako
@@ -3595,7 +3595,7 @@ monimuotoisuus - różnorodność
 monimutkaisuus - złożoność
 moninainen - różnorodny
 moninaisuus - różnorodność
-monni - sum | rekrut
+monni - sum, rekrut
 monogamia - monogamia
 monoteismi - monoteizm
 monsuuni - monsun
@@ -3611,9 +3611,9 @@ moraliteetti - moralność
 moreeni - morena
 morfiini - morfina
 morfologia - morfologia
-mörkö - potwór | straszydło
+mörkö - potwór, straszydło
 Mörkö - Buka
-morsian - narzeczona | panna młoda
+morsian - narzeczona, panna młoda
 morsiosorsa - karolinka
 mörssäri - moździeż
 mortaliteetti - śmiertelność
@@ -3627,39 +3627,39 @@ moukari - młot
 moukarinheitto - rzut młotem
 Mowgli - Mowgli
 muhkura - stłuczka
-muija - kobieta | dziewczyna | żona | pisklę | motyka | suka
+muija - kobieta, dziewczyna, żona, pisklę, motyka, suka
 muinainen - starożytny
 muinaisaika - starożytność
-muistaa - pamiętać | przypomnieć
+muistaa - pamiętać, przypomnieć
 muisti - pamięć
 mukava - miły
-muki - kubek | garnuszek
-multa - ziemia | gleba | ściółka
-muna - jajo | jajko
+muki - kubek, garnuszek
+multa - ziemia, gleba, ściółka
+muna - jajo, jajko
 munakas - omlet
 munakoiso - bakłażan
 munanasetin - pokładełko
 munasarja - jajnik
 munasolu - komórka jajowa
-munkki - mnich | zakonnik | pączek
+munkki - mnich, zakonnik, pączek
 munkkirinkilä - pączek
 munuainen - nerka
 muodollisesti - formalnie
-muodonvaihdos - metamorfoza | przeobrażenie
+muodonvaihdos - metamorfoza, przeobrażenie
 Muonio - Muonio (gmina w Laponii)
-muoto - kształt | forma
+muoto - kształt, forma
 muotoilija - projektant
 muotokuva - portret
-muovi - plastik | tworzywo sztuczne
-mura - żwir | osad
-murha - zabójstwo | mord
+muovi - plastik, tworzywo sztuczne
+mura - żwir, osad
+murha - zabójstwo, mord
 murhaaja - morderca
-murhata - mordować | zamordować
+murhata - mordować, zamordować
 murikka - głaz
 Murmansk - Murmańsk
 murre - dialekt
 mursu - mors
-murteellinen - dialekt | gwara
+murteellinen - dialekt, gwara
 murtoluku - ułamek
 murtomies - włamywacz
 murtovaras - włamywacz
@@ -3668,14 +3668,14 @@ musiikki - muzyka
 musiikki-instrumentti - instrument muzyczny
 musikantti - muzyk
 muskotti - gałka muszkatołowa
-musta - czarny | czerń | Murzyn | Czarny
+musta - czarny, czerń, Murzyn, Czarny
 mustahaikara - bocian czarny
-mustakaulauikku - perkoz zausznik | zausznik
+mustakaulauikku - perkoz zausznik, zausznik
 mustaleppälintu - kopciuszek
 mustalintu - markaczka
 Mustameri - Morze Czarne
 mustankipeä - zazdrosny
-mustapääkerttu - pokrzewka czarnogłowa | kapturka
+mustapääkerttu - pokrzewka czarnogłowa, kapturka
 mustarastas - kos
 mustasukkainen - zazdrosny
 mustasukkaisuus - zazdrość
@@ -3683,12 +3683,12 @@ mustavalkoinen - czarno-biały
 mustavaris - gawron
 mustaviklo - brodziec śniady
 muste - atrament
-mustekala - kałamarnica | ośmiornica
-mustikka - borówka | czarna jagoda
+mustekala - kałamarnica, ośmiornica
+mustikka - borówka, czarna jagoda
 mutaatio - mutacja
 mutka - zakręt
-mutta - ale | a
-mutteri - mutra | nakrętka
+mutta - ale, a
+mutteri - mutra, nakrętka
 muu - inny
 muualla - gdzie indziej
 muualle - gdzie indziej
@@ -3706,49 +3706,49 @@ muuri - mur
 muurinmurtaja - taran
 muusa - muza
 muusikko - muzyk
-muutoin - inaczej | w przeciwnym razie
+muutoin - inaczej, w przeciwnym razie
 muuttohaukka - sokół wędrowny
 muuttoliike - migracja
 mykiö - soczewka
-mykkä - niemowa (człowiek niemy) | niemy
+mykkä - niemowa (człowiek niemy), niemy
 mykologia - mykologia
 mylly - młyn
 myllynkivi - kamień młyński
 myöhään - późno
-myöntyä - zgodzić się | pozwolić
-myös - także | również
+myöntyä - zgodzić się, pozwolić
+myös - także, również
 myötäkäyminen - sukces
 myrha - mirra
 myrkky - trucizna
 myrkyllinen - trujący
-myrsky - burza | sztorm
+myrsky - burza, sztorm
 myrskyinen - burzliwy
 myrskyisä - burzliwy
-myrskylintu - petrel | fulmar
+myrskylintu - petrel, fulmar
 myrskysukeltaja - nurzec
 myrtti - mirt
 myski - piżmo
 myskihärkä - piżmowół
-myssy - czepiec | czepek
+myssy - czepiec, czepek
 mytologia - mitologia
 myydä - sprzedawać
 myyjä - sprzedawca
 myymälä - sklep
 myytti - mit
 naakka - kawka
-naali - piesiec | lis polarny | piesak
+naali - piesiec, lis polarny, piesak
 naama - twarz
 naamari - maska
 nääntymys - wyczerpanie
 naapuri - sąsiad
 naaras - samica
 naarasleijona - lwica
-näätä - kuna leśna | tumak
-naevus - znamię | znamię barwnikowe
+näätä - kuna leśna, tumak
+naevus - znamię, znamię barwnikowe
 nähdä - widzieć
 nahka - skóra
 nahkiainen - minóg
-naida - żenić się | jebać | pierdolić
+naida - żenić się, jebać, pierdolić
 naiivi - naiwny
 naikkonen - kobieta
 nainen - kobieta
@@ -3757,17 +3757,17 @@ naisellinen - kobiecy
 näkyväisyys - widoczność
 nälkä - głód
 nälkäinen - głodny
-nalle - miś | niedźwiadek
-nalli - spłonka | kapiszon
+nalle - miś, niedźwiadek
+nalli - spłonka, kapiszon
 Namibia - Namibia
 namu - cukierek
 namunen - cukierek
-napa - pępek | środek | centrum | punkt środkowy | biegun
+napa - pępek, środek, centrum, punkt środkowy, biegun
 napakka - energiczny
 napapiiri - koło podbiegunowe
-napata - porwać | chwycić
+napata - porwać, chwycić
 näppäimistö - klawiatura
-näppy - pryszcz | krosta
+näppy - pryszcz, krosta
 näppylä - krosta
 näre - drzewo iglaste (, )
 närhi - sójka
@@ -3775,48 +3775,48 @@ narkoottinen - narkotyczny
 narrimainen - głupi
 narrimaisuus - głupota
 narsissi - narcyz
-narttu - suka (o samicy psa) | suka (o kobiecie)
+narttu - suka (o samicy psa), suka (o kobiecie)
 nasakka - energiczny
-nasta - pinezka | pluskiewka
+nasta - pinezka, pluskiewka
 nasu - świnia
 nationalismi - nacjonalizm
 nationalisti - nacjonalista
 natrium - sód
 naturalismi - naturalizm
-nauha - taśma | wstążka
+nauha - taśma, wstążka
 naula - gwóźdź
 naulakko - wieszak
 nauraa - śmiać się
 nauru - śmiech
 Nauru - Nauru
-naurulokki - mewa śmieszka | śmieszka
+naurulokki - mewa śmieszka, śmieszka
 nautinto - przyjemność
 nautintoaine - używka
 navigaatio - nawigacja
 navigointi - nawigacja
 näyttelijä - aktor
 näyttelijätär - aktorka
-neekeri - Murzyn | czarnoskóry człowiek
+neekeri - Murzyn, czarnoskóry człowiek
 negatiivinen - negatywny
 neilikka - goździk
 neitokurki - żuraw stepowy
 neitsyt - dziewica
 neitsyys - dziewictwo
 nelikulmainen - kwadratowy
-neliö - kwadrat | metr kwadratowy
+neliö - kwadrat, metr kwadratowy
 neliömetri - metr kwadratowy
 neljä - cztery (4)
 neljäkäs - romb
 neljäkymmentä - czterdzieści
-neljäkymmentäkahdeksan - czterdzieści osiem | 48
-neljäkymmentäkaksi - czterdzieści dwa | 42
-neljäkymmentäkolme - czterdzieści trzy | 43
-neljäkymmentäkuusi - czterdzieści sześć | 46
-neljäkymmentäneljä - czterdzieści cztery | 44
-neljäkymmentäseitsemän - czterdzieści siedem | 47
-neljäkymmentäviisi - czterdzieści pięć | 45
-neljäkymmentäyhdeksän - czterdzieści dziewięć | 49
-neljäkymmentäyksi - czterdzieści jeden | 41
+neljäkymmentäkahdeksan - czterdzieści osiem, 48
+neljäkymmentäkaksi - czterdzieści dwa, 42
+neljäkymmentäkolme - czterdzieści trzy, 43
+neljäkymmentäkuusi - czterdzieści sześć, 46
+neljäkymmentäneljä - czterdzieści cztery, 44
+neljäkymmentäseitsemän - czterdzieści siedem, 47
+neljäkymmentäviisi - czterdzieści pięć, 45
+neljäkymmentäyhdeksän - czterdzieści dziewięć, 49
+neljäkymmentäyksi - czterdzieści jeden, 41
 neljäs - czwarty
 neljätoista - czternaście (14)
 nelonen - czwórka
@@ -3831,7 +3831,7 @@ neptunium - neptun
 nero - geniusz
 nerokkuus - geniusz
 nerous - geniusz
-neste - ciecz | płyn
+neste - ciecz, płyn
 nestemäinen - płynny
 nestorilainen - nestorianin
 neula - igła
@@ -3842,19 +3842,19 @@ neutraalisuus - neutralność
 neutraalius - neutralność
 neutraliteetti - neutralność
 neutri - rodzaj nijaki
-neuvo - rada | dorada | wskazówka
+neuvo - rada, dorada, wskazówka
 neuvoja - doradca
 Neuvostoliitto - Związek Radziecki
-neuvostoliittolainen - obywatel Związku Radzieckiego | radziecki | sowiecki
+neuvostoliittolainen - obywatel Związku Radzieckiego, radziecki, sowiecki
 neuvotella - negocjować
 neuvoton - bezradny
 neuvottelija - mediator
-neva - bagno | moczary | trzęsawisko
--ni - mój | moja | moje
+neva - bagno, moczary, trzęsawisko
+-ni - mój, moja, moje
 Nicaragua - Nikaragua
-nide - tom | zeszyt
+nide - tom, zeszyt
 nieleminen - łykanie
-niemi - półwysep | cypel
+niemi - półwysep, cypel
 niemimaa - półwysep
 Niger - Niger
 Nigeria - Nigeria
@@ -3873,29 +3873,29 @@ nimi - imię
 nimikkeistö - nomenklatura
 nimipäivä - imieniny
 nimisana - rzeczownik
-nimittää - mianować | nazywać | tytułować
+nimittää - mianować, nazywać, tytułować
 niobi - niob
 niobium - niob
-nirhama - chip | układ scalony
-nisä - sutek | brodawka piersiowa
+nirhama - chip, układ scalony
+nisä - sutek, brodawka piersiowa
 nisäkäs - ssak
 niska - kark
 nitoja - zszywacz
 nituri - zszywacz
 niukasti - skąpo
-niukka - skąpy | kusy | marny | nikły | ubogi | ciasny | wąski | zwięzły | ścisły | lakoniczny
+niukka - skąpy, kusy, marny, nikły, ubogi, ciasny, wąski, zwięzły, ścisły, lakoniczny
 niveljalkainen - stawonóg
 nivuset - pachwina
 Nix - Nix
-no - …oznaczająca potaknięcie | przyzwolenie
+no - …oznaczająca potaknięcie, przyzwolenie
 nobelium - nobel
-noin - około | w przybliżeniu | mniej więcej
-noita - czarownica | wiedźma
-nojata - podpierać | opierać się
+noin - około, w przybliżeniu, mniej więcej
+noita - czarownica, wiedźma
+nojata - podpierać, opierać się
 nojatuoli - fotel
 noki - sadza
 nokikana - łyska
-nokikuukkeli - sójka tybetańska | sójka okopcona
+nokikuukkeli - sójka tybetańska, sójka okopcona
 nokka - dziób
 nokkavarpunen - grubodziób
 nokkonen - pokrzywa
@@ -3906,7 +3906,7 @@ nomenklatuuri - nomenklatura
 nominatiivi - mianownik
 nopea - szybki
 nopeasti - szybko
-nopeus - szybkość | prędkość
+nopeus - szybkość, prędkość
 noppa - kostka do gry
 nopsa - szybki
 nopsaan - szybko
@@ -3918,35 +3918,35 @@ norjalainen - norweski
 normaalisti - normalnie
 norsu - słoń
 Norsunluurannikko - Wybrzeże Kości Słoniowej
-nostaa - wznieść | podnieść | wznosić | podnosić | wydobywać | podejmować | podjąć | pobierać | pobrać
+nostaa - wznieść, podnieść, wznosić, podnosić, wydobywać, podejmować, podjąć, pobierać, pobrać
 nostalgia - nostalgia
 nostalgisuus - nostalgia
-nostin - żuraw | dźwig
+nostin - żuraw, dźwig
 nostokanki - dźwignia
 nostokurki - żuraw
-nousta - podnosić się | wznosić się
+nousta - podnosić się, wznosić się
 nöyhtäinen - puszysty
 nöyryytys - upokorzenie
 nuha - katar
 nuhtelu - reprymenda
 nuijapää - kijanka
-nukke - lalka | kukiełka
+nukke - lalka, kukiełka
 nukkua - spać
 numeraali - liczebnik
-numero - cyfra | numer
+numero - cyfra, numer
 nummikirvinen - świergotek polny
 nunna - zakonnica
-nuoli - strzała | strzałka
+nuoli - strzała, strzałka
 nuolihaukka - kobuz
-nuora - sznur | sznurek
-nuori - młody | młoda osoba | młodzież
+nuora - sznur, sznurek
+nuori - młody, młoda osoba, młodzież
 nuoruus - młodość
 nuotio - ognisko
 nuotta - niewód
 nuotti - nuta
-nurkka - kąt | róg
+nurkka - kąt, róg
 nurmikko - trawnik
-nussia - jebać | pieprzyć | pierdolić | uprawiać seks
+nussia - jebać, pieprzyć, pierdolić, uprawiać seks
 nutritio - odżywianie
 nuudeli - makaron
 nuuka - skąpy
@@ -3955,7 +3955,7 @@ nykyinen - obecny
 nykytanssi - taniec nowoczesny
 nyrkkeilijä - bokser
 nyrkkeily - boks
-nyt - teraz | obecnie
+nyt - teraz, obecnie
 oas - cierń
 obduktio - autopsja
 obeliski - obelisk
@@ -3967,28 +3967,28 @@ odottaa - czekać
 odottamatta - niespodziewanie
 odottamattomasti - niespodziewanie
 ohdake - oset
-ohi - obok | mimo | koło
-ohimarssi - defilada | przemarsz
+ohi - obok, mimo, koło
+ohimarssi - defilada, przemarsz
 ohimo - skroń
 ohjauspyörä - kierownica
-ohjelma - program telewizyjny | program komputerowy | program | założenia | postulaty | repertuar
-ohjenuora - zasada | wytyczna
+ohjelma - program telewizyjny, program komputerowy, program, założenia, postulaty, repertuar
+ohjenuora - zasada, wytyczna
 ohra - jęczmień
 ohut - cienki
 oieta - wyprostować się
-oikea - prawy | z prawej strony | prawidłowy | właściwy | odpowiedni | rzeczywisty | prawdziwy | sprawiedliwy | słuszny
+oikea - prawy, z prawej strony, prawidłowy, właściwy, odpowiedni, rzeczywisty, prawdziwy, sprawiedliwy, słuszny
 oikeaoppinen - ortodoksyjny
 oikeauskoinen - ortodoksyjny
-oikein - prawidłowo | poprawnie | bardzo
+oikein - prawidłowo, poprawnie, bardzo
 oikeinkirjoitus - ortografia
-oikeus - prawo | sąd | instancja sądowa
+oikeus - prawo, sąd, instancja sądowa
 oikeustiede - prawoznawstwo
 oikku - kaprys
-oikoa - prostować | poprawić
-oinas - baran | tryk
+oikoa - prostować, poprawić
+oinas - baran, tryk
 Oinas - Baran
 öinen - nocny
-oire - objaw | symptom
+oire - objaw, symptom
 oja - rów
 oka - cierń
 okkultismi - okultyzm
@@ -3999,7 +3999,7 @@ oksidi - tlenek
 oksitaani - język prowansalski
 olen - olla
 olennoituma - personifikacja
-olento - istota | stworzenie | stwór
+olento - istota, stworzenie, stwór
 olevainen - egzystencja
 olevaisuus - egzystencja
 Olga - Olga
@@ -4007,18 +4007,18 @@ oligarkia - oligarchia
 oliivi - oliwa
 oliiviöljy - oliwa
 oliivipuu - drzewo oliwne
-olio - stworzenie | istota
+olio - stworzenie, istota
 oljenkorsi - słoma
 öljy - olej
-öljyinen - oleisty | naoliwiony
+öljyinen - oleisty, naoliwiony
 öljypuu - drzewo oliwne
 olkaa hyvä - proszę
 olkapää - ramię
 olki - słoma
-olla - być | znajdować się | przebywać | mieć | posiadać | musieć | być zobowiązanym | zachowywać się | prawie/niemal coś zrobić (olla vähällä) | udawać | sprawiać wrażenie | pretendować | zamierzać coś za chwilę zrobić | już mieć zamiar coś zrobić
+olla - być, znajdować się, przebywać, mieć, posiadać, musieć, być zobowiązanym, zachowywać się, prawie/niemal coś zrobić (olla vähällä), udawać, sprawiać wrażenie, pretendować, zamierzać coś za chwilę zrobić, już mieć zamiar coś zrobić
 olla yllään - nosić
 olmi - odmieniec jaskiniowy
-olohuone - pokój gościnny | duży pokój
+olohuone - pokój gościnny, duży pokój
 olut - piwo
 olutpanimo - browar
 Olympia - Olimpia (miasto w Grecji)
@@ -4028,24 +4028,24 @@ omaelämäkerta - autobiografia
 Oman - Oman
 omanto - dopełniacz
 omata - posiadać
-omatoiminen - samoczynny | samorodny | automatyczny
+omatoiminen - samoczynny, samorodny, automatyczny
 omatunto - sumienie
 omena - jabłko
 omenamehu - sok jabłkowy
 omenapuu - jabłoń
-omistaa - posiadać | przywłaszczać | przywłaszczyć | przejąć | przypisywać | ofiarować | poświęcić | dedykować
+omistaa - posiadać, przywłaszczać, przywłaszczyć, przejąć, przypisywać, ofiarować, poświęcić, dedykować
 omistaja - właściciel
 on - olla
 ongelma - problem
 onki - wędka
 onkologia - onkologia
-onnekas - szczęśliwy | mający szczęście
+onnekas - szczęśliwy, mający szczęście
 onnellinen - szczęśliwy
 onnellisesti - szczęśliwie
 onnellisuus - szczęście
 onneton - nieszczęśliwy
 onnettomuus - katastrofa
-onni - szczęście | radość | powodzenie
+onni - szczęście, radość, powodzenie
 onnistuneesti - skutecznie
 onnitella - gratulować
 onnittelu - gratulacje
@@ -4056,10 +4056,10 @@ oopiumi - opium
 ooppera - opera
 opaakki - nieprzezroczysty
 opaali - opal
-opastaa - oprowadzać | wskazywać drogę | kierować
+opastaa - oprowadzać, wskazywać drogę, kierować
 opastaja - doradca
 operetti - operetka
-opettaa - uczyć | nauczać
+opettaa - uczyć, nauczać
 opettaja - nauczyciel/nauczycielka
 opettaminen - nauczanie
 opetuksellinen - edukacyjny
@@ -4072,9 +4072,9 @@ opportunismi - oportunizm
 optimismi - optymizm
 optimistinen - optymistyczny
 optimistisuus - optymizm
-ora - kolec | cierń
+ora - kolec, cierń
 oranki - orangutan
-oranssi - pomarańczowy | kolor pomarańczowy
+oranssi - pomarańczowy, kolor pomarańczowy
 orapihlaja - głóg
 orastaa - kiełkować
 orava - wiewiórka
@@ -4098,38 +4098,38 @@ orsi - grzęda
 ortografia - ortografia
 orvokki - fiołek
 osa - część
-osake - akcja | papier wartościowy
-osata - móc | potrafić | umieć | znać | trafić
+osake - akcja, papier wartościowy
+osata - móc, potrafić, umieć, znać, trafić
 osinko - dywidenda
-osittaa - dzielić | podzielić
+osittaa - dzielić, podzielić
 osmium - osm
 osoite - adres
-ostaa - kupować | nabywać
+ostaa - kupować, nabywać
 ostaa sika säkissä - kupować kota w worku
-ostaja - nabywca | kupiec
+ostaja - nabywca, kupiec
 osteri - ostryga
 Ostia - Ostia
 osto - zakup
-osua - trafić | trafiać
+osua - trafić, trafiać
 osviitta - przewodnik
 otava - rodzaj pułapki na ryby
 otella - rywalizować
 otsa - czoło
 otsoni - ozon
-ottaa - brać | wziąć | przyjmować | zażywać
+ottaa - brać, wziąć, przyjmować, zażywać
 otus - stworzenie
 Oulu - Oulu (miasto w Finlandii)
-outo - obcy | nieznany | niezwykły | osobliwy
-ovaali - owalny | owal
-ovela - chytry | przebiegły
+outo - obcy, nieznany, niezwykły, osobliwy
+ovaali - owalny, owal
+ovela - chytry, przebiegły
 ovenkahva - klamka
 ovi - drzwi
 ovulaatio - owulacja
-pää - głowa | końcówka | czubek
-paahde - żar | skwar | upał
+pää - głowa, końcówka, czubek
+paahde - żar, skwar, upał
 pääkallo - czaszka
 pääkaupunki - stolica
-päällystakki - płaszcz | palto
+päällystakki - płaszcz, palto
 pääministeri - premier
 paanu - gont
 päärynä - gruszka
@@ -4140,32 +4140,32 @@ pääskykahlaaja - żwirowiec
 pääskynen - jaskółka
 paasto - post
 paastota - pościć
-päätös - koniec | zakończenie | decyzja | orzeczenie | wyrok | postanowienie
+päätös - koniec, zakończenie, decyzja, orzeczenie, wyrok, postanowienie
 päättely - dedukcja
 paavi - papież
 pagodi - pagoda
-paha - zły | trudny | zło
+paha - zły, trudny, zło
 pähkinä - orzech
 pähkinähakki - orzechówka
 pähkinänakkeli - kowalik
-paholainen - diabeł | czart | zły duch | demon
+paholainen - diabeł, czart, zły duch, demon
 pahuus - zło
 pahvi - tektura
 paikka - miejsce
 paikkansapitävä - dokładny
 paimen - pasterz
-päin - do | w kierunku
+päin - do, w kierunku
 painajainen - koszmar
 paine - ciśnienie
 painija - zapaśnik
-paino - ciężar | nacisk
+paino - ciężar, nacisk
 painovoima - grawitacja
 paise - wrzód
 paistaa - świecić
 paisti - pieczeń
 paistinpannu - patelnia
 paita - koszula
-päivä - dzień | słońce
+päivä - dzień, słońce
 päiväaika - dzień
 päiväkirja - dziennik
 päivällinen - obiad
@@ -4185,40 +4185,40 @@ Pakistan - Pakistan
 pakkanen - mróz
 pakko - przymus
 pakokauhu - panika
-pakolainen - uciekinier | zbieg | uchodźca | emigrant
+pakolainen - uciekinier, zbieg, uchodźca, emigrant
 pakollinen - przymusowy
 pakote - sankcja
-pakottaa - zmuszać | przymuszać
+pakottaa - zmuszać, przymuszać
 paksu - gruby
 paksujalka - kulon
-pakti - pakt | układ
+pakti - pakt, układ
 palaa - płonąć
-palaminen - palenie | spalanie
+palaminen - palenie, spalanie
 palatsi - pałac
 Palau - Palau
 paleontologi - paleontolog
-palestiinalainen - Palestyńczyk | Palestynka | palestyński
+palestiinalainen - Palestyńczyk, Palestynka, palestyński
 palindromi - palindrom
 paljas - goły
-paljon - dużo | wiele | ile
+paljon - dużo, wiele, ile
 paljonko - paljon
 palkkasotilas - najemnik
-palkkasoturi - najemnik | żołnierz najemny
-palko - strąk | strączek
+palkkasoturi - najemnik, żołnierz najemny
+palko - strąk, strączek
 palladium - pallad
 pallea - przepona
-pallo - piłka | sfera
+pallo - piłka, sfera
 pallosalama - piorun kulisty
 palmu - palma
-palo - ogień | pożar
+palo - ogień, pożar
 palokärki - dzięcioł czarny
 palokunta - straż pożarna
 palomies - strażak
 paloposti - hydrant
 palsami - balsam
-palvella - obsługiwać | służyć | obsłużyć | usłużyć
-palvelu - obsługa | obsłużenie | służba | służenie | usługiwanie
-palvoa - czcić | adorować
+palvella - obsługiwać, służyć, obsłużyć, usłużyć
+palvelu - obsługa, obsłużenie, służba, służenie, usługiwanie
+palvoa - czcić, adorować
 Panama - Panama
 panda - panda
 pandeismi - pandeizm
@@ -4226,17 +4226,17 @@ paniikki - panika
 panimo - browar
 pankki - bank
 pankkiiri - bankier
-panna - kłaść | nakładać | położyć | wkładać | włożyć | wykładać
+panna - kłaść, nakładać, położyć, wkładać, włożyć, wykładać
 panoraama - panorama
 panssarilaiva - pancernik
 panteismi - panteizm
-pantti - rzecz zastawiona | zastaw | rękojmia | poręka
+pantti - rzecz zastawiona, zastaw, rękojmia, poręka
 panttivanki - zakładnik
-paperi - papier | dokument
+paperi - papier, dokument
 paperiliitin - spinacz
 papisto - kler
 pappi - ksiądz
-papu - fasola | fasolka
+papu - fasola, fasolka
 Papua-Uusi-Guinea - Papua-Nowa Gwinea
 papukaija - papuga
 paraabeli - parabola
@@ -4246,8 +4246,8 @@ parakki - barak
 parametri - parametr
 parasiitti - pasożyt
 paratiisi - raj
-paratiisilintu - ptak rajski | cudowronka
-parempi pyy pivossa kuin kaksi oksalla - lepszy jarząbek w garści niż dwa na gałęzi | lepszy wróbel w garści niż gołąb na dachu
+paratiisilintu - ptak rajski, cudowronka
+parempi pyy pivossa kuin kaksi oksalla - lepszy jarząbek w garści niż dwa na gałęzi, lepszy wróbel w garści niż gołąb na dachu
 parfyymi - perfumy
 pari - para (dwie osoby, dwie rzeczy)
 Pariisi - Paryż
@@ -4261,11 +4261,11 @@ parrakas - brodaty
 parsakaali - brokuł
 parta - broda
 partainen - brodaty
-partakorppikotka - orłosęp | orłosęp brodaty
+partakorppikotka - orłosęp, orłosęp brodaty
 partneri - partner
 parveke - balkon
-paska - gówno | gówniany | bardzo zły | popsuty | tandetny | kurwa! | cholera!
-paskiainen - dupek | gnojek
+paska - gówno, gówniany, bardzo zły, popsuty, tandetny, kurwa!, cholera!
+paskiainen - dupek, gnojek
 passi - paszport
 pässi - baran
 passiivinen - bierny
@@ -4277,19 +4277,19 @@ patja - materac
 patriarkka - patriarcha
 patrioottinen - patriotyczny
 patriotismi - patriotyzm
-patruuna - nabój | pocisk
+patruuna - nabój, pocisk
 patsas - posąg
-paula - sznurek | taśma | siec
+paula - sznurek, taśma, siec
 paviaani - pawian
 pedagogia - pedagogika
 pedagogiikka - pedagogika
-pehmeä - puchaty | miękki
+pehmeä - puchaty, miękki
 pehmeys - miękkość
 pehmoinen - miękki
 peikko - trol
-peili - lustro | lusterko
+peili - lustro, lusterko
 peippo - zięba
-peitsi - dzida | kopia (broń)
+peitsi - dzida, kopia (broń)
 Pekka - Piotr
 pelaaja - gracz
 pelata - grać
@@ -4297,27 +4297,27 @@ pelätä - bać się
 pelätin - strach na wróble
 peli - gra
 pelikaani - pelikan
-pelko - lęk | obawa | strach
+pelko - lęk, obawa, strach
 pelkuri - tchórz
 pellava - len
 pelle - klaun
-pelokas - bojaźliwy | lękliwy
+pelokas - bojaźliwy, lękliwy
 peltinen - blaszany
 pelto - pole
 peltopyy - kuropatwa
 peltosirkku - ortolan
 pendeli - wahadło
-penger - grobla | wał | skarpa | taras | miedza | nasyp kolejowy
-penikka - szczenię | szczeniak
-penkki - ławka | grządka
-pensas - krzew | krzak
+penger - grobla, wał, skarpa, taras, miedza, nasyp kolejowy
+penikka - szczenię, szczeniak
+penkki - ławka, grządka
+pensas - krzew, krzak
 pensasaita - żywopłot
-pensaskerttu - pokrzewka cierniówka | cierniówka
+pensaskerttu - pokrzewka cierniówka, cierniówka
 pensastasku - pokląskwa
-penseä - obojętny | zobojętniały
+penseä - obojętny, zobojętniały
 penseys - obojętność
 pensseli - pędzel
-pentu - młode zwierząt | zwłaszcza ssaków
+pentu - młode zwierząt, zwłaszcza ssaków
 peräaukko - odbyt
 peräsin - ster
 perästäpäin - potem
@@ -4325,15 +4325,15 @@ pergamentti - pergamin
 perhe - rodzina
 perhonen - motyl
 perhosentoukka - gąsienica
-periaate - zasada | reguła
+periaate - zasada, reguła
 perijä - spadkobierca
 perinne - tradycja
 perinnöllinen - dziedziczny
-perinpohjaisesti - dokładnie | gruntownie
+perinpohjaisesti - dokładnie, gruntownie
 perinteisesti - tradycyjnie
 perintö - spadek
 perjantai - piątek
-perkele - niech to diabli | do diabła | diabeł | szatan | demon
+perkele - niech to diabli, do diabła, diabeł, szatan, demon
 perse - dupa
 persikka - brzoskwinia
 persilja - pietruszka
@@ -4344,21 +4344,21 @@ personifiointi - personifikacja
 personointi - personifikacja
 persoonallisuus - osobowość
 Peru - Peru
-peruna - ziemniak | kartofel
+peruna - ziemniak, kartofel
 perustaja - założyciel
 perustavanlaatuinen - podstawowy
-perusteellisesti - dokładnie | gruntownie
-peruuttaa - anulować | cofnąć | przerwać | odwołać
+perusteellisesti - dokładnie, gruntownie
+peruuttaa - anulować, cofnąć, przerwać, odwołać
 perversio - perwersja
 pesä - gniazdo
 pessimismi - pesymizm
-pestä - myć | prać
+pestä - myć, prać
 pesuaine - środek piorący
 pesuallas - umywalka
 pesukarhu - szop pracz
 pesukone - pralka
 petkuttaa - oszukiwać
-petoeläin - zwierzę drapieżne | drapieżca
+petoeläin - zwierzę drapieżne, drapieżca
 Petra - Piotra (imię żeńskie)
 Petroskoi - Pietrozawodsk
 Petteri - Piotr
@@ -4371,51 +4371,51 @@ pian - wkrótce
 pianisti - pianista
 piano - pianino
 piekana - myszołów włochaty
-pieli - futryna | framuga
+pieli - futryna, framuga
 pieneliö - mikroorganizm
 pieni - mały
-piennar - pobocze | skraj drogi
-pieru - gaz jelitowy | pierdnięcie
+piennar - pobocze, skraj drogi
+pieru - gaz jelitowy, pierdnięcie
 Pietari - Sankt Petersburg
 pigmentti - barwnik
 pihka - żywica
 Pihkova - Psków
 pihlaja - jarzębina
 pihvi - befsztyk
-pii - krzem | liczba π (pi)
-piikki - kolec | cierń
+pii - krzem, liczba π (pi)
+piikki - kolec, cierń
 piikkisika - jeżozwierz
 piili - strzała
 piilolinssi - soczewka kontaktowa
-piilottaa - ukryć | schować
-piimä - zsiadłe mleko | kwaśne mleko | maślanka
-piina - męka | katusze | kaźń | tortura
-piippu - fajka | komin
+piilottaa - ukryć, schować
+piimä - zsiadłe mleko, kwaśne mleko, maślanka
+piina - męka, katusze, kaźń, tortura
+piippu - fajka, komin
 piirakka - pieróg
-piiri - koło | krąg | strefa | obszar | region | okręg | rejon | rewir
+piiri - koło, krąg, strefa, obszar, region, okręg, rejon, rewir
 piirikunta - hrabstwo
 piironki - komoda
-piirros - rysunek | szkic
-piirtää - rysować | szkicować
-piirtäjä - rysownik | rysowniczka
+piirros - rysunek, szkic
+piirtää - rysować, szkicować
+piirtäjä - rysownik, rysowniczka
 piisku - nawłoć
 piispa - biskup
 pikainen - szybki
 pikapikaa - szybko
 pikari - kielich
-pikku - mały | maleńki
+pikku - mały, maleńki
 pikku- - mały
-pikkuhuitti - zielonka | kureczka zielonka
+pikkuhuitti - zielonka, kureczka zielonka
 pikkujoutsen - łabędź mały
 pikkukajava - mewa trójpalczasta
 pikkukäpylintu - krzyżodziób świerkowy
 pikkukiislanen - nurniczek malutki
 pikkukiljukotka - orlik krzykliwy
 pikkukylä - wioska
-pikkulepinkäinen - dierzba gąsiorek | gąsiorek
+pikkulepinkäinen - dierzba gąsiorek, gąsiorek
 pikkulokki - mewa mała
 pikkuraha - drobne
-pikkuruokki - alczyk | traczyk | traczyk lodowy
+pikkuruokki - alczyk, traczyk, traczyk lodowy
 pikkusieppo - muchołówka mała
 pikkusirri - biegus malutki
 pikkutelkkä - gągołek
@@ -4430,9 +4430,9 @@ pilkkaniska - uhla pstrodzioba
 pilkkasiipi - uhla
 pilleri - pigułka
 pilli - gwizdek
-pillu - pizda | cipa
+pillu - pizda, cipa
 pilvenpiirtäjä - wieżowiec
-pilvi - chmura | marihuana
+pilvi - chmura, marihuana
 pilvinen - pochmurny
 pimeä - ciemny
 pimennys - zaćmienie
@@ -4441,47 +4441,47 @@ pinaatti - szpinak
 pingviini - pingwin
 pinta - powierzchnia
 pippuri - pieprz
-piru - diabeł | pirun
+piru - diabeł, pirun
 pisama - pieg
 pisara - kropla
 pistää - kłuć
 piste - kropka
 pitää - lubić
-pitkä - długi | wysoki
+pitkä - długi, wysoki
 pitkäjalka - szczudłak
 pitsa - pizza
 pittoreski - malowniczy
 Pittsburgh - Pittsburgh (stolica Allegheny)
-pituus - długość | wzrost | długość geograficzna
+pituus - długość, wzrost, długość geograficzna
 pituushyppy - skok w dal
 piukka - ciasny
-pivo - dłoń | garść
+pivo - dłoń, garść
 pizza - pizza
 planeetta - planeta
 plantaasi - plantacja
 platina - platyna
 pluraali - liczba mnoga
 plutonium - pluton
-pöheikkö - zarośla | gąszcz
+pöheikkö - zarośla, gąszcz
 pohjankiisla - nurzyk polarny
 Pohjanlahti - Zatoka Botnicka
 Pohjanmeri - Morze Północne
-pohjansirkku - trznadel czubaty | trznadel trzypręgowy
+pohjansirkku - trznadel czubaty, trznadel trzypręgowy
 pohjantikka - dzięcioł trójpalczasty
 pohje - łydka
-pohjoinen - północ | północny
+pohjoinen - północ, północny
 Pohjoinen jäämeri - Ocean Arktyczny
 Pohjois-Amerikka - Ameryka Północna
 Pohjois-Korea - Korea Północna
 pohjoisnapa - biegun północny
 pohjoissaame - język północnolapoński
-poiju - boja | pława
-poika - chłopiec | chłopak | syn
+poiju - boja, pława
+poika - chłopiec, chłopak, syn
 poikapuoli - pasierb
-poikaystävä - chłopak | narzeczony | ukochany
-poikia - mieć młode | cielić się | kocić się
+poikaystävä - chłopak, narzeczony, ukochany
+poikia - mieć młode, cielić się, kocić się
 poikkeus - wyjątek
-poikue - lęg | miot
+poikue - lęg, miot
 poissaoleva - nieobecny
 pokeri - poker
 poliisi - policja
@@ -4500,14 +4500,14 @@ polonium - polon
 polttaa - spalić
 polttoaine - paliwo
 polvi - kolano
-pöly - kurz | pył
+pöly - kurz, pył
 polygamia - poligamia
 pölyinen - zakurzony
 polyteismi - politeizm
 polyyppi - polip
 pommi - bomba
 pommittaa - bombardować
-pommittaja - bombowiec | osoba podkładająca bombę
+pommittaja - bombowiec, osoba podkładająca bombę
 poni - kucyk
 poppeli - topola
 populariteetti - popularność
@@ -4515,7 +4515,7 @@ pora - wiertło
 porkkana - marchew
 pornografia - pornografia
 poro - renifer
-poronhoito - hodowla reniferów | zajmowanie się wypasającymi się swobodnie satadami reniferów hodowlanych | pasterstwo reniferów
+poronhoito - hodowla reniferów, zajmowanie się wypasającymi się swobodnie satadami reniferów hodowlanych, pasterstwo reniferów
 poronhoitoalue - strefa wypasu reniferów
 porsas - prosię
 portaikko - schody
@@ -4527,26 +4527,26 @@ poski - policzek
 posliini - porcelana
 possunliha - wieprzowina
 posti - poczta
-postikortti - kartka pocztowa | pocztówka
+postikortti - kartka pocztowa, pocztówka
 postilla - postylla
 postimerkkeilijä - filatelista
 postimerkki - znaczek pocztowy
-postpositio - poimek | postpozycja
+postpositio - poimek, postpozycja
 potentiaalinen - potencjalny
 potilas - pacjent
 potkaisu - kopniak
 potku - kopniak
-potkuri - śruba napędowa | śmigło
+potkuri - śruba napędowa, śmigło
 potretti - portret
 pötsi - żwacz
 pöty - nonsens
 pouta - pogoda bez deszczu
-povaaja - wróż | wróżka
-povi - pierś | biust
+povaaja - wróż, wróżka
+povi - pierś, biust
 pöyheä - puszysty
 pöytä - stół
 pöytäliina - obrus
-PP - polipropylen | celownik kolimatorowy
+PP - polipropylen, celownik kolimatorowy
 pragmaattinen - pragmatyczny
 praseodyymi - prazeodym
 predikaatti - orzeczenie
@@ -4586,39 +4586,39 @@ psykologi - psycholog
 psykologia - psychologia
 psykologinen - psychologiczny
 Ptah - Ptah
-pudota - upadać | spadać | padać
+pudota - upadać, spadać, padać
 puhdas - czysty
 puhdistaa - czyścić
-puhe - mowa | przemowa
+puhe - mowa, przemowa
 puheenparsi - idiom
-puhekielinen - kolokwialny | potoczny
+puhekielinen - kolokwialny, potoczny
 puhelias - rozmowny
 puhelin - telefon
 puhetaito - retoryka
-puhjeta - pękać | pęknąć
+puhjeta - pękać, pęknąć
 puhua - mówić
-puhuja - mówca | spiker
+puhuja - mówca, spiker
 puida - młócić
 puinen - drewniany
 puisto - park
 pujo - bylica pospolita
-pulla - bułka | bułeczka
+pulla - bułka, bułeczka
 pullo - butelka
-pulma - trudność | problem
+pulma - trudność, problem
 pulmunen - śnieguła
 pulmussirri - piaskowiec
-pulska - pulchny | grubiutki | tęgi | korpulentny | mięsisty (
+pulska - pulchny, grubiutki, tęgi, korpulentny, mięsisty (
 pultti - trzpień śruby
 pulveri - proszek
-puna - czerwień | kolor czerwony
+puna - czerwień, kolor czerwony
 punainen - czerwony (kolor)
-punajalkaviklo - krwawodziób | brodziec krwawodzioby
+punajalkaviklo - krwawodziób, brodziec krwawodzioby
 punajuuri - burak czerwony
 punakaali - czerwona kapusta
 punakaulahanhi - bernikla rdzawoszyja
-punakottarainen - pasterz | pasterz różowy
+punakottarainen - pasterz, pasterz różowy
 punakuiri - szlamnik
-punakylkirastas - droździk | drozd rdzawoboczny
+punakylkirastas - droździk, drozd rdzawoboczny
 punanokkakiislanen - nurniczek krasnodzioby
 punapäänarsku - hełmiatka
 punarinta - rudzik
@@ -4627,16 +4627,16 @@ punasotka - głowienka
 punatulkku - gil
 punavarpunen - dziwonia
 punaviini - czerwone wino
-puola - język polski | polszczyzna | szczebel | szpulka | szprycha | borówka
+puola - język polski, polszczyzna, szczebel, szpulka, szprycha, borówka
 Puola - Polska
-puolalainen - Polak | polski
+puolalainen - Polak, polski
 Puolanka - Puolanka
 puolanvinttikoira - chart polski
-puoli - połowa | stanowiący połowę
+puoli - połowa, stanowiący połowę
 puolipiste - średnik
-puolisko - połowa | półkula
+puolisko - połowa, półkula
 puoliyö - północ
-puoltaa - bronić | wstawiać się | ująć się | orędować
+puoltaa - bronić, wstawiać się, ująć się, orędować
 puolue - partia
 puolukka - borówka brusznica
 puoskari - znachor
@@ -4646,31 +4646,31 @@ purje - żagiel
 purjevene - żaglówka
 purkurauta - łom
 purnukka - słoik
-puro - strumień | strumyk | potok
-purra - gryźć | kąsać
+puro - strumień, strumyk, potok
+purra - gryźć, kąsać
 pursimies - bosman
 purukumi - guma do żucia
 pusero - bluza
-puskikko - zarośla | gąszcz
+puskikko - zarośla, gąszcz
 puskutraktori - buldożer
-pussi - torba | torebka | worek
+pussi - torba, torebka, worek
 pussijuoksu - wyścig w workach
 pussikarhu - koala
 pussitiainen - remiz
-pusu - buziak | całus | cmok | dziubek
+pusu - buziak, całus, cmok, dziubek
 putkimies - hydraulik
-puu - drzewo | drewno
+puu - drzewo, drewno
 puudeli - pudel
-puuhanhi - bezpłetwiec | gęś skąpopłetwa
+puuhanhi - bezpłetwiec, gęś skąpopłetwa
 puuhiili - węgiel drzewny
 puukiipijä - pełzacz leśny
-puukko - nóż fiński | finka
+puukko - nóż fiński, finka
 puuro - owsianka
-puuseppä - cieśla | stolarz
-puutarha - ogród | sad
+puuseppä - cieśla, stolarz
+puutarha - ogród, sad
 puutos - niedobór
-puuttua - brakować | ingerować | wtrącać się | przerywać
-puuttuminen - brak | niedostatek
+puuttua - brakować, ingerować, wtrącać się, przerywać
+puuttuminen - brak, niedostatek
 puuvilla - bawełna
 pyhä - święty
 pyhättö - świątynia
@@ -4678,7 +4678,7 @@ pyhiinvaellusmatka - pielgrzymka
 pyhiinvaeltaja - pielgrzym
 pyhimys - święty
 pyjama - piżama
-pylväs - filar | kolumna
+pylväs - filar, kolumna
 pyökki - buk
 pyörä - koło
 pyörätuoli - wózek inwalidzki
@@ -4686,34 +4686,34 @@ pyöreä - okrągły
 pyöveli - kat
 pyromaani - piroman
 pyromania - piromania
-pyrstö - ogon | płetwa
+pyrstö - ogon, płetwa
 pyrstösammakko - salamandra
 pyrstötähti - kometa
 pyrstötiainen - raniuszek
 pysäkki - przystanek
 pyssy - strzelba
-pysty- - prosty | stojący
+pysty- - prosty, stojący
 pystysuora - pionowy
 pyton - pyton
 pyy - jarząbek
-pyyhe - ręcznik | ścierka
+pyyhe - ręcznik, ścierka
 pyyheliina - ręcznik
 pyyjuoksija - przepiórnik
-pyykki - pranie | brudna bielizna | kamień graniczny
+pyykki - pranie, brudna bielizna, kamień graniczny
 Qatar - Katar
 raadollinen - pozbawiony skrupułów
 raaja - kończyna
 Raamattu - Biblia
 raana - kran
 raastin - tarka
-raatihuone - ratusz | urząd miejski
+raatihuone - ratusz, urząd miejski
 raavaanliha - wołowina
 rabbi - rabin
 rabbiini - rabin
 radiaatio - promieniowanie
 radio - radio
 radioaktiivinen - radioaktywny
-radioaktiivisuus - radioaktywność | promieniotwórczość
+radioaktiivisuus - radioaktywność, promieniotwórczość
 radium - rad
 radon - radon
 rae - grad
@@ -4724,35 +4724,35 @@ rahtitavara - towar
 raikas - świeży
 raitiovaunu - tramwaj
 raivaustraktori - buldożer
-raivo - wściekłość | szał | wściekły
-raja - granica | bariera
-räjähdys - wybuch | eksplozja
+raivo - wściekłość, szał, wściekły
+raja - granica, bariera
+räjähdys - wybuch, eksplozja
 rajaseutu - granica
-rajoittaa - ograniczać | ograniczyć
-raju - gwałtowny | wściekły | szalony
+rajoittaa - ograniczać, ograniczyć
+raju - gwałtowny, wściekły, szalony
 rajuilma - burza
 rakastaa - kochać
 räkättirastas - kwiczoł
 rakennus - budynek
-rakentaa - budować | konstruować | wznosić
+rakentaa - budować, konstruować, wznosić
 raketti - rakieta
 rakkaus - miłość
 rakko - pęcherz
-räme - bagno | moczary
+räme - bagno, moczary
 rangaista - karać
 rankaisemattomuus - bezkarność
 rankaisu - kara
-rankka - silny | gwałtowny
+rankka - silny, gwałtowny
 ranne - nadgarstek
 rannikko - wybrzeże
 ranska - francuski
 Ranska - Francja
-ranskalainen - Francuz | Francuzka | francuski
-ranta - plaża | wybrzeże | brzeg rzeki
+ranskalainen - Francuz, Francuzka, francuski
+ranta - plaża, wybrzeże, brzeg rzeki
 räntä - deszcz ze śniegiem
 rantakurvi - terekia
 räntäsade - deszcz ze śniegiem
-rantasipi - kuliczek | kuliczek piskliwy
+rantasipi - kuliczek, kuliczek piskliwy
 rapakko - kałuża
 rapsi - rzepak
 rapu - rak
@@ -4769,19 +4769,19 @@ rata - tor
 ratifiointi - ratyfikacja
 rationalismi - racjonalizm
 ratkaista - decydować
-ratsuväki - kawaleria | konnica
+ratsuväki - kawaleria, konnica
 ratto - przyjemność
-rauha - spokój | harmonia
+rauha - spokój, harmonia
 rauhaisa - pokojowy
 rauhanen - gruczoł
-raukea - zmęczony | wykończony | wycieńczony
+raukea - zmęczony, wykończony, wycieńczony
 raunio - ruina
 rausku - płaszczka
-rauta - żelazo | żelazny kij golfowy | w   kajdany | pęta | w   kajdanki | w   wnyki | hardware | sprzęt
-rautabetoni - żelbeton | żelbet | żelazobeton
-rautainen - żelazny | silny | hardy | zahartowany
+rauta - żelazo, żelazny kij golfowy, w   kajdany, pęta, w   kajdanki, w   wnyki, hardware, sprzęt
+rautabetoni - żelbeton, żelbet, żelazobeton
+rautainen - żelazny, silny, hardy, zahartowany
 rautamalmi - ruda żelaza
-rautatie - kolej (środek transportu) | linia kolejowa
+rautatie - kolej (środek transportu), linia kolejowa
 rautatieasema - dworzec kolejowy
 rautatiekisko - szyna kolejowa
 rautatiesilta - most kolejowy
@@ -4791,12 +4791,12 @@ rautiainen - płochacz pokrzywnica
 rautio - kowal
 ravakka - energiczny
 raviini - wąwóz
-ravinto - pożywienie | pokarm
+ravinto - pożywienie, pokarm
 ravintola - restauracja
-ravita - żywić | odżywiać | karmić
+ravita - żywić, odżywiać, karmić
 räyskä - rybitwa wielkodzioba
-räystäspääsky - jaskółka oknówka | oknówka
-reaalinen - prawdziwy | realny
+räystäspääsky - jaskółka oknówka, oknówka
+reaalinen - prawdziwy, realny
 reaktio - reakcja
 realismi - realizm
 realistinen - realistyczny
@@ -4808,7 +4808,7 @@ regionaalinen - regionalny
 rehabilitaatio - rehabilitacja
 rehabilitointi - rehabilitacja
 rehu - pasza
-reikä - dziura | otwór
+reikä - dziura, otwór
 reinkarnaatio - reinkarnacja
 reipas - energiczny
 reisi - udo
@@ -4817,7 +4817,7 @@ rekryytti - rekrut
 relatiivisuus - względność
 remontti - renowacja
 renium - ren
-rentukka - knieć błotna | kaczeniec
+rentukka - knieć błotna, kaczeniec
 reportaasi - reportaż
 reppu - plecak
 reproduktio - reprodukcja
@@ -4831,11 +4831,11 @@ retikka - rzodkiew
 retoriikka - retoryka
 retsina - retsina
 reuma - reumatyzm
-reuna - brzeg | krawędź
+reuna - brzeg, krawędź
 reversiibeli - odwracalny
 revoluutio - rewolucja
 revolveri - rewolwer
-revonhäntä - szarłat | amarant
+revonhäntä - szarłat, amarant
 revontulet - zorza polarna
 riekko - pardwa mszarna
 riemuvoitto - triumf
@@ -4843,46 +4843,46 @@ rienaus - bluźnierstwo
 Riianlahti - Zatoka Ryska
 Riika - Ryga
 riikinkukko - paw
-riippua - wisieć | zależeć
+riippua - wisieć, zależeć
 riippulukko - kłódka
 riippumattomasti - niezależnie
 riisi - ryż
 riita - kłótnia
-riittää - wystarczyć | starczyć
+riittää - wystarczyć, starczyć
 riittävästi - wystarczająco
 rikas - bogaty
-rikki - wniwecz | w drzazgi | w proch | na kawałki | na pół | na części | siarka
-rikollinen - przestępca | przestępczy | kryminalny
-rikos - zbrodnia | przestępstwo
+rikki - wniwecz, w drzazgi, w proch, na kawałki, na pół, na części, siarka
+rikollinen - przestępca, przestępczy, kryminalny
+rikos - zbrodnia, przestępstwo
 rinkilä - pączek
 rinnastus - porównanie
-rinne - brzeg | skarpa
-rinta - klatka piersiowa | piersi (kobiece)
+rinne - brzeg, skarpa
+rinta - klatka piersiowa, piersi (kobiece)
 rintakoru - broszka
 rintalasta - mostek
 rintaneula - broszka
 rippi - spowiedź
 riskilä - nurnik
-risteilijä - krążownik | jacht wycieczkowy | pojemnik na odpadki w mesie
+risteilijä - krążownik, jacht wycieczkowy, pojemnik na odpadki w mesie
 risti - krzyż
 ristiinnaulitunkuva - krucyfiks
-risukko - zarośla | gąszcz
+risukko - zarośla, gąszcz
 ritari - rycerz
 rituaali - rytuał
 riuska - energiczny
 riutta - rafa
 rivakka - energiczny
-rivi - rząd | szereg | wiersz | linijka
+rivi - rząd, szereg, wiersz, linijka
 rivistö - kolumna
-rivo - sprośny | bezwstydny | frywolny
+rivo - sprośny, bezwstydny, frywolny
 robotti - robot
 rodium - rod
-rohkea - odważny | śmiały | zuchwały
+rohkea - odważny, śmiały, zuchwały
 roju - śmieć
 rokotus - szczepienie
 romania - język rumuński
 Romania - Rumunia
-romanialainen - Rumun | rumuński
+romanialainen - Rumun, rumuński
 romanttinen - romantyczny
 romisko - skrzydłoszpon
 rommi - rum
@@ -4891,11 +4891,11 @@ rontti - łajdak
 rooli - rola
 Rooma - Rzym
 roosa - różowy
-roska - śmieć | odpadek
+roska - śmieć, odpadek
 rosmariini - rozmaryn
 rosvous - rabunek
 rotaatio - obrót
-rotko - rozpadlina | szczelina
+rotko - rozpadlina, szczelina
 rotkolaakso - kanion
 rotta - szczur
 rotu - rasa
@@ -4911,11 +4911,11 @@ ruisrääkkä - derkacz
 rukoushuone - kaplica
 rukousnauha - różaniec
 rullaportaat - schody ruchome
-ruma - brzydki | paskudny | szkaradny | ohydny
+ruma - brzydki, paskudny, szkaradny, ohydny
 rumpu - bęben
 rumuus - brzydota
 runkata - masturbować się
-runko - pień | kadłub
+runko - pień, kadłub
 runo - wiersz
 runoelma - wiersz
 runoilija - poeta
@@ -4925,24 +4925,24 @@ runsas - obfity
 runsaslukuinen - liczny
 ruoansulatus - trawienie
 ruode - żebro
-ruohikko - trawa | trawnik
+ruohikko - trawa, trawnik
 ruoho - trawa
 ruohosipuli - szczypiorek
-ruoka - jedzenie | posiłek
+ruoka - jedzenie, posiłek
 ruokahalu - apetyt
-ruokalaji - danie | potrawa
+ruokalaji - danie, potrawa
 ruokasali - jadalnia
 ruokki - alka
 ruokokerttunen - rokitniczka
 ruokosirkkalintu - brzęczka
-ruori - koło sterowe | ster
+ruori - koło sterowe, ster
 ruoska - bicz
 ruoste - rdza
 ruosteinen - zardzewiały
-ruostesorsa - kazarka | kazarka rdzawa
+ruostesorsa - kazarka, kazarka rdzawa
 ruostua - rdzewieć
 ruoto - ość
-ruotsalainen - szwedzki | Szwed | Szwedka
+ruotsalainen - szwedzki, Szwed, Szwedka
 ruotsi - szwedzki
 Ruotsi - Szwecja
 rupikonna - ropucha
@@ -4950,18 +4950,18 @@ rupla - rubel
 rusakko - zając szarak
 rusetti - muszka
 rusina - rodzynek
-ruskea - brązowy | brunatny
-rusko - zorza | brązowy koń
+ruskea - brązowy, brunatny
+rusko - zorza, brązowy koń
 ruskuainen - żółtko
 rusto - chrząstka
 rutenium - ruten
 rutherfordium - roentgen
 rutjake - łajdak
-rutto - epidemia | zaraza | pomór | dżuma
-ruudikas - silny | mocny
+rutto - epidemia, zaraza, pomór, dżuma
+ruudikas - silny, mocny
 ruuhka - korek
 ruukku - garnek
-ruumis - ciało człowieka | ciało | zwłoki
+ruumis - ciało człowieka, ciało, zwłoki
 ruumisarkku - trumna
 ruusu - róża
 ruuti - proch strzelniczy
@@ -4975,7 +4975,7 @@ ryöväri - rabuś
 rytikerttunen - trzcinniczek
 rytmi - rytm
 sää - pogoda
-saada - otrzymać | dostać | móc | uprawiać seks z kimś (łączy się z przypadkiem Ablatiivi)
+saada - otrzymać, dostać, móc, uprawiać seks z kimś (łączy się z przypadkiem Ablatiivi)
 saaga - saga
 sääksi - rybołów
 šaali - szal
@@ -4984,10 +4984,10 @@ säännöllisyys - regularność
 säännötön - nieregularny
 sääntö - reguła
 sääoppi - meteorologia
-saapas - but (z cholewą) | kozak
-saapua - przybyć | przyjechać | nadejść
+saapas - but (z cholewą), kozak
+saapua - przybyć, przyjechać, nadejść
 saari - wyspa
-sääri - goleń | podudzie | noga
+sääri - goleń, podudzie, noga
 saaristo - archipelag
 saarna - kazanie
 saarnaaja - kaznodzieja
@@ -4995,7 +4995,7 @@ saarnamies - kaznodzieja
 saarni - jesion
 saarto - blokada
 saasta - brud
-saatana - niech to diabli | do diabła | szatan | diabeł
+saatana - niech to diabli, do diabła, szatan, diabeł
 Saatana - szatan
 saatavuus - dostępność
 säätiede - meteorologia
@@ -5006,9 +5006,9 @@ sabotointi - sabotaż
 sadas - setny
 sade - deszcz
 säde - promień
-sadetakki - płaszcz nieprzemakalny | deszczowiec
+sadetakki - płaszcz nieprzemakalny, deszczowiec
 sadismi - sadyzm
-säe - wiersz | wers
+säe - wiersz, wers
 saha - piła
 sahanpuru - trociny
 sähke - telegram
@@ -5016,7 +5016,7 @@ sähkö - elektryczność
 sähköasentaja - elektryk
 sähkömagneettinen - elektromagnetyczny
 sähkömies - elektryk
-sähköposti - poczta elektroniczna | mail | e-mail | wiadomość wysłana za pomocą poczty elektronicznej
+sähköposti - poczta elektroniczna, mail, e-mail, wiadomość wysłana za pomocą poczty elektronicznej
 sähkövirta - prąd elektryczny
 sahrami - szafran
 säihkyjä - sierpodudek
@@ -5024,21 +5024,21 @@ saippua - mydło
 saippuaooppera - opera mydlana
 saippuasarja - opera mydlana
 sairaala - szpital
-sairas - chory | pacjent
+sairas - chory, pacjent
 sairaus - choroba
 saita - skąpy
 saituri - skąpiec
 saivar - gnida
 säkä - kłąb
 säkene - iskra
-sakko - mandat | grzywa
+sakko - mandat, grzywa
 sakramentti - sakrament
 saksa - język niemiecki
 Saksa - Niemcy
-saksalainen - Niemiec | niemiecki
+saksalainen - Niemiec, niemiecki
 Saksan Demokraattinen Tasavalta - Niemiecka Republika Demokratyczna
-saksanhirvi - jeleń | jeleń szlachetny
-Saksan Liittotasavalta - Republika Federalna Niemiec | Niemcy
+saksanhirvi - jeleń, jeleń szlachetny
+Saksan Liittotasavalta - Republika Federalna Niemiec, Niemcy
 sakset - nożyczki
 saksinokka - brzytwodziób
 saksofoni - saksofon
@@ -5049,10 +5049,10 @@ salaisuus - tajemnica
 salakuljettaja - przemytnik
 salama - piorun
 salamoida - błyskać
-salamurha - zamach | morderstwo
+salamurha - zamach, morderstwo
 salaperäinen - tajemniczy
 salasana - hasło
-salko - słup | maszt
+salko - słup, maszt
 salmi - cieśnina
 salo - leśna głusza
 Salomonsaaret - Wyspy Salomona
@@ -5100,38 +5100,38 @@ sappirakko - woreczek żółciowy
 sara - turzyca
 sarakerttunen - wodniczka
 sarana - zawias
-sarastus - świt | brzask
+sarastus - świt, brzask
 sardiini - sardynka
 sarja - seria
 sarkasmi - sarkazm
 sarkastinen - sarkastyczny
-särki - płoć | płotka
+särki - płoć, płotka
 sarkofagi - sarkofag
 särky - ból
 sarvi - róg
 sarvikiisla - nurek
 sarvikuono - nosorożec
 sarvinokka - dzioborożec
-sarvipöllö - sowa uszata | uszatka
+sarvipöllö - sowa uszata, uszatka
 sarvivalas - narwal
-sata - sto (liczba) | 100
+sata - sto (liczba), 100
 sataa - padać (o deszczu, śniegu itp.)
 satakieli - słowik
 satama - port
 sateenkaari - tęcza
 sateenvarjo - parasolka
 säteily - promieniowanie
-sateinen - deszczowy | dżdżysty | obfitujący w opady deszczu
+sateinen - deszczowy, dżdżysty, obfitujący w opady deszczu
 satelliitti - satelita
 satiiri - satyra
 satu - bajka
-satula - siodło | siodełko
+satula - siodło, siodełko
 satunnainen - przypadkowy
 Saudi-Arabia - Arabia Saudyjska
 sauhu - dym
 saukko - wydra
 sauma - szew
-sauna - sauna | łaźnia fińska
+sauna - sauna, łaźnia fińska
 saunoa - zażywać kąpieli w saunie
 saunominen - zażywanie kąpieli w saunie
 sävel - ton
@@ -5141,12 +5141,12 @@ savi - glina
 savu - dym
 savuke - papieros
 savustaa - wędzić
-säyseä - uległy | posłuszny
-se - ono | to
+säyseä - uległy, posłuszny
+se - ono, to
 seaborgium - seaborg
 sedimentti - osad
 seepra - zebra
-seerumi - serum | surowica
+seerumi - serum, surowica
 seikkailija - poszukiwacz przygód
 seikkailu - przygoda
 seinä - ściana
@@ -5155,19 +5155,19 @@ seiska - siódemka
 seisoa - stać
 seitsemän - siedem (cyfra)
 seitsemänkymmentä - siedemdziesiąt
-seitsemänkymmentäkahdeksan - siedemdziesiąt osiem | 78
-seitsemänkymmentäkaksi - siedemdziesiąt dwa | 72
-seitsemänkymmentäkolme - siedemdziesiąt trzy | 73
-seitsemänkymmentäkuusi - siedemdziesiąt sześć | 76
-seitsemänkymmentäneljä - siedemdziesiąt cztery | 74
-seitsemänkymmentäseitsemän - siedemdziesiąt siedem | 77
-seitsemänkymmentäviisi - siedemdziesiąt pięć | 75
-seitsemänkymmentäyhdeksän - siedemdziesiąt dziewięć | 79
-seitsemänkymmentäyksi - siedemdziesiąt jeden | 71
+seitsemänkymmentäkahdeksan - siedemdziesiąt osiem, 78
+seitsemänkymmentäkaksi - siedemdziesiąt dwa, 72
+seitsemänkymmentäkolme - siedemdziesiąt trzy, 73
+seitsemänkymmentäkuusi - siedemdziesiąt sześć, 76
+seitsemänkymmentäneljä - siedemdziesiąt cztery, 74
+seitsemänkymmentäseitsemän - siedemdziesiąt siedem, 77
+seitsemänkymmentäviisi - siedemdziesiąt pięć, 75
+seitsemänkymmentäyhdeksän - siedemdziesiąt dziewięć, 79
+seitsemänkymmentäyksi - siedemdziesiąt jeden, 71
 seitsemäntoista - siedemnaście
 seitsemäs - siódmy
 seiväshyppy - skok o tyczce
-sekä - i | oraz
+sekä - i, oraz
 sekasortoinen - chaotyczny
 seksi - seks
 seksismi - seksizm
@@ -5182,14 +5182,14 @@ seleeni - selen
 selitys - wyjaśnienie
 selkä - plecy
 selkäranka - kręgosłup
-selkeys - klarowność | przejrzystość
-sellainen - taki | tego rodzaju
+selkeys - klarowność, przejrzystość
+sellainen - taki, tego rodzaju
 selleri - seler
 sello - wiolonczela
 sellofaani - celofan
 semanttinen - semantyczny
 sementti - cement
-sen - tego | jego
+sen - tego, jego
 senaattori - senator
 Senegal - Senegal
 seniili - starczy
@@ -5199,35 +5199,35 @@ sentrifugi - wirówka
 sentti - cent
 senttimetri - centymetr
 sepelhanhi - bernikla obrożna
-sepelkyyhky - gołąb grzywacz | grzywacz
+sepelkyyhky - gołąb grzywacz, grzywacz
 sepelrastas - drozd obrożny
 seppä - kowal
 seppele - wianek
 Serbia - Serbia
 Serbia ja Montenegro - Serbia i Czarnogóra
 seremonia - ceremonia
-serkku - kuzyn | kuzynka
+serkku - kuzyn, kuzynka
 setä - wujek
 seteli - banknot
 seula - sito
-seuraaja - zwolennik | następca
-seuraava - następny | kolejny
+seuraaja - zwolennik, następca
+seuraava - następny, kolejny
 seurailija - zwolennik
 Seychellit - Seszele
 sfääri - sfera
 shakki - szachy
 sharon - persymona
 sheriffi - szeryf
--si - twój | twoja | twoje
+-si - twój, twoja, twoje
 sianliha - wieprzownia
 side - bandaż
 siellä - tam
 sielu - dusza
 sielutiede - psychologia
-siemen - nasienie | nasiono
+siemen - nasienie, nasiono
 sieni - grzyb
 sienitiede - mykologia
-siepata - chwycić | pochwycić
+siepata - chwycić, pochwycić
 sieppo - muchołówka
 sierain - nozdrze
 Sierra Leone - Sierra Leone
@@ -5235,24 +5235,24 @@ signaali - sygnał
 sihteeri - sekretarka
 siika - sieja
 siili - jeż
-siinä paha missä mainitaan - o wilku mowa | tam zły gdzie go wspomniano
+siinä paha missä mainitaan - o wilku mowa, tam zły gdzie go wspomniano
 siipi - skrzydło
 siirappi - syrop
-siirtää - przesunąć | przestawić | przenieść na inne miejsce
+siirtää - przesunąć, przestawić, przenieść na inne miejsce
 siirtokunta - kolonia
 siirtolainen - imigrant
 siirtomaa - kolonia
-siis - więc | zatem
+siis - więc, zatem
 siitin - penis
 siittää - zapładniać
-siivekäs - skrzydlaty | ptak
+siivekäs - skrzydlaty, ptak
 siivetönruokki - alka olbrzymia
 siivilä - sito
 sika - świnia
-sikala - chlew | chlewnia | świniarnia
+sikala - chlew, chlewnia, świniarnia
 sikari - cygaro
 sikhiläisyys - sikhizm
-sikiö - zarodek | embrion | płód
+sikiö - zarodek, embrion, płód
 sikotauti - świnka
 sikseen - na bok
 sikuri - cykoria
@@ -5264,7 +5264,7 @@ silkkiäistoukka - jedwabnik
 silkkinen - jedwabny
 silkkitoukka - jedwabnik
 silkkiuikku - perkoz dwuczuby
-silloin - wtedy | wówczas
+silloin - wtedy, wówczas
 silloin kun - kiedy
 silmä - oko
 silmälasihaahka - edredon okularowy
@@ -5273,7 +5273,7 @@ silmälasit - okulary
 silmäluomi - powieka
 silmämuna - gałka oczna
 silmäripsi - rzęsa
-silmäys - spojrzenie | rzut oka
+silmäys - spojrzenie, rzut oka
 silminnähtävä - ewidentny
 silta - most
 siluetti - sylwetka
@@ -5292,7 +5292,7 @@ sinipunainen - fioletowy
 sinipyrstö - modraczek
 sinirinta - podróżniczek (Luscinia svecica)
 sinisorsa - krzyżówka
-sinitiainen - sikora modra | modraszka
+sinitiainen - sikora modra, modraszka
 sinkki - cynk
 sinun - twój
 Siperia - Syberia
@@ -5301,7 +5301,7 @@ siperiantavi - cyranka syberyjska
 sipinä - szept
 sipuli - cebula
 sirittäjä - świstunka leśna
-sirkku - ptak z rodziny trznadlowatych rodzaju | trznadel
+sirkku - ptak z rodziny trznadlowatych rodzaju, trznadel
 sirkus - cyrk
 sirri - biegus
 sisäinen - wewnętrzny
@@ -5314,7 +5314,7 @@ sisko - siostra
 sissi - partyzant
 sisus - wnętrze
 Sisyfos - Syzyf
-sitoa - wiązać | związywać
+sitoa - wiązać, związywać
 sitruuna - cytryna
 sitruunamehu - sok cytrynowy
 siunaus - błogosławieństwo
@@ -5338,12 +5338,12 @@ slovakki - język słowacki
 Slovenia - Słowenia
 smaragdi - szmaragd
 smetana - śmietana
-sohva - sofa | kanapa
+sohva - sofa, kanapa
 soijakastike - sos sojowy
 soikea - owalny
 soikio - owal
-soittaa - grać (na instrumencie) | dzwonić (do kogoś)
-sokea - ślepy | niewidomy
+soittaa - grać (na instrumencie), dzwonić (do kogoś)
+sokea - ślepy, niewidomy
 sokeasti - ślepo
 sokeri - cukier
 sokeritoukka - rybik cukrowy
@@ -5370,17 +5370,17 @@ sorkka - racica
 sormi - palec
 sormus - pierścień (biżuteria)
 sormustin - naparstek
-sorsa - kaczka pływająca | kaczka właściwa | kaczka
+sorsa - kaczka pływająca, kaczka właściwa, kaczka
 sosialismi - socjalizm
 sosialistinen - socjalistyczny
 Sosialististen Neuvostotasavaltojen Liitto - Związek Socjalistycznych Republik Radzieckich
 sosiologi - socjolog
 sosiologia - socjologia
 sota - wojna
-sotilaallinen - wojskowy | militarny
-sotilas - żołnierz | pionek
-sotka - kaczka nurkująca | grążyca
-soturi - żołnierz | wojownik
+sotilaallinen - wojskowy, militarny
+sotilas - żołnierz, pionek
+sotka - kaczka nurkująca, grążyca
+soturi - żołnierz, wojownik
 soutaa - wiosłować
 spesialisti - specjalista
 spesifikaatio - specyfikacja
@@ -5404,20 +5404,20 @@ strontium - stront
 strutsi - struś
 strykniini - strychnina
 substantiivi - rzeczownik
-subtrooppinen - subtropikalny | podzwrotnikowy
+subtrooppinen - subtropikalny, podzwrotnikowy
 Sudan - Sudan
 sudenkorento - ważka
 suhteellisesti - względnie
 suhteellisuus - względność
-suhteen - ze względu na | odnośnie do
+suhteen - ze względu na, odnośnie do
 suihkukaivo - fontanna
 suihkulähde - fontanna
-suippo - szpiczasty | ostry
+suippo - szpiczasty, ostry
 suippopyrstösirri - biegus ostrosterny
 suitsuke - kadzidło
 sukellusvene - łódź podwodna
 sukeltaja - nurek
-sukka - skarpeta | skarpetka
+sukka - skarpeta, skarpetka
 sukki - pagórek
 suklaa - czekolada
 suksi - narta
@@ -5430,33 +5430,33 @@ sukututkija - genealog
 sukututkimus - genealogia
 sulka - pióro
 sulo - wdzięk
-suloinen - słodki | uprzejmy | uroczy | miły
+suloinen - słodki, uprzejmy, uroczy, miły
 sulttaani - sułtan
 sumu - mgła
 sunnuntai - niedziela
 suo - bagno
 suodattaa - filtrować
 suohaukka - błotniak
-suoja - ochrona | osłona | schron | schronienie | odwilż | ocieplenie
-suojasää - odwilż | ocieplenie
-suojata - chronić | strzec | bronić | osłaniać
-suojelus - ochrona | opieka
+suoja - ochrona, osłona, schron, schronienie, odwilż, ocieplenie
+suojasää - odwilż, ocieplenie
+suojata - chronić, strzec, bronić, osłaniać
+suojelus - ochrona, opieka
 suojelusenkeli - Anioł Stróż
-suokukko - batalion | bojownik
+suokukko - batalion, bojownik
 suola - sól
 suolainen - solony
 suoli - jelito
 suomalainen - Fin
 suomen kieli - język fiński
-suomenkielinen - fiński | fińskojęzyczny | w języku fińskim | mówiący po fińsku
+suomenkielinen - fiński, fińskojęzyczny, w języku fińskim, mówiący po fińsku
 Suomenlahti - Zatoka Fińska
 Suomen tasavalta - Republika Finlandii
 suomi - język fiński
 Suomi - Finlandia
 suomu - łuska
-suomuurain - moroszka | malina moroszka
+suomuurain - moroszka, malina moroszka
 suoni - naczynie krwionośne
-suopöllö - sowa błotna | uszatka błotna
+suopöllö - sowa błotna, uszatka błotna
 suorakulmio - prostokąt
 suosio - popularność
 suosirri - biegus zmienny
@@ -5465,25 +5465,25 @@ suosittaa - zalecać
 suosittelija - sędzia
 supattaa - szeptać
 supermarket - supermarket
-supina - szeptanie | szemranie
+supina - szeptanie, szemranie
 suppilo - lejek
 Suriname - Surinam
 surrealistinen - surrealistyczny
-suru - żal | smutek | żałoba
+suru - żal, smutek, żałoba
 suruaika - żałoba
-surullinen - smutny | przygnębiony
+surullinen - smutny, przygnębiony
 surullisenkuuluisa - niesławny
 surullisuus - smutek
 susi - wilk
 susikoira - wilczur
 suu - usta
-suudella - całować | pocałować
+suudella - całować, pocałować
 suudelma - pocałunek
 suula - głuptak
 suulake - dysza
-suunnitelma - projekt | plan
+suunnitelma - projekt, plan
 suunta - kierunek
-suuntaus - trend | orientacja
+suuntaus - trend, orientacja
 suura - sura
 suurelta osin - głównie
 suurenmoinen - wspaniały
@@ -5492,20 +5492,20 @@ suurennuslasi - lupa
 suuri - duży
 suurlähetystö - ambasada
 suuseksi - seks oralny
-suutari - lin | szewstwo
-suvanto - szeroki i głęboki odcinek koryta rzeki | w którym woda płynie bardzo wolnym nurtem
+suutari - lin, szewstwo
+suvanto - szeroki i głęboki odcinek koryta rzeki, w którym woda płynie bardzo wolnym nurtem
 suvereenisuus - suwerenność
 suvereniteetti - suwerenność
 suvi - lato
 Sveitsi - Szwajcaria
 sydän - serce
 sydänyö - północ
-syfilis - syfilis | kiła
+syfilis - syfilis, kiła
 syke - puls
 sykloni - cyklon
 syksy - jesień
 syksyinen - jesienny
-syleily - uścisk | objęcie
+syleily - uścisk, objęcie
 sylki - ślina
 symboli - symbol
 symbolinen - symboliczny
@@ -5524,7 +5524,7 @@ syntymäpäivä - urodziny
 syödä - jeść
 syönti - jedzenie
 syöpä - rak
-syötti - przynęta | wabik
+syötti - przynęta, wabik
 sysi - węgiel drzewny
 systeemi - system
 systemaattinen - systematyczny
@@ -5532,18 +5532,18 @@ systematiikka - systematyka
 systematisoida - organizować
 sytologia - cytologia
 syvä - głęboki
-syy - przyczyna | powód | wina | motyw | pobudka
-syyhy - świerzb | swędzenie
+syy - przyczyna, powód, wina, motyw, pobudka
+syyhy - świerzb, swędzenie
 syylä - brodawka
 Syyria - Syria
 syyskuu - wrzesień
-taakka - ciężar | brzemię
-täällä - tutaj | tu
+taakka - ciężar, brzemię
+täällä - tutaj, tu
 taannoin - ostatnio
-taas - znowu | znów | od nowa
+taas - znowu, znów, od nowa
 taateli - daktyl
 taatusti - na pewno
-tabletti - tabletka | pastylka
+tabletti - tabletka, pastylka
 tabu - tabu
 tadikko - widły
 Tadžikistan - Tadżykistan
@@ -5556,39 +5556,39 @@ tähtitiede - astronomia
 tähtitieteellinen - astronomiczny
 tähtitieteilijä - astronom
 tähtitorni - obserwatorium
-tahtoa - chcieć | mieć ochotę | życzyć sobie | zamierzać
-tai - lub | albo
+tahtoa - chcieć, mieć ochotę, życzyć sobie, zamierzać
+tai - lub, albo
 täi - wesz
 taide - sztuka
 taifuuni - tajfun
 taiga - tajga
-taika - magia | czary | zaklęcie
-taikausko - przesąd | zabobon | gusło
+taika - magia, czary, zaklęcie
+taikausko - przesąd, zabobon, gusło
 taikauskoinen - przesądny
 taikauskoisuus - przesąd
-taikka - lub | albo
-taikuri - mag | czarnoksiężnik
+taikka - lub, albo
+taikuri - mag, czarnoksiężnik
 taikuus - magia
-taimen - troć | pstrąg
+taimen - troć, pstrąg
 taimi - sadzonka
 taistella - walczyć
-taistelu - walka | bitwa
+taistelu - walka, bitwa
 taistelukärki - głowica
 taistelulaiva - pancernik
-taivaanvuohi - bekas kszyk | kszyk
+taivaanvuohi - bekas kszyk, kszyk
 taivas - niebo
 Taiwan - Tajwan
-taju - przytomność | świadomość | zmysł | zrozumienie
+taju - przytomność, świadomość, zmysł, zrozumienie
 tajunta - świadomość
-tajuta - zrozumieć | pojąć
+tajuta - zrozumieć, pojąć
 tajuton - nieprzytomny
 takaisin - z powrotem
 takaisinpäin - do tyłu
-takamus - tyłek | pupa | siedzenie
-takapuoli - tyłek | pupa | siedzenie
+takamus - tyłek, pupa, siedzenie
+takapuoli - tyłek, pupa, siedzenie
 takavarikoida - konfiskować
-takoa - kuć | wykuwać
-takoa silloin kun rauta on kuuma - kuj wtedy gdy żelazo gorące | kuj żelazo, póki gorące
+takoa - kuć, wykuwać
+takoa silloin kun rauta on kuuma - kuj wtedy gdy żelazo gorące, kuj żelazo, póki gorące
 taksa - opłata
 taksi - taksówka
 taksonomia - taksonomia
@@ -5597,50 +5597,50 @@ talitiainen - sikora bogatka
 Tallinna - Tallinn
 tallium - tal
 talo - dom (budynek)
-talonmies - woźny | odźwierny | dozorca | portier
-talous - gospodarka | ekonomia | gospodarstwo
+talonmies - woźny, odźwierny, dozorca, portier
+talous - gospodarka, ekonomia, gospodarstwo
 taltta - dłuto
 talutushihna - smycz
 talvi - zima
 talvinen - zimowy
 talvitakki - płaszcz zimowy
-tämä - ten | ta | to
-tamma - klacz | kobyła
+tämä - ten, ta, to
+tamma - klacz, kobyła
 tammenterho - żołądź
 tammi - dąb
 tammikuu - styczeń
 tammitikka - dzięcioł średni
 Tampere - Tampere
 tänään - dzisiaj
-tanko - żerdź | tyka | drążek
+tanko - żerdź, tyka, drążek
 Tansania - Tanzania
 tanska - język duński
 Tanska - Dania
-tanskalainen - Duńczyk | Dunka | duński
+tanskalainen - Duńczyk, Dunka, duński
 tanssi - taniec
 tanssia - tańczyć
 tantaali - tantal
-tapa - sposób | zwyczaj | obyczaj
+tapa - sposób, zwyczaj, obyczaj
 tapahtua - zdarzyć się
 tapaturmaisesti - przypadkowo
 tapetti - tapeta (papier)
 tappaa - zabić
-tappaa kaksi kärpästä yhdellä iskulla - upiec dwie pieczenie na jednym ogniu | zabić dwie muchy jednym uderzeniem
+tappaa kaksi kärpästä yhdellä iskulla - upiec dwie pieczenie na jednym ogniu, zabić dwie muchy jednym uderzeniem
 tarina - opowieść
 tarinankertoja - gawędziarz
 tarjoilija - kelner
 tarjoilijatar - kelnerka
 tarjokas - wolontariusz
 tärkeä - ważny
-tärkeys - istotność | ważność
+tärkeys - istotność, ważność
 tarkkailija - obserwator
-tarkoittaa - znaczyć | oznaczać | mieć na myśli | rozumieć
+tarkoittaa - znaczyć, oznaczać, mieć na myśli, rozumieć
 tarkoituksellinen - zamierzony
 tärpätti - terpentyna
-tarpeeksi - dość | dosyć
+tarpeeksi - dość, dosyć
 tarpeellinen - konieczny
 tarpeellisuus - konieczność
-tarra - naklejka | nalepka | etykieta samoprzylepna
+tarra - naklejka, nalepka, etykieta samoprzylepna
 tarve - potrzeba
 tarvita - potrzebować
 täry - wibracja
@@ -5653,27 +5653,27 @@ tasavaltainen - republikański
 tasavaltaisuus - republikanizm
 tasavaltalainen - republikański
 tasku - kieszeń
-taskuvaras - kieszonkowiec | złodziej kieszonkowy
+taskuvaras - kieszonkowiec, złodziej kieszonkowy
 täsmälleen - dokładnie
 täsmällisyys - precyzja
 täti - ciocia
 tatuointi - tatuaż
-tauko - przerwa | pauza
-taulu - tablica | tabela | tabelka
+tauko - przerwa, pauza
+taulu - tablica, tabela, tabelka
 tausta - tło
 tauti - choroba
 tautologia - tautologia
-tavallinen - zwykły | standardowy
+tavallinen - zwykły, standardowy
 tavallisesti - zwykle
 tavara - towar
 tavata - spotkać się
 tavi - cyraneczka
 taviokuurna - łuskowiec
-tavu - sylaba | zgłoska | bajt
-täydellinen - perfekcyjny | kompletny | pełny
+tavu - sylaba, zgłoska, bajt
+täydellinen - perfekcyjny, kompletny, pełny
 täysi - pełny
 täysikuu - pełnia księżyca
-täysin - pełno | całkiem
+täysin - pełno, całkiem
 te - wy
 teatteri - teatr
 tee - herbata
@@ -5683,8 +5683,8 @@ teerenpilkku - pieg
 teeri - cietrzew
 tehdä - robić
 tehdas - fabryka
-tehoisa - silny | mocny
-tehtävä - praca | robota | zadanie do wykonania
+tehoisa - silny, mocny
+tehtävä - praca, robota, zadanie do wykonania
 teidän - wasz
 teknetium - technet
 tekniikka - technika
@@ -5692,7 +5692,7 @@ teknillinen - techniczny
 tekninen - techniczny
 teknologinen - techniczny
 tekopyhyys - hipokryzja
-tekovika - defekt | wada
+tekovika - defekt, wada
 teksti - tekst
 tekstiviesti - SMS
 telakka - stocznia
@@ -5701,7 +5701,7 @@ teleskooppi - teleskop
 televisio - telewizja
 telkkä - gągoł
 telluuri - tellur
-teloittaa - dokonać egzekucji | ściąć
+teloittaa - dokonać egzekucji, ściąć
 teloitus - egzekucja
 teltta - namiot
 tennis - tenis
@@ -5727,9 +5727,9 @@ terrorismi - terroryzm
 terska - żołądź ( glans penis)
 terva - smoła
 tervapääsky - jerzyk
-terve - cześć | zdrowy
+terve - cześć, zdrowy
 terveellinen - zdrowy
-tervetuloa - witaj! | witajcie
+tervetuloa - witaj!, witajcie
 terveys - zdrowie
 testi - test
 tetraplegia - tetraplegia
@@ -5739,12 +5739,12 @@ teurastaja - rzeźnik
 teurastamo - rzeźnia
 Thaimaa - Tajlandia
 Thermopylai - Termopile
-tiainen - sikora | sikorka
+tiainen - sikora, sikorka
 tie - droga
 tiede - nauka
 tiedeakatemia - akademia nauk
-tiedekunta - wydział | fakultet
-tiedemies - uczony | naukowiec
+tiedekunta - wydział, fakultet
+tiedemies - uczony, naukowiec
 tiedoton - nieprzytomny
 tietää - wiedzieć
 tieteellinen - naukowy
@@ -5766,7 +5766,7 @@ tiivis - szczelny
 tikari - sztylet
 tikka - dzięcioł
 tikli - szczygieł
-tila - miejsce | położenie | stan | sytuacja
+tila - miejsce, położenie, stan, sytuacja
 tilanne - sytuacja
 tilapäisesti - tymczasowo
 tilhi - jemiołuszka
@@ -5774,19 +5774,19 @@ tiltaltti - pierwiosnek
 timantti - diament
 timjami - tymianek
 tina - cyna
-tinka - kłótnia | niedobór
+tinka - kłótnia, niedobór
 tippuri - rzeżączka
-tipu - kurczę | kurczątko
+tipu - kurczę, kurczątko
 tislata - destylować
-titaani - tytan | potężny człowiek
+titaani - tytan, potężny człowiek
 tiu - 20 sztuk jaj
 tms. - itp.
-todella - naprawdę | rzeczywiście | faktycznie
-todellinen - prawdziwy | faktyczny
+todella - naprawdę, rzeczywiście, faktycznie
+todellinen - prawdziwy, faktyczny
 todellisuus - rzeczywistość
 Togo - Togo
 töhkä - brud
-tohtori - doktor | lekarz
+tohtori - doktor, lekarz
 tohvelieläin - pantofelek
 toiletti - toaleta
 toimisto - biuro
@@ -5795,7 +5795,7 @@ toinen - drugi
 toipilas - rekonwalescent
 toisaalla - gdzie indziej
 toistaa - powtarzać
-toistamiseen - znowu | znów
+toistamiseen - znowu, znów
 toistuvasti - wielokrotnie
 toiviomatka - pielgrzymka
 toiviomatkalainen - pielgrzym
@@ -5807,7 +5807,7 @@ toksikologia - toksykologia
 toksinen - trujący
 toleranssi - tolerancja
 tomaatti - pomidor
-tomu - pył | kurz
+tomu - pył, kurz
 tomuinen - zakurzony
 tomusokeri - cukier puder
 tonnikala - tuńczyk
@@ -5817,9 +5817,9 @@ torakka - karaluch
 torikammo - agorafobia
 torikauhu - agorafobia
 torium - tor
-törmä - stromy urwisty brzeg | klif
+törmä - stromy urwisty brzeg, klif
 törmänne - wał przeciwpowodziowy
-törmäpääsky - jaskółka brzegówka | brzegówka
+törmäpääsky - jaskółka brzegówka, brzegówka
 torni - wieża
 tornipöllö - płomykówka
 torstai - czwartek
@@ -5832,22 +5832,22 @@ tottelemattomuus - nieposłuszeństwo
 tottelevaisuus - posłuszeństwo
 totunnainen - konwencjonalny
 totuus - prawda
-toukka - larwa | gąsienica
+toukka - larwa, gąsienica
 toukokuu - maj
 touvi - cuma
 tovi - moment
-töyhtö - czubek | czub
+töyhtö - czubek, czub
 töyhtöhyyppä - czajka
 töyhtökiislanen - nurniczek czubaty
 töyhtökiuru - dzierlatka
-töyhtölunni - syn. | maskonur złotoczuby
-töyhtötiainen - sikora czubata | czubatka
+töyhtölunni - syn., maskonur złotoczuby
+töyhtötiainen - sikora czubata, czubatka
 traaginen - tragiczny
 traditio - tradycja
-traktori - traktor | ciągnik rolniczy
+traktori - traktor, ciągnik rolniczy
 transistori - tranzystor
 transkriptio - transkrypcja
-translatiivi - ? ? | translativus
+translatiivi - ? ?, translativus
 translitterointi - transliteracja
 Transnistria - Naddniestrze
 transparentti - przeźroczysty
@@ -5864,7 +5864,7 @@ troposfääri - troposfera
 trumpetti - trąbka
 tsaari - car
 Tšad - Czad
-tšekki - Czech | język czeski
+tšekki - Czech, język czeski
 Tšekki - Czechy
 tšekkiläinen - czeski
 Tšekkoslovakia - Czechosłowacja
@@ -5881,14 +5881,14 @@ tuho - zniszczenie
 tuhoaja - niszczyciel
 tuhoisa - destrukcyjny
 tuhooja - niszczyciel
-tuijotella - gapić się | wpatrywać się
-tuijottaa - gapić się | wpatrywać się
-tuisku - śnieżyca | zamieć śnieżna
+tuijotella - gapić się, wpatrywać się
+tuijottaa - gapić się, wpatrywać się
+tuisku - śnieżyca, zamieć śnieżna
 tukaani - tukan
 Tukholma - Sztokholm
-tuki - podpora | opora | oparcie | poparcie | wsparcie
+tuki - podpora, opora, oparcie, poparcie, wsparcie
 tukka - włosy
-tukkakoskelo - szlachar | tracz długodzioby
+tukkakoskelo - szlachar, tracz długodzioby
 tukkasotka - czernica
 tukko - kępka
 tulenlieska - płomień
@@ -5905,7 +5905,7 @@ tulkinta - interpretacja
 tulkki - tłumacz
 tulla - przyjść
 tulli - cło
-tulos - rezultat | wynik
+tulos - rezultat, wynik
 tulostin - drukarka
 tulva - powódź
 tuma - jądro komórkowe
@@ -5919,111 +5919,111 @@ tundraurpiainen - czeczotka tundrowa
 tundravikla - biegus płowy
 tunika - tunika
 Tunisia - Tunezja
-tunkio - nawóz | gnój | gnojowisko
+tunkio - nawóz, gnój, gnojowisko
 tunneli - tunel
 tunnelma - nastrój
 tunnus - numer identyfikacyjny
-tuntea - czuć | wyczuwać | odczuwać | znać | poznać
+tuntea - czuć, wyczuwać, odczuwać, znać, poznać
 tunteikas - emocjonalny
-tuntematon - nieznany | anonimowy
+tuntematon - nieznany, anonimowy
 tunti - godzina
 tunturi - kamienista górska tundra
-tunturihaukka - białozór | sokół norweski
+tunturihaukka - białozór, sokół norweski
 tunturikihu - wydrzyk długosterny
 tunturikiuru - górniczek
 tunturikoivu - brzoza tundrowa
 tunturipöllö - sowa śnieżna
-tuntuvasti - znacząco | istotnie
+tuntuvasti - znacząco, istotnie
 tuo - to
-tuoda - przynieść | przynosić
+tuoda - przynieść, przynosić
 tuohi - kora brzozy
-tuokio - chwilka | moment | momencik
+tuokio - chwilka, moment, momencik
 tuoli - krzesło
 tuomari - sędzia
 tuomiokirkko - katedra
-tuonela - świat zmarłych | zaświaty
+tuonela - świat zmarłych, zaświaty
 tuonti - import
 tuore - świeży
 tuotanto - produkcja
 tuote - produkt
 tuottaja - producent
-tupa - izba | chata | domek
-tupakka - tytoń (roślina) | tytoń (produkt) | papieros
-tupakoida - palić tytoń | palić papierosy
+tupa - izba, chata, domek
+tupakka - tytoń (roślina), tytoń (produkt), papieros
+tupakoida - palić tytoń, palić papierosy
 tuppi - pochwa
 tuppinokka - pochwodziób
 turbaani - turban
 turhauma - frustracja
 turismi - turystyka
 turisti - turysta
-turkinkyyhky - synogarlica | sierpówka
+turkinkyyhky - synogarlica, sierpówka
 turkis - futro
 turkki - futro
 Turkki - Turcja
-turkkilainen - Turek | Turczynka | turecki
+turkkilainen - Turek, Turczynka, turecki
 Turkmenistan - Turkmenistan
-turpa - morda | pysk
+turpa - morda, pysk
 tursas - ośmiornica
 turska - dorsz
-turva - bezpieczeństwo | ochrona
+turva - bezpieczeństwo, ochrona
 turvaisa - bezpieczny
 turvallisesti - bezpiecznie
-turvatyyny - poduszka powietrzna | poduszka bezpieczeństwa
+turvatyyny - poduszka powietrzna, poduszka bezpieczeństwa
 turvavyö - pas bezpieczeństwa
 turve - torf
 tusina - tuzin
-tuska - ból | cierpienie | męka
+tuska - ból, cierpienie, męka
 tuskainen - bolesny
 tuskaisa - bolesny
 tuskallinen - bolesny
 tuskallisesti - boleśnie
-tuskin - ledwie | zaledwie
+tuskin - ledwie, zaledwie
 tutka - radar
-tuttu - znajomy | dobrze znany
-tuuli - wiatr | humor
+tuttu - znajomy, dobrze znany
+tuuli - wiatr, humor
 tuulihaukka - pustułka
 tuulimylly - wiatrak
-tuuma - pomysł | cal
-tuura - narzędzie do odkuwania lodu | czekan
+tuuma - pomysł, cal
+tuura - narzędzie do odkuwania lodu, czekan
 tuutulaulu - kołysanka
 Tuvalu - Tuvalu
-tyhjä - pusty | nic
+tyhjä - pusty, nic
 tyhjiö - próżnia
 tyhmä - głupi
-tykky - ciężki | zmrożony śnieg | osadzający się po dużych opadach na drzewach | liniach energetycznych | płotach itp.
+tykky - ciężki, zmrożony śnieg, osadzający się po dużych opadach na drzewach, liniach energetycznych, płotach itp.
 tylsä - nudny
 työ - praca
 työkalu - narzędzie
-työläs - pracochłonny | żmudny
-työntää - pchać | pchnąć
+työläs - pracochłonny, żmudny
+työntää - pchać, pchnąć
 työpaja - warsztat
 työskennellä - pracować
-typerä - głupi | tępy | ciemny
+typerä - głupi, tępy, ciemny
 typpi - azot
 tyranni - tyran
 tyrannia - tyrania
 tyrannius - tyrania
-tyrmä - cela | więzienie
+tyrmä - cela, więzienie
 tyrskykahlaaja - brzegowiec
 tytär - córka
 tytärpuoli - pasierbica
 tyttö - dziewczyna
 tyttöystävä - dziewczyna
 tyyli - styl
-tyylilaji - gatunek | rodzaj
+tyylilaji - gatunek, rodzaj
 tyynenmerenriskilä - nurnik aleucki
 tyynesti - spokojnie
-Tyynimeri - Ocean Spokojny | Pacyfik
+Tyynimeri - Ocean Spokojny, Pacyfik
 Tyyni valtameri - Ocean Spokojny
 tyyny - poduszka
 tyypillinen - typowy
 Uganda - Uganda
-uhata - grozić | zagrażać
-uhka - groźba | zagrożenie
+uhata - grozić, zagrażać
+uhka - groźba, zagrożenie
 uhkakuva - groźba
 uhkapeluri - hazardzista
 uhkavaatimus - ultimatum
-uhri - ofiara | ofiarowanie
+uhri - ofiara, ofiarowanie
 uida - pływać
 uija - pływak
 uikku - perkoz
@@ -6032,15 +6032,15 @@ uima-allas - basen
 uima-asu - kostium kąpielowy
 uimahalli - basen
 uimahyppääjä - nurek
-uimaranta - plaża | plaża pływacka
+uimaranta - plaża, plaża pływacka
 uimari - pływak
 uinti - pływanie
-uivelo - tracz bielaczek | bielaczek
-ujo - nieśmiały | wstydliwy | bojaźliwy
+uivelo - tracz bielaczek, bielaczek
+ujo - nieśmiały, wstydliwy, bojaźliwy
 ujous - nieśmiałość
-ukko - starzec | dziadek | ojciec | stary | w pełni dojrzały samiec cietrzewia lub głuszca | mąż | małżonek
-Ukko - najważniejszy bóg fińskiej mitologii | fińskie imię męskie
-ukkonen - burza | grom | grzmot
+ukko - starzec, dziadek, ojciec, stary, w pełni dojrzały samiec cietrzewia lub głuszca, mąż, małżonek
+Ukko - najważniejszy bóg fińskiej mitologii, fińskie imię męskie
+ukkonen - burza, grom, grzmot
 ukkosmyrsky - burza
 ukkostaa - grzmieć
 ukonilma - burza
@@ -6048,22 +6048,22 @@ ukonkivi - kwarc
 Ukraina - Ukraina
 ulappakiislanen - nurniczek ciemny
 ulappaliitäjä - burzyk
-uljas - mężny | dzielny | heroiczny | bohaterski | okazały | postawny
-ulkomaalainen - obcokrajowiec | cudzoziemiec
+uljas - mężny, dzielny, heroiczny, bohaterski, okazały, postawny
+ulkomaalainen - obcokrajowiec, cudzoziemiec
 ulkonainen - zewnętrzny
 ulkonäkö - wygląd zewnętrzny
 ulkonaliikkumiskielto - godzina policyjna
 ulkonema - projekcja
 ullakko - strych
 uloskäynti - wyjście
-uloste - kał | stolec | ekskrementy
+uloste - kał, stolec, ekskrementy
 ulottuvuus - wymiar
 ulsteri - płaszcz
 ultimaatumi - ultimatum
 ultravioletti - ultrafiolet
-ulvoa - wyć | ryczeć
-uneksia - śnić | marzyć
-unelias - śpiący | senny
+ulvoa - wyć, ryczeć
+uneksia - śnić, marzyć
+unelias - śpiący, senny
 uni - sen
 unikeko - popielica
 unikko - mak
@@ -6072,10 +6072,10 @@ universumi - wszechświat
 univormu - mundur
 unkari - język węgierski
 Unkari - Węgry
-unkarilainen - Węgier | Węgierka | węgierski
+unkarilainen - Węgier, Węgierka, węgierski
 unohtaa - zapomnieć
 untuva - puch
-upota - utonąć | tonąć | zatonąć
+upota - utonąć, tonąć, zatonąć
 ura - kariera
 uraani - uran
 urbaani - miejski
@@ -6083,7 +6083,7 @@ urbaaninen - miejski
 urheilija - sportowiec
 urheilu - sport
 urheilulaji - sport
-urho - bohater | śmiałek | zuch
+urho - bohater, śmiałek, zuch
 uros - samiec
 urpiainen - czeczotka
 Uruguay - Urugwaj
@@ -6091,7 +6091,7 @@ urut - organy
 -us - -uus
 useaan otteeseen - wielokrotnie
 usein - często
-usko - wiara | religia
+usko - wiara, religia
 uskoa - wierzyć
 uskollinen - wierny
 uskonkappale - dogmat
@@ -6099,7 +6099,7 @@ uskonnollinen - religijny
 uskonnollisesti - religijnie
 uskonto - religia
 utare - wymię
-utelias - ciekawski | ciekawy
+utelias - ciekawski, ciekawy
 utopia - utopia
 utu - zamglenie
 utupilvi - mgła
@@ -6107,16 +6107,16 @@ uudenaikainen - nowoczesny
 uudissana - neologizm
 uudistus - reforma
 uuni - piec
-uupua - zmęczyć się | znużyć się | brakować
+uupua - zmęczyć się, znużyć się, brakować
 uusi - nowy
 uusiminen - odnowienie
 Uusi-Seelanti - Nowa Zelandia
 Uusivuosi - Nowy Rok
-uutinen - nowina | nowinka
-uutiset - wiadomości | nowiny
-uuttukyyhky - gołąb siniak | siniak
+uutinen - nowina, nowinka
+uutiset - wiadomości, nowiny
+uuttukyyhky - gołąb siniak, siniak
 uutukainen - nowy
-uutuus - nowość | nowa rzecz
+uutuus - nowość, nowa rzecz
 Uzbekistan - Uzbekistan
 vaahtera - klon
 vaahto - piana
@@ -6126,17 +6126,17 @@ vaakkua - krakać
 vaakuna - herb
 vaakunaoppi - heraldyka
 vaakunatiede - heraldyka
-vaalea - jasny | blady
-vaaleaihoinen - biały (kolor skóry) | białego koloru skóry
-vaaleanpunainen - różowy | jasno czerwony (kolor)
+vaalea - jasny, blady
+vaaleaihoinen - biały (kolor skóry), białego koloru skóry
+vaaleanpunainen - różowy, jasno czerwony (kolor)
 vaaleaverinen - blond
 vaan - ale
-väärä - niepoprawny | niewłaściwy
+väärä - niepoprawny, niewłaściwy
 vaarallinen - niebezpieczny
 vääräoppinen - heretycki
-vaaraton - niegroźny | nieszkodliwy
+vaaraton - niegroźny, nieszkodliwy
 vääristymä - deformacja
-vaasi - wazon | waza
+vaasi - wazon, waza
 vaatetus - odzież
 vaatturi - krawiec
 vadelma - malina
@@ -6144,54 +6144,54 @@ vadelmahillo - dżem malinowy
 vadelmamehu - sok malinowy
 vaellus - wędrówka
 vaeltaa - wędrować
-vaeltaja - wędrowiec | wędrownik
+vaeltaja - wędrowiec, wędrownik
 väestö - ludność
 väestötiede - demografia
 vaha - wosk
-vähä - mały | niski | mizerny | niedostateczny
-vähän - trochę | mało
+vähä - mały, niski, mizerny, niedostateczny
+vähän - trochę, mało
 vahata - woskować
 vähemmän - mniej
 vähemmistö - mniejszość
 vähennyslasku - odejmowanie
-vähentää - zmniejszać | redukować | odejmować
+vähentää - zmniejszać, redukować, odejmować
 vahinko - szkoda
 vähintään - przynajmniej
-vahva - mocny | silny
-vahvasti - mocno | silnie
-vahvistaa - umocnić | wzmocnić | potwierdzić | zatwierdzić | ratyfikować
+vahva - mocny, silny
+vahvasti - mocno, silnie
+vahvistaa - umocnić, wzmocnić, potwierdzić, zatwierdzić, ratyfikować
 vahviste - wzmocnienie
 vähyys - rzadkość
-vai - lub | albo
-vaihtaa - zmieniać | zamieniać | wymieniać
-vaihto - zamiana | wymiana | zbyt | obrót | przesiadka
-vaihtoehto - alternatywa | opcja | wybór
+vai - lub, albo
+vaihtaa - zmieniać, zamieniać, wymieniać
+vaihto - zamiana, wymiana, zbyt, obrót, przesiadka
+vaihtoehto - alternatywa, opcja, wybór
 vaihtoehtoinen - alternatywny
 väijyntä - zasadzka
 väijytys - zasadzka
-vaikea - trudny | skomplikowany | ciężki
+vaikea - trudny, skomplikowany, ciężki
 vaikeus - trudność
-vaikka - chociaż | choć | przykładowo
+vaikka - chociaż, choć, przykładowo
 vaikute - wpływ
 vaimo - żona
 vain - tylko
-vainaja - trup | nieboszczyk
+vainaja - trup, nieboszczyk
 vaino - prześladowanie
-vaisto - instynkt | popęd
+vaisto - instynkt, popęd
 vaiti - cicho
 vaja - chata
 vaje - deficyt
-vakaa - stabilny | pewny
-vakaasti - stabilnie | niezmiennie
+vakaa - stabilny, pewny
+vakaasti - stabilnie, niezmiennie
 vakava - poważny
 vakavasti - poważnie
-väki - ludność | lud
+väki - ludność, lud
 vakoilija - szpieg
 vakooja - szpieg
 vakuumi - próżnia
 vala - przysięga
-valaisin - lampa | lampka
-valaista - oświecać | oświecić
+valaisin - lampa, lampka
+valaista - oświecać, oświecić
 valas - wieloryb
 valehdella - kłamać
 valehtelija - kłamca
@@ -6200,7 +6200,7 @@ välillinen - pośredni
 Välimeri - Morze Śródziemne
 valintamyymälä - supermarket
 välipala - przekąska
-välissä - między | pomiędzy
+välissä - między, pomiędzy
 välistä - niekiedy
 valita - wybierać
 valitettavasti - niestety
@@ -6214,10 +6214,10 @@ valkopäätiainen - sikora lazurowa
 valkoposkihanhi - bernikla białolica
 valkoselkätikka - dzięcioł białogrzbiety
 valkosipuli - czosnek
-valkosolu - krwinka biała | leukocyt
+valkosolu - krwinka biała, leukocyt
 valkovenäjä - język białoruski
 Valko-Venäjä - Białoruś
-valkoviklo - brodziec kwokacz | kwokacz
+valkoviklo - brodziec kwokacz, kwokacz
 valkuaisaine - białko
 vallankumous - rewolucja
 vallinsarvi - bastion
@@ -6226,15 +6226,15 @@ valmis - gotowy
 valmistaja - producent
 valmistelu - przygotowanie
 valo - światło
-valokuva - fotografia | zdjęcie
+valokuva - fotografia, zdjęcie
 valokuvaaja - fotograf
-valokuvaus - fotografowanie | fotografia
+valokuvaus - fotografowanie, fotografia
 valonnopeus - prędkość światła
 valovuosi - rok świetlny
-valpas - czujny | uważny
-valta - władza | prawo
+valpas - czujny, uważny
+valta - władza, prawo
 valtaistuin - tron
-valtakunta - państwo | kraj
+valtakunta - państwo, kraj
 valtameri - ocean
 valtimo - tętnica
 valtio - państwo
@@ -6247,19 +6247,19 @@ vandalismi - wandalizm
 vanha - stary
 vanheta - starzeć się
 vanhus - stary człowiek
-vanhuus - wiek | podeszły wiek
+vanhuus - wiek, podeszły wiek
 vanilja - wanilia
-vankeus - uwięzienie | niewola
+vankeus - uwięzienie, niewola
 vanki - więzień
 vankila - więzienie
 vankityrmä - loch
 vantti - wanta
 Vanuatu - Vanuatu
-vapaa - wolny | swobodny
+vapaa - wolny, swobodny
 vapaaehtoisesti - dobrowolnie
 vapaaherra - baron
 vapaamielinen - liberalny
-vapaus - wolność | swoboda
+vapaus - wolność, swoboda
 varaani - waran
 värähtely - wibracja
 vararikko - bankructwo
@@ -6267,7 +6267,7 @@ varas - złodziej
 varastaa - kraść
 varhain - wcześnie
 varhainen - wczesny
-väri - kolor | barwa
+väri - kolor, barwa
 variksenpelätin - strach na wróble
 varis - wrona
 värisokeus - daltonizm
@@ -6288,8 +6288,8 @@ varpuspöllö - sóweczka
 varsa - źrebię
 varsijousi - kusza
 Varsova - Warszawa
-vartalo - ciało człowieka | sylwetka
-varten - w celu | dla
+vartalo - ciało człowieka, sylwetka
+varten - w celu, dla
 vartija - strażnik
 vartti - kwadrans
 varuskunta - garnizon
@@ -6314,15 +6314,15 @@ vastaus - odpowiedź
 vaste - reakcja
 vastuuton - nieodpowiedzialny
 vasu - kosz
-väsyä - zmęczyć się | znurzyć się
+väsyä - zmęczyć się, znurzyć się
 väsynyt - zmęczony
-vati - misa | półmisek | miednica
+vati - misa, półmisek, miednica
 Vatikaan - Watykan (państwo)
 Vatikaani - Watykan
 Vatikaanikaupunki - Państwo Watykańskie
 vatsa - brzuch
 vaunu - wagon
-vauva - niemowlę | dziecko
+vauva - niemowlę, dziecko
 vävy - zięć
 vävypoika - zięć
 vedekäs - wodnisty
@@ -6343,21 +6343,21 @@ velka - dług
 venäjä - język rosyjski
 Venäjä - Rosja
 Venäjän federaatio - Federacja Rosyjska
-venäläinen - Rosjanin | rosyjski
+venäläinen - Rosjanin, rosyjski
 vene - łódź
 Venetsia - Wenecja
 Venezuela - Wenezuela
 veranta - weranda
 verbi - czasownik
 verevä - świeży
-verho - zasłona | zasłonka
+verho - zasłona, zasłonka
 veri - krew
 verifikaatio - weryfikacja
 verifikaatti - weryfikacja
 verijuotikas - pijawka lekarska
-verivirtsaisuus - hematuria | krwiomocz
+verivirtsaisuus - hematuria, krwiomocz
 verkkaan - powoli
-verkko - sieć | siatka
+verkko - sieć, siatka
 verkosto - sieć
 vermutti - wermut
 vero - podatek
@@ -6375,11 +6375,11 @@ vesihana - kran
 vesihiihto - narciarstwo wodne
 vesimeloni - arbuz
 vesinokkaeläin - dziobak
-vesipääsky - płatkonóg szydłodzioby | ptak z rodzaju
+vesipääsky - płatkonóg szydłodzioby, ptak z rodzaju
 vesiputous - wodospad
 vesisade - deszcz
 vesitorni - wieża ciśnień
-vesivaaka - poziomica | waserwaga
+vesivaaka - poziomica, waserwaga
 vesivoimala - elektrownia wodna
 vetää - ciągnąć
 veteraani - weteran
@@ -6388,57 +6388,57 @@ vetopeli - akordeon
 vetovoimainen - atrakcyjny
 veturi - lokomotywa
 vety - wodór
-viallinen - wadliwy | ułomny | popsuty | uszkodzony
+viallinen - wadliwy, ułomny, popsuty, uszkodzony
 viattomuus - niewinność
 vibraatio - wibracja
 viehkeästi - wdzięcznie
-viekas - przebiegły | chytry
-viemäri - ściek | kanał
+viekas - przebiegły, chytry
+viemäri - ściek, kanał
 Vienanmeri - Morze Białe
 vieraanvarainen - gościnny
 vieraanvaraisuus - gościnność
 vierailija - gość
-vieras - obcy | nieznany | gość
+vieras - obcy, nieznany, gość
 viereinen - sąsiedni
 vierinkivi - głaz
-viesti - wiadomość | wieść | komunikat | sztafeta
+viesti - wiadomość, wieść, komunikat, sztafeta
 viestintä - komunikacja
 Vietnam - Wietnam
-viha - nienawiść | gniew | złość
-vihainen - zły | rozgniewany
+viha - nienawiść, gniew, złość
+vihainen - zły, rozgniewany
 vihamielinen - wrogi
-vihannes - warzywo | jarzyna
+vihannes - warzywo, jarzyna
 vihata - nienawidzić
-vihdoin - w końcu | nareszcie
+vihdoin - w końcu, nareszcie
 vihellys - gwizdek
 viherpeippo - dzwoniec
 vihertikka - dzięcioł zielony
 vihervarpunen - czyż
 vihko - zeszyt
-vihma - mżawka | drobny deszcz
-vihollinen - wróg | wrogi
+vihma - mżawka, drobny deszcz
+vihollinen - wróg, wrogi
 vihreä - zielony
-vihta - wiązka gałązek brzozowych | którą smaga się ciało w saunie
-vihuri - wichura | porywisty wiatr
-viidakko - zarośla | gąszcz | dżungla | busz
+vihta - wiązka gałązek brzozowych, którą smaga się ciało w saunie
+vihuri - wichura, porywisty wiatr
+viidakko - zarośla, gąszcz, dżungla, busz
 viidakkoveitsi - maczeta
 viides - piąty
 viihde - rozrywka
 viihdyke - hobby
-viihdyttää - zabawiać | dostarczać rozrywki
+viihdyttää - zabawiać, dostarczać rozrywki
 viikate - kosa
 viikko - tydzień
-viikonloppu - weekend | koniec tygodnia
+viikonloppu - weekend, koniec tygodnia
 viikonvaihde - weekend
 viiksi - wąs
-viikuna - figa | figowiec | drzewo figowe
+viikuna - figa, figowiec, drzewo figowe
 viikunanlehti - listek figowy
-viikunapuu - figowiec | drzewo figowe
+viikunapuu - figowiec, drzewo figowe
 viimein - w końcu
 viimeinen - ostatni
 viimeinkin - w końcu
 viime yönä - zeszłej nocy
-viina - wódka | alkohol po destylacji - np. też tequila | grappa
+viina - wódka, alkohol po destylacji - np. też tequila, grappa
 viini - wino
 viinirypäle - winogrono
 Viipuri - Wyborg
@@ -6449,47 +6449,47 @@ viisaus - mądrość
 viisi - pięć (cyfra)
 viisikulmio - pięciokąt
 viisikymmentä - pięćdziesiąt
-viisikymmentäkahdeksan - pięćdziesiąt osiem | 58
-viisikymmentäkaksi - pięćdziesiąt dwa | 52
-viisikymmentäkolme - pięćdziesiąt trzy | 53
-viisikymmentäkuusi - pięćdziesiąt sześć | 56
-viisikymmentäneljä - pięćdziesiąt cztery | 54
-viisikymmentäseitsemän - pięćdziesiąt siedem | 57
-viisikymmentäviisi - pięćdziesiąt pięć | 55
-viisikymmentäyhdeksän - pięćdziesiąt dziewięć | 59
-viisikymmentäyksi - pięćdziesiąt jeden | 51
+viisikymmentäkahdeksan - pięćdziesiąt osiem, 58
+viisikymmentäkaksi - pięćdziesiąt dwa, 52
+viisikymmentäkolme - pięćdziesiąt trzy, 53
+viisikymmentäkuusi - pięćdziesiąt sześć, 56
+viisikymmentäneljä - pięćdziesiąt cztery, 54
+viisikymmentäseitsemän - pięćdziesiąt siedem, 57
+viisikymmentäviisi - pięćdziesiąt pięć, 55
+viisikymmentäyhdeksän - pięćdziesiąt dziewięć, 59
+viisikymmentäyksi - pięćdziesiąt jeden, 51
 viisitoista - piętnaście (liczba)
-viita - gaj | zagajnik | lasek
+viita - gaj, zagajnik, lasek
 viitatiainen - sikora uboga
 viitonen - piątka
 viiva - linia
-vika - błąd | pomyłka | wada | uszkodzenie
+vika - błąd, pomyłka, wada, uszkodzenie
 vikkelästi - szybko
 viklo - brodziec
 vilistäjä - barglik
 vilja - zboże
 viljelijä - rolnik
-viljelmä - plantacja | kultura
+viljelmä - plantacja, kultura
 villa - wełna
 villi - dziki
-vino - krzywy | skośny | pochyły
+vino - krzywy, skośny, pochyły
 vintti - strych
 violetti - fioletowy (kolor)
-vipu - dźwignia | dźwig | winda
+vipu - dźwignia, dźwig, winda
 vipuvarsi - dźwignia
 Viracocha - Wirakocza
 virallinen - oficjalny
 virallisesti - oficjalnie
-virhe - pomyłka | błąd | wada
+virhe - pomyłka, błąd, wada
 viriili - męski
-virike - bodziec | zachęta
+virike - bodziec, zachęta
 virka-asu - mundur
 virkamies - urzędnik
-virke - zdanie | fraza | wyrażenie
+virke - zdanie, fraza, wyrażenie
 viro - język estoński
 Viro - Estonia
 virolainen - estoński
-virta - rzeka | potok | strumień | prąd
+virta - rzeka, potok, strumień, prąd
 virta-alli - kamieniuszka
 virtahepo - hipopotam
 virtamittari - amperomierz
@@ -6508,30 +6508,30 @@ visuaalinen - wizualny
 visusti - blisko
 visva - ropa
 vitriini - gablota
-vittu - pizda | kurwa!
+vittu - pizda, kurwa!
 viulu - skrzypce
-vivahdus - odcień | zabarwienie
+vivahdus - odcień, zabarwienie
 vodka - wódka
 voi - masło
-voida - móc | potrafić
-voikukka - mniszek | mniszek lekarski | mlecz
-voima - moc | siła
-voimakas - silny | mocny
-voimala - elektrownia | elektrociepłownia | siłownia
+voida - móc, potrafić
+voikukka - mniszek, mniszek lekarski, mlecz
+voima - moc, siła
+voimakas - silny, mocny
+voimala - elektrownia, elektrociepłownia, siłownia
 voimallinen - mocny
-vointi - stan zdrowia | samopoczucie
+vointi - stan zdrowia, samopoczucie
 voisarvi - rogalik
 voitokas - zwycięski
-voitollinen - zwycięski | korzystny
+voitollinen - zwycięski, korzystny
 voittaa - wygrać
 voittaja - zwycięzca
-voitto - zwycięstwo | zysk | profit
+voitto - zwycięstwo, zysk, profit
 voittoisa - zwycięski
 vokaali - samogłoska
 volframi - wolfram
 voltti - wolt
 volttimittari - woltomierz
-voro - złodziej | złodziejaszek
+voro - złodziej, złodziejaszek
 votka - wódka
 vrk - doba
 vulkaani - wulkan
@@ -6540,7 +6540,7 @@ vuode - łóżko
 vuodenaika - pora roku
 vuohi - koza
 vuokko - zawilec
-vuokra - dzierżawa | wynajem
+vuokra - dzierżawa, wynajem
 vuono - fiord
 vuori - góra
 vuorihemppo - rzepołuch
@@ -6550,9 +6550,9 @@ vuoristoinen - górzysty
 vuorokausi - doba
 vuorovaikutus - interakcja
 vuosi - rok
-vuosituhat - tysiąclecie | millenium
+vuosituhat - tysiąclecie, millenium
 vuoto - wyciek
-vyö - pas | pasek
+vyö - pas, pasek
 vyöhyke - strefa
 vyörymä - osuwisko
 vyötiäinen - pancernik
@@ -6561,48 +6561,48 @@ wc-paperi - papier toaletowy
 Wien - Wiedeń (stolica Austrii)
 Wikipedia - Wikipedia
 Wikisanakirja - Wikisłownik
-ydin - jądro | szpik | rdzeń | sedno
-ydinase - broń jądrowa | broń atomowa
+ydin - jądro, szpik, rdzeń, sedno
+ydinase - broń jądrowa, broń atomowa
 ydinfysiikka - fizyka jądrowa
 ydinvoimala - elektrownia atomowa
 yhdeksän - dziewięć (cyfra)
 yhdeksänkymmentä - dziewięćdziesiąt
-yhdeksänkymmentäkahdeksan - dziewięćdziesiąt osiem | 98
-yhdeksänkymmentäkaksi - dziewięćdziesiąt dwa | 92
-yhdeksänkymmentäkolme - dziewięćdziesiąt trzy | 93
-yhdeksänkymmentäkuusi - dziewięćdziesiąt sześć | 96
-yhdeksänkymmentäneljä - dziewięćdziesiąt cztery | 94
-yhdeksänkymmentäseitsemän - dziewięćdziesiąt siedem | 97
-yhdeksänkymmentäviisi - dziewięćdziesiąt pięć | 95
-yhdeksänkymmentäyhdeksän - dziewięćdziesiąt dziewięć | 99
-yhdeksänkymmentäyksi - dziewięćdziesiąt jeden | 91
+yhdeksänkymmentäkahdeksan - dziewięćdziesiąt osiem, 98
+yhdeksänkymmentäkaksi - dziewięćdziesiąt dwa, 92
+yhdeksänkymmentäkolme - dziewięćdziesiąt trzy, 93
+yhdeksänkymmentäkuusi - dziewięćdziesiąt sześć, 96
+yhdeksänkymmentäneljä - dziewięćdziesiąt cztery, 94
+yhdeksänkymmentäseitsemän - dziewięćdziesiąt siedem, 97
+yhdeksänkymmentäviisi - dziewięćdziesiąt pięć, 95
+yhdeksänkymmentäyhdeksän - dziewięćdziesiąt dziewięć, 99
+yhdeksänkymmentäyksi - dziewięćdziesiąt jeden, 91
 yhdeksäntoista - dziewiętnaście (liczba)
 yhdeksäs - dziewiąty
 yhdeksikkö - dziewiątka
 yhdenvertaisuus - równość
 yhdestoista - jedenasty
-yhdistää - łączyć | połączyć | jednoczyć | zjednoczyć | anektować
+yhdistää - łączyć, połączyć, jednoczyć, zjednoczyć, anektować
 Yhdistyneet arabiemiirikunnat - Zjednoczone Emiraty Arabskie
 Yhdistynyt kuningaskunta - Zjednoczone Królestwo
-Yhdysvallat - Stany Zjednoczone | USA
-yhtä - jednakowo | tak samo | podobnie | równie | identycznie
+Yhdysvallat - Stany Zjednoczone, USA
+yhtä - jednakowo, tak samo, podobnie, równie, identycznie
 yhtäjaksoisesti - bezustannie
-yhtäkkiä - nagle | nieoczekiwanie | wtem
+yhtäkkiä - nagle, nieoczekiwanie, wtem
 yhtäkkinen - nagły
 yhtälö - równanie
 yhtäpitävä - równoważny
 yhteensattuma - zbieg okoliczności
 yhteentörmäys - kolizja
 yhteiskunta - społeczeństwo
-yhteys - związek | kontakt | obcowanie | łączność | komunikacja | połączenie | wspólnota | jedność
-yhtye - zespół muzyczny | kapela | band
-YK - ONZ | Organizacja Narodów Zjednoczonych
+yhteys - związek, kontakt, obcowanie, łączność, komunikacja, połączenie, wspólnota, jedność
+yhtye - zespół muzyczny, kapela, band
+YK - ONZ, Organizacja Narodów Zjednoczonych
 ykkönen - jedynka
-yksi - jeden (cyfra) | jeden z
+yksi - jeden (cyfra), jeden z
 yksiavioisuus - monogamia
 yksijumalaisuus - monoteizm
 yksijumalisuus - monoteizm
-yksikkö - jednostka | liczba pojedyncza
+yksikkö - jednostka, liczba pojedyncza
 yksilö - jednostka
 yksilöllisesti - indywidualnie
 yksimielinen - jednomyślny
@@ -6615,11 +6615,11 @@ yksinvaltius - autokracja
 yksisarvinen - jednorożec
 yksitoista - jedenaście (liczba)
 yksituumainen - jednomyślny
-yksityinen - prywatny | osobisty
+yksityinen - prywatny, osobisty
 yksityiskohta - szczegół
 yksityisyys - prywatność
-ylänkö - wyżyna | płaskowyż
-yläraaja - kończyna górna | kończyna przednia
+ylänkö - wyżyna, płaskowyż
+yläraaja - kończyna górna, kończyna przednia
 yleinen - pospolity
 yleisnäkymä - panorama
 yleisurheilu - lekkoatletyka
@@ -6633,29 +6633,29 @@ yliopisto - uniwersytet
 yliopistollinen - akademicki
 ylite - nadmiar
 ylkä - pan młody
-ylpeä - dumny | pyszny | butny | zarozumiały
+ylpeä - dumny, pyszny, butny, zarozumiały
 ylpeästi - dumnie
-ylpeys - duma | pycha | buta | zarozumiałość
+ylpeys - duma, pycha, buta, zarozumiałość
 yltäkylläinen - obfity
 yltäkylläisyys - obfitość
 ymmärrys - zrozumienie
-ymmärtää - rozumieć | zrozumieć | pojmować | pojąć
+ymmärtää - rozumieć, zrozumieć, pojmować, pojąć
 ympärileikkaus - obrzezanie
-ympäristö - otoczenie | środowisko
+ympäristö - otoczenie, środowisko
 ympärivuotinen - całoroczny
 ympyrä - okrąg
 yö - noc
 yöhaikara - ślepowron
-yöperhonen - ćma | nocny motyl
+yöperhonen - ćma, nocny motyl
 yrittää - próbować
-yrittäjä - biznesmen | przedsiębiorca
+yrittäjä - biznesmen, przedsiębiorca
 yritys - próba
-yrtti - zioło | roślina zielna | marihuana
+yrtti - zioło, roślina zielna, marihuana
 -ys - -uus
 yskä - kaszel
 yskiä - kaszleć
-yskös - flegma | plwocina
-ystävä - przyjaciel | przyjaciółka
+yskös - flegma, plwocina
+ystävä - przyjaciel, przyjaciółka
 ystävällinen - przyjazny
 ystävällisyys - przyjacielskość
 ystävyys - przyjaźń

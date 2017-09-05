@@ -1,16 +1,16 @@
 aabestik - alfabet
 aabits - elementarz
-Aada - Aada | estońskie imię żeńskie
-Aadam - Adam | imię męskie
+Aada - Aada, estońskie imię żeńskie
+Aadam - Adam, imię męskie
 aadlik - szlachcic
 aadress - adres
 aafrika - afrykański
 Aafrika - Afryka
-aafriklane - Afrykańczyk | Afrykanka
+aafriklane - Afrykańczyk, Afrykanka
 aamen - amen
 aare - skarb
-Aare - Aare | estońskie imię męskie
-Aarne - Aarne | estońskie imię męskie
+Aare - Aare, estońskie imię męskie
+Aarne - Aarne, estońskie imię męskie
 aasia - azjatycki
 Aasia - Azja
 aasialane - Azjata
@@ -26,8 +26,8 @@ abielluma - poślubić
 abielu - małżeństwo
 abielumees - mąż
 abielupaar - para małżeńska
-abikaasa - mąż | małżonek | żona | małżonka
-abiogenees - abiogeneza | samorództwo
+abikaasa - mąż, małżonek, żona, małżonka
+abiogenees - abiogeneza, samorództwo
 abistama - pomagać
 abort - aborcja
 abrasioon - abrazja
@@ -37,7 +37,7 @@ absoluutne kuulmine - słuch absolutny
 abstraktne - abstrakcyjny
 absurdne - absurdalny
 absurdselt - absurdalnie
-adapteerima - przystosować | przystosowywać
+adapteerima - przystosować, przystosowywać
 ader - pług
 adjektiiv - przymiotnik
 administraator - administrator
@@ -45,7 +45,7 @@ administratsioon - administracja
 advokaat - adwokat
 aed - ogród
 aeg - czas
-aeglane - powolny | wolny
+aeglane - powolny, wolny
 aerograaf - aerograf
 aevastama - kichać
 afaasia - afazja
@@ -57,32 +57,32 @@ agrobioloogia - agrobiologia
 agronoom - agronom
 agu - zmierzch
 ahel - łańcuch
-ahi - piec | piecyk
+ahi - piec, piecyk
 ahm - rosomak
-ahne - zachłanny | łapczywy
-ahnus - chciwość | zachłanność
+ahne - zachłanny, łapczywy
+ahnus - chciwość, zachłanność
 ahv - małpa
 ahven - okoń
 äi - teść
 aiamaa - ogród
 aiandus - ogrodnictwo
 äike - piorun
-Aili - Aili | estońskie imię żeńskie
-aim - pojęcie | idea
+Aili - Aili, estońskie imię żeńskie
+aim - pojęcie, idea
 aimama - przewidywać
 aine - materia
-Aino - Aino | estońskie imię żeńskie
+Aino - Aino, estońskie imię żeńskie
 ainult - tylko
 ainus - jedyny
 ait - stodoła
 aitama - pomagać
-ajaarvamine - era | chronologia
+ajaarvamine - era, chronologia
 ajajärk - epoka
-ajakiri - magazyn | czasopismo
+ajakiri - magazyn, czasopismo
 ajakirjandus - dziennikarstwo
 ajakirjanik - dziennikarz
 ajal - podczas
-ajaleht - gazeta | dziennik
+ajaleht - gazeta, dziennik
 ajaloolane - historyk
 ajalooline - historyczny
 ajalugu - historia
@@ -95,9 +95,9 @@ akadeemia - akademia
 akadeemik - akademik
 akadeemiline - akademicki
 aken - okno
-akrüülvärv - akryl | farba akrylowa
+akrüülvärv - akryl, farba akrylowa
 aktiinium - aktyn
-aktiivne - aktywny | zajęty | energiczny
+aktiivne - aktywny, zajęty, energiczny
 aktiivsus - aktywność
 aktsent - akcent
 akustika - akustyka
@@ -105,42 +105,42 @@ akustiline - akustyczny
 akvaarium - akwarium
 akvarell - akwarela
 ala - obszar
-alaline - stały | ciągły
-alandama - poniżać | upokarzać
+alaline - stały, ciągły
+alandama - poniżać, upokarzać
 alasti - nagi
 alastus - nagość
 alati - zawsze
 alatiseks - na zawsze
 albaania - albański
 Albaania - Albania
-albaanlane - Albańczyk | Albanka
+albaanlane - Albańczyk, Albanka
 albumiin - albumina
-Aleuudid - Aleuty | Wyspy Aleuckie
+Aleuudid - Aleuty, Wyspy Aleuckie
 algaine - element
 algaja - początkujący
 algama - zaczynać
 algus - początek
-alistama - opanowywać | ujarzmiać
+alistama - opanowywać, ujarzmiać
 Alje - estońskie imię żeńskie
 alkohol - alkohol
 alkohoolik - alkoholik
 alkohoolne - alkoholowy
-allahindamine - redukcja | zmniejszenie
+allahindamine - redukcja, zmniejszenie
 alla kirjutama - śpiewać
 allee - aleja
 allegooria - alegoria
-allergia - alergia | uczulenie
+allergia - alergia, uczulenie
 allergiline - alergiczny
 allikas - źródło
 allkiri - podpis
 allveearheoloogia - archeologia podwodna
-allveelaev - łódź podwodna | okręt podwodny
+allveelaev - łódź podwodna, okręt podwodny
 alpinism - alpinizm
 alternatiiv - alternatywa
 altkäemaks - łapówka
 alumiinium - glin
 aluspesu - bielizna
-alustama - zacząć | rozpocząć
+alustama - zacząć, rozpocząć
 alustass - spodek
 Alžeeria - Algeria
 ämber - wiadro
@@ -148,19 +148,19 @@ Alžeeria - Algeria
 ameerika - amerykański
 Ameerika - Ameryka
 Ameerika Ühendriigid - Stany Zjednoczone
-ameeriklane - Amerykanin | Amerykanka
+ameeriklane - Amerykanin, Amerykanka
 ameriitsium - ameryk
 amet - praca
-ametlik - oficjalny | formalny
+ametlik - oficjalny, formalny
 ämm - teściowa
 ammu - dawno temu
-amüloidoos - amyloidoza | skrobiawica | betafibryloza
+amüloidoos - amyloidoza, skrobiawica, betafibryloza
 anabolism - anabolizm
 ananass - ananas
 anastroof - anastrofa
 anatoomia - anatomia
 Andaluusia - Andaluzja
-andekas - utalentowany | obdarzony
+andekas - utalentowany, obdarzony
 andestama - wybaczyć
 andestamatu - niewybaczalny
 Andorra - Andora
@@ -169,7 +169,7 @@ angerjas - węgorz
 Angola - Angola
 ankeet - ankieta
 ankur - kotwica
-Annika - Annika | Anika | estońskie imię żeńskie
+Annika - Annika, Anika, estońskie imię żeńskie
 Antarktika - Antarktyka
 antibiootikum - antybiotyk
 Antigua ja Barbuda - Antigua i Barbuda
@@ -179,7 +179,7 @@ aparaat - aparat
 apelsin - pomarańcza
 apenditsiit - zapalenie wyrostka robaczkowego
 aplikaator - aplikator
-apopleksia - apopleksja | udar mózgu
+apopleksia - apopleksja, udar mózgu
 appi - pomocy!
 aprikoos - morela
 aprill - kwiecień
@@ -193,11 +193,11 @@ arabesk - arabeska
 arahnofoobia - arachnofobia
 araukaaria - araukaria
 arbuus - arbuz
-arendama - rozwijać | rozbudowywać
-arg - nieśmiały | bojaźliwy
+arendama - rozwijać, rozbudowywać
+arg - nieśmiały, bojaźliwy
 argentiina - argentyński
-Argentiina - Argentyna | Argentina
-argentiinlane - Argentyńczyk | Argentynka
+Argentiina - Argentyna, Argentina
+argentiinlane - Argentyńczyk, Argentynka
 Argentina - Argentyna
 arglikkus - nieśmiałość
 argoon - argon
@@ -213,38 +213,38 @@ arhivaar - archiwariusz
 aristokraat - arystokrata
 Aristoteles - Arystoteles
 arm - rana
-armas - drogi | kochany
-armastaja - kochany | ukochany
+armas - drogi, kochany
+armastaja - kochany, ukochany
 armastama - kochać
 armastus - miłość
 armee - armia
 armeenia - ormiański
 Armeenia - Armenia
-armeenlane - Ormianin | Ormianka
+armeenlane - Ormianin, Ormianka
 armetu - nędzny
 armukade - zazdrosny
 armukadedus - zazdrość
 armulugu - romans
 armuma - zakochać się
-Arno - Arno | estońskie imię męskie
+Arno - Arno, estońskie imię męskie
 aromaatne - aromatyczny
 arseen - arsen
-arst - doktor | lekarz
+arst - doktor, lekarz
 artikkel - artykuł
 artistlik - artystyczny
-aru - rozum | umysł
+aru - rozum, umysł
 arusaamatus - nieporozumienie
 arutama - dyskutować
 arutelu - dyskusja
 arütmia - arytmia
-arvatavasti - prawdopodobnie | być może
-arve - rachunek | konto
+arvatavasti - prawdopodobnie, być może
+arve - rachunek, konto
 arvuti - komputer
 ase - łóżko
 aseksuaalne - aseksualny
 aseksuaalsus - aseksualność
 Aserbaidžaan - Azerbejdżan
-aserbaidžaani - azerski | azerbejdżański
+aserbaidžaani - azerski, azerbejdżański
 asjatundja - ekspert
 askees - asceza
 aspiriin - aspiryna
@@ -262,18 +262,18 @@ atmosfäär - atmosfera
 august - sierpień
 auk - dziura
 aur - para
-ausammas - monument | pomnik
+ausammas - monument, pomnik
 Austraalia - Australia
 Austria - Austria
 autentne - autentyczny
-auto - auto | samochód
+auto - auto, samochód
 autobiograafia - autobiografia
 automaatne - automatyczny
 autonoomia - autonomia
 autopsia - autopsja
 autor - autor
 autosugestioon - autosugestia
-avalik - publiczny | powszechny
+avalik - publiczny, powszechny
 avama - otwierać
 baar - bar
 baarium - bar
@@ -285,14 +285,14 @@ Baleaarid - Baleary
 balett - balet
 balti - bałtycki
 Baltica - Bałtyka
-banaalne - banalny | pospolity
+banaalne - banalny, pospolity
 banaan - banan
 Bangladesh - Bangladesz
 bankett - bankiet
 Barbados - Barbados
 bassein - basen
 beduiin - Beduin
-beebi - dziecko | bobas
+beebi - dziecko, bobas
 Beirut - Bejrut
 Belgia - Belgia
 Belize - Belize
@@ -314,7 +314,7 @@ biosüntees - biosynteza
 biotiin - biotyna
 biseksuaalne - biseksualny
 biseksuaalsus - biseksualizm
-biskviit - herbatnik | ciasteczko
+biskviit - herbatnik, ciasteczko
 blond - blond
 bohrium - bohr
 boikott - bojkot
@@ -322,16 +322,16 @@ Boliivia - Boliwia
 Bosnia ja Hertsegoviina - Bośnia i Hercegowina
 botaanika - botanika
 Botswana - Botswana
-brändi - brandy | winiak
+brändi - brandy, winiak
 brasiilia - brazylijski
 Brasiilia - Brazylia
 brasiillane - Brazylijczyk
-bretooni - bretoński | bretoński (język)
+bretooni - bretoński, bretoński (język)
 briljant - brylant
 britlane - Brytyjczyk
 broom - brom
 buldooser - buldożer
-bulgaaria - bułgarski | bułgarski (język)
+bulgaaria - bułgarski, bułgarski (język)
 Bulgaaria - Bułgaria
 bulgaarlane - Bułgar
 buliimia - bulimia
@@ -347,14 +347,14 @@ darmstadtium - darmsztadt
 debatt - debata
 deduktiivne - dedukcyjny
 deemonlik - demoniczny
-defekt - defekt | wada
+defekt - defekt, wada
 defineerima - definiować
 definitsioon - definicja
 deism - deizm
 dekoloniseerima - dekolonizować
 delegatsioon - delegacja
 delfiin - delfin
-demarkatsioon - wytyczenie granic | demarkacja | rozgraniczenie | odgraniczenie
+demarkatsioon - wytyczenie granic, demarkacja, rozgraniczenie, odgraniczenie
 demograafia - demografia
 demokraat - demokrata
 demokraatia - demokracja
@@ -368,7 +368,7 @@ diagramm - diagram
 diameeter - średnica
 dieet - dieta
 difraktsioon - dyfrakcja
-diivan - sofa | kanapa
+diivan - sofa, kanapa
 dimorfism - dymorfizm
 dinosaurus - dinozaur
 direktiiv - dyrektywa
@@ -389,17 +389,17 @@ dünamo - prądnica
 düsproosium - dysproz
 dušš - prysznic
 džäss - jazz
-džässbänd - grupa jazzowa | zespół jazzowy
+džässbänd - grupa jazzowa, zespół jazzowy
 džässmuusik - muzyka jazzowa
 džaul - dżul
 džemm - dżem
 džihaad - dżihad
-džiip - dżip | jeep
+džiip - dżip, jeep
 ebaaus - nieuczciwy
 ebainimlik - nieludzki
 ebaloomulik - nienaturalny
 ebaloomulikult - nienaturalnie
-ebamäärane - nieokreślony | niejasny
+ebamäärane - nieokreślony, niejasny
 ebameeldiv - nieprzyjemny
 ebameeldivalt - nieprzyjemnie
 ebamugav - niewygodny
@@ -409,14 +409,14 @@ ebanormaalsus - anormalność
 ebapraktiline - niepraktyczny
 ebaseaduslik - nielegalny
 ebasõbralik - nieprzyjazny
-ebaviisakas - niemiły | niegrzeczny
-edasi - naprzód | do przodu
+ebaviisakas - niemiły, niegrzeczny
+edasi - naprzód, do przodu
 edel - południowy zachód
 edu - sukces
 eelkõige - przede wszystkim
 eelmine - poprzedni
 eesel - osioł
-eeskiri - instrukcja | regulacja
+eeskiri - instrukcja, regulacja
 eesmärk - cel
 eesnimi - imię z chrztu
 eesriie - zasłona
@@ -437,16 +437,16 @@ ehitama - budować
 ehitis - budynek
 ehitus - budynek
 ehituskunst - architektura
-ehk - lub | albo
-ehmatus - strach | przerażenie | bojaźń
+ehk - lub, albo
+ehmatus - strach, przerażenie, bojaźń
 ehtne - prawdziwy
 ei - nie - zaprzeczenie
 ei keegi - nikt
 eile - wczoraj
-Eili - Eili | estońskie imię żeńskie
+Eili - Eili, estońskie imię żeńskie
 eilne päev - wczoraj
 ei midagi - nic
-eine - posiłek | przekąska
+eine - posiłek, przekąska
 einsteinium - einstein
 eksima - być w błędzie
 eksistentsialism - egzystencjalizm
@@ -469,18 +469,18 @@ elevant - słoń
 elu - życie
 elukindlustus - ubezpieczenie na życie
 elukoht - miejsce zamieszkania
-elukutse - zawód | profesja
+elukutse - zawód, profesja
 elulooline - biograficzny
 elulugu - biografia
-elutu - nieżywy | martwy | nieożywiony
-elutuba - pokój gościnny | duży pokój
+elutu - nieżywy, martwy, nieożywiony
+elutuba - pokój gościnny, duży pokój
 ema - matka
 emakeel - język ojczysty
 emalik - matczyny
 emalõvi - lwica
 embrüo - embrion
 embrüoloogia - embriologia
-embus - uścisk | objęcie
+embus - uścisk, objęcie
 emfaas - emfaza
 emiir - emir
 emiraat - emirat
@@ -494,39 +494,39 @@ energiline - energetyczny
 enesekaitse - samoobrona
 enesekindel - pewny siebie
 enesetapp - samobójstwo
-enesetunne - uczucie | odczucie
-enne - przed | zanim | wcześniej | omen | znak | zwiastun
+enesetunne - uczucie, odczucie
+enne - przed, zanim, wcześniej, omen, znak, zwiastun
 enneaegne - przedwczesny
 entsüklopeedia - encyklopedia
 epideemia - epidemia
 epideemiline - epidemiczny
 epohh - epoka
-eraldama - oddzielać | odseparowywać
+eraldama - oddzielać, odseparowywać
 eraldi - oddzielnie
 erapooletu - bezstronny
 erbium - erb
 eriala - specjalność
-erinev - inny | różny
+erinev - inny, różny
 eriti - szczególnie
 erootiline - erotyczny
 erootiliselt - erotycznie
-erootilisus - erotyzm | erotyka
-ese - obiekt | przedmiot | rzecz
-esialgne - wstępny | próbny
+erootilisus - erotyzm, erotyka
+ese - obiekt, przedmiot, rzecz
+esialgne - wstępny, próbny
 esimene - pierwszy
 eskimo - Eskimos
 esmaspäev - poniedziałek
 et - że
 etanool - etanol
-eteen - eten | etylen
+eteen - eten, etylen
 etioloogia - etiologia
 Etioopia - Etiopia
 etniline - etniczny
 etoloogia - etologia
-ettekandja - kelner | kelnerka
+ettekandja - kelner, kelnerka
 ette nägema - przewidzieć
 ettevaatlik - ostrożny
-etüleen - etylen | eten
+etüleen - etylen, eten
 etümoloogia - etymologia
 Euroopa - Europa
 Euroopa Liit - Unia Europejska
@@ -594,7 +594,7 @@ garaaž - garaż
 garantii - gwarancja
 garderoob - garderoba
 Gargantua - Gargantua
-gastriit - zapalenie błony śluzowej żołądka | zapalenie żołądka | nieżyt żołądka
+gastriit - zapalenie błony śluzowej żołądka, zapalenie żołądka, nieżyt żołądka
 geenius - geniusz
 geiser - gejzer
 geneetika - genetyka
@@ -606,12 +606,12 @@ germaani - niemiecki
 germaanium - german
 glatsioloogia - glacjologia
 glükoos - glukoza
-graafik - grafik | harmonogram
+graafik - grafik, harmonogram
 graafika - grafika
 grammatika - gramatyka
 graniit - granit
 gravitatsioon - grawitacja
-greif - gryf | gryfon
+greif - gryf, gryfon
 gripp - grypa
 Gröönimaa - Grenlandia
 grupp - grupa
@@ -621,8 +621,8 @@ haak - hak
 hääl - głos
 hääldama - wypowiadać
 hääletama - głosować
-haamer - młot | młotek
-haarama - chwycić | złapać
+haamer - młot, młotek
+haarama - chwycić, złapać
 haav - rana
 haavaside - bandaż
 habe - broda
@@ -636,13 +636,13 @@ haige - chory
 haigla - szpital
 haiglavoodi - łóżko szpitalne
 haigutama - ziewać
-hais - smród | odór
-haisema - śmierdzieć | cuchnąć
+hais - smród, odór
+haisema - śmierdzieć, cuchnąć
 Haiti - Haiti
 hakk - kawka
 hakkama - zaczynać
 halb - zły
-hale - żałosny | nędzny | smutny
+hale - żałosny, nędzny, smutny
 hall - szary
 halleluuja - alleluja
 halvatus - paraliż
@@ -663,29 +663,29 @@ hari - szczotka
 haridus - edukacja
 harilik - zwyczajny
 harjumus - zwyczaj
-harrastus - hobby | zainteresowanie
+harrastus - hobby, zainteresowanie
 haruldane - nietypowy
 harva - rzadko
 hassium - has
 haud - grób
 haug - szczupak
-hävitaja - niszczyciel | kontrtorpedowiec | myśliwiec
+hävitaja - niszczyciel, kontrtorpedowiec, myśliwiec
 hävitama - niszczyć
 hävituslennuk - myśliwiec
 hea - dobry
-head aega - do widzenia | do zobaczenia
-heasüdamlik - życzliwy | dobrotliwy
+head aega - do widzenia, do zobaczenia
+heasüdamlik - życzliwy, dobrotliwy
 hedonism - hedonizm
 heebrea - hebrajski (język)
 heelium - hel
 hein - siano
 heinakuu - lipiec
-hele - jasny | rozświetlony
+hele - jasny, rozświetlony
 helge - jasny
 heli - dźwięk
 helilooja - kompozytor
 helio- - helio-
-heliplaat - płyta | nagranie
+heliplaat - płyta, nagranie
 helmekuu - styczeń
 heraldika - heraldyka
 herilane - osa
@@ -699,34 +699,34 @@ hiiglane - gigant
 Hiina - Chiny
 hiir - mysz
 hilinema - spóźniać się
-hiljuti - ostatnio | niedawno
+hiljuti - ostatnio, niedawno
 hind - cena
 hinduism - hinduizm
 hing - dusza
 hingama - oddychać
-hinnaline - wartościowy | cenny | kosztowny
+hinnaline - wartościowy, cenny, kosztowny
 hirsutism - hirsutyzm
 hirv - jeleń
-hispaania - hiszpański | hiszpański (język)
+hispaania - hiszpański, hiszpański (język)
 Hispaania - Hiszpania
 hõbe - srebro
 hobujõud - koń mechaniczny
 hobune - koń
 hoiatus - ostrzeżenie
 hoidma - trzymać
-hollandi - holenderski | holenderski (język)
+hollandi - holenderski, holenderski (język)
 holmium - holm
 hõlmkuu - wtorek
 homme - jutro
-hommik - rano | poranek
+hommik - rano, poranek
 hommikueine - śniadanie
 hommikusöök - śniadanie
 homonüüm - homonim
 homoseksuaalsus - homoseksualizm
 Hongkong - Hongkong
-hooaeg - sezon | pora roku
+hooaeg - sezon, pora roku
 hooletu - beztroski
-hoor - dziwka | kurwa
+hoor - dziwka, kurwa
 hõõrumine - tarcie
 Horvaatia - Chorwacja
 hotell - hotel
@@ -741,15 +741,15 @@ hunt - wilk
 hüpe - skok
 hüpersomnia - hipersomnia
 hüppama - skakać
-hüüatus - okrzyk | krzyk | wykrzyknienie
-hüüdma - krzyczeć | wołać
+hüüatus - okrzyk, krzyk, wykrzyknienie
+hüüdma - krzyczeć, wołać
 huul - warga
 huulepulk - szminka
 huumor - humor
 hüüp - bąk
-hüüumärk - wykrzyknik | znak wykrzyknienia
-huvitav - ciekawy | interesujący
-huvi tundma - interesować się | być zainteresowanym
+hüüumärk - wykrzyknik, znak wykrzyknienia
+huvitav - ciekawy, interesujący
+huvi tundma - interesować się, być zainteresowanym
 ida - wschód
 Ida-Aasia - Azja Wschodnia
 Ida-Timor - Timor Wschodni
@@ -758,9 +758,9 @@ idealistlikult - idealistycznie
 idee - idea
 idioot - idiota
 idiootlik - idiotyczny
-iga päev - codziennie | każdego dnia
+iga päev - codziennie, każdego dnia
 igatsus - tęsknota
-igaüks - każdy | wszyscy
+igaüks - każdy, wszyscy
 igav - nudny
 igaveseks - na zawsze
 ige - dziąsło
@@ -771,22 +771,22 @@ ike - jarzmo
 ikka - zawsze
 ilm - pogoda
 ilma - bez
-ilmselt - ewidentnie | najwyraźniej
+ilmselt - ewidentnie, najwyraźniej
 ilukirjandus - fikcja
-ilus - ładny | piękny | uroczy
+ilus - ładny, piękny, uroczy
 ilves - ryś
 imaam - imam
 ime - cud
 imelik - dziwny
 imetaja - ssak
-immuunsüsteem - układ odpornościowy | układ immunologiczny
+immuunsüsteem - układ odpornościowy, układ immunologiczny
 impressionism - impresjonizm
 improvisatsioon - improwizacja
 indiaani - indiański
 India ookean - Ocean Indyjski
 indium - ind
 Indoneesia - Indonezja
-Indrek - Indrek | estońskie imię męskie
+Indrek - Indrek, estońskie imię męskie
 inetu - brzydki
 infektsioon - infekcja
 informatsioon - informacja
@@ -806,17 +806,17 @@ interjektsioon - wykrzyknienie
 Iraak - Irak
 Iraan - Iran
 iriidium - iryd
-Irja - Irja | estońskie imię żeńskie
+Irja - Irja, estońskie imię żeńskie
 irratsionaalne - irracjonalny
 isa - ojciec
 isamaa - ojczyzna
 isamaaline - patriotyczny
 isamaalisus - patriotyzm
-iseäralik - wyjątkowy | specjalny | szczególny
+iseäralik - wyjątkowy, specjalny, szczególny
 iseloom - charakter
 iseseisvus - niepodległość
 isik - osoba
-isiklik - osobisty | personalny | indywidualny
+isiklik - osobisty, personalny, indywidualny
 isiklikult - osobiście
 islam - islam
 islandi - islandzki
@@ -824,21 +824,21 @@ islandlane - Islandczyk
 isoleerima - izolować
 istuma - siedzieć
 isu - apetyt
-isuri - ingryjski | iżorski
-itaalia - włoski | język włoski
+isuri - ingryjski, iżorski
+itaalia - włoski, język włoski
 Itaalia - Włochy
 ja - i
 jaa - tak
 jää - lód (zamarznięta woda)
 jääaegne - lodowcowy
-Jaagup - Jaagup | estońskie imię męskie | wariant imion Jakob i Jaakob
+Jaagup - Jaagup, estońskie imię męskie, wariant imion Jakob i Jaakob
 jäälind - zimorodek
-jaam - stacja | dworzec
+jaam - stacja, dworzec
 jäämägi - góra lodowa
 jäämurdja - lodołamacz
 jaanuar - styczeń
 Jaapan - Japonia
-jaapani - japoński | japoński (język)
+jaapani - japoński, japoński (język)
 jaapanlane - Japończyk
 jääpurikas - sopel
 jäätis - lody
@@ -846,15 +846,15 @@ jagama - dzielić
 jah - tak
 jahe - chłodny
 jahu - mąka
-jakk - kurtka | marynarka
+jakk - kurtka, marynarka
 jalg - stopa
 jälg - ślad
 jalgpall - piłka nożna
 jalgratas - rower
-jälle - znów | znowu
-jalutaja - piechur | spacerowicz
+jälle - znów, znowu
+jalutaja - piechur, spacerowicz
 jalutama - spacerować
-Janek - Janek | estońskie imię męskie | wariant imion Jaan i Johannes
+Janek - Janek, estońskie imię męskie, wariant imion Jaan i Johannes
 jänes - zając
 janu - pragnienie
 järgmine - następny
@@ -867,34 +867,34 @@ Jeesus Kristus - Jezus Chrystus
 jõehobu - hipopotam
 jõgi - rzeka
 jõhvikas - żurawina
-jonnakas - uparty | zawzięty
+jonnakas - uparty, zawzięty
 jood - jod
 joodik - pijak
 jooga - joga
 joogi - jogin
-jook - napój | picie
+jook - napój, picie
 jooks - bieg
 jooma - pić
 joon - linia
 jõud - siła
-jõuline - dokonany przemocą | gwałtowny | żywiołowy
+jõuline - dokonany przemocą, gwałtowny, żywiołowy
 jõulud - Boże Narodzenie
 jõulukuu - grudzień
 Jõulusaar - Wyspa Bożego Narodzenia
 jube - straszny
-juhataja - kierownik | dyrektor | szef
+juhataja - kierownik, dyrektor, szef
 juhend - instrukcja
 juhind - dyrektywa
 juht - kierowca
-juhtuma - stać się | wydarzyć się | nastąpić
+juhtuma - stać się, wydarzyć się, nastąpić
 juhuslik - przypadkowy
-julgus - śmiałość | odwaga
+julgus - śmiałość, odwaga
 jumal - bóg
 jumal tänatud - dzięki Bogu
 jumalus - bóstwo
 jurist - prawnik
 justiits - sprawiedliwość
-jutt - rozmowa | konwersacja
+jutt - rozmowa, konwersacja
 juuli - lipiec
 juuni - czerwiec
 juur - korzeń
@@ -912,22 +912,22 @@ kaamel - wielbłąd
 kaamera - kamera
 kaanon - kanon
 kaar - łuk
-käärid - nożyczki | nożyce
+käärid - nożyczki, nożyce
 kaart - mapa
 kaasavara - posag
-kaasosaline - partner | wspólnik
+kaasosaline - partner, wspólnik
 kabel - kaplica
 kabinet - gabinet
 kadakas - jałowiec
 kade - zazdrosny
-Kadi - Kadi | estońskie imię żeńskie
-Kadri - Kadri | estońskie imię żeńskie
-kaebama - narzekać | skarżyć się
+Kadi - Kadi, estońskie imię żeńskie
+Kadri - Kadri, estońskie imię żeńskie
+kaebama - narzekać, skarżyć się
 kael - szyja
 kaelakee - naszyjnik
 kaelkirjak - żyrafa
 kaevur - górnik
-kafeteeria - kafeteria | kawiarnia
+kafeteeria - kafeteria, kawiarnia
 kagu - południowo-wschodni
 kägu - kukułka
 Kagu-Aasia - Azja Południowo-Wschodnia
@@ -943,7 +943,7 @@ kahjuks - niestety
 kahtlustama - podejrzewać
 kahvatu - blady
 kahvel - widelec
-Kaisa - Kaisa | estońskie imię żeńskie
+Kaisa - Kaisa, estońskie imię żeńskie
 käituma - zachowywać się
 kaja - echo
 kajakas - mewa
@@ -951,24 +951,24 @@ kaklema - walczyć
 kaks - dwa (2)
 kaksik - bliźniak
 kakskümmend - dwadzieścia
-kaksteist - dwanaście | 12
+kaksteist - dwanaście, 12
 kala - ryba
-kalamari - kawior | ikra
+kalamari - kawior, ikra
 kalastama - łowić
 käli - szwagierka
 kalifornium - kaliforn
 kaliiber - kaliber
-kalju - głaz | skała
+kalju - głaz, skała
 kalkun - indyk
-kallaletung - atak | agresja
+kallaletung - atak, agresja
 kallas - brzeg
-kallis - drogi | kosztowny
-kalliskivi - klejnot | kamień szlachetny
-kallistus - uścisk | objęcie
+kallis - drogi, kosztowny
+kalliskivi - klejnot, kamień szlachetny
+kallistus - uścisk, objęcie
 kalmistu - cmentarz
 kaltsium - wapń
 Kamerun - Kamerun
-kana - kurczak | kura
+kana - kurczak, kura
 Kanaari saared - Wyspy Kanaryjskie
 Kanada - Kanada
 kanamuna - jajko
@@ -977,7 +977,7 @@ kanarbikukuu - wrzesień
 kanep - konopie
 kangelane - bohater
 kangelaslik - bohaterski
-kangelaslikkus - bohaterstwo | heroizm
+kangelaslikkus - bohaterstwo, heroizm
 känguru - kangur
 kannatus - cierpliwość
 kaootiline - chaotyczny
@@ -993,10 +993,10 @@ kära - hałas
 karakter - charakter
 kardemon - kardamon
 karikatuur - karykatura
-karistama - karać | ukarać
+karistama - karać, ukarać
 karjäär - kariera
 kärnkonn - ropucha
-kartul - ziemniak | kartofel
+kartul - ziemniak, kartofel
 karu - niedźwiedź
 kasahh - kazachski
 Kasahstan - Kazachstan
@@ -1007,7 +1007,7 @@ käskkiri - dyrektywa
 kass - kot
 kassikakk - puchacz
 kastraat - kastrat
-kasulik - przydatny | użyteczny
+kasulik - przydatny, użyteczny
 kasutaja - użytkownik
 kasutama - używać
 kasvama - rosnąć
@@ -1019,14 +1019,14 @@ katedraal - katedra
 kategooria - kategoria
 kategooriline - kategoryczny
 käterätik - ręcznik
-Kätlin - Kätlin | estońskie imię żeńskie
+Kätlin - Kätlin, estońskie imię żeńskie
 katoliku - katolicki
-Katre - Katre | estońskie imię żeńskie
+Katre - Katre, estońskie imię żeńskie
 kättemaks - zemsta
 kättemaksuhimuline - mściwy
 katus - dach
 kaubamärk - znak towarowy
-kaugus - dystans | odległość | dal
+kaugus - dystans, odległość, dal
 Kaukaasia - Kaukaz
 kaukaaslane - mieszkaniec Kaukazu
 kaunidus - piękno
@@ -1036,21 +1036,21 @@ kaur - nur
 kaval - chytry
 kee - naszyjnik
 keegi - ktoś
-keel - język | mowa
+keel - język, mowa
 keeleteadus - językoznawstwo
 keemia - chemia
-keemik - chemik | aptekarz | farmaceuta
+keemik - chemik, aptekarz, farmaceuta
 keemiline - chemiczny
 keemiline füüsika - fizyka chemiczna
 keeristorm - cyklon
 keevitaja - spawacz
 kehakultuur - kultura fizyczna
 keiser - cesarz
-kenasti - ładnie | uroczo | miło
+kenasti - ładnie, uroczo, miło
 Kenya - Kenia
 kerjus - żebrak
-Kerli - Kerli | estońskie imię żeńskie
-Kersti - Kersti | estońskie imię żeńskie
+Kerli - Kerli, estońskie imię żeńskie
+Kersti - Kersti, estońskie imię żeńskie
 kesakuu - czerwiec
 Kesk-Euroopa - Europa Środkowa
 kesköö - północ
@@ -1059,13 +1059,13 @@ kevad - wiosna
 kibe - gorzki
 kiilaspäine - łysy
 kiir - promień
-kiiresti - szybko | prędko
+kiiresti - szybko, prędko
 kiirgusfüüsika - radiofizyka
 kiitma - chwalić
 kiivi - kiwi
 kiivitaja - czajka
 kilpkonn - żółw
-kindlasti - pewnie | na pewno
+kindlasti - pewnie, na pewno
 king - but
 kinnas - rękawiczka
 kino - kino
@@ -1091,7 +1091,7 @@ kliima - klimat
 kliinik - klinika
 kliiniline - kliniczny
 kloor - chlor
-klooster - opactwo | klasztor
+klooster - opactwo, klasztor
 kobras - bóbr
 kodakondsus - obywatelstwo
 kodu - dom
@@ -1099,10 +1099,10 @@ kodumaa - ojczyzna
 kodusõda - wojna domowa
 koer - pies
 kofeiin - kofeina
-kogemata - przypadkowo | przypadkiem
+kogemata - przypadkowo, przypadkiem
 kogunema - zbierać
 köha - kaszel
-kohalik - lokalny | miejscowy
+kohalik - lokalny, miejscowy
 köhima - kaszleć
 koht - miejsce
 kõht - brzuch
@@ -1110,17 +1110,17 @@ kohtama - spotykać
 kohtunik - sędzia
 kohustuslik - obowiązkowy
 kohv - kawa
-kohvibaar - bar kawowy | kawiarnia
+kohvibaar - bar kawowy, kawiarnia
 kohvipuu - kawowiec
-Koidu - Koidu | estońskie imię żeńskie
+Koidu - Koidu, estońskie imię żeńskie
 kõiv - brzoza
 kokaiin - kokaina
-kokku - razem | wspólnie
-kokkuhoid - oszczędzanie | oszczędność
+kokku - razem, wspólnie
+kokkuhoid - oszczędzanie, oszczędność
 kokkuhoidlik - oszczędny
 kokkupuude - kontakt
 kõlblusõpetus - etyka
-kole - okropny | wstrętny
+kole - okropny, wstrętny
 kollane - żółty
 kollisioon - kolizja
 kolm - trzy (3)
@@ -1136,7 +1136,7 @@ kolp - czaszka
 Kolumbus - Kolumb (odkrywca)
 komissariaat - komisariat
 komöödia - komedia
-komparatiiv - porównawczy | komparatywny
+komparatiiv - porównawczy, komparatywny
 kompositsioon - kompozycja
 kompuuter - komputer
 kõndima - chodzić
@@ -1150,7 +1150,7 @@ kont - kość
 kontinent - kontynent
 kontinentaalne - kontynentalny
 kontroll - kontrola
-kontrollima - sprawdzać | kontrolować
+kontrollima - sprawdzać, kontrolować
 kontseptuaalne - konceptualny
 kontsert - koncert
 koobalt - kobalt
@@ -1158,11 +1158,11 @@ köök - kuchnia
 Kookossaared - Wyspy Kokosowe
 kool - szkoła
 koolera - cholera
-kooljakuu - listopad | październik
+kooljakuu - listopad, październik
 kõõlus - ścięgno
 kõõm - łupież
 koopia - kopia
-koor - chór | śmietana
+koor - chór, śmietana
 koputama - pukać
 Koraan - Koran
 kõrb - pustynia
@@ -1191,9 +1191,9 @@ kreeka - grecki
 Kreeka - Grecja
 kriitiline - krytyczny
 kristall - kryształ
-Kristel - Kristel | estońskie imię żeńskie
-Kristi - Kristi | estońskie imię żeńskie
-Kristiina - Krystyna | estońskie imię żeńskie
+Kristel - Kristel, estońskie imię żeńskie
+Kristi - Kristi, estońskie imię żeńskie
+Kristiina - Krystyna, estońskie imię żeńskie
 kristlus - chrześcijaństwo
 kronoloogia - chronologia
 kroom - chrom
@@ -1209,16 +1209,16 @@ kuiv - suchy
 kukk - kogut
 kukkuma - spadać
 küla - wioska
-külaelanik - wieśniak | mieszkaniec wsi | wioski
+külaelanik - wieśniak, mieszkaniec wsi, wioski
 külaline - gość
-külastama - odwiedzić | odwiedzać | gościć u kogoś
+külastama - odwiedzić, odwiedzać, gościć u kogoś
 kuld - złoto
-külgetõmbav - atrakcyjny | pociągający
-kulinaaria - kulinaria | sztuka kulinarna
+külgetõmbav - atrakcyjny, pociągający
+kulinaaria - kulinaria, sztuka kulinarna
 kullassepp - jubiler
 kulles - kijanka
 külm - zimny
-külmik - chłodziarka | lodówka
+külmik - chłodziarka, lodówka
 külmkapp - lodówka
 kultuur - kultura
 kümme - dziesięć
@@ -1236,14 +1236,14 @@ kuratlik - diabelski
 kurb - smutny
 kurbus - smutek
 kurdi - kurdyjski
-kuri - zły | wściekły
-kurk - gardło | ogórek
-kurt - głuchy | głucha osoba
+kuri - zły, wściekły
+kurk - gardło, ogórek
+kurt - głuchy, głucha osoba
 kurtus - głuchota
 küsimus - pytanie
 kutse - zaproszenie
 kütus - paliwo
-kuu - księżyc | miesiąc
+kuu - księżyc, miesiąc
 kuues - szósty
 kuueteistkümnes - szesnasty
 kuulama - słuchać
@@ -1255,7 +1255,7 @@ kuumus - gorąco
 küünal - świeca
 küünarnukk - łokieć
 küünlakuu - wtorek
-kuup - sześcian | kostka
+kuup - sześcian, kostka
 kuupäev - data
 kuurium - kiur
 kuus - sześć (6)
@@ -1268,11 +1268,11 @@ laama - lama
 Lääne - prowincja w zachodniej Estonii
 Lääne-Euroopa - Europa Zachodnia
 Läänemeri - Morze Bałtyckie
-laanenäär - sójka syberyjska | sójka złowroga
+laanenäär - sójka syberyjska, sójka złowroga
 lääs - zachód
 laatsaret - szpital
-labane - banalny | tani | wulgarny | prostacki | pospolity | ordynarny
-laen - dług | pożyczka | zapożyczenie
+labane - banalny, tani, wulgarny, prostacki, pospolity, ordynarny
+laen - dług, pożyczka, zapożyczenie
 laenama - pożyczać
 laev - statek
 lagi - sufit
@@ -1285,14 +1285,14 @@ laisk - leniwy
 lame - płaski
 lammas - owca
 lämmastik - azot
-langema - spadać | upadać
-langetõbi - padaczka | epilepsja
+langema - spadać, upadać
+langetõbi - padaczka, epilepsja
 lantaan - lantan
 laps - dziecko
-Lassi - toponim | nazwa dwóch wsi estońskich w gminach Salme i Emmaste
+Lassi - toponim, nazwa dwóch wsi estońskich w gminach Salme i Emmaste
 Läti - Łotwa
 laud - stół
-lauk - czosnek | łyska
+lauk - czosnek, łyska
 laul - piosenka
 laulma - śpiewać
 laululuik - łabędź krzykliwy
@@ -1309,14 +1309,14 @@ lehm - krowa
 leht - liść
 leib - chleb
 leidma - znaleźć
-Leili - Leili | estońskie imię żeńskie
+Leili - Leili, estońskie imię żeńskie
 leitnant - porucznik
 lend - lot
 lendama - latać
-Lennart - Lennart | estońskie imię męskie
+Lennart - Lennart, estońskie imię męskie
 lennujaam - lotnisko
 lennuk - samolot
-lepp - olszyna | olcha
+lepp - olszyna, olcha
 lesk - wdowiec
 libahunt - wilkołak
 Libeeria - Liberia
@@ -1325,27 +1325,27 @@ ligidal - blisko
 liha - mięso
 lihas - mięsień
 lihavõtted - Wielkanoc
-lihtne - prosty | łatwy
+lihtne - prosty, łatwy
 lihunik - rzeźnik
-Liia - Liia | estońskie imię żeńskie
+Liia - Liia, estońskie imię żeńskie
 Liibanon - Liban
 liibanoni - libański
 liibanonlane - Libańczyk
 Liibüa - Libia
-Liidia - Liidia | estońskie imię żeńskie
+Liidia - Liidia, estońskie imię żeńskie
 liiga - też
-liik - rodzaj | gatunek
-Liilia - Lilia | estońskie imię żeńskie
+liik - rodzaj, gatunek
+Liilia - Lilia, estońskie imię żeńskie
 liim - klej
-Liina - Liina | estońskie imię żeńskie
-Liis - Liis | estońskie imię żeńskie
-Liisbet - Liisbet | estońskie imię żeńskie
-Liisi - Liisi | estońskie imię żeńskie
+Liina - Liina, estońskie imię żeńskie
+Liis - Liis, estońskie imię żeńskie
+Liisbet - Liisbet, estońskie imię żeńskie
+Liisi - Liisi, estońskie imię żeńskie
 liiter - litr
 liitium - lit
 liiv - piasek
 liivakell - klepsydra
-Liivi - Liivi | estońskie imię żeńskie
+Liivi - Liivi, estońskie imię żeńskie
 liköör - likier
 lill - kwiat
 lillkapsas - kalafior
@@ -1354,7 +1354,7 @@ lind - ptak
 linn - miasto
 linnus - zamek
 Linnutee - Droga Mleczna
-lipp - flaga | hetman | królowa | dama
+lipp - flaga, hetman, królowa, dama
 lips - krawat
 lisama - dodawać
 literatuur - literatura
@@ -1364,7 +1364,7 @@ lõbumaja - burdel
 lõbus - wesoły
 lõbustus - rozrywka
 lohe - smok
-lõhn - zapach | woń
+lõhn - zapach, woń
 lõikuskuu - sierpień
 loll - głupi
 London - Londyn
@@ -1387,7 +1387,7 @@ Lõuna-Ameerika - Ameryka Południowa
 Lõuna-Korea - Korea Południowa
 lõvi - lew
 Loviise - estońskie imię żeńskie
-luba - zezwolenie | pozwolenie
+luba - zezwolenie, pozwolenie
 lühik - krótki
 lühike - krótki
 lühinägevus - krótkowzroczność
@@ -1401,8 +1401,8 @@ luteetsium - lutet
 luu - kość
 luul - urojenie
 luule - poezja
-Luule - Luule | estońskie imię żeńskie
-luulekunst - ars poetica | sztuka poetycka
+Luule - Luule, estońskie imię żeńskie
+luulekunst - ars poetica, sztuka poetycka
 luuletaja - poeta
 luuletus - wiersz
 luuüdi - szpik kostny
@@ -1412,14 +1412,14 @@ maailmajagu - kontynent
 maal - malarstwo
 maalija - malarz
 maania - mania
-Maarika - Maarika | estońskie imię żeńskie | wariant imienia Marika
-Maarja - Maarja | estońskie imię żeńskie
-Maarjo - Maarjo | estońskie imię męskie | wariant imienia Mario
+Maarika - Maarika, estońskie imię żeńskie, wariant imienia Marika
+Maarja - Maarja, estońskie imię żeńskie
+Maarjo - Maarjo, estońskie imię męskie, wariant imienia Mario
 maasikas - truskawka
 maavärin - trzęsienie ziemi
 Madalmaad - Holandia
-Madi - Madi | estońskie imię męskie | krótko od Mattias | Matteus
-Madis - Madis | estońskie imię męskie | skrócenie imion Mattias i Matteus
+Madi - Madi, estońskie imię męskie, krótko od Mattias, Matteus
+Madis - Madis, estońskie imię męskie, skrócenie imion Mattias i Matteus
 madrus - marynarz
 madu - wąż
 magama - spać
@@ -1430,7 +1430,7 @@ magus - słodki
 mahl - sok
 mai - maj
 Maimu - estońskie imię żeńskie
-mainima - wspominać | wzmiankować
+mainima - wspominać, wzmiankować
 mais - kukurydza
 maitse - smak
 maitsekas - smaczny
@@ -1440,7 +1440,7 @@ majakas - latarnia morska
 makaron - makaron
 Makedoonia - Macedonia
 makedoonlane - Macedończyk
-makromolekul - makromolekuła | makrocząsteczka
+makromolekul - makromolekuła, makrocząsteczka
 maks - wątroba
 maksma - płacić
 malaaria - malaria
@@ -1452,16 +1452,16 @@ mangaan - mangan
 mänsak - orzechówka
 mära - klucz
 mardikas - żuk
-Marek - Marek | estońskie imię męskie
-märg - mokry | wilgotny
-Margit - Małgorzata | estońskie imię żeńskie
-Margo - Margo | estońskie imię męskie | wariant imienia Markus
+Marek - Marek, estońskie imię męskie
+märg - mokry, wilgotny
+Margit - Małgorzata, estońskie imię żeńskie
+Margo - Margo, estońskie imię męskie, wariant imienia Markus
 Maria - Maria (imię żeńskie)
 marihuaana - marihuana
 Marika - Marika
 märklaud - cel
 marmor - marmur
-Märt - Märt | estońskie imię męskie | wariant imienia Martin
+Märt - Märt, estońskie imię męskie, wariant imienia Martin
 märts - marzec
 masin - maszyna
 maskuliin - męski
@@ -1473,7 +1473,7 @@ matemaatik - matematyk
 matemaatika - matematyka
 matemaatiline - matematyczny
 materjal - materiał
-matk - wycieczka | wędrówka
+matk - wycieczka, wędrówka
 matus - pogrzeb
 Mauritaania - Mauretania
 mausoleum - mauzoleum
@@ -1481,14 +1481,14 @@ me - my
 meditsiin - medycyna
 meditsiinidoktor - doktor medycyny
 meditsiiniline - medyczny
-meditsiiniõde - pielęgniarka | pielęgniarz
+meditsiiniõde - pielęgniarka, pielęgniarz
 meeldima - lubić
-Meelis - Meelis | estońskie imię męskie
+Meelis - Meelis, estońskie imię męskie
 meenutama - przypominać
-mees - mężczyzna | mąż
+mees - mężczyzna, mąż
 meessoost - męski
 Mehhiko - Meksyk
-Mehis - Mehis | estońskie imię męskie
+Mehis - Mehis, estońskie imię męskie
 meie - my
 meisterlik - mistrzowski
 meitneerium - meitner
@@ -1517,9 +1517,9 @@ metsis - głuszec
 metskurvits - słonka
 metsvint - zięba
 mihklikuu - wrzesień
-Miikael - Michał | estońskie imię męskie
-Miiko - Miiko | estońskie imię męskie
-Mikk - Mikk | estońskie imię męskie | krótko od Mihkel
+Miikael - Michał, estońskie imię męskie
+Miiko - Miiko, estońskie imię męskie
+Mikk - Mikk, estońskie imię męskie, krótko od Mihkel
 mikrobioloogia - mikrobiologia
 mikroorganism - mikroorganizm
 miljon - milion
@@ -1532,7 +1532,7 @@ mineraloogia - mineralogia
 minia - synowa
 minu - mój
 mitte - nie
-modifitseerima - modyfikować | zmieniać | przekształcać
+modifitseerima - modyfikować, zmieniać, przekształcać
 mõdu - miód pitny
 möga - nonsens
 mõistma - rozumieć
@@ -1551,10 +1551,10 @@ monoteism - monoteizm
 Montenegro - Czarnogóra
 mõnus - wygodny
 mööbel - mebel
-mood - moda | styl
+mood - moda, styl
 mõõk - miecz
 moos - dżem
-moosekant - muzyk | muzykant
+moosekant - muzyk, muzykant
 moraalsus - moralność
 morfiin - morfina
 mõrtsukas - morderca
@@ -1566,16 +1566,16 @@ mošee - meczet
 mõte - pomysł
 mõtlema - myśleć
 mugav - wygodny
-mugavus - komfort | wygoda
+mugavus - komfort, wygoda
 mükoloogia - mykologia
-muld - ziemia | gleba
+muld - ziemia, gleba
 multimiljonär - multimilioner
 muna - jajko
 münt - moneta
 müoopia - krótkowzroczność
-mure - żal | zmartwienie
+mure - żal, zmartwienie
 mürgine - trujący
-mürgitama - truć | zatruć | otruć
+mürgitama - truć, zatruć, otruć
 mürk - trucizna
 murrak - dialekt
 murre - dialekt
@@ -1602,12 +1602,12 @@ nädalavahetus - weekend
 naer - śmiech
 naerma - śmiać się
 nägemist - do widzenia
-nägus - przystojny | ładny
+nägus - przystojny, ładny
 nahk - skóra
 nahkhiir - nietoperz
 näide - przykład
 näiline - iluzja
-naine - kobieta | żona
+naine - kobieta, żona
 naispolitseinik - policjantka
 näitleja - aktor
 näitlejanna - aktorka
@@ -1626,7 +1626,7 @@ natsionalist - nacjonalista
 natsioon - naród
 naturalisatsioon - naturalizacja
 neel - gardło
-neelama - połykać | przełykać
+neelama - połykać, przełykać
 Neitsisaared - Wyspy Dziewicze
 neli - cztery
 nelikümmend - czterdzieści
@@ -1646,10 +1646,10 @@ neutraliteet - neutralność
 niatsiin - niacyna
 nihilism - nihilizm
 niikuinii - jakkolwiek
-niiske - wilgotny | zwilżony
+niiske - wilgotny, zwilżony
 nikkel - nikiel
 nikotiin - nikotyna
-nimi - imię | nazwa
+nimi - imię, nazwa
 ninasarvik - nosorożec
 ning - i
 nioobium - niob
@@ -1681,13 +1681,13 @@ ohtlik - niebezpieczny
 õhtu - wieczór
 õigesti - właściwie
 õigeusklik - ortodoksyjny
-õiglane - uczciwy | szczery
+õiglane - uczciwy, szczery
 õiglus - sprawiedliwość
 õigusteadlane - prawoznawca
 õilis - szlachetny
 õis - kwiat (pączek)
 õitsema - prosperować
-oivaline - wyśmienity | doskonały | smaczny
+oivaline - wyśmienity, doskonały, smaczny
 Okeaania - Oceania
 ökonomeetriline - ekonometryczny
 ökonomist - ekonomista
@@ -1702,11 +1702,11 @@ oled - olema
 olema - być
 oleme - olema
 olen - olema
-olenema - zależeć | polegać na
+olenema - zależeć, polegać na
 olete - olema
 oliivipuu - drzewo oliwne
 õlu - piwo
-oluline - podstawowy | ważny | znaczący | istotny
+oluline - podstawowy, ważny, znaczący, istotny
 oma - własny
 omadussõna - przymiotnik
 omama - posiadać
@@ -1717,7 +1717,7 @@ omlett - omlet
 on - i olema
 onkoloog - onkolog
 onkoloogia - onkologia
-õnn - radość | szczęście
+õnn - radość, szczęście
 õnnelik - szczęśliwy
 önoloogia - enologia
 onu - wujek
@@ -1757,7 +1757,7 @@ ortodoksne - ortodoksyjny
 osa - część
 osake - cząstka
 osakeste füüsika - fizyka cząstek (elementarnych)
-osakond - oddział | departament
+osakond - oddział, departament
 oskama - wiedzieć
 osmium - osm
 ost - zakup
@@ -1765,17 +1765,17 @@ ostma - kupować
 östrogeen - estrogen
 otell - hotel
 otsima - szukać
-otsing - szukanie | poszukiwanie | wyszukiwanie
+otsing - szukanie, poszukiwanie, wyszukiwanie
 otsus - decyzja
 õun - jabłko
 õunapuu - jabłoń
 ovaal - owal
-ovulatsioon - owulacja | jajeczkowanie
+ovulatsioon - owulacja, jajeczkowanie
 paabulind - paw
 paanika - panika
 paar - para
 pääsuke - jaskółka
-paat - łódka | łódź
+paat - łódka, łódź
 paber - papier
 padi - poduszka
 pael - wstążka
@@ -1786,23 +1786,23 @@ paha - zły
 pähkel - orzech
 paik - miejsce
 päike - słońce
-päikesefüüsika - heliofizyka | fizyka Słońca
+päikesefüüsika - heliofizyka, fizyka Słońca
 päikeseloojang - zachód słońca
 painduma - zginać
-paise - ropień | wrzód
-paistetus - obrzęk | puchlizna
+paise - ropień, wrzód
+paistetus - obrzęk, puchlizna
 paju - wierzba
 pakkuma - oferować
 paks - gęsty
 palav - gorący
-palavik - gorączka | temperatura
+palavik - gorączka, temperatura
 palee - pałac
 Palestiina - Palestyna
 palitu - płaszcz
-paljas - nagi | goły
+paljas - nagi, goły
 palkon - balkon
 pallaadium - pallad
-paluma - pytać o | prosić
+paluma - pytać o, prosić
 pandeism - pandeizm
 panema - umieszczać
 pang - wiadro
@@ -1813,7 +1813,7 @@ papagoi - papuga
 paralüüs - paraliż
 parameedik - paramedyk
 parameeter - parametr
-paras - wystarczający | właściwy | pasujący | odpowiedni
+paras - wystarczający, właściwy, pasujący, odpowiedni
 Pariis - Paryż
 parkima - parkować
 pärm - drożdże
@@ -1823,10 +1823,10 @@ parun - baron
 pask - gówno
 päts - bochenek
 patsient - pacjent
-pealinn - stolica | miasto stołeczne
+pealinn - stolica, miasto stołeczne
 pealkiri - tytuł
 pealuu - czaszka
-peamine - główny | podstawowy | fundamentalny
+peamine - główny, podstawowy, fundamentalny
 peaminister - premier
 peavalu - ból głowy
 peegel - lustro
@@ -1839,7 +1839,7 @@ perkussioon - perkusja
 personifikatsioon - personifikacja
 Peruu - Peru
 pesa - gniazdo
-pesema - myć | czyścić | zmywać
+pesema - myć, czyścić, zmywać
 petersell - pietruszka
 pidutsema - świętować
 pidžaama - piżama
@@ -1847,17 +1847,17 @@ pihlakas - jarzębina
 Piibel - Biblia
 piilpart - cyraneczka
 piim - mleko
-piiramatu - absolutny | nieograniczony
+piiramatu - absolutny, nieograniczony
 piiritaja - jerzyk
 piirjoon - granica
 piiskop - biskup
 pikk - długi
-pikkamisi - wolno | powoli
+pikkamisi - wolno, powoli
 pikkus - długość
 pildistama - fotografować
 pilet - bilet
 piloot - pilot
-pilt - obrazek | zdjęcie | ilustracja
+pilt - obrazek, zdjęcie, ilustracja
 pilv - chmura
 pilvine - pochmurny
 pilvitu - bezchmurny
@@ -1869,10 +1869,10 @@ pintsak - kurtka
 pipar - pieprz
 pirn - gruszka
 pisike - maleńki
-pisut - mało | niewiele
+pisut - mało, niewiele
 pitsat - pieczęć
 Pittsburgh - Pittsburgh (stolica Allegheny)
-plaan - plan | projekt
+plaan - plan, projekt
 plaat - płyta
 plaatina - platyna
 plagiaator - plagiator
@@ -1886,20 +1886,20 @@ pliiats - ołówek
 ploom - śliwka
 ploomipuu - śliwa
 plutoonium - pluton
-pluus - bluza | bluzka
+pluus - bluza, bluzka
 põder - łoś
 podiaatria - podologia
 poeesia - poezja
 poeet - poeta
-poeg - chłopak | syn
-põgenema - uciekać | uciec
+poeg - chłopak, syn
+põgenema - uciekać, uciec
 Põhja-Aafrika - Afryka Północna
 Põhja-Ameerika - Ameryka Północna
 Põhja-Korea - Korea Północna
 põhjavint - jer
-põhjus - przyczyna | powód
+põhjus - przyczyna, powód
 pöial - kciuk
-poiss - chłopak | chłopiec
+poiss - chłopak, chłopiec
 põld - pole
 põldpüü - kuropatwa
 põlemine - spalanie
@@ -1944,12 +1944,12 @@ Prantsusmaa - Francja
 praseodüüm - prazeodym
 preemia - premia
 preester - ksiądz
-preili - panna | młoda dama
+preili - panna, młoda dama
 presbüter - prezbiter
 prillid - okulary
-printsiip - zasada | reguła
+printsiip - zasada, reguła
 privileeg - przywilej
-probleem - problem | kwestia
+probleem - problem, kwestia
 prohvet - prorok
 proklamatsioon - proklamacja
 promeetium - promet
@@ -1963,8 +1963,8 @@ protsent - procent
 Provansi - język prowansalski
 provisoorne - prowizoryczny
 provitamiin - prowitamina
-prügi - śmieci | odpady
-pruut - narzeczona | panna młoda
+prügi - śmieci, odpady
+pruut - narzeczona, panna młoda
 psühhiaater - psychiatra
 psühholoog - psycholog
 psühholoogia - psychologia
@@ -1976,20 +1976,20 @@ puder - owsianka
 püha - święty
 pühapäev - niedziela
 puhas - czysty
-puhastama - czyścić | oczyszczać
+puhastama - czyścić, oczyszczać
 puhkama - odpoczywać
 puhkus - wakacje
 puhmas - krzak
 püksid - spodnie
-pull - byk | wół
-pulmad - ślub | wesele
+pull - byk, wół
+pulmad - ślub, wesele
 punane - czerwony
 punarind - rudzik
 pung - pąk
 purjus - pijany
 püss - pistolet
-püssirohi - proch | proch strzelniczy
-putukas - owad | robak
+püssirohi - proch, proch strzelniczy
+putukas - owad, robak
 puu - drzewo
 püü - kuropatwa
 puudel - pudel
@@ -2004,7 +2004,7 @@ puuvillane - bawełniany
 raadio - radio
 raadium - rad
 raal - komputer
-raam - rama | ramka
+raam - rama, ramka
 raamat - książka
 raamatukogu - biblioteka
 raamatukoguhoidja - bibliotekarz
@@ -2014,40 +2014,40 @@ rabapüü - pardwa mszarna
 rada - ścieżka
 radiobioloogia - radiobiologia
 radoon - radon
-raha - pieniądz | pieniądze
+raha - pieniądz, pieniądze
 rahakott - portmonetka
 rähn - dzięcioł
 rahvas - ludzie
 rahvastikuteadus - demografia
 rahvushümn - hymn narodowy
 rahvuslus - nacjonalizm
-rajoon - dystrykt | rejon | okolica
+rajoon - dystrykt, rejon, okolica
 rakendusfüüsika - fizyka stosowana
-rand - plaża | wybrzeże
+rand - plaża, wybrzeże
 rändaja - podróżnik
 rändama - podróżować
 räni - krzem
 ranne - nadgarstek
 rase - w ciąży
 rasedus - ciąża
-raske - trudny | ciężki
+raske - trudny, ciężki
 rass - rasa
 rassism - rasizm
 rästas - drozd
 rasv - tłuszcz
 rasvaimu - liposukcja
-rasvatihane - bogatka | sikora bogatka
-ratas - rower | koło
+rasvatihane - bogatka, sikora bogatka
+ratas - rower, koło
 ratastool - wózek inwalidzki
 ratsavägi - kawaleria
 rätsep - krawiec
 raud - żelazo
-raudtee - kolej (środek transportu) | linia kolejowa
+raudtee - kolej (środek transportu), linia kolejowa
 raudteejaam - stacja kolejowa
-ravi - leczenie | terapia
+ravi - leczenie, terapia
 ravim - lek
 ravima - leczyć
-realism - realizm | realism
+realism - realizm, realism
 realistlik - realistyczny
 rebane - lis
 redis - rzodkiewka
@@ -2061,7 +2061,7 @@ regulaarne - regularny
 rehekuu - październik
 reinkarnatsioon - reinkarnacja
 reis - podróż
-reisija - pasażer | podróżnik
+reisija - pasażer, podróżnik
 reisima - podróżować
 reklaam - reklama
 religioon - religia
@@ -2079,12 +2079,12 @@ revolutsiooniline - rewolucyjny
 režissöör - reżyser
 riboflaviin - ryboflawina
 riietumine - odzież
-riik - kraj | państwo
+riik - kraj, państwo
 riim - rym
 riis - ryż
 riist - narzędzie
 rikas - bogaty
-rike - defekt | wada | szkoda | uszkodzenie
+rike - defekt, wada, szkoda, uszkodzenie
 rind - pierś
 ring - kółko
 risk - ryzyko
@@ -2111,7 +2111,7 @@ rõõm - radość
 roos - róża
 roosa - różowy
 Rootsi - Szwecja
-röövel - rabuś | złodziej
+röövel - rabuś, złodziej
 rott - szczur
 rubiidium - rubid
 rukis - żyto
@@ -2123,33 +2123,33 @@ rumm - rum
 ruteenium - ruten
 rutherfordium - roentgen
 rüütel - rycerz
-saabas - but | kamasz
-saabuma - przybyć | przybywać | przyjeżdżać
+saabas - but, kamasz
+saabuma - przybyć, przybywać, przyjeżdżać
 šaakal - szakal
 saal - sala
 saar - wyspa
-Saara - Sara | estońskie imię żeńskie
+Saara - Sara, estońskie imię żeńskie
 saarestik - archipelag
 saastumine - zanieczyszczenie
 saatan - szatan
-saatanlik - demoniczny | sataniczny
+saatanlik - demoniczny, sataniczny
 saatürlik - satyryczny
-saatus - przeznaczenie | los
+saatus - przeznaczenie, los
 saba - ogon
 sada - liczba 100
-sadam - port | przystań
+sadam - port, przystań
 sadama - upaść
 sadamalinn - port morski
 sadu - opad
 sage - częsty
 sageli - często
 sahharoos - sacharoza
-sajand - wiek | stulecie
+sajand - wiek, stulecie
 sajas - setny
 saksa - język niemiecki
 Saksamaa - Niemcy
-Saksamaa Liitvabariik - Republika Federalna Niemiec | Niemcy
-saladus - tajemnica | sekret
+Saksamaa Liitvabariik - Republika Federalna Niemiec, Niemcy
+saladus - tajemnica, sekret
 salapärane - tajemniczy
 salat - sałatka
 sall - szalik
@@ -2164,7 +2164,7 @@ sammal - mech
 šampanja - szampan
 šampoon - szampon
 šampus - szampan
-samuti - także | również
+samuti - także, również
 sandaal - sandał
 säng - łóżko
 šantažeerija - szantażysta
@@ -2190,7 +2190,7 @@ seitsekümmend - siedemdziesiąt
 seitseteist - siedemnaście
 seitsmes - siódmy
 seitsmeteistkümnes - siedemnasty
-seksapiil - sex appeal | seksapil
+seksapiil - sex appeal, seksapil
 seksism - seksizm
 seksist - seksista
 seksuaalne - seksualny
@@ -2213,7 +2213,7 @@ siid - jedwab
 siidisaba - jemiołuszka
 siidiuss - jedwabnik
 siil - jeż
-Siiri - Siiri | estońskie imię żeńskie
+Siiri - Siiri, estońskie imię żeńskie
 siirup - syrop
 sild - most
 silm - oko
@@ -2222,7 +2222,7 @@ Singapur - Singapur
 sinikael-part - krzyżówka
 sinine - niebieski
 sinirind - podróżniczek
-sinitihane - modraszka | sikora modra
+sinitihane - modraszka, sikora modra
 sipelgas - mrówka
 sirge - prosty
 sisemajanduse kogutoodang - produkt krajowy brutto
@@ -2231,24 +2231,24 @@ skorbuut - szkorbut
 skorpion - skorpion
 Skorpion - Skorpion
 skulptuur - rzeźba
-slovaki - słowacki | słowacki (język)
+slovaki - słowacki, słowacki (język)
 Slovakkia - Słowacja
 Sloveenia - Słowenia
 sõber - przyjaciel
-sõbralik - przyjazny | życzliwy
+sõbralik - przyjazny, życzliwy
 sõda - wojna
 sõdur - żołnierz
 soe - ciepły
 soekuu - wtorek
 šogun - szogun
-sohva - sofa | kanapa
+sohva - sofa, kanapa
 sokk - skarpeta
 šokolaad - czekolada
 Solon - Solon
 sõltumatus - niepodległość
 Sõltumatute Riikide Ühendus - Wspólnota Niepodległych Państw
 sõltuvus - nałóg
-solvama - urazić | obrazić | znieważyć
+solvama - urazić, obrazić, znieważyć
 Somaalia - Somalia
 sõna - słowo
 sõnaraamat - słownik
@@ -2259,7 +2259,7 @@ sööma - jeść
 soome - fiński
 Soome - Finlandia
 soon - ścięgno
-soov - życzenie | pragnienie | chęć
+soov - życzenie, pragnienie, chęć
 sõprus - przyjaźń
 sõrm - palec
 šoti - szkocki
@@ -2296,7 +2296,7 @@ surmama - zabić
 surnud - martwy
 süsinik - węgiel
 süstal - strzykawka
-süsteem - system | układ
+süsteem - system, układ
 süstemaatika - systematyka
 suu - usta
 suudlus - pocałunek
@@ -2305,15 +2305,15 @@ suura - sura
 Suurbritannia - Wielka Brytania
 süüria - syryjski
 Süüria - Syria
-suurusluul - mania wielkości | megalomania
+suurusluul - mania wielkości, megalomania
 suvi - lato
 Šveits - Szwajcaria
 taani - duński
 Taani - Dania
 taevas - niebo
-Taga-Kaukaasia - Kaukaz Południowy | Zakaukazja | Zakaukazie | Transkaukazja
+Taga-Kaukaasia - Kaukaz Południowy, Zakaukazja, Zakaukazie, Transkaukazja
 tähestik - alfabet
-tahhükardia - tachykardia | częstoskurcz
+tahhükardia - tachykardia, częstoskurcz
 tahke keha füüsika - fizyka ciała stałego
 tahkisefüüsika - fizyka ciała stałego
 täht - gwiazda
@@ -2322,16 +2322,16 @@ tähtkuju - konstelacja
 tahtma - chcieć
 tahvel - tablica
 Tai - Tajlandia
-täielik - absolutny | całkowity
+täielik - absolutny, całkowity
 täiesti - całkowicie
 taim - roślina
 taimebioloogia - fitobiologia
-taimefüsioloogia - fizjologia roślin | fitofizjologia
-taimetoit - wegetariańskie danie | wegetariańskie jedzenie
-taimetoitlane - wegetarianin | weganin
+taimefüsioloogia - fizjologia roślin, fitofizjologia
+taimetoit - wegetariańskie danie, wegetariańskie jedzenie
+taimetoitlane - wegetarianin, weganin
 taimetoitlus - wegetarianizm
-täiuslik - perfekcyjny | doskonały | ukończony | skończony
-täiuslikkus - perfekcja | doskonałość
+täiuslik - perfekcyjny, doskonały, ukończony, skończony
+täiuslikkus - perfekcja, doskonałość
 taksiauto - taksówka
 takso - taksówka
 taksojuht - taksówkarz
@@ -2340,7 +2340,7 @@ Tallinn - Tallinn
 tallium - tal
 talv - zima
 tammetõru - żołądź
-täna - dziś | dzisiaj
+täna - dziś, dzisiaj
 tänama - dziękować
 tänamatu - niewdzięczny
 tänav - ulica
@@ -2362,7 +2362,7 @@ teadustama - ogłaszać
 teadvus - świadomość
 teave - informacja
 teder - cietrzew
-tee - herbata | droga (trasa)
+tee - herbata, droga (trasa)
 tegusõna - czasownik
 teha sääsest elevant - robić z igły widły
 tehissaar - sztuczna wyspa
@@ -2370,7 +2370,7 @@ tehneetsium - technet
 teisipäev - wtorek
 tekst - tekst
 telefon - telefon
-telefonikabiin - kabina telefoniczna | budka telefoniczna
+telefonikabiin - kabina telefoniczna, budka telefoniczna
 telefoninumber - numer telefoniczny
 televisioon - telewizja
 telluur - tellur
@@ -2382,7 +2382,7 @@ teooria - teoria
 teraapia - terapia
 teras - stal
 terbium - terb
-tere - cześć | witaj (powitanie) | halo ( przez telefon)
+tere - cześć, witaj (powitanie), halo ( przez telefon)
 tere hommikust - dzień dobry (powitanie w godzinach porannych)
 tere õhtust - dobry wieczór
 termomeeter - termometr
@@ -2392,16 +2392,16 @@ tigu - ślimak
 tihane - sikora
 Tiibet - Tybet
 tiiger - tygrys
-Tiina - Tiina | estońskie imię żeńskie
+Tiina - Tiina, estońskie imię żeńskie
 tina - cyna
 titaan - tytan
-tõeline - prawdziwy | właściwy
+tõeline - prawdziwy, właściwy
 toit - jedzenie
 tõlk - tłumacz
 tõlkija - tłumacz
 tõlkima - tłumaczyć
 tomat - pomidor
-tõmmu - brązowy | śniady | smagły
+tõmmu - brązowy, śniady, smagły
 töö - praca
 toonekurg - bocian
 toorium - tor
@@ -2425,7 +2425,7 @@ tsirkoonium - cyrkon
 tsirkus - cyrk
 tsiviilisik - cywil
 tsiviliseerima - cywilizować
-tsoon - zona | strefa
+tsoon - zona, strefa
 tuba - pokój
 tüdruk - dziewczyna
 tugevus - siła
@@ -2445,11 +2445,11 @@ Türgi - Turcja
 Turks ja Caicos - Turks i Caicos
 tütar - córka
 tütarlaps - dziewczyna
-tutkas - batalion | bojownik
+tutkas - batalion, bojownik
 tuttpütt - perkoz dwuczuby
 tuul - wiatr
 Tuulepealsed saared - Wyspy Na Wietrze
-Tuuli - Tuuli | estońskie imię żeńskie
+Tuuli - Tuuli, estońskie imię żeńskie
 tuulium - tul
 tuumafüüsika - fizyka jądrowa
 tuvi - gołąb
@@ -2468,13 +2468,13 @@ uks - drzwi
 üks - jeden
 üks kõigi ja kõik ühe eest - jeden za wszystkich, wszyscy za jednego
 ükssarvik - jednorożec
-üksteist - jedenaście | 11
+üksteist - jedenaście, 11
 ülekohus - niesprawiedliwość
 ülikool - uniwersytet
-üliõpilane - student | studentka
+üliõpilane - student, studentka
 ümberlõikamine - obrzezanie
 Ungari - Węgry
-unikaalne - unikalny | unikatowy
+unikaalne - unikalny, unikatowy
 universaalne - uniwersalny
 unts - uncja
 unustama - zapomnieć
@@ -2482,7 +2482,7 @@ uraan - uran
 üritama - próbować
 urvalind - czeczotka
 uskuma - wierzyć
-uskumatu - niewiarygodny | niemożliwy
+uskumatu - niewiarygodny, niemożliwy
 uss - robak
 usund - wiara
 üterbium - iterb
@@ -2492,7 +2492,7 @@ uurija - badacz
 uus - nowy
 Uus-Meremaa - Nowa Zelandia
 vaas - wazon
-vaatama - widzieć | zobaczyć
+vaatama - widzieć, zobaczyć
 väävel - siarka
 vabadus - wolność
 vabariik - republika
@@ -2505,19 +2505,19 @@ vaht - piana
 vahvel - wafel
 vaik - żywica
 väike - mały
-väikekoskel - bielaczek | tracz bielaczek
+väikekoskel - bielaczek, tracz bielaczek
 väikepütt - perkozek
 Vaikne ookean - Ocean Spokojny
 vaikus - cisza
 väimees - zięć
 valetaja - kłamca
-valge - biały | osoba biała
+valge - biały, osoba biała
 valgevene - białoruski
 Valgevene - Białoruś
 valgus - światło
-välismaalane - cudzoziemiec | obcokrajowiec
-välismaine - obcy | zagraniczny
-väljaanne - edycja | wydanie | wydawnictwo
+välismaalane - cudzoziemiec, obcokrajowiec
+välismaine - obcy, zagraniczny
+väljaanne - edycja, wydanie, wydawnictwo
 valuuta - waluta
 valve - straż
 vana - stary
@@ -2530,19 +2530,19 @@ vannituba - łazienka
 varblane - wróbel
 vares - wrona
 vari - cień
-varjatud - ukryty | skryty | tajemny
+varjatud - ukryty, skryty, tajemny
 varrukas - rękaw
 värske - świeży
-vart - grążyca | kaczka nurkująca
+vart - grążyca, kaczka nurkująca
 värv - farba
-vasar - młot | młotek
+vasar - młot, młotek
 vasektoomia - wazektomia
 väsinud - zmęczony
 vask - miedź
 vastama - odpowiedzieć
 vastlakuu - wtorek
-vastuvõetav - do przyjęcia | zadowalający
-Vatikan - Państwo Watykańskie | Watykan
+vastuvõetav - do przyjęcia, zadowalający
+Vatikan - Państwo Watykańskie, Watykan
 vatt - wat
 veebruar - luty
 veegan - weganin
@@ -2571,8 +2571,8 @@ veterinaarkliinik - klinika weterynaryjna
 veterinaarne - weterynaryjny
 Victoria saar - Wyspa Wiktorii
 vietnami - wietnamski
-viha - gniew | wrogość
-vihane - zły | rozgniewany
+viha - gniew, wrogość
+vihane - zły, rozgniewany
 vihik - zeszyt
 vihkama - nienawidzić
 vihkamine - nienawiść
@@ -2596,14 +2596,14 @@ vintpüss - karabin
 vismut - bizmut
 vitamiin - witamina
 viupart - świstun
-või - masło | lub
+või - masło, lub
 võileib - kanapka
 võim - moc
 võimalik - możliwy
 võimetu - niezdolny
 võitja - zwycięzca
 volfram - wolfram
-võlts - sztuczny | fałszywy
+võlts - sztuczny, fałszywy
 võlur - czarodziej
 voodi - łóżko
 võrkkiik - hamak
@@ -2613,9 +2613,9 @@ vulgarism - wulgaryzm
 vulkaan - wulkan
 vürts - przyprawa
 Wales - Walia
-Yulia - Julia | estońskie imię żeńskie
+Yulia - Julia, estońskie imię żeńskie
 žalusii - żaluzja
-žanr - gatunek | rodzaj
+žanr - gatunek, rodzaj
 žargoon - żargon
 želatiin - żelatyna
 ženšenn - żeńszeń

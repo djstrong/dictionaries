@@ -1,4 +1,4 @@
-a - a | ale
+a - a, ale
 abdikacija - abdykacja
 aerodinamički - aerodynamiczny
 aerodinamika - aerodynamika
@@ -52,28 +52,28 @@ Benin - Benin
 benzen - benzen
 biber - pieprz
 Biblija - Biblia
-bijelac - biały | osoba białego koloru skóry
+bijelac - biały, osoba białego koloru skóry
 biografija - biografia
 biologija - biologia
 birokracija - biurokracja
 biskup - biskup
 Bivša Jugoslovenska Republika Makedonija - Była Jugosłowiańska Republika Macedonii
-Bizantija - cesarstwo bizantyńskie | Bizancjum
+Bizantija - cesarstwo bizantyńskie, Bizancjum
 Bjelorusija - Białoruś
-bjeloruski - białoruski | język białoruski
+bjeloruski - białoruski, język białoruski
 Bliski Istok - Bliski Wschód
 bogatstvo - bogactwo
 Bolivija - Boliwia
 bosanski - bośniacki
 Bosna - Bośnia
 Bosna i Hercegovina - Bośnia i Hercegowina
-božanstvo - bóstwo | bóg
+božanstvo - bóstwo, bóg
 budžet - budżet
 Bugarska - Bułgaria
-bugarski - bułgarski | język bułgarski
+bugarski - bułgarski, język bułgarski
 carstvo - cesarstwo
 časopis - czasopismo
-češki - czeski | czeski (język)
+češki - czeski, czeski (język)
 četrdeset - czterdzieści
 Čile - Chile
 ćirilica - cyrylica
@@ -85,18 +85,18 @@ crnogorski - czarnogórski
 čudo - cud
 cvrčak - świerszcz
 dan - dzień
-dan rođenja - urodziny | dzień narodzin
+dan rođenja - urodziny, dzień narodzin
 davno - dawno
 decembar - grudzień
 deklinacija - deklinacja
 demokratija - demokracja
-devedeset - dziewięćdziesiąt | 90
+devedeset - dziewięćdziesiąt, 90
 dijalekt - dialekt
 diktatorski - dyktatorski
 dimorfizam - dymorfizm
-djak - student | uczeń
+djak - student, uczeń
 dobar dan - dzień dobry
-dobrodošli - witajcie | witamy
+dobrodošli - witajcie, witamy
 drugi svjetski rat - druga wojna światowa
 država - państwo
 đus - sok
@@ -112,7 +112,7 @@ Elzas - Alzacja
 energetika - energetyka
 energija - energia
 Engleska - Anglia
-engleski - angielski | angielski (język)
+engleski - angielski, angielski (język)
 erbij - erb
 Eritreja - Erytrea
 estetika - estetyka
@@ -136,8 +136,8 @@ fizika - fizyka
 fonetika - fonetyka
 Francuska - Francja
 francuski - francuski
-fudbal - futbol | piłka nożna
-fudbalski - futbolowy | piłkarski
+fudbal - futbol, piłka nożna
+fudbalski - futbolowy, piłkarski
 funkcija - funkcja
 Gargantua - Gargantua
 geografija - geografia
@@ -151,7 +151,7 @@ građanski rat - wojna domowa
 gramatika - gramatyka
 gravitacija - grawitacja
 grb - godło
-grčki - grecki | grecki (język)
+grčki - grecki, grecki (język)
 Grenland - Grenlandia
 Gvatemala - Gwatemala
 Harkiv - Charków
@@ -164,7 +164,7 @@ historijski - historyczny
 Holandija - Holandia
 hrišćanstvo - chrześcijaństwo
 Hrvatska - Chorwacja
-hrvatski - chorwacki | chorwacki (język)
+hrvatski - chorwacki, chorwacki (język)
 i - i
 igra - gra
 igrati - grać
@@ -195,12 +195,12 @@ kapitalizam - kapitalizm
 karijera - kariera
 kašupski - kaszubski
 Katalonija - Katalonia
-katalonski - kataloński | kataloński (język)
+katalonski - kataloński, kataloński (język)
 kategorija - kategoria
 Katmandu - Katmandu
 katoličanstvo - katolicyzm
 Kazahstan - Kazachstan
-kazaški - kazachski | język kazachski
+kazaški - kazachski, język kazachski
 Kenija - Kenia
 Kina - Chiny
 Kirgistan - Kirgistan
@@ -219,22 +219,22 @@ kraljevstvo - królestwo
 krivično pravo - prawo karne
 krumpir - ziemniak
 kuća - dom
-kuharski - kucharski | kuchenny
+kuharski - kucharski, kuchenny
 kukuruz - kukurydza
 Kur'an - Koran
 Kuvajt - Kuwejt
-latinski - łaciński | latyński
+latinski - łaciński, latyński
 leksikon - leksykon
 Libanon - Liban
 Libija - Libia
 lider - lider
 likopen - likopen
-lingvistika - lingwistyka | językoznawstwo
+lingvistika - lingwistyka, językoznawstwo
 ljeto - lato
 London - Londyn
 Luksemburg - Luksemburg
 lupa - lupa
-mađarski - węgierski | język węgierski
+mađarski - węgierski, język węgierski
 Makedonija - Macedonia
 makedonski - macedoński
 makroekonomija - makroekonomia
@@ -257,10 +257,10 @@ moj - mój
 Monako - Monako
 monofizitstvo - monofizytyzm
 most - most
-munja - piorun | grom | błyskawica
+munja - piorun, grom, błyskawica
 mural - mural
 muzej - muzeum
-nacija - naród | nacja
+nacija - naród, nacja
 nacionalizam - nacjonalizm
 nagrada - nagroda
 Nairobi - Nairobi
@@ -269,7 +269,7 @@ Napulj - Neapol
 narkotik - narkotyk
 nauka - nauka
 nebo - niebo
-nedavno - ostatnio | niedawno
+nedavno - ostatnio, niedawno
 nedjelja - niedziela
 neolitik - neolit
 Nepal - Nepal
@@ -278,7 +278,7 @@ nihilizam - nihilizm
 Nikaragva - Nikaragua
 Njemačka - Niemcy
 njemački - niemiecki
-nogomet - futbol | piłka nożna
+nogomet - futbol, piłka nożna
 Norveška - Norwegia
 novembar - listopad
 numeracija - numeracja
@@ -293,7 +293,7 @@ organizam - organizm
 Osaka - Osaka
 panteizam - panteizm
 Paragvaj - Paragwaj
-pare kad odlaze imaju stotinu nogu, a kad dolaze samo dvije - pieniądze | kiedy odchodzą | mają setki nóg | kiedy przychodzą | tylko dwie
+pare kad odlaze imaju stotinu nogu, a kad dolaze samo dvije - pieniądze, kiedy odchodzą, mają setki nóg, kiedy przychodzą, tylko dwie
 parlament - parlament
 parlamentarni - parlamentarny
 perzijski - perski
@@ -308,13 +308,13 @@ pivo - piwo
 podmornica - okręt podwodny
 politički - polityczny
 Poljska - Polska
-poljski - polski | polski (język)
+poljski - polski, polski (język)
 ponedjeljak - poniedziałek
 populacija - populacja
 porcija - porcja
 Porto Riko - Portoryko
 portugalski - portugalski
-potok - potok | strumień
+potok - potok, strumień
 Poznanj - Poznań
 prahistorija - prahistoria
 pravda - prawda
@@ -327,16 +327,16 @@ pustinja - pustynia
 putovati - podróżować
 rasprava - rozprawa
 rat - wojna
-razgovor - rozmowa | dyskusja
+razgovor - rozmowa, dyskusja
 razum - rozum
 religija - religia
 reprezentacija - reprezentacja
-rešeto - sitko | sito
+rešeto - sitko, sito
 revolucija - rewolucja
 revolucionarni - rewolucyjny
 režim - reżim
 režisér - reżyser
-rezultat - rezultat | skutek | wynik
+rezultat - rezultat, skutek, wynik
 rijeka - rzeka
 rimski - rzymski
 robotika - robotyka
@@ -351,7 +351,7 @@ Sao Tome i Principe - Wyspy Świętego Tomasza i Książęca
 Sardinija - Sardynia
 sat - zegar
 Saudijska Arabija - Arabia Saudyjska
-Savezna Republika Njemačka - Republika Federalna Niemiec | Niemcy
+Savezna Republika Njemačka - Republika Federalna Niemiec, Niemcy
 šećer - cukier
 sedmica - tydzień
 semitski - semicki
@@ -363,7 +363,7 @@ Sirija - Syria
 sistem - system
 škola - szkoła
 škorpija - skorpion
-slika - fotka | zdjęcie
+slika - fotka, zdjęcie
 Slovačka - Słowacja
 slovački - słowacki
 snijeg - śnieg
@@ -375,17 +375,17 @@ sova - sowa
 španski - hiszpański
 specijalitet - specjalność
 spekulacija - spekulacja
-sperma - sperma | nasienie
+sperma - sperma, nasienie
 spermatozoid - spermatozoid
 sportski - sportowy
-sprat - piętro | kondygnacja
+sprat - piętro, kondygnacja
 šrafciger - śrubokręt
 Sredozemno More - Morze Śródziemne
-srpski - serbski | serbski (język)
-SSSR - Związek Socjalistycznych Republik Radzieckich | ZSRR
+srpski - serbski, serbski (język)
+SSSR - Związek Socjalistycznych Republik Radzieckich, ZSRR
 star - stary
 staroengleski - staroangielski
-stoljeće - wiek | stulecie
+stoljeće - wiek, stulecie
 sud - sąd
 Suec - Suez
 Sunce - Słońce
@@ -394,9 +394,9 @@ suverenitet - suwerenność
 Švedska - Szwecja
 švedski - szwedzki
 Švicarska - Szwajcaria
-tadžički - tadżycki | język tadżycki
+tadžički - tadżycki, język tadżycki
 Tajland - Tajlandia
-talijanski - włoski | włoski (język)
+talijanski - włoski, włoski (język)
 Tanzanija - Tanzania
 teologija - teologia
 teorija - teoria
@@ -409,11 +409,11 @@ totalitarizam - totalitaryzm
 tramvaj - tramwaj
 transliteracija - transliteracja
 trener - trener
-trg - targ | plac | forum
+trg - targ, plac, forum
 trideset - trzydzieści
 turizam - turystyka
 Turska - Turcja
-turski - turecki | język turecki
+turski - turecki, język turecki
 u - w
 Ujedinjeni Arapski Emirati - Zjednoczone Emiraty Arabskie
 ukrajinski - ukraiński
@@ -430,13 +430,13 @@ Vezuv - Wezuwiusz
 vijek - wiek
 višnja - wiśnia
 vjera - wiara
-vlada - władza | rząd
+vlada - władza, rząd
 volan - kierownica
 vrlina - cnota (dyspozycja etyczna)
 žaba - żaba
 Zapadna Evropa - Europa Zachodnia
 zemlja - ziemia
-žena - kobieta | żona
+žena - kobieta, żona
 zlatan - złoty
 zoroastrizam - zaratusztrianizm
 zub - ząb

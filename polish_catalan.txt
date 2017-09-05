@@ -1,7 +1,7 @@
 abaja - abaia
 abat - abat m
-abecadło - alfabet m | abecedari m
-abiecadło - alfabet m | abecedari m
+abecadło - alfabet m, abecedari m
+abiecadło - alfabet m, abecedari m
 abo - o
 aborygen - aborigen m
 Adam - Adam m
@@ -14,7 +14,7 @@ afelzina - taronja f
 Afganistan - Afganistan m
 Afrodyzja - Afrodísia de Cària
 afront - afront m
-agroturystyka - turisme rural | agroturisme
+agroturystyka - turisme rural, agroturisme
 ajmer - galleda f
 ajzynbaniok - ferroviari m
 akacja - acàcia
@@ -34,12 +34,12 @@ albo - o
 aleja - avinguda f
 alergia - al·lèrgia f
 alergiczny - al·lèrgic
-alfabet - alfabet m | abecedari m
-alfabetu - alfabet m | abecedari m
+alfabet - alfabet m, abecedari m
+alfabetu - alfabet m, abecedari m
 Alghero - l'Alguer
 Algieria - Algèria f
 Alicante - Alacant m
-almanach - almanac m | calendari m
+almanach - almanac m, calendari m
 alpinizm - alpinisme
 aluminium - alumini m
 Amazonka - Amazones
@@ -53,7 +53,7 @@ Anatolia - Anatòlia f
 anatomiczny - anatòmic
 Andaluzja - Andalucia
 andaluzyjski - andalusí
-Andora - Andorra | Andorra la Vella
+Andora - Andorra, Andorra la Vella
 Anglia - Anglaterra f
 Anglija - Anglaterra f
 aniżeli - que
@@ -63,11 +63,11 @@ Antoni - Antoni m
 antybakteryjny - antibacterià
 antymon - antimoni m
 antyteizm - antiteisme m
-apetyt - apetit | gana
+apetyt - apetit, gana
 apluzyna - taronja f
 apostrof - apòstrof m
-apsik - atxim! | atxem!
-a psik - atxim! | atxem!
+apsik - atxim!, atxem!
+a psik - atxim!, atxem!
 aptek - farmàcia m
 apteka - farmàcia m
 Arab - àrab
@@ -92,7 +92,7 @@ asceza - ascetisme m
 astat - àstat m
 asterysk - asterisc
 astrofizyka - astrofísica f
-atakować - atacar | agredir
+atakować - atacar, agredir
 ateista - ateista m
 ateistyczny - ateístic
 ateusz - ateista m
@@ -109,12 +109,12 @@ autyzm - autisme
 Azerbejdżan - Azerbaidjan
 Azja - Àsia f
 azot - nitrogen m
-babcia - àvia f | iaia f
-babka - àvia f | iaia f
+babcia - àvia f, iaia f
+babka - àvia f, iaia f
 bachraty - gras m
 baczyć - creure
 bądź - o
-bajer - mentida | engany
+bajer - mentida, engany
 bajzel - bordell m
 bakłażan - albergínia f
 bakteriemia - bacterièmia f
@@ -133,7 +133,7 @@ Barcelona - Barcelona
 barok - barroc m
 barokowy - barroc
 barometr - baròmetre m
-bas - baix m | panxa f
+bas - baix m, panxa f
 basen - piscina f
 basior - fuet m
 baskijski - basc
@@ -160,7 +160,7 @@ bezosobowy - impersonal
 bezpieczny - segur
 bezustanny - perpetual
 Białoruś - Bielorússia f
-białozór - falcó grifó m | grifó m
+białozór - falcó grifó m, grifó m
 biały - blanc
 Biblia - Bíblia f
 bicykl - bicicle
@@ -168,25 +168,25 @@ bicz - fuet m
 biglosko - planxa f
 bikorn - bicorn
 bilirubina - bilirubina f
-binia - noia f | xicota f
-biofilm - biopel·lícula f | biofilm m
+binia - noia f, xicota f
+biofilm - biopel·lícula f, biofilm m
 biograficzny - biogràfic
 biseksualizm - bisexualitat f
 biskup - bisbe m
 bitwa pod Termopilami - batalla de les Termòpiles f
 biuro - despatx m
 bizmut - bismut m
-blaga - mentida | engany
+blaga - mentida, engany
 błagać - implorar
 blasfemia - blasfèmia f
 bliski - pròxim
-Bliźnięta - Gèminis | Bessons
+Bliźnięta - Gèminis, Bessons
 blond - ros
-błonnik - fibra alimentària f | fibra cel·lulosa f
+błonnik - fibra alimentària f, fibra cel·lulosa f
 bluzka - samarreta f
 bluźnierstwo - blasfèmia f
 błyszczeć - lluir
-bo - perquè | ja que | car | puix | puix que
+bo - perquè, ja que, car, puix, puix que
 Bóg - Déu m
 bogaty - ric
 bohr - bohri m
@@ -196,7 +196,7 @@ bomba atomowa - bomba atòmica f
 Bonawentura - Bonaventura m
 bor - bor m
 borówka - galta f
-boźdór - noi m | xicot m
+boźdór - noi m, xicot m
 brachol - germà m
 bracieniec - germà m
 brakować - faltar
@@ -231,9 +231,9 @@ burak - remolatxa
 burdel - bordell
 burdynek - duel
 burzowiny - cervesa f
-but - bota f | sabata f
+but - bota f, sabata f
 buzi - petó m
-być - ser | estar
+być - ser, estar
 Byk - Taure
 Była Jugosłowiańska Republika Macedonii - Antiga República Iugoslava de Macedònia
 całus - petó m
@@ -245,7 +245,7 @@ cez - cesi m
 chabaj - carnisser m
 chabanina - carn f
 chabas - carn f
-chachoł - bescoll m | clatell m | clotell m | nuca f | occípit m
+chachoł - bescoll m, clatell m, clotell m, nuca f, occípit m
 chaos - caos m
 charyzmatyczny - carismàtic
 chcieć - voler
@@ -253,12 +253,12 @@ chichrać się - riure
 Chiny - Xina f
 chitozan - quitosan
 chlać - beure
-chłopak - noi m | xicot m
+chłopak - noi m, xicot m
 chłopczyk - nen m
 chłopiec - noi m
 chłopyszek - noi m
 chlor - clor
-chmiel - llúpol m | cervesa f
+chmiel - llúpol m, cervesa f
 chocieć - voler
 choinka - arbre de Nadal
 chójk - arbre de Nadal
@@ -282,16 +282,16 @@ ciemny - fosc
 cień - ombra f
 ciepło - calor
 cierpieć - patir
-cieść - sogre m | jove f | nora f
-ciocia - tia f | tieta f
-ciotka - tia f | tieta f
+cieść - sogre m, jove f, nora f
+ciocia - tia f, tieta f
+ciotka - tia f, tieta f
 cis - teix
-ciśnienie tętnicze - pressió arterial f | tensió arterial f
+ciśnienie tętnicze - pressió arterial f, tensió arterial f
 ciupa - presó
 ciurma - presó
-ciżma - bota f | sabata f
+ciżma - bota f, sabata f
 cka - taula f
-ćma - arna f | falena f | papallona de nit f
+ćma - arna f, falena f, papallona de nit f
 ćmić - fumar
 ćmy - fosc
 córa - filla f
@@ -332,7 +332,7 @@ cześć - hola
 czeski - txec
 częstoskurcz - taquicàrdia f
 czkawka - singlot
-czorny - negre | brut
+czorny - negre, brut
 czulent - txólent
 czwartek - dijous m
 czwartorzęd - Quaternari
@@ -365,7 +365,7 @@ diabelski - diabòlic
 dialekt - dialecte
 dinar - dinar m
 dioda - díode m
-Diogenes - Diògenes m | Diògenes m (de Sinope)
+Diogenes - Diògenes m, Diògenes m (de Sinope)
 dla - per
 długi - llarg
 dmuchać - cardar
@@ -382,14 +382,14 @@ dolny - baix
 dom - casa f
 domowy - casolà
 dom publiczny - bordell m
-doradca - conseller m | assessor m
+doradca - conseller m, assessor m
 dostojnik - dignatari
-do widzenia - adéu | adéu-siau | a reveure | fins ara | fins demà | ja ens veurem | que vagi bé
-do zobaczenia - adéu | adéu-siau | a reveure | fins ara | fins demà | ja ens veurem | que vagi bé
+do widzenia - adéu, adéu-siau, a reveure, fins ara, fins demà, ja ens veurem, que vagi bé
+do zobaczenia - adéu, adéu-siau, a reveure, fins ara, fins demà, ja ens veurem, que vagi bé
 dramatyczny - dramàtic
 drań - brètol
 drapacz chmur - gratacel m
-drewniany - fuster | boscós
+drewniany - fuster, boscós
 Droga Mleczna - Via Làctia
 drogi - car
 druh - amic m
@@ -398,12 +398,12 @@ drut - filferro m
 drzwi - porta f
 Dubaj - Dubai
 dubn - dubni m
-duch - fantasma | ànima | esperit
-dudlać - plorar | beure
+duch - fantasma, ànima, esperit
+dudlać - plorar, beure
 dufać - esperar
 dukat - ducat
 dupek - gilipolles
-dusza - fantasma | ànima | esperit
+dusza - fantasma, ànima, esperit
 dybuk - dibbuk m
 dyć - doncs
 Dydak - Dídac m
@@ -414,10 +414,10 @@ dysproz - disprosi m
 dysputacja - diferència f
 dywan - catifa f
 dziać - passar
-dziadek - avi m | iaio m
-dziękówa - gràcies | mercès
-dziękówka - gràcies | mercès
-dziękuję - gràcies | mercès
+dziadek - avi m, iaio m
+dziękówa - gràcies, mercès
+dziękówka - gràcies, mercès
+dziękuję - gràcies, mercès
 dziękuję bardzo - moltes gràcies
 dziela - per
 dzielić - compartir
@@ -426,29 +426,29 @@ dzień - dia m
 dzień dobry - bon dia
 dziennikarski - periodístic
 dziennikarstwo - periodisme m
-dziewa - noia f | xicota f
-dziewczę - noia f | xicota f
-dziewczyna - noia f | xicota f
+dziewa - noia f, xicota f
+dziewczę - noia f, xicota f
+dziewczyna - noia f, xicota f
 dziewczynka - nena f
-dziołcha - noia f | xicota f
-dziopa - noia f | xicota f
+dziołcha - noia f, xicota f
+dziopa - noia f, xicota f
 dziś - avui
 dzisiaj - avui
-dziunia - noia f | xicota f
+dziunia - noia f, xicota f
 dżungla - jungla f
 dźwięk - so m
 edyficjum - edifici m
 edytor tekstu - editor de text m
 Egipt - Egipte m
 einstein - einsteini m
-ejber - noi m | xicot m
+ejber - noi m, xicot m
 ekolog - ecòleg m
 ekosystem - ecosistema
 ekspedient - dependent m
 Ekwador - Equador m
 elefant - elefant
 elektryczny - electricista
-elektryk - electricista m | f
+elektryk - electricista m, f
 encefalopatia - encefalopatia f
 epitafium - epitafi m
 epoka - edat f
@@ -465,10 +465,10 @@ euforia - eufòria f
 europ - europi m
 Europa - Europa f
 Ezop - Isop m
-facet - home m | baró
+facet - home m, baró
 facetka - dona f
 facjata - cara f
-fajny - bufó | maco
+fajny - bufó, maco
 fałsz - falsedat f
 fałszywy - fals
 familio - família f
@@ -499,13 +499,13 @@ fluor - fluor
 fojerman - bomber m
 folder - carpeta f
 fonetyka - fonètica f
-fontanna - font f | deu f
+fontanna - font f, deu f
 forhang - cortina f
 fort - fortalesa f
 fosfor - fòsfor
 Francja - França f
 frans - franci m
-frela - noia f | xicota f
+frela - noia f, xicota f
 frezarka - fresadora f
 frutarianizm - frugivorisme m
 fryc - alemany m
@@ -517,17 +517,17 @@ gąbka - esponja f
 Gad - Gad
 gadolin - gadolini m
 gal - gal·li m
-gała - corb m | cornella f
+gała - corb m, cornella f
 galaktyka - galàxia f
 Galilea - Galilea f
 galoty - pantaló m
 gameta - gàmeta
-gapa - corb m | cornella f
+gapa - corb m, cornella f
 gar - olla f
 garnek - olla f
 gasa - carrer f
 gatunkowizm - especisme
-gdyż - perquè | ja que | car | puix | puix que
+gdyż - perquè, ja que, car, puix, puix que
 gdzie - adonde
 gdzieś - aproximadament
 geburstag - aniversari m
@@ -542,16 +542,16 @@ gichać - riure
 giez - távec
 giezło - camisa f
 glajza - tori
-glapa - corb m | cornella f
+glapa - corb m, cornella f
 glin - alumini m
 globus - cap m
 głośny - sorollós
 głowa - cap m
 głupi - brut
 głupota - estupidesa
-gnat - os m | dau m
+gnat - os m, dau m
 gnu - nyu
-godka - llengua f | idioma m
+godka - llengua f, idioma m
 Godzilla - Godzilla
 godzina - hora f
 godzinnik - rellotge m
@@ -569,11 +569,11 @@ gruby - gras m
 grudzień - desembre
 gruszka - pera f
 gryf - grifó
-gryfny - bufó | maco
+gryfny - bufó, maco
 grynszpan - verdet
 gułag - gulag
-guli - perquè | ja que | car | puix | puix que
-gwiazda - estrella f | estel m
+guli - perquè, ja que, car, puix, puix que
+gwiazda - estrella f, estel m
 gzub - panxa f
 hafn - hafni m
 Haiti - Haití f
@@ -582,7 +582,7 @@ hałas - soroll m
 handszuły - guant m
 harfa - arpa f
 has - hassi m
-hau - bau | bub
+hau - bau, bub
 hedonizm - hedonisme m
 heksa - bruixa f
 hel - heli m
@@ -601,8 +601,8 @@ hipoteza - hipòtesi
 historiozofia - filosofia de la història
 Hiszpania - Espanya f
 hiszpanka - grip espanyola
-Holandia - els Països Baixos | Holanda
-Holandyja - els Països Baixos | Holanda
+Holandia - els Països Baixos, Holanda
+Holandyja - els Països Baixos, Holanda
 holm - holmi m
 homeopatia - homeopatia f
 homiletyka - homilètica f
@@ -610,7 +610,7 @@ Honduras - Hondures f
 Hongkong - Hong Kong
 Horacy - Horaci m
 Horus - Horus
-huśtawka - gronxador | engronsadora
+huśtawka - gronxador, engronsadora
 hydrologia - hidrologia f
 i - i
 Ibiza - Eivissa f
@@ -632,15 +632,15 @@ Irak - Iraq m
 Iran - Iran m
 Irlandia - Irlanda f
 iryd - iridi m
-iść - anar | anar-se'n
+iść - anar, anar-se'n
 islamizm - islamisme m
 Islandia - Islàndia f
-islandzki - islandès | islandès m
+islandzki - islandès, islandès m
 istny - promès m
 Italok - italià m
 iterb - iterbi m
 itr - itri m
-izba - pau f | habitació f
+izba - pau f, habitació f
 Izrael - Israel m
 ja - jo
 jabłko - poma f
@@ -649,30 +649,30 @@ jadać - menjar
 jagoda - galta f
 jajko - ou m
 jajo - ou m
-Jakub - Jaume | Xaume
+Jakub - Jaume, Xaume
 Jan - Joan
 jara - sogra f
 jarecka - mare f
 jaskiniowiec - cavernícola
 jasny - clar
 jątrew - cunyada f
-jazydyzm - iazidisme m | yazidisme m
+jazydyzm - iazidisme m, yazidisme m
 jebać - cardar
-jebadło - dormitori m | llit m
+jebadło - dormitori m, llit m
 jedna jaskółka nie czyni wiosny - una orenella no fa estiu, ni dues primavera
-jednooki - borni | tort
+jednooki - borni, tort
 Jerycho - Jericó
 Jerzy - Jordi
 jeść - menjar
 jeść śniadanie - esmorzar
 jesień - tardor f
 jeśli - si
-jest - ser | estar
+jest - ser, estar
 jeż - eriçó m
 jeżeli - si
 Jezus - Jesús m
 Jezus Chrystus - Jesucrist
-język - llengua f | idioma m
+język - llengua f, idioma m
 język obcy - llengua estrangera
 jidysz - jiddisch
 jod - iode m
@@ -691,7 +691,7 @@ kajak - caiac
 kajet - llibreta f
 Kaka - Caca f
 kakao - cacau m
-kalafa - nas m | cara f
+kalafa - nas m, cara f
 kalapitra - cap m
 kalejdoskop - calidoscopi
 kalendarz - calendari m
@@ -700,7 +700,7 @@ kaliforn - californi m
 kaligrafia - cal·ligrafia f
 kalumnia - calúmnia f
 kam - adonde
-kamasz - bota f | sabata f
+kamasz - bota f, sabata f
 kamfora - càmfora f
 kamień - pedra f
 kanarek - canari m
@@ -708,14 +708,14 @@ kanikuła - canícula f
 kaniła - careta f
 kantata - cantata f
 kapować - entendre
-karaba - gat | moix
+karaba - gat, moix
 Karaiby - Carib
 Karantania - Carantània f
 karczoch - carxofa
-kardiolog - cardiòleg m | cardiòloga f
+kardiolog - cardiòleg m, cardiòloga f
 kareta - carruatge m
 kariatyda - cariàtide
-kark - bescoll m | clatell m | clotell m | nuca f | occípit m
+kark - bescoll m, clatell m, clotell m, nuca f, occípit m
 karlus - noi m
 karnawał - carnaval m
 karta - baralla de cartes
@@ -731,7 +731,7 @@ Katalonia - Catalunya f
 Katalonka - catalana f
 kataloński - català
 katana - jaqueta f
-katedra - catedral f | seu f
+katedra - catedral f, seu f
 kawa - cafè m
 kawa wesoła - bordell m
 Kazachstan - Kazakhstan m
@@ -752,13 +752,13 @@ kireja - abric m
 Kirgistan - Kirguizistan m
 kista - caixa f
 kiszka - llet f
-kit - mentida | engany
+kit - mentida, engany
 kiur - curi m
 kłamca - mentider
 kłamczuch - mentider
 kłamny - fals
 klamot - pedra f
-kłamstwo - mentida | engany
+kłamstwo - mentida, engany
 kłapaczka - boca f
 klawiatura - teclat m
 kliber - nas m
@@ -771,7 +771,7 @@ kluza - presó
 knipa - llibre m
 kobalt - cobalt
 kobieta - dona f
-kociamber - gat | moix
+kociamber - gat, moix
 kocioł - caldera f
 kocioł parowy - caldera
 kod kreskowy - codi de barres
@@ -783,8 +783,8 @@ kołdra - edredó m
 kolejarka - ferroviària f
 kolejarz - ferroviari m
 kolejowy - ferroviari
-koleś - home m | baró
-koło - roda f | aproximadament
+koleś - home m, baró
+koło - roda f, aproximadament
 Kolonia - Colònia
 kolonoskopia - colonoscòpia f
 Kolumb - Colom m
@@ -813,12 +813,12 @@ kordła - edredó m
 korespondencja - correspondència f
 Kos - Kos
 kosa - ganivet m
-kość - os m | dau m
+kość - os m, dau m
 Kostaryka - Costa Rica f
 kosztowny - car
 koszula - camisa f
 koszulka - samarreta f
-kot - gat | moix
+kot - gat, moix
 Koziorożec - Capricorn
 kraj - vostès
 krajobraz - paisatge m
@@ -862,8 +862,8 @@ labirynt - laberint m
 lać - riure
 lacz - cap m
 ląd - terra f
-ładny - bufó | maco
-lala - nina f | noia f | xicota f
+ładny - bufó, maco
+lala - nina f, noia f, xicota f
 lalka - nina f
 land - camp
 lantan - lantani m
@@ -871,7 +871,7 @@ larmo - soroll m
 larwa - careta f
 laser - làser
 lat - any m
-lata - any m | faldilla f
+lata - any m, faldilla f
 lato - estiu m
 lawenda - espígol
 Łazarz - Llàtzer
@@ -895,7 +895,7 @@ liść - fulla f
 listonosz - carter m
 listopad - novembre
 lit - liti m
-literat - escriptor m | escriba m
+literat - escriptor m, escriba m
 liturgiczny - litúrgic
 Litwa - Lituània f
 liwermor - livermori m
@@ -904,7 +904,7 @@ lodówka - nevera f
 lojalność - lleialtat f
 lokalizacja - ubicació f
 łokieć - colze m
-lola - noia f | xicota f
+lola - noia f, xicota f
 Londyn - Londres f
 lorens - laurenci m
 łosoś - salmó m
@@ -917,11 +917,11 @@ lub - o
 lubić - agradar
 łucznictwo - tir amb arc m
 ludzie - gent f
-luńt - brètol | gos m
+luńt - brètol, gos m
 lustro - mirall m
 lutet - luteci m
-luty - febrer m | Febrer m
-łża - mentida | engany
+luty - febrer m, Febrer m
+łża - mentida, engany
 mać - mare f
 Macedonia - Macedònia f
 maciek - panxa f
@@ -939,21 +939,21 @@ malować - pintar
 Malta - Malta f
 mały - poc
 małżonek - cònjuge m
-małżonka - cònjuge f | dona f
+małżonka - cònjuge f, dona f
 mam - tenir
 mama - sogra f
 mangan - manganès m
-maniurka - noia f | xicota f
+maniurka - noia f, xicota f
 mantel - abric m
 mapa topograficzna - mapa topogràfic
-marchew - pastanaga f | carlota f
-marchewka - pastanaga f | carlota f
+marchew - pastanaga f, carlota f
+marchewka - pastanaga f, carlota f
 Maroko - Marroc m
 Martyna - Martina f
 marzec - març m
 marznący deszcz - pluja gelant
 marzyć - somiar
-maska - careta f | cara f
+maska - careta f, cara f
 masło - mantega f
 maszkara - careta f
 maszyna do szycia - màquina de cosir
@@ -975,7 +975,7 @@ męskość - masculinitat f
 metafora - metàfora f
 metempsychoza - metempsicosi f
 meteor - meteor
-mężczyzna - home m | baró
+mężczyzna - home m, baró
 mgła - boira f
 Miami - Miami
 miastenia - miastènia f
@@ -994,7 +994,7 @@ miesiąc - mes m
 mięso - carn f
 mięso armatnie - carn de canó
 mięsopust - carnaval m
-mięsopustnik - febrer m | Febrer m
+mięsopustnik - febrer m, Febrer m
 mięsożerny - carnisser
 mieszkaniec - habitant m
 migotanie przedsionków - fibril·lació auricular f
@@ -1013,27 +1013,27 @@ molibden - molibdè m
 Mongolia - Mongòlia f
 monocykl - monocicle
 monofizytyzm - monofisisme
-monstrancja - custòdia f | ostensori m
+monstrancja - custòdia f, ostensori m
 moplik - ciclomotor
-mora - fantasma | ànima | esperit
-morkwa - pastanaga f | carlota f
+mora - fantasma, ànima, esperit
+morkwa - pastanaga f, carlota f
 morze - mar
 Morze Bałtyckie - Mar Bàltica
 Morze Śródziemne - Mar Mediterrània
 Mostar - Mostar
 motorower - ciclomotor
 Mount Everest - Everest
-mowa - llengua f | idioma m
+mowa - llengua f, idioma m
 mowa jest srebrem, a milczenie złotem - parlar és argent, el silenci és or
 Mozambik - Moçambic m
 mróz - fred m
 mućka - vaca f
 mugol - muggle
-mużyk - home m | baró
+mużyk - home m, baró
 my - nosaltres
 mydło - sabó m
 mykologia - micologia f
-nacja - natio f | nacionalitat f
+nacja - natio f, nacionalitat f
 nadwaga - sobrepès
 nadwzroczność - hipermetropia f
 nadziany - ric
@@ -1042,15 +1042,15 @@ nakrycie głowy - lligadura f
 Namibia - Namíbia
 napletek - prepuci
 napój - beguda f
-naprawdę - de veritat | de debò
+naprawdę - de veritat, de debò
 narkolepsja - narcolèpsia f
 naród - natio f
 narodowość - nacionalitat f
 narzeczona - promesa f
 narzeczony - promès m
 następny - pròxim
-na szczęście - afortunadament | per sort | per fortuna
-nauczać - ensenyar | aprendre | estudiar
+na szczęście - afortunadament, per sort, per fortuna
+nauczać - ensenyar, aprendre, estudiar
 nazwisko - cognom m
 Neapol - Nàpols
 neodym - neodimi m
@@ -1063,7 +1063,7 @@ neutralność - neutralitat f
 neutralny - neutre
 ni - no
 nic - res
-Niderlandy - els Països Baixos | Holanda
+Niderlandy - els Països Baixos, Holanda
 nie - no
 niebawem - aviat
 niebezpieczny - perillós
@@ -1077,7 +1077,7 @@ niedziela - diumenge
 niedźwiedź - ós m
 Niemcy - Alemanya
 Niemiec - alemany m
-nie mieć - no | tenir
+nie mieć - no, tenir
 niemiecki - alemany
 Niemka - alemanya f
 niepodległość - independència f
@@ -1087,7 +1087,7 @@ nieściora - cosina f
 nieśmiałość - timidesa
 niestety - malauradament
 niewiasta - dona f
-niewiastka - jove f | nora f
+niewiastka - jove f, nora f
 niewystarczający - insuficient
 niezniszczalny - indestructible
 niezwyciężony - invencible
@@ -1119,12 +1119,12 @@ nudelzupa - sopa f
 Numidia - Numídia f
 oberżyna - albergínia f
 obiad - dinar m
-obiecadło - alfabet m | abecedari m
+obiecadło - alfabet m, abecedari m
 obiektywny - objectiu
-obierać ogóra - pallejar-se | gallardar
+obierać ogóra - pallejar-se, gallardar
 obietnica - promesa f
 obój - oboè m
-obraz - imatge f | pel·lícula f
+obraz - imatge f, pel·lícula f
 obserwować - observar
 obywatelstwo - nacionalitat f
 ocean - oceà m
@@ -1141,7 +1141,7 @@ odzież - roba f
 Ofelia - Ofèlia
 oftalmologiczny - oftalmològic
 ogłoszenie - anunci m
-ogórek - cogombre | pepino
+ogórek - cogombre, pepino
 ojciec - pare m
 ojciec chrzestny - padrí m
 ojczyc - fill m
@@ -1158,7 +1158,7 @@ olcha - vern m
 Olimpia - Olímpia f
 ołów - plom m
 ołtarz - ara f
-oma - àvia f | iaia f
+oma - àvia f, iaia f
 omieszkać - no
 on - ell
 oologia - oologia f
@@ -1170,7 +1170,7 @@ orgazm - orgasme m
 orientalny - oriental
 orogeneza - orogènesi f
 ortoreksja - ortorèxia f
-orzech - núcula f | nou f | {1.6) nou f
+orzech - núcula f, nou f, {1.6) nou f
 Osaka - Osaka
 osm - osmi m
 osoba - persona f
@@ -1185,14 +1185,14 @@ otwierać - obrir
 Owernia - Alvèrnia
 owoc - fruit
 owulacja - ovulació f
-pacha - axil·la f | aixella f
+pacha - axil·la f, aixella f
 pachniarz - nas m
 pacholę - noi m
 paciuk - rata f
 Pacyfik - oceà Pacífic m
-padać - ploure | nevar
+padać - ploure, nevar
 pająk - aranya f
-pajęcznik - setembre | octubre | novembre
+pajęcznik - setembre, octubre, novembre
 pakli - si
 pała - cap m
 pale - cap m
@@ -1200,14 +1200,14 @@ pali - pali m
 palić - fumar
 palindrom - palíndrom
 pallad - pal·ladi m
-palladianizm - pal·ladianisme m | arquitectura pal·ladiana f
-pan - vostè | senyor
+palladianizm - pal·ladianisme m, arquitectura pal·ladiana f
+pan - vostè, senyor
 Panama - [Panamà]] m
-pani - vostè | senyora
+pani - vostè, senyora
 Panna - Verge
 państwo - vostès
 papier - paper m
-papuć - bota f | sabata f
+papuć - bota f, sabata f
 papuga - lloro m
 paraliż - paràlisi f
 paronim - parònim m
@@ -1219,7 +1219,7 @@ pasywny - passiu
 patelnia - paella f
 pątnik - pelegrí
 patrzałki - ulleres f
-pawęża - escut | escussó
+pawęża - escut, escussó
 październik - octubre
 paździerzeń - octubre
 pensja - sou m
@@ -1231,7 +1231,7 @@ piaskownica - sorrera f
 piątek - divendres m
 pić - beure
 piec - forn m
-piekarnia - fleca f | forn de pa m
+piekarnia - fleca f, forn de pa m
 piekarnik - forn m
 pielgrzym - pelegrí
 pieprz - pebre m
@@ -1241,15 +1241,15 @@ pierwiastek - nucli m
 pies - gos m
 pijawa - arc de Sant Martí m
 pikawa - cor m
-piksel - píxel m | pícsel m
+piksel - píxel m, pícsel m
 piłka ręczna - handbol m
 piosenka - cançó f
 piromania - piromania f
 pisać - escriure
 pisanka - ou de Pasqua m
-pisarz - escriptor m | escriba m
+pisarz - escriptor m, escriba m
 pisco - pisco m
-pismo - alfabet m | abecedari m
+pismo - alfabet m, abecedari m
 Pittsburgh - Pittsburgh
 piwo - cervesa f
 pizza - pizza f
@@ -1270,14 +1270,14 @@ płetwa - aleta f
 plik - fitxer m
 plurale tantum - plurale tantum m
 pluton - plutoni m
-płyn Lugola - solució de Lugol | lugol
+płyn Lugola - solució de Lugol, lugol
 pocałunek - petó m
 pochodnia - atxa f
 POChP - MPOC
 pochwa - vagina
 początkowy - inicial
 poczta - correu m
-podlewać - regar | abeurar
+podlewać - regar, abeurar
 podnosić - aixecar-se
 podologia - podologia f
 poduszkowiec - aerolliscador m
@@ -1285,15 +1285,15 @@ podwiązka - lligacama f
 podwójny podbródek - papada f
 pogaństwo - paganisme m
 pojedynek - duel
-pokój - pau f | habitació f
-połączenie - correspondència f | trucada f
+pokój - pau f, habitació f
+połączenie - correspondència f, trucada f
 Polak - polonès m
 poleku - lentament
 poliamoria - poliamor
 policzek - galta f
 poliptyk - políptic
 Polka - polonesa f
-północ - mitjanit f | nord m
+północ - mitjanit f, nord m
 północnoamerykański - nord-americà
 północny wschód - nord-est m
 północny zachód - nord-oest m
@@ -1305,7 +1305,7 @@ polować - caçar
 Polska - Polònia f
 polski - polonès
 półudenyk - dinar m
-południe - migdia m | sud m
+południe - migdia m, sud m
 południowy wschód - sud-est m
 południowy zachód - sud-oest m
 półwysep - península f
@@ -1316,7 +1316,7 @@ pomarańczowy - taronja
 pomidor - tomàquet m
 pomoc - ajuda
 poniedziałek - dilluns m
-ponieważ - perquè | ja que | car | puix | puix que
+ponieważ - perquè, ja que, car, puix, puix que
 popołudnie - tarda f
 pornografia - pornografia f
 pornograficzny - pornogràfic
@@ -1329,7 +1329,7 @@ potka - padrina f
 powieściopisarz - novel·lista
 powiestka - nom m
 powietrze - aire m
-powód - perquè m | motiu m | raó f
+powód - perquè m, motiu m, raó f
 powódź - inundació
 powoli - lentament
 pozamałżeński - extramatrimonial
@@ -1343,19 +1343,19 @@ prawa ręka - dret
 prawa zwierząt - drets dels animals
 prawda - veritat f
 prawdopodobny - probable
-prawie - gairebé | quasi
+prawie - gairebé, quasi
 prawnuczka - besnéta f
 prawnuk - besnét m
-prawo - dret m | dret
+prawo - dret m, dret
 prawy - dret
 prazeodym - praseodimi m
 prenatalny - prenatal
 prezydent - president
 promet - prometi m
-proszę - si us plau | sisplau
+proszę - si us plau, sisplau
 protaktyn - protoactini m
 protonaród - nació sense estat
-prowansalski - occità m | occitana f
+prowansalski - occità m, occitana f
 próżnia - buit
 Prusy - Prússia
 prysznic - dutxa m
@@ -1370,7 +1370,7 @@ przedwczoraj - abans-d'ahir
 przejrzysty - lúcid
 przenośnia - metàfora f
 przepowiednia - profecia f
-przepraszam - sisplau | si us plau
+przepraszam - sisplau, si us plau
 przestrzeń kosmiczna - espai exterior
 przeważność - cor m
 przewlekły - crònic
@@ -1379,7 +1379,7 @@ przyjaciel - amic m
 przykład - exemple m
 przyprawa - espècie f
 przypuszczalnie - presumiblement
-przysłowie - adagi m | proverbi m | dita f
+przysłowie - adagi m, proverbi m, dita f
 przyszłość - futur m
 przyszły - futur
 przytcza - exemple m
@@ -1388,9 +1388,9 @@ pseudonauka - pseudociència
 psisko - gos m
 Ptah - Ptah
 pudełko - caixa f
-pustka - buidesa f | buidor f
+pustka - buidesa f, buidor f
 pusty - brut
-puszka - presó | cervesa f
+puszka - presó, cervesa f
 putnia - galleda f
 pytanie retoryczne - pregunta retòrica
 rachatłukum - delícies turques
@@ -1400,10 +1400,10 @@ radon - radó
 Rafał - Rafael m
 rafinować - refinar
 Rajch - Alemanya
-Rak - Càncer | Cranc
+Rak - Càncer, Cranc
 rasizm - racisme m
 ratusz - ajuntament m
-razdziawa - corb m | cornella f
+razdziawa - corb m, cornella f
 rdzeń - nucli m
 rebeliant - rebel
 ręce do góry - mans enlaire!
@@ -1430,7 +1430,7 @@ rodzajnik - article m
 rodzina - família f
 rodzina językowa - família lingüística
 roentgen - roentgeni m
-rok - any m | faldilla f
+rok - any m, faldilla f
 ropień - abscés
 Rosja - Rússia f
 równanie - equació f
@@ -1452,7 +1452,7 @@ rycerz - cavaller m
 rynka - olla f
 rywal - rival m
 ryż - arròs m
-rząd marionetkowy - govern titella | règim titella
+rząd marionetkowy - govern titella, règim titella
 rzeczownik odczasownikowy - gerundi m
 rzeź - carnatge m
 rzeźnik - carnisser m
@@ -1470,7 +1470,7 @@ satyra - sàtira f
 satysfakcja - duel
 schody ruchome - escala mecànica
 seaborg - seaborgi
-sędzia - jutge m | àrbitre m | jutgessa f | àrbitra f
+sędzia - jutge m, àrbitre m, jutgessa f, àrbitra f
 seksualność - sexualitat f
 selen - seleni
 Serbia - Sèrbia f
@@ -1481,7 +1481,7 @@ si - aquest
 siadać - seure
 siarka - sofre m
 sieć - xarxa f
-sieczeń - febrer m | Febrer m
+sieczeń - febrer m, Febrer m
 siedem grzechów głównych - set pecats capitals
 siedziba - seu f
 sierpień - agost m
@@ -1491,18 +1491,18 @@ Singapur - Singapur m
 sioło - camp
 siostra - germana f
 siostrzan - nebot m
-siostrzanek - nebot m | cunyat m
+siostrzanek - nebot m, cunyat m
 siostrzenica - neboda f
 siostrzeniec - nebot m
 sirpień - agost m
 skand - escandi
 skaner - escàner
-skarbonka - guardiola f | vidriola f
+skarbonka - guardiola f, vidriola f
 skarpeta - mitjó m
 skok o tyczce - salt de perxa
 Skop - Àries
 skóra - pell f
-Skorpion - Escorpió | Escorpí
+Skorpion - Escorpió, Escorpí
 skowroda - paella f
 skrobia - midó m
 skrótowiec - acrònim m
@@ -1516,16 +1516,16 @@ słabość - feblesa
 słodycz - dolçor m
 słojerz - cortina f
 słoń - elefant
-słowa - paraula f | mot m
+słowa - paraula f, mot m
 Słowacja - Eslovàquia f
 Słowenia - [Eslovènia]] f
 Słowianin - eslau m
 słownik - m diccionari
-słowo - paraula f | mot m
-smaczny - deliciós | saborós
+słowo - paraula f, mot m
+smaczny - deliciós, saborós
 śmiać się - riure
 śmierć - mort
-snecha - jove f | nora f
+snecha - jove f, nora f
 śnieg - neu f
 sobaka - gos m
 sobota - dissabte m
@@ -1547,23 +1547,23 @@ spodnie - pantaló m
 spór - diferència f
 spotkanie - trobada f
 sprzedawca - dependent m
-srebro - plata f | argent m
+srebro - plata f, argent m
 średniowiecze - edat mitjana f
 środa - dimecres m
 stal - acer m
 Stany - Estats Units m
 Stany Zjednoczone - Estats Units m
 Stany Zjednoczone Ameryki - Estats Units m
-starek - avi m | iaio m
-stare miasto - vell | antic | ciutat f
-starka - àvia f | iaia f
+starek - avi m, iaio m
+stare miasto - vell, antic, ciutat f
+starka - àvia f, iaia f
 starofrancuski - francès antic m
-starosek - avi m | iaio m
-staroszek - avi m | iaio m
+starosek - avi m, iaio m
+staroszek - avi m, iaio m
 starszy - pare m
-stary - vell | antic
-starzyk - avi m | iaio m
-statek - vaixell m | barco m
+stary - vell, antic
+starzyk - avi m, iaio m
+statek - vaixell m, barco m
 staw łokciowy - colze
 staw skroniowo-żuchwowy - articulació temporomandibular
 Stefan - Esteve
@@ -1572,14 +1572,14 @@ stół - taula f
 stolarz - fuster m
 stopa - peu m
 stożek - con m
-strąpacz - febrer m | Febrer m
+strąpacz - febrer m, Febrer m
 strategicznie - estratègicament
 strażak - bomber m
 strona - pàgina f
 stront - estronci m
 Strzelec - Sagitari
-student - alumne m | estudiant m
-studentka - estudianta f | alumna f
+student - alumne m, estudiant m
+studentka - estudianta f, alumna f
 studiować - estudiar
 stulecie - edat f
 styczeń - gener m
@@ -1591,18 +1591,18 @@ surowy - brut
 sweter - jersei m
 świekier - sogre m
 świekra - sogra f
-świeść - cunyada f | sogra f
+świeść - cunyada f, sogra f
 świetlik lekarski - eufràsia
 Święty Hufiec - Batalló Sagrat
 Święty Zastęp - Batalló Sagrat
 świnka morska - cobai m
-świostka - cunyada f | sogra f
-świt - matinada f | alba f
-świtanie - matinada f | alba f
+świostka - cunyada f, sogra f
+świt - matinada f, alba f
+świtanie - matinada f, alba f
 syfilis - sífilis f
 syn - fill m
 synek - noi m
-synowa - jove f | nora f
+synowa - jove f, nora f
 synowiec - nebot m
 synteza - síntesi f
 sypialnia - dormitori m
@@ -1613,9 +1613,9 @@ szac - promès m
 szalik - bufanda f
 szałwia - sàlvia f
 szatański - satànic
-szczęśliwego Nowy Nowego Roku - feliç any nou | bon any
-szczewik - bota f | sabata f
-szczotka do włosów - raspall de cabell | raspall del pèl
+szczęśliwego Nowy Nowego Roku - feliç any nou, bon any
+szczewik - bota f, sabata f
+szczotka do włosów - raspall de cabell, raspall del pèl
 szczupły - prim m
 szczur - rata f
 szczypiorniak - handbol m
@@ -1623,8 +1623,8 @@ szczyt - orgasme m
 szept - xiuxiueig m
 szermierka - esgrima f
 szeroki - ample
-szkic - esborrany | ressenya
-szkira - noia f | xicota f
+szkic - esborrany, ressenya
+szkira - noia f, xicota f
 szklistka - humor vitri m
 Szkocja - Escòcia
 szkoła - escola f
@@ -1633,7 +1633,7 @@ szkop - alemany m
 szneka - cara f
 szowinizm gatunkowy - especisme
 szpiegostwo - espionatge m
-sztuka - art | noia f | xicota f
+sztuka - art, noia f, xicota f
 szuja - brètol
 szukać - buscar
 szurzy - cunyat m
@@ -1645,11 +1645,11 @@ szwamka - esponja f
 Szwecja - Suècia f
 Szwecyjo - Suècia f
 szwestera - germana f
-szykowny - bufó | maco
+szykowny - bufó, maco
 tablica - taula f
 tablica rejestracyjna - matrícula f
 tachykardia - taquicàrdia f
-tacik - pare m | avi m | iaio m
+tacik - pare m, avi m, iaio m
 tak - sí
 taksydermia - taxidèrmia f
 także - també
@@ -1657,17 +1657,17 @@ tal - tal·li
 talerz - plat m
 tamten - aquell
 tan - ball m
-tancerka - ballarina f | balladora f
-tancerz - ballarí m | ballador m
+tancerka - ballarina f, balladora f
+tancerz - ballarí m, ballador m
 tańczyć - ballar
 tani - barat
 taniec - ball m
 tanio - barat
 tantal - tàntal
-tarcza - escut | escussó | cara f
-tarcza krystaliczna - escut | escussó
-tarcza strzelecka - escut | escussó | cara f
-tarcza szkolna - escut | escussó
+tarcza - escut, escussó, cara f
+tarcza krystaliczna - escut, escussó
+tarcza strzelecka - escut, escussó, cara f
+tarcza szkolna - escut, escussó
 tarczyca - tiroide f
 taśma perforowana - cinta perforada
 tata - papa m
@@ -1707,23 +1707,23 @@ transgenderowy - transgènere
 transseksualny - transexual
 transsubstancjacja - transsubstanciació
 trebusz - almanjanec m
-tróhła - taüt m | caixa f
-trumna - taüt m | caixa f
-tryb łączący - subjuntiu m | mode subjuntiu m
-tryb orzekający - indicatiu m | mode indicatiu m
-tryb oznajmujący - indicatiu m | mode indicatiu m
+tróhła - taüt m, caixa f
+trumna - taüt m, caixa f
+tryb łączący - subjuntiu m, mode subjuntiu m
+tryb orzekający - indicatiu m, mode indicatiu m
+tryb oznajmujący - indicatiu m, mode indicatiu m
 tryb rozkazujący - imperatiu m
 trzcina cukrowa - canya de sucre f
 trznadel zwyczajny - verderola
-tu - aquí | ací
+tu - aquí, ací
 tudzież - i
-tukej - aquí | ací
+tukej - aquí, ací
 tul - tuli m
 Tunezja - Tunísia f
 tungsten - tungstè m
 Turcja - Turquia
 Turkmenistan - Turkmenistan m
-tutaj - aquí | ací
+tutaj - aquí, ací
 twarz - cara f
 tworzyć - fer
 ty - tu
@@ -1735,32 +1735,32 @@ typografia - tipografia f
 tyrania - tirania f
 tytan - titani m
 ubranie - roba f
-uczeń - alumne m | escolar m
-uczennica - escolar f | alumna f
+uczeń - alumne m, escolar m
+uczennica - escolar f, alumna f
 uczuciowy - afectuós
-uczyć - ensenyar | aprendre | estudiar
-uj - oncle m | tiet m
-ujec - oncle m | tiet m
-ujek - oncle m | tiet m
+uczyć - ensenyar, aprendre, estudiar
+uj - oncle m, tiet m
+ujec - oncle m, tiet m
+ujek - oncle m, tiet m
 ukaz - ucàs m
 układ nerwowy - sistema nerviós m
 ulica - carrer f
-umiak - oomiac | oomiak | umiak | umialak | umiaq
+umiak - oomiac, oomiak, umiak, umialak, umiaq
 Unia Europejska - Unió Europea
 uniwerek - universitat f
 uniwersytet - universitat f
 uón - ell
 uran - urani m
 urodziny - aniversari m
-urodziwy - bufó | maco
+urodziwy - bufó, maco
 urologia - urologia f
 usta - boca f
 uważać - creure
-wacha - pluja f | mar | aigua
+wacha - pluja f, mar, aigua
 Waga - Balança
 wajco - ou m
 walczerz - batalló m
-walić konia - pallejar-se | gallardar
+walić konia - pallejar-se, gallardar
 wanad - vanadi m
 wanna - banyera f
 wapiti - uapití m
@@ -1785,7 +1785,7 @@ węglarz - carboner m
 węglowodan - carbohidrat m
 Węgry - Hongria
 wentroba - fetge m
-Wesołych Świąt - Bon Nadal | Bona Pasqua
+Wesołych Świąt - Bon Nadal, Bona Pasqua
 wezwanie - nom m
 wiadro - galleda f
 wiatr - vent m
@@ -1799,7 +1799,7 @@ wiedza - saber m
 wiedzieć - saber
 wiedźma - bruixa f
 wiek - edat f
-Wielkanoc - Pasqua f | Pasqua de Resurrecció f
+Wielkanoc - Pasqua f, Pasqua de Resurrecció f
 Wielkie Jeziora Północnoamerykańskie - Grans Llacs d'Amèrica del Nord
 Wielki Piątek - Divendres Sant
 wielokąt - polígon m
@@ -1816,7 +1816,7 @@ Wikiźródła - Viquitexts
 wilgoć - suor f
 wilk - llop m
 wino - vi m
-winograd - raïm m | vi m
+winograd - raïm m, vi m
 winogrono - raïm m
 wioska - camp
 wiosło - rem m
@@ -1825,10 +1825,10 @@ Wisła - Vístula
 wizerunek - imatge f
 wkrótce - aviat
 Włoch - italià m
-włos - cabell | pèl
+włos - cabell, pèl
 Włoszka - italiana f
-wnęka - néta | f
-wnuczka - néta | f
+wnęka - néta, f
+wnuczka - néta, f
 woda - aigua
 Wodnik - Aquari
 wodór - hidrogen m
@@ -1838,9 +1838,9 @@ wola - voluntat
 wolfram - tungstè m
 wolna miłość - amor lliure
 wolny - lliure
-wrona - corb m | cornella f
+wrona - corb m, cornella f
 wrzesień - setembre
-wschód - sortida de sol | est m
+wschód - sortida de sol, est m
 współpracować - col·laborar
 wstawać - llevar-se
 wszechświat - univers m
@@ -1848,20 +1848,20 @@ wszyscy - tothom
 wszystkie - tothom
 wszystko - tot
 wtorek - dimarts m
-wuj - oncle m | tiet m
-wujek - oncle m | tiet m
-wujko - oncle m | tiet m
-wujo - oncle m | tiet m
-wybierać - escollir | elegir | triar
+wuj - oncle m, tiet m
+wujek - oncle m, tiet m
+wujko - oncle m, tiet m
+wujo - oncle m, tiet m
+wybierać - escollir, elegir, triar
 wybrzeże - costa f
-wyciąg krzesełkowy - telecadira | telesella
+wyciąg krzesełkowy - telecadira, telesella
 wydarzenie - esdeveniment m
 wydma - duna f
 wygrywać - guanyar
 wyjątek - excepció
 wykrzyknik - interjecció f
 wynaleźć - inventar
-wyraz - paraula f | mot m
+wyraz - paraula f, mot m
 wyścig w workach - carrera de sacs
 wysoki - alt
 wyspa - illa f
@@ -1872,13 +1872,13 @@ wystarczająco - prou
 ząb - dent f
 Zabulon - Zabuló m
 zabyły - brut
-zachód - posta de sol | oest m
+zachód - posta de sol, oest m
 Zachodni Brzeg - Cisjordània f
 Zachodni Brzeg Jordanu - Cisjordània f
 zaćmienie - eclipsi f
 zaginiony - perdut
 za grosze - barat
-zajebisty - collonut | de puta mare
+zajebisty - collonut, de puta mare
 zakażenie - infecció f
 zakład karny - presó
 żal - dolor
@@ -1888,7 +1888,7 @@ zamek - castell m
 zamężny - casat )
 zamieszkały - poblat
 zamknąć - tancar
-zapad - posta de sol | oest m
+zapad - posta de sol, oest m
 zapalenie płuc - pneumònia
 zaproszenie - invitació
 zasłona - cortina f
@@ -1906,7 +1906,7 @@ zegar słoneczny - rellotge de sol m
 żelazko - planxa f
 żelazo - ferro m
 żeńczyna - dona f
-zero - zero | cap | gens
+zero - zero, cap, gens
 zeszyt - llibreta f
 zicać - seure
 zięć - gendre m
@@ -1915,7 +1915,7 @@ zielony - verd
 ziemia - terra f
 zima - hivern m
 zimnica - febre f
-zista - àvia f | iaia f
+zista - àvia f, iaia f
 złoto - or m
 zły - dolent
 zmiana - canvi m
@@ -1923,8 +1923,8 @@ zmierzch - crepuscle m
 zmywać - rentar
 zmywarka - rentaplats m
 znak wodny - filigrana
-żółć - groc m | groga f
-żółty - groc m | groga f
+żółć - groc m, groga f
+żółty - groc m, groga f
 żółw - tortuga f
 żołwica - cunyada f
 żółw lamparci - tortuga lleopard
@@ -1937,8 +1937,8 @@ ZUM - ITU
 zupa - sopa f
 żurnal - revista
 zwierciadło - mirall m
-zwierzak - animal m | bèstia f
-zwierzę - animal m | bèstia f
+zwierzak - animal m, bèstia f
+zwierzę - animal m, bèstia f
 zwycięski - victoriós
 żywe srebro - mercuri m
 żywić - menjar

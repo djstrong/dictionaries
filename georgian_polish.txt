@@ -1,6 +1,6 @@
 ა - pierwsza litera alfabetu gruzińskiego
-ააოხრებს - zdewastuje | zrujnuje
-აბაზანა - wanna | łazienka
+ააოხრებს - zdewastuje, zrujnuje
+აბაზანა - wanna, łazienka
 აბანოზი - heban
 აბანოს ჭია - karaluch
 აბაჟური - klosz
@@ -8,7 +8,7 @@
 აბატი - opat
 აბდაუბდა - nonsens
 აბზაცი - paragraf
-აბი - pigułka | tabletka
+აბი - pigułka, tabletka
 აბლაბუდა - pajęcza sieć
 აბრევიატურა - skrót
 აბრეშუმა - kanianka
@@ -22,8 +22,8 @@
 აგნოსტიციზმი - agnostycyzm
 აგონია - agonia
 აგრესია - agresja
-აგრესორი - agresor | napastnik
-ადამიანი - człowiek | istota ludzka | osoba
+აგრესორი - agresor, napastnik
+ადამიანი - człowiek, istota ludzka, osoba
 ადამიანური - ludzki
 ადაპტაცია - adaptacja
 ადგილას - w miejscu
@@ -31,18 +31,18 @@
 ადეკვატური - adekwatny
 ადვილი - łatwy
 ადვოკატი - prawnik
-ადიულტერი - zdrada małżeńska | cudzołóstwo
-ადმირალი - admirał | rusałka admirał
-ადრე - wcześnie | wcześniej | w przeszłości
+ადიულტერი - zdrada małżeńska, cudzołóstwo
+ადმირალი - admirał, rusałka admirał
+ადრე - wcześnie, wcześniej, w przeszłości
 ადრესატი - adresat
 ადრეული - wczesny
 ადრიანი - wczesny
 აეროპორტი - lotnisko
 აეროსტატი - balon
-ავად - zgryźliwie | opryskliwie
+ავად - zgryźliwie, opryskliwie
 ავადმყოფი - chory
 ავადმყოფობა - choroba
-ავაზაკი - gangster | złodziej | bandyta
+ავაზაკი - gangster, złodziej, bandyta
 ავიაცია - lotnictwo
 ავიახაზი - linie lotnicze (przedsiębiorstwo)
 ავოკადო - awokado
@@ -62,14 +62,14 @@
 აზია - Azja
 აზნი - szlachcic
 აზოტი - azot
-აზრი - opinia | zdanie
+აზრი - opinia, zdanie
 ათასი - tysiąc
-ათასწლეული - tysiąclecie | millenium
+ათასწლეული - tysiąclecie, millenium
 ათეიზმი - ateizm
 ათეისტი - ateista
 ათენი - Ateny
 ათი - dziesięć
-აი - tu | tam
+აი - tu, tam
 აივანი - balkon
 აისი - wschód Słońca
 აკადემია - akademia
@@ -79,7 +79,7 @@
 აკვედუკი - akwedukt
 აკლდამა - grób
 აკორდეონი - akordeon
-აკრგძალული - zakazany | zabroniony
+აკრგძალული - zakazany, zabroniony
 აკრძალული - zakazany
 აკუთა - piec
 აკუმულატორი - akumulator
@@ -87,7 +87,7 @@
 ალამი - flaga
 ალაო - słód
 ალაჰი - Allah
-ალბათ - chyba | prawdopodobnie
+ალბათ - chyba, prawdopodobnie
 ალბანეთი - Albania
 ალბატროსი - albatros
 ალბინოსი - albinos
@@ -108,16 +108,16 @@
 ალტერნატიული - alternatywny
 ალტიმეტრი - wysokościomierz
 ალტრუიზმი - altruizm
-ალუბალი - wiśnia | wiśnia pospolita
+ალუბალი - wiśnia, wiśnia pospolita
 ალუმინი - glin
 ალქიმია - alchemia
 ალქიმიკოსი - alchemik
-ამას წინათ - niedawno | przedtem
+ამას წინათ - niedawno, przedtem
 ამაყად - dumnie
-ამბავი - wiadomość | informacja | historia
+ამბავი - wiadomość, informacja, historia
 ამბარჩა - naszyjnik
 ამბიცია - ambicja
-ამდენი - tak dużo | tak wiele
+ამდენი - tak dużo, tak wiele
 ამება - ameba
 ამეთვისტო - ametyst
 ამერიკა - Ameryka
@@ -173,7 +173,7 @@
 ანჯამა - zawias
 აორტა - aorta
 აპათიური - apatyczny
-აპლოდისმენტი - oklaski | aplauz
+აპლოდისმენტი - oklaski, aplauz
 აპნისი - styczeń
 აპოკალიფსი - apokalipsa
 აპოკრიფული - apokryficzny
@@ -188,7 +188,7 @@
 არათანაბარი - nierówny
 არაკი - bajka
 არამეგობრული - wrogi
-არამედ - przeciwnie | ale raczej
+არამედ - przeciwnie, ale raczej
 არაორგანული - nieorganiczny
 არაპირდაპირად - pośrednio
 არაპირდაპირი - pośredni
@@ -208,7 +208,7 @@
 არია - aria
 არითმეტიკა - arytmetyka
 არისტოკრატია - arystokracja
-არისტოტელე - Arystoteles | Arystoteles (imię)
+არისტოტელე - Arystoteles, Arystoteles (imię)
 არსად - nigdzie
 არსებითი სახელი - rzeczownik
 არსებობს - istnieje
@@ -225,7 +225,7 @@
 არწივი - orzeł
 არხალუხი - archałuk
 ასაკოვანი - starszy
-ასე - tak | w ten sposób
+ასე - tak, w ten sposób
 ასეთი - taki
 ასექსუალობა - aseksualność
 ასთმა - astma
@@ -247,16 +247,16 @@
 ატომი - atom
 ატომური - atomowy
 ატროფია - atrofia
-აუცილებლად - niechybnie | koniecznie
+აუცილებლად - niechybnie, koniecznie
 აფთარი - hiena
-აფორიზმი - aforyzm | sentencja
+აფორიზმი - aforyzm, sentencja
 აფრა - żagiel
 აფრიკა - Afryka
 აფრიკული - afrykański
 აფხაზეთი - Abchazja
 აფხაზი - Abchaz
 აქ - tutaj
-აქამდის - do tej pory | dotychczas | dotąd
+აქამდის - do tej pory, dotychczas, dotąd
 აქატი - agat
 აქლემი - wielbłąd
 აქსიომა - aksjomat
@@ -274,16 +274,16 @@
 აჭარა - Adżaria
 აჭარელი - Adżaryjczyk
 აჭმევს - nakarmi
-ახალგაზრდა - młody | młody człowiek
+ახალგაზრდა - młody, młody człowiek
 ახალგაზრდობა - młodość
 ახალი - nowy
 ახლა - teraz
-ახლანდელი - teraźniejszy | obecny
-ახლო - bliski | niedaleki
+ახლანდელი - teraźniejszy, obecny
+ახლო - bliski, niedaleki
 ახლოს - niedaleko
 ახსნა-განმარტება - wyjaśnienie
 ახსნა–განმარტები - wyjaśnienie
-ახსნია - rozwiązać | wyjaśnić
+ახსნია - rozwiązać, wyjaśnić
 ბ - druga litera alfabetu gruzińskiego
 ბაბთა - wstążka
 ბაბუა - dziadek
@@ -292,7 +292,7 @@
 ბავშვი - dziecko
 ბავშვობა - dzieciństwo
 ბაზალტი - bazalt
-ბაზარი - rynek | bazar
+ბაზარი - rynek, bazar
 ბაზი - sokół
 ბაზისი - podstawa
 ბაზმაკი - lampa
@@ -318,22 +318,22 @@
 ბასტიონი - bastion
 ბატალიონი - batalion
 ბატარეა - bateria
-ბატატი - wilec ziemniaczany | batat | patat | słodki ziemniak
+ბატატი - wilec ziemniaczany, batat, patat, słodki ziemniak
 ბატი - gęś
 ბატონი - dżentelmen
-ბაღი - ogród | sad
+ბაღი - ogród, sad
 ბაღია - ogród
 ბაყაყი - żaba
 ბგერა - dźwięk
-ბებერა - pęcherz | bąbel
+ბებერა - pęcherz, bąbel
 ბებია - babcia
 ბებო - babcia
 ბედი - los
 ბედნიერება - szczęście
 ბედნიერი - szczęśliwy
 ბედურა - wróbel
-ბედშავი - nieszczęśliwy | pechowy
-ბევრი - dużo | wiele
+ბედშავი - nieszczęśliwy, pechowy
+ბევრი - dużo, wiele
 ბეისბოლი - baseball
 ბელარუსი - Białoruś
 ბელგია - Belgia
@@ -344,12 +344,12 @@
 ბერი - mnich
 ბერილიუმი - beryl
 ბერლინი - Berlin
-ბერძენი - Grek | Greczynka
+ბერძენი - Grek, Greczynka
 ბერძნული - język grecki
 ბეღურა - wróbel
 ბეჯითი - pilny
 ბზიკი - osa
-ბიბლია - Biblia | Pismo Święte
+ბიბლია - Biblia, Pismo Święte
 ბიბლიოთეკა - biblioteka
 ბივრილი - beryl
 ბიზნესმენი - przedsiębiorca
@@ -365,7 +365,7 @@
 ბიოლოგია - biologia
 ბიოლოგიური - biologiczny
 ბიოქიმია - biochemia
-ბირთვული - jądrowy | nuklearny
+ბირთვული - jądrowy, nuklearny
 ბისექსუალობა - biseksualizm
 ბისექსუალური - biseksualny
 ბიუროკრატი - biurokrata
@@ -374,9 +374,9 @@
 ბიძაშვილი - kuzyn
 ბიჭი - chłopiec
 ბლოკადა - blokada
-ბნელი - ciemny | mroczny
+ბნელი - ciemny, mroczny
 ბოდიში - przepraszam
-ბოზი - dziwka | prostytutka
+ბოზი - dziwka, prostytutka
 ბოთლი - butelka
 ბოთლის გასახსნელი - otwieracz do butelek
 ბოიკოტი - bojkot
@@ -384,8 +384,8 @@
 ბოლო - ostatni
 ბორა - pagórek
 ბორბალი - koło
-ბორკილი - kajdany | okowy
-ბოროტი - zły | zepsuty
+ბორკილი - kajdany, okowy
+ბოროტი - zły, zepsuty
 ბოსნია და ჰერცეგოვინა - Bośnia i Hercegowina
 ბოსტნეული - jarzyny
 ბოტანიკა - botanika
@@ -407,7 +407,7 @@
 ბრტყელი - płaski
 ბრუნვა - przypadek
 ბრძოლა - bitwa
-ბრწყინვალე - błyszczący | wybitny
+ბრწყინვალე - błyszczący, wybitny
 ბრჭყალი - pazur
 ბუ - sowa
 ბუდაპეშტი - Budapeszt
@@ -420,7 +420,7 @@
 ბულდოზერი - buldożer
 ბუმბული - pióro
 ბუმერანგი - bumerang
-ბუნება - przyroda | natura
+ბუნება - przyroda, natura
 ბუნებრივად - naturalnie
 ბუნიობა - równonoc
 ბურთი - piłka
@@ -428,7 +428,7 @@
 ბუჩქი - krzak
 ბუხჰალტერი - księgowy
 გ - trzecia litera alfabetu gruzińskiego
-გააგრძელებს - będzie kontynuował | dokończy
+გააგრძელებს - będzie kontynuował, dokończy
 გააერთიანებს - zjednoczy
 გაათავებს - skończy
 გააღებს - otworzy
@@ -440,22 +440,22 @@
 გადაწყვეტა - rozwiązanie
 გადაწყვეტილება - decyzja
 გადახდილი - płatny
-გაერთიანება - zjednoczenie | unifikacja
+გაერთიანება - zjednoczenie, unifikacja
 გაერთიანებული სამეფო - Zjednoczone Królestwo
 გავლენა - wpływ
 გაზაფხული - wiosna
 გაზეთი - gazeta
 გაზომვა - mierzyć
-გაზრდის - wyhoduje | wyrośnie
+გაზრდის - wyhoduje, wyrośnie
 გათენება - świt
-გაიგებს - zrozumie | od იგებს | dowie się
+გაიგებს - zrozumie, od იგებს, dowie się
 გაიგონებს - usłyszy
 გაიჭრის - skaleczy się
 გაკვეთილი - lekcja
 გალაქტიკა - galaktyka
 გამარჯვება - zwycięstwo
-გამარჯობა - cześć | dzień dobry
-გამო - z powodu | ze względu na
+გამარჯობა - cześć, dzień dobry
+გამო - z powodu, ze względu na
 გამოაღვიძებს - obudzi
 გამოგონება - wynalazek
 გამოთქმა - wymowa
@@ -470,26 +470,26 @@
 გამოცდა - egzamin
 გამუდმებით - ciągle
 გამყიდველი - sprzedawca
-გამხდარი - chudy | szczupły
-განათლება - edukacja | kształcenie
-განვითარება - rozwój | kształcenie
+გამხდარი - chudy, szczupły
+განათლება - edukacja, kształcenie
+განვითარება - rozwój, kształcenie
 განზე - na bok
 განზომილება - wymiar
 განიერი - szeroki
-განიხილავს - zbada | omówi
-განმავლობაში - podczas | w trakcie
-განსაკუთრებით - zwłaszcza | szczególnie
+განიხილავს - zbada, omówi
+განმავლობაში - podczas, w trakcie
+განსაკუთრებით - zwłaszcza, szczególnie
 განტევების ვაცი - kozioł ofiarny
 განუწყვეტლად - bezustannie
 განცალკევებით - osobno
 განხილვა - dyskusja
 გარაჟი - garaż
-გარდა - poza | z wyjątkiem | oprócz
+გარდა - poza, z wyjątkiem, oprócz
 გარეთ - na zewnątrz
 გარემო - środowisko
 გარემოება - okoliczność
-გარკვევით - zdecydowanie | bez wątpienia
-გარკვეული - jasny | wyraźny | pewien
+გარკვევით - zdecydowanie, bez wątpienia
+გარკვეული - jasny, wyraźny, pewien
 გარნიზონი - garnizon
 გასასვლელი - wyjście
 გასაღები - klucz
@@ -499,7 +499,7 @@
 გაყიდვა - sprzedawać
 გაყოფადი - podzielny
 გაცილებით - daleko
-გახდება - stanie się | przekształci się
+გახდება - stanie się, przekształci się
 გედი - łabędź
 გემი - statek
 გემო - smak
@@ -520,7 +520,7 @@
 გერმანული - niemiecki
 გესლი - trucizna
 გვალვა - susza
-გვარლი - sznur | lina
+გვარლი - sznur, lina
 გვატემალა - Gwatemala
 გველი - wąż
 გვიან - późno
@@ -534,10 +534,10 @@
 გიბრალტარი - Gibraltar
 გიგანტური - gigantyczny
 გილდია - cech
-გიჟი - szaleniec | wariat
+გიჟი - szaleniec, wariat
 გიტარა - gitara
 გლადიატორი - gladiator
-გლეხი - chłop | wieśniak
+გლეხი - chłop, wieśniak
 გლობალური - globalny
 გლობალური დათბობა - globalne ocieplenie
 გმირი - bohater
@@ -545,7 +545,7 @@
 გნომი - gnom
 გოგირდი - siarka
 გოგო - dziewczyna
-გოგონა - dziewczyna | alternatywna pisownia słowa გოგო
+გოგონა - dziewczyna, alternatywna pisownia słowa გოგო
 გოგრა - dynia
 გოდორი - kosz
 გოლფი - golf
@@ -564,25 +564,25 @@
 გროტესკული - groteskowy
 გრძელი - długi
 გრძნეული - wiedźma
-გრძნობა - wyczucie | uczucie
+გრძნობა - wyczucie, uczucie
 გუგული - kukułka
 გუთანი - pług
 გუთური - gocki
 გული - serce
 გულმოდგინე - zagorzały
 გუმანი - podejrzenie
-გუნდი - zespół | drużyna
+გუნდი - zespół, drużyna
 გუშინ - wczoraj
 გუშინდელი - wczorajszy
 გუშინწინ - przedwczoraj
 დ - czwarta litera alfabetu gruzińskiego
-და - siostra | i
-დააარსებს - założy | powoła
+და - siostra, i
+დააარსებს - założy, powoła
 დააგრძელებს - przedłuży
 დაავადება - choroba
 დაავიწყება - zapomni
 დაანთებს - zapali
-დაახასიათებს - scharakteryzuje | opisze
+დაახასიათებს - scharakteryzuje, opisze
 დაახლოებით - w przybliżeniu
 დაბოლოება - w końcu
 დადგება - wstaje
@@ -606,7 +606,7 @@
 დამოუკიდებელ სახელმწიფოთა თანამეგობრობა - Wspólnota Niepodległych Państw
 დამოუკიდებლად - niezależnie
 დამოწმებული - poświadczony
-დამქანცველი - pracochłonny | żmudny
+დამქანცველი - pracochłonny, żmudny
 დამწერლობა - skrypt
 დანა - nóż
 დანაკი - nóż
@@ -629,7 +629,7 @@
 დაცულობა - bezpieczeństwo
 დაწერს - napisze
 დაწესებულება - instytucja
-დაჭრის - zrani | potnie
+დაჭრის - zrani, potnie
 დახატავს - namaluje
 დახვდება - spotka się
 დახურული - zamknięty
@@ -637,7 +637,7 @@
 დაჯდება - usiądzie
 დგომა - stać
 დგუში - tłok
-დედა - matka | mama
+დედა - matka, mama
 დედაკაცი - kobieta
 დედამთილი - teściowa
 დედამიწა - Ziemia -
@@ -657,7 +657,7 @@
 დემოკრატიული - demokratyczny
 დერეფანი - korytarz
 დერმატოლოგია - dermatologia
-დეფექტი - defekt | wada
+დეფექტი - defekt, wada
 დეფისი - dywiz
 დვრილი - sutek
 დიაბეტი - cukrzyca
@@ -667,14 +667,14 @@
 დიამეტრი - średnica
 დიახ - tak
 დიდებული - majestatyczny
-დიდი - duży | wielki
+დიდი - duży, wielki
 დიდი ბრიტანეთი - Wielka Brytania
-დიდსულოვნება - hojność | szczodrość
+დიდსულოვნება - hojność, szczodrość
 დიდძალი - liczny
-დიდხანს - od dawna | dawno
-დივანი - sofa | kanapa
-დიზენტერია - dyzenteria | czerwonka
-დილა - rano | ranek | poranek
+დიდხანს - od dawna, dawno
+დივანი - sofa, kanapa
+დიზენტერია - dyzenteria, czerwonka
+დილა - rano, ranek, poranek
 დილა მშვიდობისა - dzień dobry
 დილეგი - loch
 დილემა - dylemat
@@ -686,7 +686,7 @@
 დიპლომატიური - dyplomatyczny
 დიპლომი - dyplom
 დისკუსია - dyskusja
-დიუნი - wydma | diuna
+დიუნი - wydma, diuna
 დიფუზიური - rozproszony
 დიქტატურა - dyktatura
 დო - maślanka
@@ -702,7 +702,7 @@
 დრამა - dramat
 დრო - czas
 დროებით - na razie
-დროს - podczas | w czasie
+დროს - podczas, w czasie
 დროსტარება - hobby
 დროშა - flaga
 დუელი - pojedynek
@@ -722,14 +722,14 @@
 ეგვიპტე - Egipt
 ეგვიპტური - egipski
 ეგზოტიკური - egzotyczny
-ეგრისი - Kolchida | zachodnia Gruzja
+ეგრისი - Kolchida, zachodnia Gruzja
 ევაკუაცია - ewakuacja
 ევოლუცია - ewolucja
 ევროპა - Europa
 ევროპის კავშირი - Unia Europejska
 ევროპული - europejski
 ევფემიზმი - eufemizm
-ეზო - podwórze | dwór
+ეზო - podwórze, dwór
 ეთიკური - etyczny
 ეთიოპია - Etiopia
 ეთნოლოგია - etnologia
@@ -757,9 +757,9 @@
 ემანსიპაცია - emancypacja
 ემბრიოლოგია - embriologia
 ემბრიონი - embrion
-ენა - język | mowa
-ენათმეცნიერება - językoznawstwo | lingwistyka
-ენათმეცნიერი - językoznawca | lingwista
+ენა - język, mowa
+ენათმეცნიერება - językoznawstwo, lingwistyka
+ენათმეცნიერი - językoznawca, lingwista
 ენდემური - endemiczny
 ენდოკრინოლოგია - endokrynologia
 ენთუზიაზმი - entuzjazm
@@ -768,8 +768,8 @@
 ენციკლოპედია - encyklopedia
 ეპიდემიური - epidemiczny
 ეპითეტი - epitet
-ეპილეფსია - padaczka | epilepsja
-ეპილოგი - epilog | zakończenie
+ეპილეფსია - padaczka, epilepsja
+ეპილოგი - epilog, zakończenie
 ეპისკოპოსი - biskup
 ეპიტაფია - epitafium
 ეპოქა - epoka
@@ -780,19 +780,19 @@
 ერესი - herezja
 ერეტიკული - heretycki
 ერთად - razem
-ერთადერთი - jedyny | unikalny
-ერთბაშად - od razu | nagle
+ერთადერთი - jedyny, unikalny
+ერთბაშად - od razu, nagle
 ერთგვაროვანი - jednolity
-ერთგული - wierny | oddany
-ერთდროულად - równocześnie | jednocześnie
+ერთგული - wierny, oddany
+ერთდროულად - równocześnie, jednocześnie
 ერთ–ერთი - jeden z
 ერთი - jeden
-ერთმანეთი - wzajemnie | jeden drugiego
+ერთმანეთი - wzajemnie, jeden drugiego
 ერთობა - jedność
 ერთსულოვანი - jednomyślny
 ერთსულოვნება - jednomyślność
-ერთხელ - raz | jednokrotnie
-ერი - naród | lud
+ერთხელ - raz, jednokrotnie
+ერი - naród, lud
 ეროვნება - narodowość
 ეს - ten/ta/to
 ესე იგი - to jest
@@ -806,14 +806,14 @@
 ექვსი - sześć
 ექვსკუთხა - sześciokątny
 ექიმი - lekarz
-ექსკრემენტი - kał | wydalina
+ექსკრემენტი - kał, wydalina
 ექსპერიმენტი - eksperyment
-ექსპლუატაცია - eksploatacja | wykorzystywanie
+ექსპლუატაცია - eksploatacja, wykorzystywanie
 ექსპორტი - eksport
 ექსპორტიორი - eksporter
 ეძებს - szukać
 ეწერი - zagajnik
-ეჭვი - wątpliwość | niepewność
+ეჭვი - wątpliwość, niepewność
 ეჭვიანობა - zazdrość
 ვაგინა - pochwa
 ვაზა - wazon
@@ -838,7 +838,7 @@
 ვაშლი - jabłko
 ვაჭარი - handlarz
 ვახშამი - kolacja
-ვე - identyczny | taki sam
+ვე - identyczny, taki sam
 ვეგეტარიანელობა - wegetarianizm
 ვედრო - wiadro
 ვეზირი - wezyr
@@ -853,12 +853,12 @@
 ვერდიქტი - werdykt
 ვერსია - wersja
 ვერტიკალური - pionowy
-ვერტმფრენი - helikopter | śmigłowiec
+ვერტმფრენი - helikopter, śmigłowiec
 ვერცხლი - srebro
 ვეტერანი - weteran
 ვეფხვი - tygrys
 ვექტორი - wektor
-ვეშაპი - wieloryb | smok
+ვეშაპი - wieloryb, smok
 ვიდეო - wideo
 ვიდრე - niż
 ვიეტნამი - Wietnam
@@ -866,7 +866,7 @@
 ვიზუალური - wizualny
 ვინ - kto
 ვინაიდან - ponieważ
-ვინმე - ktoś | ktokolwiek
+ვინმე - ktoś, ktokolwiek
 ვირთაგვა - szczur
 ვირი - osioł
 ვირუსი - wirus
@@ -880,15 +880,15 @@
 ვრცელი - rozległy
 ვულკანი - wulkan
 ვულკანური - wulkaniczny
-ზადი - defekt | wada
+ზადი - defekt, wada
 ზამთარი - zima
 ზამოსცი - Zamość
 ზარბაზანი - działo
 ზარდლი - pająk
-ზარი - dzwon | strach | przerażenie
+ზარი - dzwon, strach, przerażenie
 ზარმაცი - leniwy
 ზაფხული - lato
-ზე - na | w
+ზე - na, w
 ზებრა - zebra
 ზეგ - pojutrze
 ზედაპირი - powierzchnia
@@ -901,24 +901,24 @@
 ზმნა - czasownik
 ზმნიზედა - przysłówek
 ზმნიზედური - przysłówkowy
-ზოგი - niektóre | niektórzy
-ზოგიერთი - kilka | kilku | niektóry z nich
+ზოგი - niektóre, niektórzy
+ზოგიერთი - kilka, kilku, niektóry z nich
 ზოგჯერ - czasami
-ზოლიანი - pasiasty | w paski
+ზოლიანი - pasiasty, w paski
 ზომა - rozmiar, miara
 ზონა - strefa
 ზოოლოგი - zoolog
 ზოოლოგია - zoologia
 ზოოლოგიური - zoologiczny
 ზოოპარკი - zoo
-ზრდილობა - wychowanie | grzeczność
+ზრდილობა - wychowanie, grzeczność
 ზრდილობიანი - uprzejmy
 ზუთხი - jesiotr
 ზურგი - plecy
 ზურმუხტი - szmaragd
 ზუსტად - dokładnie
 ზუსტი - dokładny
-ზღაპარი - bajka | baśń
+ზღაპარი - bajka, baśń
 ზღარბი - jeż
 ზღვა - morze
 ზღვის ნაპირი - plaża
@@ -926,28 +926,28 @@
 თაგვი - mysz
 თავაზიანი - uprzejmy
 თავგადასავალი - przygoda
-თავდაპირველი - pierwotny | oryginalny
+თავდაპირველი - pierwotny, oryginalny
 თავდაცვითი - obronny
-თავი - głowa | rozdział
+თავი - głowa, rozdział
 თავიანთი - swój własny
-თავისუფალი - wolny | swobodny | dyspozycyjny
+თავისუფალი - wolny, swobodny, dyspozycyjny
 თავისუფლება - wolność
 თავკომბალა - kijanka
 თავშეკავება - abstynencja
 თათმანი - rękawiczka
 თამადა - tamada
 თამასა - deska
-თამაშობს - gra | bawi się
-თან - przy | koło | obok | do | na (w kierunku)
+თამაშობს - gra, bawi się
+თან - przy, koło, obok, do, na (w kierunku)
 თანამედროვე - współczesny
 თანაფარდობა - korelacja
 თანაც - ponadto
 თანახმად - według
 თანდათანობით - stopniowo
-თანხმობა - zgodność | zgoda
+თანხმობა - zgodność, zgoda
 თანხმოვანი - spółgłoska
 თარგი - szablon
-თარგმანი - tłumaczenie | przekład
+თარგმანი - tłumaczenie, przekład
 თარიღი - data
 თარო - półka
 თარჯიმანი - tłumacz
@@ -959,7 +959,7 @@
 თებერვალი - luty
 თებო - łupież
 თევზი - ryba
-თეთრეულს - pranie | wyprane rzeczy | bielizna
+თეთრეულს - pranie, wyprane rzeczy, bielizna
 თეთრი - biały
 თეთრყვავილა - przebiśnieg
 თელა - wiąz
@@ -978,7 +978,7 @@
 თვითმფრინავი - samolot
 თვითნებურად - dowolnie
 თვითნებური - arbitralny
-თვითონ - samego siebie | się
+თვითონ - samego siebie, się
 თვრამეტი - osiemnaście
 თიაქარი - przepuklina
 თივა - siano
@@ -995,7 +995,7 @@
 თორმეტი - dwanaście
 თრთვილი - mróz
 თრითინა - łasica
-თუ - jeśli | jeżeli
+თუ - jeśli, jeżeli
 თუთა - morwa
 თუთია - cynk
 თუთის აბრეშუმხვევია - jedwabnik morwowy
@@ -1008,7 +1008,7 @@
 თურქული - turecki
 თქვენ - wy –
 თხა - koza
-თხზულება - dzieło | utwór
+თხზულება - dzieło, utwór
 თხილამური - narta
 თხილი - orzech laskowy
 თხუთმეტი - piętnaście
@@ -1025,8 +1025,8 @@
 იატაკი - podłoga
 იაფი - tani
 იახტა - jacht
-იბერია - Iberia | Iberia kaukaska
-იგივე - ten sam | taki sam
+იბერია - Iberia, Iberia kaukaska
+იგივე - ten sam, taki sam
 იდაყვი - łokieć
 იდგება - stoi
 იდეალი - ideał
@@ -1038,7 +1038,7 @@
 იდიოტური - idiotyczny
 იემენი - Jemen
 იერარქია - hierarchia
-იერიში - atak | napaść
+იერიში - atak, napaść
 იესო - Jezus
 ივლისი - lipiec
 ივნისი - czerwiec
@@ -1052,7 +1052,7 @@
 იმპერია - imperium
 იმპერიალიზმი - imperializm
 იმპრესიონიზმი - impresjonizm
-ინგლისელი - Anglik | Angielka
+ინგლისელი - Anglik, Angielka
 ინგლისი - Anglia
 ინგლისური - angielski
 ინგლისური ენა - język angielski
@@ -1079,25 +1079,25 @@
 ირანი - Iran
 ირემი - jeleń
 ირიდიუმი - iryd
-ირლანდია - Irlandia | Irlandia - wyspa w Europie
+ირლანდია - Irlandia, Irlandia - wyspa w Europie
 ირლანდიური - irlandzki
 ირონიული - ironiczny
-ის - on | ona | ono –
+ის - on, ona, ono –
 ისარი - strzała
 ისე - tak
-ისევე - taki jak | właśnie taki
+ისევე - taki jak, właśnie taki
 ისეთი - taki
-ისინი - oni | one –
+ისინი - oni, one –
 ისლამი - islam
 ისლამური - islamski
-ისლანდია - Islandia | Islandia - wyspa w Europie
+ისლანდია - Islandia, Islandia - wyspa w Europie
 ისპანახი - szpinak
 ისრაელი - Izrael
 ისტერია - histeria
 ისტორია - historia
 ისტორიკოსი - historyk
 იტალია - Włochy
-იტალიელი - Włoch | Włoszka
+იტალიელი - Włoch, Włoszka
 იტალიური - włoski
 იუგოსლავია - Jugosławia
 იუდაიზმი - judaizm
@@ -1105,7 +1105,7 @@
 იუპიტერი - Jowisz
 იურისდიქცია - jurysdykcja
 იქ - tam
-იქვე - w tym samym miejscu | tamże
+იქვე - w tym samym miejscu, tamże
 იქნება - არის
 იღბლიანი - szczęśliwy
 იღლია - pacha
@@ -1113,7 +1113,7 @@
 იხვი - kaczka
 იხვნისკარტა - dziobak
 იჯდება - siedzi
-კავალერია - kawaleria | konnica
+კავალერია - kawaleria, konnica
 კათოდი - katoda
 კათოლიკური - katolicki
 კაკაბი - kuropatwa
@@ -1140,16 +1140,16 @@
 კანიონი - kanion
 კაპიტალიზმი - kapitalizm
 კაპიტანი - kapitan
-კარადა - regał | szafa na książki
+კარადა - regał, szafa na książki
 კარალიოკი - persymona
 კარანტინი - kwarantanna
 კარაქი - masło
 კარგად - cześć
-კარგი - dobry | w porządku
+კარგი - dobry, w porządku
 კარი - drzwi
 კარიერა - kariera
 კარნავალი - karnawał
-კარტოფილი - ziemniak | kartofel
+კარტოფილი - ziemniak, kartofel
 კასტა - kasta
 კატა - kot
 კატაბანი - gubernator
@@ -1160,7 +1160,7 @@
 კატეგორია - kategoria
 კატეხიზმო - katechizm
 კაქტუსი - kaktus
-კაცი - mężczyzna | człowiek
+კაცი - mężczyzna, człowiek
 კაჭკაჭი - sroka
 კბილი - ząb
 კბილის პასტა - pasta do zębów
@@ -1175,14 +1175,14 @@
 კერპი - idol
 კვამლი - dym
 კვერნა - kuna
-კვერცხი - jajo | jajko
+კვერცხი - jajo, jajko
 კვიპაროსი - cyprys
-კვიპროსი - Cypr (państwo) | Cypr (wyspa)
-კვირა - niedziela | tydzień
+კვიპროსი - Cypr (państwo), Cypr (wyspa)
+კვირა - niedziela, tydzień
 კვირადღე - niedziela
 კიბერნეტიკა - cybernetyka
 კიდება - wisieć
-კიდევ - znowu | znów
+კიდევ - znowu, znów
 კივი - kiwi
 კითხვა - pytanie
 კითხვარი - kwestionariusz
@@ -1229,7 +1229,7 @@
 კომპრომისი - kompromis
 კომუნიზმი - komunizm
 კომფორტაბელურად - wygodnie
-კონგრესი - kongres | konferencja
+კონგრესი - kongres, konferencja
 კონვერტი - koperta
 კონკურენცია - rywalizacja
 კონსერვის გასახსნელი - otwieracz do konserw
@@ -1252,7 +1252,7 @@
 კოფეინი - kofeina
 კოქტეილი - koktail
 კოღო - komar
-კოშკი - wieża | zamek
+კოშკი - wieża, zamek
 კოშკურა - wieżyczka
 კოშმარი - koszmar
 კრატერი - krater
@@ -1262,11 +1262,11 @@
 კრიტიკოსი - krytyk
 კუ - żółw
 კუბა - Kuba
-კუბელი - Kubańczyk | Kubanka
+კუბელი - Kubańczyk, Kubanka
 კუბიზმი - kubizm
 კუდიანი - wiedźma
 კუთვნილება - własność
-კუთხე - kąt | narożnik | róg
+კუთხე - kąt, narożnik, róg
 კულტი - kult
 კულტურა - kultura
 კუნთი - mięsień
@@ -1328,7 +1328,7 @@
 ლუდი - piwo
 ლუპა - lupa
 ლურჯი - niebieski
-ლუქსემბურგი - Luksemburg | Luksemburg - miasto w Luksemburgu (1.1)
+ლუქსემბურგი - Luksemburg, Luksemburg - miasto w Luksemburgu (1.1)
 ლჰასა - Lhasa
 მაგალითი - przykład
 მაგია - magia
@@ -1351,12 +1351,12 @@
 მაიონეზი - majonez
 მაისი - maj
 მაკაო - Makau
-მაკედონია - Macedonia | Macedonia - kraina historyczna w Grecji
+მაკედონია - Macedonia, Macedonia - kraina historyczna w Grecji
 მაკრატელი - nożyczki
 მალაიზია - Malezja
 მალე - wkrótce
-მალტა - Malta (państwo) | Malta (wyspa)
-მამა - ojciec | tata
+მალტა - Malta (państwo), Malta (wyspa)
+მამა - ojciec, tata
 მამალი - kogut
 მამამთილი - teść
 მამიკო - tata
@@ -1365,7 +1365,7 @@
 მანანა - wrzos
 მანგო - mango
 მანიპულაცია - manipulacja
-მანქანა - maszyna | samochód
+მანქანა - maszyna, samochód
 მანქანას - samochód
 მარგალიტი - perła
 მარგანეცი - mangan
@@ -1389,20 +1389,20 @@
 მაჩვზღარბა - jeżozwierz
 მაჩვი - borsuk
 მაცივარი - lodówka
-მახვილი - strzała | miecz | akcent | ostry | spiczasty
+მახვილი - strzała, miecz, akcent, ostry, spiczasty
 მახსოვს - pamiętam
 მაჯა - nadgarstek
 მაჯლაჯუნა - koszmar
 მგელი - wilk
 მგელი ცხვრის ტყავში - wilk w owczej skórze
-მგონია - wydaje mi się | od ჰგონია
+მგონია - wydaje mi się, od ჰგონია
 მდგმური - najemca
-მდგომარეობა - sytuacja | położenie | stan
+მდგომარეობა - sytuacja, położenie, stan
 მდიდარი - bogaty
 მდინარე - rzeka
 მე - ja –
 მებაღე - ogrodnik
-მეგობარი - kolega | przyjaciel
+მეგობარი - kolega, przyjaciel
 მეგობრობა - przyjaźń
 მედალი - medal
 მედიტაცია - medytacja
@@ -1446,7 +1446,7 @@
 მეფე - król
 მეფუტკრე - pszczelarz
 მექანიკური - mechaniczny
-მექრთამეობა - przekupstwo | korupcja
+მექრთამეობა - przekupstwo, korupcja
 მექსიკა - Meksyk
 მექსიკური - meksykański
 მეშვიდე - siódmy
@@ -1466,8 +1466,8 @@
 მზესუმზირა - słonecznik
 მზიანი - słoneczny
 მზის ჩასვლა - zachód słońca
-მთა - góra | wzgórze
-მთავარი - wódz | główny
+მთა - góra, wzgórze
+მთავარი - wódz, główny
 მთავრობა - rząd
 მთარგმნელი - tłumacz
 მთვარე - księżyc
@@ -1475,7 +1475,7 @@
 მიანმარი - Mjanma
 მიახლოებით - około
 მიახლოებითი - przybliżony
-მიგნება - znaleźć | odnaleźć
+მიგნება - znaleźć, odnaleźć
 მითი - mit
 მითოლოგია - mitologia
 მიიღებს - dostanie
@@ -1485,7 +1485,7 @@
 მილიგრამი - miligram
 მიმდინარე - aktualny
 მინარეთი - minaret
-მინდა - chcę | od უნდა
+მინდა - chcę, od უნდა
 მინდორი - pole
 მინერალი - minerał
 მინერალოგი - mineralog
@@ -1499,7 +1499,7 @@
 მიწა - ziemia
 მიწათმოქმედი - rolnik
 მიწისძვრა - trzęsienie ziemi
-მიხეილ - Michał | gruzińskie imię męskie
+მიხეილ - Michał, gruzińskie imię męskie
 მკვდარი - martwy
 მკვეხარა - chełpliwy
 მკვლელი - zabójca
@@ -1507,13 +1507,13 @@
 მლოცვარე - pielgrzym
 მნებავს - zechciałbym
 მნიშვნელოვანი - ważny
-მოაჭრევინებს - spowoduje | że odetną
+მოაჭრევინებს - spowoduje, że odetną
 მობილურობა - mobilność
 მოგვიანებით - później
 მოგზაური - podróżnik
 მოგრძო - podłużny
 მოდა - moda
-მოდება - poddawać fermentacji | zakwaszać
+მოდება - poddawać fermentacji, zakwaszać
 მოზამბიკი - Mozambik
 მოთეთრო - białawy
 მოიგებს - wygra
@@ -1523,7 +1523,7 @@
 მოლაღური - wilga
 მოლბერტი - sztaluga
 მოლდოვა - Mołdawia
-მოლეკულა - cząsteczka | molekuła
+მოლეკულა - cząsteczka, molekuła
 მოლიბდენი - molibden
 მომღერალი - śpiewak
 მომწვანო - zielonkawy
@@ -1609,10 +1609,10 @@
 მწყერი - przepiórka
 მჭიდრო - ciasny
 მხატვარი - artysta
-მხედარი - rycerz | wojownik
-მხედრული - wojskowy | mchedruli
+მხედარი - rycerz, wojownik
+მხედრული - wojskowy, mchedruli
 მხოლოდ - tylko
-ნადირობს - poluje | od ნადირობა
+ნადირობს - poluje, od ნადირობა
 ნავთობი - ropa naftowa
 ნავი - łódź
 ნავიგაცია - nawigacja
@@ -1621,24 +1621,24 @@
 ნათურა - lampa
 ნაიარევი - blizna
 ნაკლებად - mniej
-ნაკლებობა - brak | niedobór
+ნაკლებობა - brak, niedobór
 ნალი - podkowa
 ნამდვილი - prawdziwy
 ნამიბია - Namibia
 ნარინჯისფერი - pomarańczowy
-ნარკვევი - esej | praca
+ნარკვევი - esej, praca
 ნარშავი - oset
 ნატრიუმი - sód
 ნაფეხური - ślad stopy
 ნაღდად - rzeczywiście
 ნაღმი - bomba
 ნაყინი - lody
-ნაშთი - pozostałość | reszta
+ნაშთი - pozostałość, reszta
 ნაშუადღევი - popołudnie
 ნაცვალსახელი - zaimek
 ნაციონალიზმი - nacjonalizm
 ნაციონალისტი - nacjonalista
-ნაცნობი - znany | przyjaciel
+ნაცნობი - znany, przyjaciel
 ნაცრისფერი - szary
 ნაძვი - świerk
 ნაწარმი - produkt
@@ -1652,17 +1652,17 @@
 ნახვამდის - do widzenia
 ნახშირბადი - węgiel
 ნახშირი - węgiel
-ნაჯახი - siekiera | topór
+ნაჯახი - siekiera, topór
 ნებაყოფლობით - dobrowolnie
 ნევროლოგია - neurologia
-ნეზვი - maciora | locha
+ნეზვი - maciora, locha
 ნეიტრალიტეტი - neutralność
 ნეიტრალური - neutralny
 ნეკერჩხალი - klon
 ნეკნი - żebro
 ნეკროლოგი - nekrolog
 ნელა - wolno
-ნელი - wolny | powolny
+ნელი - wolny, powolny
 ნემსი - igła
 ნემსიყლაპია - ważka
 ნეოლოგიზმი - neologizm
@@ -1675,7 +1675,7 @@
 ნესვი - melon
 ნესტო - nozdrze
 ნეფე - pan młody
-ნეხვი - gnój | łajno
+ნეხვი - gnój, łajno
 ნიადაგ - ciągle
 ნიანგი - krokodyl
 ნიახური - seler
@@ -1685,7 +1685,7 @@
 ნივთი - rzecz
 ნიკაპი - podbródek
 ნიკარაგუა - Nikaragua
-ნიმუში - model | wzór
+ნიმუში - model, wzór
 ნიორი - czosnek
 ნისლი - mgła
 ნიჰილიზმი - nihilizm
@@ -1707,11 +1707,11 @@
 ოვალი - owal
 ოვალური - owalny
 ოზონი - ozon
-ოთახი - pokój | izba
+ოთახი - pokój, izba
 ოთხი - cztery
 ოთხშაბათი - środa
 ოკეანე - ocean
-ოლქი - region | dysktrykt | prowincja
+ოლქი - region, dysktrykt, prowincja
 ომი - wojna
 ომონიმი - homonim
 ოპალი - opal
@@ -1730,7 +1730,7 @@
 ორთოგრაფია - ortografia
 ორი - dwa
 ორიენტაცია - orientacja
-ორივე - obaj | obie | oba
+ორივე - obaj, obie, oba
 ორკარედი ნიჟარა - małż
 ორმოცდაათი - pięćdziesiąt
 ორმოცი - czterdzieści
@@ -1742,7 +1742,7 @@
 ორცხობილას - tost
 ორჯერ - dwa razy
 ოსეთი - Osetia
-ოსტატი - rzemieślnik | majster
+ოსტატი - rzemieślnik, majster
 ოსური - osetyjski
 ოფიციალურად - formalnie
 ოფლი - pot
@@ -1783,7 +1783,7 @@
 პატრიარქი - patriarcha
 პატრიოტიზმი - patriotyzm
 პატრიოტული - patriotyczny
-პაქტი - pakt | układ
+პაქტი - pakt, układ
 პაჩი - pocałunek
 პაციენტი - pacjent
 პაწაწა - maleńki
@@ -1805,7 +1805,7 @@
 პიონერი - pionier
 პირატი - pirat
 პირველი - pierwszy
-პირი - usta | buzia
+პირი - usta, buzia
 პირობა - obietnica
 პიროვნება - osoba
 პირღებინება - wymiociny
@@ -1846,7 +1846,7 @@
 პრიზი - nagroda
 პრინტერი - drukarka
 პრინცესა - księżniczka
-პრინციპი - zasada | reguła
+პრინციპი - zasada, reguła
 პრობლემა - problem
 პროგრესი - postęp
 პროდიუსერი - producent
@@ -1872,14 +1872,14 @@
 ჟანგვა - rdza
 ჟანგი - rdza
 ჟანგიანი - zardzewiały
-ჟანრი - gatunek | rodzaj
+ჟანრი - gatunek, rodzaj
 ჟასმინი - jaśmin
 ჟინი - kaprys
 ჟირაფი - żyrafa
 ჟოლო - malina
 ჟოლოსფერი - karmazynowy
 ჟონგლიორი - żongler
-ჟურნალი - czasopismo | magazyn
+ჟურნალი - czasopismo, magazyn
 რა - co
 რაბინი - rabin
 რაგბი - rugby
@@ -1901,7 +1901,7 @@
 რეაქცია - reakcja
 რეგიონალური - regionalny
 რეგულარულად - regularnie
-რეგულირებადი - regulowalny | nastawny
+რეგულირებადი - regulowalny, nastawny
 რევოლვერი - rewolwer
 რევოლუცია - rewolucja
 რევოლუციური - rewolucyjny
@@ -1930,7 +1930,7 @@
 როდესაც - kiedy
 როზმარინი - rozmaryn
 როლი - rola
-რომ - że | kiedy
+რომ - że, kiedy
 რომანტიული - romantyczny
 რომაული - rzymski
 რომი - Rzym
@@ -1939,7 +1939,7 @@
 რუმინეთი - Rumunia
 რუმინული - rumuński
 რუსეთი - Rosja
-რუსი - Rosjanin | Rosjanka
+რუსი - Rosjanin, Rosjanka
 რუსული - rosyjski
 რძე - mleko
 რწმენა - wiara
@@ -1947,7 +1947,7 @@
 სააბატო - opactwo
 სააგენტო - agencja
 საავადმყოფო - szpital
-საათი - godzina | zegar | zegarek
+საათი - godzina, zegar, zegarek
 საათია - godzina
 საამქრო - warsztat
 საბერძნეთი - Grecja
@@ -1973,11 +1973,11 @@
 სათლი - wiadro
 სათნო - cnotliwy
 საინტერესო - interesujący
-საკეპი - siekiera | topór
-საკლასო ოთახი - klasa | sala lekcyjna
+საკეპი - siekiera, topór
+საკლასო ოთახი - klasa, sala lekcyjna
 საკმარისად - wystarczająco
 საკუთარი - własny
-საკუთრება - własność | mienie
+საკუთრება - własność, mienie
 სალავათი - modlitwa
 სალათა - sałata
 სალამანდრა - salamandra
@@ -1989,7 +1989,7 @@
 სამედიცინო - medyczny
 სამეფო - królestwo
 სამზარეულო - kuchnia
-სამი - trzy | 3
+სამი - trzy, 3
 სამონეტო - pieniężny
 სამუდამოდ - na zawsze
 სამყარო - świat
@@ -1998,7 +1998,7 @@
 სამხრეთი - południe
 სამხრეთი ოსეთი - Osetia Południowa
 სანდალი - sandał
-სანთელი - świeca | świeczka
+სანთელი - świeca, świeczka
 სანსკრიტული - sanskrycki
 სანტიმეტრი - centymetr
 სან-ტომე და პრინსიპი - Wyspy Świętego Tomasza i Książęca
@@ -2012,7 +2012,7 @@
 სასანთლე - świecznik
 სასაფლაო - cmentarz
 სასახლე - zamek
-სასიამოვნო - miły | przyjemny
+სასიამოვნო - miły, przyjemny
 სასოწარკვეთილება - rozpacz
 სასტუმრო - hotel
 სასურველი - pożądany
@@ -2026,7 +2026,7 @@
 სატურნი - Saturn
 საუდის არაბეთი - Arabia Saudyjska
 საუზმე - śniadanie
-საუკუნე - wiek | stulecie
+საუკუნე - wiek, stulecie
 საუკუნო - świecki
 საფერფლე - popielniczka
 საფირონი - szafir
@@ -2043,7 +2043,7 @@
 საშო - pochwa
 საცვალი - majtki
 საცხობი - piekarnia
-საწერი მაგიდა - biurko | pulpit | stół do pisania
+საწერი მაგიდა - biurko, pulpit, stół do pisania
 საწვავი - paliwo
 საწოლი - łóżko
 საჭიროება - potrzeba
@@ -2051,13 +2051,13 @@
 საჭურისი - eunuch
 სახალხოდ - publicznie
 სახე - twarz
-სახელი - imię | sława
+სახელი - imię, sława
 სახელოვანი - słynny
 სახელოსნო - warsztat
 სახლი - dom
 სახურავი - dach
 სახურავია - dach
-საჯაროობა - rozgłos | reklama
+საჯაროობა - rozgłos, reklama
 სეისმოლოგია - sejsmologia
 სეიფი - sejf
 სელენი - selen
@@ -2070,7 +2070,7 @@
 სენტენცია - maksyma
 სეპარატიზმი - separatyzm
 სერბეთი - Serbia
-სერი - pagórek | uczta
+სერი - pagórek, uczta
 სესხი - pożyczka
 სეტყვა - grad
 სექსი - seks
@@ -2084,7 +2084,7 @@
 სიამაყე - duma
 სიამოვნება - przyjemność
 სიბერე - starość
-სიბნელე - ciemność | mrok
+სიბნელე - ciemność, mrok
 სიბრაზე - gniew
 სიბრმავე - ślepota
 სიგარეტი - papieros
@@ -2097,12 +2097,12 @@
 სილა - piasek
 სილაბური - sylabiczny
 სილიციუმი - krzem
-სიმამაცე - śmiałość | odwaga
+სიმამაცე - śmiałość, odwaga
 სიმეტრია - symetria
 სიმინდი - kukurydza
 სიმულაცია - symulacja
 სიმფონია - symfonia
-სიმღერა - pieśń | piosenka
+სიმღერა - pieśń, piosenka
 სიმწარე - gorycz
 სიმწვანე - dziewictwo
 სინაგოგა - synagoga
@@ -2128,7 +2128,7 @@
 სიტყვას - słowo
 სიყვარული - miłość
 სიყრუე - głuchota
-სიცივე - chłód | zimno
+სიცივე - chłód, zimno
 სიცილი - śmiech
 სიცოცხლე - życie
 სიძე - zięć
@@ -2149,7 +2149,7 @@
 სონეტი - sonet
 სოსისი - kiełbasa
 სოუსი - sos
-სოფელი - wieś | wioska
+სოფელი - wieś, wioska
 სოციალიზმი - socjalizm
 სოციოლოგი - socjolog
 სოციოლოგია - socjologia
@@ -2164,7 +2164,7 @@
 სპირტი - alkohol
 სპონსორი - sponsor
 სპონტანური - spontaniczny
-სრუტე - cieśnina | przesmyk
+სრუტე - cieśnina, przesmyk
 სტატია - artykuł
 სტატისტიკა - statystyka
 სტატუსი - status
@@ -2199,7 +2199,7 @@
 ტალანტი - talent
 ტალღა - fala
 ტანვარჯიში - gimnastyka
-ტანი - ciało | tułów
+ტანი - ciało, tułów
 ტარა - boks
 ტარაკანი - karaluch
 ტასმანია - Tasmania
@@ -2221,7 +2221,7 @@
 ტვინი - mózg
 ტიბეტური - tybetański
 ტივი - tratwa
-ტივტივა - boja | pława
+ტივტივა - boja, pława
 ტიკინი - lalka
 ტილი - wesz
 ტიპური - typowy
@@ -2241,7 +2241,7 @@
 ტრაგიკული - tragiczny
 ტრადიცია - tradycja
 ტრადიციულად - tradycyjnie
-ტრაექტორია - tor | trajektoria
+ტრაექტორია - tor, trajektoria
 ტრამვაი - tramwaj
 ტრანზისტორი - tranzystor
 ტრანსპორტი - transport
@@ -2256,7 +2256,7 @@
 ტყავი - skóra
 ტყე - las
 ტყვეობა - niewola
-ტყვია - ołów | pocisk
+ტყვია - ołów, pocisk
 ტყუილად - na próżno
 ტყუპი - bliźniak
 უბანი - ulica
@@ -2287,7 +2287,7 @@
 უნგრეთი - Węgry
 უნივერსიტეტი - uniwersytet
 უპატიოსნო - nieuczciwy
-ურანი - Uran | Uran (U)
+ურანი - Uran, Uran (U)
 ურდო - horda
 ურიგო - zły
 ურჩხული - potwór
@@ -2299,7 +2299,7 @@
 უღმერთო - bezbożny
 უშნო - brzydki
 უცოლო - stanu wolnego
-უძლეველი - niezwyciężony | niepokonany
+უძლეველი - niezwyciężony, niepokonany
 უხამსი - obsceniczny
 უხეიროდ - niestety
 უხერხული - niewygodny
@@ -2311,7 +2311,7 @@
 ფარდობითობა - względność
 ფარმაკოლოგია - farmakologia
 ფასეული - cenny
-ფასი - wartość | koszt
+ფასი - wartość, koszt
 ფაფარი - grzywa
 ფაქსი - faks
 ფაქტორი - czynnik
@@ -2350,7 +2350,7 @@
 ფინანსური - finansowy
 ფინეთი - Finlandia
 ფინური - fiński
-ფიფქი - śnieżynka | płatek śniegu
+ფიფქი - śnieżynka, płatek śniegu
 ფიწალი - widły
 ფიჭა - plaster
 ფიჭვი - sosna
@@ -2382,7 +2382,7 @@
 ფსიქოლოგია - psychologia
 ფსიქოლოგიური - psychologiczny
 ფტორი - fluor
-ფული - pieniądze | moneta
+ფული - pieniądze, moneta
 ფუნქცია - funkcja
 ფუნჯი - frędzel
 ფურნე - piekarnia
@@ -2391,16 +2391,16 @@
 ფქვილი - mąka
 ქათამი - kurczak
 ქაირო - Kair
-ქალაქი - miasto | Tbilisi
+ქალაქი - miasto, Tbilisi
 ქალი - kobieta
-ქალიშვილი - córka | dziewczyna
+ქალიშვილი - córka, dziewczyna
 ქამელეონი - kameleon
-ქანდაკება - posąg | statua
+ქანდაკება - posąg, statua
 ქაოსი - chaos
 ქაოტური - chaotyczny
 ქარბუქი - zamieć
 ქარვა - bursztyn
-ქართველი - Gruzin | Gruzinka
+ქართველი - Gruzin, Gruzinka
 ქართული - gruziński
 ქარი - wiatr
 ქარიშხალი - burza
@@ -2415,7 +2415,7 @@
 ქერი - jęczmień
 ქერტლი - łupież
 ქვა - kamień
-ქვეყანა - kraj | świat
+ქვეყანა - kraj, świat
 ქვეყნიერება - świat
 ქვეწარმავალი - gad
 ქვისლი - szwagier
@@ -2431,7 +2431,7 @@
 ქმნილება - stworzenie
 ქნარი - lira
 ქომაგი - obrońca
-ქონა - mieć | posiadać
+ქონა - mieć, posiadać
 ქორი - jastrząb
 ქრიზანთემა - chryzantema
 ქრისტე - Chrystus
@@ -2454,7 +2454,7 @@
 ღიმილი - uśmiech
 ღინღლი - puch
 ღირებულება - wartość
-ღმერთი - Bóg | bóg
+ღმერთი - Bóg, bóg
 ღმერთქალი - bogini
 ღორი - świnia
 ღორმუცელობა - obżarstwo
@@ -2482,7 +2482,7 @@
 ყმაწვილობა - dojrzewanie
 ყოველთვის - zawsze
 ყოველი - każdy
-ყოლა - mieć | posiadać
+ყოლა - mieć, posiadać
 ყორანი - kruk
 ყოფნა - być
 ყუმბარა - granat
@@ -2501,22 +2501,22 @@
 შარშან - w zeszłym roku
 შაქარი - cukier
 შაშხანა - karabin
-შეადარებს - porówna | od ადარებს
+შეადარებს - porówna, od ადარებს
 შეაერთებს - jednoczy
-შედება - położyć | złożyć
+შედება - położyć, złożyć
 შედეგი - rezultat
 შედევრი - arcydzieło
 შევარდენი - jastrząb
 შეთქმულება - konspiracja
-შემდეგ - po | potem
-შემიძლია - mogę | umiem
+შემდეგ - po, potem
+შემიძლია - mogę, umiem
 შემოდგომა - jesień
-შემოინახავს - oszczędzi | zachowa
+შემოინახავს - oszczędzi, zachowa
 შემოქმედება - twórczość
 შენ - ty –
 შენობა - budynek
 შერიფი - szeryf
-შესაძლებლობა - możliwość | zdolność
+შესაძლებლობა - możliwość, zdolność
 შესაძლოა - prawdopodobnie
 შესახვევი - uliczka
 შეუგნებელი - nieprzytomny
@@ -2536,7 +2536,7 @@
 შვილი - dziecko
 შვილიშვილი - wnuk
 შთამომავალი - potomek
--ში - w | na | do
+-ში - w, na, do
 შიგნით - wewnątrz
 შიდა - wewnętrzny
 შიზოფრენია - schizofrenia
@@ -2544,7 +2544,7 @@
 შირმა - ekran
 შიშველი - nagi
 შიში - lęk
-შობა - urodziny | narodzenie
+შობა - urodziny, narodzenie
 შოკოლადი - czekolada
 შოლტი - bicz
 შორეული - daleki
@@ -2564,7 +2564,7 @@
 შუბლი - czoło
 შუგა - parasol
 შუკა - ulica
-შურიანი - zazdrosny | zawistny
+შურიანი - zazdrosny, zawistny
 შურისგება - odwet
 შუქურა - latarnia morska
 შუქური - latarnia morska
@@ -2572,7 +2572,7 @@
 შუშპარი - taniec
 შხამი - jad
 შხაპი - prysznic
-ჩადება - włożyć | wsadzić
+ჩადება - włożyć, wsadzić
 ჩაზნექილობა - wklęsłość
 ჩათვლის - uważa za
 ჩაი - herbata
@@ -2580,7 +2580,7 @@
 ჩანჩქერი - wodospad
 ჩაქუჩი - młotek
 ჩახლეჩილი - ochrypły
-ჩემი - mój | moja | moje
+ჩემი - mój, moja, moje
 ჩერნოგორია - Czarnogóra
 ჩეხეთი - Czechy
 ჩეხეთის რესპუბლიკა - Republika Czeska
@@ -2618,20 +2618,20 @@
 ციკლონი - cyklon
 ცინიკური - cyniczny
 ცირკი - cyrk
-ცირკულაცია - cyrkulacja | krążenie
+ცირკულაცია - cyrkulacja, krążenie
 ცისარტყელა - tęcza
 ცისტერნა - cysterna
 ცისფერი - niebieski
 ციტადელი - cytadela
 ციხე-დარბაზი - zamek
-ციხე-სიმაგრე - twierdza | forteca
+ციხე-სიმაგრე - twierdza, forteca
 ციხესიმაგრე - forteca
 ცოდვა - grzech
 ცოდვილი - grzesznik
 ცოლი - żona
 ცოლისძმა - szwagier
 ცომი - ciasto
-ცოტათი - nieco | odrobinę | trochę
+ცოტათი - nieco, odrobinę, trochę
 ცოცხი - miotła
 ცრემლი - łza
 ცრუმორწმუნე - przesądny
@@ -2652,7 +2652,7 @@
 ცხრამეტი - dziewiętnaście
 ძაბრი - lejek
 ძალა - siła
-ძალიან - zbyt | za bardzo
+ძალიან - zbyt, za bardzo
 ძაღლი - pies
 ძე - syn
 ძეგლი - pomnik
@@ -2661,11 +2661,11 @@
 ძვალი - kość
 ძველი - stary
 ძვირი - drogi
-ძვირფასი - drogi | bliski | kochany
+ძვირფასი - drogi, bliski, kochany
 ძილგუდა - popielica
-ძილი - spać | sen | spanie
+ძილი - spać, sen, spanie
 ძირთეთრა - pasternak
-ძლიერი - silny | mocny
+ძლიერი - silny, mocny
 ძმა - brat
 ძმარი - ocet
 ძმური - braterski
@@ -2679,40 +2679,40 @@
 წამწამი - rzęsa
 წარმატება - sukces
 წარმატებულად - skutecznie
-წარმოთქვამს - wymówi | wymawia
+წარმოთქვამს - wymówi, wymawia
 წარმოთქმა - wymowa
 წარუმატებელი - nieudany
 წებო - klej
 წებოვნება - lepkość
-წელი - rok | pas | talia
-წერა - pisanie | წერს
+წელი - rok, pas, talia
+წერა - pisanie, წერს
 წერილი - list
 წერო - bocian
 წესიერი - przyzwoity
-წვერი - wskazówka | wierzchołek | punkt | góra | broda
-წვიმა - deszcz | padać
+წვერი - wskazówka, wierzchołek, punkt, góra, broda
+წვიმა - deszcz, padać
 წიგნი - książka
 წითელი - czerwony
 წინა - poprzedni
-წინადადებას - zdanie | wniosek
+წინადადებას - zdanie, wniosek
 წინადაცვეთა - obrzezanie
 წინამხარი - przedramię
 წინდა - skarpeta
 წინდებული - przyimek
-წინწილი - talerz | czynel
+წინწილი - talerz, czynel
 წისქვილი - młyn
 წიფელი - buk
 წიწიბურა - gryka
 წრე - kółko
 წრეწირი - obwód
-წუნი - defekt | wada
+წუნი - defekt, wada
 წურბელა - pijawka
-წურვა - wyżymać | wyciskać | przecedzać
+წურვა - wyżymać, wyciskać, przecedzać
 წუხელ - zeszłej nocy
 წყალბადი - wodór
 წყალდიდობა - powódź
 წყალი - woda
-წყალმცენარე - alga | glon
+წყალმცენარე - alga, glon
 წყარო - źródło
 წყლტუ - bezwłosy
 ჭადრაკი - szachy
@@ -2741,7 +2741,7 @@
 ხავსი - mech
 ხალი - znamię
 ხალიჩა - dywan
-ხალხი - naród | lud
+ხალხი - naród, lud
 ხალხური - ludowy
 ხამანწკა - ostryga
 ხანდახან - czasami
@@ -2757,15 +2757,15 @@
 ხახვი - cebula
 ხე - drzewo
 ხეიბარი - kaleka
-ხელახლა - znowu | znów
+ხელახლა - znowu, znów
 ხელთათმანი - rękawiczka
-ხელი - ręka | ramię
+ხელი - ręka, ramię
 ხელისუფლება - władza
 ხელმოკლე - biedny
 ხელმოწერა - podpis
 ხელმძღვანელი - przywódca
-ხელნაწერი - rękopis | manuskrypt
-ხელოვნება - sztuka | twórczość artystyczna
+ხელნაწერი - rękopis, manuskrypt
+ხელოვნება - sztuka, twórczość artystyczna
 ხელოსანი - rzemieślnik
 ხენდრო - truskawka
 ხეობა - dolina
@@ -2778,7 +2778,7 @@
 ხილი - owoc
 ხილის სალათს - sałatka owocowa
 ხილულობა - widoczność
-ხინჯი - defekt | wada
+ხინჯი - defekt, wada
 ხის ნახშირი - węgiel drzewny
 ხმადაბალი - cichy
 ხმადაბლა - cicho
@@ -2787,14 +2787,14 @@
 ხმამაღლა - głośno
 ხმის მიცემა - głosować
 ხოლმე - wciąż
-ხოლო - a | ale | jednak
-ხომ - ale | jednak
+ხოლო - a, ale, jednak
+ხომ - ale, jednak
 ხორბალი - pszenica
 ხორვატია - Chorwacja
 ხორცი - mięso
 ხოჭო - żuk
 ხოხობი - bażant
-ხრამი - przepaść | wąwóz
+ხრამი - przepaść, wąwóz
 ხრახნი - śruba
 ხრეში - żwir
 ხსოვნა - pamięć
@@ -2812,25 +2812,25 @@
 ჯამი - suma
 ჯან - nazwa litery ჯ
 ჯანი - zdrowie
-ჯანმრთელად - mocno | silnie
+ჯანმრთელად - mocno, silnie
 ჯანმრთელი - zdrowy
 ჯანმრთელობა - zdrowie
 ჯანჯაფილი - imbir
-ჯარი - wojsko | armia
+ჯარი - wojsko, armia
 ჯარისკაცი - żołnierz
 ჯაშუში - szpieg
 ჯგუფი - grupa
 ჯდომა - siedzieć
--ჯერ - -razy | -krotnie
-ჯერ - po pierwsze | najpierw
-ჯვარი - krzyż | monastyr Dżwari w Gruzji
-ჯიბგირი - kieszonkowiec | złodziej kieszonkowy
+-ჯერ - -razy, -krotnie
+ჯერ - po pierwsze, najpierw
+ჯვარი - krzyż, monastyr Dżwari w Gruzji
+ჯიბგირი - kieszonkowiec, złodziej kieszonkowy
 ჯიბე - kieszeń
 ჯიბუტი - Dżibuti
 ჯილდო - nagroda
 ჯილღა - ogier
 ჯინჭარი - pokrzywa
-ჯიპი - dżip | jeep
+ჯიპი - dżip, jeep
 ჯირკვალი - gruczoł
 ჯიუტად - uparcie
 ჯიუტი - uparty
@@ -2840,12 +2840,12 @@
 ჯოჯო - jaszczurka
 ჯოჯოხეთი - piekło
 ჯუნგლი - dżungla
-ჯუჯა - karzeł | liliput | karłowaty
+ჯუჯა - karzeł, liliput, karłowaty
 ჰაე - nazwa litery ჰ
 ჰაერბურთი - balon
 ჰაერი - powietrze
 ჰავა - klimat
-ჰალსტუკი - krawat | alternatywna pisownia słowa ჰალსტუხი
+ჰალსტუკი - krawat, alternatywna pisownia słowa ჰალსტუხი
 ჰალსტუხი - krawat
 ჰალუცინაცია - halucynacja
 ჰამაკი - hamak
@@ -2854,7 +2854,7 @@
 ჰაშიში - haszysz
 ჰეგემონია - hegemonia
 ჰელიუმი - hel
-ჰერმაფროდიტი - hermafrodyta | obojniak
+ჰერმაფროდიტი - hermafrodyta, obojniak
 ჰეროინი - heroina
 ჰეტეროგენული - niejednorodny
 ჰეტეროსექსუალობა - heteroseksualizm
@@ -2874,5 +2874,5 @@
 ჰოროსკოპი - horoskop
 ჰუმანიზმი - humanizm
 ჰუმანიტარული - humanitarny
-ჰუმანური - ludzki | humanitarny
+ჰუმანური - ludzki, humanitarny
 ჰუნე - koń

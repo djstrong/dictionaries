@@ -1,62 +1,62 @@
 Aafje - imię żeńskie
-aaien - głaskać | gładzić | pieścić
+aaien - głaskać, gładzić, pieścić
 aal - węgorz
 aalbes - porzeczka
-aalmoes - jałmużna | datek
-aalscholver - kormoran | kormoran zwyczajny | kormoran czarny
+aalmoes - jałmużna, datek
+aalscholver - kormoran, kormoran zwyczajny, kormoran czarny
 Aalten - miasto i gmina w Holandii
 aam - aam
-aan - do | przy | nad | u
-aanbevelen - polecać | rekomendować
+aan - do, przy, nad, u
+aanbevelen - polecać, rekomendować
 aanbeveling - rekomendacja
-aanbidden - uwielbiać | czcić | ubóstwiać | adorować
+aanbidden - uwielbiać, czcić, ubóstwiać, adorować
 aanbieden - proponować
 aanbouw - budynek
 aandacht - uwaga
-aandeel - udział | akcja | udział w spółce
+aandeel - udział, akcja, udział w spółce
 aandeelhouder - udziałowiec
 aandienen - ogłosić
-aandoening - choroba | emocja
+aandoening - choroba, emocja
 aandringen - nalegać
-aaneen - razem | bezustannie | ciągle | stale
+aaneen - razem, bezustannie, ciągle, stale
 aangenaam - przyjemny
-aangeschoten - podchmielony | podpity
-aangezien - z powodu | z uwagi na | biorąc coś pod uwagę | zważywszy na | aanzien
-aankomen - dojeżdżać | docierać | przybywać
+aangeschoten - podchmielony, podpity
+aangezien - z powodu, z uwagi na, biorąc coś pod uwagę, zważywszy na, aanzien
+aankomen - dojeżdżać, docierać, przybywać
 aankomst - przybycie
 aankondigen - ogłosić
 aanleveren - dostarczyć
 aanmatiging - arogancja
-aanmerking - komentarz | krytyka
-aanpasbaar - regulowalny | nastawny
+aanmerking - komentarz, krytyka
+aanpasbaar - regulowalny, nastawny
 aanprijzen - zalecać
 aanraken - dotykać
 aanroeren - dotykać
-aanschaffen - kupić | nabyć
+aanschaffen - kupić, nabyć
 aansprakelijk - odpowiedzialny
-aantal - ilość | liczba
-aantrekkelijk - atrakcyjny | piękny
-aanvaardbaar - do przyjęcia | zadowalający
-aanval - atak | napaść | napad | agresja
-aanvankelijk - początkowy | początkowo
-aanzien - oglądać | patrzeć na coś | znosić coś | tolerować | prestiż | reputacja | wizerunek
+aantal - ilość, liczba
+aantrekkelijk - atrakcyjny, piękny
+aanvaardbaar - do przyjęcia, zadowalający
+aanval - atak, napaść, napad, agresja
+aanvankelijk - początkowy, początkowo
+aanzien - oglądać, patrzeć na coś, znosić coś, tolerować, prestiż, reputacja, wizerunek
 aap - małpa
 aardappel - ziemniak
 aardbei - truskawka
 aardbeving - trzęsienie ziemi
 aarde - ziemia
 Aarde - Ziemia
-aardig - miły | grzeczny | ładny | niezły | znaczący | zauważalny | dziwny | miło | bardzo
+aardig - miły, grzeczny, ładny, niezły, znaczący, zauważalny, dziwny, miło, bardzo
 aardkunde - geologia
 aardnoot - orzech ziemny
 aardrijk - ziemia
 aardrijkskunde - geografia
 aardvarken - mrównik
 aarzelen - wahać się
-aarzeling - wahanie | niepewność
+aarzeling - wahanie, niepewność
 abattoir - rzeźnia
 abc - alfabet
-abces - ropień | wrzód
+abces - ropień, wrzód
 abdicatie - abdykacja
 abdiceren - abdykować
 abdij - opactwo
@@ -65,22 +65,22 @@ abrikoos - morela
 absorberen - absorbować
 academie - akademia
 academisch - akademicki
-accuraat - dokładny | punktualny
-acht - osiem | 8
-achtendertig - trzydzieści osiem | 38
-achtennegentig - dziewięćdziesiąt osiem | 98
-achtentachtig - osiemdziesiąt osiem | 88
-achtentwintig - dwadzieścia osiem | 28
-achtenveertig - czterdzieści osiem | 48
-achtenvijftig - pięćdziesiąt osiem | 58
-achtenzestig - sześćdziesiąt osiem | 68
-achtenzeventig - siedemdziesiąt osiem | 78
+accuraat - dokładny, punktualny
+acht - osiem, 8
+achtendertig - trzydzieści osiem, 38
+achtennegentig - dziewięćdziesiąt osiem, 98
+achtentachtig - osiemdziesiąt osiem, 88
+achtentwintig - dwadzieścia osiem, 28
+achtenveertig - czterdzieści osiem, 48
+achtenvijftig - pięćdziesiąt osiem, 58
+achtenzestig - sześćdziesiąt osiem, 68
+achtenzeventig - siedemdziesiąt osiem, 78
 achter - za
 achterklap - plotka
 achternaam - nazwisko
 achteruit - do tyłu
 achtste - ósmy
-achttien - osiemnaście | 18
+achttien - osiemnaście, 18
 achttiende - osiemnasty
 acne - trądzik
 acryl - akryl
@@ -99,8 +99,8 @@ adjectief - przymiotnik
 adolescentie - dojrzewanie
 adopteren - adoptować
 adviseren - zalecać
-advocaat - adwokat | adwokat (alkohol)
-af - gotowy | skończony | z
+advocaat - adwokat, adwokat (alkohol)
+af - gotowy, skończony, z
 afbreekteken - dywiz
 afdrukken - drukować
 afgelegen - zdalny
@@ -111,36 +111,36 @@ afgunst - zazdrość
 afmeten - mierzyć
 aforisme - aforyzm
 Afrika - Afryka
-Afrikaans - afrikaans | język afrykanerski | afrykanerski
+Afrikaans - afrikaans, język afrykanerski, afrykanerski
 afstammeling - potomek
 afstand - odległość
 afstraffen - karać
 afwachting - oczekiwanie
 afwasmiddel - płyn do mycia naczyń
-afwerpen - przynosić | powodować korzyść
+afwerpen - przynosić, powodować korzyść
 afzonderen - izolować
 afzonderlijk - oddzielny
-afzweren - wyrzekać się | stracić część ciała z powodu infekcji
+afzweren - wyrzekać się, stracić część ciała z powodu infekcji
 agentschap - agencja
 agglomeratie - aglomeracja
 agressief - agresywny
 Aisopos - Ezop
 akker - pole
-al - wszystko | już
+al - wszystko, już
 Albanees - albański
 Albanië - Albania
 albatros - albatros
 alchemie - alchemia
 alchemist - alchemik
-alert - czujny | uważny
+alert - czujny, uważny
 alfabet - alfabet
-alg - alga | glon
+alg - alga, glon
 algebraïsch - algebraiczny
 algeheel - kompletny
 Algerije - Algieria
 Algerijn - Algierczyk
 alleen - samotny
-alleen maar - tylko | jedynie
+alleen maar - tylko, jedynie
 allengs - stopniowo
 allergisch - alergiczny
 aller tijden - wszech czasów
@@ -148,15 +148,15 @@ alligator - aligator
 alom - wszędzie
 alreeds - już
 als - jeśli
-als alle gekken konden vliegen hadden we een permanente zonsverduistering - gdyby wszyscy głupcy potrafili latać | mielibyśmy nieustanne zaćmienie słońca
+als alle gekken konden vliegen hadden we een permanente zonsverduistering - gdyby wszyscy głupcy potrafili latać, mielibyśmy nieustanne zaćmienie słońca
 alsjeblieft - proszę
 altaar - ołtarz
-alternatief - alternatywny | alternatywa
+alternatief - alternatywny, alternatywa
 althans - przynajmniej
 altijd - zawsze
 altoos - zawsze
 aluminium - glin
-amandel - migdał (orzech) | migdałek
+amandel - migdał (orzech), migdałek
 ambiguïteit - niejednoznaczność
 ambitie - ambicja
 ambitieus - ambitny
@@ -169,19 +169,19 @@ amnesie - amnezja
 ampère - amper
 ampèremeter - amperomierz
 Amsterdam - Amsterdam
-amulet - amulet | talizman
+amulet - amulet, talizman
 analfabetisme - analfabetyzm
 ananas - ananas
 anarchist - anarchista
 anatomie - anatomia
-ander - inny | drugi
+ander - inny, drugi
 anders - inaczej
-anderszins - inaczej | w przeciwnym razie
+anderszins - inaczej, w przeciwnym razie
 Andes - Andy
 Andorra - Andora
 anekdote - anegdota
 Angola - Angola
-angst - strach | lęk
+angst - strach, lęk
 Anneke - Anne
 anomalie - anomalia
 antagonisme - antagonizm
@@ -191,17 +191,17 @@ antimonium - antymon
 antizionisme - antysyjonizm
 antropoloog - antropolog
 antwoord - odpowiedź
-antwoorden - odpowiadać | antwoord
+antwoorden - odpowiadać, antwoord
 apart - oddzielny
 apathie - apatia
 apotheek - apteka
-apotheker - farmaceuta | aptekarz
+apotheker - farmaceuta, aptekarz
 appel - jabłko
 appelboom - jabłoń
 appelsien - pomarańcza (owoc)
 april - kwiecień
 aquatisch - wodny
-Arabisch - arabski | język arabski | arabszczyzna | pismo arabskie
+Arabisch - arabski, język arabski, arabszczyzna, pismo arabskie
 arbeider - pracownik
 archaïsch - archaiczny
 archipel - archipelag
@@ -213,7 +213,7 @@ argon - argon
 aristocratisch - arystokratyczny
 Aristoteles - Arystoteles
 aritmetica - arytmetyka
-arm - ramię | gałąź | łapa | biedny | ubogi | niebogaty
+arm - ramię, gałąź, łapa, biedny, ubogi, niebogaty
 armband - bransoletka
 Armenië - Armenia
 armoe - bieda
@@ -227,7 +227,7 @@ artillerie - artyleria
 artillerist - artylerzysta
 artisjok - karczoch
 arts - lekarz
-as - oś | popiół | proch
+as - oś, popiół, proch
 asbak - popielniczka
 aseksualiteit - aseksualność
 asociaal - aspołeczny
@@ -268,13 +268,13 @@ axon - akson
 Azerbeidzjan - Azerbejdżan
 Azië - Azja
 azijn - ocet
-baan - droga | tor | stanowisko | pozycja | praca
+baan - droga, tor, stanowisko, pozycja, praca
 baanbrekend - rewolucyjny
 baard - broda
 baby - niemowlę
 bacove - banan
 bacteriologie - bakteriologia
-bad - kąpiel | łazienka
+bad - kąpiel, łazienka
 Baden-Württemberg - Badenia-Wirtembergia
 badkamer - łazienka
 badkuip - wanna
@@ -283,76 +283,76 @@ bahaïsme - bahaizm
 Bahama's - Bahamy
 bakken - piec
 baksteen - cegła
-bal - kula | bal
+bal - kula, bal
 balkon - balkon
 ballon - balon
 Baltica - Bałtyka
 bamboe - bambus
 banaan - banan
-bang - niespokojący | lękliwy | niespokojąco | lękliwie
+bang - niespokojący, lękliwy, niespokojąco, lękliwie
 Bangladesh - Bangladesz
-bank - sofa | kanapa | bank
+bank - sofa, kanapa, bank
 bankbiljet - banknot
-bankroet - zbankrutowany | niewypłacalny | bankructwo
+bankroet - zbankrutowany, niewypłacalny, bankructwo
 barbaar - barbarzyńca
 Barbados - Barbados
 barium - bar
 baron - baron
 barrière - bariera
 basilicum - bazylia
-Baskisch - język baskijski | baskijski
+Baskisch - język baskijski, baskijski
 bazuin - trąbka
-beantwoorden - odpowiadać na pytanie | sprostać oczekiwaniom
+beantwoorden - odpowiadać na pytanie, sprostać oczekiwaniom
 bebaard - brodaty
 bed - łóżko
 bedanken - dziękować
 bedekken - pokryć
 bedevaart - pielgrzymka
-bediende - służący | sługa
+bediende - służący, sługa
 bedreigen - grozić
 bedriegen - oszukiwać
-bedrijf - spółka | firma | korporacja | bedrijven
-bedrijven - uprawiać | poświęcać się | popełniać | od bedrijf
+bedrijf - spółka, firma, korporacja, bedrijven
+bedrijven - uprawiać, poświęcać się, popełniać, od bedrijf
 bedrukken - drukować
 beek - strumyk
 beeldhouwer - rzeźbiarz
-been - noga | kość
+been - noga, kość
 beer - niedźwiedź
-beest - bestia | zwierzę
+beest - bestia, zwierzę
 beetje - trochę
 begaafdheid - talent
 begin - początek
-beginnen - rozpocząć | zacząć
-beginsel - zasada | reguła
-begrijpen - rozumieć | zrozumieć ( pojmować coś)
+beginnen - rozpocząć, zacząć
+beginsel - zasada, reguła
+begrijpen - rozumieć, zrozumieć ( pojmować coś)
 begroting - budżet
 beha - biustonosz
-behalve - oprócz | z wyjątkiem
+behalve - oprócz, z wyjątkiem
 behoeven - potrzebować
 behulp - pomoc
-beide - obaj | obie | oboje
+beide - obaj, obie, oboje
 bejaard - starszy
 bekend - znany
-bekennen - przyznać | uznać | przyjąć do wiadomości
+bekennen - przyznać, uznać, przyjąć do wiadomości
 beker - kubek
 beknopt - zwięzły
 bekoorlijk - atrakcyjny
 bekorten - skrócić
-bel - dzwon | dzwonek
-belangrijk - znaczny | ważny | znacznie
-belasting - podatek | obciążenie
+bel - dzwon, dzwonek
+belangrijk - znaczny, ważny, znacznie
+belasting - podatek, obciążenie
 beleefdheid - grzeczność
 belegeren - oblegać
 belemmering - przeszkoda
 België - Belgia
 Belize - Belize
-bellen - dzwonić | zadzwonić
+bellen - dzwonić, zadzwonić
 beloven - obiecać
 bemerken - zauważyć
 beminnen - kochać
 bemoeienis - interwencja
 ben - zijn
-beneden - na dole | na dół | z dołu | pod | poniżej
+beneden - na dole, na dół, z dołu, pod, poniżej
 Benin - Benin
 bent - zijn
 benzine - benzyna
@@ -364,7 +364,7 @@ berispen - ganić
 berk - brzoza
 berkelium - berkel
 beroemd - sławny
-beroep - zawód | odwołanie
+beroep - zawód, odwołanie
 beroeren - dotykać
 berokkenen - powodować
 berooid - nędzny
@@ -384,19 +384,19 @@ besluiten - zdecydować
 besnijden - obrzezać
 besnijdenis - obrzezanie
 bespreking - dyskusja
-best - najlepszy | dobrze | całkiem | dość
-bestaan - być | istnieć
-bestellen - zamawiać | dowozić (zamówienie)
-besterven - być w początkowej fazie procesu rozkładu po śmierci | zniknąć jakby z powodu własnej śmierci | zblednąć ze strachu | być skonsternowanym
+best - najlepszy, dobrze, całkiem, dość
+bestaan - być, istnieć
+bestellen - zamawiać, dowozić (zamówienie)
+besterven - być w początkowej fazie procesu rozkładu po śmierci, zniknąć jakby z powodu własnej śmierci, zblednąć ze strachu, być skonsternowanym
 bestraffen - karać
-betalen - płacić | zapłacić
-betekenen - znaczyć | oznaczać
+betalen - płacić, zapłacić
+betekenen - znaczyć, oznaczać
 betuiging - deklaracja
 beuk - buk
 beveiligen - chronić
 bever - bóbr
 bevriend - przyjazny
-bewegen - poruszać | wzruszać | namawiać | poruszać się | ruszać się
+bewegen - poruszać, wzruszać, namawiać, poruszać się, ruszać się
 bewerkelijk - pracowity
 bewijzen - udowodnić
 bewolkt - pochmurny
@@ -405,11 +405,11 @@ bewustheid - świadomość
 bewustzijn - świadomość
 bezem - miotła
 bezitten - posiadać
-bezoek - wizyta | gościna
+bezoek - wizyta, gościna
 bezoeken - odwiedzić
 bezoeker - gość
 bezwaarlijk - trudny
-bezweren - czarować | oczarowywać | fascynować | urzekać | olśniewać | rzucać zaklęcie | opanowywać | poskramiać | przytłumiać | zażegnywać
+bezweren - czarować, oczarowywać, fascynować, urzekać, olśniewać, rzucać zaklęcie, opanowywać, poskramiać, przytłumiać, zażegnywać
 Bhutan - Bhutan
 bibliotheek - biblioteka
 bieden - proponować
@@ -425,18 +425,18 @@ bijennest - ul
 bijenwas - wosk pszczeli
 bijgelovig - przesądny
 bijgevolg - w rezultacie
-bijklank - konotacja | skojarzenie
+bijklank - konotacja, skojarzenie
 bijkomend - dodatkowy
 bijl - topór
-bijna - prawie | niemal
+bijna - prawie, niemal
 bijnaam - przydomek
 bijten - gryźć
 bijvoeglijk naamwoord - przymiotnik
 bijvoorbeeld - na przykład
 bijwoord - przysłówek
 bijziendheid - krótkowzroczność
-bijzonder - specjalny | nietypowy
-binnen - w ciągu | w środku | do | do środka
+bijzonder - specjalny, nietypowy
+binnen - w ciągu, w środku, do, do środka
 binnengaan - wchodzić
 biograaf - biograf
 biografie - biografia
@@ -452,15 +452,15 @@ bisschop - biskup
 bizar - dziwaczny
 bizon - bizon
 blaam - wina
-blad - liść | czasopismo | gazeta
+blad - liść, czasopismo, gazeta
 bladgroen - chlorofil
 bladwijzer - zakładka
 blasfemie - bluźnierstwo
-blauw - niebieski | błękitny
+blauw - niebieski, błękitny
 blauwe gaai - modrosójka błękitna
-blazen - dmuchać | dąć | chuchać
-blein - pęcherz | bąbel
-blessure - uszkodzenie | szkoda | uraz
+blazen - dmuchać, dąć, chuchać
+blein - pęcherz, bąbel
+blessure - uszkodzenie, szkoda, uraz
 blij - szczęśliwy
 blindelings - ślepo
 bloed - krew
@@ -481,7 +481,7 @@ boerderij - farma
 bohrium - bohr
 Bolivia - Boliwia
 Boliviaans - boliwijski
-Bolivië - Boliwia | Bolivia
+Bolivië - Boliwia, Bolivia
 bom - bomba
 bondgenoot - sojusznik
 bonenkruid - cząber
@@ -491,12 +491,12 @@ boon - fasola
 boor - bor
 boosheid - gniew
 boot - łódź
-bord - talerz | tablica
-borst - pierś | klatka piersiowa
-bos - gaj | las | bukiet
+bord - talerz, tablica
+borst - pierś, klatka piersiowa
+bos - gaj, las, bukiet
 Bosnië - Bośnia
 Bosnië en Herzegovina - Bośnia i Hercegowina
-bot - kość | flądra | tępy | stępiony
+bot - kość, flądra, tępy, stępiony
 botanie - botanika
 boter - masło
 Botswana - Botswana
@@ -507,13 +507,13 @@ braadpan - patelnia
 braaksel - wymiociny
 Brabants - język brabancki
 braken - wymiotować
-branden - palić | płonąć
+branden - palić, płonąć
 brandkast - sejf
 brandstof - paliwo
 Braziliaans - brazylijski
 Brazilië - Brazylia
 breed - szeroki
-breken - łamać | złamać
+breken - łamać, złamać
 brengen - przynosić
 Bretagne - Bretania
 brief - list
@@ -532,7 +532,7 @@ Brugge - Brugia
 bruidegom - pan młody
 bruidsschat - posag
 bruikbaarheid - użyteczność
-bruin - brązowy | heroina
+bruin - brązowy, heroina
 Brussel - Bruksela
 budget - budżet
 buik - brzuch
@@ -592,7 +592,7 @@ chronologisch - chronologiczny
 chroom - chrom
 cijfer - cyfra
 cipres - cyprys
-cirkel - okrąg | koło
+cirkel - okrąg, koło
 citroen - cytryna
 citruspers - wyciskarka do cytrusów
 cobra - kobra
@@ -616,19 +616,19 @@ concurreren - rywalizować
 condoom - prezerwatywa
 confirmeren - potwierdzać
 confisqueren - konfiskować
-connotatie - konotacja | skojarzenie
-consensus - konsensus | zgoda
-constipatie - zaparcie | zatwardzenie | obstrukcja
+connotatie - konotacja, skojarzenie
+consensus - konsensus, zgoda
+constipatie - zaparcie, zatwardzenie, obstrukcja
 contact - kontakt
 contactlens - soczewka kontaktowa
 continent - kontynent
 contrabandier - przemytnik
 contract - umowa
-controleren - sprawdzać | kontrolować
+controleren - sprawdzać, kontrolować
 controversieel - kontrowersyjny
 conversatie - rozmowa
 coördinaat - współrzędna
-correct - poprawny | prawidłowy
+correct - poprawny, prawidłowy
 correctheid - poprawność
 correlatie - korelacja
 Costa Rica - Kostaryka
@@ -639,36 +639,36 @@ criticus - krytyk
 crucifix - krucyfiks
 cultuur - kultura
 curium - kiur
-cyber- - cyber- | cyber- (internetowy)
+cyber- - cyber-, cyber- (internetowy)
 cynisch - cyniczny
 Cyprus - Cypr
 daar - tam
-daarover - o tamtym | o tamtej (w miejsce "over dat" i "over die")
+daarover - o tamtym, o tamtej (w miejsce "over dat" i "over die")
 dag - dzień
 dag-en-nachtevening - równonoc
 dageraad - świt
 dak - dach
 dakloos - bezdomny
-dan - niż | od | stopień sprawności w japońskich sportach walki
+dan - niż, od, stopień sprawności w japońskich sportach walki
 danken - dziękować
 dansen - tańczyć
 dapper - odważny
 darmstadtium - darmsztadt
 das - borsuk
-dat - tamto | to | oto | które | że
+dat - tamto, to, oto, które, że
 database - baza danych
 datzelfde - dokładnie to samo (mocniejsza forma hetzelfde, używane do rzeczowników rodzaju nijakiego i do rzeczy abstrakcyjnych, takie jak myśli, czyjeś zdanie, poglądy.)
 debuut - debiut
 december - grudzień
 deeg - ciasto
-deel - część | tom
+deel - część, tom
 deelbaar - podzielny
 deelstaat - stan
 deelwoord - imiesłów
 deemster - zmierzch
 defensief - obronny
 deïsme - deizm
-deksel - pokrywka | wieko | przykrywka
+deksel - pokrywka, wieko, przykrywka
 delfstof - minerał
 delfstofkunde - mineralogia
 delier - delirium
@@ -686,9 +686,9 @@ denker - myśliciel
 deplorabel - żałosny
 derhalve - dlatego
 dermatologie - dermatologia
-dertien - trzynaście | 13
+dertien - trzynaście, 13
 dertiende - trzynasty
-dertig - trzydzieści | 30
+dertig - trzydzieści, 30
 designer - projektant
 dessert - deser
 detail - szczegół
@@ -699,14 +699,14 @@ deze - ten
 dezelfde - ten sam (używany do rzeczowników rodzaju męsko-żeńskiego)
 diabetes - cukrzyca
 diaken - diakon
-dialect - dialekt | slang
+dialect - dialekt, slang
 diarree - biegunka
-dichtbij - bliski | niedaleki
+dichtbij - bliski, niedaleki
 dichtdoen - zamykać
 dichter - poeta
 dichtheid - gęstość
 dictatuur - dyktatura
-die - który | która | tamten | tamta
+die - który, która, tamten, tamta
 diefstal - kradzież
 dienstig - przydatny
 diepvrieskast - zamrażarka
@@ -715,7 +715,7 @@ dier - zwierzę
 dierentuin - zoo
 dierkunde - zoologia
 digitaal - cyfrowy
-dille - koper | koperek
+dille - koper, koperek
 dinosauriër - dinozaur
 dinosaurus - dinozaur
 dinsdag - wtorek
@@ -723,11 +723,11 @@ diphallia - difalia
 diploma - dyplom
 diplomatie - dyplomacja
 diplomatiek - dyplomatyczny
-direct - bezpośredni | natychmiast
+direct - bezpośredni, natychmiast
 distel - oset
 dit - to
 ditzelfde - dokładnie to samo (mocniejsza forma hetzelfde, używane do rzeczowników rodzaju nijakiego i do rzeczy abstrakcyjnych, takie jak myśli, czyjeś zdanie, poglądy)
-diva - diwa | gwiazda opery
+diva - diwa, gwiazda opery
 dochter - córka
 doctoraat - doktorat
 doctorsgraad - doktorat
@@ -735,7 +735,7 @@ doctrine - doktryna
 document - dokument
 doden - zabijać
 doeg - na razie
-doejong - diugoń | piersiopławka
+doejong - diugoń, piersiopławka
 doelman - bramkarz
 doen - robić
 dogma - dogmat
@@ -746,7 +746,7 @@ domheid - głupota
 dominatie - dominacja
 Dominicaanse Republiek - Dominikana
 domoor - idiota
-donder - grom | piorun | grzmot
+donder - grom, piorun, grzmot
 donderdag - czwartek
 Donetsk - Donieck
 donker - ciemny
@@ -758,32 +758,32 @@ dooier - żółtko
 doorn - cierń
 doorzichtig - przeźroczysty
 doorzichtigheid - przezroczystość
-doos - pudełko | pudło
-dorp - miejscowość | wieś
+doos - pudełko, pudło
+dorp - miejscowość, wieś
 dorstig - spragniony
-download - ściąganie | pobieranie | plik do pobrania | forma pierwszej osoby liczby pojedynczej czasu teraźniejszego czasownika
-downloaden - ściągać | pobierać
+download - ściąganie, pobieranie, plik do pobrania, forma pierwszej osoby liczby pojedynczej czasu teraźniejszego czasownika
+downloaden - ściągać, pobierać
 draadloos - bezprzewodowy
 draaierigheid - zawroty głowy
 draaiing - obrót
-dragen - nosić | przenosić | mieć na sobie jakieś ubranie
-drank - napój | trunek
+dragen - nosić, przenosić, mieć na sobie jakieś ubranie
+drank - napój, trunek
 drastisch - drastyczny
 dreigen - grozić
 dreiging - groźba
-drie - trzy | 3
+drie - trzy, 3
 driedimensionaal - trójwymiarowy
-drieëndertig - trzydzieści trzy | 33
-drieënnegentig - dziewięćdziesiąt trzy | 93
-drieëntachtig - osiemdziesiąt trzy | 83
-drieëntwintig - dwadzieścia trzy | 23
-drieënveertig - czterdzieści trzy | 43
-drieënvijftig - pięćdziesiąt trzy | 53
-drieënzestig - sześćdziesiąt trzy | 63
-drieënzeventig - siedemdziesiąt trzy | 73
+drieëndertig - trzydzieści trzy, 33
+drieënnegentig - dziewięćdziesiąt trzy, 93
+drieëntachtig - osiemdziesiąt trzy, 83
+drieëntwintig - dwadzieścia trzy, 23
+drieënveertig - czterdzieści trzy, 43
+drieënvijftig - pięćdziesiąt trzy, 53
+drieënzestig - sześćdziesiąt trzy, 63
+drieënzeventig - siedemdziesiąt trzy, 73
 driehoek - trójkąt
 driehoekig - trójkątny
-driewieler - pojazd na trzech kołach | trójkołowiec
+driewieler - pojazd na trzech kołach, trójkołowiec
 drijfveer - motyw
 drink - drinken
 drinken - pić
@@ -793,20 +793,20 @@ dronkaard - pijak
 dronkenschap - pijaństwo
 droog - suchy
 droogte - susza
-droom - marzenie | sen
+droom - marzenie, sen
 druif - winogrono
-druk - forma pierwszej osoby liczby pojedynczej czasu teraźniejszego czasownika drukken | ciśnienie | zajęty
+druk - forma pierwszej osoby liczby pojedynczej czasu teraźniejszego czasownika drukken, ciśnienie, zajęty
 druppel - kropla
 dubbel - podwójny
 dubbelzinnigheid - niejednoznaczność
 dubnium - dubn
 duel - pojedynek
-duidelijk - dokładny | jasny | wyraźny | jasno | wyraźnie
-duikboot - łódź podwodna | okręt podwodny
-duiken - pływać | nurkować (poruszać się głęboko pod wodą) | nurkować (skakać do wody) | zanurkować | szybko poruszać się w dół | rzucać się | duik
+duidelijk - dokładny, jasny, wyraźny, jasno, wyraźnie
+duikboot - łódź podwodna, okręt podwodny
+duiken - pływać, nurkować (poruszać się głęboko pod wodą), nurkować (skakać do wody), zanurkować, szybko poruszać się w dół, rzucać się, duik
 duikkopbal - strzał szczupakiem
 duim - kciuk
-duin - wydma (pojedynczy obiekt) | wydma (skupisko wydm)
+duin - wydma (pojedynczy obiekt), wydma (skupisko wydm)
 duisternis - ciemność
 Duits - niemiecki
 Duitser - Niemiec
@@ -814,14 +814,14 @@ Duitsland - Niemcy
 duivel - diabeł
 duizeligheid - zawroty głowy
 duizend - tysiąc
-dun - chudy | wiotki | cienki | wąski
+dun - chudy, wiotki, cienki, wąski
 dusdanig - taki
-duur - drogi | kosztowny
-duwen - pchnąć | pchać
+duur - drogi, kosztowny
+duwen - pchnąć, pchać
 dynamiet - dynamit
 dynamisch - dynamiczny
 dynastie - dynastia
-dysenterie - dyzenteria | czerwonka
+dysenterie - dyzenteria, czerwonka
 dysprosium - dysproz
 echtgenoot - mąż
 echtgenote - żona
@@ -829,23 +829,23 @@ echtscheiding - rozwód
 Ecuador - Ekwador
 edel - szlachetny
 eekhoorn - wiewiórka
-één - 1 | liczba jeden
+één - 1, liczba jeden
 eend - kaczka
-eenendertig - trzydzieści jeden | 31
-eenennegentig - dziewięćdziesiąt jeden | 91
-eenentachtig - osiemdziesiąt jeden | 81
-eenentwintig - dwadzieścia jeden | 21
-eenenveertig - czterdzieści jeden | 41
-eenenvijftig - pięćdziesiąt jeden | 51
-eenenzestig - sześćdziesiąt jeden | 61
-eenenzeventig - siedemdziesiąt jeden | 71
+eenendertig - trzydzieści jeden, 31
+eenennegentig - dziewięćdziesiąt jeden, 91
+eenentachtig - osiemdziesiąt jeden, 81
+eenentwintig - dwadzieścia jeden, 21
+eenenveertig - czterdzieści jeden, 41
+eenenvijftig - pięćdziesiąt jeden, 51
+eenenzestig - sześćdziesiąt jeden, 61
+eenenzeventig - siedemdziesiąt jeden, 71
 een gegeven paard moet men niet in de bek kijken - darowanemu koniowi w zęby się nie zagląda
 eenhoorn - jednorożec
 eenvormig - jednolity
 eerste - pierwszy
 eerzuchtig - ambitny
 eetbaar - jadalny
-eeuw - wiek | stulecie | wieczność | bardzo długi czas
+eeuw - wiek, stulecie, wieczność, bardzo długi czas
 eeuwigheid - wieczność
 efficiënt - efektywny
 egel - jeż
@@ -869,9 +869,9 @@ elektrische spanning - napięcie elektryczne
 elektromagnetisch - elektromagnetyczny
 elektronisch - elektroniczny
 element - pierwiastek chemiczny
-elf - jedenaście | elf
+elf - jedenaście, elf
 elfde - jedenasty
-elfmeterschot - rzut karny | dosłownie
+elfmeterschot - rzut karny, dosłownie
 elleboog - łokieć
 els - olcha
 El Salvador - Salwador
@@ -909,7 +909,7 @@ ernstig - poważny
 erotisch - erotyczny
 erover - o tym (w miejsce "over het")
 erven - dziedziczyć
-erwt - groch | groch zielony
+erwt - groch, groch zielony
 erythrosine - erytrozyna
 es - jesion
 esdoorn - klon
@@ -917,7 +917,7 @@ Esperanto - esperanto
 esthetica - estetyka
 Estland - Estonia
 etage - piętro
-eten - jedzenie | posiłek | jeść
+eten - jedzenie, posiłek, jeść
 Ethiopië - Etiopia
 ethisch - etyczny
 etmaal - doba
@@ -929,12 +929,12 @@ Europa - Europa
 Europese Unie - Unia Europejska
 europium - europ
 euthanasie - eutanazja
-euvel - zły | zło
+euvel - zły, zło
 evenaar - równik
 eveneens - także
 evenredig - proporcjonalny
-eventueel - możliwy | sporadyczny | prawdopodobnie | sporadycznie
-evenwel - ale | jednakże
+eventueel - możliwy, sporadyczny, prawdopodobnie, sporadycznie
+evenwel - ale, jednakże
 evenwoordig - bliskoznaczny
 evolutie - ewolucja
 excentriek - ekscentryczny
@@ -943,9 +943,9 @@ exemplaar - kopia
 exotisch - egzotyczny
 experiment - eksperyment
 expert - ekspert
-exploitatie - eksploatacja | wykorzystywanie
-explosie - wybuch | eksplozja
-explosief - wybuchowy | materiał wybuchowy
+exploitatie - eksploatacja, wykorzystywanie
+explosie - wybuch, eksplozja
+explosief - wybuchowy, materiał wybuchowy
 exporteren - eksportować
 exporteur - eksporter
 ezel - osioł
@@ -953,14 +953,14 @@ faam - reputacja
 fabriek - fabryka
 fabrikant - producent
 Faeröer - Wyspy Owcze
-failliet - zbankrutowany | niewypłacalny | bankructwo
+failliet - zbankrutowany, niewypłacalny, bankructwo
 fakkel - pochodnia
 familie - rodzina
 fanaticus - fanatyk
 fantasie - wyobraźnia
 fantastisch - fantastyczny
 farmaceutisch - farmaceutyczny
-farmacie - farmacja | nauki farmaceutyczne
+farmacie - farmacja, nauki farmaceutyczne
 farmacologie - farmakologia
 fascistisch - faszystowski
 fatsoenlijk - przyzwoity
@@ -974,9 +974,9 @@ feliciteren - gratulować
 feminisme - feminizm
 fermium - ferm
 fier - dumny
-fiets - rower | fietsen
+fiets - rower, fietsen
 Fiji - Fidżi
-file - korek (uliczny) | plik
+file - korek (uliczny), plik
 Filipijnen - Filipiny
 filoloog - filolog
 filosofie - filozofia
@@ -994,14 +994,14 @@ fluisteren - szeptać
 fluor - fluor
 fniezen - kichnąć
 foetus - płód
-fok - jeden z żagli pierwszego masztu | rozmnażanie | okulary
+fok - jeden z żagli pierwszego masztu, rozmnażanie, okulary
 fort - zamek
-fortuinlijk - szczęśliwy | mający szczęście
+fortuinlijk - szczęśliwy, mający szczęście
 fosfor - fosfor
-foto - zdjęcie | fotografia
+foto - zdjęcie, fotografia
 fotograaf - fotograf
 fotografie - fotografia
-fout - błąd | pomyłka | błędny | zły
+fout - błąd, pomyłka, błędny, zły
 fragiel - delikatny
 francium - frans
 Frankrijk - Francja
@@ -1009,24 +1009,24 @@ Frans - francuski
 Frans-Guyana - Gujana Francuska
 fraude - oszustwo
 fresco - fresk
-Fries - język fryzyjski | fryzyjski
+Fries - język fryzyjski, fryzyjski
 Friesland - Fryzja
 fruit - owoc
 fruitarisme - frutarianizm
 frustratie - frustracja
 functie - funkcja
-fundamenteel - podstawowy | zasadniczy
-funderen - ustanowić | ufundować
+fundamenteel - podstawowy, zasadniczy
+funderen - ustanowić, ufundować
 fysica - fizyka
 fysiologie - fizjologia
 ga - gaan
 gaai - sójka
-gaan - pójść | wyjeżdżać | prowadzić | działać | zadziałać | zaczynać | mieć zamiar
+gaan - pójść, wyjeżdżać, prowadzić, działać, zadziałać, zaczynać, mieć zamiar
 gaandeweg - stopniowo
 Gabon - Gabon
 gading - satysfakcja
 gadolinium - gadolin
-galant - grzeczny | uprzejmy | szarmancki
+galant - grzeczny, uprzejmy, szarmancki
 Galilea - Galilea (kraina)
 gallicisme - galicyzm
 gallium - gal
@@ -1041,12 +1041,12 @@ gazelle - gazela
 gazet - gazeta
 gebed - modlitwa
 gebeente - szkielet
-gebeuren - stać się | wydarzyć się
+gebeuren - stać się, wydarzyć się
 gebladerte - listowie
 gebouw - budynek
-gebrek - brak | niedostatek | niedobór
+gebrek - brak, niedostatek, niedobór
 gebruikelijk - zwyczajny
-gebruiken - używać | użyć
+gebruiken - używać, użyć
 gebruiker - użytkownik
 gebruikster - użytkownik
 gedetailleerd - szczegółowy
@@ -1058,11 +1058,11 @@ geelzucht - żółtaczka
 geer - włócznia
 geestdriftig - entuzjastyczny
 geest van salmiak - amoniak
-geheel - cały | całkowicie | kompletnie
-geheim - sekretny | w sekrecie | tajemnica
+geheel - cały, całkowicie, kompletnie
+geheim - sekretny, w sekrecie, tajemnica
 geheimzinnig - tajemniczy
 gehoorzaamheid - posłuszeństwo
-gehucht - wioska | sioło
+gehucht - wioska, sioło
 geiser - gejzer
 geit - koza
 geld - pieniądze
@@ -1078,18 +1078,18 @@ gember - imbir
 gemeente - gmina
 gemiddeld - przeciętny
 gen - gen
-generaal - generalny | generał
+generaal - generalny, generał
 genetica - genetyka
-genoegen - satysfakcja | zadowolenie | przyjemność
+genoegen - satysfakcja, zadowolenie, przyjemność
 genot - przyjemność
 geografie - geografia
 geologie - geologia
 Georgië - Gruzja
 georiënteerdheid - orientacja
 geraamte - szkielet
-gerecht - potrawa | sąd
+gerecht - potrawa, sąd
 gerechtigheid - sprawiedliwość
-gereed - gotowy | przygotowany
+gereed - gotowy, przygotowany
 germanium - german
 gerst - jęczmień
 gerucht - pogłoska
@@ -1099,23 +1099,23 @@ geschiedkunde - historia
 geschrift - pismo
 geslachtsgemeenschap - stosunek seksualny
 gesprek - rozmowa
-getal - ilość | liczba
+getal - ilość, liczba
 getrouw - wierny
 geur - zapach
 gevaarlijk - niebezpieczny
 gevang - więzienie
 gevangene - więzień
 gevangenis - więzienie
-gevangenschap - uwięzienie | niewola
+gevangenschap - uwięzienie, niewola
 geven - dawać
 gevleugeld - skrzydlaty
 gevoelig - wrażliwy
 gewestelijk - regionalny
 geweten - sumienie
 gewetensvol - sumienny
-gewis - pewny | na pewno
+gewis - pewny, na pewno
 gewoon - zwykły
-gezegde - powiedzenie | przysłowie
+gezegde - powiedzenie, przysłowie
 gezicht - twarz
 gezondheid - zdrowie
 gids - przewodnik
@@ -1125,7 +1125,7 @@ giraf - żyrafa
 gisteren - wczoraj
 gisting - fermentacja
 gitaar - gitara
-glas - szkło | szklanka
+glas - szkło, szklanka
 gletsjer - lodowiec
 glimworm - świetlik
 gloeilamp - żarówka
@@ -1153,7 +1153,7 @@ gordeldier - pancernik
 gorilla - goryl
 gort - kasza
 gotisch - gocki
-goud - złoto | złoty medal | złoty kolor
+goud - złoto, złoty medal, złoty kolor
 goudvink - gil
 grammatica - gramatyka
 grammaticaal - gramatyczny
@@ -1163,19 +1163,19 @@ grappig - śmieszny
 gras - trawa
 gravitatie - grawitacja
 gravitationeel - grawitacyjny
-gretig - chętny | gorliwy | zapalony
+gretig - chętny, gorliwy, zapalony
 Griekenland - Grecja
-Grieks - język grecki | grecki
+Grieks - język grecki, grecki
 Griekse - grecki
 groen - zielony
 groenachtig - zielonkawy
 groente - warzywo
 groep - grupa
-grondgebied - obszar | terytorium
-Gronings - dialekt groningski | Gronings
+grondgebied - obszar, terytorium
+Gronings - dialekt groningski, Gronings
 groot - duży
 Groot Brittannië - Wielka Brytania
-grootheid - wielkość | ilość
+grootheid - wielkość, ilość
 grootmoeder - babcia
 grootte - rozmiar
 grootvader - dziadek
@@ -1190,9 +1190,9 @@ gymnastiek - gimnastyka
 haai - rekin
 haan - kogut
 haar - jej
-haast - niebawem | nieomal | niemal
+haast - niebawem, nieomal, niemal
 haat - nienawiść
-hachelijk - niepewny | wątpliwy
+hachelijk - niepewny, wątpliwy
 had - hebben
 hafnium - hafn
 hagedis - jaszczurka
@@ -1200,8 +1200,8 @@ hallucinatie - halucynacja
 halsketting - naszyjnik
 halssnoer - naszyjnik
 halsstarrig - uparty
-hamer - młot | młotek
-hand - ręka | dłoń
+hamer - młot, młotek
+hand - ręka, dłoń
 handdoek - ręcznik
 handschoen - rękawiczka
 hangmat - hamak
@@ -1215,13 +1215,13 @@ hars - żywica
 hart - serce
 hassium - has
 haten - nienawidzić
-hatsjie - apsik! | a psik!
+hatsjie - apsik!, a psik!
 haven - port
 havermout - płatki owsiane
 havik - jastrząb
 hazelnoot - orzech laskowy
 hé - hej
-hebben - mieć | posiadać
+hebben - mieć, posiadać
 hectare - hektar
 heelal - wszechświat
 heester - krzew
@@ -1257,17 +1257,17 @@ heteroseksualiteit - heteroseksualizm
 hetzelfde - ten sam (używany do rzeczowników rodzaju nijakiego)
 heuvel - pagórek
 hier - tutaj
-hierover - o tym | o tej (w miejsce "over dit" i "over deze")
+hierover - o tym, o tej (w miejsce "over dit" i "over deze")
 hij - on
 hik - czkawka
 hinderlaag - zasadzka
 hirsutisme - hirsutyzm
 historisch - historyczny
-hoe - jak? | jak
+hoe - jak?, jak
 hoed - czapka
-hoek - kąt | róg
+hoek - kąt, róg
 hoekschop - rzut rożny
-hoffelijk - miły | uprzejmy
+hoffelijk - miły, uprzejmy
 Hollands - holenderski
 holmium - holm
 hommer - homar
@@ -1275,7 +1275,7 @@ homogeen - jednolity
 homoniem - homonim
 homoseksualiteit - homoseksualizm
 hond - pies
-honderd - sto | 100
+honderd - sto, 100
 Honduras - Honduras
 Hongarije - Węgry
 honger - głód
@@ -1289,7 +1289,7 @@ hoog - wysoki
 hoogleraar - profesor
 hooi - siano
 hoorn - róg
-hopen - mieć nadzieję | spodziewać się
+hopen - mieć nadzieję, spodziewać się
 horen - słyszeć
 Horus - Horus
 horzel - szerszeń
@@ -1299,9 +1299,9 @@ houden - trzymać
 huichelaar - hipokryta
 huid - skóra
 huidig - obecny
-huilen - płakać | wyć | skowyczeć
+huilen - płakać, wyć, skowyczeć
 huis - dom
-huishouden - zostawiać po sobie duże zniszczenia | gospodarstwo domowe | sprzątanie domu
+huishouden - zostawiać po sobie duże zniszczenia, gospodarstwo domowe, sprzątanie domu
 huistaak - praca domowa
 huiswerk - praca domowa
 huiveringwekkend - straszny
@@ -1318,7 +1318,7 @@ ie - on
 iedereen - każdy
 iemand een kool stoven - nawarzyć komuś piwa
 iep - wiąz
-Ierland - Irlandia (państwo) | Irlandia (wyspa)
+Ierland - Irlandia (państwo), Irlandia (wyspa)
 ijdelheid - próżność
 ijs - lód
 ijskast - lodówka
@@ -1334,15 +1334,15 @@ immigrant - imigrant
 immigratie - imigracja
 immuniteit - odporność
 importeren - importować
-in - w | do | do środka | Forma pierwszej osoby liczby pojedynczej czasu teraźniejszego czasownika innen | Tryb rozkazujący liczby pojedynczej czasownika innen | Forma pytająca drugiej osoby liczby pojedynczej czasu teraźniejszego czasownika innen
+in - w, do, do środka, Forma pierwszej osoby liczby pojedynczej czasu teraźniejszego czasownika innen, Tryb rozkazujący liczby pojedynczej czasownika innen, Forma pytająca drugiej osoby liczby pojedynczej czasu teraźniejszego czasownika innen
 inbreker - włamywacz
 indiscreet - niedyskretny
 indium - ind
 Indonesië - Indonezja
-Indonesisch - indonezyjski | język indonezyjski
+Indonesisch - indonezyjski, język indonezyjski
 ineen - razem
 ineffectief - nieskuteczny
-infectie - zakażenie | infekcja
+infectie - zakażenie, infekcja
 infinitief - bezokolicznik
 informatie - informacja
 infrarood - podczerwony
@@ -1350,7 +1350,7 @@ infrastructuur - infrastruktura
 ingenieur - inżynier
 ingetogen - skromny
 ingrediënt - składnik
-inhoud - treść | zawartość | fabuła
+inhoud - treść, zawartość, fabuła
 initieel - początkowy
 inlassen - włożyć
 innovatie - innowacja
@@ -1397,7 +1397,7 @@ jakhals - szakal
 Jamaica - Jamajka
 januari - styczeń
 Japan - Japonia
-jazz - jazz | dżez
+jazz - jazz, dżez
 Jemen - Jemen
 Jeruzalem - Jerozolima
 jeugdig - młody
@@ -1406,18 +1406,18 @@ jij - ty
 jodium - jod
 Joegoslavië - Jugosławia
 Joegoslavisch - jugosłowiański
-jong - młody | nowy
+jong - młody, nowy
 jongen - chłopiec
 juistheid - poprawność
 juli - lipiec
 jullie - wy
 juni - czerwiec
-Jupiter - Jowisz | Jupiter
+Jupiter - Jowisz, Jupiter
 justitie - sprawiedliwość
 Kaapstad - Kapsztad
 Kaapverdië - Republika Zielonego Przylądka
 kaars - świeca
-kaart - kartka | karta | mapa
+kaart - kartka, karta, mapa
 kaas - ser
 kabeljauw - dorsz
 kabouter - gnom
@@ -1445,7 +1445,7 @@ kapper - fryzjer
 kar - wóz
 karper - karp
 kasteel - zamek
-kat - kot (zwierzę domowe) | czuwaliczka jadalna
+kat - kot (zwierzę domowe), czuwaliczka jadalna
 katapult - katapulta
 kathedraal - katedra
 katoen - bawełna
@@ -1482,17 +1482,17 @@ kim - horyzont
 kind - dziecko
 kindertijd - dzieciństwo
 Kirgizië - Kirgistan
-Kirgizisch - kirgiski | język kirgiski
+Kirgizisch - kirgiski, język kirgiski
 Kirgizstan - Kirgistan
 kittelaar - łechtaczka
 klaaglied - elegia
 klagen - narzekać
-klankbekken - talerz | czynel
+klankbekken - talerz, czynel
 klant - klient
 klauteren - wspinać się
 klauw - pazur
 kleding - odzież
-kledingstuk - ciuch | element garderoby
+kledingstuk - ciuch, element garderoby
 kleermaker - krawiec
 klein - mały
 kleinkind - wnuk / wnuczka
@@ -1507,7 +1507,7 @@ klimatologie - klimatologia
 klimmen - wspinać się
 klinken - brzmieć
 KLM - Królewskie Towarzystwo Lotnicze
-klok - zegar | dzwon
+klok - zegar, dzwon
 kluis - sejf
 kluizenaar - pustelnik
 knaagdier - gryzoń
@@ -1531,21 +1531,21 @@ komen - iść
 komijn - kminek
 komkommer - ogórek
 komma - przecinek
-kompas - kompas | busola
+kompas - kompas, busola
 kompel - górnik
 komst - przybycie
 konijn - królik
 koning - król
 koningin - królowa
-konings - królewski | wspaniały
+konings - królewski, wspaniały
 koninklijk - królewski
 koninkrijk - królestwo
 konvooi - konwój
-kool - węgiel | kapusta
+kool - węgiel, kapusta
 koolstof - węgiel
 koolstofdioxide - dwutlenek węgla
 koorts - gorączka
-kop - filiżanka | kubek
+kop - filiżanka, kubek
 kopen - kupować
 koper - miedź
 kopie - kopia
@@ -1559,7 +1559,7 @@ kortweg - zwięźle
 kosmisch - kosmiczny
 kraai - wrona
 kraam - stoisko
-kracht - siła | moc
+kracht - siła, moc
 krankzinnig - obłąkany
 krant - gazeta
 krapte - niedobór
@@ -1567,7 +1567,7 @@ kreeft - homar
 krent - rodzynek
 krijger - wojownik
 Kroatië - Chorwacja
-Kroatisch - chorwacki | język chorwacki
+Kroatisch - chorwacki, język chorwacki
 krokodil - krokodyl
 kruidnagel - goździk
 kruisbeeld - krucyfiks
@@ -1577,7 +1577,7 @@ kruisigen - ukrzyżować
 kruisiging - ukrzyżowanie
 krypton - krypton
 kumpir - kumpir
-kunnen - być w stanie | móc
+kunnen - być w stanie, móc
 kunst - sztuka
 kunstenaar - artysta
 kunstig - artystyczny
@@ -1590,7 +1590,7 @@ kwik - rtęć
 kwikzilver - rtęć
 kynologie - kynologia
 laadschop - buldożer
-laag - niski | warstwa
+laag - niski, warstwa
 laars - but
 lachen - śmiać się
 laf - tchórzliwy
@@ -1602,13 +1602,13 @@ landbouwer - rolnik
 landengte - przesmyk
 landvoogd - gubernator
 lang - długi
-langzaam - wolny | powolny
+langzaam - wolny, powolny
 lantaarn - latarnia
 lanthaan - lantan
 lanthanium - lantan
 Laos - Laos
 lariks - modrzew
-lastig - trudny | uciążliwy
+lastig - trudny, uciążliwy
 Latijns - łaciński
 lawaaierig - hałaśliwy
 lawine - lawina
@@ -1619,7 +1619,7 @@ leerstelling - dogmat
 leeuw - lew
 leeuwin - lwica
 legendarisch - legendarny
-lekker - smaczny | dający dobry uczucie
+lekker - smaczny, dający dobry uczucie
 lelijk - brzydki
 lemming - leming
 lengte - długość
@@ -1634,7 +1634,7 @@ Lesotho - Lesotho
 Letland - Łotwa
 lettergreep - sylaba
 letterkunde - literatura
-letterlijk - dosłowny | dosłownie
+letterlijk - dosłowny, dosłownie
 leugen - kłamstwo
 leugenaar - kłamca
 leunstoel - fotel
@@ -1646,24 +1646,24 @@ lezen - czytać
 Libanon - Liban
 liberalisme - liberalizm
 Liberia - Liberia
-libido - libido | popęd seksualny
+libido - libido, popęd seksualny
 Libië - Libia
 lichaam - ciało
-licht - lekki | jasny
+licht - lekki, jasny
 lichtekooi - prostytutka
 lichtzinnig - frywolny
 Liechtenstein - Liechtenstein
-lied - piosenka | pieśń
+lied - piosenka, pieśń
 liefde - miłość
 liefhebberij - hobby
 lieger - kłamca
 lieveheersbeestje - biedronka
-lift - winda | podnośnik | dźwig
+lift - winda, podnośnik, dźwig
 liggen - kłamać
 lijnzaadolie - olej lniany
 lijsterbes - jarząb
 likken - lizać
-Limburgs - język limburski | limburski
+Limburgs - język limburski, limburski
 links - na lewo
 lint - wstążka
 linze - soczewica
@@ -1678,12 +1678,12 @@ liturgisch - liturgiczny
 logica - logika
 logisch - logiczny
 logopedie - logopedia
-lokaal - lokalny | klasa
+lokaal - lokalny, klasa
 Londen - Londyn
 lood - ołów
 loodgieter - hydraulik
-loon - wynagrodzenie | pensja | zapłata
-lopen - biec | biegnąć
+loon - wynagrodzenie, pensja, zapłata
+lopen - biec, biegnąć
 lork - modrzew
 losgeld - okup
 loterij - loteria
@@ -1696,7 +1696,7 @@ luchtvaart - lotnictwo
 luchtvaartmaatschappij - linie lotnicze (przedsiębiorstwo)
 luiden - brzmieć
 luiheid - lenistwo
-Luik - Liège (miasto) | Liège (prowincja)
+Luik - Liège (miasto), Liège (prowincja)
 luipaard - lampart
 luisteren - słuchać
 luitenant - porucznik
@@ -1707,11 +1707,11 @@ ma - matka
 maag - żołądek
 maalsteen - kamień młyński
 maaltijd - posiłek
-maan - księżyc | manen
+maan - księżyc, manen
 maand - miesiąc
 maandag - poniedziałek
 maanlicht - światło księżyca
-maar - jedynie | raptem | tylko | jednak
+maar - jedynie, raptem, tylko, jednak
 maart - marzec
 Macedonië - Macedonia
 Macedonisch - macedoński
@@ -1728,22 +1728,22 @@ maïs - kukurydza
 maken - robić
 makken - jeść
 makreel - makrela
-malaria - malaria | zimnica
+malaria - malaria, zimnica
 Maleisië - Malezja
 malloot - głupi
 Malta - Malta
 mam - matka
 mammoet - mamut
-man - mężczyzna | mąż
+man - mężczyzna, mąż
 Man - Wyspa Man
 manco - niedobór
 mand - kosz
 mangaan - mangan
 mango - mango
 manier - sposób
-manipulatie - manipulacja | manipulowanie
+manipulatie - manipulacja, manipulowanie
 mank - kulawy
-mankement - defekt | wada
+mankement - defekt, wada
 manometer - manometr
 markt - rynek
 Marokko - Maroko
@@ -1758,10 +1758,10 @@ Mauretanië - Mauretania
 mausoleum - mauzoleum
 maximum - maksymalny
 mayonaise - majonez
-me - nieakcentowana forma zaimka "mij" - mnie | mi | się (1. os. l. poj.) | sobie (1. os. l. poj.)
+me - nieakcentowana forma zaimka "mij" - mnie, mi, się (1. os. l. poj.), sobie (1. os. l. poj.)
 medelijden - współczucie
 medewerker - pracownik
-medicijn - farmaceutyk | lekarstwo
+medicijn - farmaceutyk, lekarstwo
 medisch - medyczny
 meditatie - medytacja
 meedingen - rywalizować
@@ -1789,13 +1789,13 @@ meneer - pan
 mengen - mieszać
 menigmaal - często
 mening - opinia
-mens - człowiek | o kobiecie | babsko
+mens - człowiek, o kobiecie, babsko
 menselijk - ludzki
 mentalist - mentalista
 menu - menu
 merel - kos
 mes - nóż
-mest - gnój | łajno | nawóz
+mest - gnój, łajno, nawóz
 met - z
 metafysica - metafizyka
 meteoor - meteor
@@ -1812,7 +1812,7 @@ microfoon - mikrofon
 Micronesië - Mikronezja
 micro-organisme - mikroorganizm
 microscopisch - mikroskopowy
-middag - południe | popołudnie
+middag - południe, popołudnie
 middeleeuws - średniowieczny
 Middellandse Zee - Morze Śródziemne
 middenklasse - klasa średnia
@@ -1824,10 +1824,10 @@ mijl - mila
 mijlpaal - kamień milowy
 mijn - mój
 mild - łagodny
-militair - wojskowy | militarny | żołnierz
+militair - wojskowy, militarny, żołnierz
 miljoen - milion
-millennium - tysiąclecie | millenium
-millenniumdenken - millenaryzm | milenaryzm
+millennium - tysiąclecie, millenium
+millenniumdenken - millenaryzm, milenaryzm
 millivolt - miliwolt
 minaret - minaret
 minderheid - mniejszość
@@ -1836,10 +1836,10 @@ mineralogie - mineralogia
 mineraloog - mineralog
 minstens - przynajmniej
 minuut - minuta
-misandrie - mizoandria | mizoandryzm | mizandria
+misandrie - mizoandria, mizoandryzm, mizandria
 misdaad - przestępstwo
-misdadig - przestępczy | kryminalny
-misogynie - mizoginia | mizoginizm
+misdadig - przestępczy, kryminalny
+misogynie - mizoginia, mizoginizm
 misschien - może
 missie - misja
 modder - błoto
@@ -1861,7 +1861,7 @@ molenaar - młynarz
 molensteen - kamień młyński
 molybdeen - molibden
 monarchie - monarchia
-mond - usta | buzia
+mond - usta, buzia
 Mongolië - Mongolia
 monnik - mnich
 monotheïsme - monoteizm
@@ -1870,7 +1870,7 @@ Montenegro - Czarnogóra
 monteur - mechanik
 monument - pomnik
 mooi - piękny
-morgen - jutro | ranek
+morgen - jutro, ranek
 mos - mech
 moskee - meczet
 mossel - małż
@@ -1881,7 +1881,7 @@ mout - słód
 mouw - rękaw
 Mowgli - Mowgli
 Mozambique - Mozambik
-muis - mysz | mysz komputerowa
+muis - mysz, mysz komputerowa
 munt - mięta
 mus - wróbel
 museum - muzeum
@@ -1893,12 +1893,12 @@ muziekstuk - utwór muzyczny
 mycologie - mykologia
 mythe - mit
 mythologie - mitologia
-naaien - szyć | uszyć | pieprzyć się z kimś
+naaien - szyć, uszyć, pieprzyć się z kimś
 naam - imię
-na-apen - imitować | naśladować
-naar - do (w kierunku) | okropny | nieprzyjemny | dokuczliwy
+na-apen - imitować, naśladować
+naar - do (w kierunku), okropny, nieprzyjemny, dokuczliwy
 nabijheid - bliskość
-nabootsen - imitować | naśladować
+nabootsen - imitować, naśladować
 nacht - noc
 nachtclub - klub nocny
 nachtelijk - nocny
@@ -1906,7 +1906,7 @@ nachtevening - równonoc
 nachtmerrie - koszmar
 nada - nic
 naderhand - potem
-nadoen - imitować | naśladować
+nadoen - imitować, naśladować
 nagalm - echo
 nagellak - lakier do paznokci
 nagerecht - deser
@@ -1921,8 +1921,8 @@ nationaliteit - narodowość
 natrium - sód
 natuur - natura
 natuurkunde - fizyka
-natuurlijk - oczywiście | naturalnie | naturalny
-nauwelijks - ledwie | ledwo | zaledwie
+natuurlijk - oczywiście, naturalnie, naturalny
+nauwelijks - ledwie, ledwo, zaledwie
 nauwkeurig - precyzyjny
 navel - pępek
 navolging - imitacja
@@ -1930,22 +1930,22 @@ nazaat - potomek
 nederlaag - porażka
 Nederland - Holandia
 Nederlands - holenderski (niderlandzki) (język)
-Nedersaksisch - dolnosaksoński | język dolnosaksoński
+Nedersaksisch - dolnosaksoński, język dolnosaksoński
 nee - nie
-neer - w dole | na dole
+neer - w dole, na dole
 Neerlands - holenderski
 neerslag - opad (atmosferyczny)
 negen - dziewięć 9
 negende - dziewiąty
-negenendertig - trzydzieści dziewięć | 39
-negenennegentig - dziewięćdziesiąt dziewięć | 99
-negenentachtig - osiemdziesiąt dziewięć | 89
-negenentwintig - dwadzieścia dziewięć | 29
-negenenveertig - czterdzieści dziewięć | 49
-negenenvijftig - pięćdziesiąt dziewięć | 59
-negenenzestig - sześćdziesiąt dziewięć | 69
-negenenzeventig - siedemdziesiąt dziewięć | 79
-negentien - dziewiętnaście | 19
+negenendertig - trzydzieści dziewięć, 39
+negenennegentig - dziewięćdziesiąt dziewięć, 99
+negenentachtig - osiemdziesiąt dziewięć, 89
+negenentwintig - dwadzieścia dziewięć, 29
+negenenveertig - czterdzieści dziewięć, 49
+negenenvijftig - pięćdziesiąt dziewięć, 59
+negenenzestig - sześćdziesiąt dziewięć, 69
+negenenzeventig - siedemdziesiąt dziewięć, 79
+negentien - dziewiętnaście, 19
 negentiende - dziewiętnasty
 negentig - dziewięćdziesiąt
 neodymium - neodym
@@ -1953,16 +1953,16 @@ neon - neon
 Nepal - Nepal
 neptunium - neptun
 nergens - nigdzie
-nest - gniazdo | łóżko
+nest - gniazdo, łóżko
 netel - pokrzywa
 neurologie - neurologia
-neus - nos | o Żydzie
+neus - nos, o Żydzie
 neushoorn - nosorożec
 neutrino - neutrino
 nevel - mgła
 Nicaragua - Nikaragua
 nier - nerka
-niet - nie | nieten
+niet - nie, nieten
 niets - nic
 nieuw - nowy
 Nieuw-Caledonië - Nowa Kaledonia
@@ -1989,14 +1989,14 @@ noorden - północ
 Noord-Korea - Korea Północna
 Noordzee - Morze Północne
 Noorwegen - Norwegia
-noot - orzech | nuta | nota | przypis
+noot - orzech, nuta, nota, przypis
 noppes - nic
 Norbert - Norbert
 normaliter - normalnie
 november - listopad
 nr - nr
 nu - teraz
-nul - zero | 0
+nul - zero, 0
 o.a. - (m.in., między innymi)
 obelisk - obelisk
 obsceen - obsceniczny
@@ -2015,7 +2015,7 @@ Oekraïne - Ukraina
 oerwoud - dżungla
 oester - ostryga
 Oezbekistan - Uzbekistan
-of - lub | albo
+of - lub, albo
 offeren - poświęcić
 officieel - oficjalny
 oh - och
@@ -2023,21 +2023,21 @@ oktober - październik
 olie - olej
 olifant - słoń
 olijf - oliwka
-olijfolie - olej oliwkowy | olej z oliwek | oliwa
+olijfolie - olej oliwkowy, olej z oliwek, oliwa
 olm - wiąz
 Olympia - Olimpia (miasto w Grecji)
 ombrengen - zabić
 omdat - ponieważ
 omelet - omlet
-omgeven - otaczać | troszczyć się | dbać
+omgeven - otaczać, troszczyć się, dbać
 omkeerbaar - odwracalny
 omkomen - ginąć
 omleiding - objazd
 omringen - otaczać
 omwenteling - rewolucja
 onaanvaardbaar - nieakceptowalny
-onbekend - nieznany | anonimowy
-onder andere - m.in. | między innymi
+onbekend - nieznany, anonimowy
+onder andere - m.in., między innymi
 onderbewustzijn - podświadomość
 onderdrukking - ucisk
 ondergoed - bielizna
@@ -2056,39 +2056,39 @@ ongehoorzaam - nieposłuszny
 ongehoorzaamheid - nieposłuszeństwo
 ongeletterd - niepiśmienny
 ongelijkheid - nierówność
-ongeluk - wypadek | pech | nieszczęście
-ongevaarlijk - niegroźny | nieszkodliwy
+ongeluk - wypadek, pech, nieszczęście
+ongevaarlijk - niegroźny, nieszkodliwy
 ongewisse - niepewność
 ongewoon - nietypowy
-onjuistheid - pomyłka | błąd
+onjuistheid - pomyłka, błąd
 onkreukbaar - nieprzekupny
 onmisbaar - nieodzowny
 onmogelijk - niemożliwy
 onomkeerbaar - nieodwracalny
 onoverwinnelijk - niezwyciężony
 onplezierig - nieprzyjemny
-onschadelijk - niegroźny | nieszkodliwy
+onschadelijk - niegroźny, nieszkodliwy
 onscheidbaar - nierozłączny
 onsterfelijkheid - nieśmiertelność
 ontbijt - śniadanie
 ontdekken - odkrywać
 ontdekking - odkrycie
-ontginnen - rozwijać | rozbudowywać
+ontginnen - rozwijać, rozbudowywać
 onthalen - pozdrawiać
 ontkomen - uciec
 ontmoeten - spotykać
-ontploffen - wybuchać | eksplodować
-ontploffing - wybuch | eksplozja
+ontploffen - wybuchać, eksplodować
+ontploffing - wybuch, eksplozja
 ontsnappen - uciec
 ontvluchten - uciekać
 ontvoogding - emancypacja
 ontvreemden - kraść
 ontwerper - projektant
-ontwikkelen - rozwijać | rozbudowywać
+ontwikkelen - rozwijać, rozbudowywać
 ontzield - martwy
-onverhoopt - nieoczekiwany | niespodziewanie
+onverhoopt - nieoczekiwany, niespodziewanie
 onverschilligheid - obojętność
-onverwacht - nieoczekiwany | niespodziewanie
+onverwacht - nieoczekiwany, niespodziewanie
 onverwachts - niespodziewanie
 onvoltooid deelwoord - imiesłów czasu teraźniejszego
 onvoltooid tegenwoordige tijd - czas teraźniejszy niedokonany
@@ -2097,26 +2097,26 @@ onvoltooid verleden tijd - czas przeszły niedokonany
 onvoltooid verleden toekomende tijd - futurum praeteriti
 onvoorspelbaar - nieprzewidywalny
 onvriendelijk - nieprzyjazny
-onwaarheid - fałsz | nieprawda
+onwaarheid - fałsz, nieprawda
 onzekerheid - niepewność
-onzijdig - neutralny | obojętny | nijaki
+onzijdig - neutralny, obojętny, nijaki
 onzin - nonsens
 ooft - owoc
 oog - oko
 ooglid - powieka
 ooievaar - bocian
-ook - również | też | także
+ook - również, też, także
 oom - wujek
 oor - ucho
 oorbel - kolczyk
 oorlog - wojna
 oorring - kolczyk
-oorzaak - powód | przyczyna
+oorzaak - powód, przyczyna
 oostelijk - wschodni
 oosten - wschód
 Oostenrijk - Austria
 Oostzee - Morze Bałtyckie
-opa - dziadek | dziadziuś
+opa - dziadek, dziadziuś
 opaal - opal
 opeenhoping - nagromadzenie
 opendoen - otwierać
@@ -2124,13 +2124,13 @@ openen - otwierać
 opera - opera
 opinie - opinia
 oplosmiddel - rozpuszczalnik
-opnieuw - znowu | znów
+opnieuw - znowu, znów
 opperen - sugerować
 oppervlak - powierzchnia
 oprecht - szczery
 oprechtheid - szczerość
 oprichter - założyciel
-oprotten - spadać | spierdalać | wypierdalać | odpierdalać się | odwalać się
+oprotten - spadać, spierdalać, wypierdalać, odpierdalać się, odwalać się
 optimisme - optymizm
 opvangen - złapać
 opvolger - następca
@@ -2139,7 +2139,7 @@ opzwellen - puchnąć
 oranje - pomarańczowy (kolor)
 organisatie - organizacja
 organisme - organizm
-orgasme - orgazm | szczytowanie
+orgasme - orgazm, szczytowanie
 oriëntatie - orientacja
 osmium - osm
 Ostia - Ostia
@@ -2149,10 +2149,10 @@ ouderwets - staromodny
 oudheid - starożytność
 oudheidkunde - archeologia
 oud-strijder - weteran
-overal - wszędzie | gdziekolwiek
+overal - wszędzie, gdziekolwiek
 overblijven - pozostać
 overdadig - nadmierny
-overduidelijk - oczywisty | oczywiście
+overduidelijk - oczywisty, oczywiście
 overgankelijk - przechodni
 overgrootvader - pradziadek
 overheersing - dominacja
@@ -2160,7 +2160,7 @@ overhemd - koszula
 overig - pozostały
 overigens - ponadto
 overmatig - nadmierny
-oversteken - dośrodkowywać | wrzucać
+oversteken - dośrodkowywać, wrzucać
 overstroming - powódź
 overvloed - obfitość
 overvloedig - obfity
@@ -2170,9 +2170,9 @@ paard - koń
 paardmens - centaur
 paars - fioletowy
 paasfeest - Wielkanoc
-pact - pakt | układ
+pact - pakt, układ
 paganisme - pogaństwo
-pagina - strona | stronica
+pagina - strona, stronica
 paleis - pałac
 Palestijns - palestyński
 palindroom - palindrom
@@ -2180,7 +2180,7 @@ paling - węgorz
 palladianisme - palladianizm
 palladium - pallad
 palmolie - olej palmowy
-pan - garnek | patelnia
+pan - garnek, patelnia
 Panama - Panama
 panda - panda
 pandeïsme - pandeizm
@@ -2225,13 +2225,13 @@ penaltynemer - wykonawca rzutów karnych
 penaltystopper - bramkarz wykazujący się wysokimi umiejętnościami obrony rzutów karnych
 penningmeester - skarbnik
 pepel - motyl
-pers - prasa | pers | kot perski | dywan perski | persen
+pers - prasa, pers, kot perski, dywan perski, persen
 persoon - osoba
 persoonlijk - osobisty
 persoonlijkheid - osobowość
 Peru - Peru
 perzik - brzoskwinia
-Perzisch - perski | irański
+Perzisch - perski, irański
 Peter - Piotr
 peterselie - pietruszka
 pianiste - pianistka
@@ -2244,11 +2244,11 @@ pinda - orzech ziemny
 pinguïn - pingwin
 pionier - pionier
 piraterij - piractwo
-pistache - pistacja (owoc) | pistacja (drzewo)
+pistache - pistacja (owoc), pistacja (drzewo)
 Pittsburgh - Pittsburgh (stolica Allegheny)
 pixel - piksel
 pizza - pizza
-plaats - miejsce | pozycja
+plaats - miejsce, pozycja
 plaatselijk - lokalny
 plafond - sufit
 planeet - planeta
@@ -2258,28 +2258,28 @@ plant - roślina
 plantage - plantacja
 plantkunde - botanika
 platina - platyna
-plattegrond - plan | mapa
+plattegrond - plan, mapa
 plechtigheid - ceremonia
 pleister - plaster
 plezier - przyjemność
 plots - nagle
-plotseling - nagły | nagle
+plotseling - nagły, nagle
 plutonium - pluton
 poëzie - poezja
 Polen - Polska
 politie - policja
-politiek - polityczny | polityka
+politiek - polityczny, polityka
 polonium - polon
 polygamie - poligamia
 polytheïsme - politeizm
 pompoen - dynia
-pooier - alfons | sutener
+pooier - alfons, sutener
 poolbeer - niedźwiedź polarny
 Pools - polski
 poort - brama
 populier - topola
 portemonnee - portfel
-portier - portier | drzwi
+portier - portier, drzwi
 portret - portret
 Portugal - Portugalia
 Portugees - portugalski
@@ -2292,16 +2292,16 @@ pragmatisme - pragmatyzm
 Praia - Praia
 praktisch - praktyczny
 praseodymium - prazeodym
-praten - mówić | rozmawiać
-precies - dokładny | precyzyjny
+praten - mówić, rozmawiać
+precies - dokładny, precyzyjny
 predikant - kaznodzieja
 prehistorie - prehistoria
 prei - por
 premier - premier
 presentatie - prezentacja
-pret - zabawa | ubaw | frajda
+pret - zabawa, ubaw, frajda
 prijs - cena
-principe - zasada | reguła
+principe - zasada, reguła
 prins - książę
 Prins Edwardeiland - Wyspa Księcia Edwarda
 prinses - księżniczka
@@ -2317,8 +2317,8 @@ proces - proces
 producent - producent
 producer - producent
 productie - produkcja
-profeet - profeta | prorok
-professioneel - profesjonalny | zawodowy | związany z danym zawodem
+profeet - profeta, prorok
+professioneel - profesjonalny, zawodowy, związany z danym zawodem
 professor - profesor
 profijt - zysk
 proloog - prolog
@@ -2349,10 +2349,10 @@ raam - okno
 rabarber - rabarbar
 radijs - rzodkiewka
 radioactief - radioaktywny
-radioactiviteit - radioaktywność | promieniotwórczość
+radioactiviteit - radioaktywność, promieniotwórczość
 radium - rad
 radon - radon
-ramen - ocenić | oszacować
+ramen - ocenić, oszacować
 rapport - raport
 rat - szczur
 ratificatie - ratyfikacja
@@ -2364,15 +2364,15 @@ recentelijk - ostatnio
 rechtbank - sąd
 rechthoek - prostokąt
 rechtspraak - jurysdykcja
-rechtstreeks - bezpośredni | bezpośrednio
+rechtstreeks - bezpośredni, bezpośrednio
 reciteren - recytować
 recommandatie - rekomendacja
-redden - ocalić | ratować
+redden - ocalić, ratować
 redekunde - retoryka
-redeneerkunde - logika | retoryka
+redeneerkunde - logika, retoryka
 redevoering - mowa
 reeds - już
-regelbaar - regulowalny | nastawny
+regelbaar - regulowalny, nastawny
 regelmaat - regularność
 regen - deszcz
 regenboog - tęcza
@@ -2383,7 +2383,7 @@ regionaal - regionalny
 reiger - czapla
 reïncarnatie - reinkarnacja
 reinigen - czyścić
-reiziger - podróżny | podróżnik
+reiziger - podróżny, podróżnik
 rekenkunde - arytmetyka
 relativiteit - względność
 reliek - relikwia
@@ -2407,10 +2407,10 @@ revolver - rewolwer
 rhodium - rod
 richtlijn - dyrektywa
 ridder - rycerz
-riem - pas | pasek
+riem - pas, pasek
 riet - trzcina
 rijbewijs - prawo jazdy
-rijkdom - bogactwo | pomyślność | dobrobyt
+rijkdom - bogactwo, pomyślność, dobrobyt
 rijp - dojrzały
 Rijsel - Lille
 rijst - ryż
@@ -2426,7 +2426,7 @@ Roemeens - rumuński
 Roemenië - Rumunia
 roemruchtig - wspaniały
 roentgenium - rutherford
-roepen - krzyczeć | wołać | zawołać
+roepen - krzyczeć, wołać, zawołać
 rog - płaszczka
 rogge - żyto
 rok - spódnica
@@ -2446,11 +2446,11 @@ rozijn - rodzynek
 rubidium - rubid
 rugby - rugby
 ruiken - czuć
-ruime sop - morze | ocean
+ruime sop - morze, ocean
 ruimteschip - statek kosmiczny
 ruimtevaarder - astronauta
 ruiter - jeździec
-ruiterij - kawaleria | konnica
+ruiterij - kawaleria, konnica
 rundvlees - wołowina
 rups - gąsienica
 Rusland - Rosja
@@ -2499,15 +2499,15 @@ schatbewaarder - skarbnik
 schatmeester - skarbnik
 schede - pochwa
 scheepswrak - wrak
-scheiden - oddzielić | rozwodzić się
+scheiden - oddzielić, rozwodzić się
 scheikunde - chemia
 scheikundig - chemiczny
 schemerdonker - zmierzch
 schemerlicht - zmierzch
-scheppen - stwarzać | tworzyć | stworzyć
+scheppen - stwarzać, tworzyć, stworzyć
 scherpen - ostrzyć
 schiereiland - półwysep
-schieten - strzelać | wystrzelić
+schieten - strzelać, wystrzelić
 schijnheiligheid - hipokryzja
 schijterig - tchórzliwy
 schild - tarcza
@@ -2539,7 +2539,7 @@ seculier - świecki
 sedert - od
 sedimentologie - sedymentologia
 seismologie - sejsmologia
-seizoen - pora roku | sezon
+seizoen - pora roku, sezon
 sekse - płeć
 seksualiteit - seksualność
 sekte - sekta
@@ -2551,7 +2551,7 @@ semantisch - semantyczny
 senaat - senat
 senator - senator
 september - wrzesień
-serieus - poważny | poważnie
+serieus - poważny, poważnie
 Servië - Serbia
 sesam - sezam
 shatranj - szatrandż
@@ -2574,17 +2574,17 @@ sjoemelen - oszukiwać
 sjorren - ciągnąć
 sla - sałata
 slaaf - niewolnik
-slaan - bić | uderzać
+slaan - bić, uderzać
 slaapkamer - sypialnia
 slachtoffer - ofiara
 slager - rzeźnik
 slagveld - pole bitwy
-slang - wąż | wąż gumowy | slang
+slang - wąż, wąż gumowy, slang
 slapen - spać
 slavernij - niewolnictwo
 slecht - zły
-slechts - tylko | jedynie
-sleutel - klucz | klucz muzyczny
+slechts - tylko, jedynie
+sleutel - klucz, klucz muzyczny
 slijk - błoto
 slikken - połykać
 Slovenië - Słowenia
@@ -2601,7 +2601,7 @@ sneeuw - śnieg
 Sneeuwbalaarde - ziemia-śnieżka
 sneeuwen - śnieżyć
 sneeuwklokje - przebiśnieg
-sneeuwvlok - śnieżynka | płatek śniegu
+sneeuwvlok - śnieżynka, płatek śniegu
 snel - szybki
 snelheid - prędkość
 snellen - spieszyć się
@@ -2619,7 +2619,7 @@ soep - zupa
 soevereiniteit - suwerenność
 sojamelk - mleko sojowe
 sojasaus - sos sojowy
-sok - skarpeta | skarpetka
+sok - skarpeta, skarpetka
 soldaat - żołnierz
 Somalië - Somalia
 soortgelijk - podobny
@@ -2629,48 +2629,48 @@ Spanje - Hiszpania
 spar - świerk
 specerij - przyprawa
 specht - dzięcioł
-speciaal - wyjątkowy | specjalny
+speciaal - wyjątkowy, specjalny
 spectaculair - spektakularny
 speech - mowa
 speer - włócznia
-spelen - grać (w grę) | grać (na instrumencie)
+spelen - grać (w grę), grać (na instrumencie)
 speler - gracz
 sperzieboon - fasolka szparagowa
 speurder - detektyw
 spiegel - lustro
-spijs - potrawa | posiłek
+spijs - potrawa, posiłek
 spin - pająk
 spinazie - szpinak
 spiritueel - duchowy
 spirulina - spirulina
 spons - gąbka
 spoorweg - kolej
-sport - sport | sporten
-spouwen - pluć | wymiotować
+sport - sport, sporten
+spouwen - pluć, wymiotować
 spreeuw - szpak
-spreken - mówić | używać języka | rozmawiać
+spreken - mówić, używać języka, rozmawiać
 sprinkhaan - szarańcza
 sproet - pieg
 spruitjes - brukselka
-spruitkool - kapusta brukselska | brukselka
+spruitkool - kapusta brukselska, brukselka
 spugen - pluć
 spuwen - pluć
 Sri Lanka - Sri Lanka
 staakt-het-vuren - zawieszenie broni
-staal - stal | próbka
-staan - stać | stawać
+staal - stal, próbka
+staan - stać, stawać
 staart - ogon
 staartster - kometa
 stad - miasto
 stagnatie - stagnacja
-standbeeld - posąg | statua
-star - sztywny | zamarznięty | nieelastyczny
+standbeeld - posąg, statua
+star - sztywny, zamarznięty, nieelastyczny
 station - stacja
 steen - kamień
 steenkool - węgiel
 Stefan - Stefan
 stelkunde - algebra
-stellen - stawiać | umieszczać | twierdzić | czuć coś do czegoś/kogoś | czuć ważność czegoś | zajmować stanowisko w jakiejś sprawie | ustosunkowywać się
+stellen - stawiać, umieszczać, twierdzić, czuć coś do czegoś/kogoś, czuć ważność czegoś, zajmować stanowisko w jakiejś sprawie, ustosunkowywać się
 stellig - pewien
 stelsel - system
 stengel - łodyga
@@ -2692,14 +2692,14 @@ stier - byk
 stikstof - azot
 stilte - cisza
 stoel - krzesło
-stof - kurz | pył
+stof - kurz, pył
 stoffig - zakurzony
 stofzuiger - odkurzacz
 stoom - para
 stoornis - nieporządek
 stoplicht - światło sygnalizacyjne
 stormachtig - burzliwy
-stormloop - popłoch | panika
+stormloop - popłoch, panika
 straat - ulica
 strafbaar - nielegalny
 strafschop - rzut karny
@@ -2719,7 +2719,7 @@ stropdas - krawat
 structuur - struktura
 struik - krzew
 struisvogel - struś
-stuk - część | kawałek | piękność | atrakcyjna kobieta
+stuk - część, kawałek, piękność, atrakcyjna kobieta
 stuurwiel - kierownica
 substantie - substancja
 substantief - rzeczownik
@@ -2742,16 +2742,16 @@ synthetisch - syntetyczny
 Syrië - Syria
 systeem - system
 taak - zadanie
-taal - język | mowa
+taal - język, mowa
 taalkunde - językoznawstwo
-tablet - tabletka | pigułka | tablet
+tablet - tabletka, pigułka, tablet
 tachtig - osiemdziesiąt
 tactiek - taktyka
 Tadzjikistan - Tadżykistan
-tafel - stół | tafelen
+tafel - stół, tafelen
 tafelkleed - obrus
 taifoen - tajfun
-taigagaai - sójka syberyjska | sójka złowroga
+taigagaai - sójka syberyjska, sójka złowroga
 Taiwan - Tajwan
 tak - gałąź
 talent - talent
@@ -2770,7 +2770,7 @@ tatoeëring - tatuaż
 tautologie - tautologia
 taxi - taksówka
 taxonomie - taksonomia
-te - zbyt | za | do | w | zlokalizowane w
+te - zbyt, za, do, w, zlokalizowane w
 technetium - technet
 technisch - techniczny
 technologie - technika
@@ -2786,16 +2786,16 @@ teleurstellen - rozczarować
 teleurstelling - rozczarowanie
 televisie - telewizja
 telg - potomek
-tellen - liczyć | obliczać
+tellen - liczyć, obliczać
 tellurium - tellur
 telluur - tellur
-ten - w | na | za pomocą | po
+ten - w, na, za pomocą, po
 tenminste - przynajmniej
 ten minste - przynajmniej
 ten opzichte van - odnośnie do
 tent - namiot
-ten zeerste - mocno | silnie
-ter - w | na | za pomocą | po
+ten zeerste - mocno, silnie
+ter - w, na, za pomocą, po
 terbium - terb
 terminologie - terminologia
 territorium - terytorium
@@ -2820,16 +2820,16 @@ thesaurier - skarbnik
 thorium - tor
 thuisland - ojczyzna
 thulium - tul
-tien - dziesięć | 10
+tien - dziesięć, 10
 tiende - dziesiąty
 tij - pływ
 tijd - czas
-tijdelijk - tymczasowy | tymczasowo
+tijdelijk - tymczasowy, tymczasowo
 tijdschrift - magazyn
 tijdsduur - czas trwania
 tijger - tygrys
 tijm - tymianek
-timmerman - cieśla | stolarz
+timmerman - cieśla, stolarz
 tin - cyna
 titanium - tytan
 titel - tytuł
@@ -2859,7 +2859,7 @@ toren - wieża
 tot kijk - do widzenia
 t.o.v. - odnośnie do
 toxicologie - toksykologia
-traag - powolny | powoli
+traag - powolny, powoli
 trachten - próbować
 traditie - tradycja
 tragedie - tragedia
@@ -2870,12 +2870,12 @@ trefzeker - dokładny
 trein - pociąg
 treksprinkhaan - szarańcza
 tribunaal - trybunał
-triest - żałosny | smutny
+triest - żałosny, smutny
 Trinidad en Tobago - Trynidad i Tobago
 triomf - triumf
 trom - bęben
 troonsafstand - abdykacja
-trots - dumny | duma
+trots - dumny, duma
 Tsjechië - Czechy
 Tsjechisch - czeski
 tsunami - tsunami
@@ -2889,50 +2889,50 @@ Turkmenistan - Turkmenia
 tussen - między
 tussendoortje - przekąska
 tussenkomst - interwencja
-twaalf - dwanaście | 12
+twaalf - dwanaście, 12
 twaalfde - dwunasty
-twee - dwa | 2
+twee - dwa, 2
 tweedonker - zmierzch
-tweeëndertig - trzydzieści dwa | 32
-tweeënnegentig - dziewięćdziesiąt dwa | 92
-tweeëntachtig - osiemdziesiąt dwa | 82
-tweeëntwintig - dwadzieścia dwa | 22
-tweeënveertig - czterdzieści dwa | 42
-tweeënvijftig - pięćdziesiąt dwa | 52
-tweeënzestig - sześćdziesiąt dwa | 62
-tweeënzeventig - siedemdziesiąt dwa | 72
+tweeëndertig - trzydzieści dwa, 32
+tweeënnegentig - dziewięćdziesiąt dwa, 92
+tweeëntachtig - osiemdziesiąt dwa, 82
+tweeëntwintig - dwadzieścia dwa, 22
+tweeënveertig - czterdzieści dwa, 42
+tweeënvijftig - pięćdziesiąt dwa, 52
+tweeënzestig - sześćdziesiąt dwa, 62
+tweeënzeventig - siedemdziesiąt dwa, 72
 tweelicht - zmierzch
 tweetal - para
 tweetalig - dwujęzyczny
 twijg - gałązka
-twintig - dwadzieścia | 20
+twintig - dwadzieścia, 20
 twintigste - dwudziesty
 tyfoon - tajfun
 typisch - typowy
 typmachine - maszyna do pisania
-Tyrtaeus - Tyrtajos | Tyrteusz
+Tyrtaeus - Tyrtajos, Tyrteusz
 Uganda - Uganda
 ui - cebula
 uier - wymię
 uil - sowa
 uitbraaksel - wymiociny
-uitbuiting - eksploatacja | wykorzystywanie
+uitbuiting - eksploatacja, wykorzystywanie
 uitdaging - wyzwanie
 uiteraard - oczywiście
 uitgever - wydawca
 uitkiezen - wybierać
-uitkomst - rezultat | wygoda
+uitkomst - rezultat, wygoda
 uitloven - proponować
 uitnodigen - zaprosić
 uitputting - wyczerpanie
-uitspraak - wymowa | werdykt
+uitspraak - wymowa, werdykt
 uitvaart - pogrzeb
 uitvinden - wynaleźć
 uitvinder - wynalazca
 uitvloeisel - wynik
-uitvoeren - wykonać | przeprowadzić | wyprowadzić | eksportować
+uitvoeren - wykonać, przeprowadzić, wyprowadzić, eksportować
 uitwendig - zewnętrzny
-uitwerpsel - kał | wydalina
+uitwerpsel - kał, wydalina
 uitwijking - emigracja
 uitzondering - wyjątek
 uitzonderlijk - wyjątkowy
@@ -2944,7 +2944,7 @@ ununhexium - ununhexium
 ununoctium - ununoctium
 ununpentium - ununpentium
 ununquadium - ununquadium
-upload - wgrywanie (kopiowanie) na serwer | forma pierwszej osoby liczby pojedynczej czasu teraźniejszego czasownika uploaden
+upload - wgrywanie (kopiowanie) na serwer, forma pierwszej osoby liczby pojedynczej czasu teraźniejszego czasownika uploaden
 uploaden - wgrać na serwer
 uranium - uran
 Uruguay - Urugwaj
@@ -2954,19 +2954,19 @@ uurglas - klepsydra
 vaas - wazon
 vaccin - szczepionka
 vadem - sążeń
-vader - ojciec | tata
+vader - ojciec, tata
 vaderlijk - ojcowski
 vagevuur - czyściec
 vallei - dolina
-vallen - paść | upadać | spadać
+vallen - paść, upadać, spadać
 valsspelen - oszukiwać
 vampier - wampir
-van - z | od
+van - z, od
 vanadium - wanad
 vandaag - dziś
 vangen - złapać
 vanille - wanilia
-van wanten weten - być zdolnym do ciężkiej pracy | móc ciężko pracować
+van wanten weten - być zdolnym do ciężkiej pracy, móc ciężko pracować
 vanzelf - automatycznie
 variabel - zmienny
 variant - wariant
@@ -2978,10 +2978,10 @@ vazal - wasal
 vechtersbaas - huligan
 veder - pióro
 veegte - wrogość
-veel - dużo | wiele
+veel - dużo, wiele
 veelheid - obfitość
 veelvuldig - częsty
-veertien - czternaście | 14
+veertien - czternaście, 14
 veertiende - czternasty
 veertig - czterdzieści
 veertigste - czterdziesty
@@ -2991,7 +2991,7 @@ veganistisch - wegański
 vegetariër - wegetarianin
 vegetarisch - wegetariański
 vegetarisme - wegetarianizm
-veilig - bezpieczny | bezpiecznie
+veilig - bezpieczny, bezpiecznie
 veiligheid - bezpieczeństwo
 veld - pole
 veldslag - bitwa
@@ -3003,29 +3003,29 @@ venster - okno
 ver - daleki
 verantwoordelijk - odpowiedzialny
 verantwoordelijkheid - odpowiedzialność
-verbeteren - udoskonalić | poprawiać
-verbinden - wiązać | powiązać | łączyć
-verbinding - powiązanie | połączenie | związek
+verbeteren - udoskonalić, poprawiać
+verbinden - wiązać, powiązać, łączyć
+verbinding - powiązanie, połączenie, związek
 verdedigen - bronić
 verdenking - podejrzenie
-verdieping - piętro | kondygnacja
+verdieping - piętro, kondygnacja
 verdraagzaamheid - tolerancja
-verdrag - pakt | traktat
-verdrieten - irytować | złościć | zasmucać | martwić
+verdrag - pakt, traktat
+verdrieten - irytować, złościć, zasmucać, martwić
 verdrietig - smutny
 verdrukking - ucisk
 verduidelijken - wyjaśniać
 verdwijning - zniknięcie
 vereenvoudigen - uprościć
 Verenigde Arabische Emiraten - Zjednoczone Emiraty Arabskie
-Verenigde Staten - Stany Zjednoczone | USA
+Verenigde Staten - Stany Zjednoczone, USA
 Verenigde Staten van Amerika - Stany Zjednoczone Ameryki
 Verenigd Koninkrijk - Zjednoczone Królestwo
 vergeetachtig - zapominalski
 vergelding - odwet
 vergelijkbaar - porównywalny
 vergelijken - porównać
-vergelijking - porównanie | równanie
+vergelijking - porównanie, równanie
 vergeten - zapomnieć
 vergeving - przebaczenie
 vergif - trucizna
@@ -3036,18 +3036,18 @@ vergisting - fermentacja
 vergrootglas - lupa
 verhitten - ogrzewać
 verhuren - wynająć
-verifiëren - sprawdzać | weryfikować
+verifiëren - sprawdzać, weryfikować
 verjaardag - urodziny
 verjaardagscadeau - prezent urodzinowy
 verjaardagsgeschenk - prezent urodzinowy
 verkeerslicht - światło sygnalizacyjne
-verkiezen - woleć | wybierać
+verkiezen - woleć, wybierać
 verkiezing - wybory
 verkondiger - kaznodzieja
 verkoudheid - przeziębienie
 verleden tijd - czas przeszły
 verliefdheid - zakochanie
-verliezen - gubić | stracić | przegrać
+verliezen - gubić, stracić, przegrać
 vermelding - wzmianka
 vermijden - unikać
 vernielen - zniszczyć
@@ -3055,11 +3055,11 @@ vernieling - zniszczenie
 vernietigen - zniszczyć
 vernietiging - zniszczenie
 vernieuwing - innowacja
-veronderstelling - założenie | przypuszczenie
+veronderstelling - założenie, przypuszczenie
 veroorzaken - powodować
 verschijnsel - zjawisko
 versie - wersja
-versieren - dekorować | uwodzić
+versieren - dekorować, uwodzić
 versiering - dekoracja
 versimpelen - uprościć
 verslag - raport
@@ -3070,7 +3070,7 @@ vertaalster - tłumacz
 vertakking - gałąź
 vertalen - tłumaczyć
 vertaler - tłumacz
-vertaling - tłumaczenie | przekład
+vertaling - tłumaczenie, przekład
 verte - odległość
 vertegenwoordiger - reprezentant
 vertraging - opóźnienie
@@ -3083,36 +3083,36 @@ verwerking - proces
 verwerpen - odrzucać
 verwijderen - usunąć
 verwijten - obwiniać
-verwonden - ranić | kaleczyć
+verwonden - ranić, kaleczyć
 verworvenheid - osiągnięcie
 vesting - fortyfikacja
 videobewijs - telewizyjna powtórka
-vier - cztery | 4
-vierendertig - trzydzieści cztery | 34
-vierennegentig - dziewięćdziesiąt cztery | 94
-vierentachtig - osiemdziesiąt cztery | 84
-vierentwintig - dwadzieścia cztery | 24
-vierenveertig - czterdzieści cztery | 44
-vierenvijftig - pięćdziesiąt cztery | 54
-vierenzestig - sześćdziesiąt cztery | 64
-vierenzeventig - siedemdziesiąt cztery | 74
-Vietnamees - wietnamski | Wietnamczyk
+vier - cztery, 4
+vierendertig - trzydzieści cztery, 34
+vierennegentig - dziewięćdziesiąt cztery, 94
+vierentachtig - osiemdziesiąt cztery, 84
+vierentwintig - dwadzieścia cztery, 24
+vierenveertig - czterdzieści cztery, 44
+vierenvijftig - pięćdziesiąt cztery, 54
+vierenzestig - sześćdziesiąt cztery, 64
+vierenzeventig - siedemdziesiąt cztery, 74
+Vietnamees - wietnamski, Wietnamczyk
 vijand - wróg
-vijf - pięć | 5
+vijf - pięć, 5
 vijfde - piąty
-vijfendertig - trzydzieści pięć | 35
-vijfennegentig - dziewięćdziesiąt pięć | 95
-vijfentachtig - osiemdziesiąt pięć | 85
-vijfentwintig - dwadzieścia pięć | 25
-vijfenveertig - czterdzieści pięć | 45
-vijfenvijftig - pięćdziesiąt pięć | 55
-vijfenzestig - sześćdziesiąt pięć | 65
-vijfenzeventig - siedemdziesiąt pięć | 75
-vijftien - piętnaście | 15
+vijfendertig - trzydzieści pięć, 35
+vijfennegentig - dziewięćdziesiąt pięć, 95
+vijfentachtig - osiemdziesiąt pięć, 85
+vijfentwintig - dwadzieścia pięć, 25
+vijfenveertig - czterdzieści pięć, 45
+vijfenvijftig - pięćdziesiąt pięć, 55
+vijfenzestig - sześćdziesiąt pięć, 65
+vijfenzeventig - siedemdziesiąt pięć, 75
+vijftien - piętnaście, 15
 vijftiende - piętnasty
-vijftig - pięćdziesiąt | 50
+vijftig - pięćdziesiąt, 50
 vijg - figa
-vijver - staw | sadzawka
+vijver - staw, sadzawka
 vinden - znaleźć
 vindingrijk - kreatywny
 vinger - palec
@@ -3139,20 +3139,20 @@ vlijt - pracowitość
 vlinder - motyl
 vlo - pchła
 vloed - powódź
-vloeistof - ciecz | płyn
+vloeistof - ciecz, płyn
 vlok - płatek
 vluchteling - uchodźca
 vluchten - uciekać
 vlug - szybki
 vochtig - wilgotny
 vochtigheid - wilgoć
-voeding - jedzenie | żywność
+voeding - jedzenie, żywność
 voedsel - jedzenie
-voer - pokarm | pasza
-voertuig - wehikuł | środek transportu
+voer - pokarm, pasza
+voertuig - wehikuł, środek transportu
 voet - stopa
 voetafdruk - ślad stopy
-voetbal - piłka nożna | Forma pierwszej osoby liczby pojedynczej czasu teraźniejszego czasownika voetballen | Tryb rozkazujący liczby pojedynczej czasownika voetballen | Forma pytająca drugiej osoby liczby pojedynczej czasu teraźniejszego czasownika voetballen | piłka do gry w piłkę nożną
+voetbal - piłka nożna, Forma pierwszej osoby liczby pojedynczej czasu teraźniejszego czasownika voetballen, Tryb rozkazujący liczby pojedynczej czasownika voetballen, Forma pytająca drugiej osoby liczby pojedynczej czasu teraźniejszego czasownika voetballen, piłka do gry w piłkę nożną
 vogel - ptak
 vogelbekdier - dziobak
 vogelverschrikker - strach na wróble
@@ -3163,7 +3163,7 @@ volgens - według
 volkomen - całkowicie
 volksfeest - festiwal
 volksmenner - demagog
-volledig - kompletny | całkowicie
+volledig - kompletny, całkowicie
 volledigheid - kompletność
 voltooid deelwoord - imiesłów czasu przeszłego
 voltooid tegenwoordige tijd - czas teraźniejszy dokonany
@@ -3175,21 +3175,21 @@ voorbeeld - przykład
 voorbereiding - przygotowanie
 voord - bród
 voordat - zanim
-voordelig - korzystny | tani
-voordracht - mowa | prezentacja
+voordelig - korzystny, tani
+voordracht - mowa, prezentacja
 voorgeschiedenis - prehistoria
-voorgoed - na dobre | na stałe | na zawsze
+voorgoed - na dobre, na stałe, na zawsze
 voorhamer - młot oburęczny
 voorhistorisch - prehistoryczny
 voorhoofd - czoło
 voorjaar - wiosna
 voorkeur - preferencja
-voorkomend - miły | uprzejmy
+voorkomend - miły, uprzejmy
 voornaamwoord - zaimek
 voorouder - przodek
 voorrecht - przywilej
 voorspelbaar - przewidywalny
-voorspoed - pomyślność | dobrobyt
+voorspoed - pomyślność, dobrobyt
 voortgang - postęp
 voortreffelijkheid - doskonałość
 voortzetten - kontynuować
@@ -3201,29 +3201,29 @@ voorzorg - środek ostrożności
 vorig - poprzedni
 vork - widelec
 vos - lis
-vraag - pytanie | zapotrzebowanie na dobra materialne | vragen
+vraag - pytanie, zapotrzebowanie na dobra materialne, vragen
 vraat - żarłok
-vragen - pytać | prosić
+vragen - pytać, prosić
 vragenlijst - kwestionariusz
-vrede - pokój | spokój
+vrede - pokój, spokój
 vreedzaam - pokojowy
-vreselijk - straszny | strasznie | bardzo | znacznie | mocno
+vreselijk - straszny, strasznie, bardzo, znacznie, mocno
 vreugde - radość
 vriend - przyjaciel
 vriendschap - przyjaźń
 vriezer - zamrażarka
 vrijdag - piątek
-vrijen - kochać się | współżyć
+vrijen - kochać się, współżyć
 vrije trap - rzut wolny
 vrije trap nemer - wykonawca rzutów wolnych
-vrijgevigheid - hojność | szczodrość
+vrijgevigheid - hojność, szczodrość
 vrijheid - wolność
 vrijwel - prawie
 vrijzinnig - liberalny
 vroegtijdig - przedwczesny
-vrolijk - wesoły | radosny
+vrolijk - wesoły, radosny
 vrouw - kobieta
-vrouwelijk - żeński | kobiecy | żeński (rodzaj)
+vrouwelijk - żeński, kobiecy, żeński (rodzaj)
 vrucht - owoc
 vulkaan - wulkan
 vulkanisch - wulkaniczny
@@ -3238,14 +3238,14 @@ waardevol - cenny
 waargebeurd - prawdziwy
 waarheid - prawda
 waarlijk - naprawdę
-waarnemer - obserwator | reprezentant
+waarnemer - obserwator, reprezentant
 waarning - ostrzeżenie
-waarom - dlaczego | czemu
-waarover - o czym? o którym? (w miejsce "over wat?" i "over welk?") | o czym | o którym (w miejsce "over wat", "over hetwelk" i "over dewelke")
-waarschijnlijk - prawdopodobny | prawdopodobnie
+waarom - dlaczego, czemu
+waarover - o czym? o którym? (w miejsce "over wat?" i "over welk?"), o czym, o którym (w miejsce "over wat", "over hetwelk" i "over dewelke")
+waarschijnlijk - prawdopodobny, prawdopodobnie
 waarschuwing - ostrzeżenie
 wachtwoord - hasło
-wagen - wóz | fura | furmanka | ośmielić się | odważyć się | śmieć | ryzykować | zaryzykować
+wagen - wóz, fura, furmanka, ośmielić się, odważyć się, śmieć, ryzykować, zaryzykować
 Wales - Walia
 walnoot - orzech włoski
 walrus - mors
@@ -3253,14 +3253,14 @@ walvis - wieloryb
 wandelen - spacerować
 wanhoop - rozpacz
 wanneer - gdy
-want - rękawiczka z jednym palcem | wanta | bo | ponieważ
+want - rękawiczka z jednym palcem, wanta, bo, ponieważ
 wapen - broń
 wapenkunde - heraldyka
 wapenstilstand - rozejm
 Warschau - Warszawa
 wasbak - umywalka
 wasbeer - szop
-wassen - myć | czyścić
+wassen - myć, czyścić
 wastafel - umywalka
 wat - co
 water - woda
@@ -3271,16 +3271,16 @@ waterstof - wodór
 waterval - wodospad
 watt - wat
 we - nieakcentowana forma zaimka "wij" - my
-wederom - ponownie | znowu
+wederom - ponownie, znowu
 wedijveren - rywalizować
 weduwe - wdowa
 week - tydzień
 weekend - weekend
-weer - znowu | jeszcze raz | pogoda
+weer - znowu, jeszcze raz, pogoda
 weerkunde - meteorologia
 weerwolf - wilkołak
-weg - droga | trasa
-wegen - ważyć | od weg
+weg - droga, trasa
+wegen - ważyć, od weg
 weigering - odmowa
 weit - pszenica
 wekker - budzik
@@ -3291,7 +3291,7 @@ weldoener - dobroczyńca
 wel eens - sporadycznie
 welgang - sukces
 wellevendheid - uprzejmość
-wenen - płakać | łkać
+wenen - płakać, łkać
 Wenen - Wiedeń
 wenkbrauw - brew
 wenselijk - pożądany
@@ -3299,20 +3299,20 @@ wereld - świat
 werelddeel - kontynent
 wereldzee - ocean
 werk - praca
-werkelijk - prawdziwy | rzeczywiście
+werkelijk - prawdziwy, rzeczywiście
 werkelijkheid - rzeczywistość
-werken - pracować | werk
+werken - pracować, werk
 werker - pracownik
 werkloos - bezrobotny
 werkplaats - warsztat
 werktuig - narzędzie
 werkwoord - czasownik
-werpen - rzucać | ciskać | miotać
+werpen - rzucać, ciskać, miotać
 wers - gorzej
 Westelijke Sahara - Sahara Zachodnia
 westen - zachód
 weten - wiedzieć
-wetenschap - nauka | wiedza
+wetenschap - nauka, wiedza
 wetgeving - ustawodawstwo
 wettelijk - prawny
 wezel - łasica
@@ -3327,19 +3327,19 @@ wijsvinger - palec wskazujący
 wijten - obwiniać
 Wikipedia - Wikipedia
 wilg - wierzba
-willekeurig - arbitralny | przypadkowy
+willekeurig - arbitralny, przypadkowy
 willen - chcieć
 wimper - rzęsa
-wind - wiatr | wiatry | wzdęcia
+wind - wiatr, wiatry, wzdęcia
 windmolen - wiatrak
 winkel - sklep
-winnen - wygrać | zwyciężyć
+winnen - wygrać, zwyciężyć
 winstgevend - korzystny
 winter - zima
 wiskunde - matematyka
 wiskundig - matematyczny
 wisselen - wymienić
-wit - biały | legalny
+wit - biały, legalny
 Wit-Rusland - Białoruś
 wodka - wódka
 woensdag - środa
@@ -3351,26 +3351,26 @@ wolk - chmura
 wolkenkrabber - wieżowiec
 wonder - cud
 wondervol - cudowny
-woonkamer - pokój gościnny | duży pokój
-woord - słowo | wyraz
+woonkamer - pokój gościnny, duży pokój
+woord - słowo, wyraz
 woordenboek - słownik
 worgen - dusić
 worm - robak
 worst - kiełbasa
 worstelaar - zapaśnik
-wortel - korzeń (rośliny;  ) | marchew | pierwiastek
+wortel - korzeń (rośliny;  ), marchew, pierwiastek
 wortelstok - kłącze
-woud - las | dżungla
-wraak - zemsta | wraken
+woud - las, dżungla
+wraak - zemsta, wraken
 wreed - okrutny
 wreker - mściciel
-wrijven - trzeć | rozcierać
+wrijven - trzeć, rozcierać
 xenon - ksenon
 ytterbium - iterb
 yttrium - itr
-zacht - miękki | delikatny
+zacht - miękki, delikatny
 zachtmoedig - łagodny
-zakkenroller - kieszonkowiec | złodziej kieszonkowy
+zakkenroller - kieszonkowiec, złodziej kieszonkowy
 zaklamp - latarka
 zalm - łosoś
 zand - piasek
@@ -3382,7 +3382,7 @@ zeegras - wodorost
 zeep - mydło
 zeeschelp - muszla
 zegenen - błogosławić
-zeggen - mówić | powiedzieć
+zeggen - mówić, powiedzieć
 zeis - kosa
 zelden - rzadko
 zeldzaamheid - rzadkość
@@ -3392,30 +3392,30 @@ zelfstandig naamwoord - rzeczownik
 zenden - wysyłać
 zending - misja
 zenit - zenit
-zes - sześć | 6
+zes - sześć, 6
 zesde - szósty
-zesendertig - trzydzieści sześć | 36
-zesennegentig - dziewięćdziesiąt sześć | 96
-zesentachtig - osiemdziesiąt sześć | 86
-zesentwintig - dwadzieścia sześć | 26
-zesenveertig - czterdzieści sześć | 46
-zesenvijftig - pięćdziesiąt sześć | 56
-zesenzestig - sześćdziesiąt sześć | 66
-zesenzeventig - siedemdziesiąt sześć | 76
+zesendertig - trzydzieści sześć, 36
+zesennegentig - dziewięćdziesiąt sześć, 96
+zesentachtig - osiemdziesiąt sześć, 86
+zesentwintig - dwadzieścia sześć, 26
+zesenveertig - czterdzieści sześć, 46
+zesenvijftig - pięćdziesiąt sześć, 56
+zesenzestig - sześćdziesiąt sześć, 66
+zesenzeventig - siedemdziesiąt sześć, 76
 zestien - szesnaście
 zestiende - szesnasty
-zestig - sześćdziesiąt | 60
+zestig - sześćdziesiąt, 60
 zestigste - szesnasty
-zeven - siedem | 7
+zeven - siedem, 7
 zevende - siódmy
-zevenendertig - trzydzieści siedem | 37
-zevenennegentig - dziewięćdziesiąt siedem | 97
-zevenentachtig - osiemdziesiąt siedem | 87
-zevenentwintig - dwadzieścia siedem | 27
-zevenenveertig - czterdzieści siedem | 47
-zevenenvijftig - pięćdziesiąt siedem | 57
-zevenenzestig - sześćdziesiąt siedem | 67
-zevenenzeventig - siedemdziesiąt siedem | 77
+zevenendertig - trzydzieści siedem, 37
+zevenennegentig - dziewięćdziesiąt siedem, 97
+zevenentachtig - osiemdziesiąt siedem, 87
+zevenentwintig - dwadzieścia siedem, 27
+zevenenveertig - czterdzieści siedem, 47
+zevenenvijftig - pięćdziesiąt siedem, 57
+zevenenzestig - sześćdziesiąt siedem, 67
+zevenenzeventig - siedemdziesiąt siedem, 77
 zeventien - siedemnaście
 zeventiende - siedemnasty
 zeventig - siedemdziesiąt
@@ -3429,7 +3429,7 @@ zien - widzieć
 ziener - prorok
 ziften - przesiewać
 zij - jedwab
-zijn - być | iść gdzieś z zamiarem szybkiego powrotu | równać się (tylko w 3. os. l. poj.) | być następnym w kolejce do czegoś | jego
+zijn - być, iść gdzieś z zamiarem szybkiego powrotu, równać się (tylko w 3. os. l. poj.), być następnym w kolejce do czegoś, jego
 zijner - jego
 zilver - srebro
 Zimbabwe - Zimbabwe
@@ -3441,10 +3441,10 @@ zirkonium - cyrkon
 zitten - siedzieć
 zitting - spotkanie
 z'n - nieakcentowana forma zaimka "zijn" - jego
-zoeken - szukać | poszukiwać
+zoeken - szukać, poszukiwać
 zoenen - całować
 zoet - słodki
-zomer - lato | zomeren
+zomer - lato, zomeren
 zomp - bagno
 zon - słońce
 Zon - Słońce
@@ -3471,14 +3471,14 @@ Zuid-Amerika - Ameryka Południowa
 zuidelijk - południowy
 Zuid-Korea - Korea Południowa
 Zuid-Soedan - Sudan Południowy
-zuigeling - niemowlę | noworodek
+zuigeling - niemowlę, noworodek
 zuring - szczaw
 zus - siostra
 zuster - siostra
-zuur - kwaśny | kwas
+zuur - kwaśny, kwas
 zuurstof - tlen
 zwaan - łabędź
-zwaar - ciężki | mocny
+zwaar - ciężki, mocny
 zwaard - miecz
 zwager - szwagier
 zwakte - słabość
@@ -3496,8 +3496,8 @@ zwemmen - pływać
 zwendelen - oszukiwać
 zwenken - obracać
 zweten - pocić się
-zweven - szybować | unosić się
+zweven - szybować, unosić się
 zwijn - świnia
 zwinden - zniknąć
 Zwitserland - Szwajcaria
-ZZW - SSW | pd.-pd.-zach. | południowy południowy zachód
+ZZW - SSW, pd.-pd.-zach., południowy południowy zachód

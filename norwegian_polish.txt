@@ -1,31 +1,31 @@
-å - rzeczka | strumyk
+å - rzeczka, strumyk
 abbed - opat
 abbedi - opactwo
 abbedisse - przeorysza
 abbor - okoń
 abc-bok - elementarz (książka)
 abdisere - abdykować
-abnorm - nienormalny | nieprawidłowy
-abort - poronienie | aborcja
-absolutt - absolutny | absolutnie | zdecydowanie | koniecznie | naprawdę
+abnorm - nienormalny, nieprawidłowy
+abort - poronienie, aborcja
+absolutt - absolutny, absolutnie, zdecydowanie, koniecznie, naprawdę
 abstraksjon - abstrakcja
-abstrakt - abstrakcyjny | rzeczownik abstrakcyjny
-absurd - absurdalny | absurdalnie
-absurditet - absurdalność | absurd
+abstrakt - abstrakcyjny, rzeczownik abstrakcyjny
+absurd - absurdalny, absurdalnie
+absurditet - absurdalność, absurd
 adferd - zachowanie
-adgang - wejście | wstęp | dostęp
+adgang - wejście, wstęp, dostęp
 adjektiv - przymiotnik
 adjø - żegnaj!
-adlyde - słuchać (się) | być posłusznym
-administrator - administrator | zarządca
+adlyde - słuchać (się), być posłusznym
+administrator - administrator, zarządca
 admiral - admirał
 adopsjon - adopcja
-adoptere - adoptować | przyjmować
+adoptere - adoptować, przyjmować
 adressat - adresat
 adresse - adres
 adressere - adresować
-advare - ostrzegać | przestrzegać
-advarsel - przestroga | ostrzeżenie
+advare - ostrzegać, przestrzegać
+advarsel - przestroga, ostrzeżenie
 adverb - przysłówek
 advokat - adwokat
 ærgjerrig - ambitny
@@ -36,14 +36,14 @@ advokat - adwokat
 ættegransker - genealog
 afghaner - Afgańczyk
 Afghanistan - Afganistan
-afghansk - afgański | afganistański
+afghansk - afgański, afganistański
 Afrika - Afryka
-afrikaner - Afrykanin | mieszkaniec Afryki
+afrikaner - Afrykanin, mieszkaniec Afryki
 afrikansk - afrykański
 aften - wieczór
 agent - agent
-agentur - agencja | przedstawicielstwo
-agg - uraza | złość
+agentur - agencja, przedstawicielstwo
+agg - uraza, złość
 aggresjon - agresja
 aggressiv - agresywny
 aggressivitet - agresywność
@@ -51,9 +51,9 @@ agn - przynęta
 agurk - ogórek
 åk - jarzmo
 akademisk - akademicki
-ake - jeździć | zjeżdżać
+ake - jeździć, zjeżdżać
 åker - pole
-akkurat - dokładnie | właśnie
+akkurat - dokładnie, właśnie
 aks - kłos
 akse - oś
 aksent - akcent
@@ -80,26 +80,26 @@ algoritme - algorytm
 alkohol - alkohol
 alkoholfri - bezalkoholowy
 alkoholiker - alkoholik
-all - cały | wszystek
-alle - wszyscy | wszystkie
+all - cały, wszystek
+alle - wszyscy, wszystkie
 allé - aleja
 allerede - już
 alltid - zawsze
 allting - wszystko
-alminnelig - powszechny | częsty | popularny | zwyczajny
-almisse - jałmużna | datek
+alminnelig - powszechny, częsty, popularny, zwyczajny
+almisse - jałmużna, datek
 alpelue - beret
 Alpene - Alpy
-alt - wszystko | już
+alt - wszystko, już
 alter - ołtarz
-alternativ - alternatywa | alternatywny
-altfor - zbyt | za
+alternativ - alternatywa, alternatywny
+altfor - zbyt, za
 altså - więc
 alvor - powaga
-alvorlig - poważny | poważnie
+alvorlig - poważny, poważnie
 ambassade - ambasada
 ambassadør - ambasador
-ambulanse - ambulans | karetka
+ambulanse - ambulans, karetka
 åme - gąsienica
 Amerika - Ameryka
 amerikaner - Amerykanin
@@ -116,13 +116,13 @@ andestjert - kaczy kuper
 andrik - kaczor
 angre - żałować
 angrep - atak
-angripe - atakować | napadać
-angst - strach | lęk
+angripe - atakować, napadać
+angst - strach, lęk
 ankel - kostka (u nogi)
-ankomst - przybycie | przyjazd
-annen - drugi | inny
-annenhver - co drugi | co dwa
-annerledes - inny | inaczej
+ankomst - przybycie, przyjazd
+annen - drugi, inny
+annenhver - co drugi, co dwa
+annerledes - inny, inaczej
 ansette - zatrudniać
 ansikt - twarz
 anstøt - przestępstwo
@@ -130,7 +130,7 @@ ansvar - odpowiedzialność
 ansvarlig - odpowiedzialny
 antageligvis - prawdopodobnie
 antakeligvis - prawdopodobnie
-antall - liczba | ilość
+antall - liczba, ilość
 antenne - antena
 ape - małpa
 åpne - otwierać
@@ -143,7 +143,7 @@ aprikossyltetøy - dżem morelowy
 april - kwiecień
 år - rok
 araber - Arab
-arabisk - arabski | arabski (język)
+arabisk - arabski, arabski (język)
 aragonesisk - aragoński
 arameisk - aramejski
 arbeid - praca
@@ -157,28 +157,28 @@ areal - powierzchnia
 Argentina - Argentyna
 argentiner - Argentyńczyk
 argentinsk - argentyński
-århundre - wiek | stulecie
+århundre - wiek, stulecie
 arkitekt - architekt
 arkitektur - architektura
-arm - ramię | ręka
-armbånd - bransoleta | bransoletka
+arm - ramię, ręka
+armbånd - bransoleta, bransoletka
 armbåndsur - zegarek na rękę
-armensk - armeński | ormiański
+armensk - armeński, ormiański
 armhule - pacha
 arr - blizna
 arrestere - aresztować
-artikkel - artykuł | rodzajnik | przedimek
+artikkel - artykuł, rodzajnik, przedimek
 artritt - artretyzm
-årtusen - tysiąclecie | millenium
+årtusen - tysiąclecie, millenium
 arvelig - dziedziczny
-aserbajdsjansk - azerski | azerbejdżański
+aserbajdsjansk - azerski, azerbejdżański
 Asia - Azja
 aske - popiół
 askebeger - popielniczka
 askepott - kopciuszek
 Askepott - Kopciuszek
 astat - astat
-asterisk - gwiazdka | asterysk
+asterisk - gwiazdka, asterysk
 astma - astma
 asturiansk - asturyjski
 at - że
@@ -186,23 +186,23 @@ ateisme - ateizm
 ateistisk - ateistyczny
 atmosfære - atmosfera
 åtsel - padlina
-atsjo - apsik! | a psik!
-åtte - osiem | eie
+atsjo - apsik!, a psik!
+åtte - osiem, eie
 atten - osiemnaście
 attende - osiemnasty
 åttende - ósmy
 åtti - osiemdziesiąt
 åttiende - osiemdziesiąty
 august - sierpień
-av - z | ze
+av - z, ze
 avholdsmann - abstynent
 avis - gazeta
-avlegge - składać | złożyć
+avlegge - składać, złożyć
 avstand - odległość
-avtale - umowa | kontrakt | traktat
-bacon - bekon | boczek
-bad - kąpiel | łazienka
-bade - kąpać | kąpać się
+avtale - umowa, kontrakt, traktat
+bacon - bekon, boczek
+bad - kąpiel, łazienka
+bade - kąpać, kąpać się
 badedrakt - kostium kąpielowy
 badekar - wanna
 badetøy - kostium kąpielowy
@@ -216,70 +216,70 @@ baker - piekarz
 bakeri - piekarnia
 bakfra - z tyłu
 bakgrunn - tło
-bakke - wzgórze | ziemia
+bakke - wzgórze, ziemia
 bakterie - bakteria
 bål - ognisko
 balkong - balkon
-ball - piłka | bal
+ball - piłka, bal
 ballett - balet
 ballong - balon
 Baltica - Bałtyka
 bamse - miś (zabawka)
 banan - banan
-bånd - taśma | wstążka | smycz
+bånd - taśma, wstążka, smycz
 bandasje - bandaż
 bank - bank
-banke - pukać | stukać
-banne - kląć | przeklinać
+banke - pukać, stukać
+banne - kląć, przeklinać
 barberblad - żyletka
-barbere - golić | golić się
+barbere - golić, golić się
 barberkniv - brzytwa
-barbermaskin - maszynka do golenia (elektryczna) | golarka (elektryczna)
+barbermaskin - maszynka do golenia (elektryczna), golarka (elektryczna)
 bare - tylko
-barføtt - bosy | boso
+barføtt - bosy, boso
 bark - kora
 barn - dziecko
 barndom - dzieciństwo
-barnebarn - wnuk | wnuczka
+barnebarn - wnuk, wnuczka
 barnehage - przedszkole
 barnevogn - wózek dziecięcy
-barnslig - dziecinny | dziecinnie
-barokk - barok | barokowy
+barnslig - dziecinny, dziecinnie
+barokk - barok, barokowy
 bart - wąsy
 baskisk - baskijski
-båt - łódka | łódź | statek
-batteri - bateria | akumulator
+båt - łódka, łódź, statek
+batteri - bateria, akumulator
 bavian - pawian
-be - prosić | modlić się | zapraszać
-bebreide - wyrzucać | robić wyrzuty
+be - prosić, modlić się, zapraszać
+bebreide - wyrzucać, robić wyrzuty
 bebreidelse - wyrzut
 bedøve - znieczulać
-bedøvelse - znieczulenie | narkoza
-bedra - oszukiwać | zdradzać
+bedøvelse - znieczulenie, narkoza
+bedra - oszukiwać, zdradzać
 bedrager - oszust
-bedre - god – lepszy | polepszać | poprawiać | polepszać się | poprawiać się
+bedre - god – lepszy, polepszać, poprawiać, polepszać się, poprawiać się
 befinne seg - znajdować się
 befolke - zaludniać
-befolkning - ludność | mieszkańcy
+befolkning - ludność, mieszkańcy
 befri - uwalniać
 befrukte - zapładniać
 befruktning - zapłodnienie
 begå - popełniać
 begavelse - talent
 beger - kielich
-begge - obaj | obydwaj
+begge - obaj, obydwaj
 begivenhet - wydarzenie
-begjær - żądza | pożądanie
+begjær - żądza, pożądanie
 begjære - pożądać
-begrave - chować | grzebać
+begrave - chować, grzebać
 begravelse - pogrzeb
-begrep - pojęcie | termin
-begynne - zaczynać | zaczynać się
+begrep - pojęcie, termin
+begynne - zaczynać, zaczynać się
 begynnelse - początek
-behå - stanik | biustonosz
+behå - stanik, biustonosz
 behov - potrzeba
 behøve - potrzebować
-bein - kość | noga
+bein - kość, noga
 bekken - miednica
 bekrefte - potwierdzać
 bekreftelse - potwierdzenie
@@ -293,64 +293,64 @@ benk - ławka
 bensin - benzyna
 bensinkanne - kanister (na benzynę)
 bensinstasjon - stacja benzynowa
-berømt - sławny | słynny
+berømt - sławny, słynny
 beruset - nietrzeźwy
 beskrive - opisywać
-beskrivelse - opis | rysopis
-besøk - odwiedziny | wizyta
+beskrivelse - opis, rysopis
+besøk - odwiedziny, wizyta
 besøke - odwiedzać
-best - najlepszy | najlepiej
+best - najlepszy, najlepiej
 bestå - składać się
 bestefar - dziadek
 besteforeldre - dziadkowie
-bestemme - decydować | postanawiać
+bestemme - decydować, postanawiać
 bestemor - babcia
 bestille - zamawiać
 besvime - mdleć
 betale - płacić
-betegne - oznaczać | wyrażać określoną treść
+betegne - oznaczać, wyrażać określoną treść
 betennelse - zapalenie
-bety - znaczyć | oznaczać
+bety - znaczyć, oznaczać
 betydning - znaczenie
 betydningsfull - ważny
 beundre - podziwiać
 bevegelse - ruch
 bever - bóbr
 bevis - dowód
-bevise - udowadniać | dowodzić
+bevise - udowadniać, dowodzić
 bibliotek - biblioteka
 bie - pszczoła
 bihule - zatoka
 bikkje - pies
 bikube - ul
 bil - samochód
-bilde - zdjęcie | obraz | obrazek
+bilde - zdjęcie, obraz, obrazek
 bildekk - opona samochodowa
 bilist - kierowca
 billett - bilet
-billig - tani | tanio
-bind - podpaska | opaska | przepaska | temblak | tom
+billig - tani, tanio
+bind - podpaska, opaska, przepaska, temblak, tom
 binde - przywiązywać
 binders - spinacz
 biolog - biolog
 biologi - biologia
 biologisk - biologiczny
-bite - gryźć | obgryzać
+bite - gryźć, obgryzać
 bjeffe - szczekać
 bjørk - brzoza
 bjørn - niedźwiedź
 bjørnebær - jeżyna
-blå - niebieski | błękitny
+blå - niebieski, błękitny
 blåbær - jagoda (czarna)
-blad - liść | ostrze | czasopismo | magazyn | kartka
-blære - pęcherz | dętka
-blant - wśród | pośród
+blad - liść, ostrze, czasopismo, magazyn, kartka
+blære - pęcherz, dętka
+blant - wśród, pośród
 ble - bli
 blekk - atrament
 blekksprut - ośmiornica
 blemme - pęcherz
-bli - zostawać | robić się | stawać się | być
-blind - ślepy | niewidomy
+bli - zostawać, robić się, stawać się, być
+blind - ślepy, niewidomy
 blod - krew
 blodgiver - krwiodawca
 blodkar - naczynie krwionośne
@@ -366,7 +366,7 @@ blyant - ołówek
 blyg - nieśmiały
 bo - mieszkać
 bøddel - kat
-bok - książka | księga | buk
+bok - książka, księga, buk
 bøk - buk
 bøker - bok
 bokhandel - księgarnia
@@ -376,22 +376,22 @@ bokstav - litera
 bølgelengde - długość fali
 bolig - mieszkanie
 Bolivia - Boliwia
-bombe - bomba | bombardować
+bombe - bomba, bombardować
 bomull - bawełna
 bomullsplantasje - plantacja bawełny
-bonde - chłop | pionek
+bonde - chłop, pionek
 bønder - bonde
 bønn - modlitwa
-bor - wiertło | bor
+bor - wiertło, bor
 bord - stół
 boremaskin - wiertarka
 borgerkrig - wojna domowa
 børs - giełda
 Bosnia - Bośnia
 bosnier - Bośniak
-bosnisk - bośniacki | bośniacki (język)
+bosnisk - bośniacki, bośniacki (język)
 bøtte - wiadro
-bøye - boja | odmieniać
+bøye - boja, odmieniać
 bråk - hałas
 brann - pożar
 brannbil - wóz strażacki
@@ -403,7 +403,7 @@ bre - lodowiec
 bred - szeroki
 bredde - szerokość
 bretonsk - bretoński
-brett - deska | taca
+brett - deska, taca
 brev - list
 brille - okulary
 briller - brille
@@ -412,15 +412,15 @@ bringebær - malina
 bringebærsyltetøy - dżem malinowy
 brite - Brytyjczyk
 britisk - brytyjski
-bro - most | mostek
-brød - chleb | bochenek chleba
+bro - most, mostek
+brød - chleb, bochenek chleba
 brodd - żądło
 bronkie - oskrzele
 brønn - studnia
 bror - brat
-brorskap - braterstwo | bractwo
+brorskap - braterstwo, bractwo
 bru - most
-bruke - używać | wydawać | nosić | zwykle coś robić
+bruke - używać, wydawać, nosić, zwykle coś robić
 bruker - użytkownik
 brun - brązowy
 brunbjørn - niedźwiedź brunatny
@@ -428,11 +428,11 @@ bryllup - ślub
 bryllupsnatt - noc poślubna
 bryllupsreise - podróż poślubna
 bryn - brew
-bryst - pierś | klatka piersiowa
+bryst - pierś, klatka piersiowa
 brystbein - mostek
-brystholder - biustonosz | stanik
+brystholder - biustonosz, stanik
 brystkreft - rak piersi
-bud - wieść | wiadomość | posłaniec
+bud - wieść, wiadomość, posłaniec
 Buddha - Budda
 buddhisme - buddyzm
 buddhist - buddysta
@@ -446,14 +446,14 @@ bukspyttkjertel - trzustka
 buktaler - brzuchomówca
 bulgarer - Bułgar
 Bulgaria - Bułgaria
-bulgarsk - bułgarski | bułgarski (język)
+bulgarsk - bułgarski, bułgarski (język)
 bulgur - bulgur
 bumerang - bumerang
 bunn - dno
 bur - klatka
 burde - powinien
 Burkina Faso - Burkina Faso
-busk - krzak | krzew
+busk - krzak, krzew
 buss - autobus
 butikk - sklep
 by - miasto
@@ -461,25 +461,25 @@ bygg - jęczmień
 bygge - budować
 bygning - budynek
 byråkrati - biurokracja
-ca. - około | ok.
+ca. - około, ok.
 Canada - Kanada
-celle - komórka | cela
+celle - komórka, cela
 centimeter - centymetr
 champagne - szampan
 chassis - podwozie
 cirka - około
 Columbus - Kolumb (odkrywca)
-da - wtedy | kiedy | gdy
+da - wtedy, kiedy, gdy
 dachs - jamnik
 daddel - daktyl
 dag - dzień
 dagblad - dziennik
-dagbok - dziennik | pamiętnik
-dagdriver - obibok | bumelant | wałkoń | próżniak
+dagbok - dziennik, pamiętnik
+dagdriver - obibok, bumelant, wałkoń, próżniak
 dagsavis - dziennik
 dagsnytt - wiadomości
 dal - dolina
-dam - tama | zapora | staw | warcaby | damka
+dam - tama, zapora, staw, warcaby, damka
 dambrett - plansza do gry w warcaby
 dameblad - czasopismo dla kobiet
 damefrisør - fryzjer damski
@@ -487,11 +487,11 @@ damp - para
 dampskip - parowiec
 dampveivals - walec (drogowy)
 Danmark - Dania
-danne - tworzyć | powstawać
+danne - tworzyć, powstawać
 dans - taniec
 danse - tańczyć
-danser - tancerz | tancerka
-dansk - duński | duński (język)
+danser - tancerz, tancerka
+dansk - duński, duński (język)
 danske - Duńczyk
 dårlig - zły
 data - dane
@@ -501,23 +501,23 @@ dataorm - robak komputerowy
 dataspill - gra komputerowa
 dato - data
 datter - córka
-de - oni | one | tamci | tamte | ci | te
+de - oni, one, tamci, tamte, ci, te
 definisjon - definicja
 De forente stater - Stany Zjednoczone
-deg - ciebie | cię
+deg - ciebie, cię
 deig - ciasto
-deilig - wspaniały | cudowny | wspaniale | cudownie
-dekk - pokład | opona
+deilig - wspaniały, cudowny, wspaniale, cudownie
+dekk - pokład, opona
 dekke - przykrywać
 del - część
 dele - dzielić
 delfin - delfin
-delta - delta | uczestniczyć | brać udział
-deltakelse - uczestnictwo | współczucie
-deltaker - uczestnik | uczestniczka
+delta - delta, uczestniczyć, brać udział
+deltakelse - uczestnictwo, współczucie
+deltaker - uczestnik, uczestniczka
 deltid - niepełny wymiar godzin
-delvis - częściowy | częściowo | po części
-dem - ich | oni | one
+delvis - częściowy, częściowo, po części
+dem - ich, oni, one
 demning - tama
 demokrat - demokrata
 demokrati - demokracja
@@ -526,21 +526,21 @@ demokratisk - demokratyczny
 demon - demon
 demonisk - demoniczny
 demonstrant - demonstrant
-den - tamten | tamta | tamto | ten | ta | to
+den - tamten, tamta, tamto, ten, ta, to
 Den dominikanske republikk - Dominikana
 den gang - wtedy
-denne - ten | ta | to
+denne - ten, ta, to
 deodorant - dezodorant
 depresjon - depresja
-deprimert - przygnębiony | załamany | w depresji
+deprimert - przygnębiony, załamany, w depresji
 der - tam
-dere - wy | was
-deres - wasz | ich | swój
+dere - wy, was
+deres - wasz, ich, swój
 deretter - potem (a)
 derfor - dlatego
 derfra - stamtąd
 derimot - lecz
-dersom - jeżeli | jeśli
+dersom - jeżeli, jeśli
 desember - grudzień
 desertere - dezerterować
 desertering - dezercja
@@ -548,10 +548,10 @@ desertør - dezerter
 dessert - deser
 dessuten - poza tym
 dessverre - niestety
-det - to | ten | ta | tamten | tamta | tamto
+det - to, ten, ta, tamten, tamta, tamto
 detalj - szczegół
 detektiv - detektyw
-dette - ten | ta | to
+dette - ten, ta, to
 diabetes - cukrzyca
 diagnose - diagnoza
 Diakon - diakon
@@ -559,20 +559,20 @@ dialekt - dialekt
 dialog - dialog
 diamant - diament
 diameter - średnica
-diaré - biegunka | rozwolnienie
+diaré - biegunka, rozwolnienie
 diett - dieta
 dikt - wiersz
 dikter - poeta
-dill - koper | koperek
-din - twój | swój
+dill - koper, koperek
+din - twój, swój
 diplom - dyplom
 diplomat - dyplomata
-disse - ci | te
+disse - ci, te
 djevel - diabeł
 dø - umierać
 dobbel - podwójny
 doble - podwajać
-død - śmierć | martwy | nieżywy
+død - śmierć, martwy, nieżywy
 dødninghode - trupia czaszka
 dødsstraff - kara śmierci
 døgn - doba
@@ -585,16 +585,16 @@ dose - dawka
 døtre - datter
 døtrer - datter
 døv - głuchy
-drage - latawiec | smok
+drage - latawiec, smok
 drakk - drikke
 drap - zabójstwo
-dråpe - kropla | krople
+dråpe - kropla, krople
 dreiebenk - tokarka
 dreier - tokarz
 drepe - zabijać
 drikke - pić
 drivstoff - paliwo
-drømme - śnić | marzyć
+drømme - śnić, marzyć
 dronning - królowa
 drosje - taksówka
 drosjesjåfør - taksówkarz
@@ -602,7 +602,7 @@ drue - winogrono
 drukket - drikke
 du - ty
 due - gołąb
-duft - woń | zapach
+duft - woń, zapach
 duge - nadawać się
 dugg - rosa
 duk - obrus
@@ -612,7 +612,7 @@ dumhet - głupota
 dusj - prysznic
 dyne - kołdra
 dyp - głęboki
-dyr - zwierzę | drogi
+dyr - zwierzę, drogi
 dyrefett - tłuszcz zwierzęcy
 dyreplankton - zooplankton
 ed - przysięga
@@ -624,18 +624,18 @@ edru - trzeźwy
 eføy - bluszcz
 egen - własny
 egennavn - nazwa własna
-egenskap - cecha | właściwość
-egentlig - właściwy | prawdziwy | właściwie | naprawdę (tak)
-egg - jajko | jajo | ostrze
+egenskap - cecha, właściwość
+egentlig - właściwy, prawdziwy, właściwie, naprawdę (tak)
+egg - jajko, jajo, ostrze
 eggeglass - kieliszek do jajek
 eggehvite - białko (jajka)
 eggeplomme - żółtko (jajka)
 eggerøre - jajecznica
 eggleder - jajowód
 eggstokk - jajnik
-eie - posiadać | być właścicielem
+eie - posiadać, być właścicielem
 eiendomspronomen - zaimek dzierżawczy
-eier - właściciel | posiadacz
+eier - właściciel, posiadacz
 eik - dąb
 eikenøtt - żołądź
 ekko - echo
@@ -645,7 +645,7 @@ eksaminator - egzaminator
 eksaminere - egzaminować
 eksempel - przykład
 eksperiment - eksperyment
-eksplodere - wybuchać | eksplodować
+eksplodere - wybuchać, eksplodować
 ektemann - mąż
 ekvilibrium - równowaga
 eldre - starszy
@@ -654,34 +654,34 @@ elefant - słoń
 elektrisitet - elektryczność
 elev - uczeń
 elg - łoś
-eller - albo | lub | czy
+eller - albo, lub, czy
 elleve - jedenaście
 ellevte - jedenasty
 El Salvador - Salwador
-elske - kochać | kochać się (uprawiać seks) | uwielbiać
+elske - kochać, kochać się (uprawiać seks), uwielbiać
 elv - rzeka
 Emilie - Emilia
 emne - temat
-en - jakiś | jakaś | jakieś | jeden | ktoś | człowiek
+en - jakiś, jakaś, jakieś, jeden, ktoś, człowiek
 ender - and
-endre - zmieniać | zmieniać się
+endre - zmieniać, zmieniać się
 energi - energia
 energisk - energiczny
 eneste - jedyny
 en for alle, alle for en - jeden za wszystkich, wszyscy za jednego
 eng - łąka
 engel - anioł
-engelsk - angielski | angielski (język) | angielszczyzna
+engelsk - angielski, angielski (język), angielszczyzna
 engelskmann - Anglik
 England - Anglia
 enke - wdowa
 enkemann - wdowiec
-enn - niż | od
+enn - niż, od
 ennå - jeszcze
 ensom - samotny
 ensomhet - samotność
 entall - liczba pojedyncza
-epilepsi - padaczka | epilepsja
+epilepsi - padaczka, epilepsja
 eple - jabłko
 epletre - jabłoń
 er - være
@@ -692,14 +692,14 @@ eske - pudełko
 eskimo - Eskimos
 esperanto - esperanto
 ester - Estończyk
-estisk - estoński | estoński (język)
+estisk - estoński, estoński (język)
 Estland - Estonia
-et - jakiś | jakaś | jakieś
+et - jakiś, jakaś, jakieś
 etasje - piętro
 ete - jeść
 etnisitet - narodowość
 etter - po
-ettermiddag - popołudnie | po południu
+ettermiddag - popołudnie, po południu
 etternavn - nazwisko
 etterpå - potem
 euro - euro
@@ -710,39 +710,39 @@ evig - wieczny
 evighet - wieczność
 evighetsmaskin - perpetuum mobile
 evolusjon - ewolucja
-få - dostawać | móc | niewiele | mało
+få - dostawać, móc, niewiele, mało
 fabrikk - fabryka
-Færøyene - Wyspy Owcze | Wyspy Farerskie
-færøying - Farerczyk | mieszkaniec Wysp Owczych
-færøysk - farerski | farerski (język)
+Færøyene - Wyspy Owcze, Wyspy Farerskie
+færøying - Farerczyk, mieszkaniec Wysp Owczych
+færøysk - farerski, farerski (język)
 færre - mniej
 færrest - få – najmniej
 falk - sokół
 fall - upadek
-falle - padać | spadać | upadać | przewracać się | opadać | wpadać | wypadać | przypadać | paść | polec
+falle - padać, spadać, upadać, przewracać się, opadać, wpadać, wypadać, przypadać, paść, polec
 fallos - penis
 falsk - fałszywy
 familie - rodzina
-fange - jeniec | więzień | łapać
+fange - jeniec, więzień, łapać
 far - ojciec
-fare - niebezpieczeństwo | jechać
-farge - kolor | barwa | farbować
+fare - niebezpieczeństwo, jechać
+farge - kolor, barwa, farbować
 fargeblind - być daltonistą
-farlig - niebezpieczny | groźny
+farlig - niebezpieczny, groźny
 farmasi - farmacja
 farmasøyt - farmaceuta
 farmor - babcia (ze strony ojca)
-fart - szybkość | prędkość | fare
-fattig - biedny | ubogi
-fattigdom - bieda | ubóstwo
+fart - szybkość, prędkość, fare
+fattig - biedny, ubogi
+fattigdom - bieda, ubóstwo
 feber - gorączka
 februar - luty
 fedreland - ojczyzna
 feier - kominiarz
 feig - tchórzliwy
 feighet - tchórzostwo
-feil - błąd | wina
-felle - pułapka | ścinać
+feil - błąd, wina
+felle - pułapka, ścinać
 felles - wspólny
 fem - pięć
 femte - piąty
@@ -753,7 +753,7 @@ femtiende - pięćdziesiąty
 fengsel - więzienie
 fengselscelle - cela więzienna
 ferge - prom
-ferie - wakacje | ferie | urlop
+ferie - wakacje, ferie, urlop
 ferje - prom
 fersken - brzoskwinia
 fest - zabawa
@@ -762,17 +762,17 @@ fiende - wróg
 fiendskap - wrogość
 fiendtlig - wrogi
 fiken - figa
-fil - pilnik | plik
+fil - pilnik, plik
 film - film
 filosof - filozof
 filosofi - filozofia
 filosofisk - filozoficzny
 finger - palec
 Finland - Finlandia
-finne - Fin | płetwa | znajdować | uważać (że)
-finnes - być | istnieć
-finsk - fiński | fiński (język)
-fintfølende - delikatny | wrażliwy
+finne - Fin, płetwa, znajdować, uważać (że)
+finnes - być, istnieć
+finsk - fiński, fiński (język)
+fintfølende - delikatny, wrażliwy
 fiolin - skrzypce
 fire - cztery
 firkløver - koniczyna czterolistna
@@ -785,7 +785,7 @@ fjær - pióro
 fjell - góra
 fjerde - czwarty
 fjerne - usuwać
-fjernsyn - telewizja | telewizor
+fjernsyn - telewizja, telewizor
 fjorten - czternaście
 fjortende - czternasty
 flagg - flaga
@@ -793,76 +793,76 @@ flaggermus - nietoperz
 flamme - płomień
 flaske - butelka
 flat - płaski
-flåte - tratwa | flota
+flåte - tratwa, flota
 flått - kleszcz
 flekk - plama
 flere - kilka
-flertall - większość | liczba mnoga
+flertall - większość, liczba mnoga
 flest - najwięcej ( mange)
 flodhest - hipopotam
-fløte - śmietana | śmietanka
+fløte - śmietana, śmietanka
 fløy - skrzydło
 flue - mucha
 fluesopp - muchomor
-fly - samolot | latać | lecieć | fruwać | frunąć
+fly - samolot, latać, lecieć, fruwać, frunąć
 flykte - uciekać
 flyplass - lotnisko
 flyselskap - linie lotnicze (przedsiębiorstwo)
 flytte - przeprowadzać się
-fødsel - poród | narodziny | urodzenie
+fødsel - poród, narodziny, urodzenie
 fødselsdagsselskap - przyjęcie urodzinowe
 fødselsdato - data urodzenia
 fold - fałda
 føle - czuć
 følelse - uczucie
 folkestyre - demokracja
-føll - źrebak | źrebię
+føll - źrebak, źrebię
 fontene - fontanna
-for - żeby | dla | za | jak na | na | przy | bo | zbyt | ale | co za | jaki | fare
-før - przed | zanim | kiedyś
+for - żeby, dla, za, jak na, na, przy, bo, zbyt, ale, co za, jaki, fare
+før - przed, zanim, kiedyś
 foran - przed
-forandre - zmieniać | zmieniać się
-forberede - przygotowywać | przygotowywać się
+forandre - zmieniać, zmieniać się
+forberede - przygotowywać, przygotowywać się
 forberedelse - przygotowanie
 forbrytelse - przestępstwo
 forbryter - przestępca
 forelder - rodzic
 førerkort - prawo jazdy
-forestille - wyobrażać | przedstawiać
-forestilling - przedstawienie | wyobrażenie | przekonanie
+forestille - wyobrażać, przedstawiać
+forestilling - przedstawienie, wyobrażenie, przekonanie
 foretrekke - woleć
-forfatter - autor | pisarz
+forfatter - autor, pisarz
 forferdelig - okropny
 forfølgelse - prześladowanie
-forgjeves - daremny | próżny | nadaremnie | daremnie | na próżno
+forgjeves - daremny, próżny, nadaremnie, daremnie, na próżno
 forkjølelse - przeziębienie
-forklare - wyjaśniać | objaśniać | tłumaczyć
-forklaring - wyjaśnienie | objaśnienie | wytłumaczenie
+forklare - wyjaśniać, objaśniać, tłumaczyć
+forklaring - wyjaśnienie, objaśnienie, wytłumaczenie
 forlag - wydawnictwo
 forlovelsesring - pierścionek zaręczynowy
-formiddag - przedpołudnie | przed południem
+formiddag - przedpołudnie, przed południem
 formørkelse - zaćmienie
 fornavn - imię
 fornøyd - zadowolony
-fornuft - rozum | rozsądek
-fornuftig - rozsądny | rozumny
+fornuft - rozum, rozsądek
+fornuftig - rozsądny, rozumny
 forræder - zdrajca
-forrige - zeszły | ubiegły | poprzedni
+forrige - zeszły, ubiegły, poprzedni
 forsikringsselskap - towarzystwo ubezpieczeniowe
-forsiktig - ostrożny | ostrożnie
-forsker - naukowiec | badacz
+forsiktig - ostrożny, ostrożnie
+forsker - naukowiec, badacz
 forskjell - różnica
-forskjellig - inny | różny | różni | różne
+forskjellig - inny, różny, różni, różne
 forsove seg - zaspać
-først - najpierw | na początku | z początku | dopiero
+først - najpierw, na początku, z początku, dopiero
 forstå - rozumieć
-forståelig - zrozumiały | zrozumiale
+forståelig - zrozumiały, zrozumiale
 første - pierwszy
-forstoppelse - zaparcie | zatwardzenie
+forstoppelse - zaparcie, zatwardzenie
 forsvar - obrona
-forsvare - bronić | bronić się
+forsvare - bronić, bronić się
 forsvinne - znikać
-fort - szybko | prędko
+fort - szybko, prędko
 fortau - chodnik
 fortauskant - krawężnik
 fortelle - opowiadać
@@ -871,17 +871,17 @@ fortid - przeszłość
 førtiende - czterdziesty
 forurense - zanieczyszczać
 forvaltning - administracja
-fot - stopa | noga
+fot - stopa, noga
 fotball - piłka nożna
 fotgjenger - pieszy
 fotgjengerfelt - przejście dla pieszych
 fotoapparat - aparat fotograficzny
 fotograf - fotograf
 fotografi - fotografia
-fra - z | od
+fra - z, od
 framtid - przyszłość
 Frankrike - Francja
-fransk - francuski | francuski (język)
+fransk - francuski, francuski (język)
 franskmann - Francuz
 fred - pokój
 fredag - piątek
@@ -889,11 +889,11 @@ fremmed - obcy
 fremmedspråk - język obcy
 fremtid - przyszłość
 fri - wolny
-frihet - wolność | swoboda
+frihet - wolność, swoboda
 friksjon - tarcie
 frimerke - znaczek pocztowy
 frimerkeserie - seria znaczków
-frisør - fryzjer | fryzjerka
+frisør - fryzjer, fryzjerka
 friste - kusić
 fristelse - pokusa
 frokost - śniadanie
@@ -905,7 +905,7 @@ fugl - ptak
 fuglebrett - karmnik (dla ptaków)
 fugleinfluensa - ptasia grypa
 fuktig - wilgotny
-full - pełny | pełen | pijany
+full - pełny, pełen, pijany
 furu - sosna
 furunål - igła sosnowa
 fylke - region administracyjny
@@ -914,9 +914,9 @@ fyrstikk - zapałka
 fyrtårn - latarnia morska
 fysiker - fizyk
 fysikk - fizyka
-gå - iść | chodzić | pójść | iść pieszo | chodzić pieszo | pójść pieszo
+gå - iść, chodzić, pójść, iść pieszo, chodzić pieszo, pójść pieszo
 gaffel - widelec
-gal - szalony | zwariowany
+gal - szalony, zwariowany
 gale - piać
 galehus - dom wariatów
 galge - szubienica
@@ -924,14 +924,14 @@ Galilea - Galilea (kraina)
 galle - żółć
 galleblære - woreczek żółciowy
 gallestein - kamień żółciowy
-galning - wariat | szaleniec
+galning - wariat, szaleniec
 galskap - szaleństwo
 gammel - stary
 gane - podniebienie
-gang - korytarz | przedpokój | raz
-gangsti - ścieżka | dróżka
-ganske - dość | dosyć
-går - gå | i går
+gang - korytarz, przedpokój, raz
+gangsti - ścieżka, dróżka
+ganske - dość, dosyć
+går - gå, i går
 garasje - garaż
 gardin - zasłona
 Gargantua - Gargantua
@@ -955,18 +955,18 @@ gi - dawać
 giftering - obrączka (ślubna)
 giftig - trujący
 gitar - gitara
-giver - dawca | ofiarodawca | darczyńca
+giver - dawca, ofiarodawca, darczyńca
 gjær - drożdże
 gjedde - szczupak
 gjeld - dług
 gjelle - skrzela
-gjemme - chować | chować się | kryć się
+gjemme - chować, chować się, kryć się
 gjennomsiktig - przezroczysty
-gjennomsnittlig - przeciętny | średni | przeciętnie | średnio
-gjenstand - przedmiot | obiekt
+gjennomsnittlig - przeciętny, średni, przeciętnie, średnio
+gjenstand - przedmiot, obiekt
 gjenta - powtarzać
 gjerde - płot
-gjerne - chętnie | z chęcią
+gjerne - chętnie, z chęcią
 gjespe - ziewać
 gjest - gość
 gjette - zgadywać
@@ -974,10 +974,10 @@ gjødsel - nawóz
 gjøk - kukułka
 gjøre - robić
 gladiator - gladiator
-glass - szkło | szyba | szklanka | kieliszek | lampka | słoik
-glatt - śliski | gładki | ślisko | gładko
-glede - radość | cieszyć | cieszyć się
-glemme - zapominać | zostawiać
+glass - szkło, szyba, szklanka, kieliszek, lampka, słoik
+glatt - śliski, gładki, ślisko, gładko
+glede - radość, cieszyć, cieszyć się
+glemme - zapominać, zostawiać
 glødelampe - żarówka
 gnager - gryzoń
 gnist - iskra
@@ -985,13 +985,13 @@ gnostisisme - gnostycyzm
 god - dobry
 god morgen - dzień dobry
 god natt - dobranoc
-godta - akceptować | godzić się
+godta - akceptować, godzić się
 godtroende - naiwny
 Godzilla - Godzilla
 gøy - śmieszny
-grå - szary | siwy
-grådig - chciwy | zachłanny
-grådighet - chciwość | zachłanność
+grå - szary, siwy
+grådig - chciwy, zachłanny
+grådighet - chciwość, zachłanność
 grafitt - grafit
 gran - świerk
 grapefrukt - grejpfrut
@@ -999,33 +999,33 @@ gras - trawa
 gråt - płacz
 gråte - płakać
 gratulere - gratulować
-grav - grób | mogiła | rów | dół | wykop
+grav - grób, mogiła, rów, dół, wykop
 grave - kopać
 gravemaskin - koparka
-gravid - w ciąży | ciężarna
+gravid - w ciąży, ciężarna
 gregoriansk - gregoriański
 greip - widły
 greker - Grek
 gren - gałąź
 grense - granica
-gresk - grecki | grecki (język) | greka
-gress - trawa | trawka
+gresk - grecki, grecki (język), greka
+gress - trawa, trawka
 gresshoppe - konik polny
 gresskar - dynia
 gressløk - szczypiorek
 gressplen - trawnik
 grevling - borsuk
 grille - grillować
-gripe - chwytać | łapać
+gripe - chwytać, łapać
 gripe på fersk gjerning - przyłapać na gorącym uczynku
 gris - świnia
 Grønland - Grenlandia
-grønlandsk - grenlandzki | grenlandzki (język)
+grønlandsk - grenlandzki, grenlandzki (język)
 grønlender - Grenlandczyk
 grønlending - Grenlandczyk
 grønn - zielony
 grønnsak - warzywo
-grunn - powód | płytki
+grunn - powód, płytki
 grunnstoff - pierwiastek
 grunntall - liczebnik główny
 grusom - okrutny
@@ -1034,41 +1034,41 @@ gryte - garnek
 gud - bóg
 gul - żółty
 gulag - gułag
-gull - złoto | złoty medal
-gulrot - marchew | marchewka
+gull - złoto, złoty medal
+gulrot - marchew, marchewka
 gulsott - żółtaczka
 gulv - podłoga
-gummi - guma | gumka
+gummi - guma, gumka
 gutt - chłopiec
 gyngehest - koń na biegunach
-ha - mieć | perfektum | pluskvamperfektum  presens futurum perfektum -
+ha - mieć, perfektum, pluskvamperfektum  presens futurum perfektum -
 ha de som plommen i egget - mieć jak u Pana Boga za piecem
-hæl - pięta | obcas
+hæl - pięta, obcas
 hage - ogród
 hai - rekin
 Haiti - Haiti
-hake - podbródek | broda
+hake - podbródek, broda
 hakkespett - dzięcioł
 hale - ogon
 halefinne - płetwa ogonowa
-hals - szyja | gardło | szyjka (butelki)
+hals - szyja, gardło, szyjka (butelki)
 halskjede - naszyjnik
-halte - kuleć | utykać
+halte - kuleć, utykać
 halvøy - półwysep
-ham - jego | go
+ham - jego, go
 hammer - młotek
 hamster - chomik
 han - on
 hånd - ręka
 håndledd - nadgarstek
 hane - kogut
-hang - skłonność | henge
+hang - skłonność, henge
 hangarskip - lotniskowiec
 hans - jego
-hanske - rękawica | rękawiczka
+hanske - rękawica, rękawiczka
 håp - nadzieja
 håpe - mieć nadzieję
-hår - włos | włosek | włosy
+hår - włos, włosek, włosy
 hard - twardy
 hare - zając
 hårnål - spinka do włosów
@@ -1078,20 +1078,20 @@ hastig - pospieszny
 hastighet - prędkość
 hat - nienawiść
 hate - nienawidzić
-hatt - kapelusz | ha
+hatt - kapelusz, ha
 hauk - jastrząb
-hav - morze | ocean
+hav - morze, ocean
 havn - port
 havre - owies
-hebraisk - hebrajski | hebrajski (język)
+hebraisk - hebrajski, hebrajski (język)
 hedning - poganin
 heis - winda
-hekk - żywopłot | płotek
+hekk - żywopłot, płotek
 heklenål - szydełko
 heks - czarownica
 hel - cały
 heldigvis - na szczęście
-helg - weekend | święto
+helg - weekend, święto
 helgen - święty
 helikopter - helikopter
 helium - hel
@@ -1099,23 +1099,23 @@ Hellas - Grecja
 hellig - święty
 helse - zdrowie
 helseskadelig - szkodliwy dla zdrowia
-helt - bohater | całkiem | całkowicie | zupełnie
-helvete - piekło | cholera! | do diabła! | piekło i szatani!
-hemmelig - tajny | tajemny
+helt - bohater, całkiem, całkowicie, zupełnie
+helvete - piekło, cholera!, do diabła!, piekło i szatani!
+hemmelig - tajny, tajemny
 hemmelighet - tajemnica
 hemolyse - hemoliza
 hende - zdarzać się
-henge - wisieć | wieszać | powiesić | zawiesić
-henne - ją | ona
+henge - wisieć, wieszać, powiesić, zawiesić
+henne - ją, ona
 hennes - jej
-hente - przynosić | odbierać
+hente - przynosić, odbierać
 her - tutaj
 herfra - stąd
 her ligger hunden begravet - tu leży pies pogrzebany
 herrefrisør - fryzjer męski
 hersker - władca
 hertuginne - księżna
-heslig - paskudny | wstrętny | obrzydliwy | szkaradny | ohydny
+heslig - paskudny, wstrętny, obrzydliwy, szkaradny, ohydny
 hest - koń
 hete - nazywać się
 hevn - zemsta
@@ -1125,12 +1125,12 @@ hingst - ogier
 historie - historia
 historiker - historyk
 historisk - historyczny
-hjelm - hełm | kask
+hjelm - hełm, kask
 hjelp - pomoc
 hjelpe - pomagać
 hjem - do domu
 hjemme - w domu
-hjemmedatamaskin - komputer osobisty | PC
+hjemmedatamaskin - komputer osobisty, PC
 hjerne - mózg
 hjerte - serce
 hjort - jeleń
@@ -1142,27 +1142,27 @@ holde - trzymać
 høne - kura
 Hongkong - Hongkong
 honning - miód
-hoppe - klacz | skakać | wskakiwać | przeskakiwać
+hoppe - klacz, skakać, wskakiwać, przeskakiwać
 hoppe paradis - grać w klasy
 horde - horda
-hore - dziwka | kurwa
-høre - słyszeć | słuchać
+hore - dziwka, kurwa
+høre - słyszeć, słuchać
 hormon - hormon
-horn - róg | klakson | rogal | rogalik
+horn - róg, klakson, rogal, rogalik
 Horus - Horus
 hos - u
 høst - jesień
 hotell - hotel
 hov - kopyto
 hovedstad - stolica
-høy - wysoki | głośny | siano
+høy - wysoki, głośny, siano
 høydehopp - skok wzwyż
-høyre - prawy | prawica
+høyre - prawy, prawica
 høytid - święto
 hud - skóra
 huggorm - żmija
 hukommelse - pamięć
-hule - jaskinia | nora | jama
+hule - jaskinia, nora, jama
 hull - dziura
 hummer - homar
 hun - ona
@@ -1186,7 +1186,7 @@ hviske - szeptać
 hvit - biały
 hvite - białko
 hviterusser - Białorusin
-hviterussisk - białoruski | białoruski (język)
+hviterussisk - białoruski, białoruski (język)
 Hviterussland - Białoruś
 hvitløk - czosnek
 hvitvin - białe wino
@@ -1200,9 +1200,9 @@ hykleri - hipokryzja
 hykling - hipokryzja
 hylle - półka
 hypnose - hipnoza
-i - w | na | do | od
+i - w, na, do, od
 i år - w tym roku
-i dag - dzisiaj | dziś
+i dag - dzisiaj, dziś
 idé - pomysł
 idealisere - idealizować
 idealisme - idealizm
@@ -1211,12 +1211,12 @@ idealistisk - idealistyczny
 idrett - sport
 i fjor - w zeszłym roku
 i går - wczoraj
-igjen - znowu | znów
+igjen - znowu, znów
 iglo - igloo
 i hui og hast - czym prędzej
 ikke - nie
 i kveld - dziś wieczorem
-ild - ogień | ognisko
+ild - ogień, ognisko
 ildrake - pogrzebacz
 i morgen - jutro
 i morges - dziś rano
@@ -1236,13 +1236,13 @@ innsats - stawka
 innse - zdawać sobie sprawę
 innsjø - jezioro
 insekt - owad
-interessant - interesujący | ciekawy
+interessant - interesujący, ciekawy
 Irak - Irak
 iraker - Irakijczyk
 irakisk - irakijski
 ire - Irlandczyk
 Irland - Irlandia
-irsk - irlandzki | irlandzki (język)
+irsk - irlandzki, irlandzki (język)
 is - lód
 isbjørn - niedźwiedź polarny
 isbryter - lodołamacz
@@ -1252,14 +1252,14 @@ iskald - lodowaty
 iskrem - lody
 islam - islam
 Island - Islandia
-islandsk - islandzki | islandzki (język)
+islandsk - islandzki, islandzki (język)
 islending - Islandczyk
 Israel - Izrael
 israeler - Izraelczyk
 israelsk - izraelski
 Italia - Włochy
 italiener - Włoch
-italiensk - włoski | włoski (język)
+italiensk - włoski, włoski (język)
 ja - tak
 jakt - polowanie
 jakte - polować
@@ -1267,13 +1267,13 @@ jakthorn - róg myśliwski
 januar - styczeń
 Japan - Japonia
 japaner - Japończyk
-japansk - japoński | japoński (język)
+japansk - japoński, japoński (język)
 jeg - ja
 jeger - myśliwy
-jente - dziewczynka | dziewczyna
+jente - dziewczynka, dziewczyna
 jern - żelazo
 jernbane - kolej
-jernbanestasjon - stacja kolejowa | dworzec kolejowy
+jernbanestasjon - stacja kolejowa, dworzec kolejowy
 Jesus - Jezus
 jo - przecież
 jobb - praca
@@ -1281,15 +1281,15 @@ jobbe - pracować
 jøde - Żyd
 jødedom - judaizm
 jødisk - żydowski
-jord - Ziemia | ziemia | gleba
+jord - Ziemia, ziemia, gleba
 jordbær - truskawka
 jordbærsyltetøy - dżem truskawkowy
 jordbruk - rolnictwo
 jordbruker - rolnik
 jordskjelv - trzęsienie ziemi
-journalist - dziennikarz | dziennikarka
+journalist - dziennikarz, dziennikarka
 journalistisk - dziennikarski
-jul - Boże Narodzenie | święta (Bożego Narodzenia) | gwiazdka
+jul - Boże Narodzenie, święta (Bożego Narodzenia), gwiazdka
 julaften - Wigilia Bożego Narodzenia
 julekort - kartka świąteczna (na Boże Narodzenie)
 juletre - choinka
@@ -1299,7 +1299,7 @@ kabaret - kabaret (spektakl)
 kafé - kawiarnia
 kaffe - kawa
 kaie - kawka
-kake - ciastko | ciasto
+kake - ciastko, ciasto
 kakerlakk - karaluch
 kakle - gdakać
 kaktus - kaktus
@@ -1310,11 +1310,11 @@ kalkun - indyk
 kall - powołanie
 kalle - nazywać
 kallenavn - przydomek
-kalv - cielak | cielę
+kalv - cielak, cielę
 kalvekjøtt - cielęcina
 kamel - wielbłąd
 kameleon - kameleon
-kamp - walka | mecz
+kamp - walka, mecz
 kampanje - kampania
 kan - kunne
 kanadier - Kanadyjczyk
@@ -1323,19 +1323,19 @@ kanel - cynamon
 kanin - królik
 kanne - dzbanek
 kanskje - może
-kant - krawędź | brzeg
+kant - krawędź, brzeg
 Kapernaum - Kafarnaum
 kapitalisme - kapitalizm
 kappe - peleryna
 kaptein - kapitan
 kar - naczynie
 karismatisk - charyzmatyczny
-karm - futryna | framuga
+karm - futryna, framuga
 kart - mapa
 kasino - kasyno
 kastanje - kasztan
 kastanjetre - kasztanowiec
-kaste - rzucać | wyrzucać
+kaste - rzucać, wyrzucać
 kaste opp - wymiotować
 katedral - katedra
 katekisme - katechizm
@@ -1349,9 +1349,9 @@ kikkert - lornetka
 kilometer - kilometr
 Kina - Chiny
 kineser - Chińczyk
-kinesisk - chiński | chiński (język)
+kinesisk - chiński, chiński (język)
 kinn - policzek
-kinnskjegg - baki | bokobrody
+kinnskjegg - baki, bokobrody
 kino - kino
 kirke - kościół
 kirkegård - gravlund
@@ -1362,9 +1362,9 @@ kirurgi - chirurgia
 kirurgisk - chirurgiczny
 kivi - kiwi
 kiwi - kiwi
-kjæledyr - zwierzak | zwierzę
+kjæledyr - zwierzak, zwierzę
 kjærlig - czuły
-kjærlighet - miłość | lizak
+kjærlighet - miłość, lizak
 kjede - łańcuch
 kjedelig - nudny
 kjedsomhet - nuda
@@ -1373,29 +1373,29 @@ kjeller - piwnica
 kjemi - chemia
 kjemiker - chemik
 kjemisk - chemiczny
-kjempe - walczyć | olbrzym | gigant
-kjenne - znać | czuć | czuć się | wiedzieć o czymś
+kjempe - walczyć, olbrzym, gigant
+kjenne - znać, czuć, czuć się, wiedzieć o czymś
 kjent - znany
 kjertel - gruczoł
 kjeve - szczęka
 kjøkken - kuchnia
-kjole - sukienka | suknia
+kjole - sukienka, suknia
 kjøleskap - lodówka
-kjønn - płeć | rodzaj
+kjønn - płeć, rodzaj
 kjøpe - kupować
-kjøre - jeździć | prowadzić
-kjøretøy - wehikuł | środek transportu
+kjøre - jeździć, prowadzić
+kjøretøy - wehikuł, środek transportu
 kjøtt - mięso
-klær - ubranie | odzież | ubiór
+klær - ubranie, odzież, ubiór
 klient - klient
 klikke - klikać
 klima - klimat
 klinikk - klinika
-klokke - zegar | dzwon
+klokke - zegar, dzwon
 kloster - klasztor
-kløver - koniczyna | trefl
-klump - bryła | gruda
-knapp - guzik | przycisk
+kløver - koniczyna, trefl
+klump - bryła, gruda
+knapp - guzik, przycisk
 knappenål - szpilka
 kne - kolano
 knekkebrød - pieczywo chrupkie
@@ -1404,7 +1404,7 @@ kneledd - staw kolanowy
 kniv - nóż
 knivblad - ostrze noża
 knivsegg - ostrze noża
-knute - węzeł | supeł
+knute - węzeł, supeł
 kø - kolejka
 kobber - miedź
 koffert - walizka
@@ -1415,7 +1415,7 @@ koloskopi - kolonoskopia
 kom - komme
 komedie - komedia
 komfyr - kuchenka
-komme - przychodzić | przyjeżdżać
+komme - przychodzić, przyjeżdżać
 kommunisme - komunizm
 kommunist - komunista
 kommunistisk - komunistyczny
@@ -1425,12 +1425,12 @@ kone - żona
 konge - król
 kongerike - królestwo
 konjunksjon - spójnik
-konkret - konkretny | rzeczownik konkretny
+konkret - konkretny, rzeczownik konkretny
 konsert - koncert
 konsonant - spółgłoska
 kontaktlinse - soczewka kontaktowa
 kontinent - kontynent
-kontor - biuro | urząd | gabinet
+kontor - biuro, urząd, gabinet
 kontrolltårn - wieża kontroli lotów
 konversasjon - rozmowa
 konvolutt - koperta
@@ -1440,13 +1440,13 @@ kor - chór
 kornaks - kłos zboża
 kornkråke - gawron
 kors - krzyż
-kort - karta | kartka | krótki
+kort - karta, kartka, krótki
 koste - kosztować
 krabbe - krab
 krage - kołnierz
 kragebein - obojczyk
 kråke - wrona
-krakk - stołek | taboret
+krakk - stołek, taboret
 kredittkort - karta kredytowa
 kreft - rak
 kreps - rak
@@ -1458,22 +1458,22 @@ kritiker - krytyk
 kritt - kreda
 kroat - Chorwat
 Kroatia - Chorwacja
-kroatisk - chorwacki | chorwacki (język)
-krok - hak | haczyk
+kroatisk - chorwacki, chorwacki (język)
+krok - hak, haczyk
 krokodille - krokodyl
 krølltang - lokówka
-krone - korona | korona  (1 krone = 100 øre) | koronować | ukoronować
+krone - korona, korona  (1 krone = 100 øre), koronować, ukoronować
 kropp - ciało
 krydder - przyprawa
 krypdyr - gad
-krystall - kryształ | ciało krystaliczne
+krystall - kryształ, ciało krystaliczne
 ku - krowa
 kuk - chuj
 kun - tylko
 kunde - klient
-kunne - móc | umieć | potrafić
-kunst - sztuka | sztuczka
-kunstig - sztuczny | sztucznie
+kunne - móc, umieć, potrafić
+kunst - sztuka, sztuczka
+kunstig - sztuczny, sztucznie
 kunstner - artysta
 kunstverk - dzieło sztuki
 kurvball - koszykówka
@@ -1486,44 +1486,44 @@ kvinne - kobieta
 kvise - pryszcz
 kylling - kurczak
 kyrillisk - cyrylicki
-kyss - pocałunek | całus
+kyss - pocałunek, całus
 kysse - całować
 labyrint - labirynt
-lære - uczyć | uczyć się
-lærer - nauczyciel | nauczycielka
+lære - uczyć, uczyć się
+lærer - nauczyciel, nauczycielka
 lage - robić
 lagt - legge
 laken - prześcieradło
 laks - łosoś
 laktase - laktaza
 lampe - lampa
-land - kraj | ląd
+land - kraj, ląd
 landet - wieś
-låne - pożyczać | wypożyczać | zapożyczać
+låne - pożyczać, wypożyczać, zapożyczać
 lang - długi
 langfinger - palec środkowy
-langsom - wolny | powolny
+langsom - wolny, powolny
 lår - udo
 låse - zamykać (na klucz)
-lastebil - samochód ciężarowy | ciężarówka
+lastebil - samochód ciężarowy, ciężarówka
 lat - leniwy
 latter - śmiech
 Latvia - Łotwa
 latvier - Łotysz
-latvisk - łotewski | łotewski (język)
-lav - niski | cichy
+latvisk - łotewski, łotewski (język)
+lav - niski, cichy
 le - śmiać się
 ledd - staw
 leddgikt - artretyzm
 ledig - wolny
-lege - lekarz | leczyć
+lege - lekarz, leczyć
 legekontor - gabinet lekarski
 legeme - ciało
 legg - łydka
-legge - kłaść | położyć
-leie - wynajmować | wypożyczać
+legge - kłaść, położyć
+leie - wynajmować, wypożyczać
 leilighet - mieszkanie
-leke - zabawka | bawić się
+leke - zabawka, bawić się
 leketøy - zabawka
 leksjon - lekcja
 lenestol - fotel
@@ -1536,7 +1536,7 @@ lese - czytać
 leselig - czytelny
 lete - szukać
 lete etter en nål i en høystakk - szukać igły w stogu siana
-lett - lekki | łatwy | chudy (o art. spożywczych) | lekko | łatwo | chudo (o art. spożywczych) | lete
+lett - lekki, łatwy, chudy (o art. spożywczych), lekko, łatwo, chudo (o art. spożywczych), lete
 leve - żyć
 levende - żywy
 lever - wątroba
@@ -1544,10 +1544,10 @@ libanesisk - libański
 lide - cierpieć
 lidelse - cierpienie
 ligge - leżeć
-lik - zwłoki | podobny | równy | taki sam
-like - lubić | podobać się
+lik - zwłoki, podobny, równy, taki sam
+like - lubić, podobać się
 likevekt - równowaga
-likevel - jednak | wszelako | ostatecznie
+likevel - jednak, wszelako, ostatecznie
 likhus - kostnica
 likkiste - trumna
 lillefinger - mały palec
@@ -1555,7 +1555,7 @@ lin - len
 lind - lipa
 Litauen - Litwa
 litauer - Litwin
-litauisk - litewski | litewski (język)
+litauisk - litewski, litewski (język)
 liten - mały
 litt - trochę
 litterær - literacki
@@ -1564,25 +1564,25 @@ liturgi - liturgia
 liv - życie
 livmor - macica
 ljå - kosa
-loddrett - pionowy | pionowo
-løfte - obietnica | podnosić
+loddrett - pionowy, pionowo
+løfte - obietnica, podnosić
 logiker - logik
 logikk - logika
-logisk - logiczny | logicznie
+logisk - logiczny, logicznie
 løgn - kłamstwo
-løgner - kłamca | łgarz
+løgner - kłamca, łgarz
 lojal - lojalny
 lojalitet - lojalność
-løk - cebula | cebulka
-lokal - lokalny | miejscowy
+løk - cebula, cebulka
+lokal - lokalny, miejscowy
 lomme - kieszeń
 lommebok - portfel
 lommekniv - scyzoryk
-lommetjuv - kieszonkowiec | złodziej kieszonkowy
-lommetørkle - chusteczka (do nosa) | chustka (do nosa)
+lommetjuv - kieszonkowiec, złodziej kieszonkowy
+lommetørkle - chusteczka (do nosa), chustka (do nosa)
 lommetyv - kieszonkowiec
-lønn - pensja | płaca | klon
-løpe - biegać | biec
+lønn - pensja, płaca, klon
+løpe - biegać, biec
 loppe - pchła
 lørdag - sobota
 løse - rozwiązywać
@@ -1590,24 +1590,24 @@ love - obiecywać
 løve - lew
 lue - czapka
 luft - powietrze
-lufthavn - port lotniczy | lotnisko
+lufthavn - port lotniczy, lotnisko
 lugg - grzywka
 lunge - płuco
 lungebetennelse - zapalenie płuc
 lungekreft - rak płuc
 lunte - lont
 lus - wesz
-lykke - szczęście | sukces | powodzenie
+lykke - szczęście, sukces, powodzenie
 lykkelig - szczęśliwy
-lymfeknute - węzeł chłonny | węzeł limfatyczny
-lyn - błyskawica | piorun
+lymfeknute - węzeł chłonny, węzeł limfatyczny
+lyn - błyskawica, piorun
 lys - świeczka
 lyske - pachwina
-lyst - chęć | ochota
-lyve - kłamać | okłamywać
+lyst - chęć, ochota
+lyve - kłamać, okłamywać
 Madeira - Madera
 madrass - materac
-mage - żołądek | brzuch
+mage - żołądek, brzuch
 mai - maj
 mais - kukurydza
 maiskolbe - kolba kukurydzy
@@ -1615,10 +1615,10 @@ majones - majonez
 måke - mewa
 makedoner - Macedończyk
 Makedonia - Macedonia
-makedonsk - macedoński | macedoński (język)
+makedonsk - macedoński, macedoński (język)
 makrell - makrela
 maktbegjær - żądza władzy
-male - malować | mielić | mleć | mruczeć
+male - malować, mielić, mleć, mruczeć
 maler - malarz
 malm - ruda
 mamma - matka
@@ -1627,9 +1627,9 @@ mandag - poniedziałek
 mandarin - mandarynka
 måne - księżyc
 måned - miesiąc
-mange - wiele | dużo
+mange - wiele, dużo
 mangemillionær - multimilioner
-mann - mężczyzna | mąż
+mann - mężczyzna, mąż
 mannen med ljåen - kostucha
 mannlig - męski
 margarin - margaryna
@@ -1640,7 +1640,7 @@ måse - mewa
 maskin - maszyna
 mat - jedzenie
 mate - karmić
-måte - sposób | metoda | umiar
+måte - sposób, metoda, umiar
 matematiker - matematyk
 matematikk - matematyka
 matematisk - matematyczny
@@ -1650,7 +1650,7 @@ måtte - musieć
 maur - mrówka
 maurtue - mrowisko
 med - z
-medisin - medycyna | lekarstwo | lek
+medisin - medycyna, lekarstwo, lek
 medlem - członek
 medlemskap - członkostwo
 meg - mnie
@@ -1663,13 +1663,13 @@ Melkeveien - Droga Mleczna
 mellom - między
 Mellom-Amerika - Ameryka Środkowa
 melon - melon
-men - ale | lecz
+men - ale, lecz
 menneske - człowiek
 menneskelig - ludzki
 mesterverk - arcydzieło
 metall - metal
 meter - metr
-middag - południe (pora dnia) | obiad
+middag - południe (pora dnia), obiad
 Middelhavet - Morze Śródziemne
 midnatt - północ
 mikrofon - mikrofon
@@ -1678,7 +1678,7 @@ millimeter - milimetr
 million - milion
 millionær - milioner
 millionte - milionowy
-min - mój | swój
+min - mój, swój
 mineral - minerał
 mink - norka
 minutt - minuta
@@ -1686,7 +1686,7 @@ mirakel - cud
 misfornøyd - niezadowolony
 misjonær - misjonarz
 mistanke - podejrzewać
-miste - gubić | tracić
+miste - gubić, tracić
 mistenke - podejrzewać
 mistenkelig - podejrzany
 mistenksom - podejrzliwy
@@ -1706,12 +1706,12 @@ mor - matka
 mord - morderstwo
 morder - morderca
 morell - czereśnia
-morgen - poranek | ranek | rano
+morgen - poranek, ranek, rano
 mørk - ciemny
 mormor - babcia (ze strony matki)
-mort - płoć | płotka
+mort - płoć, płotka
 moské - meczet
-mot - odwaga | wbrew | niezgodny z | przeciw | przeciwko | pod | wobec | dla
+mot - odwaga, wbrew, niezgodny z, przeciw, przeciwko, pod, wobec, dla
 mote - moda
 motorsykkel - motocykl
 motorvei - autostrada
@@ -1730,16 +1730,16 @@ muskel - mięsień
 muslim - muzułmanin
 musling - małż
 mustasje - wąsy
-mye - dużo | duży | bardzo | niezbyt
+mye - dużo, duży, bardzo, niezbyt
 mygg - komar
-mynt - moneta | mennica
+mynt - moneta, mennica
 mynte - mięta
 myrde - mordować
-nå - teraz | docierać do
-nabo - sąsiad | sąsiadka
+nå - teraz, docierać do
+nabo - sąsiad, sąsiadka
 Nairobi - Nairobi
 naken - nagi
-nål - igła | szpilka
+nål - igła, szpilka
 nå og da - od czasu do czasu
 når - kiedy
 narhval - narwal
@@ -1753,13 +1753,13 @@ nattergal - słowik
 nattsvermer - ćma
 naturlig - naturalny
 navle - pępek
-navn - imię | nazwisko | nazwa
+navn - imię, nazwisko, nazwa
 nebb - dziób
-ned - w dół | na dół
-nede - na dole | w dole
+ned - w dół, na dół
+nede - na dole, w dole
 nedenfor - poniżej
 Nederland - Holandia
-nederlandsk - holenderski | holenderski (język)
+nederlandsk - holenderski, holenderski (język)
 nederlender - Holender
 negl - paznokieć
 nei - nie
@@ -1769,7 +1769,7 @@ Nepal - Nepal
 nese - nos
 neshorn - nosorożec
 nesle - pokrzywa
-neste - bliźni | następny | przyszły
+neste - bliźni, następny, przyszły
 nesten - prawie
 netter - natt
 neve - pięść
@@ -1780,13 +1780,13 @@ nittende - dziewiętnasty
 nitti - dziewięćdziesiąt
 nittiende - dziewięćdziesiąty
 Nix - Nix
-nødvendig - konieczny | potrzebny
+nødvendig - konieczny, potrzebny
 noe - coś
 noen - ktoś
-nok - dość | dosyć | chyba
+nok - dość, dosyć, chyba
 nøkkel - klucz
 nonne - zakonnica
-nord - północ | na północ
+nord - północ, na północ
 Nord-Amerika - Ameryka Północna
 nordamerikansk - północnoamerykański
 nordavind - wiatr północny
@@ -1794,89 +1794,89 @@ nordlig - północny
 nordmann - Norweg
 Nordsjøen - Morze Północne
 Norge - Norwegia
-norsk - norweski | norweski (język)
+norsk - norweski, norweski (język)
 nøtt - orzech
 nøtteskrike - sójka
 november - listopad
-nøyaktig - dokładny | dokładnie | właśnie
+nøyaktig - dokładny, dokładnie, właśnie
 null - zero
 ny - nowy
-nynorsk - nynorsk | nynorsk (w)
+nynorsk - nynorsk, nynorsk (w)
 nyre - nerka
 nyrestein - kamień nerkowy
-nysgjerrig - ciekaw | ciekawy
+nysgjerrig - ciekaw, ciekawy
 nysgjerrighet - ciekawość
 nyttårsaften - sylwester
-obduksjon - sekcja zwłok | obdukcja
+obduksjon - sekcja zwłok, obdukcja
 oddetall - liczba nieparzysta
 ofte - często
-og - i | a
-også - też | także | również
-øke - zwiększać | zwiększać się | wzrastać | rosnąć
+og - i, a
+også - też, także, również
+øke - zwiększać, zwiększać się, wzrastać, rosnąć
 økologi - ekologia
 økologisk - ekologiczny
 øks - siekiera
 okse - byk
 oksygen - tlen
 oktober - październik
-øl - piwo | piwo ( butelka piwa, szklanka piwa, kufel piwa, puszka piwa )
-oliven - oliwka | oliwkowy
+øl - piwo, piwo ( butelka piwa, szklanka piwa, kufel piwa, puszka piwa )
+oliven - oliwka, oliwkowy
 olje - olej
 oljeplattform - platforma wiertnicza
 oljeselskap - kompania naftowa
 Olympia - Olimpia (miasto w Grecji)
-om - o | za | czy | jeśli | jeżeli | gdyby
+om - o, za, czy, jeśli, jeżeli, gdyby
 omdanne - przekształcać
 omfavne - obejmować
-omsorg - opieka | pielęgnowanie | dbałość | troska | troskliwość
-omtrent - około | prawie
-onkel - wujek | wuj
+omsorg - opieka, pielęgnowanie, dbałość, troska, troskliwość
+omtrent - około, prawie
+onkel - wujek, wuj
 onsdag - środa
-ønske - życzenie | pragnienie | życzyć | chcieć | pragnąć
-opp - do góry | w górę | na górę
+ønske - życzenie, pragnienie, życzyć, chcieć, pragnąć
+opp - do góry, w górę, na górę
 oppdage - odkrywać
-oppe - u góry | na górze | w górze
+oppe - u góry, na górze, w górze
 oppfinne - wynaleźć
 oppfinnelse - wynalazek
 oppfinner - wynalazca
 oppgi - podawać
-oppslagsord - hasło | wyraz hasłowy
-oppstandelse - zmartwychwstanie | poruszenie
+oppslagsord - hasło, wyraz hasłowy
+oppstandelse - zmartwychwstanie, poruszenie
 oppvaskmaskin - zmywarka do naczyń
 or - olcha
 oransje - pomarańczowy
-ord - słowo | wyraz
+ord - słowo, wyraz
 ordbok - słownik
 ordenstall - liczebnik porządkowy
 ordklasse - część mowy
 ordne - porządkować
-øre - ucho | øre -
+øre - ucho, øre -
 organisasjon - organizacja
 organisere - organizować
 orgasme - orgazm
 ørken - pustynia
-orm - wąż | żmija | robak
+orm - wąż, żmija, robak
 ørn - orzeł
 ørret - pstrąg
-øsregn - ulewa | ulewny deszcz
-oss - nas | my
+øsregn - ulewa, ulewny deszcz
+oss - nas, my
 ost - ser
-øst - wschód | na wschód
+øst - wschód, na wschód
 østavind - wiatr wschodni
 Østerrike - Austria
 østerriker - Austriak
 østerriksk - austriacki
-Østersjøen - Bałtyk | Morze Bałtyckie
+Østersjøen - Bałtyk, Morze Bałtyckie
 Ostia - Ostia
 østlig - wschodni
 Øst-Timor - Timor Wschodni
 oter - wydra
-over - nad | ponad
+over - nad, ponad
 overalt - wszędzie
 overdrive - przesadzać
 overleppe - górna warga
 overnaturlig - nadprzyrodzony
-oversette - tłumaczyć | przekładać
+oversette - tłumaczyć, przekładać
 oversettelse - tłumaczenie
 oversetter - tłumacz
 øy - wyspa
@@ -1886,12 +1886,12 @@ oversetter - tłumacz
 øyelokk - powieka
 øyenstikker - ważka
 øyevippe - rzęsa
-på - na | po | w
+på - na, po, w
 padde - ropucha
 pære - gruszka
-pakke - paczka | pakować
+pakke - paczka, pakować
 palass - pałac
-panne - czoło | patelnia
+panne - czoło, patelnia
 pannekake - naleśnik
 papegøye - papuga
 papir - papier
@@ -1900,7 +1900,7 @@ paprika - papryka
 parabolantenne - antena satelitarna
 paradis - raj
 paranoia - paranoja
-paraply - parasolka | parasol
+paraply - parasolka, parasol
 parasitt - pasożyt
 Paris - Paryż
 park - park
@@ -1917,7 +1917,7 @@ pattedyr - ssak
 pave - papież
 pekefinger - palec wskazujący
 pelotong - pluton
-pels - futro | futerko | sierść
+pels - futro, futerko, sierść
 penge - pieniądz
 penger - pieniądze
 penis - penis
@@ -1929,27 +1929,27 @@ personbil - samochód osobowy
 personlighet - osobowość
 piano - pianino
 piemontesisk - piemoncki
-pike - dziewczyna | dziewczynka
+pike - dziewczyna, dziewczynka
 pingvin - pingwin
 pinne - patyk
 pinnsvin - jeż
 Pittsburgh - Pittsburgh (stolica Allegheny)
-plan - plan | płaszczyzna | poziom | szczebel
+plan - plan, płaszczyzna, poziom, szczebel
 planet - planeta
 planetarium - planetarium (obiekt)
 plantasje - plantacja
-plante - roślina | sadzić
+plante - roślina, sadzić
 plantefett - tłuszcz roślinny
-plass - plac | miejsce
+plass - plac, miejsce
 plast - plastik
-pleie - opieka | pielęgnowanie | pielęgnacja | opiekować się | pielęgnować | dbać | mieć zwyczaj (robić coś)
+pleie - opieka, pielęgnowanie, pielęgnacja, opiekować się, pielęgnować, dbać, mieć zwyczaj (robić coś)
 plen - trawnik
 plikt - obowiązek
 plog - pług
-plomme - żółtko | śliwka
+plomme - żółtko, śliwka
 plommesyltetøy - dżem śliwkowy
 pløye - orać
-plutselig - nagły | nagle
+plutselig - nagły, nagle
 poker - poker
 pokerspiller - pokerzysta
 polakk - Polak
@@ -1959,27 +1959,27 @@ politiker - polityk
 politikk - polityka
 politisk - polityczny
 pølse - kiełbasa
-polsk - polski | polski (język) | polszczyzna
+polsk - polski, polski (język), polszczyzna
 poppel - topola
 populær - popularny
 Portugal - Portugalia
 portugiser - Portugalczyk
-portugisisk - portugalski | portugalski (język)
-postkontor - poczta | urząd pocztowy
-potet - ziemniak | kartofel
-potte - doniczka | nocnik
+portugisisk - portugalski, portugalski (język)
+postkontor - poczta, urząd pocztowy
+potet - ziemniak, kartofel
+potte - doniczka, nocnik
 praksis - praktyka
 preposisjon - przyimek
 president - prezydent
-presis - dokładny | precyzyjny
-presisjon - precyzja | dokładność
+presis - dokładny, precyzyjny
+presisjon - precyzja, dokładność
 presse - prasa
-prest - ksiądz | kapłan
+prest - ksiądz, kapłan
 preteritum - czas przeszły
 primogenitur - primogenitura
 prinsesse - księżniczka
-prinsipp - zasada | reguła
-pris - cena | nagroda
+prinsipp - zasada, reguła
+pris - cena, nagroda
 problem - problem
 professor - profesor
 pronomen - zaimek
@@ -1987,14 +1987,14 @@ propaganda - propaganda
 prosjekt - projekt
 protest - protest
 protestere - protestować
-prøve - próbować | usiłować | spróbować | przymierzyć | próba | ćwiczenie czegoś | co będzie wykonywane przed publicznością | klasówka,egzamin | próbka | usiłowanie (wykonania jakiejś czynności) | test | badanie
+prøve - próbować, usiłować, spróbować, przymierzyć, próba, ćwiczenie czegoś, co będzie wykonywane przed publicznością, klasówka,egzamin, próbka, usiłowanie (wykonania jakiejś czynności), test, badanie
 psykolog - psycholog
 psykoterapeut - psychoterapeuta
 psykoterapi - psychoterapia
 publikasjon - publikacja
 pukkel - garb
 pulverkaffe - kawa rozpuszczalna
-pumpe - pompa | pompka | pompować
+pumpe - pompa, pompka, pompować
 pungdyr - torbacz
 pupill - źrenica
 purre - por
@@ -2003,39 +2003,39 @@ pute - poduszka
 rå - surowy
 rabarbra - rabarbar
 rabies - wścieklizna
-råd - rada | porada
+råd - rada, porada
 radar - radar
 radio - radio
 radioaktiv - radioaktywny
-radioaktivitet - radioaktywność | promieniotwórczość
+radioaktivitet - radioaktywność, promieniotwórczość
 rådyr - sarna
-rake - grabie | grabić
+rake - grabie, grabić
 ramme - rama
 rasende - wściekły
 rasjonell - racjonalny
-rask - szybki | prędki
+rask - szybki, prędki
 rav - bursztyn
 ravn - kruk
 reaksjon - reakcja
 redd - bać się
 reddik - rzodkiewka
 regel - reguła
-regjering - rząd | panowanie | rządy
+regjering - rząd, panowanie, rządy
 regn - deszcz
 regnbue - tęcza
 regne - padać (o
 regnemaskin - kalkulator
 regning - rachunek
-regnskapsfører - księgowy | księgowa
-rein - renifer | czysty
+regnskapsfører - księgowy, księgowa
+rein - renifer, czysty
 reir - gniazdo
-reise - podróż | podróżować | jeździć | wyjeżdżać
-reisende - podróżny | podróżujący
+reise - podróż, podróżować, jeździć, wyjeżdżać
+reisende - podróżny, podróżujący
 reke - krewetka
-rekkefølge - kolejność | porządek
+rekkefølge - kolejność, porządek
 religion - religia
 ren - czysty
-rense - czyścić | oczyszczać
+rense - czyścić, oczyszczać
 republikk - republika
 retning - kierunek
 retsina - retsina
@@ -2044,23 +2044,23 @@ rettferdighet - sprawiedliwość
 rev - lis
 ribbein - żebro
 ridder - rycerz
-rigg - takielunek | platforma wiertnicza
+rigg - takielunek, platforma wiertnicza
 rik - bogaty
 rikdom - bogactwo
-ring - pierścionek | kolczyk | obwodnica miejska
+ring - pierścionek, kolczyk, obwodnica miejska
 ringe - dzwonić
 ringfinger - palec serdeczny
 risikabel - ryzykowny
 risikere - ryzykować
 risiko - ryzyko
-Rjukan - Rjukan (miasto) | Rjukan (gmina)
+Rjukan - Rjukan (miasto), Rjukan (gmina)
 rød - czerwony
 rødbete - burak
 rødvin - czerwone wino
-rogn - jarzębina | ikra
+rogn - jarzębina, ikra
 røkelse - kadzidło
 Roland - Roland
-rom - pokój ( | miejsce | przestrzeń
+rom - pokój (, miejsce, przestrzeń
 roman - powieść
 Romania - Rumunia
 røntgenstråler - promienie rentgena
@@ -2068,27 +2068,27 @@ rop - wołanie
 rope - wołać
 ror - ster
 rosa - różowy
-rose - róża | chwalić
-rosin - rodzynek | rodzynka
-rot - korzeń | pierwiastek
+rose - róża, chwalić
+rosin - rodzynek, rodzynka
+rot - korzeń, pierwiastek
 rotte - szczur
 rovdyr - drapieżnik
-røyk - dym | papieros
-røyke - palić | wędzić
-røyker - palacz | osoba paląca papierosy
-røyking - palenie papierosów | wędzenie
+røyk - dym, papieros
+røyke - palić, wędzić
+røyker - palacz, osoba paląca papierosy
+røyking - palenie papierosów, wędzenie
 rug - żyto
 rullebrett - deskorolka
 rulletrapp - schody ruchome
 rumener - Rumun
-rumensk - rumuński | rumuński (język)
+rumensk - rumuński, rumuński (język)
 rumpe - tyłek
 rumpetroll - kijanka
 rund - okrągły
 rundstykke - bułka
-rundt - wokół | dookoła
+rundt - wokół, dookoła
 russer - Rosjanin
-russisk - rosyjski | rosyjski (język)
+russisk - rosyjski, rosyjski (język)
 Russland - Rosja
 rust - rdza
 ruste - rdzewieć
@@ -2097,28 +2097,28 @@ rygg - plecy
 ryggfinne - płetwa grzbietowa
 ryggrad - kręgosłup
 sa - si
-så - siać | se | tak | taki | to | potem (a) | więc | żeby
+så - siać, se, tak, taki, to, potem (a), więc, żeby
 sabotasje - sabotaż
 sabotere - sabotować
 sabotør - sabotażysta
 saftig - soczysty
 sag - piła
 sak - sprawa
-saks - nożyce | nożyczki
-sakte - wolny | powolny | wolno | powoli
-salat - sałata | sałatka | surówka
-salg - sprzedaż | wyprzedaż
+saks - nożyce, nożyczki
+sakte - wolny, powolny, wolno, powoli
+salat - sałata, sałatka, surówka
+salg - sprzedaż, wyprzedaż
 salme - hymn
 salt - słony
 same - Lapończyk
-samfunn - społeczeństwo | społeczność
-samisk - lapoński | lapoński (język)
-samle - zbierać | kolekcjonować
-samme - ten sam | taki sam
+samfunn - społeczeństwo, społeczność
+samisk - lapoński, lapoński (język)
+samle - zbierać, kolekcjonować
+samme - ten sam, taki sam
 sammen - razem
-sammendrag - streszczenie | podsumowanie
+sammendrag - streszczenie, podsumowanie
 samtale - rozmowa
-samtidig - jednoczesny | równoczesny | jednocześnie | równocześnie
+samtidig - jednoczesny, równoczesny, jednocześnie, równocześnie
 samvittighet - sumienie
 sand - piasek
 sann - prawdziwy
@@ -2132,7 +2132,7 @@ sau - owca
 saus - sos
 schizofreni - schizofrenia
 Schlesien - Śląsk
-se - widzieć | zobaczyć | patrzeć | oglądać
+se - widzieć, zobaczyć, patrzeć, oglądać
 sebra - zebra
 seddel - banknot
 seg - się
@@ -2147,11 +2147,11 @@ sekstende - szesnasty
 seksti - sześćdziesiąt
 sekstiende - sześćdziesiąty
 seksuell - seksualny
-sekund - sekunda | chwila
+sekund - sekunda, chwila
 sel - foka
-selge - sprzedawać | sprzedawać się
+selge - sprzedawać, sprzedawać się
 selleri - seler
-selskap - towarzystwo | przyjęcie | przedsiębiorstwo | firma | spółka | kompania
+selskap - towarzystwo, przyjęcie, przedsiębiorstwo, firma, spółka, kompania
 selskapelig - towarzyski
 selv - sam
 selvfølgelig - oczywiście
@@ -2159,37 +2159,37 @@ selvhypnotisk - autohipnotyczny
 selvmord - samobójstwo
 selvmorder - samobójca
 sen - późny
-sende - wysyłać | posyłać | słać
+sende - wysyłać, posyłać, słać
 seng - łóżko
 sennep - musztarda
 sent - późno
-sentral - centralny | w centrum (położony)
+sentral - centralny, w centrum (położony)
 se på - oglądać
 september - wrzesień
 serber - Serb
 Serbia - Serbia
-serbisk - serbski | serbski (język)
-serie - seria | serial
+serbisk - serbski, serbski (język)
+serie - seria, serial
 setning - zdanie
-sette - stawiać | postawić
+sette - stawiać, postawić
 se ut - wyglądać
 sfære - sfera
-si - mówić | powiedzieć
+si - mówić, powiedzieć
 sigar - cygaro
 sigarett - papieros
 signal - sygnał
 sigøyner - Cygan
 sigøynersk - cygański
-sikker - bezpieczny | pewny | pewien
+sikker - bezpieczny, pewny, pewien
 sikkerhetsnål - agrafka
-sikkert - na pewno | z pewnością
+sikkert - na pewno, z pewnością
 sikring - bezpiecznik
 sild - śledź
 silhuett - sylwetka
 sin - swój
 Singapore - Singapur
 sinn - umysł
-sirkel - koło | okrąg
+sirkel - koło, okrąg
 sist - ostatni
 sitron - cytryna
 sitte - siedzieć
@@ -2209,36 +2209,36 @@ sjokolade - czekolada
 sju - siedem
 sjuende - siódmy
 skadelig - szkodliwy
-skallamann - łysol | łysy
+skallamann - łysol, łysy
 skalle - czaszka
 skallet - łysy
 skandinav - Skandynaw
 Skandinavia - Skandynawia
 skandinavisk - skandynawski
-skap - szafa | szafka
+skap - szafa, szafka
 skape - tworzyć
-skar - rozpadlina | szczelina | skjære
-skåret - cięty | skjære
-skatt - skarb | podatek
+skar - rozpadlina, szczelina, skjære
+skåret - cięty, skjære
+skatt - skarb, podatek
 skau - las
 ski - narta
-skikkelig - porządny | przyzwoity | porządnie | przyzwoicie
+skikkelig - porządny, przyzwoity, porządnie, przyzwoicie
 skilpadde - żółw
 skinke - szynka
 skinn - skóra
-skinne - szyna | świecić
-skip - statek | okręt | nawa (główna)
-skive - plaster | plasterek | kromka | kroić (w plastry)
-skjære - sroka | kroić | ciąć
+skinne - szyna, świecić
+skip - statek, okręt, nawa (główna)
+skive - plaster, plasterek, kromka, kroić (w plastry)
+skjære - sroka, kroić, ciąć
 skjærebrett - deska do krojenia
-skje - łyżka | zdarzać się | dziać się
-skjebne - los | dola | przeznaczenie
+skje - łyżka, zdarzać się, dziać się
+skjebne - los, dola, przeznaczenie
 skjede - pochwa
 skjegg - broda
 skjelett - szkielet
-skjell - muszla | łuska
+skjell - muszla, łuska
 skjønnlitteratur - literatura piękna
-skjørt - spódnica | spódniczka
+skjørt - spódnica, spódniczka
 skjorte - koszula
 sko - but
 skog - las
@@ -2246,15 +2246,15 @@ skogbrann - pożar lasu
 skole - szkoła
 skoleår - rok szkolny
 skorstein - komin
-skotsk - szkocki | szkocki (język)
+skotsk - szkocki, szkocki (język)
 skotte - Szkot
 Skottland - Szkocja
 skøyte - łyżwa
 skøytebane - lodowisko
 skrev - skrive
-skrik - krzyk | wrzask
-skrike - krzyczeć | wrzeszczeć
-skritt - krok | krocze
+skrik - krzyk, wrzask
+skrike - krzyczeć, wrzeszczeć
+skritt - krok, krocze
 skrive - pisać
 skrivebord - biurko
 skrivemaskin - maszyna do pisania
@@ -2264,47 +2264,47 @@ skuddår - rok przestępny
 skuespiller - aktor
 skuff - szuflada
 skuffe - szuflada
-skulder - bark | ramię
+skulder - bark, ramię
 skulderblad - łopatka
-skulle - mieć | powinienem | powinieneś | powinien | podobno
+skulle - mieć, powinienem, powinieneś, powinien, podobno
 skumring - zmierzch
-sky - chmura | obłok | niebo (atmosfera ziemska) | nieśmiały | płochliwy | stronić | unikać
+sky - chmura, obłok, niebo (atmosfera ziemska), nieśmiały, płochliwy, stronić, unikać
 skygge - cień
 skyggekabinett - gabinet cieni
 skyte - strzelać
 skytsengel - Anioł Stróż
 slå - uderzyć
-slag - uderzenie | cios | bitwa
+slag - uderzenie, cios, bitwa
 slange - wąż
 slank - szczupły
-slave - niewolnik | niewolnica
+slave - niewolnik, niewolnica
 slaver - Słowianin
 slaveri - niewolnictwo
-slavisk - niewolniczy | słowiański
-slikke - lizać | oblizywać | lizać się | oblizywać się
+slavisk - niewolniczy, słowiański
+slikke - lizać, oblizywać, lizać się, oblizywać się
 slikkepinne - lizak
 slips - krawat
-slott - zamek | pałac
+slott - zamek, pałac
 slovak - Słowak
 Slovakia - Słowacja
-slovakisk - słowacki | słowacki (język)
+slovakisk - słowacki, słowacki (język)
 slovener - Słoweniec
 Slovenia - Słowenia
-slovensk - słoweński | słoweński (język)
+slovensk - słoweński, słoweński (język)
 slutt - koniec
 smal - wąski
-smerte - ból | boleć
+smerte - ból, boleć
 smil - uśmiech
 smile - uśmiechać się
 smokk - smoczek
 smør - masło
 smørbrød - kanapka
 snabel - trąba
-snakke - mówić | rozmawiać
-snart - wkrótce | niedługo
+snakke - mówić, rozmawiać
+snart - wkrótce, niedługo
 snegl - ślimak
 snekker - stolarz
-snø - śnieg | padać
+snø - śnieg, padać
 snøball - śnieżka
 snøbrett - deska snowboardowa
 snømann - bałwan
@@ -2313,7 +2313,7 @@ snorke - chrapać
 snus - snus
 snute - pysk
 sofa - kanapa
-sokk - skarpeta | skarpetka
+sokk - skarpeta, skarpetka
 sol - słońce (gwiazda)
 solbrille - okulary przeciwsłoneczne
 soldat - żołnierz
@@ -2325,17 +2325,17 @@ soloppgang - wschód słońca
 solsikke - słonecznik
 solur - zegar słoneczny
 sølv - srebro
-som - jak | jako | który
+som - jak, jako, który
 sommer - lato
 sommerfugl - motyl
 søndag - niedziela
 sønn - syn
 sønnavind - wiatr południowy
 sopp - grzyb
-sør - południe | na południe
+sør - południe, na południe
 Sør-Amerika - Ameryka Południowa
 søramerikansk - południowoamerykański
-sorg - żal | smutek | żałoba | zmartwienie
+sorg - żal, smutek, żałoba, zmartwienie
 sørlig - południowy
 sort hull - czarna dziura
 sosiolog - socjolog
@@ -2346,11 +2346,11 @@ søtsaker - słodycze
 sove - spać
 sovne - zasypiać
 søvngjenger - lunatyk
-spade - łopata | szpadel
+spade - łopata, szpadel
 Spania - Hiszpania
 spanjol - Hiszpan
-spansk - hiszpański | hiszpański (język)
-sparke - kopać | zwalniać
+spansk - hiszpański, hiszpański (język)
+sparke - kopać, zwalniać
 spedbarn - niemowlę
 speil - lustro
 speilegg - jajko sadzone
@@ -2363,45 +2363,45 @@ spise - jeść
 spøkelse - duch
 spør - spørre
 spørre - pytać
-spørsmål - pytanie | kwestia
+spørsmål - pytanie, kwestia
 sportsfisker - wędkarz
 sporvogn - tramwaj
 språk - język
 spurv - wróbel
 spytt - ślina
-spytte - pluć | spluwać
+spytte - pluć, spluwać
 spyttslikker - lizus
 Sri Lanka - Sri Lanka
 sta - uparty
-stå - stać | być napisanym
-stadig - stały | stale | ciągle | coraz
+stå - stać, być napisanym
+stadig - stały, stale, ciągle, coraz
 stakkars - biedny
 stål - stal
 stamp - lombard
-stasjon - stacja | dworzec
-stat - państwo | stan
+stasjon - stacja, dworzec
+stat - państwo, stan
 statsminister - premier
 stearinlys - świeca
 sted - miejsce
-stein - kamień | pestka
-steke - smażyć | prażyć | piec
+stein - kamień, pestka
+steke - smażyć, prażyć, piec
 stekepanne - patelnia
-stemme - głos (dźwięk wydawany przez człowieka lub zwierzę) | głos (opinia wyrażona podczas głosowania) | głosować | stroić (instrument) | zgadzać się
-stemmerett - prawo wyborcze | prawo do głosowania
+stemme - głos (dźwięk wydawany przez człowieka lub zwierzę), głos (opinia wyrażona podczas głosowania), głosować, stroić (instrument), zgadzać się
+stemmerett - prawo wyborcze, prawo do głosowania
 stenge - zamykać
 stengel - łodyga
-sterk - mocny | silny
+sterk - mocny, silny
 sti - ścieżka
 stiftemaskin - zszywacz
-stige - drabina | rosnąć | wzrastać
+stige - drabina, rosnąć, wzrastać
 stikkelsbær - agrest
-stjerne - gwiazda | gwiazdor | gwiazdka
-stjert - ogon | kuper
-stoff - materiał | substancja
+stjerne - gwiazda, gwiazdor, gwiazdka
+stjert - ogon, kuper
+stoff - materiał, substancja
 stol - krzesło
 stolt - dumny
 stolthet - duma
-stor - duży | wielki
+stor - duży, wielki
 Storbritannia - Wielka Brytania
 stork - bocian
 større - większy
@@ -2409,7 +2409,7 @@ størrelse - rozmiar
 størst - największy
 stortå - duży palec u nogi
 støvsuger - odkurzacz
-strå - słoma | źdźbło
+strå - słoma, źdźbło
 straff - kara
 straffe - karać
 stråhatt - kapelusz słomkowy
@@ -2418,13 +2418,13 @@ strand - plaża
 strikkhopp - skok na bungee
 struts - struś
 strykebrett - deska do prasowania
-student - student | studentka
+student - student, studentka
 studere - studiować
-studieår - rok akademicki | rok studiów
-stue - chata | chatka | pokój | sala
-stund - chwila | moment
+studieår - rok akademicki, rok studiów
+stue - chata, chatka, pokój, sala
+stund - chwila, moment
 stygg - brzydki
-stykke - kawałek | sztuka
+stykke - kawałek, sztuka
 substantiv - rzeczownik
 sukker - cukier
 sult - głód
@@ -2436,7 +2436,7 @@ sutte - ssać
 suvenir - pamiątka
 svært - bardzo
 svak - słaby
-sval - chłodny | zimny
+sval - chłodny, zimny
 svale - jaskółka
 svamp - gąbka
 svane - łabędź
@@ -2449,11 +2449,11 @@ sveiser - spawacz
 Sveits - Szwajcaria
 sveitser - Szwajcar
 sveitsisk - szwajcarski
-svelge - połykać | przełykać
-svensk - szwedzki | szwedzki (język)
+svelge - połykać, przełykać
+svensk - szwedzki, szwedzki (język)
 svenske - Szwed
 Sverige - Szwecja
-svette - pot | pocić się
+svette - pot, pocić się
 svigerdatter - synowa
 svigerfar - teść
 svigermor - teściowa
@@ -2466,15 +2466,15 @@ svømmeblære - pęcherz pławny
 svovel - siarka
 svulst - guz
 sy - szyć
-syfilis - syfilis | kiła
+syfilis - syfilis, kiła
 syk - chory
 sykdom - choroba
 sykehus - szpital
-sykepleier - pielęgniarka | pielęgniarz
+sykepleier - pielęgniarka, pielęgniarz
 sykkel - rower
 sykkelpumpe - pompka do roweru
 sykkelsti - ścieżka rowerowa
-syklist - rowerzysta | kolarz
+syklist - rowerzysta, kolarz
 syltetøy - dżem
 symaskin - maszyna do szycia
 symbol - symbol
@@ -2482,9 +2482,9 @@ synagoge - synagoga
 Synagoge - synagoga
 synd - grzech
 synder - grzesznik
-synes - wydawać się | sądzić | uważać (mieć opinię)
+synes - wydawać się, sądzić, uważać (mieć opinię)
 synge - śpiewać
-synonym - bliskoznaczny | synonim
+synonym - bliskoznaczny, synonim
 syre - kwas
 syrin - lilak
 system - system
@@ -2492,28 +2492,28 @@ sytten - siedemnaście
 syttende - siedemnasty
 sytti - siedemdziesiąt
 syttiende - siedemdziesiąty
-ta - brać | wziąć | trwać
+ta - brać, wziąć, trwać
 tå - palec u nogi
 tær - tå
-tak - dach | sufit | chwyt
+tak - dach, sufit, chwyt
 tåke - mgła
 takk - podziękowanie
 takke - dziękować
 taksidermi - taksydermia
 taler - mówca
 talisman - talizman
-tall - liczba | wiek  -
+tall - liczba, wiek  -
 tallerken - talerz
 tallord - liczebnik
 tålmodig - cierpliwy
 tålmodighet - cierpliwość
-tang - obcęgi | wodorost
-tanke - myśl | opinia | zamiar | idea
+tang - obcęgi, wodorost
+tanke - myśl, opinia, zamiar, idea
 tann - ząb
-tannkjøtt - dziąsło | dziąsła
+tannkjøtt - dziąsło, dziąsła
 tannlege - dentysta
-tante - ciocia | ciotka
-tape - przegrywać | tracić
+tante - ciocia, ciotka
+tape - przegrywać, tracić
 tapet - tapeta
 tapetsere - tapetować
 tåre - łza
@@ -2523,22 +2523,22 @@ ta til fange - brać do niewoli
 tatovere - tatuować
 tatovering - tatuaż
 tatt - ta
-tau - lina | sznur
-te - zachowywać się | postepować | herbata
+tau - lina, sznur
+te - zachowywać się, postepować, herbata
 teater - teatr
-tegne - rysować | projektować
-tegnefilm - film rysunkowy | kreskówka
+tegne - rysować, projektować
+tegnefilm - film rysunkowy, kreskówka
 tegneserie - komiks
 tegning - rysunek
 telefon - telefon
 telt - namiot
 tempel - świątynia
 temperatur - temperatura
-tenåring - nastolatek | nastolatka
-tenke - myśleć | zamierzać | uważać | mieć opinię | rozważać
+tenåring - nastolatek, nastolatka
+tenke - myśleć, zamierzać, uważać, mieć opinię, rozważać
 tenne - zapalać
 tenner - tann
-teppe - dywan | kurtyna
+teppe - dywan, kurtyna
 terne - rybitwa
 testikkel - jądro
 testosteron - testosteron
@@ -2546,32 +2546,32 @@ Thailand - Tajlandia
 Thermopylene - Termopile
 ti - dziesięć
 tid - czas
-tidlig - wczesny | wcześnie
+tidlig - wczesny, wcześnie
 tiende - dziesiąty
 tiger - tygrys
 tigger - żebrak
-til - do | dla | na
+til - do, dla, na
 tilbake - z powrotem
 tilbringe - spędzać
-til forskjell fra - w odróżnieniu od | w przeciwieństwie do
-tilgi - przebaczać | wybaczać
-time - godzina | lekcja | wizyta (umówiona)
+til forskjell fra - w odróżnieniu od, w przeciwieństwie do
+tilgi - przebaczać, wybaczać
+time - godzina, lekcja, wizyta (umówiona)
 ting - rzecz
 tinning - skroń
-tinnsoldat - żołnierzyk | cynowy żołnierzyk
+tinnsoldat - żołnierzyk, cynowy żołnierzyk
 tirsdag - wtorek
 tistel - oset
 tittel - tytuł
-tjene - zarabiać | służyć
+tjene - zarabiać, służyć
 tjue - dwadzieścia
 tjuende - dwudziesty
 to - dwa
 toalett - toaleta
 toalettpapir - papier toaletowy
 tobakk - tytoń
-tog - pociąg | pochód
+tog - pociąg, pochód
 tok - ta
-tolv - dwanaście | 12
+tolv - dwanaście, 12
 tolvte - dwunasty
 tom - pusty
 tomat - pomidor
@@ -2579,47 +2579,47 @@ tommel - kciuk
 tømmermenn - kac
 topphemmelig - ściśle tajny
 Tora - Tora
-torg - targ | rynek
-torn - kolec | cierń
+torg - targ, rynek
+torn - kolec, cierń
 tornekrone - korona cierniowa
-tørr - suchy | wytrawny
+tørr - suchy, wytrawny
 torsdag - czwartek
 torsk - dorsz
 tøy - ubranie
-tråd - nitka | nić
+tråd - nitka, nić
 tradisjon - tradycja
 trådløs - bezprzewodowy
 trær - tre
 tråkle - fastrygować
 traktor - traktor
 trane - żuraw
-trang - ciasny | obcisły | wąski
+trang - ciasny, obcisły, wąski
 trapp - schody
-tre - drzewo | drewno | trzy
+tre - drzewo, drewno, trzy
 tredje - trzeci
 trekant - trójkąt
 trekkspill - akordeon
 trenge - potrzebować
 trett - zmęczony
 tretten - trzynaście
-trettende - trzynasty | męczący
+trettende - trzynasty, męczący
 tretthet - zmęczenie
 tretti - trzydzieści
 trettiende - trzydziesty
 trikk - tramwaj
 trillebår - taczka
 trist - smutny
-tro - wiara | wierzyć | myśleć | sądzić | wydawać się
+tro - wiara, wierzyć, myśleć, sądzić, wydawać się
 trygg - bezpieczny
 trykk - akcent
 tsjekker - Czech
 Tsjekkia - Czechy
-tsjekkisk - czeski | czeski (język)
+tsjekkisk - czeski, czeski (język)
 tulipan - tulipan
 tunge - język
 tunnel - tunel
 turisme - turystyka
-turist - turysta | turystka
+turist - turysta, turystka
 turn - gimnastyka
 tusen - tysiąc
 tusende - tysięczny
@@ -2632,13 +2632,13 @@ Tvillingene - Bliźnięta
 tvinge - zmuszać
 TV-serie - serial telewizyjny
 tyggegummi - guma do żucia
-tykk - gruby | gęsty
-tynn - chudy | cienki | rzadki
+tykk - gruby, gęsty
+tynn - chudy, cienki, rzadki
 Tyren - Byk
 tyrker - Turek
 Tyrkia - Turcja
-tyrkisk - turecki | turecki (język)
-tysk - niemiecki | niemiecki (język)
+tyrkisk - turecki, turecki (język)
+tysk - niemiecki, niemiecki (język)
 tysker - Niemiec
 Tyskland - Niemcy
 tyttebær - borówka brusznica
@@ -2646,83 +2646,83 @@ tyv - złodziej
 tyve - dwadzieścia
 uærlig - nieuczciwy
 uærlighet - nieuczciwość
-ubåt - okręt podwodny | łódź podwodna
+ubåt - okręt podwodny, łódź podwodna
 ugle - sowa
 ugress - chwast
 uke - tydzień
 ukeblad - tygodnik
 Ukraina - Ukraina
 ukrainer - Ukrainiec
-ukrainsk - ukraiński | ukraiński (język)
+ukrainsk - ukraiński, ukraiński (język)
 ull - wełna
 ulv - wilk
-under - cud | pod | poniżej | podczas | w czasie
+under - cud, pod, poniżej, podczas, w czasie
 undergang - przejście podziemne
 underholdsbidrag - alimenty
 underleppe - dolna warga
-undersøkelse - badanie medyczne | badanie naukowe
-underveis - w drodze | po drodze
+undersøkelse - badanie medyczne, badanie naukowe
+underveis - w drodze, po drodze
 ung - młody
 ungarer - Węgier
 Ungarn - Węgry
-ungarsk - węgierski | węgierski (język)
-ungdom - młodość | młodzież | młodzieniec | młody człowiek
+ungarsk - węgierski, węgierski (język)
+ungdom - młodość, młodzież, młodzieniec, młody człowiek
 uniform - mundur
 universitet - uniwersytet
 unngå - unikać
 unnskyld - przepraszam!
-ur - zegar | zegarek
+ur - zegar, zegarek
 urbefolkning - ludność rdzenna
 urin - mocz
 urinblære - pęcherz moczowy
 ut - wy-
 ute - na dworze
 uten - bez
-utenlandsk - zagraniczny | obcy
-utfordring - wyzwanie | trudność
+utenlandsk - zagraniczny, obcy
+utfordring - wyzwanie, trudność
 utland - zagranica
-utlending - cudzoziemiec | obcokrajowiec
+utlending - cudzoziemiec, obcokrajowiec
 utseende - wygląd
-uttale - wymowa | wymawiać
-vær - pogoda | baran
+uttale - wymowa, wymawiać
+vær - pogoda, baran
 væra - być
 være - być
 Væren - Baran
 værhår - wąsy
 vær så god - proszę
-vær så snill - proszę | bądź tak miły
+vær så snill - proszę, bądź tak miły
 vært - være
 vagina - pochwa
 vakker - piękny
 våkne - budzić się
 vaksinasjon - szczepienie
 vaksine - szczepionka
-vaksinere - szczepić | szczepić się
+vaksinere - szczepić, szczepić się
 vakuum - próżnia
-valg - wybór | wybory
+valg - wybór, wybory
 valnøtt - orzech włoski
-valp - szczeniak | szczenię
-vanligvis - zwykle | zazwyczaj
-vann - woda | jezioro
+valp - szczeniak, szczenię
+vanligvis - zwykle, zazwyczaj
+vann - woda, jezioro
 vanndamp - para wodna
 vanningskanne - konewka
 vannmelon - arbuz
-vannrett - poziomy | poziomo
+vannrett - poziomy, poziomo
 vanskelig - trudny
 vanskelighet - trudność
 var - være
-vår - wiosna | nasz | swój
-vare - towar | trwać
-varm - ciepły | gorący
+vår - wiosna, nasz, swój
+vare - towar, trwać
+varm - ciepły, gorący
 varulv - wilkołak
 vase - wazon
-vaske - myć | prać
+vaske - myć, prać
 vaskemaskin - pralka
 vaske opp - zmywać (naczynia)
 vaskeservant - umywalka
 våt - mokry
-ved - drewno | przy | pod | nad
-veg - droga | vei
+ved - drewno, przy, pod, nad
+veg - droga, vei
 vegetabilsk - warzywny
 vegetarianer - wegetarianin
 vegg - ściana
@@ -2731,35 +2731,35 @@ veie - ważyć
 veke - tydzień
 vekke - budzić
 vekkerklokke - budzik
-vel - dobrze | chyba | być może | zdaje się | że | dobro | dobrobyt
-veldig - ogromny | bardzo
-velge - wybierać | postanowić | zdecydować się
+vel - dobrze, chyba, być może, zdaje się, że, dobro, dobrobyt
+veldig - ogromny, bardzo
+velge - wybierać, postanowić, zdecydować się
 velger - wyborca
-veltalenhet - elokwencja | retoryka
+veltalenhet - elokwencja, retoryka
 ven - piękny
 venn - przyjaciel
 vennligst - proszę
 vennskap - przyjaźń
-venstre - lewy | lewica
-vente - czekać | spodziewać się
+venstre - lewy, lewica
+vente - czekać, spodziewać się
 veps - osa
 verb - czasownik
 verden - świat
 verdi - wartość
 verdigris - grynszpan
 verdsette - cenić
-verdt - warty | wart
+verdt - warty, wart
 verk - dzieło
 vermut - wermut
-verneplikt - służba wojskowa | obowiązek służby wojskowej
-veske - torba | torebka | teczka
-vest - kamizelka | zachód | na zachód
+verneplikt - służba wojskowa, obowiązek służby wojskowej
+veske - torba, torebka, teczka
+vest - kamizelka, zachód, na zachód
 vestavind - wiatr zachodni
 vestlig - zachodni
 vi - my
 Vietnam - Wietnam
 vietnameser - Wietnamczyk
-vietnamesisk - wietnamski | wietnamski (język)
+vietnamesisk - wietnamski, wietnamski (język)
 viking - wiking
 viktig - ważny
 vil - ville
@@ -2770,13 +2770,13 @@ vin - wino
 vind - wiatr
 vindmølle - wiatrak
 vindu - okno
-vinduskarm - rama okienna | parapet
+vinduskarm - rama okienna, parapet
 vinge - skrzydło
 vinke - machać
 vinne - wygrywać
 vinter - zima
 vinterdekk - opona zimowa
-virkelig - prawdziwy | naprawdę
+virkelig - prawdziwy, naprawdę
 virkelighet - rzeczywistość
 virveldyr - kręgowiec
 visdom - mądrość
@@ -2792,9 +2792,9 @@ voksen - dorosły
 vold - przemoc
 voldta - gwałcić
 vollgrav - fosa
-vugge - kołyska | kolebka
+vugge - kołyska, kolebka
 Wales - Walia
 Warszawa - Warszawa (stolica Polski)
 Wiktionary - Wikisłownik
-ydmyke - upokarzać | poniżać
-ydmykelse - upokorzenie | poniżenie
+ydmyke - upokarzać, poniżać
+ydmykelse - upokorzenie, poniżenie

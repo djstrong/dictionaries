@@ -10,23 +10,23 @@
 абат - opat
 абатски - opacki
 абатство - opactwo
-абдал - głupek | idiota | głupiec
+абдал - głupek, idiota, głupiec
 абдикация - abdykacja
 абдикирам - abdykować
 абдоминален - brzuszny
 абдуктор - abduktor
 абдукция - abdukcja
 аберация - aberracja
-абзац - akapit | paragraf
+абзац - akapit, paragraf
 абисинец - Abisyńczyk
 Абисиния - Abisynia
 абисинка - Abisynka
-абитуриент - abiturient | maturzysta
-абитуриентка - abiturientka | maturzystka
+абитуриент - abiturient, maturzysta
+абитуриентка - abiturientka, maturzystka
 аболиционизъм - abolicjonizm
 абонамент - abonament
-абонат - abonent | prenumerator
-абонирам - abonować | prenumerować
+абонат - abonent, prenumerator
+абонирам - abonować, prenumerować
 абориген - aborygen
 аборт - aborcja
 абразив - ścierniwo
@@ -38,37 +38,37 @@
 абсолютен - absolutny
 абсолютизъм - absolutyzm
 абсолютно - absolutnie
-абсорбирам - absorbować | pochłaniać
+абсорбирам - absorbować, pochłaniać
 абсорбция - absorpcja
 абстрактен - abstrakcyjny
 абстракция - abstrakcja
 абсурд - absurd
 абсурден - absurdalny
 абсурдно - absurdalnie
-абсурдност - absurdalność | niedorzeczność
-абсцес - absces | ropień
+абсурдност - absurdalność, niedorzeczność
+абсцес - absces, ropień
 абсциса - odcięta
 Абу Даби - Abu Zabi
 Абхазия - Abchazja
 абхазки - abchaski
-авангард - awangarda | straż przednia
-аванпост - posterunek wysunięty | awanpost
-аванс - zaliczka | zadatek
-авансирам - dawać zaliczkę | awansować
-авантюра - przygoda | awantura
-авантюрист - poszukiwacz przygód | awanturnik
-авантюристичен - pełen przygód | awanturniczy
+авангард - awangarda, straż przednia
+аванпост - posterunek wysunięty, awanpost
+аванс - zaliczka, zadatek
+авансирам - dawać zaliczkę, awansować
+авантюра - przygoda, awantura
+авантюрист - poszukiwacz przygód, awanturnik
+авантюристичен - pełen przygód, awanturniczy
 авантюристка - awanturnica
 авариен - awaryjny
 авария - awaria
 август - sierpień
 августовски - sierpniowy
 авеню - aleja
-авиатор - awiator | lotnik
+авиатор - awiator, lotnik
 авиаторка - lotniczka
 авиационен - lotniczy
-авиация - lotnictwo | awiacja
-авизо - awizo | zawiadomienie
+авиация - lotnictwo, awiacja
+авизо - awizo, zawiadomienie
 авиолиния - linia lotnicza
 авитаминоза - awitaminoza
 авлига - wilga
@@ -93,19 +93,19 @@
 автограф - autograf
 автозавод - fabryka samochodów
 автоклав - autoklaw
-автократ - autokrata | samowładca
+автократ - autokrata, samowładca
 автокрация - autokracja
 автомагистрала - autostrada
 автомат - automat
 автоматизация - automatyzacja
 автоматичен - automatyczny
 автоматично - automatycznie
-автомобил - samochód | pojazd
-автомобилен - automobilowy | samochodowy
+автомобил - samochód, pojazd
+автомобилен - automobilowy, samochodowy
 автономен - autonomiczny
 автономия - autonomia
 автономно - autonomicznie
-автопилот - autopilot | automatyczny pilot
+автопилот - autopilot, automatyczny pilot
 автопортрет - autoportret
 автор - autor
 авторемонт - naprawa samochodu
@@ -132,7 +132,7 @@
 агнешки - jagnięcy
 агностик - agnostyk
 агностицизъм - agnostycyzm
-агонизирам - być w agonii | konać
+агонизирам - być w agonii, konać
 агония - agonia
 агора - agora
 агорафобия - agorafobia
@@ -149,8 +149,8 @@
 агрономство - agronomia
 агрохимия - agrochemia
 ад - piekło
-адаптация - adaptacja | przystosowanie
-адаптирам - adaptować | przystosowywać
+адаптация - adaptacja, przystosowanie
+адаптирам - adaptować, przystosowywać
 адаш - imiennik
 адвентист - adwentysta
 адвентистка - adwentystka
@@ -162,7 +162,7 @@
 Аделина - Adelina
 Аден - Aden
 адепт - zwolennik
-адет - zwyczaj | obyczaj
+адет - zwyczaj, obyczaj
 Адис Абеба - Addis Abeba
 административен - administracyjny
 администратор - administrator
@@ -179,7 +179,7 @@
 адски - piekielny
 адютант - adiutant
 аерогара - lotnisko
-аеродрум - aerodrom | lotnisko
+аеродрум - aerodrom, lotnisko
 аероклуб - aeroklub
 аеронавтика - aeronautyka
 аероплан - samolot
@@ -187,16 +187,16 @@
 аеростатика - aerostatyka
 аеротранспорт - transport lotniczy
 ажио - ażio
-ажур - ażur | mereżka
+ажур - ażur, mereżka
 аз - ja
 азалия - azalia
 азбест - azbest
-азбука - abecadło | alfabet
+азбука - abecadło, alfabet
 азбучен - alfabetyczny
 Азербайджан - Azerbejdżan
-азербайджанец - Azer | Azerbejdżanin
+азербайджанец - Azer, Azerbejdżanin
 азербайджанка - Azerbejdżanka
-азербайджански - azerbejdżański | azerski
+азербайджански - azerbejdżański, azerski
 азиатец - Azjata
 азиатка - Azjatka
 азимут - azymut
@@ -220,7 +220,7 @@
 акламация - aklamacja
 акламирам - aklamować
 аклиматизирам - aklimatyzować
-ако - jeśli | jeżeli
+ако - jeśli, jeżeli
 акомпанирам - akompaniować
 акорд - akord
 акордеон - akordeon
@@ -234,7 +234,7 @@
 акростих - akrostych
 акселератор - akcelerator
 аксиома - aksjomat
-акт - akt | czyn | działanie | dokument
+акт - akt, czyn, działanie, dokument
 активация - aktywacja
 активен - aktywny
 активист - aktywista
@@ -247,20 +247,20 @@
 акула - rekin
 акумулатор - akumulator
 акумулация - akumulacja
-акуратен - dokładny | punktualny
+акуратен - dokładny, punktualny
 акустика - akustyka
-акушер - położnik | akuszer
-акушерка - akuszerka | położna
+акушер - położnik, akuszer
+акушерка - akuszerka, położna
 акцент - akcent
 акцентувам - akcentować
 акциденция - akcydencja
 акциз - akcyza
 акционер - akcjonariusz
 акция - akcja
-акъл - rozum | rozsądek
+акъл - rozum, rozsądek
 ала - ale
 Аландски острови - Wyspy Alandzkie
-аларма - alarm | hałas | wrzawa
+аларма - alarm, hałas, wrzawa
 алармирам - alarmować
 албанец - Albańczyk
 Албания - Albania
@@ -283,7 +283,7 @@
 алея - aleja
 Алжир - Algieria
 алжирец - Algierczyk
-алжирка - Algierka | algierka
+алжирка - Algierka, algierka
 алжирски - algierski
 алиби - alibi
 алигатор - aligator
@@ -297,7 +297,7 @@
 алпийски - alpejski
 алпийски дисциплини - narciarstwo alpejskie
 алпинизъм - alpinizm
-алтернатива - alternatywa | wybór
+алтернатива - alternatywa, wybór
 алтруизъм - altruizm
 алтруист - altruista
 алуминиев - aluminiowy
@@ -320,11 +320,11 @@
 американизирам - amerykanizować
 американка - Amerykanka
 Американска Самоа - Samoa Amerykańskie
-американски - związany z Ameryką (kontynentem) | związany z USA
+американски - związany z Ameryką (kontynentem), związany z USA
 Американски Вирджински острови - Wyspy Dziewicze Stanów Zjednoczonych
 америций - ameryk
 аметист - ametyst
-амилоидоза - amyloidoza | skrobiawica | betafibryloza
+амилоидоза - amyloidoza, skrobiawica, betafibryloza
 амин - amen
 амнезия - amnezja
 амнистия - amnestia
@@ -356,10 +356,10 @@
 анамнеза - anamneza
 ананас - ananas (roślina i owoc)
 анархизъм - anarchizm
-анархия - anarchia | bezrząd
+анархия - anarchia, bezrząd
 анасон - anyż
 анатема - anatema
-анатемосвам - rzucać anatemę | klątwę
+анатемосвам - rzucać anatemę, klątwę
 анатомия - anatomia
 анафора - anafora
 анахронизъм - anachronizm
@@ -367,7 +367,7 @@
 ангажирам - angażować
 ангел - anioł
 ангина - angina
-английски - angielski | język angielski
+английски - angielski, język angielski
 англицизъм - anglicyzm
 англичанин - Anglik
 англичанка - Angielka
@@ -379,11 +379,11 @@
 анекдот - anegdota
 анексия - aneksja
 анемичен - anemiczny
-анемия - niedokrwistość | anemia
+анемия - niedokrwistość, anemia
 анемограф - anemograf
 анемометър - anemometr
 анестезиолог - anestezjolog
-анестезия - anestezja | znieczulenie
+анестезия - anestezja, znieczulenie
 анимационен - animowany
 анимация - animacja
 Анкара - Ankara
@@ -391,7 +391,7 @@
 анкетен - ankietowy
 анод - anoda
 анонимен - anonimowy
-анонс - anons | ogłoszenie
+анонс - anons, ogłoszenie
 анормален - anormalny
 ансамбъл - zespół
 антагонизъм - antagonizm
@@ -407,7 +407,7 @@
 антилопа - antylopa
 антимон - antymon
 антипатичен - antypatyczny
-антипатия - antypatia | niechęć
+антипатия - antypatia, niechęć
 антитеза - antyteza
 антитяло - antyciało
 антифашистки - antyfaszystowski
@@ -416,7 +416,7 @@
 антоним - antonim
 антракт - antrakt
 антрацит - antracyt
-антре - przedpokój | sień
+антре - przedpokój, sień
 антрополог - antropolog
 антропология - antropologia
 антропоморфизъм - antropomorfizm
@@ -446,11 +446,11 @@
 аптекар - aptekarz
 аптекарка - aptekarka
 аптечен - apteczny
-апчих - apsik! | a psik!
-апчиху - apsik! | a psik!
+апчих - apsik!, a psik!
+апчиху - apsik!, a psik!
 ар - ar
 арабин - Arab
-Арабска лига - Liga Arabska | Liga Państw Arabskich
+Арабска лига - Liga Arabska, Liga Państw Arabskich
 арабски - arabski
 Арабски полуостров - Półwysep Arabski
 Арарат - Ararat (masyw)
@@ -481,7 +481,7 @@
 арменец - Ormianin
 Армения - Armenia
 арменка - Ormianka
-арменски - armeński | ormiański
+арменски - armeński, ormiański
 армия - armia
 арнаутски - albański
 арогантен - arogancki
@@ -492,10 +492,10 @@
 арсенал - arsenał
 артериосклероза - arterioskleroza
 артерия - arteria
-артикул - artykuł | produkt
+артикул - artykuł, produkt
 артилерийски - artyleryjski
 артилерия - artyleria
-артист - artysta | aktor
+артист - artysta, aktor
 артистичен - artystyczny
 артистка - artystka
 Аруба - Aruba
@@ -506,8 +506,8 @@
 археолог - archeolog
 археология - archeologia
 архив - archiwum
-архива - dokumenty archiwalne | archiwum
-архивар - archiwista | archiwariusz
+архива - dokumenty archiwalne, archiwum
+архивар - archiwista, archiwariusz
 архивен - archiwalny
 архиепископ - arcybiskup
 архимандрит - archimandryta
@@ -516,14 +516,14 @@
 архитектура - architektura
 аршин - arszyn
 асансьор - winda
-асексуалност - aseksualizm | aseksualność
+асексуалност - aseksualizm, aseksualność
 асиметричен - asymetryczny
 асимилация - asymilacja
 асимптота - asymptota
 асирийка - Asyryjka
 асистент - asystent
 асистирам - asystować
-аскер - wojsko | żołnierz
+аскер - wojsko, żołnierz
 аскет - asceta
 аскетизъм - ascetyzm
 асортимент - asortyment
@@ -535,7 +535,7 @@
 астатин - astat
 астероид - asteroida
 астигматизъм - astygmatyzm
-астма - astma | dychawica
+астма - astma, dychawica
 астролог - astrolog
 астрология - astrologia
 астронавт - astronauta
@@ -554,13 +554,13 @@
 атаман - ataman
 атеизъм - ateizm
 атеистки - ateistyczny
-Атина - Atena | Ateny
+Атина - Atena, Ateny
 атлантически - atlantycki
 Атлантически океан - Ocean Atlantycki
 атлас - atlas
 атлет - atleta
 атлетика - atletyka
-атмосфера - atmosfera | nastrój
+атмосфера - atmosfera, nastrój
 атмосферен - atmosferyczny
 атол - atol
 атом - atom
@@ -575,7 +575,7 @@
 аудитория - audytorium
 аукцион - aukcja
 ауспух - rura wydechowa
-аутопсия - autopsja | sekcja zwłok
+аутопсия - autopsja, sekcja zwłok
 афазия - afazja
 Афганистан - Afganistan
 афганстански - afgański
@@ -600,12 +600,12 @@
 Бавария - Bawaria
 баварски - bawarski
 бавачка - niańka
-бавен - wolny | powolny
-бавно - powoli | wolno
+бавен - wolny, powolny
+бавно - powoli, wolno
 багаж - bagaż
 багажен - bagażowy
 Багдад - Bagdad
-багра - barwa | barwnik
+багра - barwa, barwnik
 багрен - purpurowy
 бадемов - migdałowy
 баджанак - szwagier
@@ -613,7 +613,7 @@
 база - baza
 базалт - bazalt
 базилика - bazylika
-базис - podstawa | baza
+базис - podstawa, baza
 баир - pagórek
 байно - wujek
 баклава - baklawa
@@ -623,8 +623,8 @@
 бактериология - bakteriologia
 бактерия - bakteria
 Баку - Baku
-бакшиш - bakszysz | bakczysz
-бакър - miedź | kocioł (miedziany)
+бакшиш - bakszysz, bakczysz
+бакър - miedź, kocioł (miedziany)
 бакърен - miedziany
 бал - bal
 балада - ballada
@@ -651,7 +651,7 @@
 Банги - Bangi
 Бангладеш - Bangladesz
 банда - banda
-банджо - banjo | bandżo
+банджо - banjo, bandżo
 бандит - bandyta
 бандитски - bandycki
 бандура - bandura
@@ -662,12 +662,12 @@
 бански - kąpielowy
 баобаб - baobab
 бар - bar
-бара - strumyk | kałuża
+бара - strumyk, kałuża
 барабан - bęben
 барабанист - bębniarz
 бараж - zapora
 Барбадос - Barbados
-бардак - bardak | burdel | bałagan | dom publiczny
+бардак - bardak, burdel, bałagan, dom publiczny
 Баренцово море - Morze Barentsa
 барета - beret
 бариера - bariera
@@ -679,27 +679,27 @@
 Барселона - Barcelona
 бартер - barter
 барут - proch strzelniczy
-бас - bas | zakład
+бас - bas, zakład
 басейн - basen
 басетля - basetla
 баскетбол - koszykówka
-басня - bajka | baśń
+басня - bajka, baśń
 бастун - laska
 батальон - batalion
 батерия - bateria
-Бахамски острови - Wyspy Bahama | Bahamy
+Бахамски острови - Wyspy Bahama, Bahamy
 Бахрейн - Bahrajn
-баща - ojciec | twórca | założyciel
-бащиния - ojcowizna | patrymonium
+баща - ojciec, twórca, założyciel
+бащиния - ojcowizna, patrymonium
 бдение - czuwanie
 бдителен - czujny
 бебе - niemowlę
-беглец - uciekinier | dezerter
-бедем - migdałowiec (drzewo) | migdał (owoc)
-беден - biedny | ubogi
+беглец - uciekinier, dezerter
+бедем - migdałowiec (drzewo), migdał (owoc)
+беден - biedny, ubogi
 бедност - ubóstwo
-беднотия - biedota | bieda
-бедняк - biedak | ubogi
+беднотия - biedota, bieda
+бедняк - biedak, ubogi
 бедро - udo
 бедуин - Beduin
 бежанец - uchodźca
@@ -712,18 +712,18 @@
 безбрачен - nieżonaty
 безбрачие - celibat
 безброен - niezliczony
-безвластие - anarchia | bezprawie
+безвластие - anarchia, bezprawie
 безводен - bezwodny
 безвреден - nieszkodliwy
 безвъзмезден - bezpłatny
 безграничен - bezgraniczny
-безгрешен - bezgrzeszny | bezbłędny
+безгрешен - bezgrzeszny, bezbłędny
 безгрижен - beztroski
 безгръбначен - bezkręgowy
 бездеен - bezczynny
 безделнича - próżnować
 бездетен - bezdzietny
-бездна - przepaść | otchłań | głębina
+бездна - przepaść, otchłań, głębina
 бездомен - bezdomny
 бездушен - bezduszny
 безжалостен - bezlitosny
@@ -735,7 +735,7 @@
 безкомпромисен - bezkompromisowy
 безконечен - nieskończony
 безкористен - bezinteresowny
-безкраен - bezkresny | nieskończony
+безкраен - bezkresny, nieskończony
 безкритичен - bezkrytyczny
 безкръвен - bezkrwawy
 безлихвен - bezprocentowy
@@ -762,12 +762,12 @@
 безпокойство - niepokój
 безполезен - bezużyteczny
 безполов - bezpłciowy
-безпорядък - bezład | nieporządek
+безпорядък - bezład, nieporządek
 безпристрастен - bezstronny
 безработен - bezrobotny
 безработица - bezrobocie
 безразличие - obojętność
-безредие - nieład | nieporządek
+безредие - nieład, nieporządek
 безрезултатен - bezskuteczny
 безсилен - bezsilny
 безсистемен - niesystematyczny
@@ -790,7 +790,7 @@
 безцеремонен - bezceremonialny
 безчислен - niezliczony
 безчовечен - nieludzki
-безчувствен - nieczuły | nieprzytomny
+безчувствен - nieczuły, nieprzytomny
 бейзбол - baseball
 Бейрут - Bejrut
 бел - łopata
@@ -800,16 +800,16 @@
 белгийски - belgijski
 Белгия - Belgia
 Белград - Belgrad
-белег - blizna | znak | oznaka
-бележка - uwaga | notatka | nota
-бележник - notes | notatnik
+белег - blizna, znak, oznaka
+бележка - uwaga, notatka, nota
+бележник - notes, notatnik
 белезникав - białawy
 Белиз - Belize
-белина - biel | wybielacz
+белина - biel, wybielacz
 белка - kuna domowa
 белодробен - płucny
 белокож - białoskóry
-белокос - białowłosy | siwy
+белокос - białowłosy, siwy
 белоруски - białoruski
 белота - biel
 бельо - bielizna
@@ -822,12 +822,12 @@
 бент - tama
 бербер - fryzjer męski
 берилий - beryl
-беритба - zbiór | żniwo
+беритба - zbiór, żniwo
 берклий - berkel
 Берлин - Berlin
 Бермудски острови - Bermudy
 Берн - Berno
-беседа - rozmowa | pogawędka
+беседа - rozmowa, pogawędka
 беседвам - gawędzić
 бесен - wściekły
 беся - wieszać
@@ -839,10 +839,10 @@
 библиотека - biblioteka
 библиотекар - bibliotekarz
 бивол - bawół
-бивш - były | niegdysiejszy
+бивш - były, niegdysiejszy
 Бивша югославска република Македония - Była Jugosłowiańska Republika Macedonii
 биде - bidet
-бидон - bańka | blaszanka
+бидон - bańka, blaszanka
 бижутер - jubiler
 бизон - bizon
 бик - byk
@@ -861,7 +861,7 @@
 биосфера - biosfera
 биофизика - biofizyka
 биохимия - biochemia
-биплан - dwupłatowiec | dwupłat
+биплан - dwupłatowiec, dwupłat
 бира - piwo
 бирария - piwiarnia
 бирен - piwny
@@ -870,11 +870,11 @@
 бисер - perła
 бисквита - herbatnik
 бисмут - bizmut
-бистър - czysty | klarowny | przeźroczysty
-бит - byt | bit
+бистър - czysty, klarowny, przeźroczysty
+бит - byt, bit
 битка - bitwa
 битпазар - tandeta (bazar)
-бич - bat | bicz
+бич - bat, bicz
 бичи - byczy
 Бишкек - Biszkek
 бия - bić
@@ -886,14 +886,14 @@
 благодушен - dobroduszny
 Благоевград - Błagojewgrad
 благоразумен - rozsądny
-благоразумие - roztropność | rozsądek
+благоразумие - roztropność, rozsądek
 благороден - szlachetny
-благосклонно - życzliwie | przychylnie
+благосклонно - życzliwie, przychylnie
 благославям - błogosławić
 благословен - błogosławiony
 благословя - pobłogosławić
 благотворителност - dobroczynność
-блажен - szczęśliwy | błogi
+блажен - szczęśliwy, błogi
 блатен - błotny
 бленувам - marzyć
 ближа - lizać
@@ -906,18 +906,18 @@
 блокирам - blokować
 блондин - blondyn
 блондинка - blondynka
-блудница - rozpustnica | wszetecznica
-блуза - bluza | bluzka
+блудница - rozpustnica, wszetecznica
+блуза - bluza, bluzka
 Блумфонтейн - Bloemfontein
 блус - blues
-блъскам - uderzać | trącać | popychać
+блъскам - uderzać, trącać, popychać
 блъф - blef
 блъфирам - blefować
-блюдо - półmisek | potrawa
+блюдо - półmisek, potrawa
 блян - marzenie
 блясвам - błyszczeć
-бляскам - błyskać | błyszczeć
-блясък - blask | błysk
+бляскам - błyskać, błyszczeć
+блясък - blask, błysk
 боб - fasola
 бобина - cewka
 бобслей - bobsleje
@@ -929,15 +929,15 @@
 богиня - bogini
 богословие - teologia
 богослужебен - liturgiczny
-бода - kłuć | bóść
-боец - bojownik | żołnierz
+бода - kłuć, bóść
+боец - bojownik, żołnierz
 божествен - boski
 божур - piwonia
 бозайник - ssak
-бозка - sutek | cycek
+бозка - sutek, cycek
 бойкотирам - bojkotować
 бойлер - bojler
-бокс - boks | pięściarstwo
+бокс - boks, pięściarstwo
 боксьор - bokser
 боледувам - chorować
 болен - chory
@@ -945,21 +945,21 @@
 болестен - chorobowy
 боливиец - Boliwijczyk
 Боливия - Boliwia
-болка - ból | bolączka
+болка - ból, bolączka
 болнав - chorowity
 болница - szpital
 болничен - szpitalny
-болт - bolec | sworzeń
+болт - bolec, sworzeń
 боля - boleć
 бомба - bomba
 бомбардирам - bombardować
 бомбардировач - bombowiec
 бонбон - cukierek
 бонгос - bongosy
-бор - sosna | bor
-борба - walka | zapasy
+бор - sosna, bor
+борба - walka, zapasy
 борд - burta
-бордюр - bordiura | krawężnik
+бордюр - bordiura, krawężnik
 борий - bohr
 Борис - Borys
 Борнео - Borneo
@@ -976,7 +976,7 @@
 Ботсуана - Botswana
 ботуш - but (z cholewą)
 боя - farba
-бояджия - farbiarz | malarz (pokojowy)
+бояджия - farbiarz, malarz (pokojowy)
 боязлив - bojaźliwy
 брава - zamek (w drzwiach)
 браво - brawo!
@@ -988,14 +988,14 @@
 бразилец - Brazylijczyk
 Бразилия - Brazylia
 бракосъчетавам - dawać ślub
-бракувам - brakować | odrzucać braki
+бракувам - brakować, odrzucać braki
 брана - brona
 бранш - branża
-брат - brat | bliski człowiek | przyjaciel | towarzysz | mnich w stosunku do innych mnichów | forma grzecznościowa | używana przy zwracaniu się do mężczyzny | z którym się jest wbliskich | zażyłych | przyjacielskich stosunkach
+брат - brat, bliski człowiek, przyjaciel, towarzysz, mnich w stosunku do innych mnichów, forma grzecznościowa, używana przy zwracaniu się do mężczyzny, z którym się jest wbliskich, zażyłych, przyjacielskich stosunkach
 Братислава - Bratysława
 братоубийствен - bratobójczy
-братски - braterski | bratni | po bratersku
-братство - bractwo | braterstwo
+братски - braterski, bratni, po bratersku
+братство - bractwo, braterstwo
 браузър - przeglądarka (internetowa)
 брашнен - mączny
 брашно - mąka
@@ -1004,7 +1004,7 @@
 брезент - brezent
 бреме - brzemię
 бременен - brzemienny
-бременност - brzemienność | ciąża
+бременност - brzemienność, ciąża
 бригада - brygada
 бригантина - brygantyna
 Бриджтаун - Bridgetown
@@ -1013,9 +1013,9 @@
 британски - brytyjski
 Британски Вирджински острови - Brytyjskie Wyspy Dziewicze
 брод - bród
-бродерия - broderia | haft
-бродяга - włóczęga | bezdomny
-брой - liczba | numer czasopisma bądź gazety
+бродерия - broderia, haft
+бродяга - włóczęga, bezdomny
+брой - liczba, numer czasopisma bądź gazety
 бром - brom
 бронебоен - przeciwpancerny
 броненосец - pancernik
@@ -1024,12 +1024,12 @@
 бронхит - bronchit
 брошка - broszka
 брошура - broszura
-броя - liczyć | płacić
+броя - liczyć, płacić
 брояч - licznik
 Бруней - Brunei
 брутален - brutalny
 бръмбар - chrząszcz
-брътвеж - gadanina | paplanina
+брътвеж - gadanina, paplanina
 бръчка - zmarszczka
 Брюксел - Bruksela
 брюнет - brunet
@@ -1056,7 +1056,7 @@
 бункер - bunkier
 бунт - bunt
 Бургас - Burgas
-буре - baryłka | beczułka
+буре - baryłka, beczułka
 бурен - burzliwy
 буржоазен - burżuazyjny
 буржоазия - burżuazja
@@ -1066,41 +1066,41 @@
 Бурунди - Burundi
 буря - burza
 Бурятия - Buriacja
-бут - udziec | udo
+бут - udziec, udo
 бутам - pchać
 бутан - butan
 Бутан - Bhutan
 бутилка - butelka
-бутон - guzik | przycisk
+бутон - guzik, przycisk
 буфер - bufor
 бухал - puchacz
-буца - bryła | gruda
-бучка - bryłka | grudka | guzek
+буца - bryła, gruda
+бучка - bryłka, grudka, guzek
 бушон - bezpiecznik
 бъбрек - nerka
 бъбрив - gadatliwy
-бъбря - bełkotać | mamrotać
+бъбря - bełkotać, mamrotać
 бъда - być
-бъз - bez | dziki bez
-бъзлив - tchórzliwy | bojaźliwy
+бъз - bez, dziki bez
+бъзлив - tchórzliwy, bojaźliwy
 българин - Bułgar
 България - Bułgaria
 българка - Bułgarka
-български - bułgarski | po bułgarsku
+български - bułgarski, po bułgarsku
 бълха - pchła
-бърдо - wzgórze | wzniesienie | bardo | płocha
+бърдо - wzgórze, wzniesienie, bardo, płocha
 бърз - szybki
 бързам - śpieszyć się
-бързина - szybkość | pośpiech
-бързо - prędko | szybko
+бързина - szybkość, pośpiech
+бързо - prędko, szybko
 бързопис - stenografia
 бързо пързаляне с кънки - łyżwiarstwo szybkie
 бъркани яйца - jajecznica
-бъркотия - zamieszanie | zamęt | bałagan
-бърлога - barłóg | legowisko
+бъркотия - zamieszanie, zamęt, bałagan
+бърлога - barłóg, legowisko
 бърна - warga
 бърсалка - ścierka
-бърша - ścierać | wycierać
+бърша - ścierać, wycierać
 бъчва - beczka
 бъчвар - bednarz
 бюджет - budżet
@@ -1110,22 +1110,22 @@
 бюрократизъм - biurokratyzm
 бюрократически - biurokratyczny
 бяг - bieg
-бягам - uciekać | biegać
+бягам - uciekać, biegać
 бягане - bieganie
 бягане с препятствия - bieg przez płotki
 бял - biały
 бял дроб - płuco
 Бяло море - Morze Białe
-бяс - wścieklizna | wściekłość | bies
+бяс - wścieklizna, wściekłość, bies
 в - w
 вагина - pochwa
 вагон - wagon
 вада - rów wodny
-вадя - wydobywać | wyjmować | odejmować
+вадя - wydobywać, wyjmować, odejmować
 важен - ważny
-ваза - wazon | flakon
+ваза - wazon, flakon
 вазектомия - wazektomia
-вайкам - biadać | lamentować
+вайкам - biadać, lamentować
 ваканционен - wakacyjny
 ваканция - wakacje
 валдхорна - waltornia
@@ -1136,7 +1136,7 @@
 вампир - wampir
 вана - wanna
 ванадий - wanad
-вандал - wandal | Wandal
+вандал - wandal, Wandal
 ванилия - wanilia
 Вануату - Vanuatu
 варвар - barbarzyńca
@@ -1146,28 +1146,28 @@
 вариация - wariacja
 Варна - Warna
 Варшава - Warszawa
-Васил - Wasyl | imię męskie
+Васил - Wasyl, imię męskie
 ват - wat
 Ватикан - Watykan
-ватман - motorniczy | tramwajarz
+ватман - motorniczy, tramwajarz
 ваш - wasz
-вбесявам - rozwścieczać | złościć
+вбесявам - rozwścieczać, złościć
 вбивам - wbijać
 вгорчавам - czynić gorzkim
-вгъвам - zginać | zaginać
+вгъвам - zginać, zaginać
 вдигам - podnosić
 вдигане - podnoszenie
 вдигане на тежести - podnoszenie ciężarów
 вдлъбнат - wklęsły
-вдлъбнатина - wgłębienie | wklęsłość
+вдлъбнатина - wgłębienie, wklęsłość
 вдовишки - wdowi
 вдървен - zdrętwiały
-вдъхвам - wdychać | wpajać
+вдъхвам - wdychać, wpajać
 вдъхновен - natchniony
 вдявам - nawlekać igłę
 вегетарианство - wegetarianizm
 вежда - brew
-вежлив - uprzejmy | grzeczny | miły
+вежлив - uprzejmy, grzeczny, miły
 вездесъщ - wszechobecny
 век - wiek
 вековен - wiekowy
@@ -1182,7 +1182,7 @@
 величина - wielkość
 велосипед - rower
 вена - żyła
-Венера - Wenus | Wenera
+Венера - Wenus, Wenera
 венерически - weneryczny
 Венеция - Wenecja
 Венецуела - Wenezuela
@@ -1194,7 +1194,7 @@
 венчален - ślubny
 веранда - weranda
 вербувам - werbować
-верен - wierny | prawdziwy
+верен - wierny, prawdziwy
 вересия - kredyt
 верига - łańcuch
 верижка - łańcuszek
@@ -1205,8 +1205,8 @@
 вероятно - prawdopodobnie
 вероятност - prawdopodobieństwo
 версия - wersja
-вертикален - pionowy | wertykalny
-весел - wesoły | uradowany
+вертикален - pionowy, wertykalny
+весел - wesoły, uradowany
 весло - wiosło
 вестник - gazeta
 ветеран - weteran
@@ -1215,26 +1215,26 @@
 вече - już
 вечен - wieczny
 вечер - wieczór
-вечерен - wieczorny | wieczorowy
+вечерен - wieczorny, wieczorowy
 вечеря - kolacja
 вечно - wiecznie
-вещ - rzecz | biegły | obeznany
+вещ - rzecz, biegły, obeznany
 веществен - rzeczowy
-вещество - substancja | materia
-вещина - wiedza | umiejętność | biegłość | mistrzostwo
+вещество - substancja, materia
+вещина - wiedza, umiejętność, biegłość, mistrzostwo
 взаимен - wzajemny
 взвод - pluton
 взема - wziąć
 вземам - brać
 взор - spojrzenie
-взрив - wybuch | materiał wybuchowy
+взрив - wybuch, materiał wybuchowy
 взривен - wybuchowy
 вибрафон - wibrafon
 видеоигра - gra wideo
-видим - widoczny | widzialny
+видим - widoczny, widzialny
 видра - wydra
 вие - wy
-виелица - zamieć | zawieja
+виелица - zamieć, zawieja
 Виена - Wiedeń
 виенски - wiedeński
 Виетнам - Wietnam
@@ -1244,13 +1244,13 @@
 Византия - Bizancjum
 визита - wizyta
 визитка - wizytówka
-викам - krzyczeć | wołać | wzywać
+викам - krzyczeć, wołać, wzywać
 вилица - widelec
 Вилнюс - Wilno
 вина - wina
 винаги - zawsze
 вино - wino
-винт - śruba | wkręt
+винт - śruba, wkręt
 виня - obwiniać
 виола - altówka
 виолетов - fioletowy
@@ -1269,22 +1269,22 @@
 витаминен - witaminowy
 витраж - witraż
 вихър - wicher
-виц - wic | dowcip
+виц - wic, dowcip
 Виченца - Vicenza (miasto)
-вишна - wiśnia (drzewo) | wiśnia (owoc)
+вишна - wiśnia (drzewo), wiśnia (owoc)
 вковавам - wbijać
 вкус - smak
-вкусвам - smakować | próbować
+вкусвам - smakować, próbować
 вкусен - smaczny
 влага - wilgoć
-влагалище - wagina | pochwa
+влагалище - wagina, pochwa
 влагам - wkładać
 владика - biskup
-влажен - wilgotny | mokry
-влажност - wilgotność | wilgoć
+влажен - wilgotny, mokry
+влажност - wilgotność, wilgoć
 влак - pociąg
 влакнест - włóknisty
-влакно - włókno | włos
+влакно - włókno, włos
 власат - włochaty
 власт - władza
 властелин - władca
@@ -1307,16 +1307,16 @@
 внос - import
 внук - wnuk
 внучка - wnuczka
-воал - woalka | woal
+воал - woalka, woal
 вода - woda
-воден - wodny | wodnisty
+воден - wodny, wodnisty
 воденичен - młyński
 водка - wódka
 водна топка - piłka wodna
 водни ски - narciarstwo wodne
 водно конче - ważka
 водовъртеж - wir (wodny)
-вододел - dział wód | wododział
+вододел - dział wód, wododział
 водолаз - nurek
 водолечебен - wodoleczniczy
 водопад - wodospad
@@ -1325,9 +1325,9 @@
 водоравен - poziomy
 водород - wodór
 военачалник - dowódca
-вожд - wódz | przywódca
-возило - wehikuł | środek transportu
-возя - wozić | wieźć
+вожд - wódz, przywódca
+возило - wehikuł, środek transportu
+возя - wozić, wieźć
 воин - żołnierz
 война - wojna
 войник - żołnierz
@@ -1335,7 +1335,7 @@
 войнствен - wojowniczy
 войска - wojsko
 войскови - wojskowy
-вол - wół | o człowieku głupiec | prostak | dziwak
+вол - wół, o człowieku głupiec, prostak, dziwak
 Волгоград - Wołgograd
 волейбол - siatkówka
 волност - wolność
@@ -1343,31 +1343,31 @@
 волтметър - woltomierz
 волфрам - wolfram
 воля - wola
-воня - smród | fetor
+воня - smród, fetor
 восък - wosk
 восъчен - woskowy
 вот - wotum
 воювам - walczyć
 впечатлителен - wrażliwy
-вплитам - wplatać | wplątywać
+вплитам - wplatać, wplątywać
 врабец - wróbel
 врабче - wróbel
-враг - wróg | oponent
+враг - wróg, oponent
 вражда - wrogość
 враждебен - wrogi
 врана - wrona
 врат - kark
-врата - brama | wrota
-вратар - portier | bramkarz
+врата - brama, wrota
+вратар - portier, bramkarz
 вратовръзка - krawat
 вреда - szkoda
 вреден - szkodliwy
-време - czas | pogoda
-временен - czasowy | tymczasowy
+време - czas, pogoda
+временен - czasowy, tymczasowy
 вроден - wrodzony
 връв - sznurek
 връзвам - wiązać
-връх - wierzchołek | szczyt
+връх - wierzchołek, szczyt
 връщам - wracać
 врява - wrzawa
 всеизвестен - powszechnie znany
@@ -1396,7 +1396,7 @@
 входен - wejściowy
 вцепенен - zdrętwiały
 вчера - wczoraj
-във - w | в
+във - w, в
 въведа - wprowadzić (np. pojęcie, termin)
 въвеждам - wprowadzać
 въвеждане - wprowadzenie
@@ -1409,12 +1409,12 @@
 възел - węzeł
 възможен - możliwy
 възможност - możliwość
-възниквам - powstawać | tworzyć (się)
-възпирам - zatrzymywać | powstrzymywać
+възниквам - powstawać, tworzyć (się)
+възпирам - zatrzymywać, powstrzymywać
 възраст - wiek (ilość lat u człowieka)
 възсин - niebieskawy
 вълк - wilk
-вълна - wełna | fala (wody) | fala
+вълна - wełna, fala (wody), fala
 вълнен - wełniany
 вълнист - falisty
 вълшебен - czarodziejski
@@ -1423,19 +1423,19 @@
 вървеж - chód
 вървя - iść
 върколак - wilkołak
-върна - wrócić | zwrócić
+върна - wrócić, zwrócić
 вътрешен - wewnętrzny
 въшка - wesz
 вяра - wiara
-вярвам - wierzyć | ufać
+вярвам - wierzyć, ufać
 вятър - wiatr
 вятърничав - lekkomyślny
 габардин - gabardyna
 Габон - Gabon
 гага - dziób
-гаден - wstrętny | ohydny
-гадже - dziewczyna | chłopak
-газ - gaz | gaza
+гаден - wstrętny, ohydny
+гадже - dziewczyna, chłopak
+газ - gaz, gaza
 газета - gazeta
 газиран - gazowany
 газов - gazowy
@@ -1450,14 +1450,14 @@
 Гамбия - Gambia
 Гана - Ghana
 Ганг - Ganges
-гангрена - gangrena | zgorzel
+гангрена - gangrena, zgorzel
 Ганимед - Ganimedes
 гара - dworzec kolejowy
 гараж - garaż
 гаранция - gwarancja
 гарван - kruk
 Гаргантюа - Gargantua
-гардероб - garderoba (ubrania) | garderoba (szafa) | szatnia
+гардероб - garderoba (ubrania), garderoba (szafa), szatnia
 гатанка - zagadka
 гаф - gafa
 Гаяна - Gujana
@@ -1471,7 +1471,7 @@
 Гвинея-Бисау - Gwinea Bissau
 гвоздей - gwóźdź
 Гданск - Gdańsk
-гевгир - durszlak | cedzak
+гевгир - durszlak, cedzak
 гей - gej
 гейзер - gejzer
 ген - gen
@@ -1493,15 +1493,15 @@
 геометрия - geometria
 геоморфология - geomorfologia
 Георги - imię męskie
-герб - godło | herb
-гердан - naszyjnik | obroża
+герб - godło, herb
+гердан - naszyjnik, obroża
 германец - Niemiec
 германий - german
 Германия - Niemcy
 германка - Niemka
 Германска демократична република - Niemiecka Republika Demokratyczna
-героизъм - bohaterstwo | heroizm
-героичен - bohaterski | heroiczny
+героизъм - bohaterstwo, heroizm
+героичен - bohaterski, heroiczny
 герой - bohater
 геройски - bohaterski
 Гибралтар - Gibraltar
@@ -1515,7 +1515,7 @@
 гинекологичен - ginekologiczny
 гинекология - ginekologia
 гипс - gips
-глава - głowa | rozdział | przywódca (państwowy)
+глава - głowa, rozdział, przywódca (państwowy)
 главен - główny
 главня - głownia
 главоболие - ból głowy
@@ -1530,43 +1530,43 @@
 гладък - gładki
 гламавщина - głupota
 глас - głos
-гласен - głośny | głosowy
+гласен - głośny, głosowy
 гласувам - głosować
 гласуване - głosowanie
 глациология - glacjologia
 гледам - oglądać
-глезен - kostka (u nogi) | rozpieszczony
+глезен - kostka (u nogi), rozpieszczony
 глина - glina
 глинен - gliniany
 глинест - gliniasty
 глицеринов - glicerynowy
-глоба - grzywna | kara pieniężna
+глоба - grzywna, kara pieniężna
 глобален - globalny
 глобус - globus
 глог - głóg
 глокеншпил - dzwonki
 глума - żart
 глупав - głupi
-глупак - głupiec | głupek
+глупак - głupiec, głupek
 глупец - głupiec
 глух - głuchy
 глухар - głuszec
 глухоням - głuchoniemy
 глухота - głuchota
-глътвам - połykać | pochłaniać
-глътка - łyk | haust
-глъчка - zgiełk | gwar
-гневен - gniewny | zagniewany
+глътвам - połykać, pochłaniać
+глътка - łyk, haust
+глъчка - zgiełk, gwar
+гневен - gniewny, zagniewany
 гнездо - gniazdo
-гнил - zgniły | zbutwiały
+гнил - zgniły, zbutwiały
 гноен - ropny
-гном - gnom | krasnal
+гном - gnom, krasnal
 гностицизъм - gnostycyzm
-гнусен - obrzydliwy | wstrętny
-гняв - gniew | złość
+гнусен - obrzydliwy, wstrętny
+гняв - gniew, złość
 говедо - bydlę
 говно - gówno
-говор - mowa | gwara
+говор - mowa, gwara
 говоря - mówić
 годеник - narzeczony
 годеница - narzeczona
@@ -1575,20 +1575,20 @@
 годишнина - rocznica
 годишно - rocznie
 годолиний - gadolin
-гол - goły | gol
+гол - goły, gol
 голем - golem
 големина - wielkość
 голословен - gołosłowny
-голота - golizna | nagość
+голота - golizna, nagość
 голф - golf
-голям - duży | wielki
+голям - duży, wielki
 гонг - gong
-гонорея - rzeżączka | gonorea
-гоня - gonić | ścigać | prześladować
+гонорея - rzeżączka, gonorea
+гоня - gonić, ścigać, prześladować
 гора - las
-горе - na górze | w górę
+горе - na górze, w górę
 горещ - gorący
-горещина - gorąco | upał | zapał
+горещина - gorąco, upał, zapał
 гориво - paliwo
 горила - goryl
 горист - lesisty
@@ -1596,7 +1596,7 @@
 горчив - gorzki
 горчивина - gorycz
 горчица - musztarda
-горя - palić się | płonąć
+горя - palić się, płonąć
 господар - gospodarz
 господарка - gospodyni
 господин - pan
@@ -1607,21 +1607,21 @@
 гостоприемен - gościnny
 готвач - kucharz
 готвачка - kucharka
-готов - gotowy | gotów
+готов - gotowy, gotów
 грабител - grabieżca
 граблив - drapieżny
 гравирам - grawerować
 гравитация - grawitacja
-град - miasto | grad | opad atmosferyczny
-градеж - budowa | budowanie
+град - miasto, grad, opad atmosferyczny
+градеж - budowa, budowanie
 градина - ogród
 градинар - ogrodnik
 градинарски - ogrodniczy
 градински - ogrodowy
 градски - miejski
-градус - stopień (geograficzny) | stopień (temperatura)
+градус - stopień (geograficzny), stopień (temperatura)
 градушка - grad
-гражданин - obywatel | mieszczanin
+гражданин - obywatel, mieszczanin
 гражданска война - wojna domowa
 гражданство - obywatelstwo
 гракам - krakać
@@ -1634,7 +1634,7 @@
 граница - granica
 гранича - graniczyć
 грапав - chropowaty
-гратис - gratis | bezpłatnie | bilet bezpłatny
+гратис - gratis, bezpłatnie, bilet bezpłatny
 графит - grafit
 графичен - graficzny
 графология - grafologia
@@ -1646,10 +1646,10 @@
 Гренада - Grenada (państwo)
 Гренландия - Grenlandia
 греховен - grzeszny
-грешка - błąd | pomyłka
+грешка - błąd, pomyłka
 грешник - grzesznik
 грива - grzywa
-гривна - bransoleta | obręcz
+гривна - bransoleta, obręcz
 григориански - gregoriański
 грижа - troska
 грижа се - troszczyć się
@@ -1667,38 +1667,38 @@
 гроздов - winogronowy
 грозен - brzydki
 грузинец - Gruzin
-грузински - gruziński | język gruziński
+грузински - gruziński, język gruziński
 Грузия - Gruzja
 група - grupa
 групирам - grupować
 групировка - ugrupowanie
 групов - grupowy
-гръб - grzbiet | plecy | tył
+гръб - grzbiet, plecy, tył
 гръбнак - kręgosłup
 гръбначен - kręgowy
 гръден - piersiowy
 грък - Grek
 гръклян - krtań
-гръм - grom | piorun
+гръм - grom, piorun
 гръмотевица - grzmot
 грънчар - garncarz
 грънчарски - garncarski
-гръцки - grecki | język grecki
+гръцки - grecki, język grecki
 грях - grzech
 Гуам - Guam
-губер - kobierzec | kilim
+губер - kobierzec, kilim
 губернатор - gubernator
 губерния - gubernia
-губя - gubić | tracić
+губя - gubić, tracić
 гумен - gumowy
 гургулица - turkawka
 гущер - jaszczurka
-гъба - grzyb | gąbka
+гъба - grzyb, gąbka
 гъбен - grzybowy
-гъвкав - giętki | gibki
+гъвкав - giętki, gibki
 гъделичкам - łaskotać
 гъдулка - gadułka
-гълтам - łykać | połykać
+гълтам - łykać, połykać
 гълъб - gołąb
 гълъбица - gołębica
 гърбав - garbaty
@@ -1709,16 +1709,16 @@
 гърло - gardło
 Гърнси - Guernsey
 Гърция - Grecja
-гърч - kurcz | spazm
+гърч - kurcz, spazm
 гъсеница - gąsienica
 гъска - gęś
 гъст - gęsty
 гъстота - gęstość
 гътвам - przewracać
 гъши - gęsi
-гьол - kałuża | bajoro
+гьол - kałuża, bajoro
 гюле - kula
-гюрултия - zgiełk | wrzawa
+гюрултия - zgiełk, wrzawa
 гяур - giaur
 да - tak
 давам - dawać
@@ -1731,12 +1731,12 @@
 дам - dać
 Дамаск - Damaszek
 дамски - damski
-дандания - wrzawa | zgiełk
+дандания - wrzawa, zgiełk
 Дания - Dania
 дансинг - dansing
 данък - podatek
-дар - dar | prezent | talent
-дарба - dar | talent | uzdolnienie
+дар - dar, prezent, talent
+дарба - dar, talent, uzdolnienie
 дарвинизъм - darwinizm
 дармщадтий - darmsztadt
 даровит - utalentowany
@@ -1745,21 +1745,21 @@
 датирам - datować (się)
 датски - duński
 датчанин - Duńczyk
-два - dwa | 2
-двадесет - dwadzieścia | 20
-дванадесет - dwanaście | 12
+два - dwa, 2
+двадесет - dwadzieścia, 20
+дванадесет - dwanaście, 12
 двегодишен - dwuletni
-двигател - silnik | motor
+двигател - silnik, motor
 движение - ruch
 двоен - podwójny
-двойка - dwójka | para
+двойка - dwójka, para
 дворец - pałac
 двояк - dwojaki
 двубой - pojedynek
 двудневен - dwudniowy
 двуезичен - dwujęzyczny
 двуетажен - dwupiętrowy
-двузначен - dwuznaczny | dwucyfrowy
+двузначен - dwuznaczny, dwucyfrowy
 двуколка - dwukółka
 двукрак - dwunogi
 двукратен - dwukrotny
@@ -1771,7 +1771,7 @@
 двустаен - dwupokojowy
 двустранен - dwustronny
 двучасов - dwugodzinny
-двучленен - dwuczłonowy | dwuosobowy
+двучленен - dwuczłonowy, dwuosobowy
 дебел - gruby
 дебелоглав - uparty
 дебелокож - gruboskórny
@@ -1780,22 +1780,22 @@
 девалвация - dewaluacja
 девет - dziewięć
 деветгодишен - dziewięcioletni
-деветдесет - dziewięćdziesiąt | 90
+деветдесет - dziewięćdziesiąt, 90
 девети - dziewiąty
 деветка - dziewiątka
 деветкратен - dziewięciokrotny
-деветнадесет - dziewiętnaście | 19
+деветнадесет - dziewiętnaście, 19
 девиация - dewiacja
 девиз - dewiza
-девица - dziewczę | dziewczyna
+девица - dziewczę, dziewczyna
 девически - dziewczęcy
 деградирам - degradować
 дедукция - dedukcja
-деен - czynny | aktywny
+деен - czynny, aktywny
 дезертирам - dezerterować
 дейност - działalność
 действам - działać
-действие - działanie | czynność | postępowanie | czyn | akt
+действие - działanie, czynność, postępowanie, czyn, akt
 действителност - rzeczywistość
 декември - grudzień
 декемврийски - grudniowy
@@ -1810,7 +1810,7 @@
 делегирам - delegować
 деликатен - delikatny
 делир - delirium
-дело - sprawa | robota | czyn | dzieło
+дело - sprawa, robota, czyn, dzieło
 делтапланеризъм - lotniarstwo
 делфин - delfin
 демагогски - demagogiczny
@@ -1841,7 +1841,7 @@
 деспотизъм - despotyzm
 деспотичен - despotyczny
 дестилация - destylacja
-детайл - detal | szczegół
+детайл - detal, szczegół
 детайлен - szczegółowy
 дете - dziecko
 детектив - detektyw
@@ -1849,19 +1849,19 @@
 детерминизъм - determinizm
 детонация - detonacja
 дефект - defekt
-дефилирам - defilować | maszerować
+дефилирам - defilować, maszerować
 дефинирам - definiować
 дефинитивен - definitywny
 дефиниция - definicja
 дефицит - deficyt
 дефицитен - deficytowy
 деформация - deformacja
-джавкам - szczekać | ujadać
+джавкам - szczekać, ujadać
 джаз - jazz
 джамия - meczet
 джендем - i  piekło
 Джибути - Dżibuti
-джин - dżin | gin
+джин - dżin, gin
 джинджифил - imbir
 джинси - dżinsy
 джиросвам - żyrować
@@ -1869,9 +1869,9 @@
 джудже - karzeł
 джудо - dżudo
 Джърси - Jersey
-диагноза - rozpoznanie | diagnoza
+диагноза - rozpoznanie, diagnoza
 диагонал - przekątna
-диаграма - diagram | wykres
+диаграма - diagram, wykres
 диалект - dialekt
 диалектика - dialektyka
 диалог - dialog
@@ -1906,19 +1906,19 @@
 диплома - dyplom
 дипломатичен - dyplomatyczny
 директен - bezpośredni
-директива - dyrektywa | wytyczna
+директива - dyrektywa, wytyczna
 директор - dyrektor
-директория - folder | katalog
+директория - folder, katalog
 дирекция - dyrekcja
 диригент - dyrygent
 дирижирам - dyrygować
-диря - ślad | trop | szukać | poszukiwać
+диря - ślad, trop, szukać, poszukiwać
 дисертация - dysertacja
 диск - dysk
 дискредитирам - dyskredytować
 дискретен - dyskretny
 дискриминация - dyskryminacja
-дискусия - dyskusja | debata
+дискусия - dyskusja, debata
 дискутирам - dyskutować
 дислексия - dysleksja
 дисонанс - dysonans
@@ -1932,30 +1932,30 @@
 дисциплинирам - dyscyplinować
 дисциплиниран - zdyscyplinowany
 дифракция - dyfrakcja
-дифтонг - dwugłoska | dyftong
+дифтонг - dwugłoska, dyftong
 дифузия - dyfuzja
-дихание - dech | tchnienie
+дихание - dech, tchnienie
 дихателен - oddechowy
 дишам - oddychać
-дишане - oddychanie | oddech
+дишане - oddychanie, oddech
 длан - dłoń
 длето - dłuto
 дневен - dzienny
-дневник - dziennik | diariusz
+дневник - dziennik, diariusz
 днес - dzisiaj
-днеска - dziś | dzisiaj
+днеска - dziś, dzisiaj
 днешен - dzisiejszy
-до - do | przy | obok
+до - do, przy, obok
 добавка - dodatek
 добавъчен - dodatkowy
 добавя - dodać
 доберман - doberman
-добивам - uzyskiwać | otrzymywać | rodzić
-добитък - dobytek | bydło | bydlę
-доблестен - odważny | dzielny
+добивам - uzyskiwać, otrzymywać, rodzić
+добитък - dobytek, bydło, bydlę
+доблестен - odważny, dzielny
 добре - dobrze
 доброволен - dobrowolny
-добродетел - cnota | prawość
+добродетел - cnota, prawość
 добродушен - dobroduszny
 доброжелателен - życzliwy
 доброта - dobroć
@@ -1974,13 +1974,13 @@
 догадка - domysł
 догма - dogmat
 догматичен - dogmatyczny
-договор - umowa | porozumienie
+договор - umowa, porozumienie
 доживотен - dożywotni
 доживявам - dożywać
 доисторически - przedhistoryczny
-доказвам - wykazywać | udowadniać
-докача - dosięgnąć | dotknąć | obrazić
-доклад - odczyt | wykład | referat
+доказвам - wykazywać, udowadniać
+докача - dosięgnąć, dotknąć, obrazić
+доклад - odczyt, wykład, referat
 докосвам - dotykać
 доктор - doktor
 докторски - doktorski
@@ -1992,13 +1992,13 @@
 долепвам - dolepiać
 долина - dolina
 долнокачествен - niskogatunkowy
-долу - na dole | na dół
+долу - na dole, na dół
 дом - dom
 домат - pomidor
 доматен - pomidorowy
 домашен - domowy
 Доминика - Dominika
-Доминиканска република - Dominikana | Republika Dominikańska
+Доминиканска република - Dominikana, Republika Dominikańska
 доминикански - dominikański
 доминирам - dominować
 доморасъл - domorosły
@@ -2009,46 +2009,46 @@
 допотопен - przedpotopowy
 допра - dotykać
 допринасям - przyczyniać się
-допускам - dopuszczać | przypuszczać
+допускам - dopuszczać, przypuszczać
 допустим - dopuszczalny
-допълвам - dopełniać | uzupełniać
+допълвам - dopełniać, uzupełniać
 дораствам - dorastać
 досада - nuda
-досаден - nudny | dokuczliwy
-досаждам - nudzić | dokuczać
+досаден - nudny, dokuczliwy
+досаждам - nudzić, dokuczać
 досегашен - dotychczasowy
 дословен - dosłowny
 дост - przyjaciel
-доста - wiele | dużo
-доставка - dostarczanie | doręczanie | dostawa
-достатъчен - dostateczny | wystarczający
-достатъчно - dość | wystarczająco | dostatecznie
+доста - wiele, dużo
+доставка - dostarczanie, doręczanie, dostawa
+достатъчен - dostateczny, wystarczający
+достатъчно - dość, wystarczająco, dostatecznie
 достойнство - godność
 достъп - dostęp
 достъпен - dostępny
 дотичам - dobiec
 доход - dochód
-доя - doić | karmić piersią
-драг - drogi | miły
+доя - doić, karmić piersią
+драг - drogi, miły
 драгоценен - drogocenny
 дракон - smok
-драматург - dramaturg | dramatopisarz
+драматург - dramaturg, dramatopisarz
 драперия - draperia
 драскам - drapać
-дреболия - drobiazg | błahostka
+дреболия - drobiazg, błahostka
 древен - starożytny
 древност - starożytność
 дресировач - treser
 дреха - ubranie
 дроб - ułamek
 дрозд - drozd
-друг - inny | drugi
-другар - towarzysz | kolega | mąż
-другарка - towarzyszka | przyjaciółka | żona
+друг - inny, drugi
+другар - towarzysz, kolega, mąż
+другарка - towarzyszka, przyjaciółka, żona
 другарски - koleżeński
 дружба - przyjaźń
 дружелюбен - przyjazny
-дружина - drużyna | batalion
+дружина - drużyna, batalion
 друсам - trząść
 дръзвам - odważać się
 дръмбой - drumla
@@ -2057,17 +2057,17 @@
 дубний - dubn
 дуел - pojedynek
 дузина - tuzin
-дума - słowo | wyraz
+дума - słowo, wyraz
 думам - mówić
 Дунав - Dunaj
 дупка - dziura
 дух - duch
 духам - wiać
-духовен - duchowy | duchowny
+духовен - duchowy, duchowny
 духовит - dowcipny
 духовитост - uduchowienie
 душ - prysznic
-душа - dusza | osoba
+душа - dusza, osoba
 душман - wróg
 дъб - dąb
 Дъблин - Dublin
@@ -2080,7 +2080,7 @@
 дъждовник - salamandra
 дълбок - głęboki
 дълбочина - głębokość
-дълг - dług | obowiązek
+дълг - dług, obowiązek
 дълговременен - długotrwały
 дългогодишен - długoletni
 дългосрочен - długoterminowy
@@ -2097,20 +2097,20 @@
 дърводелец - cieśla
 държава - państwo
 държавен - państwowy
-дърпам - ciągnąć | szarpać
+дърпам - ciągnąć, szarpać
 дъска - deska
-дъх - oddech | dech
-дъхав - wonny | pachnący
+дъх - oddech, dech
+дъхав - wonny, pachnący
 дъщеря - córka
 дюйм - cal
-дюля - pigwa (drzewo) | pigwa (owoc)
+дюля - pigwa (drzewo), pigwa (owoc)
 дявол - diabeł
 дяволски - diabelski
 дядо - dziadek
 дядов - dziadkowy
-дял - dział | część | udział | los | dola
-е - szósta litera bułgarskiego alfabetu | съм
-еба - jebać | pieprzyć
+дял - dział, część, udział, los, dola
+е - szósta litera bułgarskiego alfabetu, съм
+еба - jebać, pieprzyć
 евакуация - ewakuacja
 евангелие - ewangelia
 Евангелие - Ewangelia
@@ -2133,13 +2133,13 @@
 Египет - Egipt
 египетски - egipski
 егоистичен - egoistyczny
-едва - zaledwie | ledwie | ledwo
+едва - zaledwie, ledwie, ledwo
 един - jeden
-единадесет - jedenaście | 11
+единадесет - jedenaście, 11
 единадесети - jedenasty
 един за всички, всички за един - jeden za wszystkich, wszyscy za jednego
 единица - jednostka
-единичен - pojedynczy | jednostkowy
+единичен - pojedynczy, jednostkowy
 единодушен - jednomyślny
 единствен - jedyny
 единство - jedność
@@ -2149,11 +2149,11 @@
 едногласен - jednogłośny
 едногодишен - jednoroczny
 еднодневен - jednodniowy
-еднозначен - jednoznaczny | jednocyfrowy
+еднозначен - jednoznaczny, jednocyfrowy
 еднократен - jednorazowy
 едноличен - jednoosobowy
 едномесечен - jednomiesięczny
-еднообразен - jednostajny | monotonny
+еднообразен - jednostajny, monotonny
 еднореден - jednorzędowy
 еднороден - jednorodny
 едностаен - jednopokojowy
@@ -2162,7 +2162,7 @@
 еж - jeż
 ежедневен - codzienny
 езеро - jezioro
-език - język | część ciała | przedmiot | o podłużnym kształcie | lub w jakiś sposób przypominający tę część ciała | jęzor | serce dzwonu | lub dzwonka | dźwiękowy | naturalny system znaków | umożliwiający porozumiewanie się i mający możliwość wyrażenia całokształtu wiedzy oraz wyobrażeń na temat świata | całokształt środków wyrazu w odniesieniu do pewnej dziedziny lub pewnej osoby
+език - język, część ciała, przedmiot, o podłużnym kształcie, lub w jakiś sposób przypominający tę część ciała, jęzor, serce dzwonu, lub dzwonka, dźwiękowy, naturalny system znaków, umożliwiający porozumiewanie się i mający możliwość wyrażenia całokształtu wiedzy oraz wyobrażeń na temat świata, całokształt środków wyrazu w odniesieniu do pewnej dziedziny lub pewnej osoby
 езикознание - językoznawstwo
 езически - pogański
 Ейре - Irlandia
@@ -2172,16 +2172,16 @@
 Екваториална Гвинея - Gwinea Równikowa
 еквивалент - ekwiwalent
 екзекутирам - dokonywać egzekucji
-екземпляр - egzemplarz | okaz
-екип - ekwipunek | ekipa
-екипаж - ekwipaż | załoga
+екземпляр - egzemplarz, okaz
+екип - ekwipunek, ekipa
+екипаж - ekwipaż, załoga
 екипирам - ekwipować
 екология - ekologia
 екскаватор - koparka
 екскурзия - wycieczka
 екслибрис - ekslibris
 експанзия - ekspansja
-експедирам - wysyłać | ekspediować
+експедирам - wysyłać, ekspediować
 експедиция - ekspedycja
 експеримент - eksperyment
 експерт - ekspert
@@ -2189,16 +2189,16 @@
 експлоатирам - eksploatować
 експлодирам - eksplodować
 експлозия - eksplozja
-експорт - eksport | wywóz
+експорт - eksport, wywóz
 експортен - eksportowy
 експортирам - eksportować
 екстравагантен - ekstrawagancki
-екстракт - ekstrakt | wyciąg
+екстракт - ekstrakt, wyciąg
 екстремист - ekstremista
 ексцентричен - ekscentryczny
 еластичен - elastyczny
 елда - gryka
-елеватор - elewator | podnośnik
+елеватор - elewator, podnośnik
 елегантен - elegancki
 елегантна масловка - maślak żółty
 електрически - elektryczny
@@ -2214,7 +2214,7 @@
 елипса - elipsa
 елитен - elitarny
 елов - jodłowy
-елша - olsza | olcha
+елша - olsza, olcha
 емайл - emalia
 емблема - emblemat
 ембриология - embriologia
@@ -2235,7 +2235,7 @@
 епидемиология - epidemiologia
 епидемичен - epidemiczny
 епидемия - epidemia
-епилепсия - padaczka | epilepsja
+епилепсия - padaczka, epilepsja
 епископ - biskup
 епоха - epoka
 епохален - epokowy
@@ -2255,21 +2255,21 @@
 есенция - esencja
 ескорт - eskorta
 ескортирам - eskortować
-еснаф - cech | rzemieślnik
+еснаф - cech, rzemieślnik
 есперанто - esperanto
 естествен - naturalny
 естетика - estetyka
 естетичен - estetyczny
 естонец - Estończyk
 Естония - Estonia
-естонски - estoński | język estoński
+естонски - estoński, język estoński
 естрада - estrada
 етаж - piętro
 етажерка - etażerka
 етатизъм - etatyzm
 етер - eter
 етика - etyka
-етикет - etykieta | nalepka
+етикет - etykieta, nalepka
 етимология - etymologia
 Етиопия - Etiopia
 етиопски - etiopski
@@ -2282,38 +2282,38 @@
 ефект - efekt
 ефикасен - skuteczny
 ефирен - eteryczny
-ефрейтор - starszy kapral | starszy szeregowy
+ефрейтор - starszy kapral, starszy szeregowy
 ехо - echo
-ехтеж - odgłos | huk
+ехтеж - odgłos, huk
 ечемик - jęczmień
 ечемичен - jęczmienny
 ешафод - szafot
 жаба - żaba
 жабешки - żabi
-жадувам - pragnąć | łaknąć
-жажда - pragnienie | żądza
+жадувам - pragnąć, łaknąć
+жажда - pragnienie, żądza
 жакет - żakiet
-жалба - żal | zażalenie
-жален - żałosny | smutny
+жалба - żal, zażalenie
+жален - żałosny, smutny
 жандарм - żandarm
 жанр - gatunek
 жанров - rodzajowy
 жар - żar
 жаргон - żargon
 жарък - gorący
-жега - upał | skwar
-желан - pożądany | upragniony
-желание - życzenie | pragnienie | chęć
-желая - pragnąć | życzyć sobie
+жега - upał, skwar
+желан - pożądany, upragniony
+желание - życzenie, pragnienie, chęć
+желая - pragnąć, życzyć sobie
 железен - żelazny
 железничар - kolejarz
 железопътен - kolejowy
 желязо - żelazo
-жена - kobieta | żona | małżonka
+жена - kobieta, żona, małżonka
 женитба - ożenek
-жених - narzeczony | pan młody
+жених - narzeczony, pan młody
 женкар - kobieciarz
-женски - żeński | kobiecy
+женски - żeński, kobiecy
 женствен - kobiecy
 жерав - żuraw
 жертва - ofiara
@@ -2322,7 +2322,7 @@
 жетон - żeton
 жив - żywy
 живак - rtęć
-живея - żyć | mieszkać
+живея - żyć, mieszkać
 живителен - ożywczy
 живот - życie
 животворен - życiodajny
@@ -2331,23 +2331,23 @@
 животопис - biografia
 живущ - zamieszkały
 жигосвам - piętnować
-жизнен - życiowy | żywotny
+жизнен - życiowy, żywotny
 жила - żyła
 жилест - żylasty
 жилетка - kamizelka
-жилище - mieszkanie | dom | siedziba
-жилищен - mieszkaniowy | mieszkalny
+жилище - mieszkanie, dom, siedziba
+жилищен - mieszkaniowy, mieszkalny
 жираф - żyrafa
 жирафа - żyrafa
 житейски - życiowy
 жител - mieszkaniec
 жителство - zamieszkanie
 житница - spichlerz
-жица - drut | nić | nitka
+жица - drut, nić, nitka
 жлеб - wyżłobienie
 жлеза - gruczoł
 жлъчен - żółciowy
-жлъчка - pęcherzyk żółciowy | żółć
+жлъчка - pęcherzyk żółciowy, żółć
 жребец - ogier
 журнал - żurnal
 журналист - dziennikarz
@@ -2358,76 +2358,76 @@
 Жълто море - Morze Żółte
 жълъд - żołądź
 жътвен - żniwny
-за - do | na
+за - do, na
 забава - rozrywka
-забавен - zabawny | rozrywkowy
+забавен - zabawny, rozrywkowy
 забавлявам - zabawiać
 забележим - dostrzegalny
-забележка - uwaga | adnotacja
+забележка - uwaga, adnotacja
 забелязвам - zauważać
-забивам - zaczynać bić | wbijać
-заблуда - błąd | omyłka
+забивам - zaczynać bić, wbijać
+заблуда - błąd, omyłka
 заблуждавам - wprowadzać w błąd
-забождам - wtykać | przypinać
+забождам - wtykać, przypinać
 заболяване - choroba
 забрава - zapomnienie
 забравя - zapomnieć
 забравям - zapominać
 забрана - zakaz
-забраня - zabronić | zakazać
-забранявам - zabraniać | zakazywać
+забраня - zabronić, zakazać
+забранявам - zabraniać, zakazywać
 забременявам - zachodzić w ciążę
-завардвам - bronić | osłaniać
+завардвам - bronić, osłaniać
 заведа - zaprowadzić
 завербувам - zwerbować
-завеса - kurtyna | zasłona
-завещавам - legować | zapisywać w testamencie
+завеса - kurtyna, zasłona
+завещавам - legować, zapisywać w testamencie
 завещание - testament
-завивам - zakręcać | zawijać
+завивам - zakręcać, zawijać
 завиждам - zazdrościć
-завирам - wścibiać | wtykać | zaczynać wrzeć
-зависим - zależny | zawisły | uzależniony
+завирам - wścibiać, wtykać, zaczynać wrzeć
+зависим - zależny, zawisły, uzależniony
 завист - zawiść
 завистлив - zawistny
-завладявам - podbijać | opanowywać
-завличам - zawlekać | porywać
-завод - zakład | fabryka
+завладявам - podbijać, opanowywać
+завличам - zawlekać, porywać
+завод - zakład, fabryka
 заводски - fabryczny
 завоевател - zdobywca
-завоювам - zawojować | podbić
+завоювам - zawojować, podbić
 завчера - przedwczoraj
 завързвам - zawiązywać
 завъртам - zakręcać
 завършвам - kończyć (się)
 загадка - zagadka
 загадъчен - zagadkowy
-загасявам - gasić | tłumić
+загасявам - gasić, tłumić
 загивам - ginąć
 заглавие - nagłówek
 заглушавам - zagłuszać
 заглъхвам - głuchnąć
-заграждам - zagradzać | ogradzać
+заграждам - zagradzać, ogradzać
 Загреб - Zagrzeb
-загрявам - zagrzewać | ogrzewać
+загрявам - zagrzewać, ogrzewać
 загуба - strata
-загубвам - tracić | gubić
-зад - za | pozaA
+загубвам - tracić, gubić
+зад - za, pozaA
 задача - zadanie
 задграничен - zagraniczny
 задгробен - pozagrobowy
 заден - tylny
-задигам - zabierać | kraść
-задминавам - przewyższać | wyprzedzać
+задигам - zabierać, kraść
+задминавам - przewyższać, wyprzedzać
 задморски - zamorski
 задоволен - zadowolony
 задоволявам - zadowalać
-задръствам - zatykać | zapychać
-задух - zaduch | upał | skwar | astma
+задръствам - zatykać, zapychać
+задух - zaduch, upał, skwar, astma
 задушавам - dusić
-задушен - duszny | parny
+задушен - duszny, parny
 задълбавам - zagłębiać się
 задължавам - zobowiązywać
-задължителен - obowiązkowy | konieczny
+задължителен - obowiązkowy, konieczny
 заек - zając
 заеквам - jąkać się
 заемам - zajmować
@@ -2435,77 +2435,77 @@
 Заир - Zair
 закалявам - hartować
 закачалка - wieszak
-закачвам - zawieszać | zahaczać | zaczepiać
+закачвам - zawieszać, zahaczać, zaczepiać
 заклеймявам - piętnować
-заключавам - wnioskować | konkludować
+заключавам - wnioskować, konkludować
 заключвам - zamykać
-заключение - wniosek | konkluzja
+заключение - wniosek, konkluzja
 заключителен - końcowy
-заковавам - wbijać | przykuwać
+заковавам - wbijać, przykuwać
 закон - prawo (zbiór przepisów prawnych)
 закопавам - zakopywać
 закопчавам - zapinać na guziki
 закопчалка - zapięcie
-закривам - zakrywać | skrywać
+закривам - zakrywać, skrywać
 закуска - śniadanie
-закърпвам - łatać | naprawiać
+закърпвам - łatać, naprawiać
 зала - sala
-залив - zatoka | zalew
+залив - zatoka, zalew
 заливам - zalewać
-заличавам - przekreślać | zacierać
+заличавам - przekreślać, zacierać
 залп - salwa
-замайвам - odurzać | oszałamiać
+замайвам - odurzać, oszałamiać
 Замбия - Zambia
 замествам - zastępować
-замина - pojechać | udać się (dokądś)
+замина - pojechać, udać się (dokądś)
 заминавам - wyjeżdżać
 замрежвам - cerować
-замръзвам - zamarzać | zastygać
-замък - zamek | pałac
+замръзвам - zamarzać, zastygać
+замък - zamek, pałac
 замърсявам - zabrudzać
-замяна - zamiana | zastępstwo
+замяна - zamiana, zastępstwo
 занасям - zanosić
-занаят - rzemiosło | fach
+занаят - rzemiosło, fach
 занаятчия - rzemieślnik
-занимавам - zajmować | uczyć
+занимавам - zajmować, uczyć
 запад - zachód
 западам - podupadać
 западен - zachodni
 Западна Сахара - Sahara Zachodnia
-запазвам - zachowywać | rezerwować
-запалвам - zapalać | zaświecać
+запазвам - zachowywać, rezerwować
+запалвам - zapalać, zaświecać
 запалка - zapalniczka
-запас - zapas | zasób | rezerwa
+запас - zapas, zasób, rezerwa
 запетайка - przecinek
 запетая - przecinek
 запирам - zatrzymywać
 записвам - zapisywać
 запитване - zapytanie
 запичам - zapiekać
-заплата - płaca | pensja
-заплаха - pogróżka | groźba
-заплашвам - grozić | zagrażać
-заплитам - zaplatać | zaplątywać
+заплата - płaca, pensja
+заплаха - pogróżka, groźba
+заплашвам - grozić, zagrażać
+заплитам - zaplatać, zaplątywać
 заповядвам - rozkazywać
 заподозирам - podejrzewać
-започвам - zaczynać | rozpoczynać
+започвам - zaczynać, rozpoczynać
 започна - zacząć
-заптие - żandarm | policjant (zwłaszcza turecki)
-запушалка - zatyczka | korek
+заптие - żandarm, policjant (zwłaszcza turecki)
+запушалка - zatyczka, korek
 зародиш - zarodek
-заряд - ładunek | nabój
+заряд - ładunek, nabój
 заслужавам - zasługiwać
 засрамвам - zawstydzać
 затвор - więzienie
 затворник - więzień
 захар - cukier
 захарен - cukrowy
-зашивам - zaszywać | zszywać | przyszywać
-защита - obrona | ochrona
+зашивам - zaszywać, zszywać, przyszywać
+защита - obrona, ochrona
 защитник - obrońca
-защо - dlaczego? | po co? | na co?
-защото - ponieważ | dlatego | że…
-заявявам - oświadczać | zawiadamiać
+защо - dlaczego?, po co?, na co?
+защото - ponieważ, dlatego, że…
+заявявам - oświadczać, zawiadamiać
 заяждам - zaczynać jeść
 звезда - gwiazda
 звезден куп - gromada gwiazd
@@ -2513,41 +2513,41 @@
 звук - dźwięk
 звуков - dźwiękowy
 звукозапис - nagrywanie dźwięku
-звукооператор - dźwiękowiec | realizator dźwięku
+звукооператор - dźwiękowiec, realizator dźwięku
 звучен - dźwięczny
-звън - dźwięk | brzęk
+звън - dźwięk, brzęk
 звънец - dzwonek
-звяр - zwierz | zwierzę
-здание - budynek | gmach
+звяр - zwierz, zwierzę
+здание - budynek, gmach
 здрав - zdrowy
 здраве - zdrowie
-здравей - cześć! | hej!
+здравей - cześć!, hej!
 здрасти - cześć!
-здрач - zmierzch | zmrok
+здрач - zmierzch, zmrok
 зеаборгий - seaborg
 зебра - zebra
 зеле - kapusta
 зелен - zielony
-зелена мухоморка - muchomor sromotnikowy | muchomor zielonawy
+зелена мухоморка - muchomor sromotnikowy, muchomor zielonawy
 зеленикав - zielonawy
-зеленчуков - jarzynowy | warzywny
+зеленчуков - jarzynowy, warzywny
 земеделец - rolnik
 земеделие - rolnictwo
 земеделски - rolniczy
-земемер - mierniczy | geometra
+земемер - mierniczy, geometra
 земен - ziemski
 земетресение - trzęsienie ziemi
 земноводно - płaz
 земя - ziemia
 Земя - Ziemia
-зенит - zenit | szczyt
+зенит - zenit, szczyt
 зеница - źrenica
 зестра - posag
-зет - zięć | szwagier
+зет - zięć, szwagier
 зехтин - oliwa z oliwek
-зигзаг - zygzak | gzygzak
+зигзаг - zygzak, gzygzak
 зид - mur
-зидам - murować | budować
+зидам - murować, budować
 зидар - murarz
 зима - zima
 Зимбабве - Zimbabwe
@@ -2556,33 +2556,33 @@
 златист - złocisty
 злато - złoto
 зле - źle
-злина - zło | nieszczęście
+злина - zło, nieszczęście
 зло - zło
-злоба - złość | gniew
-злобен - złośliwy | zły
+злоба - złość, gniew
+злобен - złośliwy, zły
 зловещ - złowieszczy
 злополука - nieszczęśliwy wypadek
 злост - złość
 злоупотреба - nadużycie
-злоупотребявам - nadużywać | popełniać nadużycia
+злоупотребявам - nadużywać, popełniać nadużycia
 злочестина - nieszczęście
-змей - smok | latawiec
+змей - smok, latawiec
 змиорка - węgorz
 змия - wąż
 знак - znak
 знаме - flaga
-знаменит - znamienity | znakomity
+знаменит - znamienity, znakomity
 значение - znaczenie
 значителен - znaczny
-зная - wiedzieć | umieć
-зов - zew | wezwanie
-зова - wzywać | zwać
+зная - wiedzieć, umieć
+зов - zew, wezwanie
+зова - wzywać, zwać
 зоо- - zoo-
 зоогеография - zoogeografia
 зоологически - zoologiczny
 зоология - zoologia
 зоопланктон - zooplankton
-зор - trud | przymus | potrzeba
+зор - trud, przymus, potrzeba
 зурна - surma
 зъб - ząb
 зъбец - ząb
@@ -2593,16 +2593,16 @@
 зърно - ziarno
 и - i
 Иван - Iwan
-ивица - pasek | pasmo | wstęga
+ивица - pasek, pasmo, wstęga
 и вълкът сит и агнето цяло - wilk syty i owca cała
 игла - igła
 игра - gra
-играч - gracz | tancerz
+играч - gracz, tancerz
 играчка - zabawka
-играя - grać | bawić się | tańczyć
+играя - grać, bawić się, tańczyć
 игрище - boisko
-игумен - igumen | ihumen
-идвам - przychodzić | przybywać | nadchodzić
+игумен - igumen, ihumen
+идвам - przychodzić, przybywać, nadchodzić
 идеал - ideał
 идеализъм - idealizm
 идеолог - ideolog
@@ -2612,108 +2612,108 @@
 идиот - idiota
 идиотизъм - idiotyzm (upośledzenie umysłowe)
 идиш - jidysz
-идол - bożek | idol | bożyszcze
-избелявам - bieleć | płowieć
+идол - bożek, idol, bożyszcze
+избелявам - bieleć, płowieć
 избирам - wybierać
 избирател - wyborca
 избирателен - wyborczy
-избликвам - wytryskać | wybuchać
+избликвам - wytryskać, wybuchać
 избор - wybór
 изборен - wyborczy
 избори - wybory
-изброявам - wyliczać | zliczać
+изброявам - wyliczać, zliczać
 избухвам - wybuchać
 избълвам - zwymiotować
 избърборвам - mamrotać
-избърсвам - wycierać | ścierać
-избягвам - uciekać | unikać
+избърсвам - wycierać, ścierać
+избягвам - uciekać, unikać
 извадка - wyciąg
-изваждам - wydobywać | wyjmować | odejmować
+изваждам - wydobywać, wyjmować, odejmować
 изваждане - odejmowanie
-изведа - wyprowadzić | doprowadzić
-извеждам - wyprowadzać | doprowadzać
+изведа - wyprowadzić, doprowadzić
+извеждам - wyprowadzać, doprowadzać
 известен - znany
 известие - wiadomość
-известявам - zawiadamiać | ogłaszać
-извивка - zakręt | skręt | zagięcie
-извишавам - wznosić | podnosić
-извличам - wyciągać | wywlekać
+известявам - zawiadamiać, ogłaszać
+извивка - zakręt, skręt, zagięcie
+извишавам - wznosić, podnosić
+извличам - wyciągać, wywlekać
 извод - wniosek
 извор - źródło
 извънземен - pozaziemski
 извънредно положение - stan wyjątkowy
 извървявам - przechodzić
 извършвам - wykonywać
-изгасвам - wygasać | zagasać
-изгасявам - gasić | zagaszać
-изглаждам - prasować | wygładzać
-изглед - widok | wygląd | widokówka
-изглеждам - oglądać | spoglądać | wyglądać
+изгасвам - wygasać, zagasać
+изгасявам - gasić, zagaszać
+изглаждам - prasować, wygładzać
+изглед - widok, wygląd, widokówka
+изглеждам - oglądać, spoglądać, wyglądać
 изговарям - wymawiać
 изговор - wymowa
 изговоря - wymówić
 изгода - korzyść
-изгонвам - wyganiać | wypędzać
+изгонвам - wyganiać, wypędzać
 изграждам - budować
 изгрев - wschód (słońca)
-изгрявам - wschodzić | świtać
-изгубвам - gubić | tracić
-изгубя - zgubić | stracić
+изгрявам - wschodzić, świtać
+изгубвам - gubić, tracić
+изгубя - zgubić, stracić
 издавам - wydawać
 изделие - wyrób
-издигам - podnosić | wznosić
+издигам - podnosić, wznosić
 издръжка - utrzymanie
 издувам - nadymać
-издълбавам - wydrążać | wyżłabiać
-издънка - latorośl | potomek
-издържам - wytrzymywać | utrzymywać
+издълбавам - wydrążać, wyżłabiać
+издънка - latorośl, potomek
+издържам - wytrzymywać, utrzymywać
 издъхвам - umierać
-изискан - wytworny | wyszukany
-изисквам - wymagać | domagać się
-изключвам - wykluczać | wyłączać
-изкопавам - wykopywać | odkopywać
+изискан - wytworny, wyszukany
+изисквам - wymagać, domagać się
+изключвам - wykluczać, wyłączać
+изкопавам - wykopywać, odkopywać
 изкоренявам - wykorzeniać
-изкривявам - zakrzywiać | wykrzywiać
-изкупвам - okupywać | wykupywać
-изкупувам - odkupywać | wykupywać
+изкривявам - zakrzywiać, wykrzywiać
+изкупвам - okupywać, wykupywać
+изкупувам - odkupywać, wykupywać
 изкусител - kusiciel
 изкуство - sztuka
-изкушавам - kusić | zachęcać
-изкъртвам - wyłamywać | wyrywać
-излизам - wychodzić | występować
-излишен - zbędny | niepotrzebny
-излишък - nadwyżka | nadmiar
+изкушавам - kusić, zachęcać
+изкъртвам - wyłamywać, wyrywać
+излизам - wychodzić, występować
+излишен - zbędny, niepotrzebny
+излишък - nadwyżka, nadmiar
 изложба - wystawa
 изляза - wyjść
-измама - oszustwo | złudzenie
+измама - oszustwo, złudzenie
 изменение - zmiana
 измислица - wymysł
-измитам - wymiatać | zmiatać
+измитам - wymiatać, zmiatać
 измяна - zdrada
-изнасилвам - zmuszać | gwałcić
-изнасям - wynosić | wywozić
-изневерявам - sprzeniewierzać się | zdradzać
-изненада - zaskoczenie | niespodzianka
-изненадвам - zaskakiwać | robić niespodziankę
+изнасилвам - zmuszać, gwałcić
+изнасям - wynosić, wywozić
+изневерявам - sprzeniewierzać się, zdradzać
+изненада - zaskoczenie, niespodzianka
+изненадвам - zaskakiwać, robić niespodziankę
 изнудвам - wymuszać
 изобразявам - wyobrażać
 изобретател - wynalazca
 изобретателка - wynalazczyni
 изобретение - wynalazek
-изобретявам - wynajdywać | odkrywać
+изобретявам - wynajdywać, odkrywać
 изолация - izolacja
 изолирам - izolować
-изопачавам - wypaczać | przekręcać
-изоставам - pozostawać w tyle | zalegać
+изопачавам - wypaczać, przekręcać
+изоставам - pozostawać w tyle, zalegać
 изотоп - izotop
-изпивам - wypijać | wyniszczać
+изпивам - wypijać, wyniszczać
 изпит - egzamin
 изпичам - wypiekać
 изпия - wypić
 изплашвам - przestraszać
-изплета - spleść | upleść
-изплитам - splatać | wyplatać
-използвам - używać | posługiwać się | stosować
+изплета - spleść, upleść
+изплитам - splatać, wyplatać
+използвам - używać, posługiwać się, stosować
 изпразвам - wypróżniać
 изпратя - wysłać
 изпращам - wysyłać
@@ -2722,44 +2722,44 @@
 изречение - zdanie
 изсичам - wycinać
 изстрел - wystrzał
-изтичам - wypływać | upływać
+изтичам - wypływać, upływać
 изток - wschód
 източен - wschodni
 Източен Тимор - Timor Wschodni
 източник - źródło
 източнокарибски - wschodniokaraibski
-изтребител - samolot myśliwski | myśliwiec
+изтребител - samolot myśliwski, myśliwiec
 изумруд - szmaragd
-изумявам - zdumiewać | zapominać
-изучавам - badać | studiować
+изумявам - zdumiewać, zapominać
+изучавам - badać, studiować
 изход - wyjście
 изцеждам - wyciskać
-изцяло - całkiem | całkowicie
+изцяло - całkiem, całkowicie
 изчаквам - wyczekiwać
 изчезвам - znikać
 изчерпвам - wyczerpywać
-изчислявам - wyliczać | obliczać
+изчислявам - wyliczać, obliczać
 изявявам - wyrażać
 изяждам - zjadać
 изяснявам - wyjaśniać
-изящен - wytworny | piękny
+изящен - wytworny, piękny
 икона - ikona
 икономика - gospodarka
 икономист - ekonomista
-икономичен - ekonomiczny | oszczędny
-икономия - oszczędność | ekonomia
+икономичен - ekonomiczny, oszczędny
+икономия - oszczędność, ekonomia
 иконопис - ikonografia
-или - lub | albo
+или - lub, albo
 илюстрация - ilustracja
-имам - mieć | posiadać | być | znajdować się | imam
-име - imię | nazwa
+имам - mieć, posiadać, być, znajdować się, imam
+име - imię, nazwa
 имот - majątek
 император - imperator
 империя - imperium
-импулс - impuls | bodziec
+импулс - impuls, bodziec
 имунитет - immunitet
-имущество - mienie | dobytek | majątek
-иначе - inaczej | w innym przypadku
+имущество - mienie, dobytek, majątek
+иначе - inaczej, w innym przypadku
 инвалид - inwalida
 инвестирам - inwestować
 инвеститор - inwestor
@@ -2778,8 +2778,8 @@
 инженер - inżynier
 инициатива - inicjatywa
 инкубация - inkubacja
-иностранец - obcokrajowiec | cudzoziemiec
-инсектицид - środek owadobójczy | insektycyd
+иностранец - obcokrajowiec, cudzoziemiec
+инсектицид - środek owadobójczy, insektycyd
 инспекция - inspekcja
 инстинкт - instynkt
 инструкция - instrukcja
@@ -2791,10 +2791,10 @@
 интелигентен - inteligentny
 интензивен - intensywny
 интензивно - intensywnie
-интервал - odstęp (w przestrzeni) | przerwa (w czasie) | interwał
+интервал - odstęp (w przestrzeni), przerwa (w czasie), interwał
 интервенция - interwencja
-интерес - interes | zainteresowanie
-интересен - ciekawy | interesujący
+интерес - interes, zainteresowanie
+интересен - ciekawy, interesujący
 интересувам - interesować
 интересувам се - interesować się
 интерференция - interferencja
@@ -2818,7 +2818,7 @@
 иридий - iryd
 ирландец - Irlandczyk
 Ирландия - Irlandia
-ирландски - irlandzki | język irlandzki
+ирландски - irlandzki, język irlandzki
 Ирландско море - Morze Irlandzkie
 иск - powództwo
 искам - chcieć
@@ -2827,7 +2827,7 @@
 исландец - Islandczyk
 Исландия - Islandia
 исландка - Islandka
-исландски - islandzki | język islandzki
+исландски - islandzki, język islandzki
 Ислямска Република Иран - Islamska Republika Iranu
 ислямски - islamski
 испанец - Hiszpan
@@ -2867,13 +2867,13 @@
 кадмий - kadm
 кадънка - szczygieł
 кадър - kadra
-кадя - kadzić | dymić
+кадя - kadzić, dymić
 кажа - powiedzieć
 казарма - koszary
 Казахстан - Kazachstan
 казвам - powiedzieć
 казу - mirliton
-каиш - rzemień | pas
+каиш - rzemień, pas
 Кайманови острови - Kajmany
 Каймански острови - Kajmany
 Кайро - Kair
@@ -2894,19 +2894,19 @@
 калинка - biedronka
 калифорний - kaliforn
 Калифорния - Kalifornia
-калкан - skarp | turbot
+калкан - skarp, turbot
 калкулатор - kalkulator
 калкулация - kalkulacja
 калкулирам - kalkulować
 калник - błotnik
 калоричен - kaloryczny
 калория - kaloria
-калпав - zły | kiepski
+калпав - zły, kiepski
 калугер - zakonnik
 калугерка - zakonnica
 калфа - czeladnik
 калций - wapń
-калъф - pokrowiec | futerał
+калъф - pokrowiec, futerał
 кама - sztylet
 камара - parlament
 камбана - dzwon
@@ -2916,7 +2916,7 @@
 каменен - kamienny
 Камерун - Kamerun (państwo)
 камила - wielbłąd
-камион - ciężarówka | samochód ciężarowy
+камион - ciężarówka, samochód ciężarowy
 кампания - kampania
 камуфлаж - kamuflaż
 камък - kamień
@@ -2925,7 +2925,7 @@
 Канада - Kanada
 канал - kanał
 канализирам - kanalizować
-канап - szpagat | sznurek
+канап - szpagat, sznurek
 канара - skała
 канарист - skalisty
 канарски - kanaryjski
@@ -2938,8 +2938,8 @@
 канонизация - kanonizacja
 кантар - waga
 канцелария - kancelaria
-капак - pokrywa | wieko
-капан - potrzask | pułapka
+капак - pokrywa, wieko
+капан - potrzask, pułapka
 Капернаум - Kafarnaum
 капитал - kapitał
 капитализъм - kapitalizm
@@ -2947,7 +2947,7 @@
 капитан - kapitan
 капитулация - kapitulacja
 капитулирам - kapitulować
-капка - kropla | kapka
+капка - kropla, kapka
 каприз - kaprys
 капризен - kapryśny
 карабина - karabin
@@ -2958,7 +2958,7 @@
 караница - kłótnia
 карат - karat
 карате - karate
-караул - warta | straż
+караул - warta, straż
 кардамон - kardamon
 кардинален - kardynalny
 кардиология - kardiologia
@@ -2966,15 +2966,15 @@
 карибски - karaibski
 Карибско море - Morze Karaibskie
 кариерист - karierowicz
-карийон - carillon | karylion
+карийон - carillon, karylion
 карикатура - karykatura
 карикатурен - karykaturalny
 карнавал - karnawał
-карта - mapa | karta
+карта - mapa, karta
 картечница - karabin maszynowy
-картина - obraz | malowidło
+картина - obraz, malowidło
 картоиграч - karciarz
-картон - karton | tektura
+картон - karton, tektura
 картоф - ziemniak
 каруца - wóz
 карфиол - kalafior
@@ -2986,19 +2986,19 @@
 каспийски - kaspijski
 Каспийско море - Morze Kaspijskie
 каста - kasta
-кат - piętro | warstwa
+кат - piętro, warstwa
 каталог - katalog
-каталонски - kataloński | język kataloński
+каталонски - kataloński, język kataloński
 Катар - Katar
 катастрофа - katastrofa
 категория - kategoria
 катедрала - katedra
 катерица - wiewiórka
-като - jak | niczym
+като - jak, niczym
 кафе - kawa
 кафене - kawiarnia
 кафяв - brązowy
-каца - kadź | beczka
+каца - kadź, beczka
 кашалот - kaszalot
 кашкавал - kaszkawał
 кашлица - kaszel
@@ -3017,10 +3017,10 @@
 керкенез - pustułka
 кефал - kleń
 кехлибар - bursztyn
-кибрит - zapałki | zapałka
+кибрит - zapałki, zapałka
 киви - kiwi
 Киев - Kijów
-килер - spiżarnia | piwnica | komórka
+килер - spiżarnia, piwnica, komórka
 килим - kilim
 килограм - kilogram
 километър - kilometr
@@ -3040,22 +3040,22 @@
 кит - wieloryb
 Китай - Chiny
 Китайска народна република - Chińska Republika Ludowa
-китайски - chiński | język chiński
+китайски - chiński, język chiński
 китара - gitara
 клавесин - klawesyn
 клавиатура - klawiatura
 клавикорд - klawikord
 кладенец - studnia
 кларинет - klarnet
-клас - klasa (np. w szkole) | klasa (jakości) | kłos
+клас - klasa (np. w szkole), klasa (jakości), kłos
 класификация - klasyfikacja
 класицизъм - klasycyzm
 клевета - oszczerstwo
 клен - klon
 клепач - powieka
-клетва - przysięga | klątwa | przekleństwo
+клетва - przysięga, klątwa, przekleństwo
 клетка - komórka
-клещи - kleszcze | obcęgi
+клещи - kleszcze, obcęgi
 клиент - klient
 климат - klimat
 климатология - klimatologia
@@ -3063,10 +3063,10 @@
 клиника - klinika
 клитор - łechtaczka
 клуб - klub
-клуп - pętla | kluczka
+клуп - pętla, kluczka
 клюн - dziób
 ключ - klucz
-ключалка - zamek (w drzwiach) | dziurka od klucza
+ключалка - zamek (w drzwiach), dziurka od klucza
 ключица - obojczyk
 кмет - burmistrz
 книга - książka
@@ -3078,11 +3078,11 @@
 кобалт - kobalt
 кобила - kobyła
 ковач - kowal
-ковчег - trumna | skrzynia
+ковчег - trumna, skrzynia
 кога - kiedy
-когато - kiedy | gdy
+когато - kiedy, gdy
 кожа - skóra
-кожух - kożuch | futro
+кожух - kożuch, futro
 коза - koza
 козел - kozioł
 Козирог - Koziorożec
@@ -3092,15 +3092,15 @@
 кокал - kość
 кокос - kokos
 кокосов орех - kokos
-кокошка - kura | kokoszka
-кол - kołek | kół
-кола - samochód | coca cola | rodzaj napoju
+кокошка - kura, kokoszka
+кол - kołek, kół
+кола - samochód, coca cola, rodzaj napoju
 колан - pas
 колба - kolba
-колбас - kiełbasa | salami
+колбас - kiełbasa, salami
 колега - kolega
 Коледа - Boże Narodzenie
-колектив - kolektyw | zespół
+колектив - kolektyw, zespół
 колело - rower
 колесница - rydwan
 количество - ilość
@@ -3111,9 +3111,9 @@
 Колумб - Kolumb (odkrywca)
 колумбиец - Kolumbijczyk
 колумбийски - kolumbijski
-коляно - ścięgno | pokolenie
-команда - komenda | rozkaz | oddział
-командване - dowództwo | dowodzenie
+коляно - ścięgno, pokolenie
+команда - komenda, rozkaz, oddział
+командване - dowództwo, dowodzenie
 комар - komar
 комбинация - kombinacja
 комбинирам - kombinować
@@ -3125,8 +3125,8 @@
 комисия - komisja
 комитет - komitet
 Коморски острови - Komory
-компания - towarzystwo | paczka | kompania | spółka
-компаньон - kompan | towarzysz
+компания - towarzystwo, paczka, kompania, spółka
+компаньон - kompan, towarzysz
 компас - kompas
 компетентен - kompetentny
 компетенция - kompetencja
@@ -3155,7 +3155,7 @@
 контингент - kontyngent
 континент - kontynent
 контрабас - kontrabas
-контракт - kontrakt | umowa
+контракт - kontrakt, umowa
 контраст - kontrast
 контрол - kontrola
 контрола - kontrola
@@ -3168,13 +3168,13 @@
 концерт - koncert
 кончина - zgon
 координата - współrzędna
-копая - kopać | wykopywać
+копая - kopać, wykopywać
 Копенхаген - Kopenhaga
-копие - włócznia | kopia | oszczep
+копие - włócznia, kopia, oszczep
 копирам - kopiować
 копито - kopyto
 коприва - pokrzywa
-коприна - jedwab (przędza) | jedwab (tkanina)
+коприна - jedwab (przędza), jedwab (tkanina)
 копринарка - jemiołuszka
 копринен - jedwabny
 копче - guzik
@@ -3186,8 +3186,8 @@
 Коралово море - Morze Koralowe
 Коран - Koran
 Корейска народнодемократична република - Koreańska Republika Ludowo-Demokratyczna
-корейски - koreański | język koreański
-коректен - poprawny | bez zarzutu
+корейски - koreański, język koreański
+коректен - poprawny, bez zarzutu
 корем - brzuch
 корен - korzeń
 кореспонденция - korespondencja
@@ -3214,13 +3214,13 @@
 костюм - kostium
 косъм - włos
 котак - kocur
-котарак - kot | kocur
+котарак - kot, kocur
 котва - kotwica
 Кот д'Ивоар - Wybrzeże Kości Słoniowej
 котка - kot
 кото - koto
 кофа - wiadro
-коч - tryk | baran
+коч - tryk, baran
 кош - kosz
 кошмар - koszmar
 кошница - koszyk
@@ -3228,7 +3228,7 @@
 крава - krowa
 крада - kraść
 кражба - kradzież
-край - koniec | kraniec
+край - koniec, kraniec
 крайбрежие - wybrzeże
 крак - noga
 Краков - Kraków
@@ -3236,12 +3236,12 @@
 кралица - królowa
 кралски - królewski
 кралство - królestwo
-крамола - kłótnia | sprzeczka | bunt
+крамола - kłótnia, sprzeczka, bunt
 кран - kran
-красавица - piękność | piękna kobieta
+красавица - piękność, piękna kobieta
 красив - piękny
-краска - kolor | barwa
-красота - uroda | piękno | piękność
+краска - kolor, barwa
+красота - uroda, piękno, piękność
 краставица - ogórek
 кратък - krótki
 крачол - nogawka
@@ -3260,9 +3260,9 @@
 кристален - kryształowy
 критик - krytyk
 крокодил - krokodyl
-круша - grusza (drzewo) | gruszka (owoc)
+круша - grusza (drzewo), gruszka (owoc)
 кръв - krew
-кръг - krąg | koło | zakres
+кръг - krąg, koło, zakres
 кръгъл - okrągły
 кръпка - łatka
 кръст - krzyż
@@ -3280,27 +3280,27 @@
 култ - kult
 култура - kultura
 културизъм - kulturystyka
-кумир - bożyszcze | idol
-купец - handlowiec | kupiec
+кумир - bożyszcze, idol
+купец - handlowiec, kupiec
 купол - kopuła
 купон - impreza
 купувам - kupować
 купя - kupić
 кураж - odwaga
-курва - prostytutka | kurwa
-курорт - kurort | uzdrowisko
+курва - prostytutka, kurwa
+курорт - kurort, uzdrowisko
 курс - kurs
 кускус - kuskus
-кусур - wada | defekt
-кутия - pudełko | puszka
-кухня - kuchnia (pomieszczenie) | kuchnia (zbiór dań charakterystycznych dla danej narodowości)
+кусур - wada, defekt
+кутия - pudełko, puszka
+кухня - kuchnia (pomieszczenie), kuchnia (zbiór dań charakterystycznych dla danej narodowości)
 куче - pies
 кучка - suka
 къдрав - kędzierzawy
-кълбо - kula | kłębek
+кълбо - kula, kłębek
 кълбообразен - kulisty
 кълвач - dzięcioł
-къпина - jeżyna (krzew) | jeżyna (owoc)
+къпина - jeżyna (krzew), jeżyna (owoc)
 къпя - kąpać
 кърлинг - curling
 кърсердар - dowódca wiejskiej / polowej policji (za czasów tureckich)
@@ -3315,10 +3315,10 @@
 лаборатория - laboratorium
 лавандула - lawenda
 лавина - lawina
-лагер - obóz | łożysko
+лагер - obóz, łożysko
 лазер - laser
 лазурен - lazurowy
-лай - szczekanie | ujadanie
+лай - szczekanie, ujadanie
 Лайпциг - Lipsk
 лак за нокти - lakier do paznokci
 лаконичен - lakoniczny
@@ -3330,10 +3330,10 @@
 лански - zeszłoroczny
 лантан - lantan
 Лаос - Laos
-лаптоп - laptop | notebook
+лаптоп - laptop, notebook
 ларинкс - krtań
 латвиец - Łotysz
-латвийски - łotewski | język łotewski
+латвийски - łotewski, język łotewski
 Латвия - Łotwa
 латерна - lira korbowa
 латински - łaciński
@@ -3348,13 +3348,13 @@
 легло - łóżko
 лед - lód
 лежа - leżeć
-лежбище - legowisko | leże
+лежбище - legowisko, leże
 лейтенант - podporucznik
-лек - lekki | łatwy | lek | lekarstwo
-лека атлетика - lekkoatletyka | lekka atletyka
+лек - lekki, łatwy, lek, lekarstwo
+лека атлетика - lekkoatletyka, lekka atletyka
 лекар - lekarz
 лекарски - lekarski
-лекарство - lek | lekarstwo
+лекарство - lek, lekarstwo
 лекоатлетически - lekkoatletyczny
 лековерен - łatwowierny
 лековит - leczniczy
@@ -3363,12 +3363,12 @@
 леля - ciocia
 ленен - lniany
 ленив - leniwy
-лента - taśma | wstążka
-леопард - lampart | leopard
+лента - taśma, wstążka
+леопард - lampart, leopard
 лепило - klej
 лес - las
 лесбийка - lesbijka
-лесен - łatwy | lekki
+лесен - łatwy, lekki
 лесничей - leśniczy
 лесно - łatwo
 Лесото - Lesotho
@@ -3381,7 +3381,7 @@
 леш - padlina
 лешник - orzech laskowy
 лешояд - sęp
-леща - soczewica | soczewka
+леща - soczewica, soczewka
 лещарка - jarząbek
 ли - czy
 либерален - liberalny
@@ -3413,34 +3413,34 @@
 литература - literatura
 литий - lit
 литовец - Litwin
-литовски - litewski | język litewski
+литовски - litewski, język litewski
 литър - litr
 лихва - procent
 Лихтенщайн - Liechtenstein
-лице - twarz | oblicze
+лице - twarz, oblicze
 лицей - liceum
 лицемер - obłudnik
 личен - osobisty
 лично - osobiście
-ловджия - łowca | myśliwy
+ловджия - łowca, myśliwy
 ловен - łowiecki
-ловец - łowca | myśliwy
-ловкост - zręczność | zwinność
+ловец - łowca, myśliwy
+ловкост - zręczność, zwinność
 логичен - logiczny
 -логия - -logia
-лодка - łódka | łódź
+лодка - łódka, łódź
 лоза - winorośl
 лозе - winnica
 лой - łój
 локален - lokalny
 локомотив - lokomotywa
-локум - rachatłukum | łokum
+локум - rachatłukum, łokum
 Лондон - Londyn
 лопата - łopata
 лоуренсий - lorens
 лош - zły
 лоялен - lojalny
-луд - szalony | stuknięty
+луд - szalony, stuknięty
 Луизиана - Luizjana
 лук - cebula
 луксозен - luksusowy
@@ -3452,22 +3452,22 @@
 Лхаса - Lhasa
 лъв - lew
 лъвица - lwica
-лъжа - łgać | kłamać | kłamstwo
+лъжа - łgać, kłamać, kłamstwo
 лъжица - łyżka
-лъжлив - kłamliwy | fałszywy
+лъжлив - kłamliwy, fałszywy
 лък - łuk
 лъчезарен - promienny
 лъчист - promienisty
 Льовен - Leuven
-любезен - grzeczny | uprzejmy
+любезен - grzeczny, uprzejmy
 любим - ulubiony
 любителски - amatorski
 любов - miłość
 любопитен - ciekawy
 любопитство - ciekawość
 Люксембург - Luksemburg
-люлка - kołyska | huśtawka
-лют - ostry (w smaku) | pikantny | ostry | wielki
+люлка - kołyska, huśtawka
+лют - ostry (w smaku), pikantny, ostry, wielki
 лютня - lutnia
 ляв - lewy
 лягам - kłaść się
@@ -3478,8 +3478,8 @@
 мавритански - mauretański
 Мавриций - Mauritius
 магазин - sklep
-магазинер - sklepikarz | magazynier
-магаре - osioł | idiota (wyzwisko)
+магазинер - sklepikarz, magazynier
+магаре - osioł, idiota (wyzwisko)
 магарешки - ośli
 магданоз - pietruszka
 магически - magiczny
@@ -3488,39 +3488,39 @@
 магнат - magnat
 магнезий - magnez
 магнит - magnes
-магьосник - czarodziej | mag
+магьосник - czarodziej, mag
 Мадагаскар - Madagaskar
 Мадейра - Madera
-маджарин - Madziar | Węgier
-маджарски - madziarski | węgierski
+маджарин - Madziar, Węgier
+маджарски - madziarski, węgierski
 маджун - kit
 маджунирам - kitować
 мазе - piwnica
 мазилка - tynk
 мазнина - tłuszcz
-мазол - odcisk | nagniotek | modzel
+мазол - odcisk, nagniotek, modzel
 май - maj
-майка - matka | teściowa | źródło | przyczyna
+майка - matka, teściowa, źródło, przyczyna
 маймуна - małpa
 Майот - Majotta
-майстор - mistrz | majster
+майстор - mistrz, majster
 майтнерий - meitner
-мак - mak (roślina) | mak (nasiona)
+мак - mak (roślina), mak (nasiona)
 Макао - Makao
 македонец - Macedończyk
 Македония - Macedonia
-македонски - macedoński | język macedoński
-макромолекула - makromolekuła | makrocząsteczka
+македонски - macedoński, język macedoński
+макромолекула - makromolekuła, makrocząsteczka
 Малави - Malawi
 Малайзия - Malezja
 малакология - malakologia
 малария - malaria
 Малдиви - Malediwy
 Мали - Mali
-малина - malina (krzew) | malina (owoc)
+малина - malina (krzew), malina (owoc)
 малинов - malinowy
 Малки Антили - Małe Antyle
-малко - trochę | mało
+малко - trochę, mało
 малодушие - małoduszność
 малолетен - małoletni
 малоценен - małowartościowy
@@ -3564,12 +3564,12 @@
 марш - marsz
 маршал - marszałek
 Маршалови острови - Wyspy Marshalla
-маса - masa | stół | stolik
+маса - masa, stół, stolik
 масаж - masaż
 маска - maska
-маслен - maślany | olejny | oliwny
+маслен - maślany, olejny, oliwny
 маслина - oliwka
-масло - masło | olej
+масло - masło, olej
 масловка - maślak
 математик - matematyk
 математика - matematyka
@@ -3580,13 +3580,13 @@
 Маугли - Mowgli
 мафия - mafia
 мач - mecz
-мачкам - gnieść | miąć
+мачкам - gnieść, miąć
 машина - maszyna
 машинист - maszynista
 мащеха - macocha
 мебел - mebel
 мегдан - plac
-мед - miedź | miód
+мед - miedź, miód
 медал - medal
 медицина - medycyna
 медицински - medyczny
@@ -3594,7 +3594,7 @@
 между - między
 междукултурен - wielokulturowy
 международен - międzynarodowy
-мек - miękki | łagodny
+мек - miękki, łagodny
 мексиканец - Meksykanin
 Мексико - Meksyk
 меланхолия - melancholia
@@ -3607,12 +3607,12 @@
 мента - mięta
 ментов - miętowy
 Меркурий - Merkury
-месар - rzeźnik | sprzedawca mięsa
+месар - rzeźnik, sprzedawca mięsa
 месец - miesiąc
 месечен - miesięczny
 месечина - księżyc
 месинг - mosiądz
-месо - mięso | ciało
+месо - mięso, ciało
 месояден - mięsożerny
 местен - miejscowy
 местожителство - miejsce zamieszkania
@@ -3634,22 +3634,22 @@
 механик - mechanik
 механика - mechanika
 механичен - mechaniczny
-мехур - pęcherz | bąbel
+мехур - pęcherz, bąbel
 меч - miecz
 мечка - niedźwiedzica
 мечок - niedźwiedź
 мечта - marzenie
 мечтател - marzyciel
 мечтая - marzyć
-ми - mój | moja | moje | swój | mi | mnie
+ми - mój, moja, moje, swój, mi, mnie
 Мианмар - Mianmar
-мивка - zlewozmywak | umywalka
-миг - chwila | mgnienie
-мигам - migać | mrugać
+мивка - zlewozmywak, umywalka
+миг - chwila, mgnienie
+мигам - migać, mrugać
 мигновен - momentalny
 мигрена - migrena
-мизерия - nędza | podłość
-микология - mykologia | mikologia
+мизерия - nędza, podłość
+микология - mykologia, mikologia
 микроб - mikrob
 микробиология - mikrobiologia
 микроелектроника - mikroelektronika
@@ -3660,8 +3660,8 @@
 милиметър - milimetr
 милион - milion
 мимоза - mimoza
-мина - kopalnia | mina | minąć | przejść obok
-минал - zeszły | miniony
+мина - kopalnia, mina, minąć, przejść obok
+минал - zeszły, miniony
 минаре - minaret
 минерал - minerał
 минералог - mineralog
@@ -3670,12 +3670,12 @@
 министър-председател - premier
 минута - minuta
 миньор - górnik
-мир - pokój | spokój
+мир - pokój, spokój
 миризма - zapach
 мирмекология - myrmekologia
 мисия - misja
 мисля - myśleć
-мисъл - myśl | zamysł
+мисъл - myśl, zamysł
 митница - urząd celny
 митничар - celnik
 митология - mitologia
@@ -3687,11 +3687,11 @@
 млечен - mleczny
 Млечен път - Droga Mleczna
 мляко - mleko
-мнение - mniemanie | opinia | pogląd | zdanie
-много - bardzo | wiele | dużo
+мнение - mniemanie, opinia, pogląd, zdanie
+много - bardzo, wiele, dużo
 мобилен телефон - telefon komórkowy
 мога - móc
-могила - pagórek | mogiła
+могила - pagórek, mogiła
 модел - model
 модернизация - modernizacja
 Мозамбик - Mozambik
@@ -3701,27 +3701,27 @@
 Молдова - Mołdawia
 молдовец - Mołdawianin
 молдовски - mołdawski
-молекула - molekuła | cząsteczka
+молекула - molekuła, cząsteczka
 молибден - molibden
 молив - ołówek
 молитва - modlitwa
 моля - prosić
 моля се - modlić się
-мома - dziewczyna | panna
-момент - moment | chwila
-моментален - momentalny | chwilowy
+мома - dziewczyna, panna
+момент - moment, chwila
+моментален - momentalny, chwilowy
 момиче - dziewczynka
-момче - chłopiec | chłopak
-момък - chłopak | młodzieniec
+момче - chłopiec, chłopak
+момък - chłopak, młodzieniec
 Монако - Monako
-монарх - monarcha | władca
+монарх - monarcha, władca
 монархия - monarchia
-монах - zakonnik | mnich
+монах - zakonnik, mnich
 Монголия - Mongolia
 монета - moneta
 монозахарид - monosacharyd
 монумент - monument
-мор - zaraza | mór
+мор - zaraza, mór
 Моравия - Morawy
 море - morze
 морков - marchew
@@ -3735,20 +3735,20 @@
 мра - umrzeć
 мравка - mrówka
 мравояд - mrówkojad
-мраз - mróz | chłód
+мраз - mróz, chłód
 мразя - nienawidzić
-мрак - mrok | ciemność
+мрак - mrok, ciemność
 мрамор - marmur
-мрежа - sieć | siatka
-мръсен - brudny | wstrętny | plugawy
-му - on) | jego
+мрежа - sieć, siatka
+мръсен - brudny, wstrętny, plugawy
+му - on), jego
 музей - muzeum
 музика - muzyka
 музикален - muzyczny
-музикант - muzykant | muzyk
+музикант - muzykant, muzyk
 мултикултурализъм - wielokulturowość
 мура - sosna
-мускул - mięsień | muskuł
+мускул - mięsień, muskuł
 мустак - wąsy
 муха - mucha
 мухоморка - muchomor
@@ -3768,29 +3768,29 @@
 мъртъв - martwy
 мърша - padlina
 Мюнхен - Monachium
-мярка - miara | waga | miernik | kryterium
+мярка - miara, waga, miernik, kryterium
 място - miejsce
-мятам - miotać | rzucać
+мятам - miotać, rzucać
 мях - miech
-на - na | do
-наблюдателен - spostrzegawczy | obserwacyjny
-наблюдение - obserwacja | spostrzeżenie
-набождам - nakłuwać | kłuć
+на - na, do
+наблюдателен - spostrzegawczy, obserwacyjny
+наблюдение - obserwacja, spostrzeżenie
+набождам - nakłuwać, kłuć
 набожен - pobożny
 наборен - poborowy
 навалица - tłum
-навеки - na zawsze | na wieki
+навеки - na zawsze, na wieki
 навестявам - odwiedzać
-навирам - wpychać | wciskać
+навирам - wpychać, wciskać
 навлизам - wchodzić
 наводнение - powódź
-наводнявам - wylewać | zalewać
+наводнявам - wylewać, zalewać
 навсякъде - wszędzie
-нагоре - w górę | wzwyż
+нагоре - w górę, wzwyż
 Нагорни Карабах - Górski Karabach
 награда - nagroda
-над - nad | ponad
-надебелявам - grubieć | pogrubiać
+над - nad, ponad
+надебелявам - grubieć, pogrubiać
 надежда - nadzieja
 надкласов - ponadklasowy
 надлъжен - podłużny
@@ -3803,27 +3803,27 @@
 наздраве - na zdrowie!
 назовавам - nazywać
 наивен - naiwny
-наистина - naprawdę | rzeczywiście
+наистина - naprawdę, rzeczywiście
 най - naj-
 Найроби - Nairobi
 наказание - kara
-налог - podatek | opłata
+налог - podatek, opłata
 наложителен - konieczny
-намаление - zmniejszenie | zniżka
+намаление - zmniejszenie, zniżka
 намеря - znaleźć
 Намибия - Namibia
-намирам - znajdować | odnajdywać | znajdować się
+намирам - znajdować, odnajdywać, znajdować się
 намирам се - znajdować się
-напитка - picie | napój
+напитка - picie, napój
 напиша - napisać
 направление - kierunek
 направя - zrobić
 напредничав - postępowy
 напречен - poprzeczny
 например - na przykład
-напълно - zupełnie | całkowicie
+напълно - zupełnie, całkowicie
 нар - granat (owoc)
-наречие - przysłówek | narzecze
+наречие - przysłówek, narzecze
 наричам - nazywać
 наричам се - nazywać się
 наркоман - narkoman
@@ -3840,8 +3840,8 @@
 наследявам - dziedziczyć
 насока - kierunek
 наставка - przyrostek
-насърчавам - dodawać otuchy | pobudzać
-натискам - naciskać | nalegać
+насърчавам - dodawać otuchy, pobudzać
+натискам - naciskać, nalegać
 НАТО - NATO
 натрий - sód
 наука - nauka
@@ -3853,22 +3853,22 @@
 начало - początek
 наш - nasz
 не - nie
-небе - niebo | firmament | niebiosa | raj | Bóg | opatrzność
-небесен - niebieski | niebiański
+небе - niebo, firmament, niebiosa, raj, Bóg, opatrzność
+небесен - niebieski, niebiański
 небесно тяло - ciało niebieskie
 небивал - niebywały
 неблагодарен - niewdzięczny
 неблагополучен - niepomyślny
-неблагоразумен - nierozsądny | nieroztropny
+неблагоразумен - nierozsądny, nieroztropny
 небостъргач - drapacz chmur
 Небраска - Nebraska
-небрежен - niedbały | niechlujny
+небрежен - niedbały, niechlujny
 небце - podniebienie
 неважен - nieważny
-невежлив - nieuprzejmy | niegrzeczny
+невежлив - nieuprzejmy, niegrzeczny
 невероятен - nieprawdopodobny
 невесел - niewesoły
-невидим - niewidoczny | niewidzialny
+невидим - niewidoczny, niewidzialny
 невинен - niewinny
 невралгичен - newralgiczny
 невъзможен - niemożliwy
@@ -3883,10 +3883,10 @@
 недоволство - niezadowolenie
 недоизказан - niedomówiony
 недопустим - niedopuszczalny
-недостатъчен - niewystarczający | niedostateczny
+недостатъчен - niewystarczający, niedostateczny
 незабравка - niezapominajka
-независим - niezależny | niezawisły
-независимост - niezależność | niepodległość | niezawisłość
+независим - niezależny, niezawisły
+независимост - niezależność, niepodległość, niezawisłość
 немец - Niemiec
 немски - niemiecki
 ненавист - nienawiść
@@ -3895,22 +3895,22 @@
 неон - neon
 Непал - Nepal (państwo)
 неприятел - nieprzyjaciel
-непрозрачен - nieprzejrzysty | nieprzezroczysty
+непрозрачен - nieprzejrzysty, nieprzezroczysty
 Нептун - Neptun
 нептуний - neptun
 нерв - nerw
 неутралитет - neutralność
 нефт - ropa naftowa
 нещо - coś
-нива - pole | niwa
+нива - pole, niwa
 Нигер - Niger
 Нигерия - Nigeria
-Нидерландия - Niderlandy | Holandia
+Нидерландия - Niderlandy, Holandia
 Нидерландски Антили - Antyle Holenderskie
 ние - my
 низина - nizina
-низък - nikczemny | niski
-никак - wcale | w ogóle
+низък - nikczemny, niski
+никак - wcale, w ogóle
 Никарагуа - Nikaragua
 никел - nikiel
 никога - nigdy
@@ -3918,9 +3918,9 @@
 ниобий - niob
 нисък - niski
 нишесте - skrobia
-нишка - nitka | nić
+нишка - nitka, nić
 нищо - nic
-но - ale | lecz
+но - ale, lecz
 нобелий - nobel
 нов - nowy
 Нова Зеландия - Nowa Zelandia
@@ -3938,10 +3938,10 @@
 Норвежко море - Morze Norweskie
 норма - norma
 Нормандски острови - Wyspy Normandzkie
-нос - nos | przylądek
+нос - nos, przylądek
 носорог - nosorożec
 носталгия - nostalgia
-нота - nuta | nota (dyplomatyczna)
+нота - nuta, nota (dyplomatyczna)
 нотариус - notariusz
 нощ - noc
 нужда - potrzeba
@@ -3951,7 +3951,7 @@
 Ню Йорк - Nowy Jork
 ням - niemy
 нямам - nie mieć
-обаяние - czar | urok
+обаяние - czar, urok
 обвинявам - oskarżać
 обед - obiad
 обединен - zjednoczony
@@ -3959,31 +3959,31 @@
 Обединено кралство - Zjednoczone Królestwo
 Обединеното кралство - Zjednoczone Królestwo
 обезмаслен - odtłuszczony
-обект - obiekt | przedmiot
-обективен - obiektywny | bezstronny | rzeczywisty
-обем - objętość | zakres
+обект - obiekt, przedmiot
+обективен - obiektywny, bezstronny, rzeczywisty
+обем - objętość, zakres
 обещавам - obiecywać
 обещание - obietnica
 обещая - obiecać
-обзавеждам - urządzać | zagospodarowywać
-обикновен - zwykły | pospolity
+обзавеждам - urządzać, zagospodarowywać
+обикновен - zwykły, pospolity
 обикновена масловка - maślak zwyczajny
 обикновено - zwykle
 обилен - obfity
 обица - kolczyk
 обич - miłość
 обичаен - zwykły
-обичай - obyczaj | zwyczaj
-обичам - kochać | lubić
-облак - chmura | obłok
-облачен - pochmurny | chmurny
-обличам - ubierać | oblekać
+обичай - obyczaj, zwyczaj
+обичам - kochać, lubić
+облак - chmura, obłok
+облачен - pochmurny, chmurny
+обличам - ubierać, oblekać
 обмяна - wymiana
 обожавам - uwielbiać
 обой - obój
-образ - obraz | postać
-образцов - wzorowy | wzorcowy
-обратно - odwrotnie | przeciwnie
+образ - obraz, postać
+образцов - wzorowy, wzorcowy
+обратно - odwrotnie, przeciwnie
 обременителен - uciążliwy
 обричам - obiecywać
 обряд - ceremonia
@@ -3993,19 +3993,19 @@
 обявя - ogłosić
 овен - baran
 овошка - drzewo owocowe
-овулация - owulacja | jajeczkowanie
+овулация - owulacja, jajeczkowanie
 овца - owca
 овчар - pasterz
 овчарски - owczarski
 овчарски скок - skok o tyczce
 огледало - lustro
-ограда - ogrodzenie | płot
+ограда - ogrodzenie, płot
 ограничавам - ograniczać
 огън - ogień
 одежда - szata
 одеколон - woda kolońska
 одеяло - koc
-одобря - zaakceptować | zaaprobować | przyjąć
+одобря - zaakceptować, zaaprobować, przyjąć
 озон - ozon
 окапи - okapi
 окарина - okaryna
@@ -4015,13 +4015,13 @@
 около - około
 окрадвам - okradać
 оксид - tlenek
-окситански - oksytański | prowansalski | język oksytański | język prowansalski
+окситански - oksytański, prowansalski, język oksytański, język prowansalski
 октомври - październik
 октопод - ośmiornica
 окулист - okulista
 окултация - okultacja
 окултизъм - okultyzm
-окуражавам - dodawać odwagi | ośmielać
+окуражавам - dodawać odwagi, ośmielać
 олигарх - oligarcha
 олимпийски - olimpijski
 олио - olej
@@ -4031,26 +4031,26 @@
 омански - omański
 омраза - nienawiść
 Омск - Omsk
-онзи - tamten | ów
+онзи - tamten, ów
 оникс - onyks
 онкология - onkologia
 ООД - spółka z ograniczoną odpowiedzialnością
-ООН - ONZ | Organizacja Narodów Zjednoczonych
+ООН - ONZ, Organizacja Narodów Zjednoczonych
 опаковка - opakowanie
 опал - opal
 опасвам - opasywać
 опасен - niebezpieczny
 опасност - niebezpieczeństwo
-опашка - ogon | ogonek | kolejka
+опашка - ogon, ogonek, kolejka
 опера - opera
 операция - operacja
 оперение - upierzenie
 определен - określony
-опустоша - spustoszyć | opustoszyć
+опустоша - spustoszyć, opustoszyć
 оранжев - pomarańczowy
 орбита - orbita
-оргазъм - orgazm | szczytowanie
-орган - narząd | organ | organy
+оргазъм - orgazm, szczytowanie
+орган - narząd, organ, organy
 организация - organizacja
 организирам - organizować
 организъм - organizm
@@ -4062,25 +4062,25 @@
 оръжие - broń
 ос - oś
 оса - osa
-освен - oprócz | poza
+освен - oprócz, poza
 осем - osiem
-осемдесет - osiemdziesiąt | 80
-осемнадесет - osiemnaście | 18
+осемдесет - osiemdziesiąt, 80
+осемнадесет - osiemnaście, 18
 ослепявам - oślepiać
 осми - ósmy
 осмий - osm
-основен - podstawowy | główny
+основен - podstawowy, główny
 оставка - dymisja
-остатък - pozostałość | resztka
+остатък - pozostałość, resztka
 Остия - Ostia
 остров - wyspa
 островен - wyspiarski
 остър - ostry
-от - od | w | z (czegoś)
+от - od, w, z (czegoś)
 отбор - drużyna
 отварям - otwierać
 отвеждам - odprowadzać
-отвличам - porywać | odciągać
+отвличам - porywać, odciągać
 отвор - otwór
 отворен - otwarty
 отворя - otworzyć
@@ -4088,19 +4088,19 @@
 отговор - odpowiedź
 отека - puchnąć
 отец - ojciec
-отивам - pójść | pojechać | udać się
+отивам - pójść, pojechać, udać się
 отида - pójść
 отичам - puchnąć
-открит - odkryty | otwarty
+открит - odkryty, otwarty
 откъде - skąd
-отново - na nowo | znowu
+отново - na nowo, znowu
 отплата - odpłata
-отравям - truć | zatruwać | odkopywać | wykopywać
+отравям - truć, zatruwać, odkopywać, wykopywać
 отричам - zaprzeczać
 отрова - trucizna
-отсичам - odcinać | ścinać
-отстъпка - zniżka | rabat | ustępstwo
-отсъствие - nieobecność | brak
+отсичам - odcinać, ścinać
+отстъпка - zniżka, rabat, ustępstwo
+отсъствие - nieobecność, brak
 отхапвам - odgryzać
 официален - oficjalny
 официално - oficjalnie
@@ -4108,18 +4108,18 @@
 охотски - ochocki
 Охотско море - Morze Ochockie
 охранител - ochroniarz
-охранявам - ochraniać | strzec
-оцелея - ocaleć | przetrwać
+охранявам - ochraniać, strzec
+оцелея - ocaleć, przetrwać
 оцет - ocet
 очакване - oczekiwanie
 очила - okulary
 още - jeszcze
-падам - padać | spadać
+падам - padać, spadać
 падеж - przypadek deklinacji (forma rzeczownika cechująca jego użycie w zależności od pytania, na jakie odpowiada)
 падишах - sułtan
-пазар - rynek | bazar
-пазач - stróż | dozorca
-пак - znowu | ponownie
+пазар - rynek, bazar
+пазач - stróż, dozorca
+пак - znowu, ponownie
 Пакистан - Pakistan
 пакистанец - Pakistańczyk
 пакост - szkoda
@@ -4133,7 +4133,7 @@
 палестинец - Palestyńczyk
 палестински - palestyński
 палец - kciuk
-памук - bawełna | wata
+памук - bawełna, wata
 памучен - bawełniany
 панаир - jarmark
 Панама - Panama
@@ -4157,12 +4157,12 @@
 паразит - pasożyt
 параклис - kaplica
 парапланеризъм - paralotniarstwo
-параход - parowiec | parostatek
+параход - parowiec, parostatek
 парашут - spadochron
 парашутизъм - spadochroniarstwo
 пари - pieniądze
 Париж - Paryż
-паричен - pieniężny | płatniczy
+паричен - pieniężny, płatniczy
 парк - park
 парламент - parlament
 пародия - parodia
@@ -4178,14 +4178,14 @@
 патладжан - bakłażan
 паток - kaczor
 патриотизъм - patriotyzm
-пауза - pauza | przerwa
+пауза - pauza, przerwa
 паун - paw
 пащърнак - pasternak
 паяк - pająk
-певец - śpiewak | piosenkarz | piewca
+певец - śpiewak, piosenkarz, piewca
 педиатър - pediatra
 пейка - ławka
-пека - piec | grzać
+пека - piec, grzać
 пекар - piekarz
 Пекин - Pekin
 пелена - pielucha
@@ -4205,27 +4205,27 @@
 Перу - Peru
 перуански - peruwiański
 пес - pies
-песен - piosenka | pieśń
+песен - piosenka, pieśń
 пестя - oszczędzać
 пет - pięć
 пета - pięta
-петдесет - pięćdziesiąt | 50
+петдесет - pięćdziesiąt, 50
 петел - kogut
 пети - maj
-петнадесет - piętnaście | 15
+петнадесет - piętnaście, 15
 петнайсет - piętnaście
 петобой - pięciobój
 петрография - petrografia
 петък - piątek
 Петър - Piotr
-печат - pieczęć | druk
+печат - pieczęć, druk
 пещера - jaskinia
 пея - śpiewać
 пианист - pianista
 пиано - fortepian
 пианола - pianola
 пиво - piwo
-пивовар - browarnik | piwowar
+пивовар - browarnik, piwowar
 пикантен - pikantny
 пиле - kurczak
 пилот - pilot
@@ -4256,8 +4256,8 @@
 план - plan
 планета - planeta
 планетоид - planetoida
-планина - góra | góry
-планински - górzysty | górski
+планина - góra, góry
+планински - górzysty, górski
 планирам - planować
 платина - platyna
 платно - płótno
@@ -4265,43 +4265,43 @@
 плашило - straszydło
 плащам - płacić
 племе - plemię
-племенница - siostrzenica | bratanica
+племенница - siostrzenica, bratanica
 плесен - pleśń
 плешив - łysy
 Пловдив - Płowdiw
-плод - owoc | płód
+плод - owoc, płód
 плосък - płaski
-площ - powierzchnia | obszar
+площ - powierzchnia, obszar
 плувам - pływać
 плуване - pływanie
 плуг - pług
 плутоний - pluton
 плъх - szczur
-плюс - plus | zaleta
-плюя - pluć | wypluwać
-плячка - łup | zdobycz
+плюс - plus, zaleta
+плюя - pluć, wypluwać
+плячка - łup, zdobycz
 пневмония - zapalenie płuc
 победа - zwycięstwo
-поведение - zachowanie | postępowanie
+поведение - zachowanie, postępowanie
 повече - więcej
-повличам - pociągać | wlec
+повличам - pociągać, wlec
 повреда - uszkodzenie
-повръщам - zwracać | wymiotować
+повръщам - zwracać, wymiotować
 повтарям - powtarzać
 повярвам - uwierzyć
 поганец - poganin
 погледна - spojrzeć
-поглеждам - spoglądać | patrzeć
-поглъщам - połykać | pochłaniać
-под - pod | podłoga
-подарък - podarunek | prezent
-подвиг - wyczyn | czyn (bohaterski)
+поглеждам - spoglądać, patrzeć
+поглъщам - połykać, pochłaniać
+под - pod, podłoga
+подарък - podarunek, prezent
+подвиг - wyczyn, czyn (bohaterski)
 Подгорица - Podgorica
 подготовка - przygotowanie
-поддръжка - poparcie | wsparcie | pomoc
-подир - za | po
+поддръжка - poparcie, wsparcie, pomoc
+подир - za, po
 подиробед - popołudnie
-подклаждам - rozniecać | podsycać
+подклаждам - rozniecać, podsycać
 подкуп - łapówka
 подкупвам - przekupywać
 подмишница - pacha
@@ -4312,16 +4312,16 @@
 пожар - pożar
 пожарникар - strażak
 позиция - pozycja
-познат - znany | znajomy
+познат - znany, znajomy
 поискам - zażądać
 показалец - palec wskazujący
-показвам - pokazywać | wskazywać
+показвам - pokazywać, wskazywać
 покойник - nieboszczyk
-поколение - pokolenie | generacja
+поколение - pokolenie, generacja
 покрив - dach
 пола - spódnica
-поле - pole | margines
-полезен - pożyteczny | korzystny
+поле - pole, margines
+полезен - pożyteczny, korzystny
 Полинезия - Polinezja
 политик - polityk
 политика - polityka
@@ -4333,7 +4333,7 @@
 полковник - pułkownik
 половина - połowa
 полоний - polon
-полски - polski | polny
+полски - polski, polny
 полукълбо - półkula
 полунощ - północ (określenie czasu)
 полуостров - półwysep
@@ -4343,21 +4343,21 @@
 полякиня - Polka
 помагам - pomagać
 помежду - pomiędzy
-помитам - zamiatać | zmiatać
+помитам - zamiatać, zmiatać
 помня - pamiętać
 помощ - pomoc
 поне - przynajmniej
 понеделник - poniedziałek
 понеже - ponieważ
-понятие - pojęcie | termin | określenie | nazwa czegoś | zrozumienie | wiedza o czymś
-поощрявам - zachęcać | pobudzać
+понятие - pojęcie, termin, określenie, nazwa czegoś, zrozumienie, wiedza o czymś
+поощрявам - zachęcać, pobudzać
 поп - pop
 популярен - popularny
 популярност - popularność
 пор - tchórz
 порнографичен - pornograficzny
 порнография - pornografia
-порой - potok | struga | ulewa
+порой - potok, struga, ulewa
 порт - port
 портокал - pomarańcza
 портокалов - pomarańczowy
@@ -4366,71 +4366,71 @@
 португалски - portugalski
 поръча - zamówić
 Посейдон - Posejdon
-посещавам - odwiedzać | zwiedzać | uczęszczać
-посещение - odwiedziny | wizyta | uczęszczanie | chodzenie
-посланик - ambasador | poseł
-после - potem | następnie
+посещавам - odwiedzać, zwiedzać, uczęszczać
+посещение - odwiedziny, wizyta, uczęszczanie, chodzenie
+посланик - ambasador, poseł
+после - potem, następnie
 последен - ostatni
 пословица - przysłowie
 посока - kierunek
 посолство - ambasada
-постеля - pościel | posłanie | pościelić
-постройка - budowla | budowa
-построявам - budować | szeregować
-постъпка - postępek | uczynek
+постеля - pościel, posłanie, pościelić
+постройка - budowla, budowa
+построявам - budować, szeregować
+постъпка - postępek, uczynek
 поток - potok
 потреба - potrzeba
 похвала - pochwała
-почва - gleba | grunt
+почва - gleba, grunt
 почвам - zaczynać
-почивка - odpoczynek | wypoczynek
-почитам - czcić | szanować
+почивка - odpoczynek, wypoczynek
+почитам - czcić, szanować
 почти - prawie
 поща - poczta
 пощальон - listonosz
 появя се - pojawić się
-прав - prosty | prawy | uczciwy | prawdziwy | słuszny
-правда - prawda | sprawiedliwość
+прав - prosty, prawy, uczciwy, prawdziwy, słuszny
+правда - prawda, sprawiedliwość
 правилен - prawidłowy
 правителство - rząd
 правник - prawnik
-правота - słuszność | racja
+правота - słuszność, racja
 правоъгълник - prostokąt
 правя - robić
 праг - próg
 Прага - Praga
 праз - por
-празен - próżny | pusty
+празен - próżny, pusty
 празеодим - prazeodym
 празник - święto
 прасец - łydka
 праскова - brzoskwinia
-прах - kurz | pył | proszek | 1    пера: prałem | prałam
+прах - kurz, pył, proszek, 1    пера: prałem, prałam
 прахосмукачка - odkurzacz
 пращам - posyłać
-превеждам - przenosić | przeprowadzać | przekładać | tłumaczyć
-превод - przekład | tłumaczenie
+превеждам - przenosić, przeprowadzać, przekładać, tłumaczyć
+превод - przekład, tłumaczenie
 преводач - tłumacz
 превръзка - opatrunek
 прегръщам - obejmować
 пред - przed (w przestrzeni)
-преда - prząść | mruczeć
+преда - prząść, mruczeć
 предателство - zdrada
-предимно - głównie | przede wszystkim
-предложение - propozycja | wniosek
-предмет - przedmiot | rzecz | temat rozmowy | badania | zawartość czegoś | cel
+предимно - głównie, przede wszystkim
+предложение - propozycja, wniosek
+предмет - przedmiot, rzecz, temat rozmowy, badania, zawartość czegoś, cel
 предпазлив - ostrożny
-предпочитам - woleć (coś) | przedkładać (coś nad coś)
-предприятие - przedsiębiorstwo | przedsięwzięcie
-предричам - przepowiadać | prorokować
+предпочитам - woleć (coś), przedkładać (coś nad coś)
+предприятие - przedsiębiorstwo, przedsięwzięcie
+предричам - przepowiadać, prorokować
 предсрочен - przedterminowy
 представител - przedstawiciel
-през - przez | w
+през - przez, w
 президент - prezydent
 президентски - prezydencki
-презирам - pogardzać | lekceważyć
+презирам - pogardzać, lekceważyć
 прекарам - spędzić
-прекрасен - prześliczny | wspaniały
+прекрасен - prześliczny, wspaniały
 премиер - premier
 премия - premia
 преподавател - wykładowca
@@ -4439,12 +4439,12 @@
 прераждане - reinkarnacja
 пресен - świeży
 пресечка - przecznica
-престъпление - przestępstwo | występek
+престъпление - przestępstwo, występek
 престъпник - przestępca
 префектура - prefektura
-приготвя - przygotować | przygotować się
+приготвя - przygotować, przygotować się
 Приднестровие - Naddniestrze
-призная - przyznać | uznać
+призная - przyznać, uznać
 прилагателно - przymiotnik
 прилагателно име - przymiotnik
 прилеп - nietoperz
@@ -4453,30 +4453,30 @@
 примка - pętla
 принтер - drukarka
 принц - książę
-принцип - zasada | reguła
+принцип - zasada, reguła
 припев - refren
 припирам - nalegać
 припра - nalegać
 природа - przyroda
-природен - naturalny | związany z przyrodą | przyrodniczy
-приспособление - przyrząd | urządzenie
-приспособяване - adaptacja | akomodacja
-пристанище - przystań | port | schronienie
+природен - naturalny, związany z przyrodą, przyrodniczy
+приспособление - przyrząd, urządzenie
+приспособяване - adaptacja, akomodacja
+пристанище - przystań, port, schronienie
 пристигам - przyjeżdżać
-пристигане - przybycie | przyjazd
-пристигна - przybyć | przyjechać
+пристигане - przybycie, przyjazd
+пристигна - przybyć, przyjechać
 прическа - fryzura
-причина - przyczyna | źródło
+причина - przyczyna, źródło
 приятел - przyjaciel
 приятелка - przyjaciółka
 приятелство - przyjaźń
 приятен - przyjemny
 проблем - problem
-проверка - kontrola | sprawdzenie
+проверка - kontrola, sprawdzenie
 провинция - prowincja
 програма - program
 програмист - programista
-прогрес - progres | postęp
+прогрес - progres, postęp
 продавам - sprzedawać
 продавач - sprzedawca
 продажба - sprzedaż
@@ -4487,12 +4487,12 @@
 проект - projekt
 проза - proza
 прозорец - okno
-прозрачен - przezroczysty | przejrzysty
-произвеждам - produkować | wytwarzać
+прозрачен - przezroczysty, przejrzysty
+произвеждам - produkować, wytwarzać
 производител - producent
 произношение - wymowa
 произход - pochodzenie
-произхождам - pochodzić | wywodzić się
+произхождам - pochodzić, wywodzić się
 проклятие - przekleństwo
 прокурор - prokurator
 пролет - wiosna
@@ -4502,14 +4502,14 @@
 промяна - zmiana
 пророк - prorok
 проститутка - prostytutka
-простъпка - przestępstwo | wykroczenie | występek
+простъпка - przestępstwo, wykroczenie, występek
 протактиний - protaktyn
 протекторат - protektorat
 протест - protest
 противник - przeciwnik
-протичам - przepływać | płynąć | przeciekać
+протичам - przepływać, płynąć, przeciekać
 проток - kanał
-професия - zawód | profesja
+професия - zawód, profesja
 професор - profesor
 процедура - procedura
 процент - procent
@@ -4517,23 +4517,23 @@
 прочета - przeczytać
 пружина - sprężyna
 пръв - pierwszy
-пръст - palec | ziemia
+пръст - palec, ziemia
 пръстен - pierścień
 прът - pręt
-пръчка - patyk | pałeczka
+пръчка - patyk, pałeczka
 псевдоним - pseudonim
 психология - psychologia
 псувам - przeklinać
 псувня - przekleństwo
 птица - ptak
 птицечовка - dziobak
-публика - publiczność | publika
+публика - publiczność, publika
 Пуерто Рико - Portoryko
 пуйка - indyk
 пулсар - pulsar
 пура - cygaro
 пурпурен - purpurowy
-пусна - puścić | zapuścić
+пусна - puścić, zapuścić
 пустинен - pustynny
 пустиния - pustynia
 пустиня - pustynia
@@ -4545,27 +4545,27 @@
 пъб - pub
 пъдпъдък - przepiórka
 пъкъл - piekło
-пълен - pełen | pełny
+пълен - pełen, pełny
 пълня - napełniać
 пъп - pępek
 пъпеш - melon
-пъпка - pączek | pryszcz | krosta
+пъпка - pączek, pryszcz, krosta
 първи - pierwszy
-пъргавина - żwawość | zwinność
+пъргавина - żwawość, zwinność
 пързалка - ślizgawka
 пъстърва - pstrąg
-път - droga | raz
-пътека - ścieżka | dróżka
+път - droga, raz
+пътека - ścieżka, dróżka
 пътник - podróżny
-пътувам - jechać | podróżować
+пътувам - jechać, podróżować
 пътуване - podróż
 пясък - piasek
 Рабат - Rabat
 раболепен - służalczy
 работа - praca
-работен - roboczy | pracowity
+работен - roboczy, pracowity
 работлив - pracowity
-работник - pracownik | robotnik
+работник - pracownik, robotnik
 работнически - robotniczy
 работодател - pracodawca
 работоспособен - zdolny do pracy
@@ -4575,11 +4575,11 @@
 равнина - równina
 равнобедрен - równoramienny
 равнодушен - obojętny
-равнозначен - równoznaczny | równoważny
+равнозначен - równoznaczny, równoważny
 равномерен - równomierny
 равноправен - równouprawniony
 равностранен - równoboczny
-радиация - radiacja | promieniowanie
+радиация - radiacja, promieniowanie
 радий - rad
 радикален - radykalny
 радио - radio
@@ -4588,34 +4588,34 @@
 радост - radość
 радостен - radosny
 разбирам - rozumieć
-разбойник - rozbójnik | zbójca
-развалям - rozwalać | psuć
+разбойник - rozbójnik, zbójca
+развалям - rozwalać, psuć
 развод - rozwód
-разговарям - rozmawiać | gawędzić
+разговарям - rozmawiać, gawędzić
 разговор - rozmowa
 раздвоен - rozdwojony
-раздяла - rozstanie | rozłąka
+раздяла - rozstanie, rozłąka
 разлика - różnica
-различен - różny | rozmaity
-разменям - rozmieniać | wymieniać
-размер - rozmiar | wielkość
+различен - różny, rozmaity
+разменям - rozmieniać, wymieniać
+размер - rozmiar, wielkość
 разнообразен - zróżnicowany
-разположен - położony | leżący | umiejscowiony | usytuowany | usposobiony
-разстояние - odległość | dystans
+разположен - położony, leżący, umiejscowiony, usytuowany, usposobiony
+разстояние - odległość, dystans
 разум - mądrość
 рай - raj
 район - region
 районен - rejonowy
-рак - rak (zwierzę) | rak (choroba)
-Рак - Rak | ♋
+рак - rak (zwierzę), rak (choroba)
+Рак - Rak, ♋
 ракета - rakieta
 ракетен - rakietowy
 рамазан - ramadan
 рамо - ramię
 рана - rana
 раница - plecak
-рапира - rapier | floret
-раста - rosnąć | róść
+рапира - rapier, floret
+раста - rosnąć, róść
 растение - roślina
 растителен - roślinny
 ратификация - ratyfikacja
@@ -4625,7 +4625,7 @@
 реакционен - reakcyjny
 реакция - reakcja
 реален - realny
-реалност - rzeczywistość | realność
+реалност - rzeczywistość, realność
 ребро - żebro
 рева - ryczeć
 ревизионен - rewizyjny
@@ -4635,48 +4635,48 @@
 регионален - regionalny
 регистрирам - rejestrować
 редник - szeregowy
-режа - rżnąć | ciąć | krajać
+режа - rżnąć, ciąć, krajać
 режисьор - reżyser
 резба - rzeźba
-резервоар - zbiornik (np. na paliwo) | pojemnik | zbiornik | rezerwuar (wody)
+резервоар - zbiornik (np. na paliwo), pojemnik, zbiornik, rezerwuar (wody)
 резолюция - rezolucja
-резултат - rezultat | wynik
+резултат - rezultat, wynik
 Рейкявик - Reykjavík
 река - rzeka
 реклама - reklama
-реколта - zbiór | plon
+реколта - zbiór, plon
 рекорден - rekordowy
 религиозен - religijny
 религия - religia
-ренде - hebel | tarka
+ренде - hebel, tarka
 рений - ren
 рентгенов - rentgenowski
 репичка - rzodkiewka
 реплика - replika
 република - republika
 Република Зелени нос - Republika Zielonego Przylądka
-Република Китай - Republika Chińska | Tajwan
-Република Конго - Republika Konga | Kongo
-Република Корея - Republika Korei | Korea Południowa
-Република Сейшели - Republika Seszeli | Seszele
+Република Китай - Republika Chińska, Tajwan
+Република Конго - Republika Konga, Kongo
+Република Корея - Republika Korei, Korea Południowa
+Република Сейшели - Republika Seszeli, Seszele
 Република Южна Африка - Republika Południowej Afryki
 респект - respekt
 ресторан - restauracja
 ресторант - restauracja
-рецепта - recepta | przepis
+рецепта - recepta, przepis
 реч - mowa
 речник - słownik
-решение - decyzja | rozstrzygnięcie
+решение - decyzja, rozstrzygnięcie
 решетка - krata
-Реюнион - Reunion | wyspa na Oceanie Indyjskim
+Реюнион - Reunion, wyspa na Oceanie Indyjskim
 риба - ryba
 рибар - rybak
 рибарка - rybitwa
 рибарски - rybacki
-рибен - rybny | rybi
+рибен - rybny, rybi
 риболовец - rybak
 Рига - Ryga
-риж - ryży | rudy
+риж - ryży, rudy
 риза - koszula
 Рим - Rzym
 рима - rym
@@ -4691,13 +4691,13 @@
 робот - robot
 рог - róg
 рогат - rogaty
-род - ród | rodzaj
+род - ród, rodzaj
 родий - rod
 родина - ojczyzna
 родител - rodzic
 родителски - rodzicielski
 родолюбив - patriotyczny
-рожба - dziecko | młode
+рожба - dziecko, młode
 Рождество Христово - Boże Narodzenie
 роза - róża
 розов - różowy
@@ -4718,9 +4718,9 @@
 рудник - kopalnia
 румънец - Rumun
 Румъния - Rumunia
-румънски - rumuński | język rumuński
+румънски - rumuński, język rumuński
 руно - runo owcze
-рус - jasnowłosy | blond | jasny (o włosach)
+рус - jasnowłosy, blond, jasny (o włosach)
 Русия - Rosja
 Руска федерация - Federacja Rosyjska
 руски - rosyjski
@@ -4731,22 +4731,22 @@
 ръж - żyto
 ръжда - rdza
 ръка - ręka
-ръкав - rękaw | mający formę przypominającą rękaw | ramię
+ръкав - rękaw, mający formę przypominającą rękaw, ramię
 ръкавица - rękawica
-ръководство - kierownictwo | podręcznik
+ръководство - kierownictwo, podręcznik
 ръст - wzrost
 рядко - rzadko
 рядък - rzadki
-с - z | ze
+с - z, ze
 сабя - szabla
 сайт - strona internetowa
-сак - worek | torba
+сак - worek, torba
 саксофон - saksofon
 сал - tratwa
 салата - sałatka
 Салвадор - Salwador
 сало - sadło
-салон - salon | sala
+салон - salon, sala
 сам - sam
 Самара - Samara
 самарий - samar
@@ -4776,7 +4776,7 @@
 сатър - tasak
 Саудитска Арабия - Arabia Saudyjska
 Сахарска арабска демократична република - Saharyjska Arabska Republika Demokratyczna
-САЩ - Stany Zjednoczone | USA
+САЩ - Stany Zjednoczone, USA
 Свазиленд - Suazi
 Свалбард - Svalbard
 свастика - swastyka
@@ -4787,18 +4787,18 @@
 светлина - światło
 светлинна година - rok świetlny
 световен - światowy
-светъл - jasny | światły
+светъл - jasny, światły
 свещ - świeca
-свещеник - duchowny | kapłan
+свещеник - duchowny, kapłan
 свидетел - świadek
 свиня - świnia
-свирка - fujarka | gwizdek
+свирка - fujarka, gwizdek
 свобода - wolność
 свобода на словото - wolność słowa
 свободен - wolny
 сврака - sroka
 свят - świat
-сграда - budynek | gmach
+сграда - budynek, gmach
 се - się
 север - północ
 северен - północny
@@ -4811,8 +4811,8 @@
 сега - teraz
 седалище - siedziba
 седем - siedem
-седемдесет - siedemdziesiąt | 70
-седемнадесет - siedemnaście | 17
+седемдесет - siedemdziesiąt, 70
+седемнадесет - siedemnaście, 17
 седеф - masa perłowa
 седми - siódmy
 седмица - tydzień
@@ -4823,7 +4823,7 @@
 Сейнт Китс и Невис - Saint Kitts i Nevis
 Сейнт Лусия - Saint Lucia
 Сейшелски острови - Seszele
-сека - ciąć | siec | ścinać
+сека - ciąć, siec, ścinać
 секира - siekiera
 секретар - sekretarz
 секс - seks
@@ -4832,11 +4832,11 @@
 секунда - sekunda
 селен - selen
 село - wieś
-селска лястовица - jaskółka dymówka | dymówka
-селски - wiejski | chłopski
+селска лястовица - jaskółka dymówka, dymówka
+селски - wiejski, chłopski
 семе - ziarno
 семейство - rodzina
-семка - ziarenko | nasiono
+семка - ziarenko, nasiono
 сенатор - senator
 Сенегал - Senegal
 сено - siano
@@ -4847,34 +4847,34 @@
 сериозен - poważny
 серия - seria
 серотонин - serotonina
-сестра - siostra | pielęgniarka | sanitariuszka | mniszka | zakonnica
-си - swój | jesteś
+сестра - siostra, pielęgniarka, sanitariuszka, mniszka, zakonnica
+си - swój, jesteś
 сив - szary
-сигурен - pewny | niezawodny
+сигурен - pewny, niezawodny
 сигурност - bezpieczeństwo
 Сиера Леоне - Sierra Leone
 Сизиф - Syzyf
 сила - siła
 Силезия - Śląsk
-силен - mocny | silny
+силен - mocny, silny
 силиций - krzem
 символ - symbol
 символизирам - symbolizować
 симпатичен - sympatyczny
-син - syn | niebieski (kolor)
+син - syn, niebieski (kolor)
 синагога - synagoga
 Сингапур - Singapur
 синдикат - syndykat
 синигер - sikora
 синоним - synonim
 синтагма - syntagma
-синтаксис - składnia | syntaktyka
+синтаксис - składnia, syntaktyka
 синхронен - synchroniczny
 синхронно плуване - pływanie synchroniczne
 сирене - ser
 Сирия - Syria
 сиромах - biedak
-система - system | układ
+система - system, układ
 сит - syty
 ситар - sitar
 сито - sito
@@ -4884,7 +4884,7 @@
 скандал - skandal
 скандий - skand
 скандинавски - skandynawski
-скапан - zepsuty | zgniły | parszywy
+скапан - zepsuty, zgniły, parszywy
 скарида - krewetka
 скелет - szkielet
 ски бягане - narciarstwo biegowe
@@ -4898,36 +4898,36 @@
 скулптор - rzeźbiarz
 скумрия - makrela atlantycka
 скучен - nudny
-скъп - drogi | kosztowny
-слаб - słaby | szczupły
+скъп - drogi, kosztowny
+слаб - słaby, szczupły
 слабина - pachwina
-слава - sława | chwała
+слава - sława, chwała
 славянознание - slawistyka
 сладкар - cukiernik
 сладкарница - cukiernia
 сладкарски - cukierniczy
-сладкиш - ciasto | placek
+сладкиш - ciasto, placek
 сладолед - lody
 сладък - słodki
 слама - słoma
 слана - szron
-след - za | po
+след - za, po
 следвам - studiować
 следобед - popołudnie
 слива - śliwka
 Словакия - Słowacja
-словашки - słowacki | język słowacki
+словашки - słowacki, język słowacki
 словенец - Słoweniec
 Словения - Słowenia
 словенски - słoweński
-слово - słowo | wyraz
-сложен - złożony | skomplikowany
+слово - słowo, wyraz
+сложен - złożony, skomplikowany
 слой - warstwa
 слон - słoń
 слонов - słoniowy
-служба - praca | posada | służba | funkcja
+служба - praca, posada, służba, funkcja
 слух - słuch
-случай - wypadek | zdarzenie | sytuacja | okazja | sposobność | przypadek | traf
+случай - wypadek, zdarzenie, sytuacja, okazja, sposobność, przypadek, traf
 слушам - słuchać
 слънце - słońce
 Слънце - Słońce
@@ -4940,16 +4940,16 @@
 сметана - śmietana
 сметанов - śmietankowy
 сметка - rachunek
-смокиня - figowiec | figa (owoc)
-смола - żywica | smoła
+смокиня - figowiec, figa (owoc)
+смола - żywica, smoła
 Смолян - Smolan
-смрад - odór | smród
+смрад - odór, smród
 смърт - śmierć
 смяна - zmiana
 смях - śmiech
-снаха - synowa | bratowa
-снежинка - śnieżynka | płatek śniegu
-снимка - zdjęcie | fotografia
+снаха - synowa, bratowa
+снежинка - śnieżynka, płatek śniegu
+снимка - zdjęcie, fotografia
 сноп - snop
 сноуборд - snowboard
 сняг - śnieg
@@ -4966,14 +4966,14 @@
 сом - sum
 Сомалиленд - Somaliland
 Сомалия - Somalia
-сорт - rodzaj | gatunek | odmiana
+сорт - rodzaj, gatunek, odmiana
 сортировач на вълна - zszywacz
 София - Sofia
 социализъм - socjalizm
 социолог - socjolog
 социология - socjologia
 сочен - soczysty
-спазване - przestrzeganie | zachowanie
+спазване - przestrzeganie, zachowanie
 спалния - sypialnia
 спалня - sypialnia
 спанак - szpinak
@@ -4985,10 +4985,10 @@
 спирален - spiralny
 спирка - przystanek
 списание - czasopismo
-списък - spis | lista
+списък - spis, lista
 спокоен - spokojny
 спокойствие - spokój
-спор - spór | kłótnia
+спор - spór, kłótnia
 според - według
 спорт - sport
 спортен - sportowy
@@ -4997,47 +4997,47 @@
 спрежение - koniugacja
 спътник - satelita
 спя - spać
-сражение - bitwa | walka
+сражение - bitwa, walka
 срам - wstyd
 сребрист - srebrzysty
 сребро - srebro
 сребърен - srebrny
-сред - wśród | pośród
+сред - wśród, pośród
 среда - środowisko
 Средиземно море - Morze Śródziemne
 средиземноморски - śródziemnomorski
 среща - spotkanie
 срещна - spotkać
-сръбски - serbski | język serbski
+сръбски - serbski, język serbski
 сряда - środa
 стабилен - stabilny
 става - staw
-ставам - wstawać | stawać | stawać się | robić się | dziać się | odbywać się
+ставам - wstawać, stawać, stawać się, robić się, dziać się, odbywać się
 стадион - stadion
 стадо - stado
 стандарт - standard
 станция - stacja
 стар - stary
-старец - starzec | staruszek
+старец - starzec, staruszek
 старица - staruszka
 статистика - statystyka
 статия - artykuł
 статут - status
-статуя - posąg | statua
+статуя - posąg, statua
 стачка - strajk
-стая - pokój | pomieszczenie domowe
-ствол - pień | łodyga
+стая - pokój, pomieszczenie domowe
+ствол - pień, łodyga
 стена - ściana
 степ - step
-стигам - wystarczać | dostawać
+стигам - wystarczać, dostawać
 стигна - dotrzeć
 стил - styl
 стимулирам - stymulować
 стипендия - stypendium
-стипца - ałun | sknera
-сто - sto | 100
+стипца - ałun, sknera
+сто - sto, 100
 Стокхолм - Sztokholm
-стол - krzesło | stołówka
+стол - krzesło, stołówka
 столар - stolarz
 столетие - stulecie
 столица - stolica
@@ -5047,11 +5047,11 @@
 стон - jęk
 стоя - stać
 страдание - cierpienie
-страна - kraj | państwo
+страна - kraj, państwo
 странен - dziwny
 страница - strona
 страх - strach
-страшен - straszny | przerażający
+страшен - straszny, przerażający
 стрела - strzała
 стрелба - strzelectwo
 стрелба с лък - łucznictwo
@@ -5065,7 +5065,7 @@
 структура - struktura
 струна - struna
 струнен - strunowy
-струя - struga | strumień
+струя - struga, strumień
 студен - zimny
 студено - zimno
 студент - student
@@ -5074,24 +5074,24 @@
 стълб - słup
 стъпало - stopa
 стюардеса - stewardesa
-стяг - chorągiew | sztandar
+стяг - chorągiew, sztandar
 суахили - suahili
-субективен - subiektywny | stronniczy | jednostronny | osobisty | indywidualny
+субективен - subiektywny, stronniczy, jednostronny, osobisty, indywidualny
 суграшица - deszcz ze śniegiem
 Судан - Sudan
 суеверие - przesąd
 сука - suka biłgorajska
 султанство - sułtanat
-сума - suma | kwota
+сума - suma, kwota
 супа - zupa
 сура - sura
 Суринам - Surinam
-сутрин - rano | poranek
-суфикс - sufiks | przyrostek
-сух - suchy | wytrawny
+сутрин - rano, poranek
+суфикс - sufiks, przyrostek
+сух - suchy, wytrawny
 сухар - suchar
 сухожилие - ścięgno
-суша - susza | ląd | suszyć | wysuszać
+суша - susza, ląd, suszyć, wysuszać
 сфера - kula
 сцена - scena
 счетоводител - księgowy
@@ -5100,40 +5100,40 @@
 съвет - rada
 Съветски съюз - Związek Radziecki
 съвсем - zupełnie
-съгласно - zgodnie z | według
-съд - naczynie | sąd
-съдба - los | przeznaczenie
+съгласно - zgodnie z, według
+съд - naczynie, sąd
+съдба - los, przeznaczenie
 съдия - sędzia
 Съединени американски щати - Stany Zjednoczone Ameryki
-Съединени щати - Stany Zjednoczone | USA
+Съединени щати - Stany Zjednoczone, USA
 съжалявам - żałować
 съзвездие - gwiazdozbiór
-създавам - stwarzać | tworzyć
+създавам - stwarzać, tworzyć
 съм - być
 сън - sen
-сънувам - śnić | śnić się
-съобщение - wiadomość | komunikat | komunikacja
+сънувам - śnić, śnić się
+съобщение - wiadomość, komunikat, komunikacja
 съперник - rywal
-съпруг - mąż | małżonek
-съпруга - małżonka | żona
+съпруг - mąż, małżonek
+съпруга - małżonka, żona
 сърбин - Serb
 Сърбия - Serbia
 Сърбия и Черна гора - Serbia i Czarnogóra
-сърдит - gniewny | zagniewany
+сърдит - gniewny, zagniewany
 сърна - sarna
 сърце - serce
-със - z | ze
+със - z, ze
 съсед - sąsiad
 състезание - zawody
-състоя се - składać się | zawierać
+състоя се - składać się, zawierać
 съчетание - połączenie
 съществително - rzeczownik
 съществително име - rzeczownik
-същество - istota | żywy byt | sedno | istota (np. sprawy)
+същество - istota, żywy byt, sedno, istota (np. sprawy)
 съществувам - istnieć
 съществуване - istnienie
-също - także | też | również
-съюз - związek | sojusz | spójnik
+също - także, też, również
+съюз - związek, sojusz, spójnik
 сядам - siadać
 сянка - cień
 сяра - siarka
@@ -5141,7 +5141,7 @@
 таблетка - tabletka
 таблица - tablica
 табу - tabu
-таван - sufit | strych | pułap | limit
+таван - sufit, strych, pułap, limit
 Таджикистан - Tadżykistan
 тази - ta
 Тайван - Tajwan
@@ -5149,7 +5149,7 @@
 тайландски - tajlandzki
 тайна - tajemnica
 тайски - tajski
-такса - taksa | opłata
+такса - taksa, opłata
 таксон - takson
 талий - tal
 Талин - Tallinn
@@ -5175,9 +5175,9 @@
 тебешир - kreda
 теглилка - waga
 тежа - ważyć
-тежест - ciężar | waga
+тежест - ciężar, waga
 тежък - ciężki
-тека - ciec | cieknąć | przeciekać | biec
+тека - ciec, cieknąć, przeciekać, biec
 текст - tekst
 тел - drut
 телбод - zszywacz
@@ -5186,25 +5186,25 @@
 телевизор - telewizor
 телеграма - telegram
 телескоп - teleskop
-телефон - aparat telefoniczny | telefon
+телефон - aparat telefoniczny, telefon
 телефонирам - telefonować
 телур - tellur
 тема - temat
 температура - temperatura
 тенис - tenis
-тениска - koszulka | T-shirt
+тениска - koszulka, T-shirt
 тенис на маса - tenis stołowy
 теология - teologia
-теорема - twierdzenie | teoremat
+теорема - twierdzenie, teoremat
 теория - teoria
-терапевт - terapeuta | internista
+терапевт - terapeuta, internista
 тербий - terb
 територия - terytorium
-термин - termin | pojęcie
+термин - termin, pojęcie
 терминология - terminologia
 Термопили - Termopile
 термос - termos
-тесен - wąski | ciasny
+тесен - wąski, ciasny
 тесто - ciasto
 тетрадка - zeszyt
 тетрев - cietrzew
@@ -5212,7 +5212,7 @@
 техника - technika
 технология - technologia
 течност - płyn
-ти - ty | twój
+ти - ty, twój
 Тибет - Tybet
 тиган - patelnia
 тигър - tygrys
@@ -5221,7 +5221,7 @@
 Тимор - Timor
 тимпан - kocioł
 тимус - grasica
-тиня - muł | szlam
+тиня - muł, szlam
 типичен - typowy
 Тирана - Tirana
 тирбушон - korkociąg
@@ -5230,40 +5230,40 @@
 тис - cis
 титан - tytan
 Тихи океан - Ocean Spokojny
-тичам - biec | biegać
-тичане - bieganie | bieg
+тичам - biec, biegać
+тичане - bieganie, bieg
 тишина - cisza
 тласкане на гюле - pchnięcie kulą
 тлъстина - tłuszcz
-тоалетна - toaleta | ubikacja
+тоалетна - toaleta, ubikacja
 тоалетна хартия - papier toaletowy
 това - to
 товар - ciężar
 Того - Togo
 този - ten
 той - on
-ток - prąd | obcas
+ток - prąd, obcas
 токачка - perlica
 Токио - Tokio
 токсикология - toksykologia
 толерирам - tolerować
-тон - ton | tona
+тон - ton, tona
 Тонга - Tonga
-топ - działo | zwój | bela
+топ - działo, zwój, bela
 топаз - topaz
-топка - piłka | kula | gałka
+топка - piłka, kula, gałka
 топло - ciepło
 топола - topola
-топор - siekiera | topór
+топор - siekiera, topór
 топъл - ciepły
-торба - torba | worek
+торба - torba, worek
 торий - tor
-торта - tort | ciasto | ciastko
+торта - tort, ciasto, ciastko
 торф - torf
 Тоскана - Toskania
-тостер - toster | opiekacz
+тостер - toster, opiekacz
 точилка - wałek do ciasta
-точка - kropka | punkt
+точка - kropka, punkt
 точност - dokładność
 традиционно - tradycyjnie
 традиция - tradycja
@@ -5271,41 +5271,41 @@
 трамвай - tramwaj
 трая - trwać
 трева - trawa
-тревога - obawa | lęk | trwoga | alarm
+тревога - obawa, lęk, trwoga, alarm
 треска - dorsz
 трети - trzeci
 три - trzy
 трибология - tribologia
 тригонометрия - trygonometria
-тридесет - trzydzieści | 30
+тридесет - trzydzieści, 30
 тризъбец - trójząb
-тринадесет - trzynaście | 13
+тринадесет - trzynaście, 13
 Тринидад и Тобаго - Trynidad i Tobago
-Тристан да Куня - Tristan da Cunha - archipelag na Atlantyku | Tristan da Cunha - największa wyspa w archipelagu Tristan da Cunha
+Тристан да Куня - Tristan da Cunha - archipelag na Atlantyku, Tristan da Cunha - największa wyspa w archipelagu Tristan da Cunha
 трихология - trychologia
 трицветен - trójkolorowy
-триъгълник - trójkąt | trzy osoby
+триъгълник - trójkąt, trzy osoby
 троен - potrójny
 троен скок - trójskok
 тролей - trolejbus
 тромб - zakrzep
 тромбон - puzon
 тромпет - trąbka
-труд - praca | trud | wysiłek
+труд - praca, trud, wysiłek
 трудолюбие - pracowitość
 труп - trup
 трупа - trupa
 трус - wstrząs
-тръба - rura | trąbka
-тръгвам - ruszać | wyruszać
+тръба - rura, trąbka
+тръгвам - ruszać, wyruszać
 тръгна - ruszyć
-трябва - trzeba | należy | musi się
+трябва - trzeba, należy, musi się
 туба - tuba
 тугрик - tugrik
 тук - tutaj
 тулий - tul
 туловище - tułów
-Тунис - Tunezja | Tunis
+Тунис - Tunezja, Tunis
 тунисец - Tunezyjczyk
 туниски - tunezyjski
 тупалка - trzepaczka
@@ -5313,7 +5313,7 @@
 туристически - turystyczny
 туркиня - Turczynka
 Туркменистан - Turkmenistan
-турски - turecki | język turecki
+турски - turecki, język turecki
 Турция - Turcja
 турчин - Turek
 тухла - cegła
@@ -5321,37 +5321,37 @@
 тъка - tkać
 тъкач - tkacz
 тъмен - ciemny
-тъмнина - ciemność | ciemnota
+тъмнина - ciemność, ciemnota
 тънък - cienki
-тъп - tępy | nieostry | głuchy (o dźwięku)
+тъп - tępy, nieostry, głuchy (o dźwięku)
 тъпан - bęben
 търбух - żwacz
-търг - przetarg | licytacja
+търг - przetarg, licytacja
 търговец - handlowiec
 търговия - handel
 търговски - handlowy
-Търкс и Кайкос - Turks i Caicos | wyspy na Morzu Karaibskim
-търсене - szukanie | zapotrzebowanie | popyt
+Търкс и Кайкос - Turks i Caicos, wyspy na Morzu Karaibskim
+търсене - szukanie, zapotrzebowanie, popyt
 търся - szukać
 тютюн - tytoń
 тя - ona
 тяло - ciało
 убеждавам - przekonywać
-убежище - azyl | schronienie
+убежище - azyl, schronienie
 убивам - zabijać
-убиец - zabójca | morderca
+убиец - zabójca, morderca
 убийство - morderstwo
 убит - zabity
-убия - zabić | zbić | stłuc
-увеличавам - zwiększać | powiększać
+убия - zabić, zbić, stłuc
+увеличавам - zwiększać, powiększać
 увертюра - uwertura
 увод - wstęp (np. do książki)
-уволнявам - uwalniać | zwalniać
+уволнявам - uwalniać, zwalniać
 Уганда - Uganda
-уговорка - umowa | zastrzeżenie
-удар - cios | uderzenie
+уговорка - umowa, zastrzeżenie
+удар - cios, uderzenie
 удобен - wygodny
-удрям - uderzać | bić
+удрям - uderzać, bić
 Уелс - Walia
 Узбекистан - Uzbekistan
 Уикипедия - Wikipedia
@@ -5359,10 +5359,10 @@
 уиндсърфинг - windsurfing
 уиски - whisky
 Украйна - Ukraina
-украса - dekoracja | ozdoba
+украса - dekoracja, ozdoba
 улица - ulica
 ултиматум - ultimatum
-ум - rozum | umysł
+ум - rozum, umysł
 умен - mądry
 умивалник - umywalka
 умирам - umierać
@@ -5370,40 +5370,40 @@
 умра - umrzeć
 унгарец - Węgier
 Унгария - Węgry
-унгарски - węgierski | język węgierski
+унгарски - węgierski, język węgierski
 университет - uniwersytet
-уникален - unikalny | unikatowy
+уникален - unikalny, unikatowy
 униформа - mundur
-унищожавам - niszczyć | unieważniać
+унищожавам - niszczyć, unieważniać
 уплашвам - przerażać
 ураган - huragan
 уран - uran
-Уран - Uranos | Uran
-уред - przyrząd | urządzenie
+Уран - Uranos, Uran
+уред - przyrząd, urządzenie
 урок - lekcja
 Уругвай - Urugwaj
-условие - warunek | umowa
+условие - warunek, umowa
 усмивка - uśmiech
 уста - usta
-устие - ujście | wylot
+устие - ujście, wylot
 устна - warga
 устна хармоника - harmonijka ustna
 утайка - osad
 утре - jutro
-утро - rano | ranek | poranek
+утро - rano, ranek, poranek
 ухо - ucho
 уча - uczyć
-участ - los | dola
-участвам - uczestniczyć | brać udział
+участ - los, dola
+участвам - uczestniczyć, brać udział
 участник - uczestnik
 учебник - podręcznik
-учен - uczony | wykształcony
+учен - uczony, wykształcony
 ученик - uczeń
 ученичка - uczennica
 училище - szkoła
 учител - nauczyciel
 учителка - nauczycielka
-учудя - zadziwić | zdziwić
+учудя - zadziwić, zdziwić
 учудя се - zdziwić się
 фабрика - fabryka
 фабрикация - fabrykacja
@@ -5420,19 +5420,19 @@
 фармацевт - farmaceuta
 фарси - farsi
 Фарьорски острови - Wyspy Owcze
-фас - niedopałek (papierosa) | pet
+фас - niedopałek (papierosa), pet
 фасул - fasola
 фашизъм - faszyzm
 февруари - luty
 федерален - federalny
-Федерална Република Германия - Republika Federalna Niemiec | Niemcy
+Федерална Република Германия - Republika Federalna Niemiec, Niemcy
 федерация - federacja
-фен - fan | amator
+фен - fan, amator
 фенилаланин - fenyloalanina
 ферма - farma
 фермий - ferm
 фес - fez (nakrycie głowy)
-фехтовка - szermierka | fechtunek
+фехтовка - szermierka, fechtunek
 фея - czarodziejka
 фигура - figura
 фигурно пързаляне - łyżwiarstwo figurowe
@@ -5452,10 +5452,10 @@
 Финландия - Finlandia
 финландски - fiński
 фиорд - fiord
-фирма - firma | przedsiębiorstwo | napis reklamowy nad wejściem do jakiegoś lokalu | szyld | wywieszka
+фирма - firma, przedsiębiorstwo, napis reklamowy nad wejściem do jakiegoś lokalu, szyld, wywieszka
 флаг - flaga
 флейта - flet
-флигорна - skrzydłówka | flugelhorn
+флигорна - skrzydłówka, flugelhorn
 флора - flora
 Флоренция - Florencja
 Флорида - Floryda
@@ -5468,7 +5468,7 @@
 фосфат - fosforan
 фосфор - fosfor
 фотограф - fotograf
-фотография - fotografia | zdjęcie
+фотография - fotografia, zdjęcie
 фотьойл - fotel
 фраза - fraza
 франций - frans
@@ -5476,44 +5476,44 @@
 французин - Francuz
 Френска Гвиана - Gujana Francuska
 Френска Полинезия - Polinezja Francuska
-френски - francuski | język francuski
+френски - francuski, język francuski
 фризер - zamrażarka
 фризьор - fryzjer
 фундамент - fundament
 функция - funkcja
 фурма - daktyl
-футбол - futbol | piłka nożna
+футбол - futbol, piłka nożna
 футурология - futurologia
 хабсбургски - habsburski
 Хавана - Hawana
 Хага - Haga
 Хаити - Haiti
-хайдутин - hajduk | powstaniec | buntownik | walczący z okupantem (głównie Turkami)
+хайдутин - hajduk, powstaniec, buntownik, walczący z okupantem (głównie Turkami)
 халва - chałwa
 халифат - kalifat
 хамбар - stodoła
 Хамбург - Hamburg
 хамелеон - kameleon
 хамстер - chomik
-хан - gospoda | zajazd | oberża | chan
+хан - gospoda, zajazd, oberża, chan
 хандбал - piłka ręczna
 Ханой - Hanoi
 хаос - chaos
 хаплотип - haplotyp
-хапя - kąsać | gryźć
+хапя - kąsać, gryźć
 характер - charakter
 характерен - charakterystyczny
 характеристика - charakterystyka
-харесвам - podobać się | lubić
+харесвам - podobać się, lubić
 Харков - Charków
 хармониум - fisharmonia
 хартия - papier
 хасий - has
 хафний - hafn
-хвана - chwycić | złapać
+хвана - chwycić, złapać
 хвойна - jałowiec
 хвърлям - rzucać
-хвърляне - rzucanie | rzut
+хвърляне - rzucanie, rzut
 хвърляне на диск - rzut dyskiem
 хвърляне на копие - rzut oszczepem
 хвърляне на чук - rzut młotem
@@ -5521,7 +5521,7 @@
 хедонизъм - hedonizm
 Хелзинки - Helsinki
 хелий - hel
-хеликоптер - helikopter | śmigłowiec
+хеликоптер - helikopter, śmigłowiec
 хероин - heroina
 хетеросексуалност - heteroseksualizm
 хигиена - higiena
@@ -5545,7 +5545,7 @@
 хит - hit
 хитър - sprytny
 хлад - chłód
-хладен - chłodny | zimny
+хладен - chłodny, zimny
 хладилник - lodówka
 хлебарка - karaluch
 хлебче - bułka
@@ -5553,7 +5553,7 @@
 хляб - chleb
 хмел - chmiel
 хоби - hobby
-ход - chód | ruch
+ход - chód, ruch
 ходя - chodzić
 хокей - hokej
 хокей на лед - hokej na lodzie
@@ -5568,18 +5568,18 @@
 хомяк - chomik
 Хонг Конг - Hongkong
 Хондурас - Honduras
-хондураски - honduraski | związany z Hondurasem
+хондураски - honduraski, związany z Hondurasem
 хор - chór
-хора - ludzie | човек | tańce (ludowe) | хоро
+хора - ludzie, човек, tańce (ludowe), хоро
 хоризонт - horyzont
-хоризонтален - poziomy | horyzontalny
+хоризонтален - poziomy, horyzontalny
 хотел - hotel
-храбър - dzielny | odważny | mężny
+храбър - dzielny, odważny, mężny
 храм - świątynia
-храна - jedzenie | pokarm | żywność
+храна - jedzenie, pokarm, żywność
 хранопровод - przełyk
 храносмилане - trawienie
-храст - krzak | krzew
+храст - krzak, krzew
 хрема - katar
 хризантема - chryzantema
 християнин - chrześcijanin
@@ -5591,27 +5591,27 @@
 хронология - chronologia
 хрущял - chrząstka
 хрян - chrzan
-хубав - ładny | piękny
+хубав - ładny, piękny
 художествен - artystyczny
 художествена гимнастика - gimnastyka artystyczna
-художник - artysta | malarz
+художник - artysta, malarz
 хуй - chuj (penis)
 хуманизъм - humanizm
 хунта - junta
-хълм - wzgórze | wzniesienie
+хълм - wzgórze, wzniesienie
 Хърватия - Chorwacja
 Хърватска - Chorwacja
 хърватски - chorwacki
 цар - car
 царевица - kukurydza
-царица - caryca | carowa
-царство - carstwo | królestwo
-цаца - szprot | potrawa ze smażonych szprotek
+царица - caryca, carowa
+царство - carstwo, królestwo
+цаца - szprot, potrawa ze smażonych szprotek
 цвекло - burak
 цвете - kwiat
-цветен - kolorowy | barwny
-цвят - kolor | kwiat
-цедка - cedzak | durszlak | sitko
+цветен - kolorowy, barwny
+цвят - kolor, kwiat
+цедка - cedzak, durszlak, sitko
 цезий - cez
 цел - cel
 целина - seler
@@ -5625,7 +5625,7 @@
 център - centrum
 церемония - ceremonia
 церий - cer
-цех - oddział | hala (fabryczna) | cech
+цех - oddział, hala (fabryczna), cech
 цивилизация - cywilizacja
 цигара - papieros
 цигулар - skrzypek
@@ -5638,11 +5638,11 @@
 цитра - cytra
 цифра - cyfra
 цунами - tsunami
-църква - cerkiew | kościół
+църква - cerkiew, kościół
 цъфтя - kwitnąć
 Цюрих - Zurych
 цял - cały
-цяр - lek | lekarstwo
+цяр - lek, lekarstwo
 чавка - kawka
 Чад - Czad
 чадър - parasol
@@ -5650,94 +5650,94 @@
 чайка - mewa
 чакал - szakal
 чакам - czekać
-чанта - torebka | torba
+чанта - torebka, torba
 чапла - czapla
 чаршаф - prześcieradło
 час - godzina
-часовник - zegar | zegarek | czasomierz
+часовник - zegar, zegarek, czasomierz
 часовникар - zegarmistrz
 част - część
-частица - cząstka | partykuła
+частица - cząstka, partykuła
 чат - czat, chat
-чаша - szklanka | filiżanka | kubek | kieliszek
+чаша - szklanka, filiżanka, kubek, kieliszek
 че - że
 чек - czek
 челеста - czelesta
 челик - stal
 чело - czoło
-челюст - szczęka | żuchwa
+челюст - szczęka, żuchwa
 червей - robak
 червен - czerwony
 червена мухоморка - muchomor czerwony
 червен касис - czerwona porzeczka
-червеногръдка - rudzik | raszka
+червеногръдка - rudzik, raszka
 Червено море - Morze Czerwone
 черво - jelito
 черен - czarny
 черен дроб - wątroba
 череп - czaszka
-череша - czereśnia (drzewo) | czereśnia (owoc)
-черква - cerkiew | kościół
+череша - czereśnia (drzewo), czereśnia (owoc)
+черква - cerkiew, kościół
 Черна гора - Czarnogóra - państwo w Europie
 черна дупка - czarna dziura
 Черно море - Morze Czarne
 черта - cecha
 черупка - skorupka
 чеснов лук - czosnek
-чест - zaszczyt | honor
+чест - zaszczyt, honor
 честитя - powinszować
-честно - szczerze | uczciwie
+честно - szczerze, uczciwie
 честота - częstotliwość
 чесън - czosnek
 чета - czytać
 четвърти - czwarty
 четвъртък - czwartek
 четен - parzysty
-четина - szczecina | szczeć
+четина - szczecina, szczeć
 четири - cztery
-четиридесет - czterdzieści | 40
+четиридесет - czterdzieści, 40
 четиридневен - czterodniowy
-четиринадесет - czternaście | 14
-четка - szczotka | pędzel
+четиринадесет - czternaście, 14
+четка - szczotka, pędzel
 Чехия - Czechy
 Чехословакия - Czechosłowacja
-чешки - czeski | język czeski
+чешки - czeski, język czeski
 Чикаго - Chicago
 чили - chili
 Чили - Chile
-чин - stopień | ranga
-чиния - talerz | miska
+чин - stopień, ranga
+чиния - talerz, miska
 число - liczba
 чист - czysty
 читател - czytelnik
-чифт - para | dwa egzemplarze jakiegoś przedmiotu
-чичо - wuj | wujek
-член - członek | penis | rodzajnik
-членка - członkini | członek
+чифт - para, dwa egzemplarze jakiegoś przedmiotu
+чичо - wuj, wujek
+член - członek, penis, rodzajnik
+членка - członkini, członek
 членство - członkostwo
 човек - człowiek
 човка - dziób
-чорап - skarpetka | skarpeta
-чрез - poprzez | dzięki (czemuś)
+чорап - skarpetka, skarpeta
+чрез - poprzez, dzięki (czemuś)
 чувал - worek
-чувам - słyszeć | słuchać
-чувство - uczucie | poczucie
+чувам - słyszeć, słuchać
+чувство - uczucie, poczucie
 чугун - żeliwo
 чудесен - cudowny
 чудо - cud
 чудовище - stwór
-чужбина - obczyzna | zagranica
+чужбина - obczyzna, zagranica
 чужденец - cudzoziemiec
 чук - młotek
 чул - derka
-чупя - tłuc | łamać | łupać
+чупя - tłuc, łamać, łupać
 чучулига - skowronek
 чуя - usłyszeć
-шаблон - szablon | wzornik
+шаблон - szablon, wzornik
 шаблонен - szablonowy
 шайка - szajka
 шал - szal
-шампион - mistrz | champion
+шампион - mistrz, champion
 шампионат - mistrzostwo
 шампоан - szampon
 шанец - szaniec
@@ -5747,7 +5747,7 @@
 шапкарка - modystka
 шаран - karp
 шарен - różnokolorowy
-шарф - szalik | szal
+шарф - szalik, szal
 шатра - namiot
 шафер - drużba (weselny)
 шах - szach
@@ -5760,16 +5760,16 @@
 шведски - szwedzki
 Швейцария - Szwajcaria
 Швеция - Szwecja
-шейна - sanie | sanki
+шейна - sanie, sanki
 шейх - szejk
 шенг - szeng
 шепа - garść (przybliżona ilość)
 шепот - szept
-шеснайсет - szesnaście | 16
-шест - sześć | 6
-шестдесет - sześćdziesiąt | 60
+шеснайсет - szesnaście, 16
+шест - sześć, 6
+шестдесет - sześćdziesiąt, 60
 шести - szósty
-шестнадесет - szesnaście | 16
+шестнадесет - szesnaście, 16
 шеф - szef
 шибам - smagać
 шивач - krawiec
@@ -5777,49 +5777,49 @@
 шизофреничка - schizofreniczka
 шизофрения - schizofrenia
 шип - kolec
-шипка - róża dzika | szypszyna
+шипка - róża dzika, szypszyna
 ширина - szerokość
 широк - szeroki
 широчина - szerokość
 шише - butelka
-шия - szyć | szyja
+шия - szyć, szyja
 шкаф - szafa
 школа - szkoła
 шнур - sznur
 шок - szok
 шоколад - czekolada
-шорти - szorty | spodenki
+шорти - szorty, spodenki
 Шотландия - Szkocja
 шотландски - szkocki
-шофьор - szofer | kierowca
+шофьор - szofer, kierowca
 шпация - spacja
 шпионаж - szpiegostwo
 шпионин - szpieg
 Шпицберген - Spitsbergen
 Шри Ланка - Sri Lanka
-шум - szum | hałas
-шума - liście | listowie
+шум - szum, hałas
+шума - liście, listowie
 шунка - szynka
 шурей - szwagier (brat żony)
-шут - błazen | głupiec
-ща - chcieć | życzyć sobie
+шут - błazen, głupiec
+ща - chcieć, życzyć sobie
 щаб - sztab
 щанд - stoisko
 щастие - szczęście
 щастлив - szczęśliwy
 щат - stan (jednostka administracyjna)
-щателен - staranny | szczegółowy | skrupulatny
+щателен - staranny, szczegółowy, skrupulatny
 щерка - córka
-щета - szkoda | strata
+щета - szkoda, strata
 щит - tarcza
 щраус - struś
 щука - szczupak
 щурец - świerszcz
 щурм - szturm
-щуротия - idiotyzm | głupota
+щуротия - idiotyzm, głupota
 щъркел - bocian
 ъглополовяща - dwusieczna
-ъгъл - kąt | róg
+ъгъл - kąt, róg
 юбилеен - jubileuszowy
 юбилей - jubileusz
 юбиляр - jubilat
@@ -5839,7 +5839,7 @@
 Южноафриканска република - Republika Południowej Afryki
 южнокитайски - południowochiński
 Южнокитайско море - Morze Południowochińskie
-юзда - uzda | cugle
+юзда - uzda, cugle
 юзина - elektrownia
 юли - lipiec
 юлски - lipcowy
@@ -5848,47 +5848,47 @@
 юни - czerwiec
 юница - jałówka
 юноша - młodzieniec
-юношески - młodzieńczy | młodzieżowy
+юношески - młodzieńczy, młodzieżowy
 юнски - czerwcowy
-Юпитер - Jowisz | Jupiter
+Юпитер - Jowisz, Jupiter
 юрган - kołdra
-юридически - prawny | prawnie
+юридически - prawny, prawnie
 юрисдикция - jurysdykcja
 юрисконсулт - doradca prawny
-юриспруденция - jurysprudencja | prawoznawstwo
+юриспруденция - jurysprudencja, prawoznawstwo
 юрист - prawnik
 Юта - Utah
 ютия - żelazko
-ябълка - jabłoń | jabłko
-явен - jawny | oczywisty
+ябълка - jabłoń, jabłko
+явен - jawny, oczywisty
 явор - jawor
 ягода - truskawka
 ягуар - jaguar
-яд - gniew | złość
-ядене - jedzenie | potrawa
+яд - gniew, złość
+ядене - jedzenie, potrawa
 ядивен - jadalny
 ядосам - zezłościć
-ядосан - zły | rozgniewany
-ядосано - ze złością | gniewnie
+ядосан - zły, rozgniewany
+ядосано - ze złością, gniewnie
 ядосвам - złościć
-ядрен - jądrowy | nuklearny
+ядрен - jądrowy, nuklearny
 ядро - jądro
 яз - jaz
 язва - wrzód
-язвителен - zjadliwy | złośliwy
+язвителен - zjadliwy, złośliwy
 язовец - borsuk
-яйце - jajo | jajko
+яйце - jajo, jajko
 яйценосен - jajorodny
 яйцепровод - jajowód
 яйцепроводен - jajowodowy
-яйчен - jajeczny | jajowy
+яйчен - jajeczny, jajowy
 яйчник - jajnik
-як - silny | mocny
-яка - kołnierz | kołnierzyk
+як - silny, mocny
+яка - kołnierz, kołnierzyk
 якост - wytrzymałość
 ялов - jałowy
 ям - jeść
-яма - jama | dół
+яма - jama, dół
 Ямайка - Jamajka (państwo)
 ямайски - jamajski
 Ян Майен - Jan Mayen
@@ -5897,19 +5897,19 @@
 японец - Japończyk
 Япония - Japonia
 японка - Japonka
-японски - japoński | po japońsku
+японски - japoński, po japońsku
 Японско море - Morze Japońskie
 яребица - kuropatwa
 ярко - jaskrawo
 яркост - jaskrawość
 ярост - wściekłość
-яростен - wściekły | rozwścieczony
+яростен - wściekły, rozwścieczony
 ярък - jaskrawy
-ясен - jasny | jesion
+ясен - jasny, jesion
 ясла - żłób
-ясно - jasno | wyraźnie
+ясно - jasno, wyraźnie
 ясновидец - jasnowidz
-ясновидство - jasnowidztwo | jasnowidzenie
+ясновидство - jasnowidztwo, jasnowidzenie
 ясност - jasność
 ястие - potrawa
 ястреб - jastrząb

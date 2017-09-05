@@ -1,4 +1,4 @@
-abdykować - abdikoj | heq dorë
+abdykować - abdikoj, heq dorë
 abecadło - alfabet m
 abiecadło - alfabet m
 ablegierek - fëmijë n
@@ -9,14 +9,14 @@ adwentnik - dhjetor
 Afganistan - Afganistani
 akacja - akacie
 Albańczyk - shqiptar m
-Albania - Shqipëria | Shqipëri | Shqipnia
+Albania - Shqipëria, Shqipëri, Shqipnia
 albański - shqip
 Aleksander - Leka
 alfabet - alfabet m
 alfabetu - alfabet m
 Algieria - Algjeria
-Allach - Allah m | Allahu m
-Allah - Allah m | Allahu m
+Allach - Allah m, Allahu m
+Allah - Allah m, Allahu m
 amajza - milingonë f
 amputacja - prerje
 Anatolia - Anadollia
@@ -24,7 +24,7 @@ anatomiczny - anatomik
 Andora - Andora
 Andromeda - Andromeda
 Andy - Andet
-aniżeli - se | sesa
+aniżeli - se, sesa
 Antananarywa - Antananarivo
 Antarktyda - Antarktiku
 apasz - kriminel
@@ -34,8 +34,8 @@ Arabia Saudyjska - Arabia Saudite
 arabski - arab
 archaiczny - arkaik
 arfa - harpë f
-armia - armatë | ushtri
-armijo - armatë | ushtri
+armia - armatë, ushtri
+armijo - armatë, ushtri
 astrofizyka - astrofizikë f
 Asyria - Asiria
 ateista - ateist
@@ -55,7 +55,7 @@ bałak - bisedë f
 balet - balet
 baletnica - balerinë f
 Bałtyk - Deti Baltik
-bana - tren | tramvaj
+bana - tren, tramvaj
 banka - tramvaj
 Baran - Dashi
 barwa - ngjyrë
@@ -86,7 +86,7 @@ Bośnia i Hercegowina - Bosnja dhe Hercegovina
 brachol - vëlla m
 bracieniec - vëlla m
 brat - vëlla m
-Brazylia - Brazil m | Brazili
+Brazylia - Brazil m, Brazili
 browar - birrë
 brydż - brixh
 brzmienie - tingull
@@ -100,8 +100,8 @@ cajtung - gazetë
 chemia - kimi
 chlor - hlor
 chmiel - birrë
-choinka - pema e Krishlindjeve | pema e Vitit të Ri
-chójk - pema e Krishlindjeve | pema e Vitit të Ri
+choinka - pema e Krishlindjeve, pema e Vitit të Ri
+chójk - pema e Krishlindjeve, pema e Vitit të Ri
 choroba - sëmundje f
 chrystianizm - krishterim
 chrześcijaństwo - krishterim
@@ -139,7 +139,7 @@ dany - jap
 defekt - defekt
 deklinacja - lakim m
 despota - despot
-detal - detal | hollësi
+detal - detal, hollësi
 do - deri në
 dobranoc - natën e mirë
 dobry wieczór - mirëmbrëma
@@ -182,7 +182,7 @@ futbol - futboll
 fuzja - bashkim
 gad - zvarranik
 gadałka - zanë
-gała - futboll | sorra
+gała - futboll, sorra
 Galilea - Galilea
 gapa - sorra
 gazeta - gazetë
@@ -194,7 +194,7 @@ glapa - sorra
 glina - polic
 gliniarz - polic
 głód - uri
-gnat - kockë f | zar
+gnat - kockë f, zar
 gniew - mëri
 gnot - fëmijë n
 gnuśny - dembel
@@ -217,19 +217,19 @@ Hieronim - Jeronimi
 historiozofia - filozofia e historisë
 Holandia - Hollanda
 Holandyja - Hollanda
-horror - tmerr m | llahtarë f
+horror - tmerr m, llahtarë f
 hydrologia - hidrologjia f
 hymn - himni
-i - dhe | e
+i - dhe, e
 idiotka - budallaçkë f
 imię - emri
 imperator - perandor
 instytut - institut
 interes - punë
 Irlandia - Irlanda
-iść - shkoj | nisem | eci | del | kalon
+iść - shkoj, nisem, eci, del, kalon
 Islandia - Islanda
-izba - paqe | dhomë f
+izba - paqe, dhomë f
 ja - unë
 jabłko - mollë f
 jajko - vezë f
@@ -237,7 +237,7 @@ jajo - vezë f
 jakiś - një
 jakość - cilësi
 Jan - Gjon
-jechać - nisem | shkoj
+jechać - nisem, shkoj
 jej - të saj
 jesień - vjeshtë
 jeż - iriq
@@ -246,7 +246,7 @@ Jezus - Jezusi m
 Jezus Chrystus - Jezu Krishti
 język - gjuhë
 język obcy - gjuhë e huaj
-język ojczysty - gjuhë e nënës | gjuhë amtare
+język ojczysty - gjuhë e nënës, gjuhë amtare
 Jugosławia - Jugosllavi
 juny - ri
 jutro - nesër
@@ -285,7 +285,7 @@ Konfucjusz - Konfuci m
 konstytucja - kushtetutë f
 koper - kopra
 Koran - Kur'ani
-kość - kockë f | zar
+kość - kockë f, zar
 kot - mace
 kozioł ofiarny - kokë turku f
 Koziorożec - Bricjapi
@@ -305,12 +305,12 @@ lacz - polic
 lama - lamë
 land - fshat
 lat - vit
-lata - vit | fund m
+lata - vit, fund m
 lato - verë
 lekarz - doktor
 leniwy - dembel
 lepszy wróbel w garści niż gołąb na dachu - me mirë një vezë sot se një pulë mot
-lew - luan | levë
+lew - luan, levë
 Lew - Luani
 łgarz - gënjeshtar
 lingwistyka - gjuhësi
@@ -321,9 +321,9 @@ literat - shkrimtar
 literatura - letërsi
 liturgiczny - liturgjik
 Litwa - Lituania
-Londyn - Londra | Londër
+Londyn - Londra, Londër
 łopata - lopatë f
-lub - a | apo | ose
+lub - a, apo, ose
 ludność - popullsisë f
 łudzikwiat - prill
 łuk - hark m
@@ -358,7 +358,7 @@ misja - mision
 mleko - qumësht m
 młody - ri
 Mojżesz - Moisiu
-morze - det | lumë
+morze - det, lumë
 Morze Adriatyckie - Deti Adriatik
 Morze Bałtyckie - Deti Baltik
 Morze Śródziemne - Deti Mesdhe
@@ -375,33 +375,33 @@ musieć - duhet
 my - ne
 mydło - sapun
 na - në
-nacja - komb | popull | kombësi
+nacja - komb, popull, kombësi
 nad - mbi
 nade - mbi
 nadzieja - shpresë f
-naród - komb | popull
-narodowość - kombësi | popull
-nauczać - mësoj | studioj
-nauka - studime | mësime
+naród - komb, popull
+narodowość - kombësi, popull
+nauczać - mësoj, studioj
+nauka - studime, mësime
 nazwisko - mbiemri
 neon - neon
-ni - jo | nuk
+ni - jo, nuk
 nic - asgjë
 Niderlandy - Hollanda
-nie - jo | nuk
+nie - jo, nuk
 niech żyje - rroftë!
 nieduch - sëmundje f
 niedziela - e diel
 nie ma dymu bez ognia - s'ka tym pa zjarr
-nie mieć - jo | nuk | kam
+nie mieć - jo, nuk, kam
 Niemiecka Republika Demokratyczna - Republika Demokratike Gjermane
 niepodległość - pavarësi
 nieprzyjazny - jomiqësor
 nie taki diabeł straszny, jak go malują - djalli nuk është aq i zi sa duket
 nieżonaty - beqar
 nim - ai
-niż - se | sesa
-no - kështu | ashtu | po
+niż - se, sesa
+no - kështu, ashtu, po
 noc - natë
 nowotwór - neoplazëm
 o - në
@@ -413,18 +413,18 @@ ode - nga
 ogórek - kastravec
 ojla - buforët
 okręt podwodny - nëndetsja
-omieszkać - jo | nuk
+omieszkać - jo, nuk
 omlet - omëletë
 on - ai
 ona - ajo
 oni - ata
 oprócz - përveç
-oraz - dhe | e
+oraz - dhe, e
 orgazm - orgazmë f
 osoba - person
 paciuk - miu i gjirizeve
 pająk - merimangë f
-pajęcznik - shtator | tetor | nëntor
+pajęcznik - shtator, tetor, nëntor
 pała - polic
 pale - polic
 palindrom - palindromi
@@ -458,7 +458,7 @@ płeć - seks
 pociąg - tren
 poczucie humoru - ndjenjë humori
 pogaństwo - paganizëm m
-pokój - paqe | dhomë f
+pokój - paqe, dhomë f
 połączenie - bashkim
 pole - fushë
 poleku - ngadalë
@@ -468,7 +468,7 @@ północ - mesnatë
 polon - polonium
 Polska - Polonia
 polszczyzna - gjuha polake
-południe - mesditë | jug
+południe - mesditë, jug
 poniedziałek - e hënë
 ponieważ - sepse
 popołudnie - pasditë f
@@ -476,7 +476,7 @@ pornografia - pornografi f
 pornograficzny - pornografik
 Portugalia - Portugalia
 poruta - skandal m
-potas - potassium | kalium
+potas - potassium, kalium
 powiestka - emri
 powoli - ngadalë
 poza - përveç
@@ -489,12 +489,12 @@ przepowiednia - fall
 przesądny - besëtytë
 przestępca - kriminel
 przyjaźń - miqësi f
-przyjemność - kënaqësi f | lezet m | ëndje f
-przywilej - privilegj | venom
+przyjemność - kënaqësi f, lezet m, ëndje f
+przywilej - privilegj, venom
 psisko - qen
 pszczoła - bletë
 punkt - neni
-puszka - burg | birrë
+puszka - burg, birrë
 rachatłukum - llokum
 radon - radon
 Rak - Gaforrja
@@ -508,7 +508,7 @@ reklama - reklamë
 religia - feja
 republika - republikë
 robić - bëj
-rok - vit | fund m
+rok - vit, fund m
 rolnictwo - bujqësi
 ropień - lungë f
 rosyjski - rusisht
@@ -554,7 +554,7 @@ słoń nadepnął na ucho - i ka veshët me lesh
 Słowenia - Sllovenia
 słownik - fjalor (fyalór)
 smaczny - shijshëm
-śmietana - ajkë f | kajmak m
+śmietana - ajkë f, kajmak m
 smoła - katran
 śniadanie - mëngjes
 śnieg - borë
@@ -600,7 +600,7 @@ Szwecja - Suedia
 Szwecyjo - Suedia
 szynal - gozhdë f
 Tadżykistan - Taxhikistani
-tak - kështu | ashtu | po
+tak - kështu, ashtu, po
 także - gjithashtu
 tal - talium
 tantal - tantal
@@ -634,9 +634,9 @@ tróhła - qivur
 trumna - qivur
 trzmiel - arëz f
 tu - këtu
-tudzież - dhe | e
+tudzież - dhe, e
 tukej - këtu
-tu leży pies pogrzebany - këtu është gjithë puna | gjithë thelbi i çështjes
+tu leży pies pogrzebany - këtu është gjithë puna, gjithë thelbi i çështjes
 tulipan - tulipan
 tulp - tulipan
 Tunezja - Tunizia
@@ -648,7 +648,7 @@ ty - ti
 tydzień - javë
 typografia - tipografia
 ucho - vesh
-uczyć - mësoj | studioj
+uczyć - mësoj, studioj
 ufnal - gozhdë f
 Ukraina - Ukraina f
 umiejętność - aftësi f
@@ -658,7 +658,7 @@ uón - ai
 urępny - bukur
 urologia - urologjia
 w - në
-wacha - det | lumë | ujë
+wacha - det, lumë, ujë
 Waga - Peshorja
 wajco - vezë f
 Watykan - Vatikani
@@ -671,7 +671,7 @@ wesoły - gëzuar
 Wesołych Świąt - gëzuar Krishtlindjet
 węzeł - nyjë f
 wezwanie - emri
-widzieć - shikoj | shoh
+widzieć - shikoj, shoh
 wieczór - mbrëmje f
 wielbłąd - deve f
 Wielkanoc - Pashkët
@@ -679,7 +679,7 @@ wieś - fshat
 więzienie - burg
 Wikipedia - Wikipedia
 Wikiźródła - Wikiburime
-wilk - ulk | ujk
+wilk - ulk, ujk
 wilk morski - ujk i vjetër
 wilk syty i owca cała - mishi të piqet, helli të mos digjet
 wilk w owczej skórze - ujk me lëkurë qengji
@@ -700,14 +700,14 @@ wróżka - zanë
 wrzesień - shtator
 wrzód - ulçerë
 wschód - agim
-współlas - ortak | bashkëpunëtor
-wspólnik - ortak | bashkëpunëtor
+współlas - ortak, bashkëpunëtor
+wspólnik - ortak, bashkëpunëtor
 wtorek - e martë
-w tym - në | ky
+w tym - në, ky
 wy - ju
 wydma - dunë
 wyrzucać pieniądze przez okno - i hedh paratë në erë
-wyspa - ishulli | ujdhesë | rethujëza
+wyspa - ishulli, ujdhesë, rethujëza
 Wyspa Świętego Wyspy Świętego Tomasza i Wyspa Książęca - Sao Tome dhe Principe
 wyzwolenie - çlirim
 z - nga
@@ -725,7 +725,7 @@ ze - nga
 zez - nga
 zima - dimër
 zjednoczenie - bashkim
-złoto - flori m | ar m
+złoto - flori m, ar m
 zmierzch - muzg
 z ręką na sercu - me dorë në zemër
 ZSRR - BRSS

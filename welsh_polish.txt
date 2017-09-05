@@ -2,9 +2,9 @@ abad - opat
 achosi - powodować
 achwyn - narzekać
 adain - skrzydło
-addolwr - czciciel | wyznawca
+addolwr - czciciel, wyznawca
 adeilad - budynek
-adeiladwaith - budowla | struktura
+adeiladwaith - budowla, struktura
 adeiladwr - budowniczy
 aderyn - ptak
 aderyn du - kos
@@ -26,7 +26,7 @@ alltud - obcokrajowiec
 Almaen - Niemcy
 amddiffyn - bronić
 amheuaeth - wątpliwość
-anadl - oddech | wiatr
+anadl - oddech, wiatr
 anadlu - oddychać
 Andora - Andora
 anghofio - zapomnieć
@@ -40,11 +40,11 @@ ansoddair - przymiotnik
 antimoni - antymon
 anturiaeth - przygoda
 araf - powolny
-arbenigwr - specjalista | ekspert
+arbenigwr - specjalista, ekspert
 arddodiad - przyimek
 arfordir - wybrzeże
 argyhoeddi - przekonywać
-arian - srebro | pieniądze
+arian - srebro, pieniądze
 Aristoteles - Arystoteles
 Armenia - Armenia
 arth - niedźwiedź
@@ -63,7 +63,7 @@ bachgen - chłopak
 bachgennes - dziewczyna
 ban - szczyt
 bara - chleb
-bardd - poeta | bard
+bardd - poeta, bard
 barddoniaeth - poezja
 barf - broda
 barrug - szron
@@ -92,7 +92,7 @@ broch - borsuk
 broga - żaba
 brown - brązowy
 brwdfrydedd - entuzjazm
-brwnt - brudny | nieczysty
+brwnt - brudny, nieczysty
 buwch - krowa
 bwced - wiadro
 Bwlgaria - Bułgaria
@@ -100,7 +100,7 @@ bwrdd - stół
 bwydo - karmić
 bwyta - jeść
 byd - świat
-byr - krótki | niski | mały
+byr - krótki, niski, mały
 cachadur - tchórz
 cachu - gówno
 cactws - kaktus
@@ -114,7 +114,7 @@ canlyniad - rezultat
 canolog - centralny
 canu - śpiewać
 capel - kaplica
-carcharor - więzień | niewolnik
+carcharor - więzień, niewolnik
 cariad - miłość
 cariadus - ukochany
 carreg - kamień
@@ -126,15 +126,15 @@ cath - kot
 cath fach - kociak
 caws - ser
 ceffyl - koń
-cefnfor - morze | ocean
+cefnfor - morze, ocean
 cegin - kuchnia
 ceiliog - kogut
 celwydd - kłamstwo
 celwyddgi - kłamca
-cenedl - naród | nacja | rasa | ród
+cenedl - naród, nacja, rasa, ród
 cenhinen - por
 cenhinen Bedr - żonkil
-cerdd - poemat | wiersz | poezja | muzyka | pieśń
+cerdd - poemat, wiersz, poezja, muzyka, pieśń
 cerddor - muzyk
 cerddoriaeth - muzyka
 chwaer - siostra
@@ -151,7 +151,7 @@ cloc - zegar
 cnocell - dzięcioł
 coch - czerwony
 coedwig - las
-coedwigwr - leśniczy | leśnik
+coedwigwr - leśniczy, leśnik
 coffi - kawa
 cofio - pamiętać
 cogydd - kucharz
@@ -159,7 +159,7 @@ colomen - gołąb
 côr - chór
 corff - ciało
 corryn - pająk
-cost - koszt | wydatek
+cost - koszt, wydatek
 costrel - butelka
 cosyn - ser
 creadur - stworzenie
@@ -178,7 +178,7 @@ cucumer - ogórek
 cul - wąski
 cusanu - całować
 cwch - łódź
-cwmwl - obłok | chmura
+cwmwl - obłok, chmura
 cwrw - piwo
 cwsmer - klient
 cyfansoddwr - kompozytor
@@ -193,7 +193,7 @@ cyfrifiadur - komputer
 cyfrifiadureg - informatyka
 cyfrinach - tajemnica
 cyfriniol - tajemniczy
-cyfuniad - połączenie | kombinacja
+cyfuniad - połączenie, kombinacja
 cyfystyr - synonim
 cyllell - nóż
 Cymraeg - język walijski
@@ -204,7 +204,7 @@ cynhwysyn - składnik
 cynnar - wczesny
 cynnyrch - produkt
 cynrychiolydd - reprezentant
-cystadleuaeth - konkurencja | konkurs
+cystadleuaeth - konkurencja, konkurs
 cyẅres - konkubina
 da - dobry
 daearegwr - geolog
@@ -217,18 +217,18 @@ darllen - czytać
 dau - dwa
 dau ddeg - dwadzieścia
 dawnsio - tańczyć
-defnyddioldeb - użyteczny | przydatny
+defnyddioldeb - użyteczny, przydatny
 defnyddiwr - użytkownik
-defodol - rytualny | obrzędowy
-deheubarth - południe | południowy region
+defodol - rytualny, obrzędowy
+deheubarth - południe, południowy region
 deintydd - dentysta
 del - ładny
 delwedd - obraz
 Denmarc - Dania
 deusaith - czternaście
 dial - zemsta
-diddanu - zabawiać | dostarczać rozrywki
-diddordeb - zainteresowanie | ciekawostka
+diddanu - zabawiać, dostarczać rozrywki
+diddordeb - zainteresowanie, ciekawostka
 diddorol - ciekawy
 diflas - nudny
 diflastod - nuda
@@ -236,7 +236,7 @@ dillad - odzież
 dilledyn - odzież
 dinas - miasto
 diogelwch - bezpieczeństwo
-diolch - dziękować | podziękowanie | dziękuję
+diolch - dziękować, podziękowanie, dziękuję
 dirmyg - pogarda
 ditectif - detektyw
 diwerth - bezużyteczny
@@ -251,7 +251,7 @@ draig - smok
 drudwen - szpak
 drwg - zły
 drws - drzwi
-drychiolaeth - pojawienie się | zjawienie się | zjawa | duch | widziadło
+drychiolaeth - pojawienie się, zjawienie się, zjawa, duch, widziadło
 du - czarny
 duw - bóg
 Duw - Bóg
@@ -287,18 +287,18 @@ emyn - hymn
 enfys - tęcza
 eog - łosoś
 eryr - orzeł
-esblygiad - rozwój | ewolucja
+esblygiad - rozwój, ewolucja
 esgaladur - schody ruchome
 esgid - but
 estrys - struś
 etholwr - wyborca
-eto - znowu | znów
+eto - znowu, znów
 Ewrop - Europa
 ewythr - wujek
 Fatican - Watykan (państwo)
 ffarm - farma
 ffenest - okno
-ffordd - droga | odległość
+ffordd - droga, odległość
 fforest - las
 ffowlyn - kurczak
 Ffrainc - Francja
@@ -311,12 +311,12 @@ fory - jutro
 fwltur - sęp
 gaeaf - zima
 gafr - koza
-gair - słowo | wyraz
+gair - słowo, wyraz
 galw - wzywać
 gardd - ogród
 garddwr - ogrodnik
 gefell - bliźniak
-geirdarddiad - etymologia | źródłosłów
+geirdarddiad - etymologia, źródłosłów
 geiriadur - słownik
 gellygen - gruszka
 geneth - dziewczyna
@@ -336,14 +336,14 @@ gramadeg - gramatyka
 grug - wrzos
 gwaed - krew
 gwag - pusty
-gwahaniaeth - wyróżnienie | różnica | niezgoda
+gwahaniaeth - wyróżnienie, różnica, niezgoda
 gwaith - praca
 gwalch y pysgod - rybołów
 gwaled - portfel
-gwall - pomyłka | błąd
+gwall - pomyłka, błąd
 gwan - słaby
 gwanwyn - wiosna
-gwarchodwr - ochroniarz | stróż
+gwarchodwr - ochroniarz, stróż
 gwawr - brzask
 gwaywffon - oszczep
 gweddi - modlitwa
@@ -354,7 +354,7 @@ gweithio - pracować
 gwely - łóżko
 gwên - uśmiech
 gwennol - jaskółka
-gwenwyn - trucizna | jad
+gwenwyn - trucizna, jad
 gwenynen - pszczoła
 gwenynwr - pszczelarz
 gwenynwraig - pszczelarka
@@ -366,7 +366,7 @@ gwesty - hotel
 gwin - wino
 gwirionedd - prawda
 gwiwer - wiewiórka
-gwlad - kraj | państwo | krajobraz
+gwlad - kraj, państwo, krajobraz
 Gwlad Pŵyl - Polska
 Gwlad yr Iâ - Islandia
 gwledd - uczta
@@ -375,10 +375,10 @@ gwleidyddiaeth - polityka
 gwlith - rosa
 gwlyb - mokry
 gwniadur - naparstek
-gwraig - żona | kobieta
+gwraig - żona, kobieta
 gwrandawr - słuchacz
 gwrando - słuchać
-gwreiddiol - oryginalny | pierwotny | autentyczny
+gwreiddiol - oryginalny, pierwotny, autentyczny
 gwybod - wiedzieć
 gwybodaeth - informacja
 gŵydd - gęś
@@ -399,18 +399,18 @@ hardd - piękny
 harddwch - piękno
 haul - słońce
 heb - bez
-heddiw - dziś | dzisiaj
+heddiw - dziś, dzisiaj
 heddlu - policja
 hedfan - latać
-hefyd - także | ponadto
-hendad - dziadek | przodek
+hefyd - także, ponadto
+hendad - dziadek, przodek
 hir - długi
 hoffi - lubić
 holiadur - kwestionariusz
 huan - słońce
 huddygl - sadza
 hunllef - koszmar
-hwch - locha | maciora
+hwch - locha, maciora
 hwyaden - kaczka
 hydref - jesień
 Hydref - październik
@@ -425,7 +425,7 @@ iechyd - zdrowie
 ieithydd - językoznawca
 ieithyddiaeth - językoznawstwo
 Iesu - Jezus
-ifanc - młody | młodzieńczy
+ifanc - młody, młodzieńczy
 i mewn - wewnątrz
 Ionawr - styczeń
 Iwerddon - Irlandia
@@ -467,28 +467,28 @@ lol - nonsens
 lonawr - styczeń
 lwcus - szczęśliwy
 mab - syn
-mad - dobry | szczęśliwy | mający szczęście | właściwy | dobroć
+mad - dobry, szczęśliwy, mający szczęście, właściwy, dobroć
 madfall - jaszczurka
 mael - książę
 maes - pole
 Mai - maj
 mam - matka
 man - miejsce
-marchog - rycerz | jeździec
+marchog - rycerz, jeździec
 marwnad - elegia
 mathemateg - matematyka
-Mawrth - marzec | Mars
+Mawrth - marzec, Mars
 meddwl - myśleć
-meddyg - lekarz | doktor | medyk
+meddyg - lekarz, doktor, medyk
 Medi - wrzesień
 Mehefin - czerwiec
 melinydd - młynarz
 melyn - żółty
 melyster - słodycz
 menyw - kobieta
-merch - córka | dziewczyna
+merch - córka, dziewczyna
 migwrn - kostka
-mil - zwierzę | tysiąc
+mil - zwierzę, tysiąc
 milltir - mila
 milwr - żołnierz
 mis - miesiąc
@@ -524,7 +524,7 @@ nef - niebo
 neidio - skoczyć
 neidr - wąż
 nen - niebo
-neu - albo | lub
+neu - albo, lub
 newydd - nowy
 newyddiadurwr - dziennikarz
 newyn - głód
@@ -540,7 +540,7 @@ oen - jagnię
 oer - zimny
 ofn - strach
 ogof - jaskinia
-olaf - ostatni | ostateczny | pozostały | pośledni | najmniej odpowiedni
+olaf - ostatni, ostateczny, pozostały, pośledni, najmniej odpowiedni
 olew - olej
 olwyn - koło
 ond - ale
@@ -548,7 +548,7 @@ osgoi - unikać
 pab - papież
 pabell - namiot
 paganiaeth - pogaństwo
-paill - mąka | pyłek kwiatowy
+paill - mąka, pyłek kwiatowy
 paith - preria
 pall - namiot
 palmant - chodnik
@@ -570,7 +570,7 @@ perllan - sad
 personol - osobisty
 peth - rzecz
 pibonwyen - sopel
-pidyn - penis | prącie
+pidyn - penis, prącie
 pilipala - motyl
 pili-pala - motyl
 pìn - szpilka
@@ -591,7 +591,7 @@ prifysgol - uniwersytet
 proses - proces
 Prydain - Brytania
 prydnawn - popołudnie
-pryf - owad | robak
+pryf - owad, robak
 pryfyn - owad
 prynhawn - popołudnie
 prynu - kupić
@@ -611,21 +611,21 @@ rhegi - przeklinać
 rheilffordd - kolej
 rhi - król
 rhodiwr - statysta
-rhudd - czerwony | karmazynowy
+rhudd - czerwony, karmazynowy
 rhwng - między
 rhydd - wolny
 rhyfel - wojna
 rhyngrwyd - internet
 Rwmania - Rumunia
 Rwsia - Rosja
-saer - stolarz | cieśla
+saer - stolarz, cieśla
 saeth - strzała
 Sais - Anglik
 saith - siedem
 salamandr - salamandra
 São Tomé a Príncipe - Wyspy Świętego Tomasza i Książęca
 Sbaen - Hiszpania
-sbwng - gąbka (do mycia) | gąbka (organizm wodny)
+sbwng - gąbka (do mycia), gąbka (organizm wodny)
 seryddiaeth - astronomia
 sgerbwd - szkielet
 sicr - pewny
@@ -652,7 +652,7 @@ tafodiaith - dialekt
 taid - dziadek
 tair - trzy
 tân - ogień
-tarddiad - źródło | początek | pochodzenie
+tarddiad - źródło, początek, pochodzenie
 tarw - byk
 tebygrwydd - podobieństwo
 teigr - tygrys
@@ -661,7 +661,7 @@ teulu - rodzina
 Thermopylae - Termopile
 trachwant - chciwość
 traeth - plaża
-tref - miasto | dom
+tref - miasto, dom
 trên - pociąg
 triongl - trójkąt
 trist - smutny
@@ -680,7 +680,7 @@ tylluan - sowa
 tymeriadur - termometr
 tynged - los
 tywod - piasek
-uchel - wysoki | głośny
+uchel - wysoki, głośny
 un - jedyny
 uncorn - jednorożec
 Undeb Sofietaidd - Związek Radziecki
@@ -696,7 +696,7 @@ wyres - wnuczka
 wyth - osiem
 wythnos - tydzień
 ych - wół
-ychwanegu - dodać | dołączyć
+ychwanegu - dodać, dołączyć
 yfed - pić
 yfory - jutro
 yma - tutaj

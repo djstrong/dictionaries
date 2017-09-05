@@ -36,21 +36,21 @@ Bóg - Duw m
 bombel - plentyn
 borsuk - broch m
 Bośnia i Hercegowina - Bosnia a Hertsegofina
-bronić - diogelu | amddiffyn
-browar - bîr | cwrw | tablen
+bronić - diogelu, amddiffyn
+browar - bîr, cwrw, tablen
 brudny - pỳg
-brzask - gwawr f | cyfddydd m
+brzask - gwawr f, cyfddydd m
 brzmienie - gadarn
 buda - ysgol f
 Bułgaria - Bwlgaria
-burzowiny - bîr | cwrw | tablen
+burzowiny - bîr, cwrw, tablen
 Byk - y Tarw
 Była Jugosłowiańska Republika Macedonii - Cyn Weriniaeth Iwgoslafaidd Macedonia
 Cardiff - Caerdydd f
 chabaj - cigydd m
 chirurg - llawfeddyg m
 chlor - clorin
-chmiel - bîr | cwrw | tablen
+chmiel - bîr, cwrw, tablen
 choroba - saldra
 ciecz - hylif m
 ciupa - carchar
@@ -71,7 +71,7 @@ definicja - diffiniad m
 Demokratyczna Republika Wyspy Świętego Tomasza i Wysp Świętego Tomasza i Książęcej - Gweriniaeth Ddemocrataidd São Tomé a Príncipe
 deszcz - glaw m
 deżdż - glaw m
-Diogenes - Diogenes | Diogenes (o Sinope)
+Diogenes - Diogenes, Diogenes (o Sinope)
 dobranoc - nos da
 dobry wieczór - nos da
 doktor - meddyg m
@@ -93,7 +93,7 @@ fosfor - ffósfforws
 Francja - Ffrainc f
 furdygarnia - carchar
 gąbka - sbwng
-gała - llygad f | brân f
+gała - llygad f, brân f
 gapa - brân f
 garncarz - crochenydd m
 gasa - heol f
@@ -120,7 +120,7 @@ hotel - gwesty
 hydrologia - hydroleg
 imbir - sinsir
 ino - yn unig
-insekt - pryfyn m | trychfil m
+insekt - pryfyn m, trychfil m
 iryd - iridiwm
 Islandia - Gwlad yr Iâ
 islandzki - Islandeg
@@ -128,7 +128,7 @@ Itaka - Ithaca
 jabłko - afal f
 jajko - wy
 jajo - ŵy m
-Jakub - Siam | Iago
+Jakub - Siam, Iago
 jaszczurka - madfall f
 jeleń - carw m
 jemioła - uchelwydd
@@ -189,7 +189,7 @@ medyk - meddyg m
 Merkury - Mercher m
 Michał - Meical
 miedźwiedź - arth m
-mielcuch - bîr | cwrw | tablen
+mielcuch - bîr, cwrw, tablen
 mięsopustnik - Chwefror
 mięta - mintys
 miłość - cariad
@@ -197,7 +197,7 @@ minuta - munud
 mleko - llaeth m
 młynarz - melinydd m
 Mojżesz - Moses
-morze - gweilgi | mor
+morze - gweilgi, mor
 Morze Bałtyckie - Y Môr Baltig
 Morze Śródziemne - Mor Canoldir
 Mount Everest - Mynydd Everest
@@ -217,7 +217,7 @@ niedźwiedź - arth m
 Niemcy - yr Almaen f
 Niemiecka Republika Demokratyczna - Gweriniaeth Ddemocrataidd yr Almaen
 nieoczekiwany - annisgwyl
-niepodległość - annibyniaeth f | hannibyniaeth f
+niepodległość - annibyniaeth f, hannibyniaeth f
 niewolnictwo - caethwasiaeth f
 niż - na
 no - ie
@@ -236,20 +236,20 @@ okapi - ocapi
 oko - llygad f
 olcha - gwern
 orgazm - orgasm
-owad - pryfyn m | trychfil m
+owad - pryfyn m, trychfil m
 paciuk - llygoden mawr
-pająk - corryn m | pryf copyn m
+pająk - corryn m, pryf copyn m
 pajęcznik - Hydref
 Panna - y Forwyn
 październik - Hydref
 paździerzeń - Hydref
-piana - bîr | cwrw | tablen
+piana - bîr, cwrw, tablen
 piasek - tywod m
 pies - ci
 pięść - dwrn m
 pietuch - ceiliog m
 piorun - mellt
-piwo - bîr | cwrw | tablen
+piwo - bîr, cwrw, tablen
 podręcznik - gwerslyfr
 pogaństwo - paganiaeth
 polityk - gwleidydd m
@@ -261,13 +261,13 @@ potas - potasiwm
 prawda - gwirionedd m
 proszę - os gwelwch yn dda
 prowansalski - Ocitan
-przebiśnieg - eirlys m | blodyn yr eira m | cloch maban f | lili wen fach f
+przebiśnieg - eirlys m, blodyn yr eira m, cloch maban f, lili wen fach f
 przestępca - troseddwr w
 przyjaźń - cyfeillgarwch m
 przysłowie - dihareb f
 psisko - ci
 pszczelarz - gwenynwr m
-puszka - carchar | bîr | cwrw | tablen
+puszka - carchar, bîr, cwrw, tablen
 raciądz - marchog m
 radon - radon
 Rajch - yr Almaen f
@@ -317,14 +317,14 @@ strach - bwgan brain
 strach na wróble - bwgan brain
 strąpacz - Chwefror
 Strzelec - y Saethydd
-styczeń - Ionawr f | Ionor | mis Ionawr
+styczeń - Ionawr f, Ionor, mis Ionawr
 świnia - mochyn m
 szczęśliwego Nowy Nowego Roku - blwyddyn newydd dda
 szczupak - penhwyad m
 szczur - llygoden mawr
-szczycić - diogelu | amddiffyn
+szczycić - diogelu, amddiffyn
 szczyt - orgasm
-szept - sibrwd | sisial
+szept - sibrwd, sisial
 szeroki - llydan
 szkoła - ysgol f
 szlauch - neidr f
@@ -347,11 +347,11 @@ tetum - Tetwm
 też - hefyd
 tkacz - gwehydd m
 tlen - Ócsigen
-tłumacz - cyfieithydd m | cyfieithwr m
+tłumacz - cyfieithydd m, cyfieithwr m
 tor - thoriwm
 tory - thoriwm
 tradycyjnie - draddodiadol
-translator - cyfieithydd m | cyfieithwr m
+translator - cyfieithydd m, cyfieithwr m
 trucizna - gwenwyn
 trznadel zwyczajny - Bras Melyn
 Tunezja - Tunisia
@@ -360,7 +360,7 @@ tylko - yn unig
 Ukraina - Wcráin
 ulica - heol f
 Unia Europejska - Yr Undeb Ewropeaidd
-wacha - glaw m | gweilgi | mor | dŵr
+wacha - glaw m, gweilgi, mor, dŵr
 Waga - y Glorian
 wajco - wy
 Walia - Cymru f
@@ -389,7 +389,7 @@ Wodnik - y Cariwr Dŵr
 wokabularz - geiriadur
 wrona - brân f
 wrzód - wlser
-wyborca - dewiswr m | pleidleisiwr m
+wyborca - dewiswr m, pleidleisiwr m
 wydma - twyni
 wyraz - gair m
 Wyspa Świętego Wyspy Świętego Tomasza i Wyspa Książęca - São Tomé a Príncipe
@@ -403,7 +403,7 @@ zdrzadło - drych m
 zima - Gaeaf
 złodziej - lleidr m
 złoto - aur
-zły - drwg | gwael
+zły - drwg, gwael
 żółw - crwban
 źrenica - llygad f
 zupa - cawl

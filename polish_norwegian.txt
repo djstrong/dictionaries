@@ -19,7 +19,7 @@ adresat - adressat m
 adresować - adressere
 adwentnik - desember
 aeroplan - fly n
-afa - ape | krøllalfa
+afa - ape, krøllalfa
 afelzina - appelsin m
 Afganistan - Afghanistan
 Afryka - Afrika n
@@ -97,14 +97,14 @@ astat - astat
 asterysk - asterisk
 Austro-Węgry - Østerrike-Ungarn
 autohipnotyczny - selvhypnotisk
-autohipnoza - autohypnose | selvhypnose
+autohipnoza - autohypnose, selvhypnose
 autoklaw - autoklav
 Azerbejdżan - Aserbajdsjan
 Azja - Asia f
 azot - nitrogen m
 baba - kjerring f
 bać się - være redd
-badanie - undersøkelse m | forskning m
+badanie - undersøkelse m, forskning m
 bądź - eller
 bagażnik - bagasjerom n
 bajtel - barn n
@@ -117,19 +117,19 @@ banana - banan m
 bandzioch - buk
 baniaczek - hatt m
 bank - bank
-bankomat - minibank m | bankautomat m
+bankomat - minibank m, bankautomat m
 barabola - potet
 Baran - Væren
 barokowy - barokk
 barwa - farge m
-barzej - mange | mye
+barzej - mange, mye
 bas - buk
-basset - basset | basset hound
+basset - basset, basset hound
 basta - ganske
 batłąch - flaske
 batymetria - batymetri
 bawełna - bomull
-bebech - buk | mage m
+bebech - buk, mage m
 bęben - buk
 beczeć - gråte
 bejc - fyllik m
@@ -153,7 +153,7 @@ bezpieczeństwo - sikkerhet
 bezuch - besøk n
 biała herbata - hvit te
 białoruski - hviterussisk
-biały - hvit | kvit
+biały - hvit, kvit
 biber - hatt m
 biedny - stakkars
 biegunka - diaré
@@ -162,10 +162,10 @@ bigel - fest
 bigiel - fest
 bilet - billett m
 bindał - lendeklede
-binia - jente | pike
+binia - jente, pike
 biolog - biolog m
 biologiczny - biologisk
-biskup - biskop m | bisp m
+biskup - biskop m, bisp m
 bitwa - slag n
 błąd - feil
 błecha - loppe
@@ -175,7 +175,7 @@ blondynka - blondine
 błotka - mort
 blumkol - blomkål m
 bób - bønnevikke
-boba - lue | hue
+boba - lue, hue
 bóg - gud m
 bogaty - rik
 bohater - helt m
@@ -221,13 +221,13 @@ butelka - flaske
 butersznyt - smørbrød n
 buzi - kyss
 Byk - Tyren
-bzybzać - skjære | skive
+bzybzać - skjære, skive
 całki - hel
 całkowicie - helt
 całus - kyss
 cały - hel
 cebula - løk m
-cela - celle | fengselscelle
+cela - celle, fengselscelle
 cena - pris m
 cenotaf - kenotaf
 centymetr - centimeter m
@@ -241,7 +241,7 @@ chachor - fyllik m
 chamera - sky
 charczeć - snorke
 chcieć - ville
-chciwy - grådig | grisk
+chciwy - grådig, grisk
 chemia - kjemi m
 chemiczny - kjemisk
 chiński - kinesisk
@@ -253,20 +253,20 @@ chlać - drikke
 chleb - brød n
 chłopiec - gutt m
 chłopyszek - gutt m
-chlor - klor | fyllik m
-chmiel - humle m | øl
+chlor - klor, fyllik m
+chmiel - humle m, øl
 chmura - sky
 chocieć - ville
 chodnik - fortau n
 chojna - furu
 chomik - hamster
-chore - syk | sjuk
+chore - syk, sjuk
 choroba - sjukdom
 choroba von Willebranda - von Willebrands sykdom
 Chorwacja - Kroatia (Republikken Kroatia)
 chorwacki - kroatisk
 Chorwat - kroat m
-chory - syk | sjuk
+chory - syk, sjuk
 chować - gjemme
 chowaniec - gjemsel
 chowanka - gjemsel
@@ -291,26 +291,26 @@ cień - skygge m
 ciepać - kaste
 ciepły - varm
 cierpieć - lide
-cieść - svigerfar m | svigerdatter
+cieść - svigerfar m, svigerdatter
 cieszyć - glede
 ciężarówa - lastebil m
 ciężarówka - lastebil m
 ciężki - vanskelig
-ciocia - tante | moster
+ciocia - tante, moster
 cipa - fitte
 cipka - høne
 cis - barlindslekten
 ciupa - fengsel n
 ciurma - fengsel n
 ćma - nattsvermer m
-cmentarz - kirkegård m | gravlund m
-ćmik - sigarett m | røyk m
+cmentarz - kirkegård m, gravlund m
+ćmik - sigarett m, røyk m
 co - hva
 cołki - hel
 córa - datter
 córczysko - datter
 córka - datter
-ćpać - spise | kaste
+ćpać - spise, kaste
 cudzić - rense
 cug - tog n
 cukier - sukker
@@ -321,8 +321,8 @@ cydr - sider
 cyferblat - ansikt n
 Cygan - sigøyner m
 cygański - sigøynersk
-cygareta - sigarett m | røyk m
-cygaretka - sigarett m | røyk m
+cygareta - sigarett m, røyk m
+cygaretka - sigarett m, røyk m
 cyklista - syklist m
 cyngiel - briller
 cynk - sink
@@ -332,7 +332,7 @@ cytryna - sitron m
 cytrynat - sitron m
 czador - chador
 czaj - te w
-czapka - lue | hue
+czapka - lue, hue
 czarna skrzynka - ferdsskriver
 Czarnogóra - Montenegro
 czarny - svart
@@ -348,7 +348,7 @@ czekolada - sjokolade m
 czemu - hvorfor
 czernica - bjørnebær n
 czerwiec - juni m
-czerwony - rød | kommunist
+czerwony - rød, kommunist
 czkawka - hikke
 człowiek - menneske n
 czoło - panne
@@ -398,7 +398,7 @@ diabelski młyn - pariserhjul n
 dialog - dialog w
 diament - diamant w
 dioda - diode
-Diogenes - Diogenes m | Diogenes m (fra Sinope)
+Diogenes - Diogenes m, Diogenes m (fra Sinope)
 dlaczego - hvorfor
 dłoń - hånd
 dmuchać - blåse
@@ -412,22 +412,22 @@ dobry - god
 dodać dwa do dwóch - legge to og to sammen
 doktor - lege m
 dolar - dollar m
-dołek - sorg m | tristhet m | vemod n | sørgmodighet | sørgelighet
+dołek - sorg m, tristhet m, vemod n, sørgmodighet, sørgelighet
 dolmen - dysse
 dołować - gjemme
 dom - hus n
 dom dziecka - barnehjem
 dopiero - først
-doś - mange | mye
+doś - mange, mye
 dość - ganske
 dostęp - adgang m
 dosyć - ganske
-do widzenia - adjø | farvel | avskjed | hadet bra | hadet | ses | snakkes | hei
-do zobaczenia - adjø | farvel | avskjed | hadet bra | hadet | ses | snakkes | hei
+do widzenia - adjø, farvel, avskjed, hadet bra, hadet, ses, snakkes, hei
+do zobaczenia - adjø, farvel, avskjed, hadet bra, hadet, ses, snakkes, hei
 drabina - stige m
 drabka - stige m
-drach - drage m | drake m
-dracheta - drage m | drake m
+drach - drage m, drake m
+dracheta - drage m, drake m
 drapieżnik - rovdyr n
 drogi - dyr
 drożdże - gjær m
@@ -435,11 +435,11 @@ druh - venn m
 drukarka - skriver
 drzewo - tre
 drzwi - dør
-dudlać - gråte | drikke
+dudlać - gråte, drikke
 duma - stolthet w
 duński - dansk
 dupa - ræv
-dużo - mange | mye
+dużo - mange, mye
 dwukropek - kolon n
 dycht - helt
 dymbcok - eik
@@ -461,18 +461,18 @@ dzielić - dele
 dzień - dag m
 dziennikarski - journalistisk
 dziennikarz - journalist m
-dziewa - jente | pike
-dziewczę - jente | pike
-dziewczyna - jente | pike
+dziewa - jente, pike
+dziewczę - jente, pike
+dziewczyna - jente, pike
 dzieżka - kanne
 dzik - villsvin
 dziób - nebb n
 dziobak - nebbdyr
-dziołcha - jente | pike
-dziopa - jente | pike
+dziołcha - jente, pike
+dziopa - jente, pike
 dziś - i dag
 dzisiaj - i dag
-dziunia - jente | pike
+dziunia - jente, pike
 echo - ekko n
 Edyta - Edit
 Efialtes - Efialtes m
@@ -501,14 +501,14 @@ fabryka - fabrikk m
 facet - mann m
 facetka - kvinne
 facjata - ansikt n
-fajek - sigarett m | røyk m
-fajerwer - sigarett m | røyk m
-fajka - sigarett m | røyk m
-fajny - fin | heslig
+fajek - sigarett m, røyk m
+fajerwer - sigarett m, røyk m
+fajka - sigarett m, røyk m
+fajny - fin, heslig
 fałszywy - falsk
 familio - familie f
 famuła - familie f
-farerski - færøysk | færøysk w
+farerski - færøysk, færøysk w
 faryna - sukker
 fedrować - jobbe
 fefrać się - være redd
@@ -521,7 +521,7 @@ film - film m
 filozof - filosof m
 Fin - finne w
 Finlandia - Finland
-fiord - fjord | fjordhest | fjording
+fiord - fjord, fjordhest, fjording
 firma - firma n
 fiut - kuk
 flaszka - flaske
@@ -537,7 +537,7 @@ Francja - Frankrike
 francuski pocałunek - fransk kyss
 frasunek - sorg
 frechowny - uforskammet
-frela - jente | pike
+frela - jente, pike
 fresk - freskomaleri
 fryc - tysker m
 Fryc - tysker m
@@ -547,19 +547,19 @@ fyrać - flykte
 gabinet cieni - skyggekabinett n
 gad - krypdyr n
 gadałka - fe
-gała - øye | kornkråke | kråke
-galancie - mange | mye
+gała - øye, kornkråke, kråke
+galancie - mange, mye
 Galilea - Galilea
 galoty - bukser
 ganc - helt
-gapa - kornkråke | kråke
+gapa - kornkråke, kråke
 garaż - garasje
 gasa - gate
-gatunkowizm - artssjåvinisme | spesiesisme
+gatunkowizm - artssjåvinisme, spesiesisme
 gawron - kornkråke
 gaz musztardowy - sennepsgass
-Gdańsk - Gdansk | Danzig
-gdyby - hvis | om
+Gdańsk - Gdansk, Danzig
+gdyby - hvis, om
 gdzie - hvor
 geografia - geografi
 geologia - geologi
@@ -569,7 +569,7 @@ giezło - skjorte
 ginekologia - gynekologi
 glajza - thorium
 glancować - rense
-glapa - kornkråke | kråke
+glapa - kornkråke, kråke
 glaska - glass n
 glina - leire
 glista - meitemark m
@@ -601,7 +601,7 @@ grób - grav m
 grobowiec - kjeller m
 grudzień - desember
 gryf - griff
-gryfny - fin | heslig
+gryfny - fin, heslig
 grynszpan - verdigris
 grypa - influensa m
 grzech - synd
@@ -615,7 +615,7 @@ guzik - knapp m
 gwizdnąć - slå
 gwóźdź - spiker m
 gżegżółka - gjøk m
-gzub - barn n | buk
+gzub - barn n, buk
 hajtok - kniv m
 hak - krok m
 haki - krok m
@@ -642,7 +642,7 @@ hydrologia - hydrologi
 i - og
 idealista - idealist
 imbir - ingefær m
-imię - navn n | fornavn n
+imię - navn n, fornavn n
 indoktrynacja - indoktrinering
 indyk - kalkun m
 informatyka - informatikk
@@ -690,18 +690,18 @@ jednooki - enøyd
 jednorożec - neshorn n
 jedza - mat
 jedzenie - mat
-jego - hans | dens | dets
+jego - hans, dens, dets
 jeleń - hjort m
-Jerzy - Jørgen | Georg
+Jerzy - Jørgen, Georg
 jeść - spise
 jesień - høst m
 jezioro - innsjø m
 Jezus - Jesus m
 jeżyna - bjørnebær n
-Judyta - Judit | Judith
+Judyta - Judit, Judith
 Jugosławia - Jugoslavia
 Juliusz - Julius
-Jur - Jørgen | Georg
+Jur - Jørgen, Georg
 jutro - i morgen
 kaban - svin n
 kabaret - kabaret m
@@ -722,7 +722,7 @@ Kanada - Canada
 Kanadyjczyk - kanadier m
 kanapka - smørbrød n
 kangur - kenguru m
-kanka - kanne | vanningskanne
+kanka - kanne, vanningskanne
 kapcylinder - hatt m
 kapeluch - hatt m
 kapelusz - hatt m
@@ -739,12 +739,12 @@ karta kredytowa - kredittkort
 kartofel - potet
 Karwat - kroat m
 kasztan - kastanje m
-kat - bøddel m | skarpretter m
+kat - bøddel m, skarpretter m
 katana - tømmermenn
-Katarzyna - Karen f | Katharina f | Katrine f | Kari f | Rina f
+Katarzyna - Karen f, Katharina f, Katrine f, Kari f, Rina f
 katastrofa - katastrofe m
 Katyń - Katyn-massakren
-kawka - kaie | nonne
+kawka - kaie, nonne
 kawon - vannmelon m
 każdy - hver
 kędy - hvor
@@ -763,8 +763,8 @@ kijanka - rumpetroll n
 kilometr - kilometer m
 kimać - sove
 kino - kino m
-kintop - kino m | fest
-kirchóf - kirkegård m | gravlund m
+kintop - kino m, fest
+kirchóf - kirkegård m, gravlund m
 kiszka - melk
 kitajski - kinesisk
 klacz - hoppe
@@ -840,14 +840,14 @@ koszykówka - kurvball m
 kot - katt m
 kozioł ofiarny - syndebukk m
 Koziorożec - Steinbukken
-krajać - skjære | skive
+krajać - skjære, skive
 krasula - ku
 kręgosłup - ryggrad
 kręgowiec - virveldyr n
 kret - muldvarp m
 krew - blod n
 krewetka - reke
-kroić - skjære | skive
+kroić - skjære, skive
 król - konge m
 królik - kanin m
 król śledziowy - sildekonge
@@ -882,7 +882,7 @@ kurki - høne
 kusik - kyss
 kuskus - couscous
 kusy - djevel m
-Kusz - Kusj m | Kusj | Kongedømmet Kusj
+Kusz - Kusj m, Kusj, Kongedømmet Kusj
 kutafon - kuk
 kutas - kuk
 kwadrat - kvadrat n
@@ -895,16 +895,16 @@ kynologia - kynologi m
 łabędź - svane
 labija - fest
 labirynt - labyrint m
-ładny - fin | heslig
+ładny - fin, heslig
 łąka - eng
 laktowegetarianizm - laktovegetarianisme
-lala - jente | pike
+lala - jente, pike
 lampa - lampe
 land - rure
 las - skog m
 lat - år
 lata - år
-latawiec - drage m | drake m
+latawiec - drage m, drake m
 lato - sommer m
 ławka - benk
 le - men
@@ -940,7 +940,7 @@ logiko - logikk m
 lojalność - lojalitet m
 łokieć - albue m
 lokówka - krølltang
-lola - jente | pike
+lola - jente, pike
 lombard - stamp m
 lont - lunte
 lornetka - kikkert m
@@ -953,7 +953,7 @@ lubić - like
 ludzie - folk n
 łudzikwiat - april
 Luksemburg - Luxembourg
-lulka - sigarett m | røyk m
+lulka - sigarett m, røyk m
 luna - måne m
 luńt - hund m
 łuska - skjell
@@ -970,13 +970,13 @@ maj - mai
 mąka - mel n
 makrela - makrell m
 mało - få
-małpa - ape | krøllalfa
+małpa - ape, krøllalfa
 Malta - Malta
 mały palec - lillefinger m
-małżeństwo - ekteskap n | ektepar n
+małżeństwo - ekteskap n, ektepar n
 małżonek - mann m
 mam - ha
-maniurka - jente | pike
+maniurka - jente, pike
 mapa topograficzna - topografisk kart
 marchew - gulrot
 marchewka - gulrot
@@ -1023,7 +1023,7 @@ miedźwiedź - bjørn
 mielcuch - øl
 mieli - ha
 mielić - male
-miesiąc - måned m | måne m
+miesiąc - måned m, måne m
 miesiączek - måne m
 mięsopustnik - februar
 mięsożerca - kjøtteter m
@@ -1046,10 +1046,10 @@ modrakowy - blå
 modry - blå
 monocykl - etthjulssykkel w
 monofizytyzm - monofysittisme
-monopolowy - vinmonopol n | pol
+monopolowy - vinmonopol n, pol
 moplik - moped
-mord - mord n | drap n
-morderstwo - mord n | drap n
+mord - mord n, drap n
+morderstwo - mord n, drap n
 morela - aprikos m
 morkwa - gulrot
 morze - hav n
@@ -1070,9 +1070,9 @@ musieć - måtte
 musztarda - sennep m
 mużyk - mann m
 my - vi
-mycka - lue | hue
+mycka - lue, hue
 mydło - såpe
-myśleć - tenke | huske | mene | synes | tro
+myśleć - tenke, huske, mene, synes, tro
 mysz - mus
 Myszka Miki - Mikke Mus
 na - på
@@ -1083,7 +1083,7 @@ nadzieja - håp n
 Nairobi - Nairobi
 namiętnie - lidenskapelig
 namiot - telt n
-naonczas - da | den gang
+naonczas - da, den gang
 narba - arr f
 nareszcie - til sist
 narkoman - narkoman m
@@ -1091,10 +1091,10 @@ narodziny - fødsel
 następny - neste
 na sto procent - helt
 nasz - vår
-natenczas - da | den gang
+natenczas - da, den gang
 nauczać - lære
 nauczyciel - lærer m
-naukowiec - forsker m | vitenskapsmann m
+naukowiec - forsker m, vitenskapsmann m
 naukowy - vitenskapelig
 nazad - tilbake
 nazod - tilbake
@@ -1131,9 +1131,9 @@ niewolnictwo - slaveri n
 niewolniczy - slavisk
 niezadowolony - misfornøyd
 nigdy - aldri
-nim - det | den
+nim - det, den
 Nix - Nix
-no - jo | ja
+no - jo, ja
 noc - natt
 nogawice - bukser
 nora - hule
@@ -1169,12 +1169,12 @@ ojla - ugle
 oko - øye
 okoń - abbor m
 okrągły - rund
-okręt podwodny - undervannsbåt | ubåt m
+okręt podwodny - undervannsbåt, ubåt m
 okrucieństwo - grusomhet
 okulary - briller
 okulary przeciwsłoneczne - solbrille
 olbrzym - kjempe
-olej - olje | matolje
+olej - olje, matolje
 Olimpia - Olympia
 ołów - bly
 ołówek - blyant m
@@ -1182,14 +1182,14 @@ ołtarz - alter n
 ona - hun
 one - de
 oni - de
-ono - det | den
+ono - det, den
 oologia - oologi
 opal - opal
 opowiadać - fortelle
 oprócz tego - dessuten
 oraz - og
 organizacja - organisasjon m
-orgazm - orgasme m | utløsning m
+orgazm - orgasme m, utløsning m
 orlab - ferie m
 orzeł - ørn
 Ostia - Ostia
@@ -1199,21 +1199,21 @@ ostrzeżenie - advarsel m
 owad - insekt n
 owca - sau m
 owies - havre m
-oznaczać - betegne | merke
+oznaczać - betegne, merke
 ożyna - bjørnebær n
 ożyrok - fyllik m
 pacholę - gutt m
 paciuk - rotte
-pajęcznik - september | oktober | november
+pajęcznik - september, oktober, november
 pakować - pakke
-palacz - røyker | bilist m
-palec - finger m | tå m
+palacz - røyker, bilist m
+palec - finger m, tå m
 palec wskazujący - pekefinger m
 palindrom - palindrom
 pamięć USB - minnepinne
 Panna - Jomfruen
-państwowy - statlig | stats-
-papieros - sigarett m | røyk m
+państwowy - statlig, stats-
+papieros - sigarett m, røyk m
 papier toaletowy - toalettpapir
 para - vanndamp
 parkować - parkere
@@ -1248,7 +1248,7 @@ pies - hund m
 pięść - neve m
 pies do towarzystwa - selskapshund
 pies pasterski - fårehund
-pies policyjny - politihund | polititjenestehund
+pies policyjny - politihund, polititjenestehund
 pies pracujący - brukshund
 pijak - fyllik m
 pijanica - fyllik m
@@ -1283,7 +1283,7 @@ płoć - mort
 płotka - mort
 pług - plog w
 pluton - pelotong m
-płynny - vaske | flytende
+płynny - vaske, flytende
 pocałunek - kyss
 pocałunek z języczkiem - fransk kyss
 POChP - KOLS
@@ -1293,8 +1293,8 @@ początek - begynnelse m
 podłoga - gulv n
 podniebienie - gane m
 podobno - skulle
-podówczas - da | den gang
-podróż - reise | tripp m
+podówczas - da, den gang
+podróż - reise, tripp m
 podróżować - reise
 podsumowanie - sammendrag n
 poduszka powietrzna - kollisjonspute w
@@ -1312,7 +1312,7 @@ polityka - politikk m
 północnoamerykański - nordamerikansk
 Polska - Polen
 polski - polsk
-południe - middag m | sør n | syd n
+południe - middag m, sør n, syd n
 południowoamerykański - søramerikansk
 połykać - svelge
 pomagać - hjelpe
@@ -1335,14 +1335,14 @@ porządnie - skikkelig
 postanawiać - bestemme
 potas - kalium
 potrafić - kunne
-potrzebować - behøve | trenge
+potrzebować - behøve, trenge
 potwierdzenie - bekreftelse m
 potwierdzić - bekrefte
 powiadać - fortelle
 powiedzieć - si
 powieka - øyelokk n
 powierzchnia - areal n
-powiestka - navn n | fornavn n | tittel m
+powiestka - navn n, fornavn n, tittel m
 powoli - sakte
 powtarzać - gjenta
 pożądanie - begjær
@@ -1355,7 +1355,7 @@ pracodawca - arbeidsgiver m
 pracować - jobbe
 Praga - Praha
 pralka - vaskemaskin
-prawa zwierząt - dyrerettigheter | dyrs rettigheter
+prawa zwierząt - dyrerettigheter, dyrs rettigheter
 prawda - sannhet
 prawdziwy - sann
 prawica - høyre n
@@ -1364,17 +1364,17 @@ prawo jazdy - førerkort
 prezerwatywa - kondom
 prezydent - president
 primogenitura - primogenitur
-próba - prøve m | forsøk n | test m
+próba - prøve m, forsøk n, test m
 problem - problem n
 prom - ferje
-promień - stråle m | radius n
+promień - stråle m, radius n
 prosię ziemne - jordsvin
 pryszcz - kvise
 przać - elske
 przebytek - bolig
-przeciw - mot | imot
+przeciw - mot, imot
 przeciw- - mot-
-przeciwko - mot | imot
+przeciwko - mot, imot
 przeciwutleniacz - antioksidant
 przedszkole - barnehage m
 przekształcać - omdanne
@@ -1401,7 +1401,7 @@ przyprawiać - krydder n
 przysłówek - adverb
 przytcza - eksempel n
 psisko - hund m
-psowate - hundefamilien | canider
+psowate - hundefamilien, canider
 pszczelarz - birøkter m
 pszczoła - bie
 pultok - kalkun m
@@ -1409,7 +1409,7 @@ pulyr - fyllik m
 puste - tom
 pusty - tom
 puszczyk uralski - slagugle
-puszka - fengsel n | øl
+puszka - fengsel n, øl
 puter - kalkun m
 putnia - bøtte
 pyra - potet
@@ -1421,13 +1421,13 @@ racjonalny - rasjonell
 radon - radon
 raj - paradis n
 Rajch - Tyskland n
-rajza - reise | tripp m
+rajza - reise, tripp m
 rajzować - reise
-rak - kreps m | kreft m
+rak - kreps m, kreft m
 Rak - Krepsen
 rana - sår n
-razdziawa - kornkråke | kråke
-ręce do góry - henda i været! | opp med henda!
+razdziawa - kornkråke, kråke
+ręce do góry - henda i været!, opp med henda!
 redyska - reddik m
 redźka - reddik m
 referencja - referanse
@@ -1460,7 +1460,7 @@ rozumieć - forstå
 rtęć - kvikksølv
 rubid - rubidium
 ruchome schody - rulletrapp
-rudny - rød | kommunist
+rudny - rød, kommunist
 Rumun - rumener m
 Rumunia - Romania
 ruten - ruthenium
@@ -1530,7 +1530,7 @@ Skandynawia - Skandinavia n
 skandynawski - skandinavisk
 skład - kjeller m
 sklep - kjeller m
-sklep monopolowy - vinmonopol n | pol
+sklep monopolowy - vinmonopol n, pol
 skocznia - hoppbakke m
 skok wzwyż - høydehopp n
 Skop - Væren
@@ -1543,7 +1543,7 @@ skrótowiec - akronym n
 skrytka pocztowa - postboks
 skrzynka pocztowa - innleveringspostkasse
 Śląsk - Schlesien
-sławny - berømt | kjent
+sławny - berømt, kjent
 śleboda - frihet
 śledź - sild
 ślepiec - blind
@@ -1563,10 +1563,10 @@ Słowianin - slaver
 słowiański - slavisk
 słowik - nattergal m
 słownik - ordbok
-słynny - berømt | kjent
+słynny - berømt, kjent
 smażonka - eggerøre
 smok - drage m
-smutek - sorg m | tristhet m | vemod n | sørgmodighet | sørgelighet
+smutek - sorg m, tristhet m, vemod n, sørgmodighet, sørgelighet
 smutniak - brød n
 smutny - trist
 snecha - svigerdatter
@@ -1594,7 +1594,7 @@ spinka do włosów - hårnål
 spodnie - bukser
 społeczeństwo - samfunn n
 spółgłoska - konsonant m
-spowiedź - skrifte | tilståelse
+spowiedź - skrifte, tilståelse
 sprawiedliwość - rettferdighet
 sprawiedlność - rettferdighet
 sprzedawać - selge
@@ -1617,25 +1617,25 @@ stare miasto - by m
 starosek - bestefar m
 staroszek - bestefar m
 starzyk - bestefar m
-staw - dam m | ledd n
+staw - dam m, ledd n
 stół - bord n
 stolarz - snekker m
 stolica - hovedstad m
 stopa - fot m
-stosować - benytte | bruke
+stosować - benytte, bruke
 strąpacz - februar
 struś - struts m
 Strzelec - Skytten
 studiować - studere
 studnia - brønn m
-stulecie - alder m | århundre n
+stulecie - alder m, århundre n
 styczeń - januar m
 subkontynent - subcontinent n
 substancja - substans m
-sukces - lykke m | suksess m
+sukces - lykke m, suksess m
 sukienka - kjole m
 sumienie - samvittighet
-suszarka do włosów - hårtørker | hårtørrer
+suszarka do włosów - hårtørker, hårtørrer
 Svalbard - Svalbard
 sweter - genser
 świat arabski - arabiske verden m
@@ -1661,12 +1661,12 @@ szczekać - bjeffe
 szczeniak - valp
 szczenię - valp
 szczepionka - vaksine
-szczęście - lykke m | suksess m
+szczęście - lykke m, suksess m
 szczur - rotte
-szczyt - orgasme m | utløsning m
+szczyt - orgasme m, utløsning m
 szeptać - hviske
 szkielet - skjelett n
-szkira - jente | pike
+szkira - jente, pike
 szklanka - glass n
 szklistka - glasslegeme
 Szkocja - Skottland n
@@ -1675,21 +1675,21 @@ szkop - tysker m
 Szkot - skotte m
 Szląsk - Schlesien
 szlauch - slange m
-szlug - sigarett m | røyk m
+szlug - sigarett m, røyk m
 szneka - ansikt n
-sznur - snor m | tau m | aiguilette
+sznur - snor m, tau m, aiguilette
 szolka - kopp m
-szowinizm gatunkowy - artssjåvinisme | spesiesisme
+szowinizm gatunkowy - artssjåvinisme, spesiesisme
 szpic fiński - finsk spets
 szpic japoński - japansk spisshund
-szpilka - knappenål | nål
+szpilka - knappenål, nål
 szpinak - spinat m
 szpital - sykehus n
 szpuk - due
 sztajmes - fyllik m
-sztuka - kunst | jente | pike
+sztuka - kunst, jente, pike
 szubienica - galge
-szuflada - skuff | skuffe
+szuflada - skuff, skuffe
 szukać - lete
 szukać igły w stogu siana - lete etter en nål i en høystakk
 szulak - hauk m
@@ -1705,11 +1705,11 @@ szwestera - søster w
 szyć - sy
 szyja - hals m
 szyjka - hals m
-szykowny - fin | heslig
+szykowny - fin, heslig
 szynal - spiker m
 tacik - bestefar m
 Tajlandia - Thailand
-tak - jo | ja
+tak - jo, ja
 taksówka - drosje
 taksydermia - taksidermi
 tal - thallium
@@ -1720,9 +1720,9 @@ taniec - dans m
 tanksztela - bensinstasjon m
 tantal - tantal
 tapeta - tapet n
-tarcza - skjold | ansikt n
+tarcza - skjold, ansikt n
 tarcza krystaliczna - skjold
-tarcza strzelecka - skjold | ansikt n
+tarcza strzelecka - skjold, ansikt n
 tarcza szkolna - skjold
 taśma perforowana - holband
 tchórzliwy - feig
@@ -1738,7 +1738,7 @@ teofania - teofani m
 terb - terbium
 Termopile - Thermopylene
 teść - svigerfar m
-testament - testament n | testamente n
+testament - testament n, testamente n
 teszarz - snekker m
 tętnica - arterie
 tisztuch - duk m
@@ -1754,10 +1754,10 @@ totalitarny - totalitær
 totalitaryzm - totalitarisme m
 towar - vare
 transsubstancjacja - transsubstansiasjon
-trawnik - plen m | gressplen m
+trawnik - plen m, gressplen m
 trichotillomania - trikotillomani
 tróhła - likkiste
-troska - omsorg m | bekymring m | sorg m
+troska - omsorg m, bekymring m, sorg m
 truchło - lik n
 trudny - vanskelig
 trujący - giftig
@@ -1793,7 +1793,7 @@ udo - lår n
 UE - EU
 ufnal - spiker m
 UGW - ØMU
-ukleja - laue m | løye m
+ukleja - laue m, løye m
 Ukraina - Ukraina
 Ukrainiec - ukrainer m
 ulica - gate
@@ -1803,12 +1803,12 @@ umysł - sinn n
 uniwerek - universitet n
 uniwersytet - universitet n
 urlop - ferie m
-urodziwy - fin | heslig
+urodziwy - fin, heslig
 urologia - urologi
 użyteczny idiota - nyttig idiot
 użytkownik - bruker m
-używać - benytte | bruke
-wacha - bensin | hav n | vann n
+używać - benytte, bruke
+wacha - bensin, hav n, vann n
 Waga - Vekten
 wajco - egg n
 wałach - vallak
@@ -1837,7 +1837,7 @@ Węgier - ungarer
 wena - ånd
 wentroba - lever
 wesz - lus
-wezwanie - navn n | fornavn n | tittel m
+wezwanie - navn n, fornavn n, tittel m
 wiać - blåse
 wiadro - bøtte
 wiatr - vind
@@ -1846,9 +1846,9 @@ widołka - gaffel m
 widzieć - se
 więc - altså
 wieczór - kveld m
-wiek - alder m | århundre n
+wiek - alder m, århundre n
 wielbłąd - kamel
-wiele - mange | mye
+wiele - mange, mye
 Wielkanoc - påske
 wielokulturowość - multikulturalisme
 wieloryb - hval m
@@ -1882,7 +1882,7 @@ wniwecz - helt
 woda - vann n
 Wodnik - Vannmannen
 wodór - hydrogen
-wojaż - reise | tripp m
+wojaż - reise, tripp m
 województwo - voivodskap
 wojna - krig m
 wojna domowa - borgerkrig m
@@ -1902,8 +1902,8 @@ wrzesień - september
 wścieklizna - rabies m
 wszyscy - alle
 wszystkie - alle
-wtedy - da | den gang
-wtenczas - da | den gang
+wtedy - da, den gang
+wtenczas - da, den gang
 wtorek - tirsdag
 wuszt - pølse
 wy - dere
@@ -1925,9 +1925,9 @@ Wyspa Świętego Wyspy Świętego Tomasza i Wyspa Książęca - São Tomé og Pr
 Wyspy Kanaryjskie - Kanariøyene
 Wyspy Owcze - Færøyene
 wyż - høytrykk
-za - bak | for | altfor
+za - bak, for, altfor
 zabawa - fest
-zabójstwo - mord n | drap n
+zabójstwo - mord n, drap n
 Zabulon - Sebulon m
 zachód słońca - solnedgang m
 zaćmienie - formørkelse m
@@ -1954,15 +1954,15 @@ zatoka - bihule
 zawój - turban
 zazula - gjøk m
 zbrodnia katyńska - Katyn-massakren
-zdalasiały - etter | trett
+zdalasiały - etter, trett
 zdrada stanu - forræderi
 zdrzadło - speil n
 że - at
 zebra - sebra m
-zegarek - ur n | armbåndsur n
+zegarek - ur n, armbåndsur n
 zegar słoneczny - solur n
 żegleń - karbon
-że ho ho - mange | mye
+że ho ho - mange, mye
 żelazo - jern n
 zemsta - hevn
 żeńczyna - kvinne
@@ -1978,11 +1978,11 @@ złoto - gull n
 złoty spadochron - gyllen fallskjerm m
 złożenie - sammensetning
 zmartwienie - sorg
-zmęczony - etter | trett
+zmęczony - etter, trett
 zmierzch - skumring
 znaczek - frimerke
 znaczek pocztowy - frimerke
-znak wodny - vannmerke n | vassmerke n
+znak wodny - vannmerke n, vassmerke n
 zol - gulv n
 zola - gulv n
 żołądek - mage m
@@ -1995,7 +1995,7 @@ zola - gulv n
 zooplankton - dyreplankton n
 zozula - gjøk m
 z powrotem - tilbake
-źrenica - pupill m | øye
+źrenica - pupill m, øye
 źródło - brønn m
 zrozumiały - forståelig
 zszywacz - stiftemaskin m

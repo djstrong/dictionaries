@@ -1,6 +1,6 @@
 Abcáis - Abchazja
 abhacád - awokado
-abhaill - jabłoń | sad
+abhaill - jabłoń, sad
 abhainn - rzeka
 acastóir - oś
 achtainiam - aktyn
@@ -13,7 +13,7 @@ Afganastáin - Afganistan
 Afraic - Afryka
 Afraic Theas - Republika Południowej Afryki
 ag iompar clainne - w ciąży
-agus - i | oraz
+agus - i, oraz
 aibhinne - aleja
 aibidil - alfabet
 aibítir - alfabet
@@ -33,7 +33,7 @@ ainmníocht - nomenklatura
 aint - ciotka
 aintín - ciotka
 aircív - archiwum
-airgead - pieniądze | srebro
+airgead - pieniądze, srebro
 Airgintín - Argentyna
 Airméin - Armenia
 Áise - Azja
@@ -54,7 +54,7 @@ amárach - jutro
 amas - atak
 amh - surowy
 amhras - wątpliwość
-an - czy | is
+an - czy, is
 anabaí - przedwczesny
 analach - analogia
 anam - dusza
@@ -97,10 +97,10 @@ aspal - apostoł
 Astráil - Australia
 astralaíocht - astrologia
 astúchán - emisja
-at - obrzęk | opuchlizna
+at - obrzęk, opuchlizna
 athair - ojciec
 athbhealach - objazd
-ba - bó | is
+ba - bó, is
 bábóg - lalka
 báicéir - piekarz
 bailé - balet
@@ -135,18 +135,18 @@ básmhaireacht - śmiertelność
 básmhar - śmiertelny
 béabhar - bóbr
 beagnach - prawie
-béal - usta | buzia | otwór
+béal - usta, buzia, otwór
 Bealach na Bó Finne - Droga Mleczna
 Bealarúis - Białoruś
 Béal Feirste - Belfast
 Bealtaine - maj
-bean - kobieta | żona
+bean - kobieta, żona
 bean chabhrach - położna
 bean chéile - żona
 bean ghlúine - położna
 bean tí - gospodyni domowa
 béar bán - niedźwiedź polarny
-béarlagair - żargon | slang
+béarlagair - żargon, slang
 beathaisnéis - biografia
 beathaisnéisí - biograf
 Beilg - Belgia
@@ -157,8 +157,8 @@ bí - być
 bia - jedzenie
 biachlár - menu
 bialann - restauracja
-biathaigh - karmić | odżywiać
-bíonn adharca fada ar na buaibh thar lear - wszędzie dobrze, gdzie nas nie ma | cudze chwalicie, swego nie znacie | krowy za granicą mają długie rogi
+biathaigh - karmić, odżywiać
+bíonn adharca fada ar na buaibh thar lear - wszędzie dobrze, gdzie nas nie ma, cudze chwalicie, swego nie znacie, krowy za granicą mają długie rogi
 biorán cniotála - drut do robótek
 bior fiacla - wykałaczka
 bíosún - bizon
@@ -166,7 +166,7 @@ bitheolaí - biolog
 bitheolaíoch - biologiczny
 bitheolaíocht - biologia
 blaisféim - bluźnierstwo
-blas - smak | akcent
+blas - smak, akcent
 bláth - kwiat
 bliain - rok
 bó - krowa
@@ -181,13 +181,13 @@ Bolaiv - Boliwia
 bolcán - wulkan
 bolcánach - wulkaniczny
 bollán - głaz
-bolscaireacht - rozgłos | reklama | propaganda
+bolscaireacht - rozgłos, reklama, propaganda
 bonneagar - infrastruktura
 both - chata
 Botsuáin - Botswana
 bráisléad - bransoletka
 Brasaíl - Brazylia
-breab - przekupić | łapówka
+breab - przekupić, łapówka
 bréag - kłamstwo
 bréagán - zabawka
 bréagchéadfa - halucynacja
@@ -196,7 +196,7 @@ Breatain - Brytania
 Breatain Mhór - Wielka Brytania
 breithlá - urodziny
 breosla - paliwo
-briathar - słowo | czasownik
+briathar - słowo, czasownik
 bríce - cegła
 bricfeasta - śniadanie
 broc - borsuk
@@ -209,7 +209,7 @@ bruachbhaile - przedmieście
 bruachbhailteach - podmiejski
 Brúiné - Brunei
 Bruiséil - Bruksela
-bua - zwycięstwo | wygrana
+bua - zwycięstwo, wygrana
 buabhall uisce - bawół domowy
 buanfas - trwałość
 Búcairist - Bukareszt
@@ -266,7 +266,7 @@ cathair ghríobháin - labirynt
 Cathair na Vatacáine - Państwo Watykańskie
 catóid - katoda
 ceacht - lekcja
-céad - sto | pierwszy
+céad - sto, pierwszy
 Céadaoin - środa
 Ceanada - Kanada
 ceannbhrat - baldachim
@@ -276,16 +276,16 @@ cearpantóir - stolarz
 ceathair - cztery
 ceimic - chemia
 ceirmeach - ceramiczny
-ceirtlis - jabłecznik | cydr
+ceirtlis - jabłecznik, cydr
 ceist - pytanie
 ceithre - cztery
 ceoltóir - muzyk
 cheana - już
-chomh maith - także | również | też
+chomh maith - także, również, też
 ciaróg - żuk
 ciclipéid - encyklopedia
 cigire - inspektor
-cineál - kategoria | typ
+cineál - kategoria, typ
 ciorcal - kółko
 cíor mheala - plaster
 Cipir - Cypr
@@ -294,7 +294,7 @@ cistin - kuchnia
 cíteolaíocht - cytologia
 cith - prysznic
 claíomh - miecz
-clann - dzieci (w obrębie jednej rodziny) | potomstwo | potomkowie | grupa ludzi wywodzących się od wspólnego przodka | następcy | sukcesorzy | naśladowcy
+clann - dzieci (w obrębie jednej rodziny), potomstwo, potomkowie, grupa ludzi wywodzących się od wspólnego przodka, następcy, sukcesorzy, naśladowcy
 cliamhain - zięć
 clóbhuail - drukować
 cloch - kamień
@@ -315,20 +315,20 @@ Cóiré - Korea
 Coireallach - cyrylicki
 Cóiré Theas - Korea Południowa
 Cóiré Thuaidh - Korea Północna
-colm - gołąb | blizna
-comhchiallach - synonim | bliskoznaczny
+colm - gołąb, blizna
+comhchiallach - synonim, bliskoznaczny
 comhfhios - świadomość
 comhthéacs - kontekst
-cóngar - bliskość | sąsiedztwo | okolica
+cóngar - bliskość, sąsiedztwo, okolica
 contúirt - niebezpieczeństwo
 córas - system
 cor bealaigh - objazd
 corcarghorm - fioletowy
 corcra - fioletowy
 corcscriú - korkociąg
-cos - stopa | noga
-cósta - wybrzeże | przybrzeżny
-cráin - locha | maciora
+cos - stopa, noga
+cósta - wybrzeże, przybrzeżny
+cráin - locha, maciora
 creath - drżeć
 creid - wierzyć
 críochnaigh - skończyć
@@ -344,7 +344,7 @@ Cróit - Chorwacja
 crosbhogha - kusza
 crosóg mhara - rozgwiazda
 crúigh - doić
-cú - pies myśliwski | chart
+cú - pies myśliwski, chart
 cuach - kukułka
 Cúba - Kuba
 cuideog - pająk
@@ -355,7 +355,7 @@ cúisín - poduszka
 culaith shnámha - kostium kąpielowy
 cultúr - kultura
 cumarsáid - komunikacja
-cúntach - pomocny | pomocniczy
+cúntach - pomocny, pomocniczy
 cuntasóir - księgowy
 curaí - curry
 cúrsa timpill - objazd
@@ -373,7 +373,7 @@ Danmhairg - Dania
 daonlathach - demokratyczny
 daonlathas - demokracja
 daonnachtúil - ludzki
-dath - kolor | barwa
+dath - kolor, barwa
 dátheangach - dwujęzyczny
 deamhan - demon
 deamhan fola - wampir
@@ -390,10 +390,10 @@ de chóir - blisko
 deich - dziesięć
 déimeagrafaíocht - demografia
 deirfiúr - siostra
-Dé Luain - poniedziałek | w poniedziałek
+Dé Luain - poniedziałek, w poniedziałek
 deoch - napój
 déthaobhach - dwustronny
-dia - bóg | dzień
+dia - bóg, dzień
 Dia - Bóg
 diabhal - diabeł
 dí-ainm - anonimowy
@@ -409,10 +409,10 @@ dírbheathaisnéis - autobiografia
 díreach - prosty
 dírialta - arbitralny
 diúilicín - małż
-dlúthchara - bliski przyjaciel | najlepszy przyjaciel
-dó - dwa | 2
+dlúthchara - bliski przyjaciel, najlepszy przyjaciel
+dó - dwa, 2
 dó dhéag - dwanaście
-doiléir - ciemny | słabo oświetlony
+doiléir - ciemny, słabo oświetlony
 dóire - palnik
 Domhan - Ziemia
 Domhnach - niedziela
@@ -429,10 +429,10 @@ dufair - dżungla
 duine muinteartha - krewny
 dúnmharú - morderstwo
 éabann - heban
-each - wierzchowiec | rumak | koń
+each - wierzchowiec, rumak, koń
 each-chumhacht - koń mechaniczny
 eacnamaíocht - ekonomia
-eadra - późny poranek | przedpołudnie
+eadra - późny poranek, przedpołudnie
 eagla - strach
 éagobhsaíocht - niestabilność
 eagraíocht - organizacja
@@ -459,7 +459,7 @@ Eilvéis - Szwajcaria
 Eimile - Emilia
 eipidéimeach - epidemiczny
 Éire - Irlandia
-Éireannach - irlandzki | Irlandczyk | Irlandka | mieszkaniec/mieszkanka Irlandii
+Éireannach - irlandzki, Irlandczyk, Irlandka, mieszkaniec/mieszkanka Irlandii
 eiriceacht - herezja
 eiriciúil - heretycki
 Eiritré - Erytrea
@@ -478,7 +478,7 @@ fabhcún - sokół
 fabhcún gorm - sokół wędrowny
 fabhcún tuaithe - białozór
 fad - długość
-fada - długi | daleki
+fada - długi, daleki
 faighin - pochwa
 fáinleog - jaskółka
 fáinne cluaise - kolczyk
@@ -493,8 +493,8 @@ fáthadh an gháire - uśmiech
 Feabhra - luty
 fead - gwizdek
 feamainn - wodorost
-fear - mężczyzna | mąż
-féar - trawa | siano
+fear - mężczyzna, mąż
+féar - trawa, siano
 fearán - gołąb
 fear bréige - strach na wróble
 fear céile - mąż
@@ -539,7 +539,7 @@ flannbhuí - pomarańczowy
 fo-bhaile - przedmieście
 fobhán - białawy
 fobhríste - majtki
-focail mhóra agus mogaill fholmha - wiele hałasu o nic | burza w szklance wody | wielkie słowa | a oczka (sieci) puste
+focail mhóra agus mogaill fholmha - wiele hałasu o nic, burza w szklance wody, wielkie słowa, a oczka (sieci) puste
 focal - słowo
 fo-cheannteideal - podtytuł
 focleolaí - filolog
@@ -548,7 +548,7 @@ fóibe - fobia
 foirnéis - piec
 folamh - pusty
 fo-mhírcheann - podtytuł
-fomhuireán - łódź podwodna | okręt podwodny
+fomhuireán - łódź podwodna, okręt podwodny
 foraois - las
 fo-rúibric - podtytuł
 fostaí - pracownik
@@ -591,7 +591,7 @@ gaofar - wietrzny
 garathair - pradziadek
 gariníon - wnuczka
 garmhac - wnuk
-garraí - ogród | pole
+garraí - ogród, pole
 garsún - chłopak
 gas - łodyga
 gás - gaz
@@ -600,7 +600,7 @@ gasta - szybki
 gasúr - chłopak
 geac - jak
 Geansaí - Guernsey
-géar - ostry | kwaśny
+géar - ostry, kwaśny
 Gearmáin - Niemcy
 gearrchapall - kucyk
 geimhreadh - zima
@@ -687,14 +687,14 @@ Indinéis - Indonezja
 infhaighte - dostępny
 infhaighteacht - dostępność
 infreastruchtúr - infrastruktura
-infridhearg - podczerwień | podczerwony
+infridhearg - podczerwień, podczerwony
 iníon - córka
 inléite - czytelny
 inné - wczoraj
 innealtóir - inżynier
 innealtóireacht - inżynieria
 in-nite - zmywalny
-inniu - dziś | dzisiaj
+inniu - dziś, dzisiaj
 inrochtaineacht - dostępność
 Iodáil - Włochy
 iolar - orzeł
@@ -708,13 +708,13 @@ Iorua - Norwegia
 Ioslamach - islamski
 iostán - chata
 iriseoireacht - dziennikarstwo
-is fearr éan sa dorn ná beirt sa tom - lepszy wróbel w garści niż gołąb na dachu | lepszy (jeden) ptak w garści niż dwa w krzakach
+is fearr éan sa dorn ná beirt sa tom - lepszy wróbel w garści niż gołąb na dachu, lepszy (jeden) ptak w garści niż dwa w krzakach
 is fuath le - nienawidzić
 ispín - kiełbasa
 ith - jeść
 Iúgslaiv - Jugosławia
 Iúil - lipiec
-jin - gin | dżin
+jin - gin, dżin
 lá - dzień
 labhair - mówić
 Labradar - Labrador
@@ -724,16 +724,16 @@ lachín - kaczątko
 lag - słaby
 laghairt - jaszczurka
 láib - błoto
-láidir - mocny | silny | intensywny
+láidir - mocny, silny, intensywny
 láithreoireacht - prezentacja
 Laitvia - Łotwa
 lámhainn - rękawiczka
 lampa - lampa
 lán - pełny
 lánstad - kropka
-laoch - wojownik | bohater
+laoch - wojownik, bohater
 laofheoil - cielęcina
-lapa - łapa | płetwa
+lapa - łapa, płetwa
 lárnach - centralny
 lártheifneoir - wirówka
 lasair - płomień
@@ -745,7 +745,7 @@ leadhbóg leathair - nietoperz
 leadóg - tenis
 leamhan - ćma
 leanbh - dziecko
-leann úll - jabłecznik | cydr
+leann úll - jabłecznik, cydr
 léarscáil - mapa
 leasainm - przydomek
 leasathair - ojczym
@@ -759,7 +759,7 @@ leictreon - elektron
 leictreonaic - elektronika
 leifteanant - porucznik
 léigh - czytać
-léine - koszula | tunika
+léine - koszula, tunika
 leon - lew
 leorga - wystarczający
 Leosóta - Lesotho
@@ -802,7 +802,7 @@ maighnéadach - magnetyczny
 máinlia - chirurg
 Máirt - wtorek
 mairteoil - wołowina
-máistir striapach - alfons | sutener
+máistir striapach - alfons, sutener
 maith - dobry
 malairt slí - objazd
 Maláiv - Malawi
@@ -811,14 +811,14 @@ Málta - Malta
 manach - mnich
 Manainn - Wyspa Man
 mangó - mango
-marcra - kawaleria | konnica
+marcra - kawaleria, konnica
 Márta - marzec
 másailéam - mauzoleum
 matamaitic - matematyka
 matamaiticiúil - matematyczny
 máthair - matka
 máthair shúigh - kalmar
-mé - ja | mnie
+mé - ja, mnie
 meaisín - maszyna
 mealbhacán - melon
 méanfach - ziewnięcie
@@ -842,17 +842,17 @@ mídhaonna - nieludzki
 mí-éifeacht - nieefektywność
 mí-éifeachtach - nieskuteczny
 mí-ionraic - nieuczciwy
-míle - mila | tysiąc
+míle - mila, tysiąc
 milis - słodki
 mill - zepsuć
 mímhacánta - nieuczciwy
 mímhorálta - niemoralny
 mímhoráltacht - niemoralność
 Mí na Nollag - grudzień
-minic - częsty | często
+minic - częsty, często
 minicíocht - częstotliwość
 mínormálta - nienormalny
-míol - zwierzę | stworzenie | owad | wesz
+míol - zwierzę, stworzenie, owad, wesz
 míol cnis - wesz
 mionphláinéad - asteroida
 miontúr - minaret
@@ -870,7 +870,7 @@ Montainéagró - Czarnogóra
 mór - duży
 mosc - meczet
 Moscó - Moskwa
-Moslamach - muzułmanin | muzułmański
+Moslamach - muzułmanin, muzułmański
 muc - świnia
 múinteoir - nauczyciel
 murnán - kostka
@@ -892,16 +892,16 @@ neamh - niebo
 neamhábharthacht - niematerialność
 neamhbhásmhaireacht - nieśmiertelność
 neamhbhásmhar - nieśmiertelny
-neamhdhíobhálach - niegroźny | nieszkodliwy
+neamhdhíobhálach - niegroźny, nieszkodliwy
 neamhdhleathach - nielegalny
 neamhfhoirfeacht - niedoskonałość
 neamhfhostaithe - bezrobotny
 neamhlitearthacht - analfabetyzm
 neamhní - nic
-neamhspleáchas - niepodległość | niezależność
+neamhspleáchas - niepodległość, niezależność
 neamhthábhacht - niematerialność
 néareolaíocht - neurologia
-neart - siła | potęga
+neart - siła, potęga
 neodracht - neutralność
 neoidimiam - neodym
 Nigéir - Nigeria
@@ -919,7 +919,7 @@ nua-aoiseach - nowoczesny
 nuachtán - gazeta
 nuair - kiedy
 Nua-Shéalainn - Nowa Zelandia
-núicléach - jądrowy | nuklearny
+núicléach - jądrowy, nuklearny
 óch - niestety
 ocht - osiem
 ócht - dziewictwo
@@ -959,7 +959,7 @@ Peadar - Piotr
 pearóid - papuga
 peileacán - pelikan
 péineas - penis
-péint - farba | kolor
+péint - farba, kolor
 péitseog - brzoskwinia
 Phortaingéil - Portaingéil
 pianmhar - bolesny
@@ -968,26 +968,26 @@ pinc - różowy
 piobar - pieprz
 pionósaigh - karać
 piorra - gruszka
-pit - srom | pochwa
+pit - srom, pochwa
 pláinéad - planeta
 plásóg fhéir - trawnik
 platanam - platyna
 plúirín sneachta - śnieżyczka przebiśnieg
 pluma - śliwka
-plúr - mąka | kwiat
+plúr - mąka, kwiat
 poblacht - republika
 poblachtachas - republikanizm
 poblachtánachas - republikanizm
 Poblacht na hAfraice Láir - Republika Środkowoafrykańska
 Poblacht na Seice - Czechy
 póca - kieszeń
-póg - całować | pocałunek
+póg - całować, pocałunek
 poiblí - publiczny
 Polainéis na Fraince - Polinezja Francuska
 Polainn - Polska
 Polainnis - język polski
 polaitiúil - polityczny
-Polannach - polski | polska | Polak | Polka
+Polannach - polski, polska, Polak, Polka
 poll ancaire - kotwicowisko
 pornagrafaíocht - pornografia
 Portaingéil - Portugalia
@@ -1010,7 +1010,7 @@ rachmasach - bogaty
 rachmasaí - kapitalista
 rachmasaíocht - kapitalizm
 radacachas - radykalizm
-radaighníomhaíocht - radioaktywność | promieniotwórczość
+radaighníomhaíocht - radioaktywność, promieniotwórczość
 raideog - woskownica europejska
 raidhfil - karabin
 raidió - radio
@@ -1023,7 +1023,7 @@ réalachas - realizm
 réalaíoch - realistyczny
 réaltacht - rzeczywistość
 reiligiúnach - religijny
-réiltín - asterysk | gwiazdka: *
+réiltín - asterysk, gwiazdka: *
 Réin - Ren
 réinfhia - renifer
 reiptíl - gad
@@ -1048,7 +1048,7 @@ ronnach - makrela
 rosualt - mors
 roth - koło
 rothar - rower
-rua - rudy (o włosach) | rdzawy | miedziany | czerwono-brązowy  brązowo-czerwony
+rua - rudy (o włosach), rdzawy, miedziany, czerwono-brązowy  brązowo-czerwony
 rúibín - rubin
 Rúis - Rosja
 rúitín - kostka
@@ -1064,7 +1064,7 @@ sail - brud
 Saimbia - Zambia
 salach - brudny
 salann - sól
-Samhain - listopad | Samhain
+Samhain - listopad, Samhain
 samhradh - lato
 Samó - Samoa
 sanasaíocht - etymologia
@@ -1117,7 +1117,7 @@ seandálaíocht - archeologia
 seanfhear - starzec
 seangán - mrówka
 seanmháthair - babka
-seánra - gatunek | rodzaj
+seánra - gatunek, rodzaj
 Seapáin - Japonia
 Seic - Czechy
 seilg - polowanie
@@ -1190,13 +1190,13 @@ Steafán - Stefan
 Stiofan - Stefan
 stroighin - cement
 Sualainn - Szwecja
-suanlios - akademik | dom studencki
+suanlios - akademik, dom studencki
 suantraí - kołysanka
 sú craobh - malina
 Súdáin - Sudan
-suí - suigh | posiedzenie
-súigh - ssać | absorbować
-súil - oko | nadzieja
+suí - suigh, posiedzenie
+súigh - ssać, absorbować
+súil - oko, nadzieja
 suimiúil - interesujący
 suipéar - kolacja
 sula - zanim
@@ -1209,7 +1209,7 @@ tae - herbata
 táirgeoir - producent
 taitin - błyszczeć
 taitneamh na gréine - światło słoneczne
-talamh - ziemia | ląd
+talamh - ziemia, ląd
 Talamh an Éisc - Nowa Fundlandia
 Talamh an Éisc agus Labradar - Nowa Fundlandia i Labrador
 talmhaíoch - rolniczy
@@ -1219,7 +1219,7 @@ taos fiacla - pasta do zębów
 tarbh - byk
 tarra - smoła
 tart - pragnienie
-te - ciepły | gorący
+te - ciepły, gorący
 teach - dom
 teachín tuaithe - chata
 teach solais - latarnia morska
@@ -1241,7 +1241,7 @@ teileafón - telefon
 teileagraf - telegraf
 téip - taśma
 teochriosach - tropikalny
-teocht - ciepło | temperatura
+teocht - ciepło, temperatura
 teoiric - teoria
 teoiriciúil - teoretyczny
 tine - ogień
@@ -1268,9 +1268,9 @@ torrach - w ciąży
 traidisiún - tradycja
 tráta - pomidor
 tráthnóna maith agat - dobry wieczór
-trí - trzy | 3
-tríocha - trzydzieści | 30
-trócaire - litość | miłosierdzie
+trí - trzy, 3
+tríocha - trzydzieści, 30
+trócaire - litość, miłosierdzie
 trodaí - wojownik
 troimpéad - trąbka
 troitheán - pedał
@@ -1288,9 +1288,9 @@ túr - wieża
 turas - wycieczka
 turas oilithreachta - pielgrzymka
 turasóir - turysta
-Turcach - Turek | turecki
+Turcach - Turek, turecki
 turtar - żółw
-tús - początek | start
+tús - początek, start
 tús maith leath na hoibre - dobry początek jest połową pracy
 uachtar reoite - lody
 uaigh - grób
@@ -1312,15 +1312,15 @@ ulchabhán - sowa
 ullmhaigh - przygotowywać
 uncail - wujek
 Ungáir - Węgry
-úr - nowy | świeży
+úr - nowy, świeży
 Uragua - Urugwaj
 urlabhairt - artykulacja
 urlabhra aonair - idiolekt
 urlabhraíocht - artykulacja
 urlaic - wymiotować
 urraitheoir - sponsor
-urramaigh - szanować | czcić
-úsáid - używać | korzystać z
+urramaigh - szanować, czcić
+úsáid - używać, korzystać z
 úsáideoir - użytkownik
 vacsaín - szczepionka
 vaigín - wagon

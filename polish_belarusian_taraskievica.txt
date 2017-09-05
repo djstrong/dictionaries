@@ -21,7 +21,7 @@ amerykański - амэрыканскі
 Ameryka Północna - Паўночная Амэрыка f
 Ameryka Południowa - Паўднёвая Амэрыка f
 amper - ампэр m
-analfabetyzm - няпісьменнасьць f | няграматнасьць f
+analfabetyzm - няпісьменнасьць f, няграматнасьць f
 analogia - аналёгія f
 analogiczny - аналягічны
 anonimowość - ананімнасьць f
@@ -68,7 +68,7 @@ biologia - біялёгія f
 biologiczny - біялягічны
 biotechnologia - біятэхналёгія f
 biskup - біскуп m
-Bizancjum - Бізантый m | Бізантыя f
+Bizancjum - Бізантый m, Бізантыя f
 bizantyjski - бізантыйскі
 bizantyński - бізантыйскі
 biznes - бізнэс m
@@ -80,8 +80,8 @@ Bośnia i Hercegowina - Босьнія і Герцагавіна
 Brazylia - Бразылія f
 Bronisław - Браніслаў m
 Bułgar - баўгарын m
-Bułgaria - Баўгарыя | Baŭharyja
-bułgarski - баўгарскі | баўгарская мова f
+Bułgaria - Баўгарыя, Baŭharyja
+bułgarski - баўгарскі, баўгарская мова f
 cer - цэр m
 cez - цэз m
 chlor - хлёр m
@@ -153,7 +153,7 @@ forteca - фартэцыя f
 frans - франц m
 frazeologia - фразэалёгія f
 frazeologiczny - фразэалягічны
-ftyzjatra - пульманоляг m | пульманоляг f
+ftyzjatra - пульманоляг m, пульманоляг f
 gadolin - гадалін m
 gal - галь m
 genetyczny - генэтычны
@@ -203,7 +203,7 @@ język obcy - чужаземная мова f
 judofob - антысэміт m
 kaliforn - каліфорн m
 kaloria - калёрыя f
-kataloński - каталянскі | каталёнскі | каталянская мова f | каталёнская мова f
+kataloński - каталянскі, каталёнскі, каталянская мова f, каталёнская мова f
 kazanie - казаньне n
 kilogram - кіляграм m
 kiur - кюр m
@@ -226,7 +226,7 @@ ksenofobia - ксэнафобія f
 kulomb - кулён m
 kwas chlebowy - квас m
 lantan - лянтан m
-lekarz chorób płuc - пульманоляг m | пульманоляг f
+lekarz chorób płuc - пульманоляг m, пульманоляг f
 leksykologia - лексыкалёгія f
 lesbijka - лесьбіянка f
 lit - літ m
@@ -239,7 +239,7 @@ logiko - лёгіка f
 lorens - лаўрэнс m
 Luksemburg - Люксэмбург m
 lutet - лютэц m
-magnez - магн m | магнэз m
+magnez - магн m, магнэз m
 małoduszność - маладушнасьць f
 medycyna - мэдыцына f
 meitner - майтнэр m
@@ -278,7 +278,7 @@ ołów - волава f
 oologia - аалёгія f
 osm - осм m
 owadoznawstwo - энтамалёгія f
-padalec - вераценьніца f | мядзянка f
+padalec - вераценьніца f, мядзянка f
 pallad - паляд m
 parlament - парлямэнт m
 parlamentarny - парлямэнцкі
@@ -292,14 +292,14 @@ planta - расьліна f
 Platon - Плятон m
 platyna - плятына f
 platynowy - плятынавы
-pluton - плютон | зьвяз m
-pneumonolog - пульманоляг m | пульманоляг f
-pobożność - пабожнасьць f | багабойнасьць f
+pluton - плютон, зьвяз m
+pneumonolog - пульманоляг m, пульманоляг f
+pobożność - пабожнасьць f, багабойнасьць f
 północnoamerykański - паўночнаамэрыканскі
 polon - палён m
 południowoamerykański - паўднёваамэрыканскі
 powstanie styczniowe - паўстаньне 1863—1864 гадоў n
-prawdopodobieństwo - праўдападобнасьць | вераемнасьць f | імавернасьць f
+prawdopodobieństwo - праўдападобнасьць, вераемнасьць f, імавернасьць f
 prezes - прэзыдэнт m
 prezydent - прэзыдэнт m
 produkt krajowy brutto - сукупны ўнутраны прадукт m
@@ -317,7 +317,7 @@ psychologiczny - псыхалягічны
 psychopata - псыхапат m
 psychopatyczny - псыхапатычны
 psychoza - псыхоз m
-pulmonolog - пульманоляг m | пульманоляг f
+pulmonolog - пульманоляг m, пульманоляг f
 pulmonologia - пульманалёгія f
 pustelnik - пустэльнік m
 rad - рад m
@@ -372,7 +372,7 @@ symboliczny - сымбалічны
 syntetyczny - сынтэтычны
 synteza - сынтэз m
 system - сыстэма f
-sztuczny - штучны | сынтэтычны
+sztuczny - штучны, сынтэтычны
 Szwajcaria - Швайцарыя f
 Szwajcarka - швайцарка f
 szwajcarski - швайцарскі
@@ -393,7 +393,7 @@ tragikomedia - трагікамэдыя f
 tuberkuloza - тубэркулёз m
 tul - туль m
 Tunezja - Туніс
-Turcja - Турцыя | Турэччына
+Turcja - Турцыя, Турэччына
 twórczość - творчасьць
 układ - сыстэма f
 Układ Słoneczny - Сонечная сыстэма f
@@ -405,20 +405,20 @@ ununoctium - унунокт m
 ununpentium - унунпэнт m
 ununseptium - унунсэпт m
 wacha - вада (wada)
-Walia - Валія f | Ўэльс
+Walia - Валія f, Ўэльс
 wanad - ванад m
-wapń - вапень m | кальц m
+wapń - вапень m, кальц m
 wdzięczność - ўдзячнасьць f
 wegetarianizm - вэгетарыянства n
-Węgier - вэнгерац m | вугорец m
-Węgry - Вэнгрыя f | Вугоршчына f
+Węgier - вэнгерац m, вугорец m
+Węgry - Вэнгрыя f, Вугоршчына f
 Wenecja - Вэнэцыя f
 Wenezuela - Вэнэсуэла f
 Wenezuelczyk - вэнэсуэлец m
 Wenezuelka - вэнэсуэлька f
 wenezuelski - вэнэсуэльскі
 Westa - Вэста f
-Wielka Brytania - Вялікая Брытанія f | Вялікабрытанія f
+Wielka Brytania - Вялікая Брытанія f, Вялікабрытанія f
 Wikipedia - Вікіпэдыя
 woda - вада (wada)
 Wschód - Блізкі Ўсход m

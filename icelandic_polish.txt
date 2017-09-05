@@ -1,84 +1,84 @@
-á - rzeka | potok | na | w | w ciągu | po
-áætlun - plan | zamiar
+á - rzeka, potok, na, w, w ciągu, po
+áætlun - plan, zamiar
 ábætir - deser
 abasínska - język abazyński
 ábatasamur - korzystny
 abbadís - przeorysza
-abbast - dręczyć | męczyć | prześladować
-ábending - komentarz | opinia | uwaga | rada | porada | wskazówka
+abbast - dręczyć, męczyć, prześladować
+ábending - komentarz, opinia, uwaga, rada, porada, wskazówka
 ábendingarfornafn - zaimek wskazujący
-áberandi - uderzający | wydatny | rzucający się w oczy
+áberandi - uderzający, wydatny, rzucający się w oczy
 áblásturssótt - opryszczka zwykła
 aborri - okoń
-ábótavant - wadliwy | niedoskonały
+ábótavant - wadliwy, niedoskonały
 ábóti - opat
-ábreiða - koc | derka | pokrowiec
-áburður - maść | krem | łajno | obornik | nawóz | zniesławienie | potwarz
-ábyggilega - pewnie | z pewnością | zdecydowanie
-ábyggilegur - pewny | godzien zaufania
-ábyrgð - odpowiedzialność | gwarancja | poręczenie
+ábreiða - koc, derka, pokrowiec
+áburður - maść, krem, łajno, obornik, nawóz, zniesławienie, potwarz
+ábyggilega - pewnie, z pewnością, zdecydowanie
+ábyggilegur - pewny, godzien zaufania
+ábyrgð - odpowiedzialność, gwarancja, poręczenie
 ábyrgðarlaus - nieodpowiedzialny
-ábyrgðarmikill - w pełni odpowiedzialny | o wielkiej odpowiedzialności
-ábyrgjast - brać odpowiedzialność | gwarantować | poręczyć
+ábyrgðarmikill - w pełni odpowiedzialny, o wielkiej odpowiedzialności
+ábyrgjast - brać odpowiedzialność, gwarantować, poręczyć
 ábyrgur - odpowiedzialny
-að - w górę | do góry | w | że
-aðal- - główny | pierwszoplanowy
-aðalbraut - główna ulica | główna arteria
-aðaldyr - główne wejście | główna brama
+að - w górę, do góry, w, że
+aðal- - główny, pierwszoplanowy
+aðalbraut - główna ulica, główna arteria
+aðaldyr - główne wejście, główna brama
 aðalforstjóri - dyrektor generalny
 aðalgata - ulica główna
 aðalhlutverk - główna rola
-aðall - szlachta | arystokracja
-aðallega - przede wszyskim | głównie
+aðall - szlachta, arystokracja
+aðallega - przede wszyskim, głównie
 aðalræðismaður - konsul generalny
 aðalréttur - danie główne
 aðalsmaður - szlachcic
-áðan - przed chwilą | właśnie co | dopiero co
-aðbúnaður - warunki | opieka
-aðdáanlegur - wspaniały | godny podziwu
+áðan - przed chwilą, właśnie co, dopiero co
+aðbúnaður - warunki, opieka
+aðdáanlegur - wspaniały, godny podziwu
 aðdáun - podziw
-aðdáunarverður - wspaniały | godny podziwu
-aðdráttarafl - przyciąganie | powab
-aðdróttun - aluzja | insynuacja
+aðdáunarverður - wspaniały, godny podziwu
+aðdráttarafl - przyciąganie, powab
+aðdróttun - aluzja, insynuacja
 ádeila - krytyka
 aðeins - tylko
 aðfangadagskvöld - Wigilia Bożego Narodzenia
-aðferð - metoda | procedura | postępowanie
-aðfinnsla - nagana | przygana
+aðferð - metoda, procedura, postępowanie
+aðfinnsla - nagana, przygana
 aðflutningsbann - zakaz przywozu/importu
-aðflutningur - przywóz | import
-aðgangur - wstęp | dostęp
-aðgengilegur - dopuszczalny | akceptowalny | przystępny | łatwo dostępny
+aðflutningur - przywóz, import
+aðgangur - wstęp, dostęp
+aðgengilegur - dopuszczalny, akceptowalny, przystępny, łatwo dostępny
 aðlaðandi - atrakcyjny
 að minnsta kosti - przynajmniej
 aðmíráll - admirał
-að nýju - na nowo | od nowa
-ádrepa - reprymenda | bura
-Adríahaf - Morze Adriatyckie | Adriatyk
-að sönnu - co prawda | trzeba przyznać
+að nýju - na nowo, od nowa
+ádrepa - reprymenda, bura
+Adríahaf - Morze Adriatyckie, Adriatyk
+að sönnu - co prawda, trzeba przyznać
 aðstoðarmaður - asystent
-áður - przedtem | poprzednio | wcześniej | áður en
-áður en - zanim | nim
+áður - przedtem, poprzednio, wcześniej, áður en
+áður en - zanim, nim
 aðvara - ostrzegać
-að vera í úlfakreppu - być w tarapatach | być w opałach
-æfing - trening | ćwiczenie | próba
-æfur - wściekły | rozjuszony
-ægir - morze | ocean
+að vera í úlfakreppu - być w tarapatach, być w opałach
+æfing - trening, ćwiczenie, próba
+æfur - wściekły, rozjuszony
+ægir - morze, ocean
 ær - owca
 æsingur - ekscytacja
 æskilegur - pożądany
 ætisveppur - pieczarka
 ætiþistill - karczoch
-ætla - mieć zamiar | chcieć | wierzyć | mieć nadzieję | oczekiwać
+ætla - mieć zamiar, chcieć, wierzyć, mieć nadzieję, oczekiwać
 ætlast - spodziewać się
-ætlun - cel | zamiar | intencja
-ætt - ród | rodzina | dynastia | rodzina językowa | kierunek świata | kierunek wiatru
-ættaður - urodzony | z urodzenia | pochodzący z… | mający swe korzenie w…
+ætlun - cel, zamiar, intencja
+ætt - ród, rodzina, dynastia, rodzina językowa, kierunek świata, kierunek wiatru
+ættaður - urodzony, z urodzenia, pochodzący z…, mający swe korzenie w…
 ætterni - pochodzenie
 ættfræði - genealogia
 ættingi - krewny
 ætur - jadalny
-ævintýri - przygoda | bajka
+ævintýri - przygoda, bajka
 æxlafræði - onkologia
 afbrot - przestępstwo
 afbrýði - zazdrość
@@ -86,13 +86,13 @@ afbrýðisamur - zazdrosny
 áfengi - alkohol
 áfengisbann - prohibicja
 áfengur - alkoholowy
-af hverju - czemu | dlaczego
+af hverju - czemu, dlaczego
 afi - dziadek
 áfir - maślanka
 afkomandi - potomek
 afkvæmi - potomstwo
 afmæli - urodziny
-afmælisdagur - urodziny | dzień urodzin
+afmælisdagur - urodziny, dzień urodzin
 Afríka - Afryka
 afríkanska - afrykanerski
 afríkanskur - afrykański
@@ -104,17 +104,17 @@ afturbeygður - zwrotny
 afturbeygt fornafn - zaimek zwrotny
 afturelding - świtanie
 afturhólf - komora tylna gałki ocznej
-af því að - ponieważ | bo
+af því að - ponieważ, bo
 ágæti - doskonałość
 agúrka - ogórek
 ágúst - sierpień
 áhætta - ryzyko
 áhorfandi - widz
 ahorntré - klon
-áhugasamur - zainteresowany | zafascynowany
+áhugasamur - zainteresowany, zafascynowany
 aímaríska - język ajmara
 aíníska - język ajnu ( ajni, ejnu, abdal)
-aka - jechać | prowadzić samochód | wić się | wiercić się
+aka - jechać, prowadzić samochód, wić się, wiercić się
 Akabaflói - Zatoka Akaba
 akademía - akademia
 akanmál - język akan
@@ -122,7 +122,7 @@ akkeri - kotwica
 akkúrat - dokładnie
 akur - pole
 Akureyri - miasto handlowe w północnej Islandii
-akurgæs - gęś zbożowa | posiewnica
+akurgæs - gęś zbożowa, posiewnica
 ál - glin
 alabastur - alabaster
 albani - Albańczyk
@@ -132,95 +132,95 @@ albanskur - albański
 albínói - albinos
 albúm - album
 alda - fala
-aldeilis - zupełnie | kompletnie
+aldeilis - zupełnie, kompletnie
 aldin - owoc
 aldrei - nigdy
-aldrei of seint að verða hamingjusamur - nigdy nie jest za późno na szczęście | nigdy za późno | by stać się szczęśliwym
+aldrei of seint að verða hamingjusamur - nigdy nie jest za późno na szczęście, nigdy za późno, by stać się szczęśliwym
 alemanníska - język/dialekt alemański
 aleutíska - język aleucki
 Alexander - Aleksander
 álfa - kontynent
 alfræðibók - encyklopedia
 Alfreð - Alfred
-algengur - zwykły | zwyczajny | powszechny
+algengur - zwykły, zwyczajny, powszechny
 algyðistrú - panteizm
-alheimur - wszechświat | kosmos
+alheimur - wszechświat, kosmos
 áll - węgorz
 allavega - pod każdym względem
 alloft - dość często
 alls - ogółem
-alls ekki - w żadnym razie | wcale nie
-allskonar - wszelaki | wszelakiego pokroju
+alls ekki - w żadnym razie, wcale nie
+allskonar - wszelaki, wszelakiego pokroju
 allsstaðar - wszędzie
 alls staðar - wszędzie
 alltaf - zawsze
 allt er gott sem endar vel - wszystko dobre, co się dobrze kończy
 allt í einu - nagle
-alltof - nazbyt | zbytnio | o wiele za
-allur - wszystek | cały | "wszystko" allt | zmarły | zakończony
-allvel - całkiem dobrze | dość dobrze
+alltof - nazbyt, zbytnio, o wiele za
+allur - wszystek, cały, "wszystko" allt, zmarły, zakończony
+allvel - całkiem dobrze, dość dobrze
 almanak - kalendarz
 álmur - wiąz
 Alpafjöll - Alpy
-alsatíska - język alzacki | gwara alzacka
+alsatíska - język alzacki, gwara alzacka
 Alsír - Algieria
 altari - ołtarz
 alur - szydło
-alvarlega - poważnie | serio | na serio
+alvarlega - poważnie, serio, na serio
 alvarlegur - poważny
-alveg - całkowicie | kompletnie
-Alþingi - Althing | islandzki parlament
-alþjóðlegur - międzynarodowy | internacjonalny | taki | który zna świat | różne kraje | stosuje międzynarodowe standardy | światowy
+alveg - całkowicie, kompletnie
+Alþingi - Althing, islandzki parlament
+alþjóðlegur - międzynarodowy, internacjonalny, taki, który zna świat, różne kraje, stosuje międzynarodowe standardy, światowy
 alþýðulýðveldi - republika ludowa
 Alþýðulýðveldið Kína - Chińska Republika Ludowa
 amaba - ameba
-Ameríka - Ameryka | USA
+Ameríka - Ameryka, USA
 ameríkín - ameryk
 amfetamín - amfetamina
 amharíska - język amharski
 amma - babcia
 á morgun - jutro
-á móts við - naprzeciwko | vis-à-vis
+á móts við - naprzeciwko, vis-à-vis
 án - bez
-ánægður - zadowolony | usatysfakcjonowany
+ánægður - zadowolony, usatysfakcjonowany
 ánægja - przyjemność
 ananas - ananas
 andartak - moment
 andarungi - kaczątko
-anddyri - wejście | sień | przedsionek
+anddyri - wejście, sień, przedsionek
 andfélagslegur - aspołeczny
 andheiti - antonim
-andi - dech | oddech | duch
+andi - dech, oddech, duch
 andlangs herra - bóg
 andlát - śmierć
-andlit - twarz | oblicze
+andlit - twarz, oblicze
 Andorra - Andora
-andstaða - opór | sprzeciw | opozycja
-andvana - martwy | bez życia
+andstaða - opór, sprzeciw, opozycja
+andvana - martwy, bez życia
 Angóla - Angola
-anjón - anion | jon ujemny
+anjón - anion, jon ujemny
 annar - inny
 apalhraun - aa (rodzaj lawy bazaltowej)
 api - małpa
 apótek - apteka
-apótekari - aptekarz | farmaceuta
+apótekari - aptekarz, farmaceuta
 appelsína - pomarańcza
 appelsínugulur - pomarańczowy
 aprikósa - morela
 aprikósutré - morela
 apríl - kwiecień
-ár - wiosło | rok
+ár - wiosło, rok
 arabíska - język arabski
 Arabíuskaginn - Półwysep Arabski
 aragónska - język aragoński
 árangur - sukces
 árás - atak
-áratugur - dekada | dziesięciolecie
-Argentína - Argentyna | państwo w Ameryce Południowej
+áratugur - dekada, dziesięciolecie
+Argentína - Argentyna, państwo w Ameryce Południowej
 argon - argon
-argur - zły | rozgniewany
-árhundrað - stulecie | wiek
-áríðandi - nagły | pilny
+argur - zły, rozgniewany
+árhundrað - stulecie, wiek
+áríðandi - nagły, pilny
 Aristóteles - Arystoteles
 arkitekt - architekt
 árla - wcześnie
@@ -228,7 +228,7 @@ armband - bransoleta
 armbandsúr - zegarek na rękę
 Armenía - Armenia
 armenska - język ormiański
-armur - ramię | poręcz
+armur - ramię, poręcz
 árós - ujście
 ársfjórðungur - kwartał
 árstíð - pora roku
@@ -237,8 +237,8 @@ armur - ramię | poręcz
 Aserbaídsjan - Azerbejdżan
 Asía - Azja
 aska - popiół
-askja - pudełko | pojemnik | kaldera
-áskrifandi - abonent | prenumerator
+askja - pudełko, pojemnik, kaldera
+áskrifandi - abonent, prenumerator
 áskrift - subskrypcja
 asni - osioł
 á sömu stund - w tym samym czasie
@@ -246,19 +246,19 @@ aspirín - aspiryna
 ást - miłość
 astat - astat
 Ástralía - Australia
-ástúð - miłość | uczucie
+ástúð - miłość, uczucie
 at - walka
-átaksvæði - strefa konfliktu | obszar ogarnięty walką
-athuga - obserwować | rozważać | rozpatrywać
-athugun - obserwacja | rozważanie
+átaksvæði - strefa konfliktu, obszar ogarnięty walką
+athuga - obserwować, rozważać, rozpatrywać
+athugun - obserwacja, rozważanie
 athyglisverður - interesujący
-átján - osiemnaście | 18
+átján - osiemnaście, 18
 átjándi - osiemnasty
-atkvæði - sylaba | głos (w wyborach)
+atkvæði - sylaba, głos (w wyborach)
 Atlantshaf - Ocean Atlantycki
-Atlantshafsbandalagið - Pakt Północnoatlantycki | NATO
+Atlantshafsbandalagið - Pakt Północnoatlantycki, NATO
 atómkjarni - jądro atomowe
-átta - osiem | 8
+átta - osiem, 8
 áttundi - ósmy
 atviksorð - przysłówek
 atvinnulaus - bezrobotny
@@ -268,27 +268,27 @@ auðugur - bogaty
 auðvald - kapitalizm
 auðvitað - oczywiście
 auga - oko
-augabragð - mgnienie oka | chwila
+augabragð - mgnienie oka, chwila
 augabrún - brew
 augasteinn - źrenica
-augljós - jasny | oczywisty
+augljós - jasny, oczywisty
 augljóslega - oczywiście
 auglýsing - reklama
-augnablik - mgnienie oka | moment
+augnablik - mgnienie oka, moment
 augnabrún - brew
 augnahár - rzęsy
 augnalok - powieka
 augnaráð - rzut oka
 augnatillit - rzut oka
-augnayndi - balsam na rany | ukojenie
+augnayndi - balsam na rany, ukojenie
 augnhár - rzęsy
 augnlæknir - okulista
 augnlæknisfræði - okulistyka
 augnveiki - choroba oczu
-auk - oprócz | w dodatku
-auka - powiększać | zwiększać | powiększać się | rosnąć
-aukast - rosnąć | auka
-austur - na wschód | w kierunku wschodnim | wschód
+auk - oprócz, w dodatku
+auka - powiększać, zwiększać, powiększać się, rosnąć
+aukast - rosnąć, auka
+austur - na wschód, w kierunku wschodnim, wschód
 Austur-Evrópa - Europa Wschodnia
 Austurríki - Austria
 Austurríkismaður - Austriak
@@ -299,29 +299,29 @@ avókadó - awokado
 ávöxtur - owoc
 Aþena - Ateny
 áþján - tyrania
-bað - kąpiel | łazienka
-baða - kąpać | kąpać się
+bað - kąpiel, łazienka
+baða - kąpać, kąpać się
 baðföt - kostium kąpielowy
 baðherbergi - łazienka
 baðkar - wanna
 baðströnd - plaża kąpieliskowa
 bæn - modlitwa
-bær - farma | gospodarstwo | miasto | miasteczko
+bær - farma, gospodarstwo, miasto, miasteczko
 bætiefni - witamina
-bak - plecy | za
+bak - plecy, za
 baka - piec
 bakari - piekarz
 bakarí - piekarnia
 bakpoki - plecak
-baktería - bakteria | zarazek
+baktería - bakteria, zarazek
 bak við - za
-bálkur - sekcja | podział | przegroda
+bálkur - sekcja, podział, przegroda
 ball - taniec
 balsamikedik - ocet balsamiczny
 bambus - bambus
 bananatré - drzewo bananowe
 banani - banan
-band - wstęga | wstążka | nić | przędza | więź
+band - wstęga, wstążka, nić, przędza, więź
 Bandaríkin - Stany Zjednoczone
 Bandaríki Norður-Ameríku - Stany Zjednoczone Ameryki
 bandarískur - amerykański (dotyczący Stanów Zjednoczonych)
@@ -332,7 +332,7 @@ banna - zabraniać
 bannaður - zakazany
 bannhelgi - tabu
 bar - bar
-bara - tylko | jeśli tylko
+bara - tylko, jeśli tylko
 bára - fala
 barbari - barbarzyńca
 barki - tchawica
@@ -343,12 +343,12 @@ barnagull - zabawki
 barnalæknir - pediatra
 barnshafandi - w ciąży
 barón - baron
-barrfinka - czyż | czyżyk
+barrfinka - czyż, czyżyk
 barrtré - drzewo iglaste
 basilíka - bazylia
-bátur - łódź | łódka
+bátur - łódź, łódka
 baugfingur - palec serdeczny
-bauja - boja | pława
+bauja - boja, pława
 baun - fasola
 bavían - pawian
 bavíani - pawian
@@ -356,7 +356,7 @@ beikon - boczek
 bein - kość
 beinagrind - szkielet
 beitilyng - wrzos
-bekkur - ławka | klasa
+bekkur - ławka, klasa
 belgbólga - zapalenie kaletki maziowej
 Belgía - Belgia
 belgiari - Belgijczyk
@@ -371,20 +371,20 @@ ber - jagoda
 bera í bakkafullan lækinn - nosić drwa do lasu
 bergkristall - kryształ górski
 bergkvika - magma
-berja - uderzać | smarować się czymś | malować się czymś | bić się | walczyć
+berja - uderzać, smarować się czymś, malować się czymś, bić się, walczyć
 berklar - gruźlica
 berlínarbolla - pączek
 beryllín - beryl
 bestur - najlepszy
 betri - lepszy
 betur - lepiej
-betur sjá augu en auga - co dwie głowy, to nie jedna | lepiej widzą oczy niż oko
+betur sjá augu en auga - co dwie głowy, to nie jedna, lepiej widzą oczy niż oko
 beyging - odmiana
-beygja - zakręt | zginać | skręcać | poddawać się
+beygja - zakręt, zginać, skręcać, poddawać się
 beykitré - buk
 Bhútan - Bhutan
 biblía - Biblia
-bið - czekanie | zwłoka
+bið - czekanie, zwłoka
 bíða - czekać
 biðröð - kolejka
 bifreið - samochód
@@ -398,44 +398,44 @@ bíó - kino
 bíómynd - film
 birgja - dostarczyć
 birkiskóf - przylepka szorstka
-biskup - biskup | goniec | laufer
+biskup - biskup, goniec, laufer
 bismút - bizmut
-bíta - gryźć | żądlić | ciąć | być ostrym | kłócić się | gryźć się
+bíta - gryźć, żądlić, ciąć, być ostrym, kłócić się, gryźć się
 bjartsýni - optymizm
 bjartsýnn - optymistyczny
-bjóða - proponować | oferować | zapraszać | rozkazywać | nakazywać | obrzydzać | odstręczać | wystawić na sprzedaż | wystawić na aukcji
+bjóða - proponować, oferować, zapraszać, rozkazywać, nakazywać, obrzydzać, odstręczać, wystawić na sprzedaż, wystawić na aukcji
 bjóðast - proponować
-bjór - piwo | bóbr
-björg - pomoc | ratunek
+bjór - piwo, bóbr
+björg - pomoc, ratunek
 Björgvin - Bergen
 björk - brzoza
 björn - niedźwiedź
 Björn - imię męskie
 bláber - czarna jagoda
-blað - liść | ostrze | klinga | gazeta (dziennik, czasopismo, magazyn) | strona | stronica | kartka | arkusz | łopata | płat czołowy (mózgu)
+blað - liść, ostrze, klinga, gazeta (dziennik, czasopismo, magazyn), strona, stronica, kartka, arkusz, łopata, płat czołowy (mózgu)
 blaðamaður - dziennikarz (prasowy)
 blaðamannafundur - konferencja prasowa
 blaðlaukur - por
-blak - lekkie uderzenie | siatkówka | piłka siatkowa
+blak - lekkie uderzenie, siatkówka, piłka siatkowa
 blámygluostur - ser pleśniowy
 blár - kolor niebieski
 blátt blóð - błękitna krew
 blautur - mokry
 blessa - błogosławić
 blettatígur - gepard
-blíða - łagodność | subtelność | miłość | afekt | ładna pogoda
+blíða - łagodność, subtelność, miłość, afekt, ładna pogoda
 blindfullur - pijany jak bela
 blindur - ślepy
 blístra - gwizdać
 blóð - krew
-blóðflaga - trombocyt | płytka krwi
+blóðflaga - trombocyt, płytka krwi
 blóðkorn - ciałko krwi
 blóðmör - krwawa kiszka
 blóðsermi - surowica krwi
 blóðvatn - surowica krwi
 blóðvökvi - osocze krwi
 blogg - blog
-blogga - blogować | prowadzić bloga
+blogga - blogować, prowadzić bloga
 blokk - blok mieszkalny
 blóm - kwiat
 blómkál - kalafior
@@ -443,17 +443,17 @@ blóraböggull - kozioł ofiarny
 blússa - bluzka
 blý - ołów
 blýantur - ołówek
-BNA - USA | Stany Zjednoczone Ameryki
-boð - wiadomość | rozkaz | nakaz | oferta | przyjęcie | impreza | bankiet
-boða - prorokować | oświadczać
-boðberi - posłaniec | goniec
+BNA - USA, Stany Zjednoczone Ameryki
+boð - wiadomość, rozkaz, nakaz, oferta, przyjęcie, impreza, bankiet
+boða - prorokować, oświadczać
+boðberi - posłaniec, goniec
 boðháttur - tryb rozkazujący
 boðorð - przykazanie
 böðull - kat
-bogi - łuk | krzywa | broń wyrzucająca strzały
+bogi - łuk, krzywa, broń wyrzucająca strzały
 bogmaður - strzelec
 Bogmaðurinn - Strzelec
-bók - książka | księga
+bók - książka, księga
 bókabúð - księgarnia
 bókarkápa - obwoluta (do książki)
 bókasafn - biblioteka
@@ -472,25 +472,25 @@ Bólivía - Boliwia
 bolli - filiżanka
 bólstraberg - lawa poduszkowa
 bolti - piłka
-bolur - tułów | pień | t-shirt | koszulka
+bolur - tułów, pień, t-shirt, koszulka
 bölva og ragna - przeklinać
 bóndabær - farma
-bóndi - rolnik | gospodarz | mąż
+bóndi - rolnik, gospodarz, mąż
 bónorð - oświadczyny
 bór - bor
-borð - stół | biurko | burta
+borð - stół, biurko, burta
 borða - jeść
-borg - miasto | zamek | fortyfikacja
-borgari - mieszkaniec | obywatel
-borgarstjóri - burmistrz | prezydent miasta
-börkur - kora (drzewa) | skórka (owocu)
+borg - miasto, zamek, fortyfikacja
+borgari - mieszkaniec, obywatel
+borgarstjóri - burmistrz, prezydent miasta
+börkur - kora (drzewa), skórka (owocu)
 Bosnía - Bośnia
-bót - lek | lekarstwo | łata | rekompensata | zadośćuczynienie | odszkodowanie
-bótúlíneitrun - zatrucie jadem kiełbasianym | botulizm
+bót - lek, lekarstwo, łata, rekompensata, zadośćuczynienie, odszkodowanie
+bótúlíneitrun - zatrucie jadem kiełbasianym, botulizm
 bráðinn - rozpuszczony
-bráðna - rozpuszczać | rozpuszczać się
-bragð - sztuczka | podstęp | trik | smak | spojrzenie
-bragða - smakować | próbować
+bráðna - rozpuszczać, rozpuszczać się
+bragð - sztuczka, podstęp, trik, smak, spojrzenie
+bragða - smakować, próbować
 bragðast - smakować zobacz: bragða
 brandari - żart
 Brasilía - Brazylia
@@ -499,8 +499,8 @@ brauðbúð - piekarnia
 brauðdeig - ciasto na chleb
 brauðhleifur - bochenek
 brauðsneið - kromka (chleba)
-braut - droga | ścieżka
-bréf - list | dokument | papier
+braut - droga, ścieżka
+bréf - list, dokument, papier
 bregðast við - reagować
 breiðstræti - aleja
 breiður - szeroki
@@ -508,17 +508,17 @@ brennisteinn - siarka
 breskur - brytyjski
 Breti - Brytyjczyk
 Bretland - Brytania
-breyta - zmieniać | przemieniać | postępować | zmieniać się | ulegać zmianom
-breyta einhverju frá rætum - zmieniać coś gruntownie | radykalnie
+breyta - zmieniać, przemieniać, postępować, zmieniać się, ulegać zmianom
+breyta einhverju frá rætum - zmieniać coś gruntownie, radykalnie
 breytilegur - zmienny
-breyting - zmiana | przemiana
+breyting - zmiana, przemiana
 brjóst - pierś
 brjóstahaldari - biustonosz
 brjóstbarn - niemowlę
 brjóstkassi - klatka piersiowa
 brjóstsykur - słodycze
 brjóta heilann - łamać sobie nad czymś głowę
-broddgöltur - jeż | jeżozwierz
+broddgöltur - jeż, jeżozwierz
 broddsúla - obelisk
 bróðir - brat
 bróðurdóttir - bratanica ( córka brata)
@@ -528,25 +528,25 @@ brómber - jeżyna
 bros - uśmiech
 brosa - uśmiechać się
 brú - most
-brúða - lalka | marionetka
+brúða - lalka, marionetka
 brúðgumi - pan młody
 brugghús - browar
 brum - pąk
-brún - krawędź | brew
+brún - krawędź, brew
 brundur - sperma
 Brúnei - Brunei
 brúnn - brązowy
-brunnur - źródło | studnia
+brunnur - źródło, studnia
 bryggja - molo
 búa - mieszkać
 búð - sklep
 budda - portmonetka
 búfé - żywy inwentarz
-buff - stek | befsztyk
-búinn - wyposażony | przygotowany | gotów
+buff - stek, befsztyk
+búinn - wyposażony, przygotowany, gotów
 Búlgaría - Bułgaria
 búlgarska - język bułgarski
-búr - spiżarnia | klatka
+búr - spiżarnia, klatka
 Búrkína Fasó - Burkina Faso
 Búrma - Birma
 bústaður - miejsce zamieszkania
@@ -554,25 +554,25 @@ býfluga - pszczoła
 bygg - jęczmień
 bylgjulengd - długość fali
 býli - farma
-bylting - rewolucja | powstanie
+bylting - rewolucja, powstanie
 byrja - zaczynać
-byrjun - początek | rozpoczęcie
+byrjun - początek, rozpoczęcie
 byssukúla - pocisk
 byssustingur - bagnet
 chilialdin - chili (papryczka)
 daðla - daktyl
 daðra - flirtować
 dádýr - daniel
-dæll - przyjazny | łatwy
-dæma - sądzić | osądzać | skazywać
+dæll - przyjazny, łatwy
+dæma - sądzić, osądzać, skazywać
 dæmi - przykład
 dæmigerður - typowy
 dagatal - kalendarz
-dagblað - gazeta | dziennik
+dagblað - gazeta, dziennik
 daglegur - codzienny
 dagrenning - świt
 dagsetning - data
-dagskrá - plan dnia | rozkład | program
+dagskrá - plan dnia, rozkład, program
 dagur - dzień
 dáin - martwy
 dáinn - martwy
@@ -590,44 +590,44 @@ dauðadans - taniec śmierci
 Dauðahaf - Morze Martwe
 dauði - śmierć
 dauðlegur - śmiertelny
-dauður - martwy | nieżywy
+dauður - martwy, nieżywy
 deig - ciasto
-deila um keisarans skegg - dzielić włos na czworo | dyskutować nad niepotrzebnymi szczegółami ( kłócić się o brodę cesarza)
-deild - dział | oddział | wydział | fakultet | dywizja | liga | izba (parlamentu)
+deila um keisarans skegg - dzielić włos na czworo, dyskutować nad niepotrzebnymi szczegółami ( kłócić się o brodę cesarza)
+deild - dział, oddział, wydział, fakultet, dywizja, liga, izba (parlamentu)
 demantur - diament
 desember - grudzień
-detta - spaść | upaść
+detta - spaść, upaść
 deyja - umrzeć
-dís - bogini | wróżka
+dís - bogini, wróżka
 disilolía - olej napędowy
 dísilolía - olej napędowy
 diskótek - dyskoteka
-diskur - dysk | talerz | płyta kompaktowa
+diskur - dysk, talerz, płyta kompaktowa
 djákni - diakon
-djöfull - diabeł | szatan
+djöfull - diabeł, szatan
 djúpur - głęboki
 dögg - rosa
-dögun - świt | brzask
+dögun - świt, brzask
 doktorsgráða - doktorat
 dollari - dolar
 dómari - sędzia
-dómur - sąd | opinia
+dómur - sąd, opinia
 dós - puszka
-dót - manatki | graty | rupiecie | zabawki
+dót - manatki, graty, rupiecie, zabawki
 dóttir - córka
 dótturdóttir - wnuczka ( córka córki)
 dótturdótturdóttir - prawnuczka ( córka córki córki)
 dóttursonur - wnuczek ( syn córki)
 drama - dramat
 dramatískur - dramatyczny
-draugur - duch (zjawa) | drzewo | drewno
-draumur - sen | marzenie
+draugur - duch (zjawa), drzewo, drewno
+draumur - sen, marzenie
 dreki - smok
-drekka - pić (zazwyczaj alkohol, ale nie jest to regułą) | pić
+drekka - pić (zazwyczaj alkohol, ale nie jest to regułą), pić
 drengur - chłopiec
 Drengur - imię męskie
-drepa - zabić | zamordować | zanurzyć (w cieczy) | mieć coś na myśli | umrzeć | zepsuć się | zniszczyć się
-drottinn - pan | władca | Pan Bóg
+drepa - zabić, zamordować, zanurzyć (w cieczy), mieć coś na myśli, umrzeć, zepsuć się, zniszczyć się
+drottinn - pan, władca, Pan Bóg
 drottning - królowa
 drykkja - picie
 drykkjarvatn - woda pitna
@@ -635,27 +635,27 @@ drykkjumaður - pijak
 drykkjupeningar - napiwek
 drykkur - napój
 dúfa - gołąb
-duft - proszek | puder
+duft - proszek, puder
 dúkka - lalka
-dultittlingur - ortolan | trznadel ortolan
-dvelja - przebywać | mieszkać | opóźniać | zatrzymywać
+dultittlingur - ortolan, trznadel ortolan
+dvelja - przebywać, mieszkać, opóźniać, zatrzymywać
 dvöl - pobyt
 Dyflinn - Dublin
 dýflissa - loch
 dýna - materac
 dyr - drzwi
-dýr - zwierzę | drogi | kosztowny
+dýr - zwierzę, drogi, kosztowny
 dýrafeiti - tłuszcz zwierzęcy
 dýrafræði - zoologia
-dýragarður - zoo | ogród zoologiczny
+dýragarður - zoo, ogród zoologiczny
 dýrahringur - zodiak
 dýralæknir - weterynarz
 e-ð - coś
-eða - lub | albo
+eða - lub, albo
 edik - ocet
 Edinborg - Edynburg
 eðla - jaszczurka
-eðlilegur - naturalny | normalny
+eðlilegur - naturalny, normalny
 eðlisfræði - fizyka
 eðlisfræðilögmál - prawo natury
 eðlisfræðingur - fizyk
@@ -667,24 +667,24 @@ efi - wątpliwość
 efja - błoto
 efnafræði - chemia
 efnavopn - broń chemiczna
-eftir - po | w | za | przez | wzdłuż | zgodnie z | według | później
+eftir - po, w, za, przez, wzdłuż, zgodnie z, według, później
 eftirfarandi - następujący
 eftirför - prześladowanie
 eftirmatur - deser
 eftirmiðdagur - popołudnie
 eftirnafn - nazwisko
 ég - ja
-egg - jajko | jajo | krawędź góry | grzbiet górski | ostrze
+egg - jajko, jajo, krawędź góry, grzbiet górski, ostrze
 eggaldin - bakłażan
 eggja - zachęcać
 eggjakaka - omlet
 Egyptaland - Egipt
 eiði - przesmyk
 eiður - przysięga
-eigandi - posiadacz | właściciel
+eigandi - posiadacz, właściciel
 eiga rætur að rekja til einhvers - mieć w czymś swoje korzenie
 eiga sér stað - odbywać się
-eiginkona - małżonka | żona
+eiginkona - małżonka, żona
 eiginmaður - małżonek
 eign - własność
 eignarfall - dopełniacz
@@ -695,26 +695,26 @@ eimur - para
 ein - einn
 eind - cząstka
 eingyðistrú - monoteizm
-einhver - ktoś | coś
+einhver - ktoś, coś
 einhyrningur - jednorożec
 einka - prywatny
 einkaleyfi - patent
 einmanna - samotny
-einmitt - dokładnie | właśnie
-einn - jeden | sam
+einmitt - dokładnie, właśnie
+einn - jeden, sam
 einn góðan veðurdag - pewnego pięknego dnia
-einnig - również | oprócz tego
+einnig - również, oprócz tego
 eins - eins og
-eins og - niby | jak | tak… jak
-eins og maðurinn sáir, svo skal hann og uppskera - jak sobie pościelesz, tak się wyśpisz | jak człowiek zasieje | tak będzie musiał zebrać
-einstakur - unikatowy | jedyny
-eintak - egzemplarz | kopia
+eins og - niby, jak, tak… jak
+eins og maðurinn sáir, svo skal hann og uppskera - jak sobie pościelesz, tak się wyśpisz, jak człowiek zasieje, tak będzie musiał zebrać
+einstakur - unikatowy, jedyny
+eintak - egzemplarz, kopia
 eintala - liczba pojedyncza
-einyrki - rolnik samodzielnie uprawiający ziemię | niezatrudniający nikogo do pomocy | osoba prowadząca jednoosobową działalność gospodarczą | samozatrudniony
+einyrki - rolnik samodzielnie uprawiający ziemię, niezatrudniający nikogo do pomocy, osoba prowadząca jednoosobową działalność gospodarczą, samozatrudniony
 eista - jądro
 Eistland - Estonia
 eistneska - język estoński
-eistneskur - estoński (dotyczący Estonii lub Estończyków) | estoński (dotyczący języka estońskiego)
+eistneskur - estoński (dotyczący Estonii lub Estończyków), estoński (dotyczący języka estońskiego)
 eitraður - trujący
 eitrun - zatrucie
 eitthvað - coś
@@ -722,10 +722,10 @@ eitur - trucizna
 ekki - nie
 ekkill - wdowiec
 ekkja - wdowa
-e.Kr. - eftir Krist | n.e. | naszej ery ( po Chrystusie, po narodzeniu Chrystusa)
+e.Kr. - eftir Krist, n.e., naszej ery ( po Chrystusie, po narodzeniu Chrystusa)
 él - grad
 eldfjall - wulkan
-eldfluga - świetlik | robaczek świętojański
+eldfluga - świetlik, robaczek świętojański
 eldgos - erupcja wulkanu
 eldhús - kuchnia
 elding - piorun
@@ -739,25 +739,25 @@ elðús - kuchnia
 elfur - elf
 elgur - łoś
 ellefti - jedenasty
-ellefu - 11 | jedenaście
+ellefu - 11, jedenaście
 elri - olcha
-elska - miłość | kochanie | skarb | kochać
+elska - miłość, kochanie, skarb, kochać
 elstur - najstarszy
-embætti - urząd (odpowiedzialne stanowisko) | urząd (budynek)
-en - ale | niż
+embætti - urząd (odpowiedzialne stanowisko), urząd (budynek)
+en - ale, niż
 endaþarmsop - odbyt
-endur - wcześniej | dawniej | kaczka
-endurbæta - poprawiać | korygować | naprawiać | reformować
-endurreisn - rekonstrukcja | odbudowa | przywrócenie | odrodzenie | renesans
+endur - wcześniej, dawniej, kaczka
+endurbæta - poprawiać, korygować, naprawiać, reformować
+endurreisn - rekonstrukcja, odbudowa, przywrócenie, odrodzenie, renesans
 engifer - imbir
 engiferkaka - piernik
 engill - anioł
 enginn - nikt
 engin rós utan þyrna - nie ma róży bez kolców
-engispretta - szarańcza | konik polny
+engispretta - szarańcza, konik polny
 England - Anglia
 englendingur - Anglik
-enn - jeszcze | wciąż | jeszcze bardziej
+enn - jeszcze, wciąż, jeszcze bardziej
 enni - czoło
 enska - język angielski
 enskur - angielski
@@ -769,8 +769,8 @@ epli - jabłko
 erfa - dziedziczyć
 erfðafræði - genetyka
 erfðasynd - grzech pierworodny
-erfiðleiki - trudność | kłopot | problem
-erfiður - trudny | męczący | kłopotliwy
+erfiðleiki - trudność, kłopot, problem
+erfiður - trudny, męczący, kłopotliwy
 Erítrea - Erytrea
 erkibiskup - arcybiskup
 erkiengill - archanioł
@@ -781,8 +781,8 @@ esdragon - estragon
 Esóp - Ezop
 esperantisti - esperantysta
 esperantó - esperanto
-Esther - Estera | imię żeńskie
-etja - walka | prowokować | podburzać | podżegać | konkurować | współzawodniczyć | grać | walczyć
+Esther - Estera, imię żeńskie
+etja - walka, prowokować, podburzać, podżegać, konkurować, współzawodniczyć, grać, walczyć
 evra - euro (waluta)
 Evrasía - Eurazja
 Evrópa - Europa
@@ -795,17 +795,17 @@ ey - wyspa
 eyðimörk - pustynia
 eyja - wyspa
 Eyjaálfa - Oceania
-eyra - ucho | część ciała | uchwyt
+eyra - ucho, część ciała, uchwyt
 eyrnabólga - zapalenie uszu
 Eystrasalt - Morze Bałtyckie
 Eþíópía - Etiopia
-fá - dostawać | otrzymywać | podawać | wręczać
-fáanlegur - osiągalny | dostępny
+fá - dostawać, otrzymywać, podawać, wręczać
+fáanlegur - osiągalny, dostępny
 faðerni - ojcostwo
 faðir - ojciec
-fæða - rodzić | wydawać potomstwo
+fæða - rodzić, wydawać potomstwo
 fæddur - urodzony
-fækka - zmniejszać się | spadać
+fækka - zmniejszać się, spadać
 Færeyingur - Farerczyk
 Færeyjar - Wyspy Owcze
 færeyska - język farerski
@@ -815,17 +815,17 @@ fagott - fagot
 fagur - ładny
 fagurfræði - estetyka
 fálki - sokół
-fall - upadek | sprawa sądowa | przypadek
+fall - upadek, sprawa sądowa, przypadek
 fallbeyging - deklinacja
 fallbyssa - działo
 fallegur - piękny
-fanga - ująć | złapać
+fanga - ująć, złapać
 fangabúðir - obóz koncentracyjny
 fangelsa - uwięzić
 fangelsi - więzienie
 fangi - więzień
 fáni - flaga
-far - zachowanie | obejście | ślad | piętno | odcisk
+far - zachowanie, obejście, ślad, piętno, odcisk
 fara að búa - wznosić dom
 fara í bið - zostać odroczonym
 fara í kaf - nurkować
@@ -836,12 +836,12 @@ fara norður og niður! - idź do diabła!
 faraó - faraon
 farþegi - pasażer
 fasani - bażant
-fásinna - głupota | bezsens | szaleństwo
+fásinna - głupota, bezsens, szaleństwo
 fata - wiadro
-fátækt - bieda | ubóstwo
-fátækur - biedny | potrzebujący
+fátækt - bieda, ubóstwo
+fátækur - biedny, potrzebujący
 fataskápur - garderoba (pokój)
-fé - żywy inwentarz | bydło (zwłaszcza owce) | pieniądze
+fé - żywy inwentarz, bydło (zwłaszcza owce), pieniądze
 febrúar - luty
 feðraveldi - patriarchat
 fegri - fagur
@@ -851,16 +851,16 @@ fegurstur - fagur
 feill - błąd
 feiminn - nieśmiały
 feimni - nieśmiałość
-feiti - tłuszcz | sadło | smalec
-feitur - tłusty | pełen tłuszczu | gruby | korpulentny | otyły
-félag - towarzystwo | stowarzyszenie
-félagi - towarzysz | kompan | partner | członek
+feiti - tłuszcz, sadło, smalec
+feitur - tłusty, pełen tłuszczu, gruby, korpulentny, otyły
+félag - towarzystwo, stowarzyszenie
+félagi - towarzysz, kompan, partner, członek
 félagshyggja - socjalizm
 fell - pagórek
 fellibylur - huragan
-Feneyjar - Wenecja | miasto we Włoszech
-ferð - podróż | wycieczka | szybkość
-ferðamaður - turysta | podróżnik
+Feneyjar - Wenecja, miasto we Włoszech
+ferð - podróż, wycieczka, szybkość
+ferðamaður - turysta, podróżnik
 ferðast - podróżować
 ferðataska - walizka
 ferksjutré - brzoskwinia
@@ -879,9 +879,9 @@ fílabein - kość słoniowa
 Fílabeinsströndin - Wybrzeże Kości Słoniowej
 Filippseyjar - Filipiny
 fíll - słoń
-fimi - zwinność | zręczność | sprawność
+fimi - zwinność, zręczność, sprawność
 fimleikar - gimnastyka
-fimm - pięć | 5
+fimm - pięć, 5
 fimmtán - piętnaście
 fimmtándi - piętnasty
 fimmti - piąty
@@ -890,59 +890,59 @@ fimmtudagur - czwartek
 fingur - palec
 fingurbjörg - naparstek
 finka - ptak z rodziny łuszczaków
-fínn - elegancki | szykowny | dobry | OK
+fínn - elegancki, szykowny, dobry, OK
 Finnland - Finlandia
 finnska - język fiński
-firma - przedsiębiorstwo | firma
+firma - przedsiębiorstwo, firma
 fiseind - neutrino
 fiska - łowić
 fiskabúr - akwarium
 Fiskarnir - Ryby
 fiskur - ryba
 fjall - góra
-fjallafura - kosodrzewina | sosna górska
+fjallafura - kosodrzewina, sosna górska
 fjallagrös - płucnica islandzka
 fjallahjól - rower górski
 fjallarefur - lis polarny
-fjallganga - wycieczka wysokogórska | wspinaczka wysokogórska | alpinizm
+fjallganga - wycieczka wysokogórska, wspinaczka wysokogórska, alpinizm
 fjallgarður - łańcuch górski
 fjallgöngumaður - alpinista
 fjandmaður - wróg
 fjandsamlegur - wrogi
-fjara - plaża | odpływ | cofać się | odpływać
+fjara - plaża, odpływ, cofać się, odpływać
 fjármálaráðherra - minister finansów
-fjölga - zwiększać | pomnażać | rosnąć | powiększać się | rozmnażać się
+fjölga - zwiększać, pomnażać, rosnąć, powiększać się, rozmnażać się
 fjölkvæni - poligamia
 fjöllóttur - górzysty
 fjölskylda - rodzina
 fjólublár - fioletowy
 fjórði - czwarty
-fjórði hluti - ćwierć | jedna czwarta
+fjórði hluti - ćwierć, jedna czwarta
 fjórðungur - ćwiartka
-fjörður - zatoka | fiord
+fjörður - zatoka, fiord
 fjórir - cztery
 fjórtán - czternaście
 fjórtándi - czternasty
 fjörutíu - czterdzieści
-fjötur - kajdany | okowy
-f.Kr. - fyrir Krist | p.n.e. | przed naszą erą ( przed Chrystusem, przed narodzeniem Chrystusa)
+fjötur - kajdany, okowy
+f.Kr. - fyrir Krist, p.n.e., przed naszą erą ( przed Chrystusem, przed narodzeniem Chrystusa)
 flærð - oszustwo
 flaga - płatek
 flasa - łupież
 flaska - butelka
 flatarmál - pole (powierzchni)
-flatlús - wesz łonowa | mendoweszka
+flatlús - wesz łonowa, mendoweszka
 fleiri - więcej
 fleirtala - liczba mnoga
 fleki - tratwa
 flensa - grypa
-fljót - rzeka | strumień
+fljót - rzeka, strumień
 fljótlega - wkrótce
 fljótur - szybki
 fljúga - latać
 fló - pchła
 flóamarkaður - pchli targ
-flóð - powódź | przypływ
+flóð - powódź, przypływ
 flóðhestur - hipopotam
 flóra - flora
 flöt - trawnik
@@ -954,34 +954,34 @@ flugvél - samolot
 flugvöllur - lotnisko
 flúor - fluor
 flyðra - flądra
-flygill - fortepian | samolot | pilot
+flygill - fortepian, samolot, pilot
 flýja - uciekać
 flýta - śpieszyć się
 flýtir - pośpiech
 fóður - pasza
 föðurbróðir - wujek ( brat ojca)
 föðurland - ojczyzna
-föðursystir - ciotka | ciocia ( siostra ojca)
+föðursystir - ciotka, ciocia ( siostra ojca)
 fógeti - szeryf
 fólk - ludzie (ogół ludzi)
 forboð - zakaz
 fordæmi - przykład
 foreldrar - rodzice
 foreldri - rodzic
-foringi - przywódca | lider | oficer
+foringi - przywódca, lider, oficer
 forliður - pierwszy człon rzeczownika złożonego
-form - forma | forma do ciasta | brytfanna
-forma - formować | nadawać kształt
+form - forma, forma do ciasta, brytfanna
+forma - formować, nadawać kształt
 formlega - formalnie
-formlegur - formalny | uroczysty | urzędowy
-fornafn - imię | zaimek
+formlegur - formalny, uroczysty, urzędowy
+fornafn - imię, zaimek
 fórnarlamb - ofiara
-fornrit - stary tekst | stara literatura
+fornrit - stary tekst, stara literatura
 forréttur - przystawka
-forsætisráðherra - premier | Prezes Rady Ministrów
-forseti - prezydent | przewodniczący | prezes
+forsætisráðherra - premier, Prezes Rady Ministrów
+forseti - prezydent, przewodniczący, prezes
 forsetning - przyimek
-forstjóri - prezes | dyrektor
+forstjóri - prezes, dyrektor
 förstöðumaður - kierownik
 fortíð - przeszłość
 fortíðarþrá - nostalgia
@@ -990,20 +990,20 @@ fosfór - fosfor
 foss - wodospad
 föstudagur - piątek
 föt - odzież
-fótbolti - piłka nożna | futbol
+fótbolti - piłka nożna, futbol
 fótleggur - noga
-fótur - stopa | noga
-frá - z | od
-frábær - doskonały | wybitny
+fótur - stopa, noga
+frá - z, od
+frábær - doskonały, wybitny
 frádráttur - odejmowanie
 fræ - nasiono
-fræði - nauka | wiedza
+fræði - nauka, wiedza
 fræðiheiti - fachowa nazwa używana w konkretnej dziedzinie (nauki, techniki)
 fræðimaður - naukowiec
 frægð - sława
-frægur - sławny | znany
+frægur - sławny, znany
 frændhygli - nepotyzm
-frændi - kuzyn | krewny
+frændi - kuzyn, krewny
 frændsemi - pokrewieństwo
 frænka - krewna
 fráfall - śmierć
@@ -1011,33 +1011,33 @@ Frakki - Francuz
 Frakkland - Francja
 framburður - wymowa
 framhandleggur - przedramię
-framkvæma - realizować | przeprowadzać
+framkvæma - realizować, przeprowadzać
 framkvæmd - realizacja
 framkvæmdavald - władza wykonawcza
-frammistaða - występ | wystąpienie
+frammistaða - występ, wystąpienie
 framsöguháttur - tryb oznajmujący
-framtíð - przyszłość | czas przyszły
+framtíð - przyszłość, czas przyszły
 framtíðarhorfur - perspektywy na przyszłość
 framvinda - postęp
 franska - język francuski
 franskur - francuski
 frauð - piana
-fregn - wiadomość | nius
+fregn - wiadomość, nius
 freigáta - fregata
 frekna - pieg
-frekur - zachłanny | chciwy | bezczelny | zuchwały
+frekur - zachłanny, chciwy, bezczelny, zuchwały
 frelsi - wolność
-frétt - wiadomość | nius
+frétt - wiadomość, nius
 fréttablað - gazeta
-fréttamaður - reporter | korespondent
+fréttamaður - reporter, korespondent
 fréttastofa - agencja prasowa/informacyjna
 fréttir - wiadomości
 freysfura - sosna Jeffreya
 frið - pokój (nie wojna)
-friður - pokój (przeciwieństwo wojny) | spokój
+friður - pokój (przeciwieństwo wojny), spokój
 frímerki - znaczek pocztowy
 frísneska - język fryzyjski
-frjáls - wolny | niezależny
+frjáls - wolny, niezależny
 froskdýr - płaz
 froskur - żaba
 frost - mróz
@@ -1052,13 +1052,13 @@ fuglahræða - strach na wróble
 fuglakjöt - drób
 fulltingi - pomoc
 fullt tungl - pełnia
-fundur - zebranie | konferencja
+fundur - zebranie, konferencja
 fura - sosna
 fyðill - penis
-fylling - wypełnianie | zapełnianie | wypełnienie | nadzienie
+fylling - wypełnianie, zapełnianie, wypełnienie, nadzienie
 fyndinn - śmieszny
-fyrir - dla | za | jako | przed | temu | fyrir +
-fyrirgefa - wybaczyć | przebaczyć
+fyrir - dla, za, jako, przed, temu, fyrir +
+fyrirgefa - wybaczyć, przebaczyć
 fyrirgefning - przebaczenie
 fyrirlestur - wykład
 fyrr - wcześniej
@@ -1066,10 +1066,10 @@ fyrradag - przedwczoraj
 fyrrasumar - poprzednie lato
 fyrri - wcześniejszy
 fyrri heimsstyrjöldin - pierwsza wojna światowa
-fyrst - najpierw | ponieważ | bo | w związku z tym | że… | ze względu na to | skoro
+fyrst - najpierw, ponieważ, bo, w związku z tym, że…, ze względu na to, skoro
 fyrsti - pierwszy
 fyrstur - pierwszy
-gær - dzień wczorajszy | wczoraj
+gær - dzień wczorajszy, wczoraj
 gæs - gęś
 gaffall - widelec
 gagnagrunnur - baza danych
@@ -1082,91 +1082,91 @@ Galílea - Galilea (kraina)
 gallín - gal
 gamaldags - staromodny
 gamall - stary
-gaman - zabawa | rozrywka
+gaman - zabawa, rozrywka
 gamanleikur - komedia
 Gana - Ghana
-ganga - piesza wycieczka | marsz | ławica (ryb) | chodzić | poruszać się | przemieszczać się | działać | powodzić się
-gangbraut - zebra | przejście dla pieszych
+ganga - piesza wycieczka, marsz, ławica (ryb), chodzić, poruszać się, przemieszczać się, działać, powodzić się
+gangbraut - zebra, przejście dla pieszych
 garður - ogród
 garðyrkjumaður - ogrodnik
 Gargantúi - Gargantua
-garn - nić | przędza
+garn - nić, przędza
 Gasaströndin - Strefa Gazy
 gata - ulica
 gáta - zagadka
 gaukur - kukułka
 gaupa - ryś
 Gautaborg - Göteborg
-geðbilun - szaleństwo | obłęd | choroba psychiczna
+geðbilun - szaleństwo, obłęd, choroba psychiczna
 gedda - szczupak
 geðklofi - schizofrenia
-geðlæknir - psychiatra | psychoterapeuta
-geðshræring - emocja | uczucie
-gefa - dawać | darować
+geðlæknir - psychiatra, psychoterapeuta
+geðshræring - emocja, uczucie
+gefa - dawać, darować
 gefa að sjúga - karmić piersią
 gefst upp - poddawać się
 geimfar - statek kosmiczny
 geimskip - statek kosmiczny
 geir - włócznia
 geirvarta - sutek
-geisladiskur - płyta kompaktowa | CD
+geisladiskur - płyta kompaktowa, CD
 geislaspilari - odtwarzacz CD
-geisli - promień | wiązka | snop
+geisli - promień, wiązka, snop
 geit - koza
 geitamjólk - kozie mleko
 geitingur - osa
 geitungur - osa
-Georgía - Gruzja | Georgia
+Georgía - Gruzja, Georgia
 georgíska - gruziński
-gera - robić | czynić | rozkazać | polecić | dziać się | stawać się
+gera - robić, czynić, rozkazać, polecić, dziać się, stawać się
 gera úlfalda úr mýflugu - robić z igły widły
-gerð - czyn | akt | struktura | konstrukcja | marka samochodu
+gerð - czyn, akt, struktura, konstrukcja, marka samochodu
 gerðabók - protokół
 gersemi - skarb
 gestrisinn - gościnny
 gestrisni - gościnność
-gestur - gość | osoba odwiedzająca kogoś
-getnaðarlimur - członek | prącie | penis
-geyma - magazynować | przechowywać
+gestur - gość, osoba odwiedzająca kogoś
+getnaðarlimur - członek, prącie, penis
+geyma - magazynować, przechowywać
 geymir - zbiornik
-geymsla - magazynowanie | magazyn | przechowalnia
+geymsla - magazynowanie, magazyn, przechowalnia
 geymsluhólf - skrytka bankowa
 gíraffi - żyrafa
 gista - przenocować
-gistihús - gospoda | zajazd | hotel
+gistihús - gospoda, zajazd, hotel
 gisting - nocleg
 gítar - gitara
 gjaldeyrir - waluta
 gjaldmiðill - waluta
 gjóður - rybołów
-gjöf - prezent | podarek
+gjöf - prezent, podarek
 gjörvallur - cały
-gjósa - tryskać | wybuchać | wybuchnąć | roznieść się
-gjóska - materiał piroklastyczny | tefra
-glaður - wesoły | radosny
+gjósa - tryskać, wybuchać, wybuchnąć, roznieść się
+gjóska - materiał piroklastyczny, tefra
+glaður - wesoły, radosny
 glæpamaður - przestępca
-glæpasaga - kryminał | powieść kryminalna
+glæpasaga - kryminał, powieść kryminalna
 glæpur - przestępstwo
-glápa - gapić się | wpatrywać się
+glápa - gapić się, wpatrywać się
 gleðileg jól - Wesołych Świąt (Bożego Narodzenia)
 gler - szkło
 gleraugu - okulary
 gleyma - zapomnieć
 glíma - zapasy
-glópur - idiota | głupek
-gluggi - okno | okienko
+glópur - idiota, głupek
+gluggi - okno, okienko
 gnísta - zgrzytać
 gnótt - obfitość
-goð - bożek | bóg pogański
+goð - bożek, bóg pogański
 goðafræði - mitologia
 goðmagn - bóstwo
 goðsögn - mit
 góður - dobry
 gólf - podłoga
 gómur - podniebienie
-gönguleið - droga | szlak | trasa
-gönguskór - buty do wędrówki | buty turystyczne
-gos - erupcja | lemoniada
+gönguleið - droga, szlak, trasa
+gönguskór - buty do wędrówki, buty turystyczne
+gos - erupcja, lemoniada
 gosbrunnur - fontanna
 gosdrykkur - napój gazowany
 gotneskur - gocki
@@ -1176,7 +1176,7 @@ græðgi - chciwość
 Grænland - Grenlandia
 grænlenskur - grenlandzki
 grænmeti - warzywa
-grænmetisæta - wegetarianin | wegetarianka
+grænmetisæta - wegetarianin, wegetarianka
 grænn - zielony
 gramm - gram
 grammófónn - gramofon
@@ -1184,39 +1184,39 @@ granatepli - granat
 granni - sąsiad
 grár - szary
 gras - trawa
-grasaætt - wiechlinowate | rodzina traw
+grasaætt - wiechlinowate, rodzina traw
 grasafræði - botanika
 grasafræðingur - botanik
 grasflöt - trawnik
 grasker - dynia
 graslaukur - szczypiorek
 graslendi - łąka
-gráspör - wróbel domowy | wróbel zwyczajny
+gráspör - wróbel domowy, wróbel zwyczajny
 grasstrá - źdźbło trawy
 grautur - kasza
-greiða - grzebień | płacić | ułatwiać | przyspieszać | czesać
+greiða - grzebień, płacić, ułatwiać, przyspieszać, czesać
 greiðslukort - karta kredytowa
 greifingi - borsuk
-grein - gałąź | artykuł | przedmiot (szkolny) | dziedzina | specjalizacja | paragraf | wzgląd | uwaga
+grein - gałąź, artykuł, przedmiot (szkolny), dziedzina, specjalizacja, paragraf, wzgląd, uwaga
 greinir - rodzajnik
 greipaldin - grejpfrut
-grennd - sąsiedztwo | okolica
+grennd - sąsiedztwo, okolica
 Grikkland - Grecja
-grindahlaup - bieg płotkarski | bieg przez płotki
+grindahlaup - bieg płotkarski, bieg przez płotki
 gríska - grecki
-grjón - ziarno | ziarenko | zboże | ryż | Azjata | żółtek
+grjón - ziarno, ziarenko, zboże, ryż, Azjata, żółtek
 gróði - zysk
 gröf - grób
 grunnskóli - szkoła podstawowa
 grunsemd - zarzut
-grunur - zarzut | podejrzenie
+grunur - zarzut, podejrzenie
 grýlukerti - sopel
 guð - bóg
-Guð - bóg w religii monoteistycznej | zwłaszcza w chrześcijaństwie
+Guð - bóg w religii monoteistycznej, zwłaszcza w chrześcijaństwie
 guðdómur - boski
 guðfaðir - ojciec chrzestny
 guðfræði - teologia
-guðhræddur - bogobojny | pobożny
+guðhræddur - bogobojny, pobożny
 guði sé lof! - Bogu niech będą dzięki!
 guðlast - bluźnierstwo
 guðleysi - ateizm
@@ -1227,7 +1227,7 @@ gula - żółtaczka
 gull - złoto
 gullfiskur - złota rybka
 gullinn - złoty
-gullöld - złoty wiek | okres prosperity
+gullöld - złoty wiek, okres prosperity
 gulrófa - brukiew
 gulrót - marchew
 gulur - żółty
@@ -1238,28 +1238,28 @@ gyðingdómur - judaizm
 gyðinglegur - żydowski
 gyðingur - Żyd
 gyðja - bogini
-gylta - maciora | locha
+gylta - maciora, locha
 hádegi - południe
 hádegisverður - obiad
-hæ - cześć! | halo! | hej! | witaj! | witajcie!
-hæð - wzgórze | pagórek | wysokość | piętro | wyż
-hægðatregða - zaparcie | zatwardzenie | obstrukcja
-hægri - prawica | prawy | ten z prawej | prawicowy
+hæ - cześć!, halo!, hej!, witaj!, witajcie!
+hæð - wzgórze, pagórek, wysokość, piętro, wyż
+hægðatregða - zaparcie, zatwardzenie, obstrukcja
+hægri - prawica, prawy, ten z prawej, prawicowy
 hægt - powoli
-hægur - łatwy | powolny | cichy
+hægur - łatwy, powolny, cichy
 hækja - kula
 hæla - chwalić
-hæll - pięta | obcas
-hæna - kura | osoba | która upija się małymi ilościami alkoholu | słaba głowa | pociągać kogoś | podobać się komuś | być oczarowanym | zauroczonym
+hæll - pięta, obcas
+hæna - kura, osoba, która upija się małymi ilościami alkoholu, słaba głowa, pociągać kogoś, podobać się komuś, być oczarowanym, zauroczonym
 hænsnahús - kurnik
 hænsnakofi - kurnik
-hænsni - kurczak | kura
+hænsni - kurczak, kura
 hættulegur - niebezpieczny
-haf - ocean | morze
-hafa - mieć | zachować | zatrzymać | czuć się | powodzić się | zajmować się czymś
+haf - ocean, morze
+hafa - mieć, zachować, zatrzymać, czuć się, powodzić się, zajmować się czymś
 hafa augastað á einhverju - mieć na oku
-hafa hátt - robić dużo hałasu | hałasować
-hafa hendur í hári e-s - złapać | ująć | aresztować
+hafa hátt - robić dużo hałasu, hałasować
+hafa hendur í hári e-s - złapać, ująć, aresztować
 hafast eitthvað að - zajmować się czymś
 hafa veg og vanda af einhverju - być za coś odpowiedzialnym
 hafnabolti - baseball
@@ -1269,51 +1269,51 @@ haftyrðill - alczyk (, ptak z rodziny )
 hágæða - wysokiej jakości
 hagfræði - ekonomia
 hagnýtur - praktyczny
-hagsæld - pomyślność | dobrobyt
+hagsæld - pomyślność, dobrobyt
 hagsbót - korzyść
 háhyrningur - orka
-háhýsi - wysokościowiec | wieżowiec | drapacz chmur | monumentalna budowla
-haka - podbródek | broda
+háhýsi - wysokościowiec, wieżowiec, drapacz chmur, monumentalna budowla
+haka - podbródek, broda
 halastjarna - kometa
-halda - trzymać | myśleć
+halda - trzymać, myśleć
 haldast - trzymać
 hálendi - wyżyna
 hálfviti - idiota
 hali - ogon krowy
 hallarvirki - zamek
-háls - szyja | gardło
+háls - szyja, gardło
 hálsbindi - krawat
 hálsbólga - zapalenie gardła
 hamingja - szczęście
 hamingjusamur - szczęśliwy
 hampur - konopie
-hamra skal járn meðan heitt er - kuj żelazo, póki gorące | trzeba uderzać młotkiem dopóki żelazo jest gorące
+hamra skal járn meðan heitt er - kuj żelazo, póki gorące, trzeba uderzać młotkiem dopóki żelazo jest gorące
 handbók - podręcznik
 handbolti - piłka ręczna
 handklæði - ręcznik
 handknattleikur - piłka ręczna
-handtaka - areszt | aresztować
+handtaka - areszt, aresztować
 handvegur - pacha
 hann - on
 hans - jego
 hanski - rękawiczka
-happ - szczęście | fart
+happ - szczęście, fart
 happdrætti - loteria
 happdrættismiði - los na loterię
-hár - włos | dulka | podbierak | wysoki | wysoki (o tonie) | wysoko-
+hár - włos, dulka, podbierak, wysoki, wysoki (o tonie), wysoko-
 hárbursti - szczotka do włosów
-harðlífi - zaparcie | zatwardzenie | obstrukcja
+harðlífi - zaparcie, zatwardzenie, obstrukcja
 harðsoðinn - gotowany na miękko
-harður - twardy | ciężki | trudny
-hárfínn - delikatny | subtelny
+harður - twardy, ciężki, trudny
+hárfínn - delikatny, subtelny
 hárgreiða - grzebień
-hárgreiðsla - fryzjerstwo | fryzura | uczesanie
+hárgreiðsla - fryzjerstwo, fryzura, uczesanie
 hárkolla - peruka
 hárlakk - lakier do włosów
-hárlos - łysienie | utrata włosów
+hárlos - łysienie, utrata włosów
 hárnál - spinka do włosów
 harpa - harfa
-hárréttur - całkowicie poprawny | bez zarzutu
+hárréttur - całkowicie poprawny, bez zarzutu
 hárskeri - fryzjer
 hárþurrka - suszarka do włosów
 háskóli - uniwersytet
@@ -1321,7 +1321,7 @@ hastarlega - nagle
 hastarlegur - nagły
 hata - nienawidzić
 hattur - kapelusz
-háttur - sposób | zwyczaj | tryb
+háttur - sposób, zwyczaj, tryb
 haukur - jastrząb
 Haukur - imię męskie
 hauskúpa - czaszka
@@ -1330,12 +1330,12 @@ hávær - głośny
 hebreska - hebrajski
 héðan - stąd
 hefð - tradycja
-hefja - podnosić | wznosić | zaczynać | rozpoczynać | wznosić się | unosić się w powietrze | zaczynać się | rozpoczynać się
+hefja - podnosić, wznosić, zaczynać, rozpoczynać, wznosić się, unosić się w powietrze, zaczynać się, rozpoczynać się
 hefnd - zemsta
 hegri - czapla
-heiðafura - kosodrzewina | sosna górska
+heiðafura - kosodrzewina, sosna górska
 Heiðveig - Jadwiga
-heilagur - święty | uświęcony
+heilagur - święty, uświęcony
 heilahristingur - wstrząśnienie mózgu
 heilbrigði - zdrowie
 heilbrigðismál - służba zdrowia
@@ -1345,15 +1345,15 @@ heilbrigður - zdrowy
 heilhveiti - mąka pełnoziarnista
 heilhveitibrauð - chleb razowy
 heili - mózg
-heilsa - zdrowie | pozdrawiać
+heilsa - zdrowie, pozdrawiać
 heima - w domu
 heimavinna - praca domowa
-heimild - źródło | dokumentacja | bibliografia | pozwolenie | uprawnienia | kompetencja
-heimili - dom | domostwo | zabudowania | gospodarstwo domowe
+heimild - źródło, dokumentacja, bibliografia, pozwolenie, uprawnienia, kompetencja
+heimili - dom, domostwo, zabudowania, gospodarstwo domowe
 heimilisfang - adres
-heimsækja - wizytować | składać wizytę
+heimsækja - wizytować, składać wizytę
 heimsálfa - kontynent
-heimsborgari - kosmopolita | obywatel świata
+heimsborgari - kosmopolita, obywatel świata
 heimsfrægur - światowej sławy
 heimska - głupota
 heimskaut - biegun
@@ -1362,29 +1362,29 @@ heimspeki - filozofia
 heimsstyrjöld - wojna światowa
 heimsstyrjöldin síðari - druga wojna światowa
 heimur - świat
-heita - nazywać się | przyrzekać
+heita - nazywać się, przyrzekać
 hekk - żywopłot
 hel - królestwo zmarłych
 Hel - Hel (bogini)
 helgidagur - święto
 helín - hel
-hellir - jaskinia | grota
+hellir - jaskinia, grota
 helluhraun - pāhoehoe (rodzaj lawy, Pāhoehoe)
 helmingur - połowa
 helviti - piekło
 helvíti - piekło
-heppinn - szczęśliwy | mający szczęście
-her - armia | wojsko
-hér - tu | tutaj
-hérað - okręg administracyjny | rejon | prowincja
-herbergi - pokój | pomieszczenie
+heppinn - szczęśliwy, mający szczęście
+her - armia, wojsko
+hér - tu, tutaj
+hérað - okręg administracyjny, rejon, prowincja
+herbergi - pokój, pomieszczenie
 herðablað - łopatka
 herfi - brona
-herfilegur - brzydki | ohydny | odrażający
+herfilegur - brzydki, ohydny, odrażający
 héri - zając
 herklæði - zbroja
 hermaður - żołnierz
-herra - pan | władca | pan (przed nazwiskiem) | gospodarz (domu)
+herra - pan, władca, pan (przed nazwiskiem), gospodarz (domu)
 herramaður - dżentelmen
 heslihneta - orzech laskowy
 heslihnetutré - leszczyna
@@ -1393,69 +1393,69 @@ hestur - koń
 hetja - bohater
 hettusótt - świnka
 heyra - słyszeć
-hið - ten | ta | to
+hið - ten, ta, to
 hika - wahać się
 hildur - walka
-hilling - miraż | fatamorgana
+hilling - miraż, fatamorgana
 Himalajafjöll - Himalaje
 himinn - niebo
-hin - ten | ta | to
+hin - ten, ta, to
 hindber - malina
 hindrun - przeszkoda
 hindrunarhlaup - bieg z przeszkodami
 hindúatrú - hinduizm
 hindúismi - hinduizm
 hindurvitni - przesąd
-hinn - ten | ta | to
+hinn - ten, ta, to
 hirðir - pasterz
 hirsi - proso
-hiti - ciepło | temperatura | gorączka | zapał | ferwor
-hjá - z | obok | u
+hiti - ciepło, temperatura, gorączka, zapał, ferwor
+hjá - z, obok, u
 hjáleið - objazd
-hjálmfura - sosna pinia | pinia
+hjálmfura - sosna pinia, pinia
 hjálp - pomoc
 hjálpa - pomagać
 hjarðmaður - pasterz
 hjarta - serce
 hjartaáfall - atak serca
-hjartagóður - miłosierny | litościwy
+hjartagóður - miłosierny, litościwy
 hjartakast - atak serca
 hjartanlegur - sercowy
-hjartaslag - zawał serca | bicie serca ( pojedynczy skurcz)
+hjartaslag - zawał serca, bicie serca ( pojedynczy skurcz)
 hjartsláttur - bicie serca
 hjartveiki - choroba serca
 hjartveikur - chory na serce
-hjól - koło | rower
+hjól - koło, rower
 hjólastóll - wózek inwalidzki
 hjólbörur - taczka
 hjörtur - jeleń
-hlakka - cieszyć się | oczekiwać z radością
-hlaup - galaretka | bieganie | bieg
-hlaupa - biec | kurczyć się | zerwać się | wstać nagle
+hlakka - cieszyć się, oczekiwać z radością
+hlaup - galaretka, bieganie, bieg
+hlaupa - biec, kurczyć się, zerwać się, wstać nagle
 hlaupabóla - ospa wietrzna
 hlaupár - rok przestępny
 hlébarði - lampart
-hlíf - ochrona | osłona | ekran | tarcza ochronna | coś co chroni
+hlíf - ochrona, osłona, ekran, tarcza ochronna, coś co chroni
 hljóðfræði - fonetyka
 hljóðlátur - cichy
 hljómleikar - koncert
 hljómlist - muzyka
 hlusta - słuchać
-hlutdeild - udział | działka
+hlutdeild - udział, działka
 hlutdrægni - stronniczość
 hlutdrægur - stronniczy
-hlutfall - stosunek | proporcja
+hlutfall - stosunek, proporcja
 hlutfallslegur - stosunkowy
 hluthafi - akcjonariusz
 hluti - część
 hlutlægni - obiektywność
 hlutlægur - obiektywny
 hlutstæður - konkretny
-hluttaka - współudział | branie udziału
+hluttaka - współudział, branie udziału
 hluttekning - współczucie
-hlutverk - zadanie | rola
+hlutverk - zadanie, rola
 hlýindi - ciepła pogoda
-hlynur - klon | klon jawor
+hlynur - klon, klon jawor
 hlýr - ciepły
 hnakki - kark
 hnakkur - siodło
@@ -1467,89 +1467,89 @@ hneta - orzech
 hnetubrjótur - dziadek do orzechów
 hnífur - nóż
 hnísa - morświn
-hnútur - węzeł | supeł | węzeł (jednostka prędkości)
+hnútur - węzeł, supeł, węzeł (jednostka prędkości)
 hóf - umiar
 Höfðaborg - Kapsztad
-höfn - port | przystań
+höfn - port, przystań
 höfrungur - delfin
 höfuð - głowa
 höfuðborg - stolica
-höfuðstöðvar - siedziba | kwatera główna
+höfuðstöðvar - siedziba, kwatera główna
 höfuðverkur - ból głowy
 höfundarlaun - tantiema - procentowy udział autora (kompozytora, filmowca, tłumacza) w dochodach uzyskanych z wystawionego dzieła
 höfundarréttur - prawo autorskie
 höfundur - autor
 hokkí - hokej
-hola - dziura | jama | dołek (w grze w golfa) | ryć | kopać | grzebać
-hólf - schowek | skrytka | klatka | boks | grodza | komórka
-hóll - wzgórze | pagórek
-höll - pałac | zamek
+hola - dziura, jama, dołek (w grze w golfa), ryć, kopać, grzebać
+hólf - schowek, skrytka, klatka, boks, grodza, komórka
+hóll - wzgórze, pagórek
+höll - pałac, zamek
 Holland - Holandia
 hollenska - holenderski
 hollenskur - holenderski
-hommi - gej | homoseksualista
-hönd - dłoń | ręka | strona
+hommi - gej, homoseksualista
+hönd - dłoń, ręka, strona
 Hondúras - Honduras
-hópíþrótt - sport zespołowy | drużynowy
-hór - zdrada małżeńska | niewierność
+hópíþrótt - sport zespołowy, drużynowy
+hór - zdrada małżeńska, niewierność
 hör - len (roślina)
-hóra - dziwka | prostytutka
+hóra - dziwka, prostytutka
 hörfinka - makolągwa
-horfur - perspektywy | widoki
+horfur - perspektywy, widoki
 hormón - hormon
 hornafræði - trygonometria
 hóruhús - dom publiczny
 hósti - kaszel
 hótel - hotel
 hraður - szybki
-hræ - ścierwo | padlina | ludzkie zwłoki | złom | bezużyteczne lub zepsute urządzenie
-hræddur - przerażony | przestraszony
+hræ - ścierwo, padlina, ludzkie zwłoki, złom, bezużyteczne lub zepsute urządzenie
+hræddur - przerażony, przestraszony
 hræðsla - strach
 hræring - ruch
 hrært egg - jajecznica
 hræsnari - hipokryta
-hræsni - obłuda | nieszczerość | hipokryzja | udawanie
+hræsni - obłuda, nieszczerość, hipokryzja, udawanie
 hrafn - kruk
 hráolía - ropa naftowa
 hrár - surowy
-hraun - lawa | pole lawowe
-hreðka - rzodkiewka | rzodkiew
+hraun - lawa, pole lawowe
+hreðka - rzodkiewka, rzodkiew
 hreindýr - renifer
 hrekkur - figiel
-hress - zdrowy | w dobrej formie | wesoły | radosny
+hress - zdrowy, w dobrej formie, wesoły, radosny
 hreyfing - ruch
 hringlaga - okrągły
-hrís - krzewy | chaszcze | podszyt | brzoza karłowata
+hrís - krzewy, chaszcze, podszyt, brzoza karłowata
 hrísgrjón - ryż
-hrista - trząść | wyzbyć się | pozbyć się | otrząsnąć się | trząść się | drżeć | dygotać
-hristingur - wstrząs | wstrząśnienie
+hrista - trząść, wyzbyć się, pozbyć się, otrząsnąć się, trząść się, drżeć, dygotać
+hristingur - wstrząs, wstrząśnienie
 hróp - krzyk
 hrósa - chwalić
 hross - koń
 hrottalegur - brutalny
-hrun - runięcie | zawalenie się
+hrun - runięcie, zawalenie się
 hrútur - baran
-Hrúturinn - Baran (gwiazdozbiór) | Baran (znak zodiaku)
+Hrúturinn - Baran (gwiazdozbiór), Baran (znak zodiaku)
 hryggdýr - kręgowiec
-hryggur - kręgosłup | smutny
-hrynja - zapadać się | zawalać się
+hryggur - kręgosłup, smutny
+hrynja - zapadać się, zawalać się
 hrynjandi - rytm
 hryssa - klacz
-húð - skóra | skóra (zwierzęca)
+húð - skóra, skóra (zwierzęca)
 húðsjúkdómafræði - dermatologia
-hugarflug - wyobraźnia | fantazja
+hugarflug - wyobraźnia, fantazja
 huggun - pocieszenie
 hugleysingi - tchórz
 hugmynd - pomysł
 hugmyndaflug - wyobraźnia
 hugmyndafræði - ideologia
 hugrekki - odwaga
-hugsa - myśleć | uważać | wierzyć | rozważać | zastanawiać się | być możliwym
-hugsanlegur - możliwy | niewykluczony | wyobrażalny
+hugsa - myśleć, uważać, wierzyć, rozważać, zastanawiać się, być możliwym
+hugsanlegur - możliwy, niewykluczony, wyobrażalny
 hugsast - hugsa
-hugsi - zamyślony | zadumany
+hugsi - zamyślony, zadumany
 hulda - tajemnica
-húm - zmrok | zmierzch
+húm - zmrok, zmierzch
 húma - zmierzchać
 humar - homar
 hún - ona
@@ -1557,22 +1557,22 @@ hunang - miód
 hunangsfluga - trzmiel
 hundakofi - buda
 hundapi - pawian
-hundrað - setka | sto
+hundrað - setka, sto
 hundraðasti - setny
 hundur - pies
 hurð - drzwi
-hús - dom (budynek) | budynek (w którym mieści się jakaś instytucja/firma)
+hús - dom (budynek), budynek (w którym mieści się jakaś instytucja/firma)
 húsdýr - zwierzę domowe
 húsfrú - gospodyni domowa
 húsmóðir - gospodyni domowa
-hvað - co? | jak?
+hvað - co?, jak?
 hvaða - jaki?
 hvaðan - skąd
 hvað er að frétta? - co nowego?
 hvað gengur á? - co się dzieje?
 hvænar - kiedy?
 hvalur - wieloryb
-hvar - gdzie? | gdzie
+hvar - gdzie?, gdzie
 hve - jak?
 hveiti - pszenica
 hveitiklíð - otręby pszenne
@@ -1582,59 +1582,59 @@ hvernig - jak?
 hvers vegna - dlaczego
 hvert - dokąd
 hvetja - zachęcać
-hví - dlaczego | czemu
+hví - dlaczego, czemu
 hvirfilbylur - tornado
 hvískra - szeptać
 hvísla - szeptać
 hvítabjörn - niedźwiedź polarny
 Hvíta-Rússland - Białoruś
-hvítkorn - leukocyt | biała krwinka | białe ciałko krwi
+hvítkorn - leukocyt, biała krwinka, białe ciałko krwi
 hvítlaukur - czosnek
 hvítrússneska - język białoruski
-hvítt blóðkorn - leukocyt | biała krwinka | białe ciałko krwi
+hvítt blóðkorn - leukocyt, biała krwinka, białe ciałko krwi
 hvítur - biały
 hvítvín - białe wino
-hvolpur - szczenię | szczeniak
+hvolpur - szczenię, szczeniak
 hvorki - hvorki...né
 hvorki… né - ani… ani
 hvorugkyn - rodzaj nijaki
-hýði - skórka | skóra (owocu, warzywa)
+hýði - skórka, skóra (owocu, warzywa)
 hýena - hiena
 hygð - myśl
-í - w | na | do
+í - w, na, do
 í bili - w mgnieniu oka
 íbúar - populacja
 íbúð - mieszkanie
 íbúi - mieszkaniec
-í dag - dzisiaj | dziś
-iðn - rzemiosło | rękodzielnictwo | fach
+í dag - dzisiaj, dziś
+iðn - rzemiosło, rękodzielnictwo, fach
 iðnaður - przemysł
 í gær - wczoraj
-í húð og hár - w każdym calu | na wskroś | z krwi i kości | do głębi
+í húð og hár - w każdym calu, na wskroś, z krwi i kości, do głębi
 íkorni - wiewiórka
 íkveikjuæði - piromania
-illgirni - złośliwość | radość z cudzego nieszczęścia
-illgjarn - złośliwy | radujący się z cudzego nieszcęścia
-illkvittinn - zgryźliwy | uszczypliwy
-illkvittni - zgryźliwość | uszczypliwość
+illgirni - złośliwość, radość z cudzego nieszczęścia
+illgjarn - złośliwy, radujący się z cudzego nieszcęścia
+illkvittinn - zgryźliwy, uszczypliwy
+illkvittni - zgryźliwość, uszczypliwość
 illkynjaður - złośliwy
 illmennska - podłość
-illræmdur - zniesławiony | zdyskredytowany
+illræmdur - zniesławiony, zdyskredytowany
 illska - wściekłość
-illur - zły | wściekły
+illur - zły, wściekły
 illviðri - niepogoda
-illviljaður - złośliwy | mający złe zamiary
+illviljaður - złośliwy, mający złe zamiary
 illyrði - wyzwisko
 indíáni - Indianin
 Indland - Indie
 Indlandshaf - Ocean Indyjski
 Indónesía - Indonezja
-Indverji - Hindus | mieszkaniec Indii
+Indverji - Hindus, mieszkaniec Indii
 inflúensa - grypa
 innan tíðar - wkrótce
-innflutningur - import | imigracja
+innflutningur - import, imigracja
 inni - wewnątrz
-innihalda - zawierać | mieć w sobie
+innihalda - zawierać, mieć w sobie
 innkaup - zakup
 Internet - Internet
 internettenging - połączenie z internetem
@@ -1644,29 +1644,29 @@ internettenging - połączenie z internetem
 iridín - iryd
 Írland - Irlandia
 írónía - ironia
-ís - lód | lody
+ís - lód, lody
 ísbjörn - niedźwiedź polarny
 íslam - islam
 Ísland - Islandia
 Íslendingur - Islandczyk
 íslenska - język islandzki
 íslenskur - islandzki
-ísöld - epoka lodowcowa | zlodowacenie
-Ísrael - Izrael | imię
+ísöld - epoka lodowcowa, zlodowacenie
+Ísrael - Izrael, imię
 Ísraelsmaður - Izraelczyk
 ísskápur - lodówka
-í tæka tíð - na czas | w porę
+í tæka tíð - na czas, w porę
 Ítalía - Włochy
 ítalska - włoski
-ítalskur - włoski | dotyczący Włoch lub Włochów | dotyczący języka włoskiego
-ítölsk steinfura - sosna pinia | pinia
-í þá tíð - wtedy | wówczas
+ítalskur - włoski, dotyczący Włoch lub Włochów, dotyczący języka włoskiego
+ítölsk steinfura - sosna pinia, pinia
+í þá tíð - wtedy, wówczas
 íþrótt - sport
 íþróttamaður - sportowiec
 já - tak
 jafnaðarstefna - socjalizm
-jafnframt - jednocześnie | równocześnie | również
-jafnvel - nawet | równie dobrze | również | także
+jafnframt - jednocześnie, równocześnie, również
+jafnvel - nawet, równie dobrze, również, także
 jagúar - jaguar
 jakki - kurtka
 Jamaíka - Jamajka
@@ -1675,8 +1675,8 @@ Japan - Japonia
 japanska - japoński
 japanskur - japoński
 jarðarber - truskawka
-jarðarför - pogrzeb | pochówek
-jarðepli - ziemniak | kartofel
+jarðarför - pogrzeb, pochówek
+jarðepli - ziemniak, kartofel
 jarðfræði - geologia
 jarðhneta - orzech ziemny
 jarðhræring - trzęsienie ziemi
@@ -1687,23 +1687,23 @@ jarðyrkja - rolnictwo
 járn - żelazo
 járnbraut - linia kolejowa
 járnbrautarlest - pociąg
-járnsmiður - kowal | chrząszcz
-jeppi - dżip | jeep
+járnsmiður - kowal, chrząszcz
+jeppi - dżip, jeep
 Jerúsalem - Jerozolima
 Jesús - Jezus
 jógúrt - jogurt
 jökull - lodowiec
-jökulsá - rzeka lodowcowa | wypływająca z lodowca
+jökulsá - rzeka lodowcowa, wypływająca z lodowca
 jól - Boże Narodzenie
 Jólaeyja - Wyspa Bożego Narodzenia
 jólagjöf - prezent bożonarodzeniowy
-jólatré - choinka | drzewko bożonarodzeniowe
+jólatré - choinka, drzewko bożonarodzeniowe
 jón - jon
-Jón - Jan | imię męskie
-jörð - ziemia | grunt | gleba | gospodarstwo | farma
+Jón - Jan, imię męskie
+jörð - ziemia, grunt, gleba, gospodarstwo, farma
 Jórdani - Jordańczyk
 Jórdanía - Jordania
-jórdanskur - jordański | dotyczący Jordanii
+jórdanskur - jordański, dotyczący Jordanii
 Jörðin - Ziemia
 jötunn - olbrzym
 júgur - wymię
@@ -1713,29 +1713,29 @@ Júpíter - Jowisz
 jurt - roślina
 jurtafeiti - tłuszcz roślinny
 jurtaolía - olej roślinny
-jurtaríki - królestwo roślin | flora
+jurtaríki - królestwo roślin, flora
 kadmín - kadm
 kæliskápur - lodówka
-kær - drogi | ukochany
+kær - drogi, ukochany
 kærasta - dziewczyna
 kærasti - chłopak
 kafa - nurkować
 kafari - nurek
-kafbátur - łódź podwodna | okręt podwodny
+kafbátur - łódź podwodna, okręt podwodny
 kaffi - kawa
 kaffihús - kawiarnia
 kajak - kajak
-kaka - ciasto | wypiek
+kaka - ciasto, wypiek
 kakkalakki - karaluch
 kakó - kakao
 kaktus - kaktus
 kál - kapusta
-kaldhæðni - ironia | sarkazm
+kaldhæðni - ironia, sarkazm
 kaldur - zimny
 kaleikur - kielich
 kálfakjöt - cielęcina
 kálfi - łydka
-kálfur - cielę | cielak | idiota | dureń
+kálfur - cielę, cielak, idiota, dureń
 Kálfur - imię męskie
 Kalifornía - Kalifornia
 kalín - potas
@@ -1752,8 +1752,8 @@ kanína - królik ( mięso z królika)
 kannski - może
 Kantaraborg - Canterbury
 kantarellsveppur - kurka
-kápa - płaszcz | obwoluta (książki)
-kapall - klacz | kabel | pasjans (gra karciana)
+kápa - płaszcz, obwoluta (książki)
+kapall - klacz, kabel, pasjans (gra karciana)
 kapella - kaplica
 kapers - kapary
 karfa - kosz
@@ -1766,12 +1766,12 @@ karsi - rzeżucha
 karta - ropucha
 kartafla - ziemniak
 Kasakstan - Kazachstan
-kassi - pudło | pudełko | skrzynia | skrzynka
+kassi - pudło, pudełko, skrzynia, skrzynka
 kastali - zamek
-katjón - kation | jon dodatni
-kátur - radosny | wesoły
+katjón - kation, jon dodatni
+kátur - radosny, wesoły
 kaupa - kupować
-kaupmaður - kupiec | handlarz | sklepikarz | handlowiec
+kaupmaður - kupiec, handlarz, sklepikarz, handlowiec
 Kaupmannahöfn - Kopenhaga
 kaupstefna - rynek
 kaþólskur - katolicki
@@ -1779,17 +1779,17 @@ keisaraviður - szydlica japońska
 keisari - cesarz
 kemba - czesać
 kengúra - kangur
-kenna - uczyć | nauczać | winić | obwiniać | czuć | czuć ból
+kenna - uczyć, nauczać, winić, obwiniać, czuć, czuć ból
 kennari - nauczyciel
 kennslubók - podręcznik
 Kenýa - Kenia
 keppa - rywalizować
 keppinautur - konkurent
-kerti - świeca | świeczka
+kerti - świeca, świeczka
 kettlingur - kociak
 Khöfn - Kopenhaga
 kilja - miękka oprawa/okładka
-kíló - kilogram | kilo
+kíló - kilogram, kilo
 kíló- - kilo-
 kílómetri - kilometr
 Kína - Chiny
@@ -1803,14 +1803,14 @@ kirkjugarður - cmentarz
 kirkjuturn - wieża kościelna
 kirkjuþing - synod
 kirsiber - wiśnia
-kirsuber - czereśnia | wiśnia
+kirsuber - czereśnia, wiśnia
 kísill - silikon
 kíví - kiwi (owoc)
 kjálki - szczęka
-kjarni - jądro | sedno | meritum | kwintesencja
-kjarr - krzewy | zarośla
+kjarni - jądro, sedno, meritum, kwintesencja
+kjarr - krzewy, zarośla
 kjóll - sukienka
-kjörorð - slogan | motto
+kjörorð - slogan, motto
 kjöt - mięso
 kjötæta - mięsożerca
 kjötkveðjuhátíð - karnawał
@@ -1839,17 +1839,17 @@ kólera - cholera
 kólibrífugl - koliber
 kolkrabbi - ośmiornica
 Kólumbus - Kolumb (odkrywca)
-koma - przybycie | przylot/przyjazd | wizyta | przychodzić | przybywać | pochodzić | zabrać | wziąć ze sobą | zdarzyć się | wyjść | zostać opublikowanym | pojawić się | pokazać się | wychodzić | ujawnić się | zachowywać się | pochodzić z | wywodzić się od | nadejść | obchodzić | tyczyć się | przynieść | towarzyszyć | iść | udać się | na dobre | popłacać | wstąpić | kwitnąć | powstawać | pojawiać się | wschodzić | dotrzeć | przybyć | odkryć | dokonać odkrycia | przedrzeć się | przedostać się | być promowanym do następnej klasy | zdać | wyjść na jaw | zostać odkrytym | poradzić sobie | przeżyć
+koma - przybycie, przylot/przyjazd, wizyta, przychodzić, przybywać, pochodzić, zabrać, wziąć ze sobą, zdarzyć się, wyjść, zostać opublikowanym, pojawić się, pokazać się, wychodzić, ujawnić się, zachowywać się, pochodzić z, wywodzić się od, nadejść, obchodzić, tyczyć się, przynieść, towarzyszyć, iść, udać się, na dobre, popłacać, wstąpić, kwitnąć, powstawać, pojawiać się, wschodzić, dotrzeć, przybyć, odkryć, dokonać odkrycia, przedrzeć się, przedostać się, być promowanym do następnej klasy, zdać, wyjść na jaw, zostać odkrytym, poradzić sobie, przeżyć
 komast í samband við einhvern - skontaktować się z kimś
 kommúnismi - komunizm
-kona - kobieta | żona
+kona - kobieta, żona
 Kongó - Kongo
 kóngssveppur - borowik
 kónguló - pająk
 könguló - pająk
-kóngur - król | monarcha
+kóngur - król, monarcha
 koníak - koniak
-konsert - koncert | występ muzyczny | forma muzyczna
+konsert - koncert, występ muzyczny, forma muzyczna
 konsúll - konsul
 konunglegur - królewski
 konungshöll - pałac
@@ -1857,25 +1857,25 @@ konungsríki - królestwo
 konungsveldi - monarchia
 konungur - król
 kopar - miedź
-kór - chór | chórki | prezbiterium
+kór - chór, chórki, prezbiterium
 Kórea - Korea
-körfubolti - piłka koszykowa | koszykówka
-körfuknattleikur - piłka koszykowa | koszykówka
+körfubolti - piłka koszykowa, koszykówka
+körfuknattleikur - piłka koszykowa, koszykówka
 kóríander - kolendra
-korn - ziarno | zboże | cząstka | element
+korn - ziarno, zboże, cząstka, element
 kornbreskur - kornijski
 korntegund - gatunek zboża
 kóróna - korona
 Korsíka - Korsyka
 koss - pocałunek
 kotasæla - twaróg
-köttur - kot | zwierzę drapieżne z rodziny | o smukłym ciele | miękkiej sierści i długim ogonie
+köttur - kot, zwierzę drapieżne z rodziny, o smukłym ciele, miękkiej sierści i długim ogonie
 krabbamein - rak
 krabbi - rak
-Krabbinn - Rak (gwiazdozbiór) | Rak (znak zodiaku)
+Krabbinn - Rak (gwiazdozbiór), Rak (znak zodiaku)
 kræklingur - małż
 kraftaverk - cud
-kraftur - siła | moc
+kraftur - siła, moc
 Kraká - Kraków
 krani - kran
 krappur - wąski
@@ -1892,9 +1892,9 @@ Kristur - Chrystus
 Króatía - Chorwacja
 krókódíll - krokodyl
 króm - chrom
-króna - korona (waluta) | korona (atrybut króla)
+króna - korona (waluta), korona (atrybut króla)
 kroppur - ciało
-kross - krzyż | krzyż (trud, męka) | krzyż (odznaczenie)
+kross - krzyż, krzyż (trud, męka), krzyż (odznaczenie)
 krossferð - krucjata
 krossfesta - ukrzyżować
 krossfesting - ukrzyżowanie
@@ -1902,8 +1902,8 @@ krossfiskur - rozgwiazda
 krossför - krucjata
 krossgáta - krzyżówka (rodzaj zagadki)
 krossgötur - skrzyżowanie dróg
-krossnefur - krzyżodziób | krzyżodziób świerkowy
-krúna - korona (atrybut władzy) | korona | monarchia | czubek głowy | łba | tonsura | wygolony krążek okalający ciemię
+krossnefur - krzyżodziób, krzyżodziób świerkowy
+krúna - korona (atrybut władzy), korona, monarchia, czubek głowy, łba, tonsura, wygolony krążek okalający ciemię
 krydd - przyprawa
 krydda - przyprawiać
 kryddjurt - zioło
@@ -1912,30 +1912,30 @@ krýning - koronacja
 kúamjólk - mleko krowie
 Kúba - Kuba
 kúbein - łom
-kúl - fajny | cool | fajnie
-kúla - kula | sfera | piłka | nabój | sprzęt lekkoatletyczny | guz
+kúl - fajny, cool, fajnie
+kúla - kula, sfera, piłka, nabój, sprzęt lekkoatletyczny, guz
 kúmen - kminek
 kúrbítur - cukinia
 kurteisi - grzeczność
 kústur - miotła
 Kúveit - Kuwejt
 kvæði - wiersz
-kveðja - pozdrowienie | pożegnać się
-kvef - przeziębienie | katar
+kveðja - pozdrowienie, pożegnać się
+kvef - przeziębienie, katar
 kvefaður - przeziębiony
 kveikur - knot
 kvenkyn - rodzaj żeński
-kvenlegur - żeński | kobiecy
+kvenlegur - żeński, kobiecy
 kvennamaður - kobieta
 kverkar - gardło
 kviður - brzuch
 kvikasilfur - rtęć
 kvikmynd - film
 kvikmyndahús - kino
-kvistur - gałąź | gałązka | sęk | poddasze | strych
+kvistur - gałąź, gałązka, sęk, poddasze, strych
 kvöld - wieczór
 kvöldverður - kolacja
-kyn - płeć | rodzaj | ród
+kyn - płeć, rodzaj, ród
 kynbundinn - seksualny
 kynhneigð - orientacja seksualna
 kynleysi - aseksualność
@@ -1944,29 +1944,29 @@ Kýpur - Cypr
 kýr - krowa
 kyrkja - dusić
 Kyrrahaf - Ocean Spokojny
-kyrrð - spokój | cisza | milczenie
+kyrrð - spokój, cisza, milczenie
 kyssa - całować
 lá - liggja
-labba - spacerować | włóczyć się
-lækna - wyleczyć | leczyć
-læknir - lekarz | doktor
+labba - spacerować, włóczyć się
+lækna - wyleczyć, leczyć
+læknir - lekarz, doktor
 læknisfræði - medycyna
-lækur - potok | strumień
-læra - uczyć się | studiować
+lækur - potok, strumień
+læra - uczyć się, studiować
 læri - udo
 læsa - zamknąć na klucz
-laglegur - ładny | przystojny
+laglegur - ładny, przystojny
 láglendi - nizina
 laglína - melodia
-lágur - niski | mały
+lágur - niski, mały
 lamb - jagnię
 lambakjöt - jagnięcina
 lampaskermur - abażur
-lampi - lampa | lampka (nocna)
+lampi - lampa, lampka (nocna)
 lána - pożyczać
-land - ziemia | obszar | kraj | państwo | ląd
+land - ziemia, obszar, kraj, państwo, ląd
 landafræði - geografia
-landamæri - granica | linia demarkacyjna
+landamæri - granica, linia demarkacyjna
 landbúnaður - rolnictwo
 landskjálfti - trzęsienie ziemi
 landsvala - jaskółka
@@ -1974,14 +1974,14 @@ langa - mieć ochotę
 langafi - pradziadek
 langamma - prababcia
 langatöng - palec środkowy
-langur - długi | wysoki
-lánsamur - szczęśliwy | mający szczęście
+langur - długi, wysoki
+lánsamur - szczęśliwy, mający szczęście
 láréttur - poziomy
 lárpera - awokado
 lásbogi - kusza
 lasta - obwiniać
 lát - śmierć
-láta - położyć | zostawić | wrzucić | wlać | stracić | upuścić | wypuścić | pozwolić | dać | pozwolić sobie | kazać | polecić | nakazywać | ulegać | pozostawić (po sobie) | zamknąć | otworzyć | zachowywać się | postępować | zaprzestać | zarzucić | zrezygnować | udawać | pozorować | robić się na… | umrzeć | zginąć
+láta - położyć, zostawić, wrzucić, wlać, stracić, upuścić, wypuścić, pozwolić, dać, pozwolić sobie, kazać, polecić, nakazywać, ulegać, pozostawić (po sobie), zamknąć, otworzyć, zachowywać się, postępować, zaprzestać, zarzucić, zrezygnować, udawać, pozorować, robić się na…, umrzeć, zginąć
 látbragð - gest
 latína - łacina
 latneskur - łaciński
@@ -1991,49 +1991,49 @@ lauftré - drzewo liściaste
 laugardagur - sobota
 Laugaskarð - Termopile
 laukur - cebula
-laus - wolny | wolny (niezamężna/nieżonaty) | luźny
+laus - wolny, wolny (niezamężna/nieżonaty), luźny
 -laus - bez-
-lausafregn - plotka | pogłoska
-lausn - uwolnienie | rozwiązanie | odpowiedź | odejście ze stanowiska | rezygnacja | zbawienie | wybawienie
+lausafregn - plotka, pogłoska
+lausn - uwolnienie, rozwiązanie, odpowiedź, odejście ze stanowiska, rezygnacja, zbawienie, wybawienie
 lausnarfé - okup
 lausnargjald - okup
 lausnari - wybawiciel
 Lausnari - Zbawiciel
-lausung - frywolność | lekkomyślność
+lausung - frywolność, lekkomyślność
 lax - łosoś
 laxerolía - olej rycynowy
 leður - skóra (materiał)
 leðurblaka - nietoperz
 leg - macica
-leggja niður skottið - rezygnować | poddawać się ( podkulić ogon)
+leggja niður skottið - rezygnować, poddawać się ( podkulić ogon)
 leggöng - pochwa
-leggur - noga | kość | łodyga
+leggur - noga, kość, łodyga
 legháls - szyjka macicy
 legið - liggja
-leið - szlak | droga | kurs | kierunek | sposób | metoda | bliżej nieokreślony czas | miejsce | bliżej nieokreślona ilość
+leið - szlak, droga, kurs, kierunek, sposób, metoda, bliżej nieokreślony czas, miejsce, bliżej nieokreślona ilość
 leiðinlegur - nudny
-leiðtogi - lider | przywódca
+leiðtogi - lider, przywódca
 leigubíll - taksówka
-leika - bawić się | grać
+leika - bawić się, grać
 leika lausum hala - być wolnym
 leikari - aktor
 leikhús - teatr (budynek teatru)
 leikkona - aktorka
-leikur - gra | zabawa
+leikur - gra, zabawa
 leirverk - przedmiot wykonany z gliny (rzeźba, figurka, garnek itp.)
 leit að - szukać
 leitast við - próbować
 leki - wyciek
 lend - polędwica
 lengi - długo
-lesa - czytać | uczyć się
-lesbía - lesbijka | homoseksualistka
+lesa - czytać, uczyć się
+lesbía - lesbijka, homoseksualistka
 lest - pociąg
 Lettland - Łotwa
 lettneska - język łotewski
 lexía - lekcja
-leyfa - pozwalać | dać
-leyfi - pozwolenie | zezwolenie | przyzwolenie | licencja | urlop | wolne
+leyfa - pozwalać, dać
+leyfi - pozwolenie, zezwolenie, przyzwolenie, licencja, urlop, wolne
 leynd - tajemnica
 leyndarmál - tajemnica
 leyniskytta - snajper
@@ -2045,10 +2045,10 @@ Líbía - Libia
 Líbýa - Libia
 líða yfir - zemdleć
 liðsforingi - oficer
-liður - staw | element
+liður - staw, element
 liðveisla - pomoc
-líf - życie | żywot
-lifa - żyć | przeżyć | ocaleć
+líf - życie, żywot
+lifa - żyć, przeżyć, ocaleć
 lífdagar - życie
 lífeðlisfræði - fizjologia
 lífefnafræði - biochemia
@@ -2059,20 +2059,20 @@ lífláta - zabić
 lífrænn - organiczny
 lifrarbólga - zapalenie wątroby (wirusowe)
 lifur - wątroba
-lífvera - organizm | istota żywa
+lífvera - organizm, istota żywa
 lífvörður - ochroniarz
-liggja - leżeć | śpieszyć się
-liggja á eggjum - siedzieć na jajach | wysiadywać
+liggja - leżeć, śpieszyć się
+liggja á eggjum - siedzieć na jajach, wysiadywać
 liggja undir grun - być pod zarzutem
-líka - także | też | również | zadowalać | sprawiać przyjemność
-líkami - ciało | organizm
+líka - także, też, również, zadowalać, sprawiać przyjemność
+líkami - ciało, organizm
 líkjör - likier
 líkkista - trumna
 lilja - lilia
 lím - klej
 límonaði - lemoniada
-limur - kończyna | członek | penis
-lín - len | tkanina lniana
+limur - kończyna, członek, penis
+lín - len, tkanina lniana
 lindifura - sosna limba
 línolía - olej lniany
 linsoðinn - gotowany na miękko
@@ -2084,15 +2084,15 @@ listasafn - muzeum sztuki
 listasýning - ekspozycja muzealna
 listaverk - dzieło sztuki
 listdómari - krytyk sztuki
-listmálari - malarz | artysta
+listmálari - malarz, artysta
 listrænn - artystyczny
-Litháen - Litwa | państwo w Europie
+Litháen - Litwa, państwo w Europie
 litháíska - język litewski
 lítill - mały
 litín - lit
 litlifingur - mały palec
 lítri - litr
-litur - kolor | barwa | farba
+litur - kolor, barwa, farba
 litúrgískur - liturgiczny
 liþín - lit
 ljár - kosa
@@ -2100,72 +2100,72 @@ ljóðlist - poezja
 ljóðskáld - poeta
 ljóður - wada
 ljón - lew
-Ljónið - Lew (gwiazdozbiór) | Lew (znak zodiaku)
-ljós - światło | jasny | oczywisty
+Ljónið - Lew (gwiazdozbiór), Lew (znak zodiaku)
+ljós - światło, jasny, oczywisty
 ljósapera - żarówka
 ljósár - rok świetlny
 ljóseind - foton
 ljósker - latarnia
 ljósmynd - fotografia
-ljótur - brzydki | zły
-ljúga - kłamać | łżeć
+ljótur - brzydki, zły
+ljúga - kłamać, łżeć
 lóðréttur - pionowy
 loforð - obietnica
-loft - powietrze | atmosfera | niebo | strych | poddasze | sufit | sklepienie
-loftárás - atak z powietrza | nalot
+loft - powietrze, atmosfera, niebo, strych, poddasze, sufit, sklepienie
+loftárás - atak z powietrza, nalot
 loftfimleikamaður - akrobata
 loftslag - klimat
 logi - płomień
-logn - bezwietrzna pogoda | cisza | sztil
+logn - bezwietrzna pogoda, cisza, sztil
 lögregla - policja
-lögur - ciecz | płyn
-lok - wieko | pokrywa | koniec
-loka - zasuwka | rygiel | zamykać | zatrzaskiwać
-loksins - w końcu | wreszcie | nareszcie
+lögur - ciecz, płyn
+lok - wieko, pokrywa, koniec
+loka - zasuwka, rygiel, zamykać, zatrzaskiwać
+loksins - w końcu, wreszcie, nareszcie
 lömun - paraliż
 lón - laguna
-löpp - łapa | stopa
+löpp - łapa, stopa
 lottó - loteria
 lúða - halibut
-lukka - radość | szczęście
+lukka - radość, szczęście
 lundi - maskonur
-Lundúnir - Londyn | stolica Wielkiej Brytanii
+Lundúnir - Londyn, stolica Wielkiej Brytanii
 lundur - zagajnik
 lunga - płuco
 lungnabólga - zapalenie płuc
-lungnakvef - bronchit | zapalenie oskrzeli
+lungnakvef - bronchit, zapalenie oskrzeli
 lús - wesz
 lútur - ług
 lúxus - luksus
 lýðræði - demokracja
-lýður - lud | ludzie | naród | tłum | motłoch | pospólstwo
+lýður - lud, ludzie, naród, tłum, motłoch, pospólstwo
 lýðveldi - republika
 Lýðveldið Albanía - Republika Albanii
 lyfjabúð - apteka
 lygari - kłamca
 lygi - kłamstwo
-lykill - klucz | klawisz
+lykill - klucz, klawisz
 lyng - wrzos
 lýsingarorð - przymiotnik
 maðkur - robak
-maður - mężczyzna | człowiek | osoba | mąż | małżonek | pionek
-mæðgin - matka i syn | matka z synem
-mæðgur - matka i córka | matka z córką
+maður - mężczyzna, człowiek, osoba, mąż, małżonek, pionek
+mæðgin - matka i syn, matka z synem
+mæðgur - matka i córka, matka z córką
 mæðraveldi - matriarchat
 mæla með - zalecać
 máfur - mewa
 magaverkur - ból brzucha
 magi - brzuch
 mágkona - bratowa
-magn - ilość | liczba | moc | siła
+magn - ilość, liczba, moc, siła
 magnesín - magnez
-magur - chudy | wymizerowany
+magur - chudy, wymizerowany
 mágur - szwagier
 maí - maj
 maís - kukurydza
 majónes - majonez
 makríll - makrela
-mál - język | sprawa | kwestia | proces | mowa | przemówienie | rozmowa | miara | wymiar | czas | pora | posiłek
+mál - język, sprawa, kwestia, proces, mowa, przemówienie, rozmowa, miara, wymiar, czas, pora, posiłek
 malari - młynarz
 málari - malarz
 malaría - malaria
@@ -2175,19 +2175,19 @@ málfræðilegur - gramatyczny
 málfræðingur - gramatyk
 mállýska - dialekt
 máltíð - posiłek
-málverk - obraz | malarstwo
+málverk - obraz, malarstwo
 mamma - mama
 mandarína - mandarynka
 mandla - migdał
 mangan - mangan
 mangó - mango
-manneskja - człowiek | osoba
+manneskja - człowiek, osoba
 mannfræði - antropologia
 mannkyn - ludzkość
 mannlegur - ludzki
 mánudagur - poniedziałek
 mánuður - miesiąc
-mappa - teczka | segregator | folder
+mappa - teczka, segregator, folder
 marghleypt skammbyssa - rewolwer
 marglytta - meduza
 Máritanía - Mauretania
@@ -2201,18 +2201,18 @@ matareitrun - zatrucie pokarmowe
 matarréttur - potrawa
 matreiðslubók - książka kucharska
 matseðill - menu
-matur - jedzenie | posiłek
+matur - jedzenie, posiłek
 matvara - jedzenie
-maur - mrówka | termit
+maur - mrówka, termit
 mávur - mewa
-með - z | mieć
-með húð og hári - w całości | z rękami i nogami | razem ze wszystkim
+með - z, mieć
+með húð og hári - w całości, z rękami i nogami, razem ze wszystkim
 meðlimur - członek
-með öllu tilheyrandi - kompletny | zapięty na ostatni guzik
+með öllu tilheyrandi - kompletny, zapięty na ostatni guzik
 meðvitundarlaus - nieprzytomny
-mega - mieć pozwolenie | móc | musieć | być w stanie
-megn - siła | większość | duży | potężny | wielki | niebagatelny
-mein - szkoda | krzywda | choroba | schorzenie
+mega - mieć pozwolenie, móc, musieć, być w stanie
+megn - siła, większość, duży, potężny, wielki, niebagatelny
+mein - szkoda, krzywda, choroba, schorzenie
 meinafræði - patologia
 meinsæri - krzywoprzysięstwo
 meir - bardziej
@@ -2220,46 +2220,46 @@ meira - bardziej
 meistaraverk - arcydzieło
 meistari - mistrz
 meitill - dłuto
-melludólgur - alfons | sutener
+melludólgur - alfons, sutener
 melóna - melon
 melting - trawienie
 mennt - sztuka
 ment - sztuka
 mér-ei - niezapominajka
 meri - klacz
-merking - znaczenie | znakowanie | oznaczanie
+merking - znaczenie, znakowanie, oznaczanie
 Merkúr - Merkury
 Merkúríus - Merkury
 Mesópótamía - Mezopotamia
 mest - najbardziej
 metri - metr
 Mexíkó - Meksyk
-Mexíkóborg - Meksyk | stolica Meksyku
+Mexíkóborg - Meksyk, stolica Meksyku
 mey - panna
 meyja - panna
-Meyjan - Panna (gwiazdozbiór) | Panna (znak zodiaku)
+Meyjan - Panna (gwiazdozbiór), Panna (znak zodiaku)
 miðdagur - południe
 miðdegi - południe
 Mið-Evrópa - Europa Środkowa
-miði - bilet | karta wstępu | kartka papieru | karteczka | zakładka
-miðja - środek | centrum
+miði - bilet, karta wstępu, kartka papieru, karteczka, zakładka
+miðja - środek, centrum
 Miðjarðarhaf - Morze Śródziemne
 miðjarðarhafsfura - sosna nadmorska (, )
 miðnætti - północ (pora dnia)
 miðnótt - północ (pora dnia)
 miðvikudagur - środa
-mikill - duży | wielki | dużo | wspaniały | wybitny
+mikill - duży, wielki, dużo, wspaniały, wybitny
 mikilsvert - ważny
-mikilvægi - istotność | ważność
-míla - mila | jednostka długości
+mikilvægi - istotność, ważność
+míla - mila, jednostka długości
 milljón - milion
 milta - śledziona
 milti - śledziona
-minn - mój | mojego
+minn - mój, mojego
 minni - lítill
 minnimáttarkennd - kompleks mniejszości
 minnisgripur - pamiątka
-minnka - zmniejszać | pomniejszać | maleć
+minnka - zmniejszać, pomniejszać, maleć
 minnstur - lítill
 minta - mięta
 mínusjón - anion (jon ujemny)
@@ -2274,14 +2274,14 @@ mjöður - miód pitny
 mjög - bardzo
 mjöl - mąka
 mjólk - mleko
-mjólkursykur - laktoza | cukier mlekowy
+mjólkursykur - laktoza, cukier mlekowy
 módernískur - modernistyczny
 módernismi - modernizm
 móðga - obrażać
 móðir - matka
-móðurætt - rodzina matki | ród matki
+móðurætt - rodzina matki, ród matki
 móðurbróðir - wujek ( brat matki)
-móðursystir - ciotka | ciocia ( siostra matki)
+móðursystir - ciotka, ciocia ( siostra matki)
 mögulegur - możliwy
 möguleiki - możliwość
 möl - żwir
@@ -2290,25 +2290,25 @@ mólýbden - molibden
 möndull - oś
 Mongólía - Mongolia
 mór - torf
-mör - sadło | łój
+mör - sadło, łój
 morð - morderstwo
 morðingi - morderca
 morfín - morfina
 mörgæs - pingwin
 morgunblað - dziennik
 morgunmatur - śniadanie
-morgunn - ranek | przedpołudnie
+morgunn - ranek, przedpołudnie
 morgunverður - śniadanie
 mörk - las
-mosavaxinn - omszały | porośnięty mchem
+mosavaxinn - omszały, porośnięty mchem
 mosi - mech
 moska - meczet
-mót - spotkanie | zebranie | forma
+mót - spotkanie, zebranie, forma
 mótherji - oponent
-mótmæla - protestować | sprzeciwiać się | zaprzeczać
+mótmæla - protestować, sprzeciwiać się, zaprzeczać
 mótmælandi - protestant
-mötuneyti - stołówka | kantyna
-muna - przypominać sobie | pamiętać | różnić się
+mötuneyti - stołówka, kantyna
+muna - przypominać sobie, pamiętać, różnić się
 munaðarleysingi - sierota
 munaðarleysingjahæli - sierociniec
 muna eftir - pamiętać
@@ -2316,8 +2316,8 @@ munkur - mnich
 munnmök - seks oralny
 munnur - usta
 munnvatn - ślina
-munur - różnica | rzecz | objekt
-múr - mur | ściana
+munur - różnica, rzecz, objekt
+múr - mur, ściana
 múrsteinn - cegła
 mús - mysz
 múskat - gałka muszkatołowa
@@ -2325,28 +2325,28 @@ múslimi - muzułmanin
 múslími - muzułmanin
 musteri - świątynia
 mýkt - miękkość
-mynd - obraz (dzieło malarskie) | fotografia | ilustracja | rysunek | film | forma | kształt | strona
-mynda - formować | kształtować | fotografować
+mynd - obraz (dzieło malarskie), fotografia, ilustracja, rysunek, film, forma, kształt, strona
+mynda - formować, kształtować, fotografować
 myndaalbúm - album ze zdjęciami
 myndarlegur - przystojny
 myndavél - kamera
 myndband - kaseta wideo
 myndlist - malarstwo
-mynt - moneta | waluta
+mynt - moneta, waluta
 myrða - mordować
-myrkur - ciemność | ciemny | niejasny | trudny do zrozumienia | ponury
-myrkvi - zaćmienie | ciemność | mrok
+myrkur - ciemność, ciemny, niejasny, trudny do zrozumienia, ponury
+myrkvi - zaćmienie, ciemność, mrok
 mysa - serwatka
 mýta - mit
 nábúi - sąsiad
 næpa - rzepa
-næra - karmić | odżywiać
+næra - karmić, odżywiać
 nærföt - bielizna
-nærri - blisko | prawie
+nærri - blisko, prawie
 næturgali - słowik
 nafli - pępek
 nafn - imię
-nafnháttarmerki - wykładnik bezokolicznika | partykuła bezokolicznikowa
+nafnháttarmerki - wykładnik bezokolicznika, partykuła bezokolicznikowa
 nafnháttur - bezokolicznik
 nafnorð - rzeczownik
 nagdýr - gryzoń
@@ -2359,7 +2359,7 @@ nakinn - nagi
 nákvæmlega - dokładnie
 nál - igła
 nálægt - blisko
-nám - studia | nauka | zabieranie | zajmowanie
+nám - studia, nauka, zabieranie, zajmowanie
 Namibía - Namibia
 nánd - bliskość
 Nárú - Nauru
@@ -2372,40 +2372,40 @@ náttúrulegur - naturalny
 náttúruvísindi - nauki przyrodnicze
 nauðsyn - potrzeba
 nauðsynlegur - konieczny
-naut - krowa | byk | idiota
+naut - krowa, byk, idiota
 nautakjöt - wołowina
-Nautið - Byk (gwiazdozbiór) | Byk (znak zodiaku)
+Nautið - Byk (gwiazdozbiór), Byk (znak zodiaku)
 nautpeningur - krowa
-neðanjarðarlest - metro | kolej podziemna
-nef - nos | dziób
+neðanjarðarlest - metro, kolej podziemna
+nef - nos, dziób
 nefnd - komitet
 nefnifall - mianownik
 negull - goździk
 nei - nie
-neinn - nikt | nic
+neinn - nikt, nic
 nektarína - nektarynka
 Nepal - Nepal
 Neptúnus - Neptun
 netlusöngvari - piegża
-New York-borg - Nowy Jork | miasto w USA
+New York-borg - Nowy Jork, miasto w USA
 nf. - mianownik
 niðurgangur - biegunka
-Niðurlönd - Holandia | Niderlandy
+Niðurlönd - Holandia, Niderlandy
 nifteind - neutron
 Nígería - Nigeria
 nikkel - nikiel
 nirfill - skąpiec
-nítján - dziewiętnaście | 19
+nítján - dziewiętnaście, 19
 nítjándi - dziewiętnasty
 nitur - azot
-níu - dziewięć | 10
+níu - dziewięć, 10
 níundi - dziewiąty
 njósna - szpiegować
 njósnari - szpieg
-nóg - dosyć | dość | wystarczająco
+nóg - dosyć, dość, wystarczająco
 nögl - paznokieć (u ręki)
-nógur - wystarczający | dostateczny
-nokkuð - raczej | stosunkowo | trochę
+nógur - wystarczający, dostateczny
+nokkuð - raczej, stosunkowo, trochę
 norðlægur - północny
 Norðmaður - Norweg
 norður - północ
@@ -2418,47 +2418,47 @@ norðurheimskaut - biegun północny
 norðurhvel - półkula północna
 Norður-Íshaf - Ocean Arktyczny
 norðurlandamál - język skandynawski
-Norðurlönd - Kraje Północy | Północ
+Norðurlönd - Kraje Północy, Północ
 norðurpóll - biegun północny
 Norðursjór - Morze Północne
 Noregur - Norwegia
-norrænn - skandynawski | nordycki
+norrænn - skandynawski, nordycki
 norska - język norweski
 norskur - norweski
 nös - nozdrze
 nostalgía - nostalgia
-nota - używać | użytkować
+nota - używać, użytkować
 notandi - użytkownik
 notkun - użycie
 nótt - noc
 nóvember - listopad
-nú - teraz | teraźniejszość
+nú - teraz, teraźniejszość
 núðlur - makaron
-núll - nic | zero
+núll - nic, zero
 númer - numer
 núna - teraz
-nú um stundir - obecnie | w dzisiejszych czasach
+nú um stundir - obecnie, w dzisiejszych czasach
 nýár - Nowy Rok
-nýbygging - budowa | wznoszenie budynku | nowo wzniesiona budowla | nowy budynek
+nýbygging - budowa, wznoszenie budynku, nowo wzniesiona budowla, nowy budynek
 Nýja-Sjáland - Nowa Zelandia
 nýlega - ostatnio
 nýlenda - kolonia
 nýr - nowy
-nýra - nerka | cynaderka
+nýra - nerka, cynaderka
 nytsamlegur - przydatny
 nýtt tungl - nów
 nýverið - ostatnio
-ó - och! | ach!
+ó - och!, ach!
 ó- - nie-
 óákveðið fornafn - zaimek nieokreślony
-óbærilegur - nieznośny | nie do zniesienia
+óbærilegur - nieznośny, nie do zniesienia
 ódauðlegur - nieśmiertelny
 ódýr - tani
 óendanleiki - nieskończoność
 öfga - przesadzać
 ofnæmi - alergia
 ófreskja - potwór
-ófriður - wojna | niepokój | niezgoda
+ófriður - wojna, niepokój, niezgoda
 ófríður - brzydki
 ófrískur - w ciąży
 ofsækja - prześladować
@@ -2473,14 +2473,14 @@ og - i
 ógurlegur - okropny
 óhapp - wypadek
 ok - jarzmo
-okkar - nas | nasz
+okkar - nas, nasz
 ökkli - kostka u nogi
 október - październik
-ökutæki - wehikuł | środek transportu
+ökutæki - wehikuł, środek transportu
 öl - piwo
 ölæði - pijaństwo
 ólæsilegur - nieczytelny
-öld - wiek | stulecie | okres | epoka
+öld - wiek, stulecie, okres, epoka
 öldungaráðsmaður - senator
 óléttur - w ciąży
 Olga - Olga
@@ -2488,13 +2488,13 @@ Olga - Olga
 olía - olej
 ólífa - oliwka
 ólífuolía - olej z oliwek
-olíumálverk - obraz olejny | malarstwo olejne
+olíumálverk - obraz olejny, malarstwo olejne
 öllum stundum - cały czas
 ólmur - dziki
 ölmusa - jałmużna
 olnbogi - łokieć
 ólöglegur - nielegalny
-ólundarlegur - opieszały | niemrawy | ociężały | powolny | flegmatyczny
+ólundarlegur - opieszały, niemrawy, ociężały, powolny, flegmatyczny
 ólympíuleikar - igrzyska olimpijskie
 Óman - Oman
 ómögulegur - niemożliwy
@@ -2503,7 +2503,7 @@ olnbogi - łokieć
 ópall - opal
 ópera - opera
 ópíum - opium
-orð - słowo | wyraz
+orð - słowo, wyraz
 orðabók - słownik
 orðliður - człon rzeczownika złożonego (dowolny)
 orðsending - wiadomość
@@ -2512,17 +2512,17 @@ orðsifjar - etymologia (pochodzenie i rozwój słowa)
 öreind - cząstka elementarna
 orgía - orgia
 örk - łuk
-orka - moc | energia | wpływać
-orlof - wolne | urlop
-örlög - los | przeznaczenie
-ormur - wąż | robak
+orka - moc, energia, wpływać
+orlof - wolne, urlop
+örlög - los, przeznaczenie
+ormur - wąż, robak
 örn - orzeł
-orsök - przyczyna | powód
-örugglega - z pewnością | pewnie | na pewno
-öruggur - wiarygodny | godny zaufania | pewien | bezpieczny
+orsök - przyczyna, powód
+örugglega - z pewnością, pewnie, na pewno
+öruggur - wiarygodny, godny zaufania, pewien, bezpieczny
 öryggisbelti - pas bezpieczeństwa
-o.s.frv. - i tak dalej | itd.
-ósk - życzenie | pragnienie
+o.s.frv. - i tak dalej, itd.
+ósk - życzenie, pragnienie
 óska til hamingju - gratulować
 öskubakki - popielniczka
 Öskubuska - Kopciuszek
@@ -2533,7 +2533,7 @@ ostur - ser
 ótti - strach
 otur - wydra
 óvera - drobnostka
-óvinur - wróg | nieprzyjaciel
+óvinur - wróg, nieprzyjaciel
 öxi - topór
 oxíð - tlenek
 öxl - bark
@@ -2541,8 +2541,8 @@ oxíð - tlenek
 óþarfur - niepotrzebny
 óþekkur - niegrzeczny
 óþolinmóður - niecierpliwy
-pabbi - tata | tatuś
-pæla - spulchniona ziemia | kopać | ryć | uderzać motyką | badać coś | zastanawiać się nad czymś | studiować coś | przekopywać się | wertować
+pabbi - tata, tatuś
+pæla - spulchniona ziemia, kopać, ryć, uderzać motyką, badać coś, zastanawiać się nad czymś, studiować coś, przekopywać się, wertować
 páfagaukur - papuga
 páfi - papież
 páfugl - paw
@@ -2555,28 +2555,28 @@ paprikuduft - papryka (przyprawa)
 paradís - raj
 Paragvæ - Paragwaj
 París - Paryż
-páskaegg - pisanka | wydmuszka | czekoladowe jajo wielkanocne
+páskaegg - pisanka, wydmuszka, czekoladowe jajo wielkanocne
 páskar - Wielkanoc
 patríarki - patriarcha
 pedall - pedał
 pelíkani - pelikan
 peningabudda - portmonetka
-peningalaus - bez pieniędzy | spłukany
+peningalaus - bez pieniędzy, spłukany
 peningar - pieniądze
 peningaseðill - banknot
 peningur - moneta
 penta - malować
-pera - gruszka | żarówka
+pera - gruszka, żarówka
 perla - perła
 Persaflói - Zatoka Perska
-persóna - osoba | osobowość | postać (z bajki, filmu )
+persóna - osoba, osobowość, postać (z bajki, filmu )
 persónufornafn - zaimek osobowy
 persónulega - osobiście
 persónulegur - osobisty
-persónuleiki - charakter | osobowość
+persónuleiki - charakter, osobowość
 Perú - Peru
 Pétur - Piotr
-peysa - sweter | pulower
+peysa - sweter, pulower
 píanó - fortepian
 pils - spódnica
 piltur - chłopak
@@ -2588,15 +2588,15 @@ pískra - szeptać
 pistasíuhneta - pistacja
 Pittsburgh - Pittsburgh (stolica Allegheny)
 pizza - pizza
-plan - plan | projekt | zamiar | płaszczyzna | otwarta przestrzeń | pole | poziom
+plan - plan, projekt, zamiar, płaszczyzna, otwarta przestrzeń, pole, poziom
 pláneta - planeta
 platína - platyna
 plóma - śliwka
 plómutré - śliwa
-plúsjón - kation | jon dodatni
+plúsjón - kation, jon dodatni
 Plútó - Pluton
 pöbb - pub
-poki - worek | wór | torba
+poki - worek, wór, torba
 póll - biegun
 Pólland - Polska
 pólon - polon
@@ -2608,34 +2608,34 @@ pönkrokk - punk rock
 pönnukaka - naleśnik
 Portúgal - Portugalia
 portúgalska - portugalski
-pósthús - poczta | urząd pocztowy
+pósthús - poczta, urząd pocztowy
 póstmódernískur - postmodernistyczny
 póstmódernismi - postmodernizm
 postulín - porcelana
 pottréttur - danie przygotowywane w garnku
-pottur - garnek | kocioł | jacuzzi | wanna z hydromasażem
+pottur - garnek, kocioł, jacuzzi, wanna z hydromasażem
 predikari - kaznodzieja
 predikun - kazanie
 prenta - drukować
 pressujárn - żelazko
-prins - książę | królewicz
-prinsessa - księżniczka | królewna
+prins - książę, królewicz
+prinsessa - księżniczka, królewna
 prísund - więzienie
-próf - egzamin | test
-prófa - wypróbowywać | testować | zdawać
+próf - egzamin, test
+prófa - wypróbowywać, testować, zdawać
 prófessor - profesor
 prúðmenni - dżentelmen
 prússneskur - pruski
 púpa - kokon
 pylsa - kiełbasa
-pynda - torturować | męczyć
-pynta - torturować | męczyć
+pynda - torturować, męczyć
+pynta - torturować, męczyć
 rabarbari - rabarbar
 ráðherra - minister
-raðhús - dom szeregowy | szeregowiec
-ráðhús - ratusz | urząd miejski
+raðhús - dom szeregowy, szeregowiec
+ráðhús - ratusz, urząd miejski
 rádýr - sarna
-ræða - mowa | przemówienie | wystąpienie | rozmawiać | dyskutować | mówić | omawiać | rozmawiać ze sobą
+ræða - mowa, przemówienie, wystąpienie, rozmawiać, dyskutować, mówić, omawiać, rozmawiać ze sobą
 ræðinn - rozmowny
 ræðismaður - konsul
 rækja - krewetka
@@ -2643,8 +2643,8 @@ raf - bursztyn
 rafeind - elektron
 raffræði - elektrotechnika
 raffræðingur - elektrotechnik
-rafgeymir - bateria | akumulator
-rafhlaða - bateria | akumulator
+rafgeymir - bateria, akumulator
+rafhlaða - bateria, akumulator
 rafljós - światło elektryczne
 rafmagn - elektryczność
 rafmagnsnotkun - zużycie prądu
@@ -2663,22 +2663,22 @@ rakki - pies
 rakur - wilgotny
 rakvél - brzytwa
 rán - rabunek
-rangur - niepoprawny | zły | fałszywy
+rangur - niepoprawny, zły, fałszywy
 rann - renna
 rannsóknarstofa - laboratorium
 rapp - rap
 rappari - raper
-rás - bieg | kanał (telewizja, radio) | rów
+rás - bieg, kanał (telewizja, radio), rów
 rasismi - rasizm
-rauðkorn - erytrocyt | czerwona krwinka | czerwone ciałko krwi
+rauðkorn - erytrocyt, czerwona krwinka, czerwone ciałko krwi
 rauðleitur - czerwonawy
 rauðrófa - burak
 rauður - czerwony
 rauðvín - czerwone wino
-raunhyggja - realizm | pozytywizm | empiryzm
+raunhyggja - realizm, pozytywizm, empiryzm
 raunveruleiki - rzeczywistość
 raupsamur - chełpliwy
-rautt blóðkorn - erytrocyt | czerwona krwinka | czerwone ciałko krwi
+rautt blóðkorn - erytrocyt, czerwona krwinka, czerwone ciałko krwi
 refsing - kara
 refur - lis
 regn - deszcz
@@ -2691,40 +2691,40 @@ reiði - gniew
 reiðubúinn - gotowy
 reikistjarna - planeta
 rekkja - łóżko
-rektor - rektor | dyrektor gimnazjum (menntaskóli)
-renna - rynna | płynąć | sunąć | wschodzić | zdać sobie sprawę | rozmawiać | konwersować | łączyć się | wytrzeźwieć | upłynąć | lać | ślizgać się | jechać | biec | rozpiąć | połykać | zapiąć | prześlizgiwać się | przebiegać wzrokiem | czytać po łebkach
+rektor - rektor, dyrektor gimnazjum (menntaskóli)
+renna - rynna, płynąć, sunąć, wschodzić, zdać sobie sprawę, rozmawiać, konwersować, łączyć się, wytrzeźwieć, upłynąć, lać, ślizgać się, jechać, biec, rozpiąć, połykać, zapiąć, prześlizgiwać się, przebiegać wzrokiem, czytać po łebkach
 rennblautur - mokrzuteńki
 rennihurð - drzwi rozsuwane
-rétt - prawy | poprawnie | wybieg | zagroda
-rétta - prawa strona | poprawiać | korygować | prostować | odginać | rozciągać | wydłużać | podać | wręczyć
+rétt - prawy, poprawnie, wybieg, zagroda
+rétta - prawa strona, poprawiać, korygować, prostować, odginać, rozciągać, wydłużać, podać, wręczyć
 réttarfar - sądownictwo
 réttarhald - przewód sądowy
 rétthyrndur - prostokątny
 rétthyrningur - prostokąt
-réttindi - uprawnienia | licencja
+réttindi - uprawnienia, licencja
 réttlæti - sprawiedliwość
-réttlátur - słuszny | sprawiedliwy
+réttlátur - słuszny, sprawiedliwy
 réttritun - poprawna pisownia
-réttur - sąd | prawo | uprawnienie | danie | potrawa | prosty | poprawny | bezbłędny | prawdziwy | właściwy | dobry | słuszny | prawidłowy
+réttur - sąd, prawo, uprawnienie, danie, potrawa, prosty, poprawny, bezbłędny, prawdziwy, właściwy, dobry, słuszny, prawidłowy
 reykháfur - komin
-reyking - wędzenie | palenie (tytoniu)
+reyking - wędzenie, palenie (tytoniu)
 Reykjavík - Reykjavík
 reykur - dym
-reynsla - doświadczenie | próba | ćwiczenie | test
+reynsla - doświadczenie, próba, ćwiczenie, test
 reynslulaus - niedoświadczony
 reynsluleysi - brak doświadczenia
-riddari - jeździec | rycerz | skoczek
-rif - żebro | żeberka | rafa
+riddari - jeździec, rycerz, skoczek
+rif - żebro, żeberka, rafa
 riffill - karabin
 rifsber - porzeczka
 rigning - deszcz
 ríki - królestwo
 ríkidæmi - pieniądze
 ríkisborgari - obywatel (państwa)
-ríkissjónvarp - telewizja publiczna | państwowa
-ríkja - panować | rządzić | dominować | przewodzić
+ríkissjónvarp - telewizja publiczna, państwowa
+ríkja - panować, rządzić, dominować, przewodzić
 risaeðla - dinozaur
-risi - olbrzym | gigant
+risi - olbrzym, gigant
 risna - gościnność
 ristilspeglun - kolonoskopia
 rithöfundur - pisarz
@@ -2732,15 +2732,15 @@ ritun - pisownia
 rjómaís - lody
 rjómi - śmietana
 Róbert - Robert
-röð - rząd (obiekt za obiektem) | sekwencja | bieg (zdarzeń)
+röð - rząd (obiekt za obiektem), sekwencja, bieg (zdarzeń)
 roðasteinn - rubin
 rödd - głos
 ródín - rod
-rófa - ogon (kota lub psa) | brukiew
+rófa - ogon (kota lub psa), brukiew
 rok - bardzo silny sztorm (10. stopień w skali Beauforta)
 rökfræði - logika
 rokk - rock
-rökkur - zmierch | zmrok
+rökkur - zmierch, zmrok
 rólega - spokojnie
 Róm - Rzym
 Rómaborg - Rzym
@@ -2748,28 +2748,28 @@ romm - rum
 rór - spokojny
 rós - róża
 rósakál - brukselka
-rosalega - niesamowicie | niewiarygodnie | niezwykle
-rosalegur - niesamowity | okropny | nadzwyczajny
+rosalega - niesamowicie, niewiarygodnie, niezwykle
+rosalegur - niesamowity, okropny, nadzwyczajny
 rósmarín - rozmaryn
 rosti - arogancja
 rostungur - mors
-rót - korzeń | pierwiastek | złoczyńca | zła osoba
+rót - korzeń, pierwiastek, złoczyńca, zła osoba
 róteind - proton
 rótgróinn - zakorzeniony
 rotta - szczur
-róttækur - radykalny | gruntowny
+róttækur - radykalny, gruntowny
 rúbín - rubin
 ruðningur - rugby
 rúgbrauð - chleb żytni
 rúgur - żyto
-rúm - łóżko | miejsce | przestrzeń
+rúm - łóżko, miejsce, przestrzeń
 Rúmenía - Rumunia
 rúmenska - rumuński
 rúmfræði - geometria
-rúmlega - powyżej (trochę) | przeszło
+rúmlega - powyżej (trochę), przeszło
 rúmmál - objętość
 rúmmetri - metr sześcienny (jednostka objętości)
-runni - krzak | krzew
+runni - krzak, krzew
 rúsína - rodzynek
 Rússland - Rosja
 rússneska - język rosyjski
@@ -2778,22 +2778,22 @@ Rvík - Reykjavík
 ryð - rdza
 rýtingur - sztylet
 Sádí-Arabía - Arabia Saudyjska
-sæglópur - zaginiony na morzu | zaginiony żeglarz
+sæglópur - zaginiony na morzu, zaginiony żeglarz
 sænska - język szwedzki
-særa - ranić | kaleczyć | zadawać rany | urażać | obrażać | strzyc | zaklinać | wywoływać | przywoływać | zostać rannym
-sá er vinur, sem í raun reynist - prawdziwych przyjaciół poznaje się w biedzie | ten jest przyjacielem | kto sprawdza się w potrzebie
+særa - ranić, kaleczyć, zadawać rany, urażać, obrażać, strzyc, zaklinać, wywoływać, przywoływać, zostać rannym
+sá er vinur, sem í raun reynist - prawdziwych przyjaciół poznaje się w biedzie, ten jest przyjacielem, kto sprawdza się w potrzebie
 sæstjarna - rozgwiazda
 sætistala - liczba atomowa
-sæt kartafla - batat | patat
+sæt kartafla - batat, patat
 sætur - słodki
 safaríkur - soczysty
 saffran - szafran
-safi - sok | żywica
+safi - sok, żywica
 safír - szafir
-safn - muzeum | kolekcja
+safn - muzeum, kolekcja
 safnhús - muzeum (budynek)
 sag - trociny
-saga - historia | opowieść | dzieje | saga | piłować
+saga - historia, opowieść, dzieje, saga, piłować
 sagnbeyging - koniugacja
 sagnorð - czasownik
 sakleysi - niewinność
@@ -2803,36 +2803,36 @@ sáld - sito
 sálfræði - psychologia
 salt - sól
 saltur - słony
-saltvatn - woda słona | woda morska
-saltvatnsfiskur - ryba słonowodna | ryba morski
+saltvatn - woda słona, woda morska
+saltvatnsfiskur - ryba słonowodna, ryba morski
 salvi - maść
 salvía - szałwia
 samábyrgð - odpowiedzialność zbiorowa
 saman - razem
-samband - związek | kontakt | połączenie | unia
-sambandslýðveldi - republika federalna | republika związkowa
+samband - związek, kontakt, połączenie, unia
+sambandslýðveldi - republika federalna, republika związkowa
 sameind - cząsteczka
-Sameinuðu þjóðirnar - Organizacja Narodów Zjednoczonych | ONZ
+Sameinuðu þjóðirnar - Organizacja Narodów Zjednoczonych, ONZ
 samfundur - spotkanie
 samheiti - synonim
-samkvæmt - według | zgodnie z…
-samkynhneigð - homoseksualizm | homoseksualność
+samkvæmt - według, zgodnie z…
+samkynhneigð - homoseksualizm, homoseksualność
 samræði - stosunek seksualny
 samsæri - konspiracja
 samtal - rozmowa
 samtenging - spójnik
-samtök - związek | unia
-samþykkja - zaakceptować | przyjąć | zgodzić się na
+samtök - związek, unia
+samþykkja - zaakceptować, przyjąć, zgodzić się na
 sandali - sandał
 sandauðn - pustynia piaszczysta
 sandhóll - wydma
 sandur - piasek
 sannleikur - prawda
-sannur - prawdziwy | autentyczny | prawdomówny | pewny
+sannur - prawdziwy, autentyczny, prawdomówny, pewny
 Saó Tóme og Prinsípe - Wyspy Świętego Tomasza i Książęca
 sápa - mydło
 sár - rana
-sárasótt - syfilis | kiła
+sárasótt - syfilis, kiła
 sardína - sardynka
 Sardinía - Sardynia
 sársauki - ból
@@ -2841,7 +2841,7 @@ sauðamaður - pasterz
 sauðkind - owca
 sauður - owca
 sauma - szyć
-sautján - siedemnaście | 17
+sautján - siedemnaście, 17
 sautjándi - siedemnasty
 sebrahestur - zebra
 seðill - banknot
@@ -2850,19 +2850,19 @@ segjast - powiedzieć
 segl - żagiel
 segull - magnes
 seildýr - strunowiec
-seinn - wolny | powolny | późny
+seinn - wolny, powolny, późny
 seinna - później
 seinni heimsstyrjöldin - druga wojna światowa
 sekúnda - sekunda
 sekur - winny
-selja - sprzedawać | wręczać
+selja - sprzedawać, wręczać
 sellerí - seler
 selló - wiolonczela
-sem - który/która/które/którzy | jak | niby
+sem - który/która/które/którzy, jak, niby
 sement - cement
 senda - wysyłać
 sendibréf - list
-sendiferð - sprawunek | zadanie do wykonania | sprawa do załatwienia
+sendiferð - sprawunek, zadanie do wykonania, sprawa do załatwienia
 sendiherra - ambasador
 sendiráð - ambasada
 september - wrzesień
@@ -2871,12 +2871,12 @@ Serbía - Serbia
 Serbía og Svartfjallaland - Serbia i Czarnogóra
 serbneskur - serbski
 sermi - surowica
-sérstaklega - szczególnie | niezwykle
+sérstaklega - szczególnie, niezwykle
 sesam - sezam
 sesín - cez
 setjast í helgan stein - odejść na emeryturę
 setningafræði - składnia
-sex - sześć | 6
+sex - sześć, 6
 sextán - szesnaście
 sextándi - szesnasty
 sextant - sekstant
@@ -2885,7 +2885,7 @@ seyði - rosół
 síðar - później
 síðast - ostatni
 síðdegi - popołudnie
-siður - zwyczaj | obyczaj | religia | wierzenia
+siður - zwyczaj, obyczaj, religia, wierzenia
 siðvenja - zwyczaj
 sifjaspell - kazirodztwo
 sígaretta - papieros
@@ -2893,7 +2893,7 @@ sigð - sierp
 sigla - żeglować
 siglutré - maszt
 sigur - zwycięstwo
-sigurvegari - zdobywca | zwycięzca bitwy | wojny | zwycięzca
+sigurvegari - zdobywca, zwycięzca bitwy, wojny, zwycięzca
 Sikiley - Sycylia
 síld - śledź
 silfur - srebro
@@ -2902,37 +2902,37 @@ silíkon - krzem
 silkitoppa - jemiołuszka
 silungur - pstrąg
 sími - telefon
-Símon - Szymon | imię męskie
+Símon - Szymon, imię męskie
 simpansi - szympans
 Singapúr - Singapur
 sink - cynk
-sinn - jego | jej
+sinn - jego, jej
 sinnep - musztarda
 Sirrý - islandzkie imię żeńskie
-sitja - siedzieć | brać udział | zajmować miejsce
+sitja - siedzieć, brać udział, zajmować miejsce
 sítróna - cytryna
 sítrónutré - cytryna (drzewo)
-sjá - widzieć | dostrzec | zrozumieć | przyjąć do wiadomości
+sjá - widzieć, dostrzec, zrozumieć, przyjąć do wiadomości
 sjal - szal
 sjaldan - rzadko
-sjaldan er ein báran stök - nieszczęścia chodzą parami | rzadko się zdarza pojedyncza fala
-sjaldgæfur - rzadki | unikalny | niezwykły
+sjaldan er ein báran stök - nieszczęścia chodzą parami, rzadko się zdarza pojedyncza fala
+sjaldgæfur - rzadki, unikalny, niezwykły
 sjálfhælinn - chełpliwy
-sjálfsagður - oczywisty | niewątpliwy | taki | który rozumie się sam przez się
+sjálfsagður - oczywisty, niewątpliwy, taki, który rozumie się sam przez się
 sjálfsmorð - samobójstwo
-sjálfstæði - niepodległość | niezależność | autonomia
+sjálfstæði - niepodległość, niezależność, autonomia
 sjálfvirkur - automatyczny
 sjampó - szampon
 sjávarmál - poziom morza
-sjö - siedem | 7
+sjö - siedem, 7
 sjófang - owoce morza
-sjómaður - marynarz | żeglarz
+sjómaður - marynarz, żeglarz
 sjónleikur - spektakl
 sjónvarp - telewizja
 sjónvarpsþáttur - program telewizyjny
 sjór - morze
 sjötti - szósty
-sjöundi - siódmy | 7.
+sjöundi - siódmy, 7.
 sjúga - ssać
 sjúga í sig - absorbować
 sjúkdómafræði - patologia
@@ -2942,14 +2942,14 @@ skaðlegur - szkodliwy
 skækja - prostytutka
 skæri - nożyczki
 skagi - półwysep
-skák - szachy | gra w szachy | szachownica
-skál - miska | miednica
+skák - szachy, gra w szachy, szachownica
+skál - miska, miednica
 skáld - poeta
 skáldkona - poetka
 skáldsaga - powieść
 skáldskapur - poezja
 skammstöfun - skrót
-skammur - niedaleki | krótki
+skammur - niedaleki, krótki
 skandall - skandal
 skandín - skand
 skap - humor
@@ -2960,10 +2960,10 @@ skápur - szafa
 ske - zdarzyć się
 skegg - broda
 skeggjaður - brodaty
-skeið - łyżka | bieg | łańcuch | okres | czas
+skeið - łyżka, bieg, łańcuch, okres, czas
 skeiðar - pochwa
 skeifa - podkowa
-skemmtilegur - wciągający | zajmujący | ciekawy | interesujący
+skemmtilegur - wciągający, zajmujący, ciekawy, interesujący
 skíðastökk - skoki narciarskie
 skíði - narta
 skikkja - peleryna
@@ -2971,21 +2971,21 @@ skilaboð - wiadomość
 skína - błyszczeć
 skinka - szynka
 skinn - skóra
-skip - statek | okręt
-skipa - polecać | rozkazywać | dać rozkaz | rozkładać | rozmieszczać | układać | rozładować | wyładować | załadować na statek | wyznaczać | skierowywać | mianować | ustanawiać | zajmować | wypełniać
+skip - statek, okręt
+skipa - polecać, rozkazywać, dać rozkaz, rozkładać, rozmieszczać, układać, rozładować, wyładować, załadować na statek, wyznaczać, skierowywać, mianować, ustanawiać, zajmować, wypełniać
 skipulagning - plan
 skítugur - brudny
-skjalataska - teczka | aktówka
+skjalataska - teczka, aktówka
 skjaldarmerki - godło
 skjaldarmerkjafræði - heraldyka
 skjaldbaka - żółw
 skjór - sroka
 skjóta - strzelać
-skoða - patrzeć | oglądać | obserwować | zbadać | przyjrzeć się | rozpatrzyć | rozejrzeć się (wokół)
-skoðun - opinia | pogląd | zdanie
+skoða - patrzeć, oglądać, obserwować, zbadać, przyjrzeć się, rozpatrzyć, rozejrzeć się (wokół)
+skoðun - opinia, pogląd, zdanie
 sköflungur - goleń
 skógarfura - sosna zwyczajna
-skógarhögg - wycinka drzew | wycinanie drzew
+skógarhögg - wycinka drzew, wycinanie drzew
 skógarvörður - leśniczy
 skógarþröstur - droździk (, ptak z rodziny drozdowatych)
 skógur - las
@@ -2994,13 +2994,13 @@ skólataska - tornister
 skóli - szkoła
 skoltur - szczęka
 skór - but
-skordýr - owad | insekt
+skordýr - owad, insekt
 skorsteinn - komin
-skortur - brak | niedostatek
+skortur - brak, niedostatek
 skoskur - szkocki
 Skotland - Szkocja
 skotmark - cel
-skott - ogon psa | bagażnik (w samochodzie)
+skott - ogon psa, bagażnik (w samochodzie)
 skotvopn - broń palna
 skraddari - krawiec
 skrælingi - barbarzyńca
@@ -3008,34 +3008,34 @@ skrafhreifinn - rozmowny
 skratti - diabeł
 skreyta - dekorować
 skriðdýr - gad
-skrifa - pisać | notować | korespondować
+skrifa - pisać, notować, korespondować
 skrifast - skrifa
 skrifborð - biurko
-skrift - pismo | pisanie
+skrift - pismo, pisanie
 skrímsli - potwór
-skrokkur - ciało | kadłub (statku) | korpus
+skrokkur - ciało, kadłub (statku), korpus
 skuggi - cień
 skuldari - dłużnik
-skurður - cięcie | nacięcie | draśnięcie | skaleczenie | rana cięta | nacinanie | kanał | rów
+skurður - cięcie, nacięcie, draśnięcie, skaleczenie, rana cięta, nacinanie, kanał, rów
 skurn - skorupka od jajka
 skutull - harpun
 ský - chmura
 skýfall - oberwanie chmury
-skýjaður - pochmurny | zachmurzony
-skýjakljúfur - wieżowiec | drapacz chmur
+skýjaður - pochmurny, zachmurzony
+skýjakljúfur - wieżowiec, drapacz chmur
 skyndilegur - nagły
 skyrpa - pluć
 skýrsla - raport
 skyrta - koszula
-slá - barierka | szlaban (na przejeździe kolejowym) | pręt | drąg | uderzać | bić | wybijać (godziny) | kosić (trawę) | pasować | walczyć
-slæmur - kiepski | mierny | zły | podły
-slagæð - tętnica | arteria
+slá - barierka, szlaban (na przejeździe kolejowym), pręt, drąg, uderzać, bić, wybijać (godziny), kosić (trawę), pasować, walczyć
+slæmur - kiepski, mierny, zły, podły
+slagæð - tętnica, arteria
 slagverkshljóðfæri - instrument perkusyjny
 slást - walczyć
 slíkur - taki
 Slóvakía - Słowacja
 slóvakíska - język słowacki
-slóvakískur - słowacki (dotyczący Słowacji lub Słowaków) | słowacki (dotyczący języka słowackiego)
+slóvakískur - słowacki (dotyczący Słowacji lub Słowaków), słowacki (dotyczący języka słowackiego)
 Slóvenía - Słowenia
 slúður - plotka
 smakka - smakować
@@ -3051,12 +3051,12 @@ snæugla - sowa śnieżna
 snákur - wąż
 snar - szybki
 snarl - przekąska
-sneið - kromka | plasterek | pasek | kawałek | odkrojona część
-sneiða - kroić (w plasterki, kromki) | unikać | insynuować
+sneið - kromka, plasterek, pasek, kawałek, odkrojona część
+sneiða - kroić (w plasterki, kromki), unikać, insynuować
 snekkja - jacht
 snemma - wcześnie
-snið - krój | fason | szablon | wzór | format | forma | kształt
-sniðugur - bystry | inteligentny | sprytny | przebiegły | zabawny | śmieszny | praktyczny
+snið - krój, fason, szablon, wzór, format, forma, kształt
+sniðugur - bystry, inteligentny, sprytny, przebiegły, zabawny, śmieszny, praktyczny
 snigill - ślimak
 snjókarl - bałwan śniegowy
 snjór - śnieg
@@ -3064,14 +3064,14 @@ snjótittlingur - śnieguła (, gatunek ptaka wędrownego z rodziny trznadlowaty
 snögglega - nagle
 snoppa - ryj
 snotur - ładny
-snúa - obracać | obracać się | kręcić się | wychodzić | tłumaczyć | wracać | skręcić sobie (kostkę) | zabrać się za coś | zacząć coś robić
+snúa - obracać, obracać się, kręcić się, wychodzić, tłumaczyć, wracać, skręcić sobie (kostkę), zabrać się za coś, zacząć coś robić
 sofa - spać
-sog - ssanie | zasysanie
-sög - piła | piłka
-sögn - opowieść | oświadczenie | wypowiedź | sprawozdanie | raport | czasownik
+sog - ssanie, zasysanie
+sög - piła, piłka
+sögn - opowieść, oświadczenie, wypowiedź, sprawozdanie, raport, czasownik
 sögunarverksmiðja - tartak
 sojabaun - soja
-sök - wina | zarzut | przestępstwo | przewinienie | przyczyna | sprawa | kwestia
+sök - wina, zarzut, przestępstwo, przewinienie, przyczyna, sprawa, kwestia
 sokkur - skarpeta
 sól - słońce
 sólarlag - zachód słońca
@@ -3086,14 +3086,14 @@ sólsetur - zachód słońca
 sólskin - światło słoneczne
 sólskríkja - śnieguła
 sonardóttir - wnuczka ( córka syna)
-sonarrsonur - wnuk | wnuczek ( syn syna)
+sonarrsonur - wnuk, wnuczek ( syn syna)
 sonarsonarsonur - prawnuk ( syn syna syna)
 söngbók - śpiewnik
-söngkona - piosenkarka | śpiewaczka
+söngkona - piosenkarka, śpiewaczka
 söngleikur - musical
-söngmaður - piosenkarz | śpiewak
+söngmaður - piosenkarz, śpiewak
 söngrödd - głos w śpiewie
-söngur - piosenka | pieśń | śpiew
+söngur - piosenka, pieśń, śpiew
 söngvari - piosenkarz
 sonur - syn
 sópa - zamiatać
@@ -3102,74 +3102,74 @@ sósa - sos
 sósíalismi - socjalizm
 sót - sadza
 sótt - choroba
-spá - przepowiednia | wróżba | proroctwo | prognoza | przewidywanie | wróżyć | przepowiadać
+spá - przepowiednia, wróżba, proroctwo, prognoza, przewidywanie, wróżyć, przepowiadać
 spælegg - jajko sadzone
 spænska - język hiszpański
 spakmæli - aforyzm
-Spánn - Hiszpania | państwo w Europie
+Spánn - Hiszpania, państwo w Europie
 spánskur - hiszpański
 spark - kopniak
 sparka - kopać
-spegill - lustro | wziernik
+spegill - lustro, wziernik
 speki - mądrość
 spendýr - ssak
-spenna - spinka do włosów | napięcie | poddenerwowanie | napięcie elektryczne | napinać | naprężać | zapinać | spinać | mocować | zaprząc | otwierać | rozłożyć | zwiększać napięcie | oplatać | obejmować | składać
+spenna - spinka do włosów, napięcie, poddenerwowanie, napięcie elektryczne, napinać, naprężać, zapinać, spinać, mocować, zaprząc, otwierać, rozłożyć, zwiększać napięcie, oplatać, obejmować, składać
 spergilkál - brokuł
 spergill - szparag
-spil - karta | gra w karty | gra (na instrumencie) | gra (rodzaj zabawy)
+spil - karta, gra w karty, gra (na instrumencie), gra (rodzaj zabawy)
 spila - grać
 spínat - szpinak
 spítali - szpital
-spjall - rozmowa | konwersacja
+spjall - rozmowa, konwersacja
 spjallborð - forum
 sporðdreki - skorpion
 Sporðdrekinn - Skorpion
 sporður - ogon ryby
 spraka - halibut
-sprengja - bomba | zdmuchnąć | wybuchnąć | zdetonować
+sprengja - bomba, zdmuchnąć, wybuchnąć, zdetonować
 spurnarfornafn - zaimek pytajny
 spurning - pytanie
-spyrja - pytać | zadawać pytanie | dociekać | wypytywać | rozpytywać | przepytywać
-SSR - WNP | Wspólnota Niepodległych Państw
+spyrja - pytać, zadawać pytanie, dociekać, wypytywać, rozpytywać, przepytywać
+SSR - WNP, Wspólnota Niepodległych Państw
 staða - przeciwieństwo
 staðarfall - miejscownik
 staðreynd - fakt
-staður - miejsce | lokacja
+staður - miejsce, lokacja
 stækkunargler - lupa
 stærðfræði - matematyka
-stafa - (prze)literować | być spowodowanym przez…
+stafa - (prze)literować, być spowodowanym przez…
 stafafura - sosna wydmowa
 stafróf - alfabet
 stafsetning - ortografia
-stafur - drąg | kij | litera
+stafur - drąg, kij, litera
 stál - stal
-standa - stać | być umieszczonym | być usytuowanym | być napisanym | sobie radzić (dobrze/źle) | wstawać | trwać | oznaczać | mieć pieczę nad | być odpowiedzialnym za | opiekować się | wstrzymywać się (z) | wystawać | być na widoku | sterczeć | pozostawać | być pasywnym | stać w miejscu | być otwartym | obstawać przy | sprzeciwiać się | przyłapać | zdać | przetrwać | przetrzymać
+standa - stać, być umieszczonym, być usytuowanym, być napisanym, sobie radzić (dobrze/źle), wstawać, trwać, oznaczać, mieć pieczę nad, być odpowiedzialnym za, opiekować się, wstrzymywać się (z), wystawać, być na widoku, sterczeć, pozostawać, być pasywnym, stać w miejscu, być otwartym, obstawać przy, sprzeciwiać się, przyłapać, zdać, przetrwać, przetrzymać
 standa einhvern að verki - przyłapać kogoś na gorącym uczynku
-starf - praca | robota | zawód | profesja | funkcja | zadanie | praca do wykonania
+starf - praca, robota, zawód, profesja, funkcja, zadanie, praca do wykonania
 starfa - pracować
 Stefán - Stefan
-steggur - kaczor | kocur
-steikja - smażyć | piec | grillować
+steggur - kaczor, kocur
+steikja - smażyć, piec, grillować
 steind - minerał
 steindafræði - mineralogia
 steingeit - koziorożec
 Steingeitin - Koziorożec
-steinn - kamień | więzienie
+steinn - kamień, więzienie
 steinselja - pietruszka
 stél - ogon ptaka
 stelpa - dziewczyna
 steypibað - prysznic
-stífla - blokować | tamować | zapora wodna | blokada | przeszkoda | korek
-stig - etap | faza | stadium | stopień | punkt
+stífla - blokować, tamować, zapora wodna, blokada, przeszkoda, korek
+stig - etap, faza, stadium, stopień, punkt
 stigbreyta - porównać
 stigbreyting - porównanie
-stigi - schody | drabina
+stigi - schody, drabina
 stikilsber - agrest
-Stína - imię żeńskie | Kristín
+Stína - imię żeńskie, Kristín
 stingur - żądło
 stjarna - gwiazda
 stjarneðlisfræði - astrofizyka
-stjóri - dyrektor | szef | kierownik
+stjóri - dyrektor, szef, kierownik
 stjórnmál - polityka
 stjórnmálamaður - polityk
 stjörnufræði - astronomia
@@ -3184,13 +3184,13 @@ stjúpmóðir - macocha
 stjúpsonur - pasierb
 stjúpsystir - przyrodnia siostra
 stöð - stacja
-stofa - pokój (dzienny) | izba | pokój
+stofa - pokój (dzienny), izba, pokój
 Stokkhólmur - Sztokholm
-stóll - krzesło | siedzenie
+stóll - krzesło, siedzenie
 stór - duży
 Stóra-Bretland - Wielka Brytania
 storkur - bocian
-stormur - burza | sztorm | wichura
+stormur - burza, sztorm, wichura
 strá - źdźbło
 stræti - ulica
 strætisvagn - autobus miejski
@@ -3199,28 +3199,28 @@ strákur - chłopiec
 stranda - osiadać na mieliźnie
 strandfura - sosna nadmorska (, )
 strandlengja - linia brzegowa
-Straumey - Streymoy | największa wyspa archipelagu Wysp Owczych
-strax - natychmiast | od razu
+Straumey - Streymoy, największa wyspa archipelagu Wysp Owczych
+strax - natychmiast, od razu
 stress - stres
-stríð - wojna | walka
-strikamerki - kod kreskowy | kod paskowy
+stríð - wojna, walka
+strikamerki - kod kreskowy, kod paskowy
 strompur - komin
-strönd - plaża | wybrzeże
+strönd - plaża, wybrzeże
 strútur - struś
-stuðningur - wsparcie | pomoc
+stuðningur - wsparcie, pomoc
 stúlka - dziewczyna
-stund - godzina | chwila
+stund - godzina, chwila
 stundarfjórðungur - kwadrans
 stundum - czasami
 stundvís - punktualny
 stundvísi - punktualność
 stuttur - krótki
 styrjöld - wojna
-suð - brzęczenie | bzyczenie | jęczenie | narzekanie
+suð - brzęczenie, bzyczenie, jęczenie, narzekanie
 suðlægur - południowy
 suðrænn - południowy
 suður - południe
-Suður-Afríka - RPA | Republika Południowej Afryki
+Suður-Afríka - RPA, Republika Południowej Afryki
 Suður-Ameríka - Ameryka Południowa
 Suður-Evrópa - Europa Południowa
 suðurheimskaut - biegun południowy
@@ -3230,13 +3230,13 @@ suðurpóll - biegun południowy
 Suðurskautsland - Antarktyda
 Suðurskautslandið - Antarktyka
 súkkulaði - czekolada
-sulla - rozlać | rozlewać
+sulla - rozlać, rozlewać
 sulta - dżem
 súlukóngur - albatros
 sumar - lato
 sumarleyfi - wakacje (letnie)
 sumur - niektóry
-sund - pływanie | cieśnina
+sund - pływanie, cieśnina
 sundbolur - kostium kąpielowy
 sundföt - kostium kąpielowy
 sundlaug - basen
@@ -3245,10 +3245,10 @@ sunnudagur - niedziela
 súpa - zupa
 súra - szczaw
 súrefni - tlen
-svæði - obszar | strefa
+svæði - obszar, strefa
 svala - jaskółka
 svampur - gąbka
-svangur - głodny | wziąć sobie coś do jedzenia | zjeść coś
+svangur - głodny, wziąć sobie coś do jedzenia, zjeść coś
 svanur - łabędź
 Svanur - imię męskie
 svar - odpowiedź
@@ -3265,7 +3265,7 @@ svefnleysi - bezsenność
 svefnpoki - śpiwór
 sveinbarn - chłopak
 sveinn - chłopak
-sveit - region | okolica | wieś | obszar wiejski | grupa | drużyna | zespół (muzyczny) | oddział
+sveit - region, okolica, wieś, obszar wiejski, grupa, drużyna, zespół (muzyczny), oddział
 svelgja - połykać
 svelta í hel - umrzeć z głodu
 svengd - głód
@@ -3274,18 +3274,18 @@ sveppur - grzyb
 sverð - miecz
 Svíi - Szwed
 svikari - zdrajca
-svín - świnia | prosię
+svín - świnia, prosię
 svínafeiti - smalec
 svínakjöt - wieprzowina
 svipan - moment
 svipmót - wygląd
-Sviss - Szwajcaria | państwo w Europie
+Sviss - Szwajcaria, państwo w Europie
 svissneskur - szwajcarski
 sviti - pot
 svitna - pocić się
 Svíþjóð - Szwecja
-svo - w ten sposób | potem (a)
-syfjaður - śpiący | senny
+svo - w ten sposób, potem (a)
+syfjaður - śpiący, senny
 sýgill - lejek
 sýking - infekcja
 sýkja - zarazić
@@ -3300,21 +3300,21 @@ syndari - grzesznik
 sýndarveruleiki - rzeczywistość wirtualna
 syndga - grzeszyć
 syngja - śpiewać
-sýning - ekspozycja | pokaz
+sýning - ekspozycja, pokaz
 synja - odmawiać
-sýr - maciora | locha
+sýr - maciora, locha
 Sýrland - Syria
 systir - siostra
-systkini - jedno z rodzeństwa | brat | siostra | rodzeństwo
+systkini - jedno z rodzeństwa, brat, siostra, rodzeństwo
 systurdóttir - siostrzenica ( córka siostry)
 systursonur - kuzyn ( syn siostry)
-S.þ. - ONZ | Organizacja Narodów Zjednoczonych
+S.þ. - ONZ, Organizacja Narodów Zjednoczonych
 tá - palec u nogi
 tabú - tabu
 Tadsjikistan - Tadżykistan
-tækifæri - okazja | sposobność
+tækifæri - okazja, sposobność
 tæknilegur - techniczny
-tæplega - ledwie | ledwo | zaledwie
+tæplega - ledwie, ledwo, zaledwie
 tafl - gra w szachy
 taflborð - szachownica
 tagl - ogon konia
@@ -3322,11 +3322,11 @@ Taíland - Tajlandia
 Taj Mahal - Tadź Mahal
 takk - dziękuję
 tákn - symbol
-tal - mówienie | rozmowa
-tala - liczba | guzik | przycisk | mówić | rozmawiać z kimś
+tal - mówienie, rozmowa
+tala - liczba, guzik, przycisk, mówić, rozmawiać z kimś
 tala saman - rozmawiać
 talmál - język potoczny
-tankur - zbiornik | pojemnik | kanister | bak
+tankur - zbiornik, pojemnik, kanister, bak
 tannbursti - szczoteczka do zębów
 tannhold - dziąsło
 tannkrem - pasta do zębów
@@ -3336,16 +3336,16 @@ Tansanía - Tanzania
 tappatogari - korkociąg
 tár - łza
 tarfur - byk
-taska - torba | torebka
+taska - torba, torebka
 tattú - tatuaż
-taug - lina | sznur | kabel | nerw
+taug - lina, sznur, kabel, nerw
 taugafræði - neurologia
 taugalæknir - neurolog
 t.d. - np. (na przykład)
 te - herbata
-tegund - rodzaj | gatunek | typ
+tegund - rodzaj, gatunek, typ
 tehús - herbaciarnia
-teiknimynd - film animowany | kreskówka
+teiknimynd - film animowany, kreskówka
 Tékkland - Czechy
 tékkneskur - czeski
 tengdadóttir - synowa
@@ -3357,94 +3357,94 @@ tennis - tenis
 teskeið - łyżeczka do herbaty
 testósterón - testosteron
 teygjudýr - ameba
-tíð - okres | przedział czasu | warunki pogodowe | czas
+tíð - okres, przedział czasu, warunki pogodowe, czas
 tíðum - często
 tíður - częsty
 tignarlegur - majestatyczny
 tígrisdýr - tygrys
 tígur - tygrys
-til - do (kierunek) | do (czas) | dla | na
-tilfinning - uczucie | sentyment
-tilheyra - należeć | być właściwym
-til jafnaðar - przeciętnie | średnio
+til - do (kierunek), do (czas), dla, na
+tilfinning - uczucie, sentyment
+tilheyra - należeć, być właściwym
+til jafnaðar - przeciętnie, średnio
 til og frá - tam i z powrotem
-tilraun - próba | eksperyment | test
+tilraun - próba, eksperyment, test
 tilraunastofa - laboratorium
 tilskipun - dekret
 tiltölulega - względnie
 tilviljun - zbieg okoliczności
-tilvísun - odsyłacz | odniesienie | instrukcja | wskazówka | wytyczna
+tilvísun - odsyłacz, odniesienie, instrukcja, wskazówka, wytyczna
 tilvísunarfornafn - zaimek względny
-tímabil - okres | przedział czasu | era
+tímabil - okres, przedział czasu, era
 tímabundinn - tymczasowy
 tímatal - kalendarz
 timbur - drewno
 timburmenn - kac
-tími - czas | trwanie | godzina | godzina lekcyjna
+tími - czas, trwanie, godzina, godzina lekcyjna
 timjan - tymianek
 tin - cyna
 tinna - krzemień
 títan - tytan
-titill - tytuł | godność
+titill - tytuł, godność
 títt - często
 tittlingaætt - trznadlowate
-tittlingur - trznadel | kutas | penis
-tíu - dziesięć | 10
+tittlingur - trznadel, kutas, penis
+tíu - dziesięć, 10
 tíundi - dziesiąty
 tjara - smoła
-tjörn - staw | niewielki zbiornik wodny
+tjörn - staw, niewielki zbiornik wodny
 tóbak - tytoń
 töf - opóźnienie
 Tókýó - Tokio
-tólf - dwanaście | 12
+tólf - dwanaście, 12
 tölfræði - statystyka
 tólfti - dwunasty
 töluorð - liczebnik
-töluverður - istotny | znaczny
+töluverður - istotny, znaczny
 tölva - komputer
 tölvufræði - informatyka
-tölvupóstur - e-mail | poczta elektroniczna
-tómatsósa - sos pomidorowy | keczup
+tölvupóstur - e-mail, poczta elektroniczna
+tómatsósa - sos pomidorowy, keczup
 tómatur - pomidor
 tomma - cal (jednostka długości)
 tónleikar - koncert
 tónlist - muzyka
-tónlistarmaður - muzyk | kompozytor
-tónn - ton | dźwięk | brzmienie
+tónlistarmaður - muzyk, kompozytor
+tónn - ton, dźwięk, brzmienie
 tönn - ząb
 tónskáld - kompozytor
 torg - targ
 trana - żuraw
-trappa - schody | schodek
+trappa - schody, schodek
 tré - drzewo
-trefill - szal | szalik
+trefill - szal, szalik
 trekt - lejek
 tréskór - drewniak (but)
 trjákvoða - żywica
 troð - aleja
 tromma - bęben
 trönuber - żurawina
-trú - wiara | zaufanie | opinia | pogląd | religia | wierzenie
+trú - wiara, zaufanie, opinia, pogląd, religia, wierzenie
 trúa - wierzyć
 trúarbrögð - religia
 trúður - klaun
 trúleysi - ateizm
 trúleysingi - ateista
-tryggur - wierny | lojalny | bezpieczny
-tugur - dziesiątka | dziesięć
+tryggur - wierny, lojalny, bezpieczny
+tugur - dziesiątka, dziesięć
 túlipani - tulipan
 tún - pole
 túnfiskur - tuńczyk
-tunga - język (część ciała) | język (mowa)
+tunga - język (część ciała), język (mowa)
 tungl - księżyc
 tunglmyrkvi - zaćmienie księżyca
-tungumál - język | mowa
+tungumál - język, mowa
 Túnis - Tunezja
 túrismi - turystyka
 túrmerik - kurkuma
 turn - wieża
 tuttugasti - dwudziesty
-tuttugu - dwadzieścia | 20
+tuttugu - dwadzieścia, 20
 Túvalú - Tuvalu
 tvær - tveir
 tveir - dwa
@@ -3464,14 +3464,14 @@ ugla - sowa
 Úkraína - Ukraina
 úkraínskur - ukraiński
 úlfaldi - wielbłąd
-úlfur - wilk | słońce poboczne | parhelion
+úlfur - wilk, słońce poboczne, parhelion
 Úlfur - imię męskie
 Úlfurinn - Wilk
 úlfur í sauðargæru - wilk w owczej skórze
 úlfur undir sauðargæru - wilk w owczej skórze
 ull - wełna
 úlnliður - nadgarstek
-umami - umami | smak białek
+umami - umami, smak białek
 umbúðir - bandaż
 umferðaljós - światło sygnalizacyjne
 ummæli - uwaga
@@ -3481,57 +3481,57 @@ undantekning - wyjątek
 undir - pod
 undirbúa - przygotowywać
 undirbúningur - przygotowanie
-undirheimar - światy podziemne | królestwo zmarłych
-undra - zadziwiać | dziwić się
+undirheimar - światy podziemne, królestwo zmarłych
+undra - zadziwiać, dziwić się
 undrabarn - cudowne dziecko
-undrafagur - przecudny | cudownie piękny | przecudnej urody
-undrandi - zdziwiony | zdumiony
-undraverður - zdumiewający | niesamowity
-undrun - zaskoczenie | niespodzianka
+undrafagur - przecudny, cudownie piękny, przecudnej urody
+undrandi - zdziwiony, zdumiony
+undraverður - zdumiewający, niesamowity
+undrun - zaskoczenie, niespodzianka
 undur - cud
-undursamlegur - wspaniały | cudowny
-unglegur - młodzieńczy | młodo wyglądający
+undursamlegur - wspaniały, cudowny
+unglegur - młodzieńczy, młodo wyglądający
 ungur - młody
 Ungverjaland - Węgry
 ungverskur - węgierski
 unnið - vinna
 uppeldisfræði - pedagogika
 uppfinningamaður - wynalazca
-upphaf - początek | źródło | pochodzenie
-upphrópun - zawołanie | okrzyk | wykrzyknik
-upplýsing - informacje | wiadomości | oświecenie
+upphaf - początek, źródło, pochodzenie
+upphrópun - zawołanie, okrzyk, wykrzyknik
+upplýsing - informacje, wiadomości, oświecenie
 upplýsingamiðstöð - informacja
 Uppsalir - Uppsala
 upptaka - nagranie (np. na taśmie magnetycznej)
-upptök - źródło | liczba mnoga | początek
+upptök - źródło, liczba mnoga, początek
 úr - zegarek
 úran - uran
 Úranus - Uran
 Úrúgvæ - Urugwaj
 Úsbekistan - Uzbekistan
 út - na zewnątrz
-útdauður - wymarły | martwy
+útdauður - wymarły, martwy
 útför - pogrzeb
 útgangur - wyjście
-útlán - pożyczanie | wypożyczanie
+útlán - pożyczanie, wypożyczanie
 útlendingur - obcokrajowiec
-útlimur - kończyna | członek
+útlimur - kończyna, członek
 útskýra - wyjaśniać
 útskýring - wyjaśnienie
 útvarpstæki - radio (odbiornik)
 uxi - wół
-u.þ.b. - około | ok.
+u.þ.b. - około, ok.
 vá - łał!
 vændi - prostytucja
 vændiskona - prostytutka
 vængur - skrzydło
 vænta - spodziewać się
-værð - wyciszenie | spokój
-vafi - wątpliwość | niepewność
-vagga - kołyska | kołysać | bujać
-vagn - pojazd | wagon | autobus | autokar | autobus długodystansowy | wózek dziecięcy
+værð - wyciszenie, spokój
+vafi - wątpliwość, niepewność
+vagga - kołyska, kołysać, bujać
+vagn - pojazd, wagon, autobus, autokar, autobus długodystansowy, wózek dziecięcy
 val - wybór
-vald - siła | moc | potęga | władza
+vald - siła, moc, potęga, władza
 valda - powodować
 valhneta - orzech włoski
 valmúi - mak
@@ -3540,56 +3540,56 @@ vanadín - wanad
 vanalega - zwykle
 vanilja - wanilia
 vanilla - vanilja
-vaninn gefur listina - ćwiczenie czyni mistrza | praktyka daje sztukę
+vaninn gefur listina - ćwiczenie czyni mistrza, praktyka daje sztukę
 vann - vinna
-vanta - brakować | potrzebować
+vanta - brakować, potrzebować
 var - vera
-vara - towar | dobro | produkt | ostrzegać | przestrzegać | uważać | być ostrożnym | wystrzegać się | trwać | spodziewać się | przewidywać
+vara - towar, dobro, produkt, ostrzegać, przestrzegać, uważać, być ostrożnym, wystrzegać się, trwać, spodziewać się, przewidywać
 varalitur - szminka
 varmi - ciepło
 Varsjá - Warszawa
 varúlfur - wilkołak
-vasi - wazon | kieszeń
+vasi - wazon, kieszeń
 Vatíkanið - Watykan (państwo)
-vatn - woda | jezioro
+vatn - woda, jezioro
 Vatnsberinn - Wodnik
-vatnsfall - rzeka | strumień
+vatnsfall - rzeka, strumień
 vatnsfata - wiadro (na wodę)
-vatnsgeymir - zbiornik wodny | pojemnik przeznaczony do przechowywania wody | manierka | bukłak
+vatnsgeymir - zbiornik wodny, pojemnik przeznaczony do przechowywania wody, manierka, bukłak
 vatnskrani - kran (z wodą)
-vatnslitur - akwarela | farba wodna
+vatnslitur - akwarela, farba wodna
 vatnsmelóna - arbuz
 vatnsveita - wodociąg
 vátrygging - ubezpieczenie
 vax - wosk
-vaxa - rosnąć | wzbierać
-veður - pogoda | wiatr
+vaxa - rosnąć, wzbierać
+veður - pogoda, wiatr
 veðurfar - warunki pogodowe
 veðurspá - prognoza pogody
 vegabréf - paszport
-vegur - droga | ścieżka | dystans | prawdopodobność | możliwość | sposób
+vegur - droga, ścieżka, dystans, prawdopodobność, możliwość, sposób
 veiðimaður - myśliwy
 veiki - choroba
 veikur - chory
 vein - lament
-veina - krzyczeć | wyć
+veina - krzyczeć, wyć
 veitingahús - restauracja
 vekja - budzić
 vekjaraklukka - budzik
 vel - dobrze
-vél - maszyna | silnik | przyrząd | urządzenie
+vél - maszyna, silnik, przyrząd, urządzenie
 vel á minnst - przy okazji
-veldi - władza | imperium | potęga
+veldi - władza, imperium, potęga
 velgengi - sukces
-vera - byt | istnienie | rzeczywistość | być
-vera á förum - ruszać w drogę | leżeć na łożu śmierci
+vera - byt, istnienie, rzeczywistość, być
+vera á förum - ruszać w drogę, leżeć na łożu śmierci
 vera einhverjum að skapi - podobać się (komuś)
-vera frá sér - nie posiadać się ze złości | wyjść z siebie
-vera steini lostinn - być zdumionym | być trafionym przez kamień
+vera frá sér - nie posiadać się ze złości, wyjść z siebie
+vera steini lostinn - być zdumionym, być trafionym przez kamień
 verja - bronić
 verk - dzieło
 verkamaður - robotnik
-verkefni - zadanie | projekt
+verkefni - zadanie, projekt
 verkfæri - narzędzie
 verkfall - strajk
 verkfræði - inżynieria
@@ -3598,48 +3598,48 @@ verksmiðja - fabryka
 verkur - ból
 vermút - wermut
 veröld - świat
-verri - illur | vondur | slæmur
-verslun - sklep | handel | sprzedaż
-verstur - illur | vondur | slæmur
+verri - illur, vondur, slæmur
+verslun - sklep, handel, sprzedaż
+verstur - illur, vondur, slæmur
 veruleiki - rzeczywistość
 vespa - szerszeń
 vestrænn - zachodni
-vestur - na zachód | zachód
+vestur - na zachód, zachód
 Vestur-Evrópa - Europa Zachodnia
 Vesturheimur - Ameryka
 Vesturlönd - Europa
 vetni - wodór
 vettlingur - rękawiczka
 vetur - zima
-við - my | z | przy | na | nad | przeciw | przeciwko | tutaj | obecnie
+við - my, z, przy, na, nad, przeciw, przeciwko, tutaj, obecnie
 viðbein - obojczyk
-vídéo - magnetowid | wideo
+vídéo - magnetowid, wideo
 vídéospóla - kaseta wideo
-viðhengi - załącznik | suplement | apendyks
+viðhengi - załącznik, suplement, apendyks
 við hliðina á - obok
 víðir - wierzba
 viðkoma - postój
-viðkomustaður - postój | przystanek
-viðskipti - biznes | interesy
-viðtal - rozmowa | konwersacja | wywiad | konsultacja | rozmowa zamiejscowa
+viðkomustaður - postój, przystanek
+viðskipti - biznes, interesy
+viðtal - rozmowa, konwersacja, wywiad, konsultacja, rozmowa zamiejscowa
 viðtengingarháttur - tryb łączący
 víður - szeroki
 viðvörun - ostrzeżenie
 Víetnam - Wietnam
 víetnamska - język wietnamski
-vígja - święcić | wyświęcać
+vígja - święcić, wyświęcać
 vígvöllur - pole bitwy
 vík - zatoka
 vika - tydzień
 víkingur - wiking
 vikur - pumeks
-vilja - chcieć | życzyć sobie
+vilja - chcieć, życzyć sobie
 villijarðarber - poziomka
 villutrú - herezja
-vín - wino | alkohol
-Vín - Wiedeń | stolica Austrii
+vín - wino, alkohol
+Vín - Wiedeń, stolica Austrii
 vinalegur - przyjazny
-Vínarborg - Wiedeń | stolica Austrii
+Vínarborg - Wiedeń, stolica Austrii
 vinátta - przyjaźń
 vínber - winogrono
 vindátt - kierunek wiatru
@@ -3651,22 +3651,22 @@ vínföng - wino
 vingjarnlegur - przyjazny
 vínhús - winiarnia
 vinkona - przyjaciółka
-vinna - praca | pracować | wykonywać | zdobyć | wygrywać
+vinna - praca, pracować, wykonywać, zdobyć, wygrywać
 vinna sér um megn - spracować się
 vinsældir - popularność
 vinsamlega - proszę
 vinsamlegur - przyjazny
-vinstri - lewica – określenie sił politycznych głoszących ideały postępu społecznego | lewy | ten z lewej | lewicowy
-vinstur - trawieniec | żołądek gruczołowy u przeżuwaczy | tworzący czwarty przedział
+vinstri - lewica – określenie sił politycznych głoszących ideały postępu społecznego, lewy, ten z lewej, lewicowy
+vinstur - trawieniec, żołądek gruczołowy u przeżuwaczy, tworzący czwarty przedział
 vinur - przyjaciel
-virða - szanować | respektować | cenić | wyceniać | zdawać się | wyglądać
-Virginía - Wirginia | imię żeńskie Wirginia
+virða - szanować, respektować, cenić, wyceniać, zdawać się, wyglądać
+Virginía - Wirginia, imię żeńskie Wirginia
 virka - pracować
 vísifingur - palec wskazujący
 vísindamaður - naukowiec
 vísindi - nauka
 Visla - Wisła
-viss - pewny | pewien
+viss - pewny, pewien
 vissulega - na pewno
 vistkerfi - ekosystem
 vita - wiedzieć
@@ -3681,51 +3681,51 @@ vog - waga
 vögguvísa - kołysanka
 Vogin - Waga
 vogun - ryzyko
-vogun vinnur og vogun tapar - kto nie ryzykuje, ten nie wygrywa | ryzykowanie przynosi wygraną | ryzykowanie przynosi przegraną
+vogun vinnur og vogun tapar - kto nie ryzykuje, ten nie wygrywa, ryzykowanie przynosi wygraną, ryzykowanie przynosi przegraną
 vökvi - płyn
 völlur - pole
-von - nadzieja | oczekiwanie
-vonandi - miejmy nadzieję | że… | o ile szczęście dopisze
+von - nadzieja, oczekiwanie
+vonandi - miejmy nadzieję, że…, o ile szczęście dopisze
 vonbrigði - rozczarowanie
-vondur - zły | wściekły | mierny | niedobry | kiepski
+vondur - zły, wściekły, mierny, niedobry, kiepski
 vopn - broń
-vor - wiosna | nasz | nasza
+vor - wiosna, nasz, nasza
 vör - warga
 vortími - wiosna
 vörumerki - znak towarowy
-votta - zaświadczać | okazywać
+votta - zaświadczać, okazywać
 vottorð - dyplom
 vottur - świadek
-votur - mokry | wilgotny
+votur - mokry, wilgotny
 Wales - Walia
-yfir - nad | ponad | ze względu na… | z uwagi na… | przez | w ciągu | podczas | o | na
-yfirvald - władza | przywództwo | władze | rząd
+yfir - nad, ponad, ze względu na…, z uwagi na…, przez, w ciągu, podczas, o, na
+yfirvald - władza, przywództwo, władze, rząd
 ýkja - przesadzać
-ykkar - was | wasz
+ykkar - was, wasz
 ysmikill - hałaśliwy
 það - to
 þaðan - stamtąd
-það gefur augaleið - to niewątpliwe | oczywiste
+það gefur augaleið - to niewątpliwe, oczywiste
 það gerir ekkert til - to głupstwo!
 það lá fyrir - to było do przewidzenia
 það stendur ekki steinn yfir steini - nie pozostał z tego kamień na kamieniu
-þær - one | zobacz: þau | þeir
+þær - one, zobacz: þau, þeir
 þágufall - celownik
 þak - dach
 þakka - dziękować
 þarmur - jelito
 þátttaka - uczestnictwo
-þáttur - akt | element | część | czynnik | program
-þau - oni | þeir, þær
+þáttur - akt, element, część, czynnik, program
+þau - oni, þeir, þær
 þefdýr - skunks
-þegar - natychmiast | gdy | kiedy
+þegar - natychmiast, gdy, kiedy
 þegar fram líða stundir - w przyszłości
 þegja eins og steinn - milczeć jak grób
-þegja í hel - milczeć jak grób | utworzyć zmowę milczenia
-þeir - oni | zobacz: þau | þær
+þegja í hel - milczeć jak grób, utworzyć zmowę milczenia
+þeir - oni, zobacz: þau, þær
 þeirra - ich
-þekktur - dobrze znany | popularny
-þerna - rybitwa | stewardesa | służąca
+þekktur - dobrze znany, popularny
+þerna - rybitwa, stewardesa, służąca
 þerra - suszyć
 þessi - ten
 þeytirjómi - bita śmietana
@@ -3733,22 +3733,22 @@ ysmikill - hałaśliwy
 þgf. - celownik
 þið - wy
 þind - przepona
-þing - parlament | zgromadzenie | spotkanie | rzecz | przedmiot
+þing - parlament, zgromadzenie, spotkanie, rzecz, przedmiot
 þingmaður - parlamentarzysta
 þinn - twój
 þistilfinka - szczygieł
 þistill - oset
-þjóð - naród | lud
-þjóðaratkvæði - referendum | plebiscyt
+þjóð - naród, lud
+þjóðaratkvæði - referendum, plebiscyt
 þjóðarmorð - ludobójstwo
 þjóðerni - narodowość
 þjóðflokkur - plemię
 þjóðgarður - park narodowy
-þjóðsöngur - hymn państwowy | narodowy
+þjóðsöngur - hymn państwowy, narodowy
 Þjóðverji - Niemiec
 þjófur - złodziej
 þjónn - służący
-þoka - mgła | sunąć | poruszać się powoli | przesunąć coś | przesunąć się | zrobić miejsce | robić postęp | robić krok do przodu | poruszać się | przesuwać się
+þoka - mgła, sunąć, poruszać się powoli, przesunąć coś, przesunąć się, zrobić miejsce, robić postęp, robić krok do przodu, poruszać się, przesuwać się
 þökk - podziękowanie
 þolfall - biernik
 þolinmóður - cierpliwy
@@ -3756,25 +3756,25 @@ ysmikill - hałaśliwy
 þórín - tor
 Þorleifur - islandzkie imię męskie
 þorp - wieś
-þorri - większość | czwarty miesiąc zimy | od połowy stycznia do połowy lutego
-Þórshöfn - Thorshavn | stolica Wysp Owczych
-þorskur - dorsz | zakuty łeb | idiota
+þorri - większość, czwarty miesiąc zimy, od połowy stycznia do połowy lutego
+Þórshöfn - Thorshavn, stolica Wysp Owczych
+þorskur - dorsz, zakuty łeb, idiota
 þorsti - pragnienie
-þörungur - alga | glon
+þörungur - alga, glon
 þrá - tęsknota
 þráðlaus - bezprzewodowy
 þræll - niewolnik
 Þrándheimur - Trondheim
-þrep - schodek | etap | faza
+þrep - schodek, etap, faza
 þrettán - trzynaście
 þreyttur - zmęczony
 þriðji - trzeci
 þriðjudagur - wtorek
 þríhyrningur - trójkąt
 þrír - trzy
-þröngur - wąski | ciasny | tłumny | trudny | obcisły | napięty
+þröngur - wąski, ciasny, tłumny, trudny, obcisły, napięty
 þroskaður - dojrzały
-þröstur - drozd | drozdowate
+þröstur - drozd, drozdowate
 Þröstur - imię męskie
 þrumuveður - burza
 þrútna - puchnąć
@@ -3786,8 +3786,8 @@ ysmikill - hałaśliwy
 þumlungur - cal
 þungaður - w ciąży
 þungarokk - heavy metal
-þunglyndi - depresja | smutek | melancholia
-þurfa - potrzebować | wymagać | musieć
+þunglyndi - depresja, smutek, melancholia
+þurfa - potrzebować, wymagać, musieć
 þurr - suchy
 þurrka - suszyć
 þúsund - tysiąc
@@ -3795,15 +3795,15 @@ ysmikill - hałaśliwy
 þvag - mocz
 þversögn - paradoks
 þverstæða - paradoks
-því - dlatego też | ponieważ | dlaczego
+því - dlatego też, ponieważ, dlaczego
 því miður - niestety
 því… þeim mun - im…, tym…
 þvottabjörn - szop
-þýða - znaczyć | tłumaczyć
+þýða - znaczyć, tłumaczyć
 þýðandi - tłumacz
-þýðing - tłumaczenie | znaczenie
-þynna - cienka płyta | płytka | tafla | rozcieńczać | rozrzedzać | zmniejszać się | ubywać | zanikać | niknąć | kurczyć się | chudnąć
-þyrnir - kolec | cierń
+þýðing - tłumaczenie, znaczenie
+þynna - cienka płyta, płytka, tafla, rozcieńczać, rozrzedzać, zmniejszać się, ubywać, zanikać, niknąć, kurczyć się, chudnąć
+þyrnir - kolec, cierń
 þyrstur - spragniony
 þýska - język niemiecki
 Þýskaland - Niemcy

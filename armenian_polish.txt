@@ -1,12 +1,12 @@
 և - trzydziesta siódma litera alfabetu ormiańskiego
-8888 - siedemdziesiąt osiem | 78
+8888 - siedemdziesiąt osiem, 78
 աբխազական - abchaski
 աբխազերեն - język abchaski
 Աբխազիա - Abchazja
 աբորտ - aborcja
-Աբու Դաբի - Abu Zabi | Abu Dhabi | Abu Dabi
-ագահ - chciwy | zachłanny
-ագարակ - farma | gospodarstwo
+Աբու Դաբի - Abu Zabi, Abu Dhabi, Abu Dabi
+ագահ - chciwy, zachłanny
+ագարակ - farma, gospodarstwo
 ագեվազ - kangur
 ագի - ogon
 ագնոստիցիզմ - agnostycyzm
@@ -15,18 +15,18 @@
 ագրեսիա - agresja
 ագրեսիվ - agresywny
 ադամաթուզ - banan
-ադամանդ - diament | brylant
+ադամանդ - diament, brylant
 Ադրբեջան - Azerbejdżan
 ադրբեջաներեն - język azerski
-ազատ - wolny | niepodległy | niezależny
-ազատութիւն - wolność | swodoba
-ազատություն - wolność | uwolnienie
-ազգ - nacja | naród | lud | ludzie
+ազատ - wolny, niepodległy, niezależny
+ազատութիւն - wolność, swodoba
+ազատություն - wolność, uwolnienie
+ազգ - nacja, naród, lud, ludzie
 ազգային - narodowy
 ազգայնականություն - nacjonalizm
 ազգություն - narodowość
 ազդր - udo
-ազնիվ - przyzwoity | szlachetny | uczciwy
+ազնիվ - przyzwoity, szlachetny, uczciwy
 ազնվական - szlachcic
 ազոտ - azot
 աթեիզմ - ateizm
@@ -61,16 +61,16 @@
 ականջ - ucho
 ակորդեոն - akordeon
 ակտինիում - aktyn
-ահ - strach | przerażenie
-ահագին - ogromny | wielki | szeroki
-աղ - sól | esencja
+ահ - strach, przerażenie
+ահագին - ogromny, wielki, szeroki
+աղ - sól, esencja
 աղանդեր - deser
 աղավնի - gołąb
 աղետ - katastrofa
 աղյուս - cegła
 աղոթել - modlić się
 աղոթք - modlitwa
-աղջիկ - córka | dziewczyna | młoda kobieta
+աղջիկ - córka, dziewczyna, młoda kobieta
 աղվես - lis
 աղցան - sałatka
 աղքատ - biedny
@@ -78,25 +78,25 @@
 ամառ - lato
 ամբար - spichlerz
 ամեոբա - ameba
-Ամերիկա - Ameryka | Stany Zjednoczone
+Ամերիկա - Ameryka, Stany Zjednoczone
 Ամերիկայի Միացյալ Նահանգներ - Stany Zjednoczone Ameryki
 ամերիցիում - ameryk
 ամիս - miesiąc
-ամոթ - wstyd | nieśmiałość
+ամոթ - wstyd, nieśmiałość
 ամորձիք - jądro
-ամուսին - mąż | małżonek
+ամուսին - mąż, małżonek
 ամուսնալուծություն - rozwód
-ամուսնացած - żonaty | po ślubie
-ամուսնացնել - brać ślub | poślubiać
-ամուսնություն - małżeństwo | ślub
+ամուսնացած - żonaty, po ślubie
+ամուսնացնել - brać ślub, poślubiać
+ամուսնություն - małżeństwo, ślub
 ամպ - chmura
 ամպրոպ - burza
 այբուբեն - alfabet
-այգի - ogród | park | lasek
+այգի - ogród, park, lasek
 այծ - koza
 այծքաղ - antylopa
 այսբերգ - góra lodowa
-այսօր - dziś | dzisiaj
+այսօր - dziś, dzisiaj
 այտ - policzek
 այցելել - odwiedzić
 անագ - cyna
@@ -107,7 +107,7 @@
 անատոմիա - anatomia
 անարդարութիւն - niesprawiedliwość
 անարխիզմ - anarchizm
-անգիր - ustny | oralny | niepisany
+անգիր - ustny, oralny, niepisany
 անգլերեն - język angielski
 Անգլիա - Anglia
 անգլիական - angielski
@@ -115,12 +115,12 @@
 Անգոլա - Angola
 Անդալուսիա - Andaluzja
 անդամ - członek
-Անդորա - Andora | Անդորրա
+Անդորա - Andora, Անդորրա
 Անդորրա - Andora
 անել - robić
 անթացուպ - kula
-անիծել - potępiać | przeklinać
-անիմաստ - niedorzeczny | bezsensowny
+անիծել - potępiać, przeklinać
+անիմաստ - niedorzeczny, bezsensowny
 անիվ - koło
 Անկախ Պետությունների Համագործակցություն - Wspólnota Niepodległych Państw
 անկասկած - na pewno
@@ -137,8 +137,8 @@
 անութ - pacha
 անուն - imię
 անուշ - słodki
-անուրջ - sen | marzenie senne
-անպայման - absolutnie | bezwarunkowo | zdecydowanie | na pewno
+անուրջ - sen, marzenie senne
+անպայման - absolutnie, bezwarunkowo, zdecydowanie, na pewno
 անսալ - słuchać
 անվադող - opona
 անվտանգ - bezpieczny
@@ -148,15 +148,15 @@
 անտարբերություն - obojętność
 Անտարկտիկա - Antarktyka
 անցք - dziura
-աշխատել - działać | pracować | funkcjonować
-աշխարհ - kraj | ziemia | świat
+աշխատել - działać, pracować, funkcjonować
+աշխարհ - kraj, ziemia, świat
 աշխարհագրություն - geografia
 աշորա - żyto
 աշուն - jesień
 աշտանակ - świecznik
 աշտարակ - wieża
 աչք - oko
-ապագա - przyszły | przyszłość
+ապագա - przyszły, przyszłość
 ապահարզան - rozwód
 ապահով - bezpieczny
 ապարանջան - bransoletka
@@ -164,13 +164,13 @@
 ապերջանիկ - nieszczęśliwy
 ԱՊԼ - Արաբական երկրների լիգա (LPA, Liga Państw Arabskich, Liga Arabska)
 ապուր - zupa
-ապրել - mieszkać | żyć | przebywać
+ապրել - mieszkać, żyć, przebywać
 ապրիլ - kwiecień
 աջ - prawy (z prawej strony)
 առակ - bajka
 առանց - bez
 առաջին - pierwszy
-առասպել - mit | legenda
+առասպել - mit, legenda
 առավոտ - ranek
 առաքելություն - misja
 առաքյալ - apostoł
@@ -179,10 +179,10 @@
 առնանդամ - penis
 առնետ - szczur
 առողջ - zdrowy
-ասել - powiedzieć | mówić
+ասել - powiedzieć, mówić
 ասեղ - igła
 Ասիա - Azja
-ասորի - asyryjski | Asyryjczyk
+ասորի - asyryjski, Asyryjczyk
 ասպարեզ - arena
 ասպետ - rycerz
 աստատ - astat
@@ -212,7 +212,7 @@
 Ատլանտյան օվկիանոս - Ocean Atlantycki
 ատոմ - atom
 ատոմային - atomowy
-ատրճանակ - pistolet | rewolwer
+ատրճանակ - pistolet, rewolwer
 արև - słońce
 արաբական - arabski
 Արաբական թերակղզի - Półwysep Arabski
@@ -229,7 +229,7 @@
 արգելան - więzienie
 Արգենտինա - Argentyna
 արգոն - argon
-արդար - słuszny | sprawiedliwy
+արդար - słuszny, sprawiedliwy
 արդարութիւն - sprawiedliwość
 արդեն - już
 արդյունաբերություն - przemysł
@@ -274,7 +274,7 @@
 բադակտուց - dziobak
 բադրիջան - bakłażan
 բազկաթոռ - fotel
-բազմոց - kanapa | sofa
+բազմոց - kanapa, sofa
 բալետ - balet
 Բահամներ - Bahamy
 Բահրեյն - Bahrajn
@@ -294,13 +294,13 @@
 բանտարկություն - uwięzienie
 բառ - słowo
 բառարան - słownik
-բառնալ - podnieść | unieść
+բառնալ - podnieść, unieść
 բավիղ - labirynt
 բարեկամ - przyjaciel
 բարեկամական - przyjazny
 բարեւել - pozdrawiać
 բարիում - bar
-բարիք - życzliwość | uprzejmość
+բարիք - życzliwość, uprzejmość
 բարձ - poduszka
 բարյավ - dobrze
 բարութ - proch strzelniczy
@@ -317,7 +317,7 @@
 Բենին - Benin
 բևեռային - polarny
 Բեռլին - Berlin
-բերան - buzia | usta
+բերան - buzia, usta
 բերիլիում - beryl
 բերկլիում - berkel
 բզեզ - żuk
@@ -336,7 +336,7 @@
 բնապահպանություն - ekologia
 բնավորություն - kompozycja
 բնություն - natura
-բնույթ - charakter | natura
+բնույթ - charakter, natura
 Բոթսվանա - Botswana
 Բոլիվիա - Boliwia
 բողկ - rzodkiewka
@@ -379,7 +379,7 @@
 գալակտիկական - galaktyczny
 գալիում - gal
 գահ - tron
-գաղափար - koncepcja | idea | pomysł
+գաղափար - koncepcja, idea, pomysł
 գաղութ - kolonia
 գաղտնիք - tajemnica
 Գամբիա - Gambia
@@ -390,16 +390,16 @@
 գարեջուր - piwo
 գարի - jęczmień
 գարնանային - południowy
-գարշ - odrażający | wstrętny
+գարշ - odrażający, wstrętny
 գարուն - wiosna
 գդալ - łyżka
-գելարան - Madejowe łoże | łoże tortur
-գելոց - Madejowe łoże | łoże tortur
-գեղեցիկ - piękny | przystojny
+գելարան - Madejowe łoże, łoże tortur
+գելոց - Madejowe łoże, łoże tortur
+գեղեցիկ - piękny, przystojny
 գետ - rzeka
 գետաձի - hipopotam
 գետնանուշ - orzech ziemny
-գերան - belka | kloc
+գերան - belka, kloc
 գերանդի - kosa
 գերեզման - grób
 գերեզմանոց - cmentarz
@@ -414,11 +414,11 @@
 գիտական - naukowy
 գիտակցություն - świadomość
 գիտնական - naukowiec
-գիտություն - wiedza | nauka
+գիտություն - wiedza, nauka
 գիրություն - otyłość
 գիրք - książka
-գլուխ - głowa | góra | górna część | rozdział (książki)
-գյուղ - wieś | wioska
+գլուխ - głowa, góra, górna część, rozdział (książki)
+գյուղ - wieś, wioska
 գյուղատնտեսություն - rolnictwo
 գյուտարար - wynalazca
 գնոստիկություն - gnostycyzm
@@ -431,11 +431,11 @@
 գովք - pochwała
 գորգ - dywan
 գործազրկություն - bezrobocie
-գործիք - narzędzie | instrument
+գործիք - narzędzie, instrument
 գորշուկ - borsuk
 գորտ - żaba
 գութան - pług
-գույն - kolor | pąk | pączek | kwiat
+գույն - kolor, pąk, pączek, kwiat
 Գվատեմալա - Gwatemala
 Գվինեա - Gwinea
 գրադարան - biblioteka
@@ -448,11 +448,11 @@
 գրել - pisać
 Գրենադա - Grenada
 Գրենլանդիա - Grenlandia
-գրկում - uścisk | objęcie
+գրկում - uścisk, objęcie
 գրող - pisarz
 գրպան - kieszeń
 դագաղ - trumna
-դադար - przerwa | pauza | odpoczynek
+դադար - przerwa, pauza, odpoczynek
 դահուկ - narta
 Դամասկոս - Damaszek
 դանակ - nóż
@@ -476,7 +476,7 @@
 դեկտեմբեր - grudzień
 դեղագործ - farmaceuta
 դեղագործական - farmaceutyczny
-դեղին - żółty | żółć
+դեղին - żółty, żółć
 դեղձ - brzoskwinia
 դեղնավուն - żółtawy
 դեղնուց - żółtko
@@ -503,7 +503,7 @@
 դուռ - drzwi
 դուստր - córka
 դուր - dłuto
-դուք - ty | wy
+դուք - ty, wy
 դպրոց - szkoła
 դրակոն - smok
 դրացի - sąsiad
@@ -511,7 +511,7 @@
 եգիպտացորեն - kukurydza
 Եգիպտոս - Egipt
 եգուց - jutro
-եզակի - pojedynczy | unikatowy | liczba pojedyncza
+եզակի - pojedynczy, unikatowy, liczba pojedyncza
 եզերք - krawędź
 Եզովպոս - Ezop
 եթե - jeśli
@@ -532,7 +532,7 @@
 եռանկյուն - trójkąt
 եռանկյունաչափություն - trygonometria
 եռանկյունի - trójkąt
-ես - ja | mnie | mi
+ես - ja, mnie, mi
 Եվրասիա - Eurazja
 Եվրոպա - Europa
 եվրոպիում - europ
@@ -547,22 +547,22 @@
 երգահան - kompozytor
 երգել - śpiewać
 երգիծանք - satyra
-երգիչ - śpiewak | piosenkarz
+երգիչ - śpiewak, piosenkarz
 երեկ - wczoraj
 երեկո - wieczór
-երեսուն - trzydzieści | 30
-երեսուներեք - trzydzieści trzy | 33
-երեսուներկու - trzydzieści dwa | 32
-երեսունինը - trzydzieści dziewięć | 39
-երեսունհինգ - trzydzieści pięć | 35
-երեսունմեկ - trzydzieści jeden | 31
-երեսունյոթ - trzydzieści siedem | 37
-երեսունութ - trzydzieści osiem | 38
-երեսունչորս - trzydzieści cztery | 34
-երեսունվեց - trzydzieści sześć | 36
+երեսուն - trzydzieści, 30
+երեսուներեք - trzydzieści trzy, 33
+երեսուներկու - trzydzieści dwa, 32
+երեսունինը - trzydzieści dziewięć, 39
+երեսունհինգ - trzydzieści pięć, 35
+երեսունմեկ - trzydzieści jeden, 31
+երեսունյոթ - trzydzieści siedem, 37
+երեսունութ - trzydzieści osiem, 38
+երեսունչորս - trzydzieści cztery, 34
+երեսունվեց - trzydzieści sześć, 36
 երեւակայություն - wyobraźnia
-երեք - trzy | 3
-երեքհարիւր - trzysta | 300
+երեք - trzy, 3
+երեքհարիւր - trzysta, 300
 երեքշաբթի - wtorek
 երիկամ - nerka
 երիցուկ - rumianek
@@ -572,10 +572,10 @@
 երկայնք - długość
 երկանաքար - kamień młyński
 երկարավուն - podłużny
-երկերիւր - dwieście | 200
+երկերիւր - dwieście, 200
 երկինք - niebo
-երկիր - kraj | ziemia | ląd
-երկու - dwa | 2
+երկիր - kraj, ziemia, ląd
+երկու - dwa, 2
 երկուշաբթի - poniedziałek
 երկվորյակ - bliźniak
 երկրաբան - geolog
@@ -586,14 +586,14 @@
 երջանկություն - radość
 Երվազ - Ervaz
 Եփրատ - Eufrat
-եօթանասուն - siedemdziesiąt | 70
+եօթանասուն - siedemdziesiąt, 70
 Զամբիա - Zambia
 զամբյուղ - kosz
 Զամոստիա - Zamość
-զանգ - dzwon | dzwonek
+զանգ - dzwon, dzwonek
 զառանցանք - delirium
-Զատիկ - Wielkanoc | Pascha
-զարմացնել - zaskoczyć | zaskakiwać | zdumić | zdumiewać
+Զատիկ - Wielkanoc, Pascha
+զարմացնել - zaskoczyć, zaskakiwać, zdumić, zdumiewać
 զարնվել - uderzyć
 զբոսանավ - jacht
 զգուշացում - ostrzeżenie
@@ -604,13 +604,13 @@
 զիբիլ - śmieć
 Զիմբաբվե - Zimbabwe
 զմրուխտ - szmaragd
-զննել - egzaminować | przeprowadzać inspekcję | badać
+զննել - egzaminować, przeprowadzać inspekcję, badać
 զոմբի - zombie
 զորավոր - potężny
 զուգարան - toaleta
 զույգ - para (2)
 զվարթ - radosny
-էժան - tani | niedrogi
+էժան - tani, niedrogi
 էլեկտրական - elektryczny
 էլեկտրական լամպ - żarówka
 էլեկտրականություն - elektryczność
@@ -637,7 +637,7 @@
 ընձառյուծ - lampart
 ընձուղտ - żyrafa
 ընտանիք - rodzina
-ընտրել - wybrać | wybierać
+ընտրել - wybrać, wybierać
 թաթպան - rękawiczka
 Թաիլանդ - Tajlandia
 թալիում - tal
@@ -651,7 +651,7 @@
 թարթիչ - rzęsa
 թարմ - świeży
 թացություն - wilgoć
-թե - że | lub
+թե - że, lub
 թեկնածու - kandydat
 Թեհրան - Teheran
 թեղի - wiąz
@@ -662,7 +662,7 @@
 Թերմոպիլե - Termopile
 թեւ - skrzydło
 թեւք - rękaw
-թեփ - łupież | trociny
+թեփ - łupież, trociny
 թթվածին - tlen
 թթվուտ - kwas
 թիթեռ - motyl
@@ -680,7 +680,7 @@
 թուլիում - tul
 թույլ - słaby
 թունել - tunel
-Թունիս - Tunezja | Tunis
+Թունիս - Tunezja, Tunis
 թուր - miecz
 Թուրքիա - Turcja
 Թուրքմենստան - Turkmenistan
@@ -689,29 +689,29 @@
 ժամ - godzina
 ժամանակ - czas
 ժանգ - rdza
-ժանր - gatunek | rodzaj
+ժանր - gatunek, rodzaj
 ժողովրդագրություն - demografia
 ժողովրդավարական - demokratyczny
 ժողովրդավարություն - demokracja
 ժպիտ - uśmiech
 ժպտալ - uśmiechać się
-իգական - kobiecy | żeński | damski
+իգական - kobiecy, żeński, damski
 իմաստություն - mądrość
 իմպերիալիզմ - imperializm
 իմպրեսիոնիզմի - impresjonizm
 ինդիում - ind
 Ինդոնեզիա - Indonezja
-ինը - dziewięć | 9
-իննսուն - dziewięćdziesiąt | 90
-իննսուներեք - dziewięćdziesiąt trzy | 93
-իննսուներկու - dziewięćdziesiąt dwa | 92
-իննսունինը - dziewięćdziesiąt dziewięć | 99
-իննսունհինգ - dziewięćdziesiąt pięć | 95
-իննսունմեկ - dziewięćdziesiąt jeden | 91
-իննսունյոթ - dziewięćdziesiąt siedem | 97
-իննսունութ - dziewięćdziesiąt osiem | 98
-իննսունչորս - dziewięćdziesiąt cztery | 94
-իննսունվեց - dziewięćdziesiąt sześć | 96
+ինը - dziewięć, 9
+իննսուն - dziewięćdziesiąt, 90
+իննսուներեք - dziewięćdziesiąt trzy, 93
+իննսուներկու - dziewięćdziesiąt dwa, 92
+իննսունինը - dziewięćdziesiąt dziewięć, 99
+իննսունհինգ - dziewięćdziesiąt pięć, 95
+իննսունմեկ - dziewięćdziesiąt jeden, 91
+իննսունյոթ - dziewięćdziesiąt siedem, 97
+իննսունութ - dziewięćdziesiąt osiem, 98
+իննսունչորս - dziewięćdziesiąt cztery, 94
+իննսունվեց - dziewięćdziesiąt sześć, 96
 ինքնաթիռ - samolot
 ինքնաշարժ - automatyczny
 ինքնասպանություն - samobójstwo
@@ -749,17 +749,17 @@
 լատինական - łaciński
 Լատվիա - Łotwa
 լեզու - język
-լեզվաբան - językoznawca | lingwista
+լեզվաբան - językoznawca, lingwista
 լեզվաբանական - językowy
 լեզվաբանություն - językoznawstwo
 լեհական - polski
 Լեհաստան - Polska
 լեհաստանցի - polski
 լեհերեն - język polski
-լեհուհի - Polak | polski
+լեհուհի - Polak, polski
 լեղի - żółć
 Լեսոթո - Lesotho
-լերկ - bezwłosy | gładki
+լերկ - bezwłosy, gładki
 Լիբանան - Liban
 լիբանանցի - libański
 Լիբերիա - Liberia
@@ -796,20 +796,20 @@
 լռություն - cisza
 լրջություն - powaga
 լրտես - szpieg
-խաբար - wieść | wiadomość
-խաբեբայություն - oszustwo | podstęp | oszustwo (finansowe) | defraudacja
+խաբար - wieść, wiadomość
+խաբեբայություն - oszustwo, podstęp, oszustwo (finansowe), defraudacja
 խալիֆայություն - kalifat
 խաղալ - bawić się
-խաղաղ - pokojowy | cichy
-խաղաղություն - pokój | spokój
+խաղաղ - pokojowy, cichy
+խաղաղություն - pokój, spokój
 Խաղաղ օվկիանոս - Ocean Spokojny
 խաղամոլ - hazardzista
 խաղատուն - kasyno
 խանութ - sklep
-խավար - ciemność | mrok
+խավար - ciemność, mrok
 խավարասեր - karaluch
 խարիսխ - kotwica
-խարխլել - zrujnować | zniszczyć | poluzować
+խարխլել - zrujnować, zniszczyć, poluzować
 խխունջ - ślimak
 խճուղի - autostrada
 խմել - pić
@@ -819,13 +819,13 @@
 խնձորենի - jabłoń
 խնջույք - uczta
 խոլորձ - orchidea
-խոսել - mówić | rozmawiać
-խոստանալ - obiecać | obiecywać
+խոսել - mówić, rozmawiać
+խոստանալ - obiecać, obiecywać
 խորթ աղջիկ - pasierbica
 խորթ հայր - ojczym
 խորթ մայր - macocha
 խորթ տղա - pasierb
-խորովել - piec | grillować
+խորովել - piec, grillować
 խորվաթական - chorwacki
 Խորվաթերեն - język chorwacki
 Խորվաթիա - Chorwacja
@@ -851,10 +851,10 @@
 ծիծաղել - śmiać się
 ծիծեռնակ - jaskółka
 ծիրան - morela
-ծխախոտ - tytoń | papieros
+ծխախոտ - tytoń, papieros
 ծխնելույզ - komin
 ծծումբ - siarka
-ծնծղա - talerz | czynel
+ծնծղա - talerz, czynel
 ծնող - rodzic
 ծնոտ - szczęka
 ծնունդ - narodziny
@@ -881,7 +881,7 @@
 կալցիում - wapń
 կախաղան - szubienica
 կախարդ - magik
-կակաչ - mak | tulipan
+կակաչ - mak, tulipan
 կակտուս - kaktus
 Կահիրե - Kair
 կաղ - kulawy
@@ -897,9 +897,9 @@
 կայմ - maszt
 կայսր - cesarz
 կայսրություն - imperium
-կայֆ - kef | odurzenie narkotyczne | euforia
+կայֆ - kef, odurzenie narkotyczne, euforia
 Կանադա - Kanada
-կանաչ - zielony | zieleń
+կանաչ - zielony, zieleń
 կանաչավուն - zielonkawy
 կանկառ - karczoch
 կաշառել - przekupić
@@ -907,7 +907,7 @@
 կաչաղակ - sroka
 կապար - ołów
 կապիտալիզմ - kapitalizm
-կապույտ - niebieski | kolor niebieski
+կապույտ - niebieski, kolor niebieski
 կապտավուն - niebieskawy
 կառավարություն - rząd
 կառուցել - budować
@@ -928,10 +928,10 @@
 կարկուտ - grad
 կարմիր - czerwony
 կարմրավուն - czerwonawy
-կարտոֆիլ - ziemniak | kartofel
+կարտոֆիլ - ziemniak, kartofel
 կացին - topór
 կեղծամ - peruka
-կեղտ - brud | plama
+կեղտ - brud, plama
 կենգուրու - kangur
 կենդանաբան - zoolog
 կենդանաբանական - zoologiczny
@@ -953,7 +953,7 @@
 կիթառ - gitara
 կիլոգրամ - kilogram
 կիլոմետր - kilometr
-կին - kobieta | dama | małżonka | żona
+կին - kobieta, dama, małżonka, żona
 կիպարիս - cyprys
 Կիպրոս - Cypr
 կիվի - kiwi
@@ -970,11 +970,11 @@
 Կոլումբիա - Kolumbia
 կոկաին - kokaina
 կոկոս - kokos
-կոկորդ - gardło | krtań
+կոկորդ - gardło, krtań
 կոկորդիլոս - krokodyl
 կոկտեյլ - koktail
 կոմունիզմ - komunizm
-կոնյակ - brandy | winiak
+կոնյակ - brandy, winiak
 կոշիկ - but
 կոպ - powieka
 Կոսովո - Kosowo
@@ -987,29 +987,29 @@
 Կորսիկա - Korsyka
 Կուբա - Kuba
 կուղբ - bóbr
-կռիվ - bitwa | walka | starcie
+կռիվ - bitwa, walka, starcie
 կռճիկ - chrząstka
 կվարց - kwarc
 կվենի - modrzew
-կտակ - wola | testament
+կտակ - wola, testament
 կտուր - dach
 կտուց - dziób
 կրետ - osa
 կրիպտոն - krypton
-կրծքանշան - odznaka | medal
+կրծքանշան - odznaka, medal
 կրծքապտուկ - sutek
 կրկես - cyrk
 կրճատում - skrót
 կրոն - religia
 կրոնական - religijny
-հագուստ - ubrania | ubiór
+հագուստ - ubrania, ubiór
 հազալ - kaszleć
-հազար - tysiąc | 1000
-հազարամյակ - tysiąclecie | millenium
-հազվադեպ - rzadko | nieczęsto
+հազար - tysiąc, 1000
+հազարամյակ - tysiąclecie, millenium
+հազվադեպ - rzadko, nieczęsto
 Հաիթի - Haiti
 հականիշ - antonim
-հաղթանակ - zwycięstwo | wygrana | triumf | sukces
+հաղթանակ - zwycięstwo, wygrana, triumf, sukces
 հաղթու - zwycięski
 հաճախ - często
 հաճարենի - buk
@@ -1034,7 +1034,7 @@
 հայերեն - język ormiański
 Հայիթի - Haiti
 հայր - ojciec
-հայրենի - ojcowski | ojczysty
+հայրենի - ojcowski, ojczysty
 հանդբոլ - piłka ręczna
 հանրապետություն - republika
 հանցագործ - przestępca
@@ -1044,12 +1044,12 @@
 հանքային ջուր - woda mineralna
 հաշվապահ - księgowy
 հապավում - skrót
-հասարակ - zwykły | pospolity
+հասարակ - zwykły, pospolity
 հասարակագիտություն - socjologia
 հասիում - has
 հասցե - adres
 հավալուսն - pelikan
-հավատալ - wierzyć | ufać | polegać (na) | być przekonanym
+հավատալ - wierzyć, ufać, polegać (na), być przekonanym
 հավք - ptak
 հատապտուղ - jagoda
 հարավ - południe
@@ -1059,12 +1059,12 @@
 Հարավաֆրիկյան Հանրապետություն - Republika Południowej Afryki
 Հարավսլավիա - Jugosławia
 հարբել - upić się
-հարիւր - sto | 100
+հարիւր - sto, 100
 հարյուր - sto
-հարսանեկան - ślubny | weselny
+հարսանեկան - ślubny, weselny
 հարսանիք - ślub
 հարվածել - uderzyć
-հարց - pytanie | kwestia
+հարց - pytanie, kwestia
 հարցմունք - pytanie
 հաց - chleb
 հացի - jesion
@@ -1072,14 +1072,14 @@
 հեգնական - ironiczny
 հեդոնիզմ - hedonizm
 հելիում - hel
-հեծան - belka | kloc
+հեծան - belka, kloc
 հեծանիվ - rower
-հեծելազոր - kawaleria | konnica
+հեծելազոր - kawaleria, konnica
 հեկտար - hektar
 հեղաշրջում - rewolucja
 հեղափոխություն - rewolucja
 հեղինակ - kompozytor
-հեշտոց - pochwa | wagina
+հեշտոց - pochwa, wagina
 հեռախոս - telefon
 հեռավորություն - dystans
 հեռացնել - usunąć
@@ -1090,24 +1090,24 @@
 հերոս - bohater
 հերոսություն - bohaterstwo
 հիասթափություն - rozczarowanie
-հինգ - pięć | 5
+հինգ - pięć, 5
 հինգշաբթի - czwartek
 հիպնոս - hipnoza
-հիսուն - pięćdziesiąt | 50
-հիսուներեք - pięćdziesiąt trzy | 53
-հիսուներկու - pięćdziesiąt dwa | 52
-հիսունինը - pięćdziesiąt dziewięć | 59
-հիսունհինգ - pięćdziesiąt pięć | 55
-հիսունմեկ - pięćdziesiąt jeden | 51
-հիսունյոթ - pięćdziesiąt siedem | 57
-հիսունութ - pięćdziesiąt osiem | 58
-հիսունչորս - pięćdziesiąt cztery | 54
-հիսունվեց - pięćdziesiąt sześć | 56
+հիսուն - pięćdziesiąt, 50
+հիսուներեք - pięćdziesiąt trzy, 53
+հիսուներկու - pięćdziesiąt dwa, 52
+հիսունինը - pięćdziesiąt dziewięć, 59
+հիսունհինգ - pięćdziesiąt pięć, 55
+հիսունմեկ - pięćdziesiąt jeden, 51
+հիսունյոթ - pięćdziesiąt siedem, 57
+հիսունութ - pięćdziesiąt osiem, 58
+հիսունչորս - pięćdziesiąt cztery, 54
+հիսունվեց - pięćdziesiąt sześć, 56
 Հիսուս - Jezus
 Հիսուսը - Jezus
 հիվանդանոց - szpital
 հիւանդանոց - szpital
-հղի կին - w ciąży | brzemienna
+հղի կին - w ciąży, brzemienna
 հղիություն - ciąża
 հյութ - sok
 հյուսիս - północ
@@ -1143,14 +1143,14 @@
 Հոնկոնգ - Hongkong
 հոնք - brew
 հովիտ - dolina
-հոտ գալ - czuć (za pomocą zmysłu węchu) | wąchać
+հոտ գալ - czuć (za pomocą zmysłu węchu), wąchać
 հորանջ - ziewnięcie
 հորանջել - ziewać
-հորաքույր - ciocia | ciotka (ze strony ojca)
+հորաքույր - ciocia, ciotka (ze strony ojca)
 Հորդանան - Jordania
-հորեղբայր - wuj | wujek ze strony ojca
+հորեղբայր - wuj, wujek ze strony ojca
 հորիզոն - horyzont
-հորիզոնական - horyzontalny | poziomy
+հորիզոնական - horyzontalny, poziomy
 հուդայականություն - judaizm
 հուժկու - mocny
 հուլիս - lipiec
@@ -1177,12 +1177,12 @@
 ձագ - młode (zwierzę)
 ձագար - lejek
 ձախ - lewy
-ձայն - dźwięk | odgłos | brzmienie
+ձայն - dźwięk, odgłos, brzmienie
 ձեթ - olej
 ձեռնոց - rękawiczka
-ձեռք - ramię | ręka
+ձեռք - ramię, ręka
 ձեւաբանություն - morfologia
-ձեւանմուշ - model | wzór
+ձեւանմուշ - model, wzór
 ձի - koń
 ձիթենի - drzewo oliwne
 ձկնաբան - ichtiolog
@@ -1200,15 +1200,15 @@
 ձվաձեւ - owal
 Ղազախստան - Kazachstan
 ղալաթ - pomyłka
-ղեկավարություն - kierownictwo | szefostwo
+ղեկավարություն - kierownictwo, szefostwo
 Ղուրան - Koran
 ղպտիական - koptyjski
 Ղրղզստան - Kirgistan
 ճագար - królik
-ճակատագիր - los | przeznaczenie
+ճակատագիր - los, przeznaczenie
 ճակնդեղ - burak
 ճամբար - obóz
-ճանաչել - znać | rozpoznawać | poznawać
+ճանաչել - znać, rozpoznawać, poznawać
 ճանապարհորդ - podróżnik
 ճաշ - kolacja
 ճաշացուցակ - menu
@@ -1275,7 +1275,7 @@
 մարգարեուհի - prorokini
 մարգարիտ - perła
 մարգարտածաղիկ - stokrotka
-մարդ - człowiek | istota ludzka
+մարդ - człowiek, istota ludzka
 մարդաբան - antropolog
 մարդաբանություն - antropologia
 մարդկային - ludzki
@@ -1287,15 +1287,15 @@
 մարտ - marzec
 մարտակառք - rydwan
 մարտիրոս - męczennik
-մաքրել - czyścić | oczyszczać | usuwać
+մաքրել - czyścić, oczyszczać, usuwać
 մեգ - mgła
 մեդալ - medal
-մեթոդ - metoda | sposób
+մեթոդ - metoda, sposób
 մեխ - gwóźdź
 մեխանիզմ - mechanizm
 մեծամասնություն - większość
 Մեծ Բրիտանիա - Wielka Brytania
-մեկ - jeden | 1
+մեկ - jeden, 1
 մեղեդի - melodia
 մեղու - pszczoła
 մեղր - miód
@@ -1313,12 +1313,12 @@
 մետաքս - jedwab
 մետաֆիզիկա - metafizyka
 Մերձդնեստր - Naddniestrze
-մեքենա - maszyna | samochód
+մեքենա - maszyna, samochód
 Մեքսիկա - Meksyk
 մզկիթ - meczet
 մթնոլորտ - atmosfera
-մթություն - ciemność | mrok
-միակ - jedyny | sam
+մթություն - ciemność, mrok
+միակ - jedyny, sam
 միապետություն - monarchia
 միասեռություն - homoseksualizm
 միասին - razem
@@ -1353,13 +1353,13 @@
 մոխրաման - popielniczka
 մոծակ - komar
 մողես - jaszczurka
-մոմ - wosk | świeca
+մոմ - wosk, świeca
 Մոնղոլիա - Mongolia
 Մոնտենեգրո - Czarnogóra
 մոռանալ - zapomnieć
 Մոսկվա - Moskwa
-մոտիկ - bliski | niedaleki
-մորաքույր - ciocia | ciotka
+մոտիկ - bliski, niedaleki
+մորաքույր - ciocia, ciotka
 մորեխ - konik polny
 մուժ - mgła
 մուխ - dym
@@ -1378,16 +1378,16 @@
 յակ - jak
 յոգուրտ - jogurt
 յոդ - jod
-յոթ - siedem | 7
+յոթ - siedem, 7
 յոթանասուն - siedemdziesiąt
-յոթանասուներեք - siedemdziesiąt trzy | 73
-յոթանասուներկու - siedemdziesiąt dwa | 72
-յոթանասունինը - siedemdziesiąt dziewięć | 79
-յոթանասունհինգ - siedemdziesiąt pięć | 75
-յոթանասունմեկ - siedemdziesiąt jeden | 71
-յոթանասունյոթ - siedemdziesiąt siedem | 77
-յոթանասունչորս - siedemdziesiąt cztery | 74
-յոթանասունվեց - siedemdziesiąt sześć | 76
+յոթանասուներեք - siedemdziesiąt trzy, 73
+յոթանասուներկու - siedemdziesiąt dwa, 72
+յոթանասունինը - siedemdziesiąt dziewięć, 79
+յոթանասունհինգ - siedemdziesiąt pięć, 75
+յոթանասունմեկ - siedemdziesiąt jeden, 71
+յոթանասունյոթ - siedemdziesiąt siedem, 77
+յոթանասունչորս - siedemdziesiąt cztery, 74
+յոթանասունվեց - siedemdziesiąt sześć, 76
 Յուլյա - Julia
 նախաճաշ - śniadanie
 նախապատմություն - prehistoria
@@ -1403,7 +1403,7 @@
 նավթ - ropa naftowa
 նատրիում - sód
 նարինջ - pomarańcza (owoc)
-նարնջագույն - pomarańcz | pomarańczowy
+նարնջագույն - pomarańcz, pomarańczowy
 նեոդիմ - neodym
 նեոն - neon
 Նեպալ - Nepal
@@ -1435,14 +1435,14 @@
 նոճի - cyprys
 նոյեմբեր - listopad
 Նոր Զելանդիա - Nowa Zelandia
-նորից - znowu | znów
+նորից - znowu, znów
 նորվեգական - norweski
 Նորվեգիա - Norwegia
 նուշ - migdał
 նուռ - granat
 նվագախումբ - orkiestra
 նվեր - prezent
-շաբաթ - sobota | tydzień
+շաբաթ - sobota, tydzień
 շագանակ - kasztan
 շագանակագույն - brązowy
 շախմատ - szachy
@@ -1460,12 +1460,12 @@
 շիշ - butelka
 շնագայլ - szakal
 շնաձուկ - rekin
-շնորհ - łaska | względy
+շնորհ - łaska, względy
 շնորհավորում - gratulacje
 շոկոլադ - czekolada
 շողալ - błyszczeć
 Շոտլանդիա - Szkocja
-շուկա - rynek | bazar
+շուկա - rynek, bazar
 շուն - pies
 շպրից - strzykawka
 շպրտել - rzucać
@@ -1476,7 +1476,7 @@
 շրթներկ - szminka
 շրթունք - warga (ust)
 Շրի Լանկա - Sri Lanka
-շրջակայք - sąsiedztwo | okolica
+շրջակայք - sąsiedztwo, okolica
 ոզնի - jeż
 ոչինչ - nic
 ոչխար - owca
@@ -1493,30 +1493,30 @@
 ոստրե - ostryga
 ով - kto
 ոտնակ - pedał
-ոտք - noga | stopa
+ոտք - noga, stopa
 որթ - winorośl
 որովայն - brzuch
 որովհետեւ - ponieważ
 որտեղ - gdzie
 Ուգանդա - Uganda
 Ուզբեկստան - Uzbekistan
-ուզենալ - chcieć | życzyć sobie
-ութ - osiem | 8
+ուզենալ - chcieć, życzyć sobie
+ութ - osiem, 8
 ութոտնուկ - ośmiornica
-ութսուն - osiemdziesiąt | 80
-ութսուներեք - osiemdziesiąt trzy | 83
-ութսուներկու - osiemdziesiąt dwa | 82
-ութսունինը - osiemdziesiąt dziewięć | 89
-ութսունհինգ - osiemdziesiąt pięć | 85
-ութսունմեկ - osiemdziesiąt jeden | 81
-ութսունյոթ - osiemdziesiąt siedem | 87
-ութսունութ - osiemdziesiąt osiem | 88
-ութսունչորս - osiemdziesiąt cztery | 84
-ութսունվեց - osiemdziesiąt sześć | 86
+ութսուն - osiemdziesiąt, 80
+ութսուներեք - osiemdziesiąt trzy, 83
+ութսուներկու - osiemdziesiąt dwa, 82
+ութսունինը - osiemdziesiąt dziewięć, 89
+ութսունհինգ - osiemdziesiąt pięć, 85
+ութսունմեկ - osiemdziesiąt jeden, 81
+ութսունյոթ - osiemdziesiąt siedem, 87
+ութսունութ - osiemdziesiąt osiem, 88
+ութսունչորս - osiemdziesiąt cztery, 84
+ութսունվեց - osiemdziesiąt sześć, 86
 Ուկրաինա - Ukraina
 ուկրաինական - ukraiński
 ուղարկել - wysyłać
-ուղղաթիռ - helikopter | śmigłowiec
+ուղղաթիռ - helikopter, śmigłowiec
 ուղտ - wielbłąd
 ունք - brew
 ուշ - późno
@@ -1529,12 +1529,12 @@
 ուրագ - topór ciesielski
 ուրախ - szczęśliwy
 ուրան - uran
-ուրանալ - wypierać się | zaprzeczać
+ուրանալ - wypierać się, zaprzeczać
 ուրբաթ - piątek
 Ուրուգվայ - Urugwaj
 Չադ - Czad
 չամիչ - rodzynka
-չար - złośliwy | zły
+չար - złośliwy, zły
 չափանիշ - kryterium
 չեզոքություն - neutralność
 չեխական - czeski
@@ -1545,7 +1545,7 @@
 Չինաստան - Chiny
 չինարեն - język chiński
 չորեքշաբթի - środa
-չորս - cztery | 4
+չորս - cztery, 4
 պալադիում - pallad
 պալարախտ - gruźlica
 Պակիստան - Pakistan
@@ -1558,20 +1558,20 @@
 Պանամա - Panama
 պանիր - ser
 պաշտամունք - kult
-պաշտոն - funkcja | stanowisko
+պաշտոն - funkcja, stanowisko
 պաշտոնակից - kolega
-պաշտպանել - bronić | chronić
+պաշտպանել - bronić, chronić
 պաչ - pocałunek
 պաչիկ - dziobnięcie
 պապ - dziadek
 Պապուա Նոր Գվինեա - Papua-Nowa Gwinea
-պառավ - staruszka | starsza osoba
+պառավ - staruszka, starsza osoba
 պատառաքաղ - widelec
 պատասխանատվություն - odpowiedzialność
 պատասխանել - odpowiedzieć
 պատերազմ - wojna
 պատիժ - kara
-պատկեր - obrazek | ilustracja | obraz | portret
+պատկեր - obrazek, ilustracja, obraz, portret
 պատկերացնել - wyobrazić sobie
 պատճեն - kopia
 պատմություն - historia
@@ -1580,8 +1580,8 @@
 պատվաստում - szczepienie
 պար - taniec
 Պարագվայ - Paragwaj
-պարան - sznurek | sznur | lina
-պարանոց - szyja | kark
+պարան - sznurek, sznur, lina
+պարանոց - szyja, kark
 պարաշյուտ - spadochron
 պարել - tańczyć
 պարկավոր արջ - koala
@@ -1600,12 +1600,12 @@
 պինգվին - pingwin
 պիրոլ - wilga
 պիցցա - pizza
-պլաստիկ - plastik | tworzywo sztuczne
+պլաստիկ - plastik, tworzywo sztuczne
 պլատին - platyna
 պլուտոնիում - pluton
 պղինձ - miedź
 պղպեղ - pieprz
-պնակ - danie | talerz
+պնակ - danie, talerz
 պնդուկ - orzech laskowy
 պոլոնիում - polon
 պողպատ - stal
@@ -1622,12 +1622,12 @@
 պրոտոն - proton
 ջայլամ - struś
 ջարդ - masakra
-ջերմ - ciepły | gorący
+ջերմ - ciepły, gorący
 ջերմաստիճան - temperatura
 Ջիբութի - Dżibuti
 Ջիբրալթար - Gibraltar
 ջիղ - nerw
-ջին - gin | dżin
+ջին - gin, dżin
 ջութակ - skrzypce
 ջունգլի - dżungla
 ջուր - woda
@@ -1660,10 +1660,10 @@
 Ռումինիա - Rumunia
 Ռուսաստան - Rosja
 ռուսերեն - język rosyjski
-սև - czarny | czerń
-սա - ten | to
+սև - czarny, czerń
+սա - ten, to
 սագ - gęś
-սալաթ - sałata | sałatka
+սալաթ - sałata, sałatka
 սալամանդր - salamandra
 Սալվադոր - Salwador
 սաղմոն - łosoś
@@ -1683,17 +1683,17 @@
 սարյակ - szpak
 սելեն - selen
 սեխ - melon
-սեղան - stół | jedzenie | menu | czworobok | trapez | ołtarz
+սեղան - stół, jedzenie, menu, czworobok, trapez, ołtarz
 սեղանատուն - jadalnia
 Սենեգալ - Senegal
 սեպտեմբեր - wrzesień
-սեռ - płeć | rodzaj
-սեռական - seksualny | płciowy
+սեռ - płeć, rodzaj
+սեռական - seksualny, płciowy
 սեռական հոլով - dopełniacz
 սեր - miłość
 սերբերեն - język serbski
 Սերբիա - Serbia
-սերմ - nasiono | nasienie | sperma
+սերմ - nasiono, nasienie, sperma
 սեւ - czarny
 սեքսիզմ - seksizm
 սիբորգիում - seaborg
@@ -1713,7 +1713,7 @@
 Սև ծով - Morze Czarne
 սկանդիում - skand
 սև կեռնեխ - kos
-սկզբունք - zasada | reguła
+սկզբունք - zasada, reguła
 սկյուռ - wiewiórka
 սկումբրիա - makrela
 սնահավատ - przesądny
@@ -1728,9 +1728,9 @@
 Սովետական Միություն - Związek Radziecki
 սոցիալիզմ - socjalizm
 սոցիոլոգիա - socjologia
-սուգ - smutek | żal | żałoba
+սուգ - smutek, żal, żałoba
 Սուդան - Sudan
-սուզանավ - łódź podwodna | okręt podwodny
+սուզանավ - łódź podwodna, okręt podwodny
 սուպ - zupa
 սուպերմարկետ - supermarket
 սուտակ - rubin
@@ -1767,20 +1767,20 @@
 սփռոց - obrus
 վագր - tygrys
 վագրակատու - gepard
-վաթսուն - sześćdziesiąt | 60
-վաթսուներեք - sześćdziesiąt trzy | 63
-վաթսուներկու - sześćdziesiąt fwa | 62
-վաթսունինը - sześćdziesiąt dziewięć | 69
-վաթսունհինգ - sześćdziesiąt pięć | 65
-վաթսունմեկ - sześćdziesiąt jeden | 61
-վաթսունյոթ - sześćdziesiąt siedem | 67
-վաթսունութ - sześćdziesiąt osiem | 68
-վաթսունչորս - sześćdziesiąt cztery | 64
-վաթսունվեց - sześćdziesiąt sześć | 66
+վաթսուն - sześćdziesiąt, 60
+վաթսուներեք - sześćdziesiąt trzy, 63
+վաթսուներկու - sześćdziesiąt fwa, 62
+վաթսունինը - sześćdziesiąt dziewięć, 69
+վաթսունհինգ - sześćdziesiąt pięć, 65
+վաթսունմեկ - sześćdziesiąt jeden, 61
+վաթսունյոթ - sześćdziesiąt siedem, 67
+վաթսունութ - sześćdziesiąt osiem, 68
+վաթսունչորս - sześćdziesiąt cztery, 64
+վաթսունվեց - sześćdziesiąt sześć, 66
 վախկոտ - tchórz
 վակուում - próżnia
 վահան - tarcza
-վաղ - wczesny | wcześnie
+վաղ - wczesny, wcześnie
 վաճառել - sprzedawać
 վայրի - dziki
 վայրի գազար - pasternak
@@ -1792,7 +1792,7 @@
 վառոդ - proch strzelniczy
 Վատիկան - Państwo Watykańskie
 վարազ - dzik
-վարդագույն - różowy | róż
+վարդագույն - różowy, róż
 վարդակակաչ - tulipan
 վարժություն - ćwiczenie
 Վարշավա - Warszawa
@@ -1806,9 +1806,9 @@
 վերմուտ - wermut
 վերնաշապիկ - koszula
 վերք - rana
-վեց - sześć | 6
+վեց - sześć, 6
 Վիետնամ - Wietnam
-վիզ - kark | szyja
+վիզ - kark, szyja
 վիզա - wiza
 վիթ - gazela
 վիճակախաղ - loteria
@@ -1824,18 +1824,18 @@
 Տանզանիա - Tanzania
 տանտալ - tantal
 Տաջիկստան - Tadżykistan
-տասը - dziesięć | 10
-տասներեք - trzynaście | 13
-տասներկու - dwanaście | 12
-տասնինը - dziewiętnaście | 19
-տասնհինգ - piętnaście | 15
-տասնմեկ - jedenaście | 11
-տասնյոթ - siedemnaście | 17
-տասնութ - osiemnaście | 18
-տասնչորս - czternaście | 14
-տասնվեց - szesnaście | 16
+տասը - dziesięć, 10
+տասներեք - trzynaście, 13
+տասներկու - dwanaście, 12
+տասնինը - dziewiętnaście, 19
+տասնհինգ - piętnaście, 15
+տասնմեկ - jedenaście, 11
+տասնյոթ - siedemnaście, 17
+տասնութ - osiemnaście, 18
+տասնչորս - czternaście, 14
+տասնվեց - szesnaście, 16
 տավիղ - harfa
-տատ - babka | staruszka
+տատ - babka, staruszka
 տատիկ - babcia
 տարածք - terytorium
 տարի - rok
@@ -1845,9 +1845,9 @@
 տգեղ - brzydki
 տելուր - tellur
 տեխնեցիում - technet
-տեղ - lokalizacja | pozycja | miejsce
+տեղ - lokalizacja, pozycja, miejsce
 տեղեկատվություն - informacja
-տեղեկացնել - informować | ogłaszać | obwieszczać
+տեղեկացնել - informować, ogłaszać, obwieszczać
 տենդախտ - malaria
 տեռորիզմ - terroryzm
 տեռորիստական - terrorystyczny
@@ -1855,8 +1855,8 @@
 տեսություն - teoria
 տերբիում - terb
 տեւողություն - czas trwania
-տխրություն - smutek | żal
-տղա - chłopiec | syn
+տխրություն - smutek, żal
+տղա - chłopiec, syn
 տղամարդ - mężczyzna
 տնային աշխատանք - praca domowa
 տնտեսագիտություն - ekonomia
@@ -1870,11 +1870,11 @@
 տրամաբան - logik
 տրամաբանություն - logika
 տրամագիծ - średnica
-տրամադրություն - nastrój | humor
+տրամադրություն - nastrój, humor
 Տրինիդադ եւ Տոբագո - Trynidad i Tobago
 ցածր - niski
 ցածրահասակ - niski
-ցանկություն - pragnienie | życzenie
+ցանկություն - pragnienie, życzenie
 ցեզիում - cez
 ցեղասպանություն - ludobójstwo
 ցերիում - cer
@@ -1910,36 +1910,36 @@
 փռշտալ - kichnąć
 փռշտոց - kichnięcie
 Քաթար - Katar
-քած - suka | samica psa
+քած - suka, samica psa
 քահանա - ksiądz
 քաղաք - miasto
 քաղաքական - polityczny
-քաղաքականություն - cywilizacja | polityka
+քաղաքականություն - cywilizacja, polityka
 քաղաքապետ - major
 քաղաքավար - uprzejmy
 քաղաքացի - obywatel
-քաղց - głód | głodowanie
-քաղցկեղ - rak | nowotwór
+քաղց - głód, głodowanie
+քաղցկեղ - rak, nowotwór
 քաղցր - słodki (także przenośnie)
-քամի - wiatr | powiew
+քամի - wiatr, powiew
 քայլ - krok
-քայլել - iść | chodzić
-քան - niż | od
-քանակ - suma | ilość
+քայլել - iść, chodzić
+քան - niż, od
+քանակ - suma, ilość
 քաոս - chaos
 քաոսային - chaotyczny
-քաջ - odważny | dzielny
+քաջ - odważny, dzielny
 քաջվարդ - piwonia
-քառասուն - czterdzieści | 40
-քառասուներեք - czterdzieści trzy | 43
-քառասուներկու - czterdzieści dwa | 42
-քառասունինը - czterdzieści dziewięć | 49
-քառասունհինգ - czterdzieści pięć | 45
-քառասունմեկ - czterdzieści jeden | 41
-քառասունյոթ - czterdzieści siedem | 47
-քառասունութ - czterdzieści osiem | 48
-քառասունչորս - czterdzieści cztery | 44
-քառասունվեց - czterdzieści sześć | 46
+քառասուն - czterdzieści, 40
+քառասուներեք - czterdzieści trzy, 43
+քառասուներկու - czterdzieści dwa, 42
+քառասունինը - czterdzieści dziewięć, 49
+քառասունհինգ - czterdzieści pięć, 45
+քառասունմեկ - czterdzieści jeden, 41
+քառասունյոթ - czterdzieści siedem, 47
+քառասունութ - czterdzieści osiem, 48
+քառասունչորս - czterdzieści cztery, 44
+քառասունվեց - czterdzieści sześć, 46
 քար - kamień
 քարտեզ - mapa
 քացախ - ocet
@@ -1957,24 +1957,24 @@
 քլոր - chlor
 քյաբաբ - kebab
 քնամուկ - popielica
-քնել - spać | zasypiać
+քնել - spać, zasypiać
 քննադատ - krytyk
 քննադատություն - krytyka
 քննարկում - dyskusja
 քույր - siostra
-քուն - sen | drzemka
+քուն - sen, drzemka
 Քուվեյթ - Kuwejt
-քսան - dwadzieścia | 20
-քսաներեք - dwadzieścia trzy | 23
-քսաներկու - dwadzieścia dwa | 22
+քսան - dwadzieścia, 20
+քսաներեք - dwadzieścia trzy, 23
+քսաներկու - dwadzieścia dwa, 22
 քսաներորդ - dwudziesty
-քսանինը - dwadzieścia dziewięć | 29
-քսանհինգ - dwadzieścia pięć | 25
-քսանմեկ - dwadzieścia jeden | 21
-քսանյոթ - dwadzieścia siedem | 27
-քսանութ - dwadzieścia osiem | 28
-քսանչորս - dwadzieścia cztery | 24
-քսանվեց - dwadzieścia sześć | 26
+քսանինը - dwadzieścia dziewięć, 29
+քսանհինգ - dwadzieścia pięć, 25
+քսանմեկ - dwadzieścia jeden, 21
+քսանյոթ - dwadzieścia siedem, 27
+քսանութ - dwadzieścia osiem, 28
+քսանչորս - dwadzieścia cztery, 24
+քսանվեց - dwadzieścia sześć, 26
 քսենոն - ksenon
 քվեարկող - wyborca
 քրիստոնեություն - chrześcijaństwo
@@ -1983,13 +1983,13 @@
 Քրիստոս - Chrystus
 քրոմ - chrom
 քրտինք - pot
-քրքում - szafran | krokus | szafranowy (kolor)
+քրքում - szafran, krokus, szafranowy (kolor)
 օբյեկտ - obiekt
-օգնել - asystować | pomagać
-օգնություն - pomoc | serwis
+օգնել - asystować, pomagać
+օգնություն - pomoc, serwis
 օգոստոս - sierpień
-օգուտ - korzyść | zysk | użytek
-օգտագործում - użytek | użyteczność
+օգուտ - korzyść, zysk, użytek
+օգտագործում - użytek, użyteczność
 օդ - powietrze
 օդակայան - lotnisko
 օդանավ - samolot
@@ -1997,7 +1997,7 @@
 օդաչու - pilot (lotnik)
 օդապարիկ - balon
 Օդեսա - Odessa
-օդերեւութաբան - meteorolog | zapowiadający pogodę
+օդերեւութաբան - meteorolog, zapowiadający pogodę
 օդերեւութաբանություն - meteorologia
 օլիգարխիա - oligarchia
 օձ - wąż
@@ -2007,13 +2007,13 @@
 Օման - Oman
 օմար - homar
 օպերա - opera
-օջախ - serce | dom
+օջախ - serce, dom
 օսական - osetyjski
 օսեթական - osetyjski
 օսմիում - osm
 Օվկիանիա - Oceania
 օվկիանոս - ocean
-օտար - zagraniczny | obcy
+օտար - zagraniczny, obcy
 օտարական - obcokrajowiec
 օր - dzień
 օրանգուտան - orangutan
@@ -2023,7 +2023,7 @@
 օրգանիզմ - organizm
 օրենք - prawo
 օրինակ - przykład
-օրիորդ - dziewczyna | młoda kobieta
+օրիորդ - dziewczyna, młoda kobieta
 ֆալոպյան խողովակ - jajowód
 ֆալոպյան փող - jajowód
 ֆաշիստական - faszystowski

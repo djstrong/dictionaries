@@ -1,6 +1,6 @@
 abażur - абажур m
 Abraham - Абрахам
-acz - иако | мада | премда
+acz - иако, мада, премда
 Adam - Адам m
 aerodynamika - аеродинамика
 aeroplan - авион
@@ -27,7 +27,7 @@ Andrychów - Андрихов
 Andrzej - Андреј
 Aneta - Анета
 Angelika - Ангелика
-angiografia - ангиографија f | артериографија f
+angiografia - ангиографија f, артериографија f
 Aniela - Анђела
 Anita - Анита
 aniżeli - него
@@ -45,9 +45,9 @@ arabus - Арапин
 armia - армија
 armijo - армија
 asterysk - астериск
-atak serca - срчани удар | инфаркт миокарда
+atak serca - срчани удар, инфаркт миокарда
 austriacki - аустријски
-auto - аутомобил | ауто
+auto - аутомобил, ауто
 autobana - аутопут
 autostrada - аутопут
 Azerbejdżan - Азербејџан
@@ -56,9 +56,9 @@ bakałarz - наставник m
 bakłażan - патлиџан m
 balet - балет m
 Bałtyk - Балтичко море
-bank - банка | banka f
+bank - банка, banka f
 barabola - кромпир m
-Baran - Ован | Ovan
+Baran - Ован, Ovan
 Barcelona - Барселона
 barwa - боја
 Bazylea - Базел
@@ -66,9 +66,9 @@ bebech - стомак
 beczeć - плакати/plakati
 belfer - наставник m
 Belgia - Белгия
-Belgrad - Београд | Beograd
+Belgrad - Београд, Beograd
 Benin - Бенин
-Berlin Zachodni - Западни Берлин | Zapadni Berlin
+Berlin Zachodni - Западни Берлин, Zapadni Berlin
 beryl - берилијум
 bety - пиџама
 bezosobowy - безличан
@@ -76,11 +76,11 @@ białko - протеин m
 biały - бели
 Biblia - Библија
 biblioteka - библиотека f
-Biłgoraj - Билгорај | Bilgoraj
+Biłgoraj - Билгорај, Bilgoraj
 Bitola - Битољ
 bizmut - Бизмут
-Bliźnięta - Близанци | Blizanci
-Bohemia - Чешка | Češka | Бохемска | Bohemska
+Bliźnięta - Близанци, Blizanci
+Bohemia - Чешка, Češka, Бохемска, Bohemska
 Boliwia - Боливија f (Bolivija)
 Bośnia i Hercegowina - Босна и Херцеговина
 brązowy - браун
@@ -90,26 +90,26 @@ brzmienie - звук
 brzoskwinia - бресква
 Budapeszt - Будимпешта
 bulba - кромпир m
-Bułgaria - Бугарска | Bugarska
+Bułgaria - Бугарска, Bugarska
 bulwa - кромпир m
 bursztyn - ћилибар
-Byk - Бик | Bik
-Była Jugosłowiańska Republika Macedonii - Бивша Југословенска Република Македонија | Bivša Jugoslovenska Republika Makedonija
+Byk - Бик, Bik
+Była Jugosłowiańska Republika Macedonii - Бивша Југословенска Република Македонија, Bivša Jugoslovenska Republika Makedonija
 car - цар m
 chlor - хлор m
-choinka - новогодишње дрво | божићна јелка
-chójk - новогодишње дрво | божићна јелка
+choinka - новогодишње дрво, божићна јелка
+chójk - новогодишње дрво, божићна јелка
 Chojnów - Хојнов
 choroba - болест
-Chorwacja - Хрватска | Hrvatska f
+Chorwacja - Хрватска, Hrvatska f
 chorwacki - hrvatski/хрватски
-cicho - тихо | тишина
+cicho - тихо, тишина
 ciecierzyca - леблебија
 ciga - коза f
-cukier - шећер | šećer
+cukier - шећер, šećer
 cyferblat - лице
 cynk - цинк
-Cypr - Кипар | Kipar
+Cypr - Кипар, Kipar
 cyrylica - ћирилица f
 cytryna - лимун
 cytrynat - лимун
@@ -118,16 +118,16 @@ czarna dziura - црна рупа / crna rupa
 czarna porzeczka - црна рибизла
 Czarnogóra - Црна Гора
 czarny - црна
-czas - време | vreme n
+czas - време, vreme n
 czasownik - глагол m
 czciciel - обожавалац m
 Czechosłowacja - Чехословачка
 Czecho-Słowacja - Чехословачка
-Czechy - Чешка | Češka | Бохемска | Bohemska
+Czechy - Чешка, Češka, Бохемска, Bohemska
 czekan - цепин
 czerwiec - јун
 czerwona porzeczka - црвена рибизла
-cześć - здраво | zdravo | ћао | ćao
+cześć - здраво, zdravo, ћао, ćao
 częstoskurcz - тахикардија f
 czoło - чело n
 czorny - црна
@@ -152,7 +152,7 @@ doktor - лекар m
 dom - дом m
 domowej roboty - домаћи
 doradca - саветник m
-Drezno - Дрезден | Drezden
+Drezno - Дрезден, Drezden
 Droga Mleczna - Млечни пут
 drukarka - штампач
 drzwi - врата / vrata
@@ -163,11 +163,11 @@ Dżamila - Џамила (Dżamila) f
 Dżibuti - Џибути
 dziękuję bardzo - хвала вам много
 dziela - за
-dzień dobry - добро јутро | добар дан
-dziennikarstwo - новинарство n | журналистика f | журнализам m
-dziennikarz - новинар | публициста
+dzień dobry - добро јутро, добар дан
+dziennikarstwo - новинарство n, журналистика f, журнализам m
+dziennikarz - новинар, публициста
 dżihad - џихад m (džihad)
-dżungla - џунгла f | прашума f
+dżungla - џунгла f, прашума f
 dźwięk - звук
 edytor tekstu - текст процесор
 ekosystem - екосистем
@@ -178,16 +178,16 @@ etymologia - етимологија/etimologija f
 Ewa - Ева f
 facjata - лице
 fajny - леп
-faryna - шећер | šećer
-fasola szparagowa - боранија f | буранија f
-fasolka szparagowa - боранија f | буранија f
+faryna - шећер, šećer
+fasola szparagowa - боранија f, буранија f
+fasolka szparagowa - боранија f, буранија f
 fawela - фавела
 fefer - biber
 ferska - бресква
 feta - амфетамин
 fezeła - пчела f
 film - филм m
-filozof - философ | филозоф
+filozof - философ, филозоф
 Finlandia - Финска
 fioletowy - љубичаста
 fitogeografia - фитогеографија
@@ -197,7 +197,7 @@ Florencja - Фиренца
 fluor - флуор
 fort - тврђава (tvrđava) f
 fosfor - фосфор m
-fotorealizm - фотореализам m | фотографски реализам m
+fotorealizm - фотореализам m, фотографски реализам m
 futuryzm - футуризам
 gadałka - вила
 gała - врана
@@ -209,7 +209,7 @@ giez - обад
 gira - нога
 glajza - торијум
 glapa - врана
-gnat - кост f | коцка f
+gnat - кост f, коцка f
 gnu - гну
 godka - језик m
 golem - голем m
@@ -220,7 +220,7 @@ gramatyka - граматика f
 granatowy - тегет
 Gruzinka - Грузијка
 gryfny - леп
-gwiazda - звезда | zvezda f
+gwiazda - звезда, zvezda f
 gwiazdka - Бадњи дан
 hajtok - нож m
 Hana - Хана f
@@ -244,18 +244,18 @@ ino - само
 interes - ствар
 intonacja - интонација f
 iryd - иридијум
-itd. - итд. | itd.
+itd. - итд., itd.
 izolacjonizm - изолационизам m
 jabłko - јабука f
 jabłoń - јабука-дрво
 jabłoń domowa - домаћа јабука
 jajo - јаје n (jaje)
 JAL - ЈНА
-Jan - Јанош | Иван | Јован
+Jan - Јанош, Иван, Јован
 jantar - ћилибар
-jastrząb - јастреб | jastreb
+jastrząb - јастреб, jastreb
 jebać - јебати
-jebadło - кревет m | постеља f
+jebadło - кревет m, постеља f
 Jędrzej - Андреј
 jeż - јеж
 Jezus - Исус m
@@ -263,7 +263,7 @@ Jezus Chrystus - Исус Христос
 język - језик m
 jidysz - јидиш
 jugonostalgia - југоносталгија
-Jugosławia - Југославија | Jugoslavija
+Jugosławia - Југославија, Jugoslavija
 juny - млад
 Juraszczyk - Јурашчик
 Kafarnaum - Капернаум
@@ -273,7 +273,7 @@ kałabania - бара f
 kalafa - лице
 kałuża - бара f
 kam - где
-kangur - кенгур | kengur m
+kangur - кенгур, kengur m
 kapować - разумети
 kapusta - купус
 karaba - мачка f
@@ -283,45 +283,45 @@ kardiologia - кардиологија f
 kartofel - кромпир m
 Katalonia - Каталонија
 kataloński - katalonski
-Katyń - катињски масакр | масакр у Катињској шуми
+Katyń - катињски масакр, масакр у Катињској шуми
 kaval - кавал m
 kawiarnia - кафе (kafe)
 kawka - сестра f
 kędy - где
 kejter - пас m
 kejza - сир m
-Kenia - Кенија | Kenija f
+Kenia - Кенија, Kenija f
 kiełbasa - кобасица / kobasica f
 Kirgistan - Киргистан
 kłapaczka - уста
 klara - Сунце
 klaustrofobia - клаустрофобија f
-klej - lepak | tutkalo
+klej - lepak, tutkalo
 kobalt - кобалт
 kochać - волети
 kociamber - мачка f
 kocioł - котао m
 kofeina - кофеин
-koja - кревет m | постеља f
-kojo - кревет m | постеља f
+koja - кревет m, постеља f
+kojo - кревет m, постеља f
 Kolonia - Келн
 kolor - боја
-Kolumbia - Колумбија | Kolumbija f
-komar - komarac m | komarica f
+Kolumbia - Колумбија, Kolumbija f
+komar - komarac m, komarica f
 kometa - комета
 koń - коњ (konj)
 kóń - коњ (konj)
 koniec - крај
 kontent - задовољан
-kopruch - komarac m | komarica f
+kopruch - komarac m, komarica f
 Koran - Куран m
 kosa - нож m
-kość - кост f | коцка f
+kość - кост f, коцка f
 kość sitowa - ситаста кост
-kosztować - пробати | кушати | имати укус | пријати | бити укусан
+kosztować - пробати, кушати, имати укус, пријати, бити укусан
 kot - мачка f
 koza - коза f
-Koziorożec - Јарац | Jarac
+Koziorożec - Јарац, Jarac
 Kraków - Краков
 krasula - крава f
 krauza - тегла
@@ -335,16 +335,16 @@ kula - нога
 kulos - нога
 kwadrans - четврт
 ładny - леп
-land - село | selo
+land - село, selo
 lekarz - лекар m
 lepszy wróbel w garści niż gołąb na dachu - боље врабац у руци него голуб на грани
 leśny - партизан m
-Lew - Лав | Lav
+Lew - Лав, Lav
 Lhasa - Ласа
 Londyn - Лондон m
 łosoś - лосос
-łoże - кревет m | постеља f
-łóżko - кревет m | постеља f
+łoże - кревет m, постеља f
+łóżko - кревет m, постеља f
 lub - или
 łucznictwo - стреличарство n
 luńt - пас m
@@ -365,7 +365,7 @@ mazdaizm - маздаизам m
 medyk - лекар m
 Medziugorie - Међугорје
 menstruacja - менструација
-Merkury - Меркур | Merkur m
+Merkury - Меркур, Merkur m
 męski - мушки
 meteor - meteor
 metr kwadratowy - квадратни метар m
@@ -388,7 +388,7 @@ Mojżesz - Мојсије
 monofizytyzm - монофизитство
 morze - море n
 Morze Bałtyckie - Балтичко море
-Morze Śródziemne - Средоземно Море | (Sredozemno More)
+Morze Śródziemne - Средоземно Море, (Sredozemno More)
 Mount Everest - Монт Еверест
 mowa - језик m
 mózg - мозак
@@ -400,7 +400,7 @@ nacja - нација f (nacija)
 naczyniowy - васкуларни
 nadbaba - prababa
 Nahum - Наум m
-Nairobi - Најроби | Najrobi m
+Nairobi - Најроби, Najrobi m
 naleśnik - палачинке
 napad - напад
 naród - нација f (nacija)
@@ -414,7 +414,7 @@ niech żyje - живео!
 nieduch - болест
 niedziela - недеља (nedelja)
 niedźwiedź - медвед
-Niemiecka Republika Demokratyczna - Немачка Демократска Република | Nemačka Demokratska Republika
+Niemiecka Republika Demokratyczna - Немачка Демократска Република, Nemačka Demokratska Republika
 niepodległość - независност f (nezavisnost)
 nieuprzejmy - неучтив
 nigdy - никад
@@ -427,7 +427,7 @@ nowotwór - неоплазма
 Nowy Rok - Нова Година
 nóż - нож m
 Numidia - Нумидија f
-nyga - komarac m | komarica f
+nyga - komarac m, komarica f
 oaza - оаза f
 obelisk - обелиск m
 oberżyna - патлиџан m
@@ -445,15 +445,15 @@ ojla - сова (sova)
 okręt podwodny - подморница f
 olej - уље
 oligarcha - олигарх m
-ONZ - УН | UN
+ONZ - УН, UN
 oraz - и
 orgazm - оргазам / orgazam m
 osoba - лице
 paciuk - пацов (pacov)
 pajęcznik - септембар
-Panna - Девица | Devica
+Panna - Девица, Devica
 papuga - папагај
-para - пара f | водена пара f
+para - пара f, водена пара f
 partyzant - партизан m
 Paulek - Павле
 Paweł - Павле
@@ -475,13 +475,13 @@ pies pracujący - радни пас
 piksel - пиксел
 piłkarzyki - стони фудбал
 piorun - муња f
-piosenka - pesma f | pesmica f
-Piotr - Петар | Petar
+piosenka - pesma f, pesmica f
+Piotr - Петар, Petar
 piżama - пиџама
 płakać - плакати/plakati
 planeta - планета
-płynny - течно | течност
-płyta główna - основна плоча | матична
+płynny - течно, течност
+płyta główna - основна плоча, матична
 POChP - ХОБП
 początkowy - иницијални
 podkoszulek - поткошуља f
@@ -505,31 +505,31 @@ prawda - истина
 prawnuczka - praunuka f
 prawnuk - praunuk m
 prezydent - predsednik
-próbować - пробати | кушати | имати укус | пријати | бити укусан
-prosto - право | једноставно | просто | усправно
+próbować - пробати, кушати, имати укус, пријати, бити укусан
+prosto - право, једноставно, просто, усправно
 protein - протеин m
 proteina - протеин m
-Prusy - Прусија | Prusija
+Prusy - Прусија, Prusija
 przać - волети
 przebiśnieg - висибаба f
 przeciwciało - антитело n (antitelo)
 przeciwutleniacz - антиоксиданс
 przedwczoraj - прекјуче
-przepraszam - извините | пардон
+przepraszam - извините, пардон
 przoć - волети
 przyroda - природа f
 pseudonauka - псеудонаука
 psisko - пас m
 pszczoła - пчела f
 pustynia - пустиња
-Pyjter - Петар | Petar
+Pyjter - Петар, Petar
 pyra - кромпир m
 rachatłukum - ратлук
 radon - радон
-Rak - Рак | Rak
+Rak - Рак, Rak
 rakuski - аустријски
 razdziawa - врана
-reinkarnacja - реинкарнација | препорађање
+reinkarnacja - реинкарнација, препорађање
 rekin - ајкула / ajkula f
 Republika Federalna Niemiec - Савезна Република Немачка (Savezna Republika Nemačka)
 Republika Słowacka - Словачка Република
@@ -545,7 +545,7 @@ rubid - рубидијум
 ruten - рутенијум
 ryba - риба
 ryboflawina - рибофлавин
-Ryby - Рибе | Ribe
+Ryby - Рибе, Ribe
 rywal - ривал m
 rzeka - река
 samar - самаријум
@@ -562,10 +562,10 @@ Serbia - Србија f
 serbski - српски
 siarkowodór - водоник-сулфид
 sieczeń - фебруар
-sioło - село | selo
+sioło - село, selo
 siostra - сестра
 skand - скандијум n
-Skop - Ован | Ovan
+Skop - Ован, Ovan
 skóra - кожа f
 Skorpion - Шкорпија
 skrobia - скроб m
@@ -578,7 +578,7 @@ Słońce - Сунце
 Słowenia - Словенија (Slovenija)
 Słowianin - Словен m
 słuchać - слушати
-smakować - пробати | кушати | имати укус | пријати | бити укусан
+smakować - пробати, кушати, имати укус, пријати, бити укусан
 smrodyla - црна рибизла
 śnieg - снег m
 sobaka - пас m
@@ -590,7 +590,7 @@ Sopot - Сопот m
 sowa - сова (sova)
 sowa śnieżna - снежна сова f
 śpiewać - певати
-spróbować - пробати | кушати | имати укус | пријати | бити укусан
+spróbować - пробати, кушати, имати укус, пријати, бити укусан
 sp. z o.o. - d.o.o. / д.о.о.
 srebrna - сребрна
 srebrny - сребрна
@@ -603,7 +603,7 @@ strona internetowa - вебсајт m
 struktur - структу́ра f (struktúra)
 struktura - структу́ра f (struktúra)
 strzała - стрела
-Strzelec - Стрелац | Strelac
+Strzelec - Стрелац, Strelac
 studnia - бунар
 styczeń - јануар
 stygmatyzacja - стигматизација f
@@ -628,16 +628,16 @@ Szkocja - Шкотска
 Szkotka - Шкоткиња f
 Szląsk - Шлезије
 szneka - лице
-szulak - јастреб | jastreb
+szulak - јастреб, jastreb
 szwaja - нога
 Szwecja - Шведска
 Szwecyjo - Шведска
 szwestera - сестра
-szyja - врат | шија
+szyja - врат, шија
 szykowny - леп
 tablica rejestracyjna - регистарска таблица f
 tachykardia - тахикардија f
-Tadżykistan - Таџикистан | Tadžikistan
+Tadżykistan - Таџикистан, Tadžikistan
 Tajlandia - Тајланд m
 tak - да
 także - такође
@@ -673,27 +673,27 @@ urodziny - рођендан
 urodziwy - леп
 usta - уста
 uzasadniać - оправдати
-wacha - море n | вода f
-Waga - Вага | Vaga
+wacha - море n, вода f
+Waga - Вага, Vaga
 Walijczyk - Велшанин
 wampir - вампир
-Watykan - Ватикан | Vatikan
+Watykan - Ватикан, Vatikan
 węgiel - угљеник
 wesoło - весело
 Wesołych Świąt - Срећан Божић
 widnokrąg - хоризонт
-Wiedeń - Беч | (Beč)
+Wiedeń - Беч, (Beč)
 wiedzieć - знати
-Wielka Brytania - Уједињено Краљевство | Велика Британија | Velika Britanija f
-Wielkanoc - Ускрс m | Васкрс m | Великден m
+Wielka Brytania - Уједињено Краљевство, Велика Британија, Velika Britanija f
+Wielkanoc - Ускрс m, Васкрс m, Великден m
 Wielkie Antyle - Велики Антили
-wieś - село | selo
+wieś - село, selo
 Wigilia - Бадњи дан
 Wikipedia - Википедија
-Wikisłownik - Викиречник | Vikirečnik m
+Wikisłownik - Викиречник, Vikirečnik m
 Wikiźródła - Викизворник
 wilk - vuk / вук m
-wioska - село | selo
+wioska - село, selo
 wiosna - пролеће n
 Wisła - Висла
 wnęk - унук/unuk m
@@ -704,7 +704,7 @@ woda - вода f
 woda mineralna - минерална вода f
 Wodnik - Водолија
 wodór - водоник m
-województwo - vojvodstvo | vojvodina
+województwo - vojvodstvo, vojvodina
 wojna trojańska - тројански рат
 wrona - врана
 wróżka - вила
@@ -713,10 +713,10 @@ wtorek - уторак
 wuszt - кобасица / kobasica f
 wydma - дина f
 wyjątek - изузетак m
-wysokość - висина | величина | висина тона
+wysokość - висина, величина, висина тона
 Wyspa Świętego Wyspy Świętego Tomasza i Wyspa Książęca - Сао Томе и Принципе
 Wyspy Kanaryjskie - Канарска острва
-wyża - висина | величина | висина тона
+wyża - висина, величина, висина тона
 zaćmienie - помрачење
 zadowolenie - срећа
 zadowolony - задовољан
@@ -728,7 +728,7 @@ zależność - зависност
 zamach stanu - prevrat m
 zapalenie płuc - запаљење плућа
 zarabiać - зарађивати
-zbrodnia katyńska - катињски масакр | масакр у Катињској шуми
+zbrodnia katyńska - катињски масакр, масакр у Катињској шуми
 żebrak - просјак
 zegar słoneczny - сунчани сат m
 żegleń - угљеник
@@ -738,13 +738,13 @@ ziemniak - кромпир m
 ziołolecznictwo - траварство
 złoto - злато n
 żołądek - стомак
-żółć - жут | žut
-żółty - жут | žut
+żółć - жут, žut
+żółty - жут, žut
 zorza - зора f
-żurnalista - новинар | публициста
+żurnalista - новинар, публициста
 Związek Socjalistycznych Republik Radzieckich - Савез Совјетских Социјалистичких Република
-zwierzak - животиња | životinja f
-zwierzę - животиња | životinja f
+zwierzak - животиња, životinja f
+zwierzę - животиња, životinja f
 zwyczajny - обичан
 żyła - вена
 żyrafa - жирафа f

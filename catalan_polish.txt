@@ -9,10 +9,10 @@
 7è - siódmy
 8è - ósmy
 9è - dziewiąty
-àbac - liczydło | abakus
+àbac - liczydło, abakus
 abadessa - przeorysza
 abandó - porzucenie
-abandonar - porzucać | opuszczać
+abandonar - porzucać, opuszczać
 abat - opat
 abdicació - abdykacja
 abdomen - brzuch
@@ -20,12 +20,12 @@ abdominal - brzuszny
 abecedari - alfabet
 Abel - Abel
 abella - pszczoła
-abeurar - poić (zwierzęta) | moczyć | zamaczać | namaczać | podlewać
+abeurar - poić (zwierzęta), moczyć, zamaczać, namaczać, podlewać
 abisme - otchłań
-abolició - abolicja | zniesienie
-abominable - odrażający | wstrętny
+abolició - abolicja, zniesienie
+abominable - odrażający, wstrętny
 abr. - kwiecień
-abreviació - skrót | skrócenie
+abreviació - skrót, skrócenie
 abreviatura - skrót
 abric - płaszcz
 abril - kwiecień
@@ -37,14 +37,14 @@ absorbir - absorbować
 absorció - absorpcja
 abstracció - abstrakcja
 abstracte - abstrakcyjny
-absurd - absurdalny | absurd
+absurd - absurdalny, absurd
 acadèmia - akademia
 acadèmic - akademicki
 accadi - akadyjski
 acceleració - przyspieszenie
-accelerar - przyspieszać | przyśpieszać
+accelerar - przyspieszać, przyśpieszać
 accent - akcent
-acceptable - do przyjęcia | zadowalający
+acceptable - do przyjęcia, zadowalający
 acceptació - akceptacja
 acceptar - akceptować
 accessibilitat - dostępność
@@ -52,23 +52,23 @@ accidental - przypadkowy
 accidentalment - przypadkowo
 acció - akcja
 acer - stal
-àcid - kwas | kwaśny
+àcid - kwas, kwaśny
 acidesa - kwasowość
 acolorir - kolorować
 acord - zgoda
 acordió - akordeon
-acrònim - skrótowiec | akronim
+acrònim - skrótowiec, akronim
 actini - aktyn
 actiu - aktywny
 activació - aktywacja
-activar - aktywować | aktywizować | uaktywnić
+activar - aktywować, aktywizować, uaktywnić
 activitat - aktywność
 actor - aktor
 actriu - aktorka
 actualment - obecnie
 acusar - oskarżać
 acústic - akustyczny
-acústica - akustyka | acústic
+acústica - akustyka, acústic
 adaptació - adaptacja
 addicció - nałóg
 addicional - dodatkowy
@@ -78,14 +78,14 @@ adjectiu - przymiotnik
 administració - administracja
 admirable - godny podziwu
 adob - nawóz
-adoberia - garbarnia | garbarstwo
+adoberia - garbarnia, garbarstwo
 adopció - adopcja
 adoptar - adoptować
-adoptiu - adoptowany | przybrany | adoptujący
+adoptiu - adoptowany, przybrany, adoptujący
 adoració - adoracja
 adreça - adres
 Adrià - Adrian
-Adriana - Adriana | Adrianna
+Adriana - Adriana, Adrianna
 adverbi - przysłówek
 adverbial - przysłówkowy
 advocat - prawnik
@@ -95,10 +95,10 @@ afalagar - schlebiać
 Afganistan - Afganistan
 afirmar - potwierdzać
 aforisme - aforyzm
-afortunat - szczęśliwy | mający szczęście
+afortunat - szczęśliwy, mający szczęście
 Àfrica - Afryka
-afront - afront | zniewaga | obraz
-afrontar - znieważać | obrażać
+afront - afront, zniewaga, obraz
+afrontar - znieważać, obrażać
 ag. - sierpień
 agència - agencja
 agorafòbia - agorafobia
@@ -118,13 +118,13 @@ aire - powietrze
 aixecar-se - podnosić się
 aixeta - kran
 ajuda - pomoc
-ajudar - pomóc | pomagać
-ajuntament - rada miejska | ratusz
+ajudar - pomóc, pomagać
+ajuntament - rada miejska, ratusz
 al - a + el
 alabastre - alabaster
 Alacant - Alicante
-a la quinta forca - na drugim końcu świata | gdzie diabeł mówi dobranoc
-a la vegada - w tym samym czasie | naraz | jednocześnie
+a la quinta forca - na drugim końcu świata, gdzie diabeł mówi dobranoc
+a la vegada - w tym samym czasie, naraz, jednocześnie
 albanès - albański
 Albània - Albania
 albercoc - morela
@@ -132,14 +132,14 @@ albergínia - bakłażan
 alcalde - burmistrz
 alcassaba - kasba
 alció - zimorodek
-alcohòlic - alkoholik | alkoholowy
+alcohòlic - alkoholik, alkoholowy
 alcoholisme - alkoholizm
 Alcorà - Koran
 alè - oddech
 aleatori - przypadkowy
 Alemània - Niemcy
-alemany - niemiecki | Niemiec
-alemanya - alemany | Niemka
+alemany - niemiecki, Niemiec
+alemanya - alemany, Niemka
 Alemanya - Niemcy
 alenar - oddychać
 aleta - płetwa
@@ -148,7 +148,7 @@ alfabet - alfabet
 àlgebra - algebra
 Algèria - Algieria
 algo - coś
-alguerès - mieszkaniec Alghero | dialekt języka katalońskiego używany w Alghero
+alguerès - mieszkaniec Alghero, dialekt języka katalońskiego używany w Alghero
 Alícia - Alicja
 all - czosnek
 al·legoria - alegoria
@@ -156,21 +156,21 @@ al·lèrgia - alergia
 al·lèrgic - alergiczny
 al·ligàtor - aligator
 al·literació - aliteracja
-al·lusió - wzmianka | aluzja
+al·lusió - wzmianka, aluzja
 almanac - almanach
 almanjanec - trebusz
 almenys - przynajmniej
 alquímia - alchemia
-alquimista - alchemik | alchemiczka
-alt - wysoki | górny
+alquimista - alchemik, alchemiczka
+alt - wysoki, górny
 altar - ołtarz
 alternatiu - alternatywny
 altímetre - wysokościomierz
-altrament - inaczej | w przeciwnym razie
+altrament - inaczej, w przeciwnym razie
 altruisme - altruizm
 alumini - glin
-alumna - uczennica | studentka
-alumne - uczeń | student
+alumna - uczennica, studentka
+alumne - uczeń, student
 amanida - sałatka
 Amazones - Amazonka
 amb - z
@@ -189,7 +189,7 @@ ametlla - midgał
 àmfora - amfora
 amhàric - amharski
 amic - przyjaciel
-amiloïdosi - amyloidoza | skrobiawica | betafibryloza
+amiloïdosi - amyloidoza, skrobiawica, betafibryloza
 aminoàcid - aminokwas
 amistat - przyjaźń
 amistós - przyjazny
@@ -222,12 +222,12 @@ anglès - angielski
 Angola - Angola
 ànima - dusza
 animació - animacja
-animal - zwierzęcy | zwierzę
-aniversari - rocznica | urodziny
+animal - zwierzęcy, zwierzę
+aniversari - rocznica, urodziny
 ànode - anoda
 anònim - anonimowy
 anormal - nienormalny
-anormalitat - anormalność | nienormalność
+anormalitat - anormalność, nienormalność
 ansietat - niepokój
 ansiós - niespokojny
 Antàrtida - Antarktyda
@@ -240,9 +240,9 @@ antimoni - antymon
 Antoni - Antoni
 antropòleg - antropolog
 antropologia - antropologia
-anunci - ogłoszenie | reklama
+anunci - ogłoszenie, reklama
 any - rok
-anyal - coroczny | doroczny
+anyal - coroczny, doroczny
 aorta - aorta
 apàtic - apatyczny
 apatxe - Apacz
@@ -262,8 +262,8 @@ aqüeducte - akwedukt
 aquell - tamten
 aquest - ten
 aquí - tutaj
-ara - teraz | ołtarz
-àrab - Arab | arabski
+ara - teraz, ołtarz
+àrab - Arab, arabski
 Aràbia Saudita - Arabia Saudyjska
 aracnofòbia - arachnofobia
 aragonès - aragoński
@@ -284,7 +284,7 @@ argó - argon
 aristocràcia - arystokracja
 aristocràtic - arystokratyczny
 Aristòtil - Arystoteles
-arítmia - arytmia | zaburzenie rytmu
+arítmia - arytmia, zaburzenie rytmu
 arma de foc - broń palna
 armadillo - pancernik
 armar - zbroić
@@ -305,18 +305,18 @@ arracada - kolczyk
 arrendar - wynająć
 arrest - areszt
 arrestar - aresztować
-arribar - przybyć | zdarzyć się
+arribar - przybyć, zdarzyć się
 arriscar - ryzykować
 arrogància - arogancja
 arrogant - arogancki
 arròs - ryż
 arsènic - arsen
 artèria - arteria
-article - artykuł | publikacja | rodzajnik | paragraf
+article - artykuł, publikacja, rodzajnik, paragraf
 artificial - sztuczny
 artilleria - artyleria
 arxipèlag - archipelag
-ascetisme - ascetyzm | asceza
+ascetisme - ascetyzm, asceza
 ase - osioł
 asexualitat - aseksualność
 Àsia - Azja
@@ -348,18 +348,18 @@ atòmic - atomowy
 atrocitat - okrucieństwo
 atur - bezrobocie
 atxa - pochodnia
-atxem - apsik! | a psik!
-atxim - apsik! | a psik!
+atxem - apsik!, a psik!
+atxim - apsik!, a psik!
 au - ptak
 aura - aura
 aus - au
 Austràlia - Australia
-australià - australijski | Australijczyk
-australiana - australià | Australijka
+australià - australijski, Australijczyk
+australiana - australià, Australijka
 Àustria - Austria
 autobiografia - autobiografia
 autocràcia - autokracja
-automòbil - samochód | pojazd
+automòbil - samochód, pojazd
 autòpsia - autopsja
 autor - autor
 avall - w dół
@@ -371,28 +371,28 @@ avantpassat - przodek
 avar - skąpy
 avellana - orzech laskowy
 avena - owies
-aversió - awersja | niechęć
+aversió - awersja, niechęć
 avet - jodła
 avi - dziadek
 àvia - babcia
-aviat - wkrótce | wcześnie
+aviat - wkrótce, wcześnie
 avinguda - aleja
 avió - samolot
 avis - avi
-avís - powiadomienie | ostrzeżenie
+avís - powiadomienie, ostrzeżenie
 avortament - aborcja
-avui - dziś | dzisiaj
+avui - dziś, dzisiaj
 axil·la - pacha
 axioma - aksjomat
 Azerbaidjan - Azerbejdżan
-àzeri - azerski | azerbejdżański | język azerski (azerbejdżański) | Azer | Azerbejdżanin
+àzeri - azerski, azerbejdżański, język azerski (azerbejdżański), Azer, Azerbejdżanin
 bac - prom
 bacteri - bakteria
 bacteriologia - bakteriologia
 badallar - ziewać
 baf - para
 Bahames - Bahamy
-baix - niski | dolny | bas
+baix - niski, dolny, bas
 baixkir - baszkirski
 bala - pocisk
 Balança - Waga
@@ -409,7 +409,7 @@ Bangla Desh - Bangladesz
 banquer - bankier
 banyera - wanna
 baptisme - chrzest
-barat - tani | tanio
+barat - tani, tanio
 barba - broda
 barbacoa - grill
 Barbados - Barbados
@@ -424,7 +424,7 @@ baronessa - baronowa
 barral - beczka
 barretina - rodzaj tradycyjnej katalońskiej czapki
 barri - dzielnica
-barroc - barok | barokowy
+barroc - barok, barokowy
 bàsquet - koszykówka
 basquetbol - koszykówka
 bastir - budować
@@ -443,7 +443,7 @@ beneficiós - korzystny
 beneir - błogosławić
 bengalí - bengalski
 Benín - Benin
-berenar - podwieczorek | śniadanie | jeść podwieczorek
+berenar - podwieczorek, śniadanie, jeść podwieczorek
 beril·li - beryl
 berkeli - berkel
 besar - całować
@@ -471,16 +471,16 @@ biòleg - biolog
 biologia - biologia
 biològic - biologiczny
 biosíntesi - biosynteza
-Birmània - Birma | Mjanma
+Birmània - Birma, Mjanma
 bisexualitat - biseksualizm
 bismut - bizmut
 blanc - biały
 blancor - biel
 blancúria - biel
 blanquinós - białawy
-blasfèmia - blasfemia | bluźnierstwo
+blasfèmia - blasfemia, bluźnierstwo
 blat - pszenica
-blau - kolor niebieski | siniak | niebieski
+blau - kolor niebieski, siniak, niebieski
 blauet - zimorodek
 blavenc - niebieskawy
 blavís - niebieskawy
@@ -491,12 +491,12 @@ boca - usta
 bohri - bohr
 boira - mgła
 Bolívia - Boliwia
-bomba - bomba | pompa
+bomba - bomba, pompa
 bomber - strażak
 bona nit - dobranoc
 bon dia - dzień dobry
 bonesa - dobroć
-bonic - ładny | miły
+bonic - ładny, miły
 Bon Nadal - Wesołych Świąt (Bożego Narodzenia)
 bor - bor
 bord - bękart
@@ -514,17 +514,17 @@ bou - wół
 braç - ramię
 Brasil - Brazylia
 brau - byk
-breu - krótki | zwięzły
+breu - krótki, zwięzły
 breument - zwięźle
 brillar - błyszczeć
 britànic - brytyjski
 brom - brom
 brotar - kiełkować
 brou - rosół
-bruixa - wiedźma | czarownica
+bruixa - wiedźma, czarownica
 Brunei - Brunei
 Brussel·les - Bruksela
-brut - głupi | brudny | surowy (niewykończony)
+brut - głupi, brudny, surowy (niewykończony)
 bruxisme - bruksizm
 budisme - buddyzm
 bufanda - szalik
@@ -536,14 +536,14 @@ bulímia - bulimia
 Buriàtia - Buriacja
 Burundi - Burundi
 buscar - szukać
-butxaca - kieszeń | portmonetka
+butxaca - kieszeń, portmonetka
 ca - pies
 cabestrell - temblak
 cacau - kakao
 cacauet - orzech ziemny
 cacera - polowanie
 cada - każdy
-cadàver - zwłoki | trup
+cadàver - zwłoki, trup
 cadenat - kłódka
 cadernera - szczygieł
 cadira - krzesło
@@ -553,21 +553,21 @@ Cafarnaüm - Kafarnaum
 cafè - kawa
 cafeïna - kofeina
 caiac - kajak
-caixa - pudełko | skrzynka | obudowa | trumna
+caixa - pudełko, skrzynka, obudowa, trumna
 caixa negra - czarna skrzynka
-cala - zatoczka | mała zatoka
+cala - zatoczka, mała zatoka
 calamar - kalmar
 calb - łysy
 calçat - but
 calci - wapń
-calcular - obliczać | kalkulować | liczyć
+calcular - obliczać, kalkulować, liczyć
 calendari - kalendarz
 càlid - ciepły
 calidoscopi - kalejdoskop
 californi - kaliforn
 cal·ligrafia - kaligrafia
 calm - spokojny
-calúmnia - oszczerstwo | kalumnia
+calúmnia - oszczerstwo, kalumnia
 calze - kielich
 cama - noga
 camaleó - kameleon
@@ -580,10 +580,10 @@ camisa - koszula
 campanya - kampania
 camp de batalla - pole bitwy
 Canadà - Kanada
-canari - kanarek | Kanaryjczyk | kanaryjski
+canari - kanarek, Kanaryjczyk, kanaryjski
 càncer - rak
 Càncer - Rak
-cançó - pieśń | piosenka
+cançó - pieśń, piosenka
 canell - nadgarstek
 cangur - kangur
 canícula - kanikuła
@@ -591,10 +591,10 @@ canonització - kanonizacja
 cantar - śpiewać
 cantata - kantata
 canya de sucre - trzcina cukrowa
-canyella - cynamon | część goleni
+canyella - cynamon, część goleni
 caos - chaos
 caòtic - chaotyczny
-cap - głowa | talent | łeb | szef | dyrektor | naczelnik | czubek | koniec | końcówka | wcale | zero | do | w kierunku
+cap - głowa, talent, łeb, szef, dyrektor, naczelnik, czubek, koniec, końcówka, wcale, zero, do, w kierunku
 capaç - zdolny
 cap de setmana - weekend
 capibara - kapibara
@@ -602,8 +602,8 @@ capità - kapitan
 capitalisme - kapitalizm
 Capricorn - Koziorożec
 Cap Verd - Republika Zielonego Przylądka
-caqui - persymona | kaki
-car - drogi | kosztowny | kochany | drogo | kosztownie | serdecznie
+caqui - persymona, kaki
+car - drogi, kosztowny, kochany, drogo, kosztownie, serdecznie
 carabassa - dynia
 característic - charakterystyczny
 caracteritzar - charakteryzować
@@ -620,10 +620,10 @@ caricatura - karykatura
 carn - mięso
 carnatge - rzeź
 carnaval - karnawał
-carnisser - rzeźnik | mięsożerny
+carnisser - rzeźnik, mięsożerny
 carnisseria - sklep mięsny
 carota - marchew
-carpeta - folder | katalog
+carpeta - folder, katalog
 carrer - ulica
 carretera - droga
 carro - wóz
@@ -631,7 +631,7 @@ carruatge - kareta (pojazd)
 carter - listonosz
 cartílag - chrząstka
 carxofa - karczoch
-casa - dom | mieszkanie
+casa - dom, mieszkanie
 casada - zamężna
 casat - zamężny
 casolà - domowy
@@ -639,8 +639,8 @@ caspa - łupież
 castell - zamek
 castor - bóbr
 castrar - kastrować
-català - kataloński | kataloński (język) | Katalończyk
-catalana - Katalonka | català
+català - kataloński, kataloński (język), Katalończyk
+catalana - Katalonka, català
 catàleg - katalog
 Catalunya - Katalonia
 cataplexia - katapleksja
@@ -651,24 +651,24 @@ catifa - dywan
 càtode - katoda
 catòlic - katolicki
 catolicisme - katolicyzm
-catorze - czternaście (14) | czternastka
+catorze - czternaście (14), czternastka
 catorzè - czternasty
 causar - powodować
 cavall - koń
 cavalla - makrela
 cavaller - rycerz
-cavalleria - kawaleria | konnica
+cavalleria - kawaleria, konnica
 caviar - kawior
 ceba - cebula
 cec - ślepy
 cegament - ślepo
 ceguesa - ślepota
 cel - niebo
-celebració - celebracja | świętowanie
+celebració - celebracja, świętowanie
 cella - brew
 cèl·lula - komórka
 cementiri - cmentarz
-cent - sto | 100
+cent - sto, 100
 centaure - centaur
 centè - setny
 centèsim - setny
@@ -678,9 +678,9 @@ cèntric - centralny
 cep - pnącze
 cercar - szukać
 cercle - kółko
-ceri - cer | woskowany
+ceri - cer, woskowany
 cerimònia - ceremonia
-cert - prawdziwy | pewien
+cert - prawdziwy, pewien
 certament - na pewno
 certificat - certyfikat
 cervell - mózg
@@ -690,16 +690,16 @@ cesi - cez
 cicatriu - blizna
 ciclop - cyklop
 ciència - nauka
-científic - naukowy | eksperymentalny | naukowiec
+científic - naukowy, eksperymentalny, naukowiec
 cigar - cygaro
 cigarret - papieros
 cigarreta - papieros
 cigne - łabędź
 cigonya - łabędź
 cim - szczyt
-cinc - pięć (5) | piątka
+cinc - pięć (5), piątka
 cinema - kino
-cinquanta - pięćdziesiąt | 50
+cinquanta - pięćdziesiąt, 50
 cinquantè - pięćdziesiąty
 cinquè - piąty
 cinturó - pasek
@@ -714,7 +714,7 @@ citologia - cytologia
 ciutadella - cytadela
 ciutat - miasto
 civada - owies
-clar - jasny | bezsporny | oczywisty
+clar - jasny, bezsporny, oczywisty
 clarinet - klarnet
 clàssic - klasyczny
 classificació - klasyfikacja
@@ -749,10 +749,10 @@ color - kolor
 coltell - nóż
 columna - kolumna
 colze - łokieć
-combat - walka | bój
+combat - walka, bój
 comboi - konwój
 comèdia - komedia
-començament - początek | rozpoczęcie
+començament - początek, rozpoczęcie
 començar - rozpocząć
 comentari - komentarz
 comerç - handel
@@ -765,7 +765,7 @@ còmodament - wygodnie
 còmode - wygodny
 comparable - porównywalny
 comparar - porównać
-compartir - dzielić | współdzielić | dzielić się | podzielić się
+compartir - dzielić, współdzielić, dzielić się, podzielić się
 compassió - współczucie
 competir - rywalizować
 complet - kompletny
@@ -777,23 +777,23 @@ comtessa - hrabina
 comunament - powszechnie
 comunicació - komunikacja
 comunisme - komunizm
-comunitat - społeczność | wspólnota
+comunitat - społeczność, wspólnota
 còncau - wklęsły
 concavitat - wklęsłość
 concepte - koncepcja
 condició - warunek
 condó - prezerwatywa
 conduir - prowadzić
-coneixement - wiedza | znajomość
+coneixement - wiedza, znajomość
 conèixer - znać
 confiar - ufać
 confirmar - potwierdzać
 conflicte - konflikt
 conill - królik
-cònjuge - małżonek | małżonka
+cònjuge - małżonek, małżonka
 connotació - konotacja
 consciència - świadomość
-considerablement - znacząco | istotnie
+considerablement - znacząco, istotnie
 constel·lació - gwiazdozbiór
 constitució - konstytucja
 constitucional - konstytucyjny
@@ -820,7 +820,7 @@ cooperar - współpracować
 copagorja - sztylet
 copernici - kopernik
 còpia - kopia
-cor - serce | odwaga
+cor - serce, odwaga
 coratge - odwaga
 coratjós - odważny
 corb - wrona
@@ -831,37 +831,37 @@ Corea del Sud - Korea Południowa
 coronació - koronacja
 coronar - koronować
 correctament - poprawnie
-correcte - poprawny | prawidłowy
+correcte - poprawny, prawidłowy
 corregir - poprawiać
-correspondència - korespondencja | połączenie
+correspondència - korespondencja, połączenie
 correu - poczta
 corrosió - korozja
-cortès - grzeczny | serdeczny | miły
-cortina - zasłona | firana
+cortès - grzeczny, serdeczny, miły
+cortina - zasłona, firana
 cos - ciało
 cosí - kuzyn
 cosina - kuzynka
 cosir - szyć
 còsmic - kosmiczny
 cost - koszt
-costa - wybrzeże | zbocze | stok
+costa - wybrzeże, zbocze, stok
 costaner - przybrzeżny
 Costa Rica - Kostaryka
 cotó - bawełna
 cotxe - samochód
-coure - miedź | gotować
+coure - miedź, gotować
 cova - jaskinia
 cranc - krab
 crani - czaszka
-creació - kreacja | tworzenie
+creació - kreacja, tworzenie
 creatinina - kreatynina
 creativitat - kreatywność
 creditor - wierzyciel
-creença - wiara | wierzenie
+creença - wiara, wierzenie
 creïble - wiarygodny
 creïlla - ziemniak
 crepuscle - zmierzch
-creure - wierzyć | uważać | sądzić
+creure - wierzyć, uważać, sądzić
 criatura - stworzenie
 criptó - krypton
 crisi - kryzys
@@ -883,22 +883,22 @@ cruel - okrutny
 cruelment - okrutnie
 crueltat - okrucieństwo
 crusant - rogalik
-cub - sześcian | kostka
+cub - sześcian, kostka
 Cuba - Kuba
 cubisme - kubizm
 cuc - robak
 cuc de seda - jedwabnik
 cuc de terra - dżdżownica
 cucut - kukułka
-cuina - kuchnia | gotowanie
+cuina - kuchnia, gotowanie
 cuinar - gotować
 cuiner - kucharz
 cuir - skóra
 cullera - łyżka
 cultura - kultura
-cunyada - szwagierka | bratowa
+cunyada - szwagierka, bratowa
 cunyat - szwagier
-curar - leczyć | kurować
+curar - leczyć, kurować
 cúrcuma - kurkuma
 curi - kiur
 curt - krótki
@@ -924,13 +924,13 @@ declinació - deklinacja
 dèdal - labirynt
 deessa - bogini
 defecació - defekacja
-defecte - defekt | wada
+defecte - defekt, wada
 defensar - bronić
 deficiència - niedobór
 dèficit - deficyt
 definició - definicja
-definir - definiować | określać
-deixar - zostawiać | opuszczać | porzucać | pozostawiać | wyjeżdżać | pozwalać | umożliwiać
+definir - definiować, określać
+deixar - zostawiać, opuszczać, porzucać, pozostawiać, wyjeżdżać, pozwalać, umożliwiać
 delicat - delikatny
 demà - jutro
 democràcia - demokracja
@@ -939,7 +939,7 @@ demografia - demografia
 densitat - gęstość
 dent - ząb
 dentifrici - pasta do zębów
-dependent - ekspedient | zależny | podległy
+dependent - ekspedient, zależny, podległy
 deport - sport
 dermatologia - dermatologia
 des. - grudzień
@@ -949,16 +949,16 @@ desaparèixer - zniknąć
 descloure - otwierać
 descobriment - odkrycie
 descontent - nieszczęśliwy
-descortès - niegrzeczny | niemiły
+descortès - niegrzeczny, niemiły
 descripció - opis
 descriptiu - opisowy
 descriure - opisać
 des de - od
 desè - dziesiąty
 desembre - grudzień
-desenvolupar - rozwijać | rozbudowywać
+desenvolupar - rozwijać, rozbudowywać
 deshonest - nieuczciwy
-desídia - bezczynność | zaniedbanie | zwłoka
+desídia - bezczynność, zaniedbanie, zwłoka
 deslleial - nielojalny
 desobediència - nieposłuszeństwo
 desobedient - nieposłuszny
@@ -966,9 +966,9 @@ de sobte - nagle
 despatx - biuro
 destil·lació - destylacja
 destinatari - adresat
-destral - siekiera | topór
+destral - siekiera, topór
 destruir - zniszczyć
-deu - dziesięć (10) | dziesiątka | fontanna
+deu - dziesięć (10), dziesiątka, fontanna
 déu - bóg
 Déu - Bóg
 deute - dług
@@ -977,11 +977,11 @@ dg. - niedziela
 dia - dzień
 diabetis - cukrzyca
 diable - diabeł
-diabòlic - diabelski | diaboliczny
+diabòlic - diabelski, diaboliczny
 diaca - diakon
 dialecte - dialekt
 diàmetre - średnica
-diari - dzienny | dziennik
+diari - dzienny, dziennik
 diatomea - okrzemka
 diatriba - diatryba
 dibuix - rysunek
@@ -989,9 +989,9 @@ dibuixar - rysować
 diccionari - słownik
 dièresi - diereza
 dies - dia
-dieta - dieta | sposób odżywiania się
-diferència - różnica | spór
-diferent - inny | różny
+dieta - dieta, sposób odżywiania się
+diferència - różnica, spór
+diferent - inny, różny
 diferentment - inaczej
 difícil - trudny
 dificultat - trudność
@@ -1008,24 +1008,24 @@ dimorfisme - dymorfizm
 Dinamarca - Dania
 dinàmic - dynamiczny
 dinàmica - dynamika
-dinar - jeść obiad | obiad | dinar
+dinar - jeść obiad, obiad, dinar
 diners - pieniądze
 dinosaure - dinozaur
-dinou - dziewiętnaście (19) | dziewiętnastka
+dinou - dziewiętnaście (19), dziewiętnastka
 dinovè - dziewiętnasty
 dir - powiedzieć
 directament - bezpośrednio
 directe - bezpośredni
 discrepància - rozbieżność
 discussió - dyskusja
-disenteria - dyzenteria | czerwonka
+disenteria - dyzenteria, czerwonka
 disparar - strzelać
 disponible - dostępny
 disprosi - dysproz
 dissabte - sobota
-disseny - projekt | szkic
+disseny - projekt, szkic
 dissenyador - projektant
-disset - siedemnaście (17) | siedemnastka
+disset - siedemnaście (17), siedemnastka
 dissetè - siedemnasty
 dissonància - dysonans
 distància - dystans
@@ -1037,37 +1037,37 @@ Divendres Sant - Wielki Piątek
 diví - boski
 divinitat - boskość
 divorci - rozwód
-divorciada - rozwódka | rozwiedziona | divorciat
+divorciada - rozwódka, rozwiedziona, divorciat
 divorciar - rozwodzić się
-divorciat - rozwodnik | rozwiedziony
-divuit - osiemnaście (18) | osiemnastka
+divorciat - rozwodnik, rozwiedziony
+divuit - osiemnaście (18), osiemnastka
 divuitè - osiemnasty
 dj. - czwartek
 Djibouti - Dżibuti
 dl. - poniedziałek
 doble - podwójny
-dòcil - uległy | posłuszny
+dòcil - uległy, posłuszny
 doctrina - doktryna
 documentació - dokumentacja
 dofí - delfin
 dogmatisme - dogmatyzm
 dòlar - dolar
 dolç - słodki
-dolent - zły | zły (1.1) człowiek
+dolent - zły, zły (1.1) człowiek
 dolorós - bolesny
 domèstic - domowy
 Dominica - Dominika
-dona - kobieta | żona
+dona - kobieta, żona
 donar - dać
 dormir - spać
-dos - 2 (dwa) | dwójka
+dos - 2 (dwa), dwójka
 dosi - dawka
-dotze - dwanaście (12) | dwunastka
+dotze - dwanaście (12), dwunastka
 dotzè - dwunasty
 drac - smok
 dragó - smok
 dramàtic - dramatyczny
-dret - prawo | prawa strona | prawy
+dret - prawo, prawa strona, prawy
 drets dels animals - prawa zwierząt
 dromedari - dromader
 ds. - sobota
@@ -1086,7 +1086,7 @@ ecòleg - ekolog
 ecologia - ekologia
 ecològic - ekologiczny
 ecosistema - ekosystem
-edat - wiek (liczba lat życia) | epoka | okres
+edat - wiek (liczba lat życia), epoka, okres
 edifici - budynek
 edredó - kołdra
 educar - edukować
@@ -1098,11 +1098,11 @@ eina - narzędzie
 einsteini - einstein
 Eivissa - Ibiza
 eixutesa - suchość
-eixutor - suchość | susza
+eixutor - suchość, susza
 elaborar - dopracowywać
-ela geminada - L·L | l·l
+ela geminada - L·L, l·l
 elecció - wybory
-electricista - elektryk | elektryczny
+electricista - elektryk, elektryczny
 electricitat - elektryczność
 electró - elektron
 electromagnètic - elektromagnetyczny
@@ -1111,7 +1111,7 @@ elefant - słoń
 elegant - elegancki
 elf - elf
 eliminació - eliminacja
-eliminar - eliminować | likwidować
+eliminar - eliminować, likwidować
 ell - on
 ella - ona
 elles - one
@@ -1149,14 +1149,14 @@ entrepà - kanapka
 enviar - wysyłać
 envoltar - otaczać
 enzim - enzym
-epíleg - epilog | zakończenie
+epíleg - epilog, zakończenie
 epitafi - epitafium
 època - epoka
 equador - równik
 Equador - Ekwador
 equilibri - równowaga
 equinocci - równonoc
-equip - zespół | drużyna
+equip - zespół, drużyna
 erbi - erb
 erecció - erekcja
 eremita - pustelnik
@@ -1177,8 +1177,8 @@ esclau - niewolnik
 esclavatge - niewolnictwo
 Escòcia - Szkocja
 escola - szkoła
-escolar - uczeń | uczennica | szkolny
-escollir - wybrać | wybierać
+escolar - uczeń, uczennica, szkolny
+escollir - wybrać, wybierać
 escoltar - słuchać
 escopir - pluć
 Escorpí - Skorpion
@@ -1194,7 +1194,7 @@ església - kościół
 Eslovàquia - Słowacja
 Eslovènia - Słowenia
 esmaragda - szmaragd
-esmorzar - śniadanie | jeść śniadanie
+esmorzar - śniadanie, jeść śniadanie
 esòfag - przełyk
 espaiós - przestrzenny
 Espanya - Hiszpania
@@ -1204,7 +1204,7 @@ espècie - przyprawa
 específicament - szczególnie
 espelma - świeca
 esperanto - esperanto
-esperar - czekać | mieć nadzieję
+esperar - czekać, mieć nadzieję
 esperar-se - spodziewać się
 espiar - szpiegować
 espill - lustro
@@ -1219,17 +1219,17 @@ esquena - plecy
 esquirol - wiewiórka
 esquizofrènia - schizofrenia
 ésser humà - człowiek
-est - wschód | wschodni
-estable - stabilny | stajnia
-estació - stacja | sezon
+est - wschód, wschodni
+estable - stabilny, stajnia
+estació - stacja, sezon
 estadant - najemca
 estany - cyna
-estar - być | znajdować się
+estar - być, znajdować się
 estat - państwo
 estatal - państwowy
 Estats Units - Stany Zjednoczone
 Estats Units d'Amèrica - Stany Zjednoczone Ameryki
-estàtua - posąg | statua
+estàtua - posąg, statua
 estatus - status
 estel - gwiazda
 esternudar - kichnąć
@@ -1243,16 +1243,16 @@ Estònia - Estonia
 estratègia - strategia
 estratègic - strategiczny
 estrella - gwiazda
-estret - wąski | ciasny
+estret - wąski, ciasny
 estronci - stront
 estruç - struś
 estudiant - student
 estudianta - studentka
-estudiar - studiować | uczyć się
+estudiar - studiować, uczyć się
 estúpid - głupi
 estupidesa - głupota
 estúrnid - szpak
-et - tobie | ci | tobą | się
+et - tobie, ci, tobą, się
 etcètera - i tak dalej
 ètic - etyczny
 etimologia - etymologia
@@ -1285,8 +1285,8 @@ experimental - eksperymentalny
 explicació - wyjaśnienie
 explicar - wyjaśniać
 exploració - eksploracja
-explosió - wybuch | eksplozja
-explotació - eksploatacja | wykorzystywanie
+explosió - wybuch, eksplozja
+explotació - eksploatacja, wykorzystywanie
 expressiu - ekspresyjny
 extint - wymarły
 extraordinari - nadzwyczajny
@@ -1318,15 +1318,15 @@ feliç - szczęśliwy
 felicitar - gratulować
 felicitat - radość
 fenilalanina - fenyloalanina
-fenilcetonúria - fenyloketonuria | oligofrenia fenylopirogronowa
+fenilcetonúria - fenyloketonuria, oligofrenia fenylopirogronowa
 fenomen - zjawisko
-fer - robić | tworzyć
+fer - robić, tworzyć
 fèretre - trumna
 fermi - ferm
 ferradura - podkowa
 ferro - żelazo
 ferrocarril - kolej
-ferroviari - kolejarz | kolejowy
+ferroviari - kolejarz, kolejowy
 fetge - wątroba
 fidelitat - wierność
 filferro - drut
@@ -1343,14 +1343,14 @@ filosòfic - filozoficzny
 finançar - finansować
 financer - finansowy
 finestra - okno
-finlandès - fiński | finlandzki
+finlandès - fiński, finlandzki
 Finlàndia - Finlandia
 firmar - podpisać
-física - físic | fizyka
+física - físic, fizyka
 físicament - fizycznie
 fisiologia - fizjologia
 fitxer - plik
-flamenc - flaming | flamenco | Flamand | flamandzki
+flamenc - flaming, flamenco, Flamand, flamandzki
 flauta - flet
 fleca - piekarnia
 flerovi - flerow
@@ -1361,26 +1361,26 @@ flor - kwiat
 fluor - fluor
 foc - ogień
 folklore - folklor
-fonamental - podstawowy | zasadniczy
+fonamental - podstawowy, zasadniczy
 fonètic - fonetyczny
 fonètica - fonetyka
 fonologia - fonologia
 fora - na zewnątrz
 forat - dziura
 forat negre - czarna dziura
-força - siła | moc
+força - siła, moc
 forçar - zmusić
 formalment - formalnie
 formatge - ser
 formiga - mrówka
 formós - piękny
 fórmula - formuła
-forn - piec | piekarnik
+forn - piec, piekarnik
 forn de pa - piekarnia
 fornejar - piec
 forner - piekarz
 forquilla - widelec
-fortament - mocno | silnie
+fortament - mocno, silnie
 fosc - ciemny
 fosca - ciemność
 foscor - ciemność
@@ -1395,17 +1395,17 @@ Francesc - Franciszek
 franci - frans
 franctirador - snajper
 fre - hamulec
-fred - zimny | zimno
+fred - zimny, zimno
 freqüència - częstotliwość
 fricció - tarcie
-frontal - przedni | kość czołowa
+frontal - przedni, kość czołowa
 fructosa - fruktoza
 frugivorisme - frutarianizm
 fruit - owoc
-fuet - bicz | bat | rodzaj tradycyjnej katalońskiej kiełbasy
+fuet - bicz, bat, rodzaj tradycyjnej katalońskiej kiełbasy
 fuita - ucieczka
 full - kartka papieru
-fulla - liść | ostrze
+fulla - liść, ostrze
 fum - dym
 fumar - palić
 funció - funkcja
@@ -1413,15 +1413,15 @@ fundador - założyciel
 furiós - wściekły
 furóncol - czyrak
 fusell - karabin
-fusta - drewno | fusta | galera
-fuster - stolarz | drewniany
-futbol - futbol | piłka nożna
-futur - przyszły | przyszłość | czas przyszły
+fusta - drewno, fusta, galera
+fuster - stolarz, drewniany
+futbol - futbol, piłka nożna
+futur - przyszły, przyszłość, czas przyszły
 gadolini - gadolin
 gairebé - prawie
 galàctic - galaktyczny
 galàxia - galaktyka
-Galilea - Galilea (kraina) | Galilea (miasto w Hiszpanii)
+Galilea - Galilea (kraina), Galilea (miasto w Hiszpanii)
 gall - kogut
 galleda - wiadro
 gal·li - gal
@@ -1443,12 +1443,12 @@ genealogia - genealogia
 genealogista - genealog
 gener - styczeń
 generació - generacja
-generalment - generalnie | ogólnie
+generalment - generalnie, ogólnie
 gènere - rodzaj
 genètic - genetyczny
 genocidi - ludobójstwo
 genoll - kolano
-gens - trochę | wcale | ani trochę
+gens - trochę, wcale, ani trochę
 gent - ludzie
 gentilici - termin określający miejsce pochodzenia osoby (miejscowość, region, kraj)
 geògraf - geograf
@@ -1457,15 +1457,15 @@ geogràfic - geograficzny
 geòleg - geolog
 geologia - geologia
 geomètric - geometryczny
-Geòrgia - Gruzja | Georgia
+Geòrgia - Gruzja, Georgia
 germà - brat
 germana - siostra
 germanastra - siostra przyrodnia
 germanastre - brat przyrodni
 germani - german
-gerundi - gerundium | rzeczownik odczasownikowy
+gerundi - gerundium, rzeczownik odczasownikowy
 gessamí - jaśmin
-ginebra - gin | dżin
+ginebra - gin, dżin
 gingebre - imbir
 girafa - żyrafa
 gira-sol - słonecznik
@@ -1475,11 +1475,11 @@ glacera - lodowiec
 glaciologia - glacjologia
 gnom - gnom
 Godzilla - Godzilla
-golf - zatoka | golf
-golfista - golfista | golfistka
+golf - zatoka, golf
+golfista - golfista, golfistka
 goril·la - goryl
 gos - pies
-gràcies - dziękuję | gràcia
+gràcies - dziękuję, gràcia
 gradual - stopniowy
 gradualment - stopniowo
 gramàtica - gramatyka
@@ -1487,22 +1487,22 @@ gran - duży
 granja - farma
 granota - żaba
 gras - gruby
-gratacel - drapacz chmur | wieżowiec
+gratacel - drapacz chmur, wieżowiec
 gratar - drapać
 gratitud - wdzięczność
 gratular - gratulować
-gravetat - grawitacja | siła ciążenia
+gravetat - grawitacja, siła ciążenia
 Grècia - Grecja
 Grenlàndia - Grenlandia
 gripau - ropucha
-griu - gryf | gryfon
+griu - gryf, gryfon
 groc - żółty
 grogós - żółtawy
 groguenc - żółtawy
 gronxador - huśtawka
 grup - grupa
 Guadalupe - Gwadelupa
-guant - rękawica | rękawiczka
+guant - rękawica, rękawiczka
 guanyador - zwycięzca
 guanyar - wygrywać
 guardiola - skarbonka
@@ -1525,13 +1525,13 @@ handbol - piłka ręczna
 harmonia - harmonia
 harmoniós - harmonijny
 hassi - has
-haver - być | nie ma | musieć
+haver - być, nie ma, musieć
 hebreu - hebrajski
 hectàrea - hektar
 hedonisme - hedonizm
 heli - hel
-helicòpter - helikopter | śmigłowiec
-hematúria - hematuria | krwiomocz
+helicòpter - helikopter, śmigłowiec
+hematúria - hematuria, krwiomocz
 hemisferi - półkula
 hereditari - dziedziczny
 heretar - dziedziczyć
@@ -1552,7 +1552,7 @@ hexagonal - sześciokątny
 hi - tu
 hidràulic - hydrauliczny
 hidrogen - wodór
-hidrogenació - uwodornianie | uwodornienie | hydrogenizacja
+hidrogenació - uwodornianie, uwodornienie, hydrogenizacja
 hiena - hiena
 himne - hymn
 hiperlipèmia - hiperlipidemia
@@ -1562,22 +1562,22 @@ hipòfisi - przysadka mózgowa
 hipopòtam - hipopotam
 hipoteca - hipoteka
 hipòtesi - hipoteza
-histerectomia - usunięcie macicy | histerektomia
-història - historia | opowieść
+histerectomia - usunięcie macicy, histerektomia
+història - historia, opowieść
 històricament - historycznie
 hivern - zima
 ho - to
-hola - cześć | dzień dobry
+hola - cześć, dzień dobry
 holandès - holenderski
 holmi - holm
-home - mężczyzna | mąż
+home - mężczyzna, mąż
 home llop - wilkołak
 homosexualitat - homoseksualizm
 Hondures - Honduras
 hongarès - Węgier
 Hongria - Węgry
 hoquei - hokej
-hora - godzina | pora
+hora - godzina, pora
 horitzó - horyzont
 horitzontal - poziomy
 hormona - hormon
@@ -1595,7 +1595,7 @@ iac - jak
 iaia - babcia
 iaio - dziadek
 ictiòleg - ichtiolog
-ideal - idealny | ideał
+ideal - idealny, ideał
 idèntic - identyczny
 ideologia - ideologia
 idioma - język
@@ -1605,22 +1605,22 @@ igualtat - równość
 illa - wyspa
 il·legal - nielegalny
 illes Fèroe - Wyspy Owcze
-il·lusió - iluzja | nadzieja | szczęście
+il·lusió - iluzja, nadzieja, szczęście
 imaginació - wyobraźnia
 imaginari - urojony
 imam - imam
-imatge - obraz | podobizna | wizerunek
+imatge - obraz, podobizna, wizerunek
 imitació - imitacja
-imitar - imitować | naśladować
+imitar - imitować, naśladować
 immoral - niemoralny
 immortal - nieśmiertelny
 immortalitat - nieśmiertelność
 immunitat - odporność
 immunosupressió - immunosupresja
-imperatiu - tryb rozkazujący | rozkazujący
+imperatiu - tryb rozkazujący, rozkazujący
 imperfecció - niedoskonałość
 imperi - imperium
-importància - istotność | ważność
+importància - istotność, ważność
 important - ważny
 impossible - niemożliwy
 imprescindible - nieodzowny
@@ -1630,7 +1630,7 @@ impuls - impuls
 impulsivitat - impulsywność
 inacceptable - nieakceptowalny
 inadequat - nieadekwatny
-inaugurar - inaugurować | rozpoczynać
+inaugurar - inaugurować, rozpoczynać
 incentiu - zachęta
 incert - niepewny
 incòmode - niewygodny
@@ -1638,11 +1638,11 @@ incomplet - niekompletny
 incomprensible - niezrozumiały
 inconsistent - niespójny
 independència - niepodległość
-independent - niezależny | niepodległy | suwerenny
-independentisme - separatyzm | dążenie do niepodległości
+independent - niezależny, niepodległy, suwerenny
+independentisme - separatyzm, dążenie do niepodległości
 indi - ind
 Índia - Indie
-indicatiu - tryb oznajmujący | tryb orzekający | wskazujący
+indicatiu - tryb oznajmujący, tryb orzekający, wskazujący
 indiferència - obojętność
 indirectament - pośrednio
 indirecte - pośredni
@@ -1657,17 +1657,17 @@ inexplicable - niewytłumaczalny
 infame - niesławny
 infecció - infekcja
 infeccionar - zarazić
-infectar - zakażać | zarażać
+infectar - zakażać, zarażać
 infeliç - nieszczęśliwy
 infern - piekło
 infinitiu - bezokolicznik
 inflació - inflacja
 inflexible - sztywny
 influència - wpływ
-influir - wpływać | mieć wpływ
+influir - wpływać, mieć wpływ
 informació - informacja
 infraestructura - infrastruktura
-infraroig - podczerwony | podczerwień
+infraroig - podczerwony, podczerwień
 injecció - zastrzyk
 injectar - wstrzyknąć
 injustícia - niesprawiedliwość
@@ -1711,7 +1711,7 @@ Iran - Iran
 Iraq - Irak
 iridi - iryd
 Irlanda - Irlandia
-irlandès - irlandzki | Irlandczyk
+irlandès - irlandzki, Irlandczyk
 ironia - ironia
 irracional - irracjonalny
 irregular - nieregularny
@@ -1721,7 +1721,7 @@ Isis - Izyda
 islandès - islandzki
 Islàndia - Islandia
 Isop - Ezop
-Israel - Izrael | Izrael (imię)
+Israel - Izrael, Izrael (imię)
 istme - przesmyk
 Itàlia - Włochy
 italià - włoski
@@ -1734,7 +1734,7 @@ japonès - japoński
 jaqueta - kurtka
 jardí - ogród
 javelina - oszczep
-jazz - jazz | dżez
+jazz - jazz, dżez
 jerarquia - hierarchia
 jersei - sweter
 Jesús - Jezus
@@ -1745,9 +1745,9 @@ joguina - zabawka
 jònic - joński
 jorn - dzień
 jou - jarzmo
-jove - młody | młodzieniec | synowa
+jove - młody, młodzieniec, synowa
 judaisme - judaizm
-judeoàrab - język judeo-arabski | język żydowsko-arabski
+judeoàrab - język judeo-arabski, język żydowsko-arabski
 jul. - lipiec
 Júlia - Julia
 juliol - lipiec
@@ -1760,10 +1760,10 @@ jutge - sędzia
 jutgessa - sędzia
 Kazakhstan - Kazachstan
 Kirguizistan - Kirgistan
-kuwaití - kuwejcki | Kuwejtczyk | Kuwejtka
-l' - el | la
+kuwaití - kuwejcki, Kuwejtczyk, Kuwejtka
+l' - el, la
 la - la
-laberint - labirynt | chaos | plątanina | błędnik
+laberint - labirynt, chaos, plątanina, błędnik
 laboratori - laboratorium
 l'Alguer - Alghero
 lantani - lantan
@@ -1789,12 +1789,12 @@ licopè - likopen
 limitació - ograniczenie
 lingüista - językoznawca
 lingüístic - lingwistyczny
-lingüística - językoznawstwo | lingwistyka | lingüístic
+lingüística - językoznawstwo, lingwistyka, lingüístic
 línia - linia
 linx - ryś
 liposoluble - rozpuszczalny w tłuszczu
 liposucció - liposukcja
-líquid - płynny | płyn
+líquid - płynny, płyn
 literalment - dosłownie
 literari - literacki
 literatura - literatura
@@ -1804,8 +1804,8 @@ litúrgia - liturgia
 litúrgic - liturgiczny
 livermori - liwermor
 llac - jezioro
-lladre - złodziej | złodziejka
-llagosta - szarańcza | homar
+lladre - złodziej, złodziejka
+llagosta - szarańcza, homar
 llàgrima - łza
 llamprea - minóg
 llana - wełna
@@ -1834,7 +1834,7 @@ llet - mleko
 lletgesa - brzydota
 lletjor - brzydota
 lletra - litera
-llevar-se - wstawać (z łóżka) | podnosić się
+llevar-se - wstawać (z łóżka), podnosić się
 llevataps - korkociąg
 llibertat - wolność
 llibre - książka
@@ -1850,7 +1850,7 @@ lloar - chwalić
 llop - wilk
 lloro - papuga
 llot - błoto
-lluir - popisywać się | przechwalać się | błyszczeć
+lluir - popisywać się, przechwalać się, błyszczeć
 lluita - walka
 lluitador - zapaśnik
 lluna - księżyc
@@ -1865,7 +1865,7 @@ luxúria - żądza
 mà - ręka
 Macedònia - Macedonia
 maco - ładny
-macromolècula - makromolekuła | makrocząsteczka
+macromolècula - makromolekuła, makrocząsteczka
 Madagascar - Madagaskar
 madrastra - macocha
 maduixa - truskawka
@@ -1899,7 +1899,7 @@ manganès - mangan
 màniga - rękaw
 manipulació - manipulacja
 mantega - masło
-manuscrit - rękopis | manuskrypt
+manuscrit - rękopis, manuskrypt
 maó - cegła
 màquina - maszyna
 màquina d'escriure - maszyna do pisania
@@ -1914,20 +1914,20 @@ marit - mąż
 Mar Mediterrània - Morze Śródziemne
 marró - brązowy
 Marroc - Maroko
-marroquí - marokański | Marokańczyk | Marokanka
+marroquí - marokański, Marokańczyk, Marokanka
 mart - kuna
-màrtir - męczennik | męczennica
+màrtir - męczennik, męczennica
 màscara - maska
 masculí - męski
 masmorra - loch
-massacrar - masakrować | robić rzeź | wyrzynać
+massacrar - masakrować, robić rzeź, wyrzynać
 mastegar - żuć
 masticar - żuć
 matalaf - materac
 matalàs - materac
 matar - zabić
-matemàtic - matematyczny | matematyk
-matemàtica - matematyka | matemàtic
+matemàtic - matematyczny, matematyk
+matemàtica - matematyka, matemàtic
 matinada - ranek
 matrimoni - małżeństwo
 Mauritània - Mauretania
@@ -1940,10 +1940,10 @@ melatonina - melatonina
 meló - melon
 menció - wzmianka
 mendelevi - mendelew
-menjar - jeść | jedzenie
-menstrual - miesiączkowy | menstruacyjny
+menjar - jeść, jedzenie
+menstrual - miesiączkowy, menstruacyjny
 mentida - kłamstwo
-mentir - kłamać | mówić nieprawdę
+mentir - kłamać, mówić nieprawdę
 menú - menu
 menys - mniej
 mercat - rynek
@@ -1961,7 +1961,7 @@ metafísic - metafizyczny
 metàfora - metafora
 metall - metal
 metàl·lic - metaliczny
-metamorfosi - metamorfoza | przeobrażenie
+metamorfosi - metamorfoza, przeobrażenie
 meteor - meteor
 meteorit - meteoryt
 meteorologia - meteorologia
@@ -1976,7 +1976,7 @@ meva - moja
 meves - moje
 Mèxic - Meksyk
 mico - małpa
-micologia - mikologia | mykologia
+micologia - mikologia, mykologia
 microbiologia - mikrobiologia
 micròfon - mikrofon
 micròmetre - mikrometr
@@ -1991,13 +1991,13 @@ milè - tysięczny
 milícia - żołnierz
 milió - milion
 mill - proso
-mil·lenni - tysiąclecie | millenium
+mil·lenni - tysiąclecie, millenium
 mil·lèsim - tysięczny
 mil·ligram - miligram
 mil·límetre - milimetr
 millorar - udoskonalić
 mineralogia - mineralogia
-mineralogista - mineralog | mineralog (kobieta)
+mineralogista - mineralog, mineralog (kobieta)
 mínim - minimum
 minut - minuta
 miopia - krótkowzroczność
@@ -2008,17 +2008,17 @@ missió - misja
 misteri - tajemnica
 misto - zapałka
 mitjanit - północ
-mitjó - skarpeta | skarpetka
+mitjó - skarpeta, skarpetka
 mòbil - telefon komórkowy
 Moçambic - Mozambik
 mòdem - modem
 modern - nowoczesny
 Moldàvia - Mołdawia
-molècula - cząsteczka | molekuła
+molècula - cząsteczka, molekuła
 molibdè - molibden
 molí de vent - wiatrak
 molsa - mech
-món - planeta | świat
+món - planeta, świat
 Mònaco - Monako
 monarquia - monarchia
 moneda - moneta
@@ -2054,13 +2054,13 @@ museu - muzeum
 músic - muzyk
 música - muzyka
 mutació - mutacja
-n - odchodzić | wychodzić | opuścić | iść | oddalić się
-nació - naród | nacja
+n - odchodzić, wychodzić, opuścić, iść, oddalić się
+nació - naród, nacja
 nacionalisme - nacjonalizm
-nacionalista - nacjonalistyczny | nacjonalista | nacjonalistka
+nacionalista - nacjonalistyczny, nacjonalista, nacjonalistka
 nacionalitat - narodowość
 Nadal - Boże Narodzenie
-naixement - narodziny | urodzenie
+naixement - narodziny, urodzenie
 Namíbia - Namibia
 Nàpols - Neapol
 narcolèpsia - narkolepsja
@@ -2075,12 +2075,12 @@ naturalesa - natura
 nau - statek
 nau espacial - statek kosmiczny
 naufragi - wrak
-neboda - siostrzenica | bratanica
-nebot - siostrzeniec | bratanek
+neboda - siostrzenica, bratanica
+nebot - siostrzeniec, bratanek
 necessitar - potrzebować
-necessitat - potrzeba | konieczność
+necessitat - potrzeba, konieczność
 nedar - pływać
-neerlandès - Holender | holenderski
+neerlandès - Holender, holenderski
 negociació - negocjacje
 negociar - negocjować
 negre - czarny
@@ -2101,7 +2101,7 @@ neurologia - neurologia
 neurotoxina - neurotoksyna
 neutralitat - neutralność
 neutre - neutralny
-nevar - padać | śnieżyć
+nevar - padać, śnieżyć
 nevera - lodówka
 nevós - śnieżny
 Nicaragua - Nikaragua
@@ -2116,21 +2116,21 @@ niu - gniazdo
 no - nie
 nobeli - nobel
 nocturn - nocny
-nodrir - karmić | odżywiać
+nodrir - karmić, odżywiać
 noi - chłopak
 noia - dziewczyna
-nom - imię | rzeczownik
+nom - imię, rzeczownik
 nombrós - liczny
-només - tylko | jedynie
+només - tylko, jedynie
 nom propi - nazwa własna
 nora - synowa
-noranta - dziewięćdziesiąt | 90
+noranta - dziewięćdziesiąt, 90
 norantè - dziewięćdziesiąty
 Norbert - Norbert
 nord - północ
 Nord-amèrica - Ameryka Północna
-nord-est - północny wschód | północno-wschodni
-nord-oest - północny zachód | północno-zachodni
+nord-est - północny wschód, północno-wschodni
+nord-oest - północny zachód, północno-zachodni
 normalment - zwykle
 Noruega - Norwegia
 nosaltres - my
@@ -2138,21 +2138,21 @@ nostàlgia - nostalgia
 nostàlgic - nostalgiczny
 nostra - nasza
 nostre - nasz
-nostres - nasi | nasze
-notable - znaczący | godny uwagi
-nou - dziewięć (9) | dziewiątka | orzech | nowy
+nostres - nasi, nasze
+notable - znaczący, godny uwagi
+nou - dziewięć (9), dziewiątka, orzech, nowy
 nov. - listopad
 Nova York - Nowy Jork
 Nova Zelanda - Nowa Zelandia
 novè - dziewiąty
-novel·lista - powieściopisarz | powieściopisarka
+novel·lista - powieściopisarz, powieściopisarka
 novembre - listopad
-nuclear - jądrowy | nuklearny
-nucli - jądro | rdzeń
+nuclear - jądrowy, nuklearny
+nucli - jądro, rdzeń
 nuesa - nagość
 nutrició - żywienie
 núvol - chmura
-o - lub | albo
+o - lub, albo
 o bé - lub
 obediència - posłuszeństwo
 obedient - posłuszny
@@ -2160,7 +2160,7 @@ obelisc - obelisk
 obert - otwarty
 obès - otyły
 obesitat - otyłość
-objectiu - obiekt | cel | obiektywny
+objectiu - obiekt, cel, obiektywny
 oblidar - zapomnieć
 oblong - podłużny
 obra - praca
@@ -2179,16 +2179,16 @@ oceà - ocean
 oceà Atlàntic - Ocean Atlantycki
 oceà Índic - Ocean Indyjski
 Oceania - Oceania
-oceà Pacífic - Ocean Spokojny | Pacyfik
+oceà Pacífic - Ocean Spokojny, Pacyfik
 ocell - ptak
 oct. - październik
 octubre - październik
 ocultisme - okultyzm
 odi - nienawiść
 odiar - nienawidzić
-oest - zachód | zachodni
+oest - zachód, zachodni
 oferir - proponować
-ofici - zawód | fach
+ofici - zawód, fach
 oficialment - oficjalnie
 oliva - oliwa
 oliver - drzewo oliwne
@@ -2198,12 +2198,12 @@ om - wiąz
 on - gdzie
 ona - fala
 onada - fala
-oncle - wuj | wujek
+oncle - wuj, wujek
 oncologia - onkologia
 onomatopeia - onomatopeja
-onze - 11 (jedenaście) | jedenastka
+onze - 11 (jedenaście), jedenastka
 onzè - jedenasty
-oologia - owologia | oologia
+oologia - owologia, oologia
 opac - nieprzezroczysty
 òpal - opal
 opció - opcja
@@ -2227,7 +2227,7 @@ orgull - duma
 orgullós - dumny
 orientació - orientacja
 orientació sexual - orientacja seksualna
-oriental - wschodni | orientalny
+oriental - wschodni, orientalny
 orinar - sikać
 ornitologia - ornitologia
 ornitorinc - dziobak
@@ -2244,15 +2244,15 @@ ostatge - zakładnik
 Òstia - Ostia
 ostra - ostryga
 ou - jajko
-oval - owalny | owal
+oval - owalny, owal
 ovella - owca
-ovulació - owulacja | jajeczkowanie
+ovulació - owulacja, jajeczkowanie
 òxid - tlenek
 oxigen - tlen
 pa - chleb
 paciència - cierpliwość
-pacient - cierpliwy | pacjent
-pacte - pakt | układ
+pacient - cierpliwy, pacjent
+pacte - pakt, układ
 padrastre - ojczym
 padrí - ojciec chrzestny
 padrina - matka chrzestna
@@ -2262,7 +2262,7 @@ país - kraj
 paisatge - krajobraz
 País Basc - Kraj Basków
 Països Baixos - Holandia
-Països Catalans - ziemie katalońskie | ogół terytorium zamieszkiwanego przez ludność posługującą się językiem katalońskim | kraje katalońskie
+Països Catalans - ziemie katalońskie, ogół terytorium zamieszkiwanego przez ludność posługującą się językiem katalońskim, kraje katalońskie
 Pakistan - Pakistan
 palau - pałac
 Palestina - Palestyna
@@ -2281,7 +2281,7 @@ pantaló - spodnie
 panteisme - panteizm
 panxa - brzuch
 paó - paw
-papa - tata | papież
+papa - tata, papież
 Papa - papież
 papada - podwójny podbródek
 papagai - papuga
@@ -2309,12 +2309,12 @@ parròquia - parafia
 participar - brać udział
 participi - imiesłów
 partícula - cząstka
-partit - partia | mecz | gra
+partit - partia, mecz, gra
 passaport - paszport
-passar - przechodzić | wchodzić | dziać się | studiować | analizować
+passar - przechodzić, wchodzić, dziać się, studiować, analizować
 passiu - bierny
 pastanaga - marchew
-pastís - ciasto | placek | anyżówka | pastis
+pastís - ciasto, placek, anyżówka, pastis
 pastisseria - cukiernia
 patata - ziemniak
 patiment - cierpienie
@@ -2325,7 +2325,7 @@ patriarca - patriarcha
 patriòtic - patriotyczny
 patriotisme - patriotyzm
 pau - pokój
-pauta - zasada | wytyczna
+pauta - zasada, wytyczna
 pebre - pieprz
 pecar - grzeszyć
 pedra - kamień
@@ -2347,7 +2347,7 @@ pensament - myśl
 pentàgon - pięciokąt
 penya-segat - klif
 pera - gruszka
-percebre - zauważać | dostrzegać
+percebre - zauważać, dostrzegać
 percepció - percepcja
 per cert - przy okazji
 perdiu - kuropatwa
@@ -2361,12 +2361,12 @@ periodisme - dziennikarstwo
 perir - ginąć
 perla - perła
 permissió - pozwolenie
-perpetu - wieczny | bezustanny
-perpetual - wieczny | bezustanny
-perquè - ponieważ | powód
+perpetu - wieczny, bezustanny
+perpetual - wieczny, bezustanny
+perquè - ponieważ, powód
 persiana - żaluzja
 persistència - wytrwałość
-persona - osoba | persona
+persona - osoba, persona
 personalitat - osobowość
 personalment - osobiście
 pescador - rybak
@@ -2387,9 +2387,9 @@ piromania - piromania
 Pisces - Ryby
 piscina - basen
 pisco - pisco
-pistola - pistolet (broń) | pistolet (narzędzie)
+pistola - pistolet (broń), pistolet (narzędzie)
 pit - pierś
-pitet - śliniak | śliniaczek
+pitet - śliniak, śliniaczek
 Pittsburgh - Pittsburgh (stolica Allegheny)
 pizza - pizza
 plaça - miejsce
@@ -2397,10 +2397,10 @@ plaer - przyjemność
 plantació - plantacja
 plantofa - kapeć
 planxa - żelazko
-plàstic - plastik | plastikowy
+plàstic - plastik, plastikowy
 plat - talerz
 plata - srebro
-plàtan - platan | banan
+plàtan - platan, banan
 platí - platyna
 platja - plaża
 plegar - skończyć pracę
@@ -2413,11 +2413,11 @@ pluja - deszcz
 pluja àcida - kwaśny deszcz
 plujós - deszczowy
 plutoni - pluton
-poblar - zasiedlać | zaludniać
-poblat - zamieszkały | zaludniony
-poble - ludzie | lud
-poc - mały | mało
-poderós - silny | mocny
+poblar - zasiedlać, zaludniać
+poblat - zamieszkały, zaludniony
+poble - ludzie, lud
+poc - mały, mało
+poderós - silny, mocny
 podologia - podologia
 poema - wiersz
 poesia - poezja
@@ -2429,12 +2429,12 @@ Polinèsia Francesa - Polinezja Francuska
 polisacàrid - polisacharyd
 politeisme - politeizm
 polític - polityczny
-política - polityka | polític
-poll - kurczak | wesz
+política - polityka, polític
+poll - kurczak, wesz
 pollastre - kurczak
 pol·len - pyłek kwiatowy
-polonès - polski | Polak
-polonesa - polonès | Polka
+polonès - polski, Polak
+polonesa - polonès, Polka
 poloni - polon
 Polònia - Polska
 polzada - cal
@@ -2444,7 +2444,7 @@ pomer - jabłoń
 pomera - jabłoń
 pont - most
 por - strach
-porc - świnia | wieprzowina
+porc - świnia, wieprzowina
 porcellana - porcelana
 porció - porcja
 porc senglar - dzik
@@ -2453,7 +2453,7 @@ pornogràfic - pornograficzny
 porta - drzwi
 portaavions - lotniskowiec
 Portugal - Portugalia
-portuguès - portugalski | Portugalczyk
+portuguès - portugalski, Portugalczyk
 possibilitat - możliwość
 possible - możliwy
 possiblement - prawdopodobnie
@@ -2475,7 +2475,7 @@ preparatiu - przygotowanie
 preposició - przyimek
 prepuci - napletek
 presentació - prezentacja
-presentar - prezentować | przedstawiać
+presentar - prezentować, przedstawiać
 preservatiu - prezerwatywa
 presó - więzienie
 presoner - więzień
@@ -2485,33 +2485,33 @@ préstec - pożyczka
 preu - cena
 prim - szczupły
 primavera - wiosna
-primer - pierwszy | pierwsze piętro
+primer - pierwszy, pierwsze piętro
 primer ministre - premier
 príncep - książę
 princesa - księżniczka
-principi - zasada | reguła
+principi - zasada, reguła
 prioritat - priorytet
 privilegi - przywilej
 probable - prawdopodobny
 probablement - prawdopodobnie
 profecia - przepowiednia
-professió - profesja | zawód
-professor - profesor | nauczyciel
+professió - profesja, zawód
+professor - profesor, nauczyciel
 profeta - prorok
 pròleg - prolog
 promès - narzeczony
-promesa - obietnica | narzeczona
+promesa - obietnica, narzeczona
 prometi - promet
 pronúncia - wymowa
 pronunciació - wymowa
-propi - własny | właściwy
+propi - własny, właściwy
 prosa - proza
 prostitució - prostytucja
 protactini - protaktyn
 protoactini - protaktyn
 prou - wystarczająco
 proverbi - przysłowie
-pròxim - bliski | następny
+pròxim - bliski, następny
 prudència - roztropność
 pruna - śliwka
 pseudociència - pseudonauka
@@ -2531,39 +2531,39 @@ purgatori - czyściec
 qualitat - jakość
 quan - kiedy
 quantitat - ilość
-quaranta - 40 | czterdzieści
+quaranta - 40, czterdzieści
 quarantè - czterdziesty
-quart - czwarty | kwarta | kwadrans
+quart - czwarty, kwarta, kwadrans
 quasi - prawie
-quatre - 4 (cztery) | czwórka
-què - co | który | rzecz
+quatre - 4 (cztery), czwórka
+què - co, który, rzecz
 queixar-se - narzekać
 qüestió - pytanie
 qüestionari - kwestionariusz
-qui - kto | kogo | komu | który
+qui - kto, kogo, komu, który
 quilla - kil
 quilogram - kilogram
 quilòmetre - kilometr
-químic - chemik | chemiczny
+químic - chemik, chemiczny
 quint - piąty
-quinze - piętnaście (15) | piętnastka
+quinze - piętnaście (15), piętnastka
 quinzè - piętnasty
 quítxua - keczua (język)
 rabí - rabin
-ràbia - gniew | wściekłość
+ràbia - gniew, wściekłość
 racisme - rasizm
 radar - radar
 radi - rad
 radiació - promieniowanie
 ràdio - radio
 radioactiu - radioaktywny
-radioactivitat - radioaktywność | promieniotwórczość
+radioactivitat - radioaktywność, promieniotwórczość
 radó - radon
 raïm - winogrono
 rar - rzadki
 rat - szczur
 rata - szczur
-ratolí - mysz | myszka
+ratolí - mysz, myszka
 rave - rzodkiewka
 reacció - reakcja
 realitat - rzeczywistość
@@ -2589,7 +2589,7 @@ religió - religia
 religiós - religijny
 religiosament - religijnie
 rellotge - zegar
-rememorar - przypominać | pozbierać | poskładać
+rememorar - przypominać, pozbierać, poskładać
 ren - renifer
 renéta - prawnuczka
 reni - ren
@@ -2597,7 +2597,7 @@ renovar - odnawiać
 rentable - zmywalny
 rentaplats - zmywarka
 rentar - zmywać
-repetidament - wielokrotnie | raz po raz | wiele razy
+repetidament - wielokrotnie, raz po raz, wiele razy
 repetir - powtarzać
 rèptil - gad
 república - republika
@@ -2605,11 +2605,11 @@ República Dominicana - Republika Dominikańska
 República Txeca - Republika Czeska
 reputació - reputacja
 res - nic
-rescat - ratunek | okup
+rescat - ratunek, okup
 rescatar - ratować
 resina - żywica
 respectable - szanowany
-respectar - szanować | respektować
+respectar - szanować, respektować
 respecte - szacunek
 respectivament - odpowiednio
 respectuós - pełen szacunku
@@ -2623,14 +2623,14 @@ revenja - zemsta
 revolució - rewolucja
 revòlver - rewolwer
 rialla - śmiech
-riba - brzeg | wybrzeże
+riba - brzeg, wybrzeże
 ric - bogaty
 rinoceront - nosorożec
 risc - ryzyko
 ritme - rytm
 riu - rzeka
-riure - śmiać się | śmiech
-roba - ubranie | odzież
+riure - śmiać się, śmiech
+roba - ubranie, odzież
 Roberta - Roberta
 robí - rubin
 robot - robot
@@ -2650,13 +2650,13 @@ roure - dąb
 rovell - rdza
 rubidi - rubid
 rusc - ul
-russa - Rosjanka | rus
+russa - Rosjanka, rus
 Rússia - Rosja
 ruteni - ruten
 rutherfordi - rutherford
 sa - zdrowy
 sabata - but
-saber - wiedzieć | wiedza
+saber - wiedzieć, wiedza
 sabó - mydło
 sacarina - sacharyna
 sacrificar - poświęcić
@@ -2674,7 +2674,7 @@ sàlvia - szałwia
 salze - wierzba
 Samarcanda - Samarkanda
 samari - samar
-samarreta - bluzka | koszulka
+samarreta - bluzka, koszulka
 Samoa - Samoa
 sandvitx - kanapka
 sang - krew
@@ -2696,7 +2696,7 @@ seaborgi - seaborg
 seda - jedwab
 seduir - uwodzić
 segar - zbierać plony
-segle - wiek | stulecie
+segle - wiek, stulecie
 sègol - żyto
 segon - drugi
 segrestar - porwać
@@ -2708,16 +2708,16 @@ seleni - selen
 semàntic - semantyczny
 sempre - zawsze
 senat - senat
-senda - ścieżka | dróżka
-sender - ścieżka | dróżka
-sendera - ścieżka | dróżka
+senda - ścieżka, dróżka
+sender - ścieżka, dróżka
+sendera - ścieżka, dróżka
 senglar - dzik
 senil - starczy
-sensació - odczucie | wrażenie
+sensació - odczucie, wrażenie
 sense - bez
 senyor - pan
 senyora - pani
-separació - separacja | rozdzielenie | oddzielenie
+separació - separacja, rozdzielenie, oddzielenie
 separadament - osobno
 separar - oddzielić
 separatisme - separatyzm
@@ -2730,15 +2730,15 @@ serotonina - serotonina
 serp - wąż
 serpent - wąż
 sèsam - sezam
-set - siedem (7) | siódemka
+set - siedem (7), siódemka
 set. - wrzesień
-setanta - siedemdziesiąt | 70
+setanta - siedemdziesiąt, 70
 setè - siódmy
 setembre - wrzesień
 setmana - tydzień
-setze - szesnaście (16) | szesnastka
+setze - szesnaście (16), szesnastka
 setzè - szesnasty
-seu - jego | ich | siedziba | katedra
+seu - jego, ich, siedziba, katedra
 seure - siadać
 seus - ich
 seva - jej
@@ -2766,26 +2766,26 @@ silueta - sylwetka
 símbol - symbol
 simbòlic - symboliczny
 similar - podobny
-simpàtic - miły | współczujący
+simpàtic - miły, współczujący
 simultàniament - równocześnie
 sincer - szczery
 síndria - arbuz
 síndrome - syndrom
 Singapur - Singapur
-sinònim - bliskoznaczny | synonim
+sinònim - bliskoznaczny, synonim
 sintaxi - składnia
 síntesi - synteza
 sintètic - syntetyczny
 Síria - Syria
-sis - sześć (6) | szóstka
+sis - sześć (6), szóstka
 sisè - szósty
 sisme - trzęsienie ziemi
 sismologia - sejsmologia
-sisplau - proszę | przepraszam
-sistema - system | układ
+sisplau - proszę, przepraszam
+sistema - system, układ
 sistema nerviós - układ nerwowy
 sistemàtic - systematyczny
-si us plau - proszę | przepraszam
+si us plau - proszę, przepraszam
 so - dźwięk
 sobirania - suwerenność
 sobrenom - przydomek
@@ -2794,7 +2794,7 @@ societat - społeczeństwo
 sociòleg - socjolog
 sociologia - socjologia
 sodi - sód
-sofà - sofa | kanapa
+sofà - sofa, kanapa
 sofre - siarka
 sogra - teściowa
 sogre - teść
@@ -2806,17 +2806,17 @@ solstici - przesilenie
 solubilitat - rozpuszczalność
 Somàlia - Somalia
 somrís - uśmiech
-somriure - uśmiechać się | uśmiech
+somriure - uśmiechać się, uśmiech
 sonet - sonet
 sopa - zupa
-sopar - jeść kolację | kolacja
+sopar - jeść kolację, kolacja
 sord - głuchy
 soroll - hałas
 sorollós - głośny
 sorra - piasek
 sortida - wyjście
 sostre - dach
-sou - pensja | płaca | ser
+sou - pensja, płaca, ser
 sovint - często
 spirulina - spirulina
 sua - suar
@@ -2827,47 +2827,47 @@ suburbi - przedmieście
 suc - sok
 sucós - soczysty
 sucre - cukier
-sud - południe | południowy
+sud - południe, południowy
 Sud-àfrica - Republika Południowej Afryki
 Sud-amèrica - Ameryka Południowa
 Sudan - Sudan
-sud-est - południowy wschód | południowo-wschodni
-sud-oest - południowy zachód | południowo-zachodni
+sud-est - południowy wschód, południowo-wschodni
+sud-oest - południowy zachód, południowo-zachodni
 Suècia - Szwecja
 sufix - przyrostek
 suggerir - sugerować
 Suïssa - Szwajcaria
 sumac - sumak
-suor - pot | wilgoć
+suor - pot, wilgoć
 superàvit - nadmiar
 supermercat - supermarket
 superstició - przesąd
 suposar - mieć powinność
-sutge - sadza | kopeć
+sutge - sadza, kopeć
 tabac - tytoń
 Tailàndia - Tajlandia
 Taj Mahal - Tadź Mahal
 tal·li - tal
-també - również | także | też
+també - również, także, też
 tambor - bęben
-tampoc - też nie | także nie | również nie
+tampoc - też nie, także nie, również nie
 tancar - zamykać
 tàntal - tantal
 Tanzània - Tanzania
-taquicàrdia - częstoskurcz | tachykardia
+taquicàrdia - częstoskurcz, tachykardia
 tard - późno
 tarda - popołudnie
 tardor - jesień
 targeta de crèdit - karta kredytowa
-taronja - pomarańcza | barwa pomarańczowa | pomarańczowy
+taronja - pomarańcza, barwa pomarańczowa, pomarańczowy
 tatuar - tatuować
 tatuatge - tatuaż
-taula - stół | deska | tablica | tabela
+taula - stół, deska, tablica, tabela
 tauló - deska
 Taure - Byk
 tauró - rekin
 taxidèrmia - taksydermia
-taxímetre - taksometr | taksomierz
+taxímetre - taksometr, taksomierz
 taxonomía - taksonomia
 te - herbata
 teatre - teatr
@@ -2902,7 +2902,7 @@ termodinàmic - termodynamiczny
 termodinàmica - termodynamika
 termòmetre - termometr
 Termòpiles - Termopile
-terra - świat | ziemia | ląd
+terra - świat, ziemia, ląd
 Terra - Ziemia
 terratrèmol - trzęsienie ziemi
 territori - terytorium
@@ -2915,25 +2915,25 @@ teva - twoja
 te verd - zielona herbata
 teves - twoje
 text - tekst
-tia - ciotka | ciocia
-tiet - wuj | wujek
-tieta - ciotka | ciocia
+tia - ciotka, ciocia
+tiet - wuj, wujek
+tieta - ciotka, ciocia
 tigre - tygrys
 timó - ster
 típic - typowy
-tipus - typ | rodzaj
+tipus - typ, rodzaj
 tirania - tyrania
 tiroide - tarczyca
 tisores - nożyczki
 titani - tytan
 toc - dotyk
 tolerància - tolerancja
-tolerar - tolerować | znosić
+tolerar - tolerować, znosić
 tomàquet - pomidor
 tomba - grób
 tori - tor
 tortuga - żółw
-torturar - torturować | męczyć
+torturar - torturować, męczyć
 tossir - kaszleć
 tossut - uparty
 tot - wszystko
@@ -2951,42 +2951,42 @@ tragèdia - tragedia
 tràgic - tragiczny
 traïdor - zdrajca
 trair - zdradzić
-trajectòria - tor | trajektoria
+trajectòria - tor, trajektoria
 trampa - pułapka
-tranquil - spokojny | cichy
+tranquil - spokojny, cichy
 transitiu - przechodni
 transmissió - transmisja
 transparent - przeźroczysty
 treballador - pracownik
 treballar - pracować
 tren - pociąg
-trenta - trzydzieści | 30
-trenta-cinc - trzydzieści pięć | 35
-trenta-dos - trzydzieści dwa | 32
-trenta-nou - trzydzieści dziewięć | 39
-trenta-quatre - trzydzieści cztery | 34
-trenta-set - trzydzieści siedem | 37
-trenta-sis - trzydzieści sześć | 36
-trenta-tres - trzydzieści trzy | 33
-trenta-un - trzydzieści jeden | 31
-trenta-vuit - trzydzieści osiem | 38
+trenta - trzydzieści, 30
+trenta-cinc - trzydzieści pięć, 35
+trenta-dos - trzydzieści dwa, 32
+trenta-nou - trzydzieści dziewięć, 39
+trenta-quatre - trzydzieści cztery, 34
+trenta-set - trzydzieści siedem, 37
+trenta-sis - trzydzieści sześć, 36
+trenta-tres - trzydzieści trzy, 33
+trenta-un - trzydzieści jeden, 31
+trenta-vuit - trzydzieści osiem, 38
 trentè - trzydziesty
-tres - 3 (trzy) | trójka
-tretze - trzynaście (13) | trzynastka
+tres - 3 (trzy), trójka
+tretze - trzynaście (13), trzynastka
 tretzè - trzynasty
 Triàsic - trias
 tribuna - trybuna
-tricicle - pojazd na trzech kołach | trójkołowiec
+tricicle - pojazd na trzech kołach, trójkołowiec
 tridimensional - trójwymiarowy
 trist - smutny
 tristesa - smutek
-trobada - spotkanie | trobar
+trobada - spotkanie, trobar
 trofeu - trofeum
 trompeta - trąbka
 tron - tron
 tronar - grzmieć
 trucada - połączenie (telefoniczne)
-truita - pstrąg | omlet
+truita - pstrąg, omlet
 tu - ty
 tuli - tul
 tungstè - wolfram
@@ -3000,20 +3000,20 @@ turment - tortura
 Turquia - Turcja
 tustar - uderzać
 Txad - Czad
-txec - język czeski | Czech
+txec - język czeski, Czech
 u - 1 (jeden)
 uapití - wapiti
-ubicació - pozycja | lokalizacja
+ubicació - pozycja, lokalizacja
 Ucraïna - Ukraina
 ull - oko
 ulleres - okulary
 un - 1 (jeden)
 una - 1 (jedna)
-una altra vegada - znów | znowu | jeszcze raz
+una altra vegada - znów, znowu, jeszcze raz
 unanimitat - jednomyślność
 ungla - paznokieć
 únic - jedyny
-uniforme - jednolity | mundur
+uniforme - jednolity, mundur
 unió - unia
 Unió Europea - Unia Europejska
 unitat - jednostka
@@ -3031,13 +3031,13 @@ vaixell - statek (wodny)
 vall - dolina
 vampir - wampir
 vanadi - wanad
-vapor - para | opar
+vapor - para, opar
 Varsòvia - Warszawa
 vasectomia - wazektomia
 vaselina - wazelina
 VeB - niech żyje Barça! (zawołanie kibiców FC Barcelona)
 vegetarianisme - wegetarianizm
-vehicle - wehikuł | środek transportu
+vehicle - wehikuł, środek transportu
 vell - stary
 velocitat - prędkość
 vena - żyła
@@ -3048,7 +3048,7 @@ vent - wiatr
 ventall - wachlarz
 verat - makrela
 verb - czasownik
-verd - barwa zielona | zielony
+verd - barwa zielona, zielony
 verdós - zielonkawy
 verdura - warzywo
 Verge - Panna
@@ -3068,7 +3068,7 @@ veure - widzieć
 vexil·lologia - weksylologia
 vi - wino
 Via Làctia - Droga Mleczna
-viarany - ścieżka | dróżka
+viarany - ścieżka, dróżka
 viatge - podróż
 viatjar - podróżować
 Viccionari - Wikisłownik
@@ -3083,16 +3083,16 @@ Vietnam - Wietnam
 vigorós - energiczny
 vint - 20 (dwadzieścia)
 vintè - dwudziesty
-vint-i-cinc - dwadzieścia pięć | 25
-vint-i-dos - dwadzieścia dwa | 22
-vint-i-nou - dwadzieścia dziewięć | 29
+vint-i-cinc - dwadzieścia pięć, 25
+vint-i-dos - dwadzieścia dwa, 22
+vint-i-nou - dwadzieścia dziewięć, 29
 vint-i-novè - dwudziesty dziewiąty
-vint-i-quatre - dwadzieścia cztery | 24
-vint-i-set - dwadzieścia siedem | 27
-vint-i-sis - dwadzieścia sześć | 26
-vint-i-tres - dwadzieścia trzy | 23
-vint-i-un - dwadzieścia jeden | 21
-vint-i-vuit - dwadzieścia osiem | 28
+vint-i-quatre - dwadzieścia cztery, 24
+vint-i-set - dwadzieścia siedem, 27
+vint-i-sis - dwadzieścia sześć, 26
+vint-i-tres - dwadzieścia trzy, 23
+vint-i-un - dwadzieścia jeden, 21
+vint-i-vuit - dwadzieścia osiem, 28
 violència - przemoc
 violí - skrzypce
 Viquipèdia - Wikipedia
@@ -3104,7 +3104,7 @@ visitar - odwiedzić
 visual - wizualny
 vitamina - witamina
 viu - żywy
-viure - żyć | mieszkać
+viure - żyć, mieszkać
 volcà - wulkan
 volcànic - wulkaniczny
 voler - chcieć
@@ -3115,14 +3115,14 @@ vòmit - wymiociny
 vomitar - wymiotować
 vòrtex - wir
 vosaltres - wy
-vostè - pan | pani
+vostè - pan, pani
 vostès - państwo
 vostra - wasza
 vostre - wasz
-vostres - wasz|wasi | wasze
+vostres - wasz|wasi, wasze
 votar - głosować
-vuit - osiem (8) | ósemka
-vuitanta - osiemdziesiąt | 80
+vuit - osiem (8), ósemka
+vuitanta - osiemdziesiąt, 80
 vuitè - ósmy
 xacal - szakal
 xai - jagnię
@@ -3146,9 +3146,9 @@ xiuxiuejar - szeptać
 xocolata - czekolada
 xovinisme - szowinizm
 yacht - jacht
-zas - plask! | bum! | pac!
+zas - plask!, bum!, pac!
 zebra - zebra
-zero - zero | 0
+zero - zero, 0
 zinc - cynk
 zirconi - cyrkon
 zodíac - zodiak
@@ -3159,4 +3159,4 @@ zoo- - zoo-
 zoòleg - zoolog
 zoologia - zoologia
 zooplàncton - zooplankton
-zum-zum - brzęczenie | buczenie | pomruk | mruczenie
+zum-zum - brzęczenie, buczenie, pomruk, mruczenie

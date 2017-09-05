@@ -1,12 +1,12 @@
 abdykacja - abdikacija
 Abidżan - Abidjan
-aborcja - pobačaj | abortus
+aborcja - pobačaj, abortus
 Abwehra - Abwehr
 abwera - Abwehr
 Adam - Adem m
 Adonis - Adonis
 aerodynamiczny - aerodinamički
-Afganistan - Afganistan | Avganistan
+Afganistan - Afganistan, Avganistan
 agnostycyzm - agnosticizam m
 agresja - agresija f
 Alaska - Aljaska
@@ -34,11 +34,11 @@ Arab - Arapin
 Arabia Saudyjska - Saudijska Arabija
 arabski - arapski
 arabus - Arapin
-archanioł - arhanđel m | arhanđeo m
+archanioł - arhanđel m, arhanđeo m
 Argentyna - Argentina f
 Arktyka - Arktik
-armia - vojska f | armija f
-armijo - vojska f | armija f
+armia - vojska f, armija f
+armijo - vojska f, armija f
 artykuł - članak
 Asyria - Asirija
 Atlantyk - Atlantski okean m
@@ -54,7 +54,7 @@ bana - tramvaj m
 bank - banka f
 banka - tramvaj m
 barabola - krumpir m
-bębenek - bubnjić | bubna opna
+bębenek - bubnjić, bubna opna
 beczeć - plakati
 Bejrut - Bejrut m
 Benin - Benin m
@@ -67,11 +67,11 @@ biskup - biskup m
 bizmut - bizmut
 blaga - laž
 Bliski Wschód - Bliski Istok m
-błona bębenkowa - bubnjić | bubna opna
+błona bębenkowa - bubnjić, bubna opna
 bóg - božanstvo n
 ból - bol
 Boliwia - Bolivija f
-bośniacki - bosanski | bosanski jezik
+bośniacki - bosanski, bosanski jezik
 bóstwo - božanstvo n
 browar - pivo n
 Brunei - Brunej
@@ -87,9 +87,9 @@ chmiel - pivo n
 choroba von Willebranda - von Willebrandova bolest
 Chorwacja - Hrvatska
 chorwacki - hrvatski
-chrystianizm - kršćanstvo n | hrišćanstvo n
-chrześcijaństwo - kršćanstvo n | hrišćanstvo n
-ciąg arytmetyczny - aritmetička progresija f | aritmetički niz m
+chrystianizm - kršćanstvo n, hrišćanstvo n
+chrześcijaństwo - kršćanstvo n, hrišćanstvo n
+ciąg arytmetyczny - aritmetička progresija f, aritmetički niz m
 ciało szkliste - staklasto tijelo
 ciśnienie - pritisak
 ciśnienie tętnicze - krvni pritisak
@@ -101,14 +101,14 @@ cukier - šećer
 czarna dziura - crna rupa
 czarna skrzynka - crna kutija f
 Czarnogóra - Crna Gora f
-czarnogórski - crnogorski | crnogorski m
+czarnogórski - crnogorski, crnogorski m
 Czeczenia - Čečenija
 czereśnia - trešnja
-cześć - zdravo | ćao
+cześć - zdravo, ćao
 cześnia - trešnja
 czyhunka - torij
 Dagestan - Dagestan
-dalmatyńczyk - dalmatinac | dalmatiner
+dalmatyńczyk - dalmatinac, dalmatiner
 demokracja - demokratija
 Demokratyczna Republika Wyspy Świętego Tomasza i Wysp Świętego Tomasza i Książęcej - Demokratska Republika Sao Tome i Principe
 dialekt - dijalekt m
@@ -118,8 +118,8 @@ dno - dno
 dobranoc - laku noć
 dojrzewanie - adolescencija
 doradca - savjetnik m
-do widzenia - zbogom | pozdrav | doviđenja
-do zobaczenia - zbogom | pozdrav | doviđenja
+do widzenia - zbogom, pozdrav, doviđenja
+do zobaczenia - zbogom, pozdrav, doviđenja
 druga wojna światowa - drugi svjetski rat m
 dudlać - plakati
 dusza - duša f
@@ -194,14 +194,14 @@ język ojczysty - maternji jezik m
 Jugosławia - Jugoslavija f (Југославија)
 juliański - julijanski
 kaj - gdje
-kalifat - kalifat m | halifat m
+kalifat - kalifat m, halifat m
 kam - gdje
 Kamerun - Kamerun
 Kanał Sueski - Suecki kanal m
 kapitalizm - kapitalizam
 Karaczi - Karači
 kartofel - krumpir m
-kaszubski - kašupski | kašupski m
+kaszubski - kašupski, kašupski m
 Katalonia - Katalonija
 kataloński - katalonski
 Katmandu - Katmandu
@@ -221,9 +221,9 @@ kluza - zatvor
 kolonoskopia - kolonoskopija f
 Kolumb - Kolumbo m
 Kolumbia - Kolumbija f
-komar - komarac m | komarica f
+komar - komarac m, komarica f
 kondygnacja - sprat m
-kopruch - komarac m | komarica f
+kopruch - komarac m, komarica f
 Koran - Kur'an
 kość - kost f
 kosmologia - kosmologija f
@@ -268,7 +268,7 @@ międzyludzki - međuljudski
 międzynarodowy - međunarodni
 mielcuch - pivo n
 mięsopustnik - februar
-minuta - minuta f | minut m
+minuta - minuta f, minut m
 mistrzostwa - prvenstvo n
 mistycyzm - misticizam m
 Monako - Monako n
@@ -286,10 +286,10 @@ nacja - nacija f
 nacjonalizm - nacionalizam m
 Nairobi - Nairobi m
 naród - nacija f
-nauka - nauka | znanost
+nauka - nauka, znanost
 Neapol - Napulj
 Nepal - Nepal m
-Niagara - Nijagara f | Nijagarini vodopadi m
+Niagara - Nijagara f, Nijagarini vodopadi m
 niepodległość - nezavisnost
 Nigeria - Nigerija
 nihilizm - nihilizam m
@@ -297,7 +297,7 @@ no - da
 nosorożec - nosorog m
 numeracja - numeracija f
 Numidia - Numidija f
-nyga - komarac m | komarica f
+nyga - komarac m, komarica f
 oaza - оаза f
 oberżyna - patlidžan m
 ocean - okean
@@ -312,7 +312,7 @@ Osaka - Osaka
 owoc - voće
 padaczka - epilepsija
 pająk - pauk m
-pajęcznik - septembar | novembar
+pajęcznik - septembar, novembar
 Pakistan - Pakistan
 państwo - država f
 Pasztun - Paštun
@@ -363,7 +363,7 @@ przywilej - povlastica
 pseudonauka - pseudonauka
 psisko - pas m
 publicystyka - publicistika f
-puszka - zatvor | pivo n
+puszka - zatvor, pivo n
 Pyjter - Petar
 pyra - krumpir m
 rachatłukum - rahat lokum
@@ -406,8 +406,8 @@ Słowianin - Sloven m
 smysł - razum m
 sobaka - pas m
 socjologia - sociologija f
-sok - đus | sok
-solniczka - slanik m | solanik m | tuzluk m
+sok - đus, sok
+solniczka - slanik m, solanik m, tuzluk m
 Somalia - Somalija f
 sopel - ledenica f
 sowa - sova
@@ -423,7 +423,7 @@ stulecie - vijek
 styczeń - januar
 Suez - Suec
 sufit - plafon m
-sufizm - tesavuf | sufizam
+sufizm - tesavuf, sufizam
 superbohater - superjunak m
 suwerenność - suverenitet
 swastyka - svastika f
@@ -437,7 +437,7 @@ szklistka - staklasto tijelo
 Szwajcaria - Švajcarska f
 Szwecja - Švedska
 Szwecyjo - Švedska
-szwedzki - švedski | švedski m
+szwedzki - švedski, švedski m
 Tajlandia - Tajland m
 tak - da
 tal - talij
@@ -466,15 +466,15 @@ turystyka - turizam m
 typografia - tipografija f
 Unia Europejska - Evropska unija f
 urodziny - dan rođenja
-uzależnienie - odanost | predanost | sklonost
-wacha - more n | voda
+uzależnienie - odanost, predanost, sklonost
+wacha - more n, voda
 wąski - uski
-weterynaria - veterina | veterinarska medicina
+weterynaria - veterina, veterinarska medicina
 weterynaryjny - veterinarski
 wiara - vjera
 wiek - vijek
-Wielka Brytania - Ujedinjeno Kraljevstvo | Velika Britanija f
-Wielkanoc - Uskrs m | Vaskrs m
+Wielka Brytania - Ujedinjeno Kraljevstvo, Velika Britanija f
+Wielkanoc - Uskrs m, Vaskrs m
 Wielkie Antyle - Veliki Antili
 wietnamski - vijetnamski
 więzienie - zatvor
@@ -492,7 +492,7 @@ wojna domowa - građanski rat m
 wolność słowa - sloboda govora f
 wrona - vrana f
 wrzesień - septembar
-wrzód - ulkus | čir
+wrzód - ulkus, čir
 Wschód - Bliski Istok m
 wuszt - kobasica f
 Wyspa Świętego Wyspy Świętego Tomasza i Wyspa Książęca - Sao Tome i Principe

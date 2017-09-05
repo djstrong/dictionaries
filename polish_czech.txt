@@ -1,15 +1,15 @@
-a - a | ale
+a - a, ale
 abaja - abája
 abat - opat m
 abażur - stínítko
 abchaski - abcházština f
 Abdon - Abdon m
 abdykacja - abdikace
-abdykować - abdikovat | odstupovat | odstoupit
+abdykować - abdikovat, odstupovat, odstoupit
 abecadło - abeceda
-Abel - Ábel | Abel
-abertam - abertam | abertamský sýr
-abfal - blb | blbec
+Abel - Ábel, Abel
+abertam - abertam, abertamský sýr
+abfal - blb, blbec
 Abidżan - Abidžan m
 abiecadło - abeceda
 Abisyńczyk - Habešan m
@@ -20,19 +20,19 @@ ablegat - delegát m
 ablegierek - dítě n
 ablutomania - nutkavé mytí n
 abonament - předplatné
-abonent - abonent | předplatitel
-abonować - abonovat | předplácet
+abonent - abonent, předplatitel
+abonować - abonovat, předplácet
 Abraham - Abrahám
 Abruzja - Abruzzo
 ABS - ABS
 absces - absces m
-absencja - absence f | nepřítomnost f
-absolutny - absolutní | úplný | naprostý
+absencja - absence f, nepřítomnost f
+absolutny - absolutní, úplný, naprostý
 absolutyzm - absolutismus
-abstrakcja - abstrakce | zobecnění
-abstrakcyjny - abstraktní | abstraktivní
+abstrakcja - abstrakce, zobecnění
+abstrakcyjny - abstraktní, abstraktivní
 abstynencja - abstinence f
-absurd - absurdnost f | nesmysl m
+absurd - absurdnost f, nesmysl m
 absurdalny - absurdní
 Abudża - Abuja
 Abu Zabi - Abú Zabí n
@@ -40,23 +40,23 @@ Abwehra - Abwehr
 abwera - Abwehr
 aby - aby
 abzac - podpatek m
-Achilles - Achilles m | Achilleus m
+Achilles - Achilles m, Achilleus m
 Achillesowy - Achillův
 achondryt - achondrit
 achromat - achromát
 achy i ochy - achich ouvej
-aczkolwiek - ačkoli | i když
+aczkolwiek - ačkoli, i když
 Ada - Ada f
 Adam - Adam m
 Adamowy - Adamův
 adaptacja - adaptace f
-adapter - přenoska | gramofon m
+adapter - přenoska, gramofon m
 adapterowy - gramofonový
 Addis Abeba - Addis Abeba f
-Adelajda - Adelajda | Adelaida
-administracja - administrativa | správa | administrace f
-administrator - administrátor m | správce
-administrować - obdivovat | uctívat | zbožňovat
+Adelajda - Adelajda, Adelaida
+administracja - administrativa, správa, administrace f
+administrator - administrátor m, správce
+administrować - obdivovat, uctívat, zbožňovat
 Adonis - Adónis
 adopcja - adopce f
 adres - adresa f
@@ -65,7 +65,7 @@ adresować - adresovat
 Adriatyk - Jadran
 adwent - advent m
 adwentnik - prosinec m
-adwentowy - adventní | adventový
+adwentowy - adventní, adventový
 adwokat - advokát m
 ady - přece
 aedicula - edikula
@@ -74,10 +74,10 @@ aerobik - aerobik
 aerodrom - letiště
 aerodynamika - aerodynamika f
 aeroplan - letadlo n
-afa - opičák m | opice f | zavináč m
+afa - opičák m, opice f, zavináč m
 afekt - afekt
 afelzina - pomeranč m
-Afganistan - Afghánistán m | Afganistan m
+Afganistan - Afghánistán m, Afganistan m
 afgański - afghánský
 afisz - plakát
 Afroamerykanin - Afroameričan m
@@ -88,13 +88,13 @@ Afrykanin - Afričan m
 Afrykanka - Afričanka f
 afrykański - africký
 Agata - Agáta f
-agencja - agence | agentura
-agent - agent | představitel | tajný policista
+agencja - agence, agentura
+agent - agent, představitel, tajný policista
 Aggeusz - Ageus m
 agitacja - agitace f
 agitować - agitovat
 Agnieszka - Anežka f
-agonia - agonie | agónie
+agonia - agonie, agónie
 agrarny - agrární
 agregat - agregát
 agresja - agrese
@@ -104,10 +104,10 @@ aikido - aikido n
 ajzynbaniok - železničář m
 akadyjski - akkadština f
 akatyst - akafist
-akcent - přízvuk m | akcent m
+akcent - přízvuk m, akcent m
 Akra - Accra f
 akrobacja - akrobacie f
-akronim - akronym m | akronymum
+akronim - akronym m, akronymum
 akson - axon
 aktor - herec m
 aktorka - herečka f
@@ -117,7 +117,7 @@ akupresura - akupresura f
 akupunktura - akupunktura f
 akuratnie - přesně
 akuratny - přesný
-akuzatyw - akuzativ m | čtvrtý pád m
+akuzatyw - akuzativ m, čtvrtý pád m
 akwarelista - akvarelista m
 akwedukt - akvadukt
 Akwizgran - Cáchy
@@ -137,7 +137,7 @@ Aldebaran - Aldebaran m
 ale - ale
 alegoryczny - alegorický
 aleja - alej f
-Aleksander - Alexandr m | Alexander m
+Aleksander - Alexandr m, Alexander m
 Aleksandra - Alexandra f
 alergen - alergen m
 alergia - alergie f
@@ -160,11 +160,11 @@ alkoholowy - alkoholický
 Allach - Alláh m
 Allah - Alláh m
 allel - allela f
-alleluja - aleluja | halejuja
+alleluja - aleluja, halejuja
 almanach - kalendář m
 Alojz - Alois
 Alojzy - Alois
-alpinista - horolezec m] | alpinista m]
+alpinista - horolezec m], alpinista m]
 alpinizm - horolezectví
 Alpy - Alpy
 aluminium - hliník m
@@ -193,7 +193,7 @@ amfetamina - amfetamin m
 amharski - amharština
 Amman - Amán
 amok - amok
-amoniak - amoniak | azan
+amoniak - amoniak, azan
 amoralizm - amoralismus
 Amos - Amos
 ampułka - ampule f
@@ -202,8 +202,8 @@ Amsterdam - Amsterdam
 Amu-daria - Amudarja
 amulet - amulet
 Amur - Amur m
-anachroniczny - anachronistický | anachronický
-anachronizm - anachronismus | anachronizmus
+anachroniczny - anachronistický, anachronický
+anachronizm - anachronismus, anachronizmus
 anagram - anagram m
 anakonda - anakonda
 ananas - ananas
@@ -213,13 +213,13 @@ Anatol - Anatol
 anatom - anatom
 anatomia - anatomie f
 ancug - oblek m
-Andora - Andorra | Andorra la Vella
+Andora - Andorra, Andorra la Vella
 Andrea - Andrea
 android - android m
 andrologia - andrologie
 andromeda - kyhanka f
 Andromeda - Andromeda f
-Andrzej - Andrej m | Ondřej m
+Andrzej - Andrej m, Ondřej m
 Andrzejowy - Ondřejův
 Andy - Andy
 aneksja - anexe f
@@ -232,13 +232,13 @@ Aneta - Aneta f
 anewryzm - aneurysma f
 Angielka - Angličanka f
 angielski - angličtina
-angiografia - zobrazení cév n | angiografie f
+angiografia - zobrazení cév n, angiografie f
 angiologia - angiologie f
 Anglia - Anglie f
-anglicyzm - anglicismus m | anglicizmus m
+anglicyzm - anglicismus m, anglicizmus m
 Anglija - Anglie f
 Anglik - Angličan m
-angol - Angličan m | angličtina
+angol - Angličan m, angličtina
 Angol - Angličan m
 Angola - Angola f
 angryst - angrešt [{m}}
@@ -257,14 +257,14 @@ ankieta - anketa f
 Anna - Anna f
 Annasz - Annáš m
 anoda - anoda
-anonimowy - anonymní | bezejmenný
+anonimowy - anonymní, bezejmenný
 anoreksja - anorexie f
 Antananarywa - Antananarivo
 Antares - Antares
 Antarktyda - Antarktida
 antidotum - protijed m
 Antigua i Barbuda - Antigua a Barbuda
-Antoni - Antonín m | Anton m | Antal m
+Antoni - Antonín m, Anton m, Antal m
 antonim - antonymum
 antrejka - chodba f
 antropo- - antropo-
@@ -290,8 +290,8 @@ antysemicki - antisemitský
 antysemityzm - antisemitismus m
 antyseptyczny - antiseptický
 Anubis - Anup m
-anyż gwiazdkowy - hvězdicový anýz | badyán m | čínský anýz m | hvězdový anýz m
-anyż gwiaździsty - badyán m | čínský anýz m | hvězdový anýz m
+anyż gwiazdkowy - hvězdicový anýz, badyán m, čínský anýz m, hvězdový anýz m
+anyż gwiaździsty - badyán m, čínský anýz m, hvězdový anýz m
 Anzelm - Anselm
 aorta - aorta
 aparat fotograficzny - fotoaparát m
@@ -304,9 +304,9 @@ Apeniny - Apeniny
 apetyczny - chutný
 Apia - Apia
 aplikator - aplikátor m
-aplikować - podávat | poskytovat
+aplikować - podávat, poskytovat
 apluzyna - pomeranč m
-Apollo - Apollo m | Apollón m | Apollón
+Apollo - Apollo m, Apollón m, Apollón
 Apolonia - Apolena f
 apostoł - apoštol m
 aprykoza - meruňka f
@@ -343,19 +343,19 @@ arkebuz - arkebuza
 armata - dĕlo
 Armenia - Arménie
 Armida - Armida f
-arogancja - arogance f | domýšlivost f
+arogancja - arogance f, domýšlivost f
 aromaterapia - aromaterapie f
-aromatyczny - aromatický | voňavý | vonný
+aromatyczny - aromatický, voňavý, vonný
 arsen - arsen m
 artefakt - artefakt m
 Artemida - Artemis f
 Artemis - Artemis f
 arteterapia - arteterapie f
 artykuł - článek
-arystokrata - aristokrat m | šlechtic m
+arystokrata - aristokrat m, šlechtic m
 arytmetyczny - aritmetický
 arytmia - arytmie f
--arz - -ář | -ař
+-arz - -ář, -ař
 as - eso
 asceta - asketa m
 ascetyczny - asketický
@@ -369,20 +369,20 @@ astro- - astro-
 astrofizyczka - astrofyzička f
 astrofizyk - astrofyzik m
 astrofizyka - astrofyzika f
-astrolog - astrolog m | hvězdopravec m
+astrolog - astrolog m, hvězdopravec m
 astrolożka - astroložka f
 astronom - astronom m
 astronomiczny - astronomický
-astronomka - astronomka f | hvězdářka f
+astronomka - astronomka f, hvězdářka f
 asygnata - bankovka
 asymptota - asymptota f
 Asyria - Asýrie
 Aszchabad - Ašchabad
-atak - útok m | záchvat m
+atak - útok m, záchvat m
 atakować - útočit
 ateista - ateista m
 ateistka - ateistka f
-Atena - Aténa f | Athéna f
+Atena - Aténa f, Athéna f
 atencja - pozor
 Ateny - Athény
 ateusz - ateista m
@@ -419,7 +419,7 @@ autostopowiczka - stopařka f
 autostrada - dálnice f
 autystyczny - autistický
 autyzm - autismus m
-awaria - havárie f | porucha f
+awaria - havárie f, porucha f
 Awentyn - Aventin m
 awokado - avokado n
 Azerbejdżan - Ázerbájdžán
@@ -431,7 +431,7 @@ Azjatka - Asijka f
 azjatycki - asijský
 azot - dusík m
 aztecki - aztécký
-B - akuzativ m | čtvrtý pád m
+B - akuzativ m, čtvrtý pád m
 baba - bábovka
 babakoto - indri
 babcia - babička f
@@ -446,7 +446,7 @@ bączek - bukáček malý
 baczyć - přemýšlet
 badanie - vyšetření n
 Badenia-Wirtembergia - Bádensko-Württembersko
-badian właściwy - badyán m | čínský anýz m | hvězdový anýz m
+badian właściwy - badyán m, čínský anýz m, hvězdový anýz m
 badminton - badminton
 bądź - bud'
 bagaż - zavazadlo
@@ -465,25 +465,25 @@ bajka - pohádka
 bajtel - dítě n
 bajtoła - lenoch m
 bajzel - zmatek
-bąk - vlk | čmelák m
+bąk - vlk, čmelák m
 bakałarz - učitel m
 bakelit - bakelit m
 bakelitowy - bakelitový
 bakłażan - oberžina f
-bakłażanowy - lilkový | baklažánový
+bakłażanowy - lilkový, baklažánový
 bakteria - bakterie f
-bakteriemia - bakteriémie f | bakteriemie f
+bakteriemia - bakteriémie f, bakteriemie f
 bakteriobójczy - dezinfekční
 bakteriolog - bakteriolog m
 bakteryjny - bakteriální
 Baku - Baku
 bal - ples m
-bala - míč f | balón m
+bala - míč f, balón m
 bałabajka - balalajka f
 bałagan - zmatek
 bałak - rozhovor
 bałałajka - balalajka f
-balanga - party | hov. akce | mejdlo | mejdan | spářka
+balanga - party, hov. akce, mejdlo, mejdan, spářka
 balejaż - melír m
 baletnica - baletka f
 balkon - balkon
@@ -494,22 +494,22 @@ Bałtyk - Baltské moře
 Bałtyka - Baltika f
 balustrada - balustráda f
 balustrado - balustráda f
-bałwan - sněhulák m | hlupák m
+bałwan - sněhulák m, hlupák m
 Bamako - Bamako
-bambaryła - blb | blbec
+bambaryła - blb, blbec
 bambusowy - bambusový
-bana - vlak | tramvaj f
+bana - vlak, tramvaj f
 banał - banalita f
-banan - banánovník m | banán m
-banana - banánovník m | banán m
+banan - banánovník m, banán m
+banana - banánovník m, banán m
 bananowiec - banánovník m
-bandaż - bandáž f | obvaz
+bandaż - bandáž f, obvaz
 Bandżul - Banjul
 banerka - plechovka f
 Bangi - Bangui
 Bangkok - Bangkok
 Bangladesz - Bangladéš
-bania - dýně f | hlava f
+bania - dýně f, hlava f
 baniaczek - klobouk m
 baniak - hlava f
 baniok - železničář m
@@ -528,15 +528,15 @@ barabola - brambor
 baran - beran m
 Baran - Beran m
 Baranek Boży - Beránek Boží m
-barani - skopový | beraní
+barani - skopový, beraní
 Barbados - Barbados
 Barbara - Barbora f
 Barcelona - Barcelona f
 bardzo - velmi
 baribal - baribal
-bark - rameno n | bark
+bark - rameno n, bark
 barkarola - barkarola
-barki - rameno n | bark
+barki - rameno n, bark
 Barnaba - Barnabáš m
 barometr - barometr m
 baron - baron m
@@ -548,12 +548,12 @@ barwić - barvit
 barwinkowy - barvínkový
 barykada - barikáda f
 baryton - baryton m
-barzej - velmi | hodně
+barzej - velmi, hodně
 basior - bič
 baskijski - baskičtina
 baśń - báje
 basta - dost
-basza - paša | krmivo
+basza - paša, krmivo
 bat - bič
 batalion - prapor
 batki - kalhotky
@@ -569,7 +569,7 @@ bazar - bazar
 Bazylea - Basilej
 Bazyli - Basil m
 bazylia - bazalka f
-Beata - Beáta | Beata
+Beata - Beáta, Beata
 Beatrycze - Beatrice f
 bebech - žaludek m
 beczeć - plakat
@@ -641,7 +641,7 @@ Bhutan - Bhútán
 Biała - Bělá
 białaczka - leukémie f
 biała magia - bílá magie
-białko - bílek m | bělima f | oční bělmo n | bílkovina f
+białko - bílek m, bělima f, oční bělmo n, bílkovina f
 Białoruś - Bělorusko
 białoruski - běloruština
 białowieski - bělověžský
@@ -657,10 +657,10 @@ biblioteka - knihovna f
 bibliotekarz - knihovník m
 bić - bít
 bicykl - bicykl m
-bida - chudoba f | bída f
+bida - chudoba f, bída f
 bidet - bidet m
 biec - běžet
-bieda - chudoba f | bída f
+bieda - chudoba f, bída f
 biedak - chudák m
 biedny jak mysz kościelna - chudý jako kostelní myš
 biedronka - beruška f
@@ -673,7 +673,7 @@ bielizna - prádlo n
 Bielsko - Bílsko
 Bielsko-Biała - Bílsko-Bělá
 bierne palenie - pasivní kouření
-biernik - akuzativ m | čtvrtý pád m
+biernik - akuzativ m, čtvrtý pád m
 bieżący - běžný
 bieżeć - běžet
 bigel - věšák m
@@ -681,21 +681,21 @@ bigiel - věšák m
 biglosko - žehlička f
 biglować - žehlit
 biksa - plechovka f
-bilet - lístek m | vstupenka f | jízdenka f
+bilet - lístek m, vstupenka f, jízdenka f
 bilirubina - bilirubin m
 bilokacja - bilokace
 bimba - tramvaj f
 bindał - bederní zástěrka f
-bindasz - penis m | pyj m
-bindka - oprátka f | bandáž f | obvaz
-binia - holka f | dívka f | přítelkyně f
+bindasz - penis m, pyj m
+bindka - oprátka f, bandáž f, obvaz
+binia - holka f, dívka f, přítelkyně f
 binks - modřina f
 binol - modřina f
 binturong - binturong
 biochemia - biochemie
 biocybernetyka - biokybernetika f
-biografia - biografie f | životopis m
-biograficzny - biografický | životopisní
+biografia - biografie f, životopis m
+biograficzny - biografický, životopisní
 biologia - biologie
 biologiczny - biologický
 bionika - bionika f
@@ -708,7 +708,7 @@ biskup - biskup m
 Bissau - Bissau
 Biszkek - Biškek
 biurko - psací stůl m
-biust - poprsí n | busta f
+biust - poprsí n, busta f
 biusthalter - podprsenka f
 biustonosz - podprsenka f
 Bizancjum - Byzanc f
@@ -721,17 +721,17 @@ Błażej - Blažej m
 błecha - blecha f
 błędne koło - bludný kruh
 błękitna krew - modrá krev
-błękitny - blankytný | belasý
+błękitny - blankytný, belasý
 Bliski Wschód - Blízký východ m
 blisko - blízko
 blizna - jizva f
-bliźniak - sourozenec m | dvoudomek m
+bliźniak - sourozenec m, dvoudomek m
 Bliźniak - Blíženec m
-Bliźnięta - Blíženci | Blíženci m | Blíženec m
+Bliźnięta - Blíženci, Blíženci m, Blíženec m
 bliźnięta syjamskie - siamská dvojčata
 błona dziewicza - panenská blána f
 błona śluzowa - sliznice f
-blondyn - blondýn | blonďák
+blondyn - blondýn, blonďák
 błonnik - vláknina f
 błotnik - blatník m
 blumkol - květák m
@@ -745,7 +745,7 @@ bociani - čapí
 bocznica - vlečka f
 bodziec - podráždĕní n
 bóg - bůh m
-Bóg - Bůh | Hospodin | Pán m
+Bóg - Bůh, Hospodin, Pán m
 bogactwo - bohatství
 Bóg dał, Bóg wziął - Pán Bůh dal, Pán Bůh vzal
 bogini - bohyně f
@@ -755,14 +755,14 @@ Bogumiła - Bohumila f
 Bogusław - Bohuslav m
 Bogusława - Bohuslava f
 bohater - hrdina m
-Bohemia - Česko n | Čechy
+Bohemia - Česko n, Čechy
 bohemistka - bohemistka f
-bohemizm - bohemismus m | bohemizmus m
+bohemizm - bohemismus m, bohemizmus m
 bohr - bohrium n
 bójka - rvačka f
 bojler - bojler
 bojownik - prapor
-bojtel - pytel | vak m | výběžek m
+bojtel - pytel, vak m, výběžek m
 bojtlik - peněženka f
 boks - box
 ból - bolest f
@@ -774,32 +774,32 @@ Bombaj - Bombaj
 bombel - dítě n
 bombka - holba f
 Bonifacy - Bonifác m
-bonsai - bonsai f | bonsaj f
+bonsai - bonsai f, bonsaj f
 boński - bonnský
 bor - bor m
-bordo - bordó n | bordový
+bordo - bordó n, bordový
 bordowy - bordový
-borg - kredit m | úvěr m
+borg - kredit m, úvěr m
 borowik szlachetny - hřib smrkový m
 borowina - fango n
-borówka - brusnice borůvka | borůvka | tvář f
+borówka - brusnice borůvka, borůvka, tvář f
 boski - božský
 bośniacki - bosenština
 Bośnia i Hercegowina - Bosna a Hercegovina
 Botswana - Botswana f
 botulizm - botulismus m
 boża krówka - beruška f
-boźdór - kluk m | přítel m
+boźdór - kluk m, přítel m
 Bożena - Božena
 Boże Narodzenie - Vánoce
 bożonarodzeniowy - vánoční
-brachol - bratr m | brácha m
-bracieniec - bratr m | brácha m
+brachol - bratr m, brácha m
+bracieniec - bratr m, brácha m
 braciszek - bratříček m
 brać nogi za pas - vzít nohy na ramena
 brak miesiączki - vynecháni menstruace n
 bramkarz - brankář m
-brat - bratr m | brácha m
+brat - bratr m, brácha m
 brat mniejszy - bratr menší
 Bratysława - Bratislava f
 bratysławski - bratislavský
@@ -820,7 +820,7 @@ brodawka sutkowa - prsní bradavka f
 brokuł - brokolice f
 brom - brom
 broń - zbraň
-Bronisław - Bronislav m | Branislav m
+Bronisław - Bronislav m, Branislav m
 broszura - brožura
 browar - pivo m
 brucski - bruselský
@@ -832,7 +832,7 @@ brunet - brunet m
 bryczesy - rajtky
 brydż - bridž m
 bryg - briga f
-bryka - automobil m | auto n | vůz m
+bryka - automobil m, auto n, vůz m
 bryle - brýle
 bryndza - brynza f
 Brytyjczyk - Brit m
@@ -851,19 +851,19 @@ buda - bouda
 Budapeszt - Budapešť
 buddyjski - buddhistický
 buddyzm - buddhismus
-budka telefoniczna - telefonní budka f | veřejný telefonní automat m | VTA
+budka telefoniczna - telefonní budka f, veřejný telefonní automat m, VTA
 budowa - stavba f
 budować zamki na lodzie - stavět si vzdušné zámky
 budowla - stavba f
 budowniczy - budovatel
-budynek - budova f | stavení n | stavba f
+budynek - budova f, stavení n, stavba f
 budzik - budík m
 Budziszyn - Budyšín
 Bug - Západní Bug
 buk - buk
 Bukareszt - Bukurešť f
 bukinista - bukinista m
-buła - žemle f | sval
+buła - žemle f, sval
 bulba - brambor
 buldożer - buldozer m
 Bułgar - Bulhar m
@@ -872,14 +872,14 @@ Bułgarka - Bulharka f
 bułgarski - bulharština
 bulić - platit
 bulimia - bulimie f
-bułka - žemle f | sval
+bułka - žemle f, sval
 bulwa - brambor
 burak - červená řepa
 burdel - bordel m
 burdynek - souboj m
 Burgundia - Burgundsko n
 Burkina Faso - Burkina Faso
-burmistrz - purkmistr m | purkmistrová f
+burmistrz - purkmistr m, purkmistrová f
 bursztyn - jantar m
 bursztynowy - jantarový
 Burundi - Burundi
@@ -889,7 +889,7 @@ burzowiny - pivo m
 but - bota
 butan - butan
 butelka - láhev f
-butelkowy - lahvový | láhvový
+butelkowy - lahvový, láhvový
 butersznyt - chlebíček m
 Bużumbura - Bujumbura
 być - být
@@ -904,10 +904,10 @@ Byk - Býk m
 Była Jugosłowiańska Republika Macedonii - Bývalá jugoslávská republika Makedonie
 Bytom - Bitom
 bzybzać - krást
-C - mířidlo n | zaměřovač m | hledáček m | dativ m | třetí pád m
+C - mířidlo n, zaměřovač m, hledáček m, dativ m, třetí pád m
 cajtung - noviny
 całka - integrál m
-całkiem - úplně | naprosto | docela
+całkiem - úplně, naprosto, docela
 całkowity - úplný
 całować - líbat
 car - car m
@@ -916,15 +916,15 @@ cebula - cibule f
 Cecylia - Cecílie
 cedr - cedr
 cefeida - cefeida
-Cefeusz - Kéfeus m | Cefeus m
+Cefeusz - Kéfeus m, Cefeus m
 cegła - cihla
 ceglany - cihlový
 ceglasty - cihlový
-cel - cíl | účel
+cel - cíl, účel
 cela - cela f
 Celestyn - Celestýn m
 celibat - celibát m
-celownik - mířidlo n | zaměřovač m | hledáček m | dativ m | třetí pád m
+celownik - mířidlo n, zaměřovač m, hledáček m, dativ m, třetí pád m
 celtycki - keltský
 cel uświęca środki - účel světí prostředky
 cennik - ceník m
@@ -933,8 +933,8 @@ cep - cep
 cepeen - benzínová pumpa f
 cer - cer
 cera - dcera
-cerber - cerber m | cerberus m
-Cerber - Kerber m | Kerberos m | Cerber m | Cerberus m
+cerber - cerber m, cerberus m
+Cerber - Kerber m, Kerberos m, Cerber m, Cerberus m
 Cerera - Ceres f
 Ceres - Ceres f
 cesarskie cięcie - císařský řez m
@@ -969,7 +969,7 @@ Cheronea - Chairóneia
 Cheroneja - Chairóneia
 chichrać się - smát se
 Chile - Chile
-chilijski - chilský | čilský
+chilijski - chilský, čilský
 Chińska Republika Ludowa - Čínská lidová republika
 Chiny - Čína
 chipowy - čipový
@@ -979,25 +979,25 @@ chitozan - chitosan m
 chleb - chléb m
 chlebak - chlebník m
 chlebowy - chlební
-chlew - chlév m | vepřín m
+chlew - chlév m, vepřín m
 chłodnica - tepelný výměník
 chłodny - chladný
-chłopak - kluk m | přítel m
-chłopiec - kluk m | chlapec m | hoch m
-chłopyszek - kluk m | chlapec m | hoch m
+chłopak - kluk m, přítel m
+chłopiec - kluk m, chlapec m, hoch m
+chłopyszek - kluk m, chlapec m, hoch m
 chlor - chlor
 chloroaceton - chloraceton
 chlorofil - chlorofyl m
 chłystek - hejsek
-chmiel - chmel m | pivo m
+chmiel - chmel m, pivo m
 chmura - mrak m
 choćby - například
 chocieć - chtít
 chód - chůze f
 chodzić - chodit
 chodzić od Annasza do Kajfasza - chodit od Annáše ke Kaifášovi
-choinka - vánoční stromek m | vánoční stromeček m
-chójk - vánoční stromek m | vánoční stromeček m
+choinka - vánoční stromek m, vánoční stromeček m
+chójk - vánoční stromek m, vánoční stromeček m
 chojna - borovice
 choleryk - cholerik m
 cholesterol - cholesterol m
@@ -1009,7 +1009,7 @@ choroba morska - mořská nemoc f
 choroba Parkinsona - Parkinsonova nemoc f
 chorobotwórczość - patogenita f
 Chorwacja - Chorvatsko
-chorwacki - chorvatský | chorvatština
+chorwacki - chorvatský, chorvatština
 Chorwat - Chorvát m
 Chorwatka - Chorvátka f
 chory - nemocný
@@ -1035,7 +1035,7 @@ chrześcijanka - křesťanka f
 chrześcijański - křesťanský
 chrzestna - kmotra f
 chrzestny - kmotr m
-chudoba - chudoba f | bída f
+chudoba - chudoba f, bída f
 chuj - chuj
 chuśle - housle
 chusteczka - kapesník m
@@ -1056,53 +1056,53 @@ cicho niczym w grobie - ticho jako v hrobě
 ciebie - ty
 ciecierzyca pospolita - cizrna beraní
 cieciorka - čičorka f
-ciecz - tekutina f | kapalina f
+ciecz - tekutina f, kapalina f
 ciecz łzowa - slzní tekutina f
 cielesieństwo - pohlavní styk
 ciemnia - temná komora f
 ciemnia fotograficzna - temná komora f
-ciemnobłękitny - tmavěblankytný | tmavě blankytný
-ciemnobrązowy - tmavohnědý | tmavěhnědý | tmavě hnědý
-ciemnoczekoladowy - tmavěčokoládový | tmavě čokoládový
-ciemnoczerwony - tmavočervený | tmavěčervený | tmavě červený
-ciemnofioletowy - tmavěfialový | tmavě fialový
-ciemnokasztanowy - tmavěkaštanový | tmavě kaštanový
-ciemnoniebieski - tmavomodrý | tmavěmodrý | tmavě modrý
-ciemnopomarańczowy - tmavěoranžový | tmavě oranžový
-ciemnoróżowy - tmavěrůžový | tmavě růžový
-ciemnoszary - tmavošedý | tmavěšedý | tmavě šedý
+ciemnobłękitny - tmavěblankytný, tmavě blankytný
+ciemnobrązowy - tmavohnědý, tmavěhnědý, tmavě hnědý
+ciemnoczekoladowy - tmavěčokoládový, tmavě čokoládový
+ciemnoczerwony - tmavočervený, tmavěčervený, tmavě červený
+ciemnofioletowy - tmavěfialový, tmavě fialový
+ciemnokasztanowy - tmavěkaštanový, tmavě kaštanový
+ciemnoniebieski - tmavomodrý, tmavěmodrý, tmavě modrý
+ciemnopomarańczowy - tmavěoranžový, tmavě oranžový
+ciemnoróżowy - tmavěrůžový, tmavě růžový
+ciemnoszary - tmavošedý, tmavěšedý, tmavě šedý
 ciemnowłosy - tmavovlasý
-ciemnozielony - tmavozelený | tmavězelený | tmavě zelený
-ciemnożółty - tmavožlutý | tmavěžlutý | tmavě žlutý
+ciemnozielony - tmavozelený, tmavězelený, tmavě zelený
+ciemnożółty - tmavožlutý, tmavěžlutý, tmavě žlutý
 cień - stín m
 Cieplickie Skalne Miasto - Teplické skalní město
 ciernisty - trnitý
 cierpliwość - trpělivost f
-cieść - tchán m | snacha f
+cieść - tchán m, snacha f
 cieśnina - průliv m
 cieszyński - těšínský
 ciężki - téžký
 ciga - koza f
-ciii - pst! | pšt!
+ciii - pst!, pšt!
 ciocia - teta f
 cios poniżej pasa - rána pod pás
 ciotka - teta f
 cipa - píča f
-cipka - slípka zelenonohá | slepice f
+cipka - slípka zelenonohá, slepice f
 cis - modřín
 Cisa - Tisa f
 ciśnienie - tlak
-ciuciubabka - slepá bába | na slepou bábu
-ciupa - věznice f | vězení n
-ciurlocek - penis m | pyj m
-ciurma - věznice f | vězení n
+ciuciubabka - slepá bába, na slepou bábu
+ciupa - věznice f, vězení n
+ciurlocek - penis m, pyj m
+ciurma - věznice f, vězení n
 ciżma - bota
 cło - clo n
 cmentarz - hřbitov
-ćmić - palit | kouřit
+ćmić - palit, kouřit
 ćmik - cigareta f
-cnotliwy - ctnostný | ctný
-co - co | proč | každý | každo-
+cnotliwy - ctnostný, ctný
+co - co, proč, každý, každo-
 codzienność - všednost
 cofać - ustupovat
 cokolwiek - cokoli
@@ -1111,26 +1111,26 @@ córczysko - dcera
 córka - dcera
 co z oczu, to z serca - sejde z očí, sejde z mysli
 ćpać - jíst
-cudzysłów - uvozovka f | zazwyczaj w
-cug - průvan | vlak
+cudzysłów - uvozovka f, zazwyczaj w
+cug - průvan, vlak
 cukier - cukr
 cukiernik - cukrář m
 cukrowiec lekarski - cukrová třtina f
 cukrzyca - cukrovka f
-curig - zpět | zpátky
-cwel - blb | blbec
+curig - zpět, zpátky
+cwel - blb, blbec
 ćwierćfinał - čtvrtfinále
 cybernetyk - kybernetik m
 cybernetyka - kybernetika f
 cyberprzestrzeń - kyberprostor
 cychalter - podprsenka f
 cydr - cidre
-cyferblat - ciferník m | obličej m | tvář f
+cyferblat - ciferník m, obličej m, tvář f
 cyfra - cifra f
-cyga - vlk | čmelák m
+cyga - vlk, čmelák m
 cygan - podvodník m
 Cygan - Cikán m
-cygański - cikánský | cikánština
+cygański - cikánský, cikánština
 cygareta - cigareta f
 cygaretka - cigareta f
 cygaro - doutník m
@@ -1141,9 +1141,9 @@ cyklotymia - cyklotymie f
 cyna - cín
 cynamonowy - skořicový
 cyngiel - brýle
-cynizm - cynismus | cynicism
+cynizm - cynismus, cynicism
 cynk - zinek
-cypel - mys m | výběžek m
+cypel - mys m, výběžek m
 Cypr - Kypr
 cypresz - cypřiš m
 Cyprian - Cyprián m
@@ -1151,7 +1151,7 @@ cyprys - cypřiš m
 cyrkiel - kružítko n
 cyrkon - zirkonium
 Cyryl - Cyril m
-cyrylijski - cyrilský | kyrilský
+cyrylijski - cyrilský, kyrilský
 cyrylo-metodejski - cyrilometodějský
 cyrylo-metodiański - cyrilometodějský
 cyrylo-metodyjski - cyrilometodějský
@@ -1159,17 +1159,17 @@ cysorz - císař
 cytryna - citron m
 cytrynat - citron m
 cyzjojan - cisiojan
-Czad - Čad | Čadské jezero
+Czad - Čad, Čadské jezero
 czador - čádor
 czaj - čaj m
 czajnik - hlava f
 czapla - volavka f
 czarna dziura - černá díra
-czarna jagoda - brusnice borůvka | borůvka
+czarna jagoda - brusnice borůvka, borůvka
 czarna magia - černá magie
 czarna porzeczka - černý rybíz m
 czarna skrzynka - černá skříňka f
-czarne złoto - černé zlato n | tekuté zlato n
+czarne złoto - černé zlato n, tekuté zlato n
 czarnobrązowy - černohnědý
 Czarnogóra - Černá Hora f
 czarny - černý
@@ -1180,31 +1180,31 @@ czasopismo - časopis
 czasownik - sloveso
 czas to pieniądz - čas jsou peníze
 czciciel - ctitel m
-czcionka - litera f | písmeno n | typ m
+czcionka - litera f, písmeno n, typ m
 Czech - Čech m
-czechizm - bohemismus m | bohemizmus m
+czechizm - bohemismus m, bohemizmus m
 Czechosłowacja - Československo n
 Czecho-Słowacja - Československo n
 Czechosłowaczka - Čechoslováčka f
 Czechosłowak - Čechoslovák m
 czechosłowakizm - čechoslovakismus m
-Czechy - Česko n | Čechy
+Czechy - Česko n, Čechy
 Czeczenia - Čečensko n
 czędo - dítě n
 czekolada - čokoláda f
 czekoladowy - čokoládový
 czereśnia - třešeň f
-czernica - brusnice borůvka | borůvka | ostružina
+czernica - brusnice borůvka, borůvka, ostružina
 Czerniowce - Černovice
 czerwcowy - červnový
 czerwiec - červen m
 czerwona porzeczka - červený rybíz m
 czerwonobrązowy - červenohnědý
 czerwonopomarańczowy - červenooranžový
-czerwony - červený | rudý | komunista m
+czerwony - červený, rudý, komunista m
 czerwony olbrzym - červený obr m
-cześć - ahoj | nazdar
-czeski - český | čeština
+cześć - ahoj, nazdar
+czeski - český, čeština
 Czeskie Budziejowice - České Budějovice
 cześnia - třešeň f
 często - často
@@ -1215,7 +1215,7 @@ Czeszka - Češka f
 czeszki - cvička f
 czipowy - čipový
 czkawka - škytavka
-członek - člen m | penis m | pyj m
+członek - člen m, penis m, pyj m
 człowiek - člověk m
 człowiek neandertalski - neandertálec m
 czołg - tank m
@@ -1227,26 +1227,26 @@ czternastoletni - čtrnáctiletý
 czteroletni - čtyřletý
 czterosilnikowy - čtyřmotorový
 czterystuletni - čtyřsetletý
-czuć - cítit | slyšet
-czujność - bdělost f | pozornost f
-czujny - bdělý | ostražitý
+czuć - cítit, slyšet
+czujność - bdělost f, pozornost f
+czujny - bdělý, ostražitý
 czulent - šoulet
 czuły - něžný
 czwartek - čtvrtek m
 czwartkowy - čtvrteční
-czwartorzęd - čtvrtohory f | kvartér | antropozoikum
-czy - zda | jestli | nebo
-czyhunka - železnice f | thorium | izolovaná skála | tor | izolovené skalisko | mrazový suk
+czwartorzęd - čtvrtohory f, kvartér, antropozoikum
+czy - zda, jestli, nebo
+czyhunka - železnice f, thorium, izolovaná skála, tor, izolovené skalisko, mrazový suk
 czyrwiec - červen m
 czyrwień - červen m
 czystość - čistota f
 czytać - číst
 czytać między wierszami - číst mezi řádky
-czytelnia - čítárna | studovna
+czytelnia - čítárna, studovna
 czytelniczka - čtenářka f
 czytelnik - čtenář m
-czyżyk - kluk m | chlapec m | hoch m
-D - genitiv m | druhý pád m
+czyżyk - kluk m, chlapec m, hoch m
+D - genitiv m, druhý pád m
 dąb - dub
 dąb korkowy - dub korkový m
 Dąbrówka - Doubravka f
@@ -1257,7 +1257,7 @@ Dagestan - Dagestán
 Dakar - Dakar
 daktyl - datle f
 dała - dát
-dalajlama - dalajlama m | dalajláma m
+dalajlama - dalajlama m, dalajláma m
 dalece - velmi
 dalekowzroczność - dalekozrakost f
 Dalmacja - Dalmácie
@@ -1265,13 +1265,13 @@ dalmatyka - dalmatika f
 Damaszek - Damašek
 dana - dát
 Dania - Dánsko
-Danisława - Danislava f | Dana f | Danuše f | Danuška f
+Danisława - Danislava f, Dana f, Danuše f, Danuška f
 dany - dát
 dar - dárek m
 darmsztadt - darmstadtium
-darowanemu koniowi w zęby się nie zagląda - darovanému koni na zuby nehleď | darovanému koni na zuby nekoukej
+darowanemu koniowi w zęby się nie zagląda - darovanému koni na zuby nehleď, darovanému koni na zuby nekoukej
 Dawid - David m
-dech - oddech | oddych
+dech - oddech, oddych
 defenestracja - defenestrace f
 deficytowy - deficitní
 definicja - definice f
@@ -1300,7 +1300,7 @@ denazalizacja - denazalizace
 dentysta - zubař m
 denuncjować - denuncovat
 depilator - epilátor m
-depok - knoflík m | tlačitko n
+depok - knoflík m, tlačitko n
 deratyzacja - deratizace
 dereń - dřín m
 deszcz - déšť m
@@ -1309,7 +1309,7 @@ detektyw - detektiv m
 deuterokanoniczny - deuterokanonický
 deżdż - déšť m
 dezelować - ničit
-dezercja - dezerce f | zběhnutí n
+dezercja - dezerce f, zběhnutí n
 dezinformacja - dezinformacen f
 dezodorant - deodorant m
 dezynfekcja - dezinfekce f
@@ -1322,11 +1322,11 @@ dialog - dialog m
 diament - diamant m
 Diana - Diana f
 dietetyka - výživa f
-Dike - Diké f | Dike f
+Dike - Diké f, Dike f
 Dili - Dili
 dinozaur - dinosaurus m
 dioda - dioda f
-Diogenes - Díogenés m | Díogenés m (ze Sinópé)
+Diogenes - Díogenés m, Díogenés m (ze Sinópé)
 Dionizos - Dionýsos m
 dip - dip
 diplodok - Diplodocus m
@@ -1334,7 +1334,7 @@ discman - discman m
 dla - pro
 dłoń - dlaň f
 długonogi - dlouhonohý
-długopis - propiska f | propisovačka f
+długopis - propiska f, propisovačka f
 dłuto - dláto n
 dłużnik - dlužník m
 dmuchnąć - krást
@@ -1348,38 +1348,38 @@ dobry wieczór - dobrý večer
 dodać - přidat
 Dodoma - Dodoma
 dogmat - dogma n
-dogmatyzm - dogmatismus m | dogmatizmus m
+dogmatyzm - dogmatismus m, dogmatizmus m
 doić - dojit
 dokąd - kam
 dokładnie - přesně
 dokładny - přesný
-dokonały - dokonalý | skvělý
+dokonały - dokonalý, skvělý
 doktor - lékař m
 doktryna - doktrína f
-dół - jáma f | dole | spodek m
+dół - jáma f, dole, spodek m
 dolar - dolar
 dolina - údolí n
 dolmen - dolmen
-dolnołużycki - dolnolužická srbština | dolnolužičtina
+dolnołużycki - dolnolužická srbština, dolnolužičtina
 dolnośląski - dolnoslezský
 dolny - dolní
 dom - dům m
 dom dziecka - sirotčinec
 domek z kart - domeček z karet
-Dominika - Dominika | Dominika f
+Dominika - Dominika, Dominika f
 Dominikana - Dominikánská republika
 domowej roboty - domácí
 domowy - domácí
 doniczka - květináč
 doniosłość - vážnost f
-dopełniacz - genitiv m | druhý pád m
-doradca - poradce m | rádce m
+dopełniacz - genitiv m, druhý pád m
+doradca - poradce m, rádce m
 Dorota - Dorota f
 dorożka - drožka f
 doś - hodně
 dość - dost
 doskonałość - výtečnost f
-doskonały - dokonalý | skvělý
+doskonały - dokonalý, skvělý
 dosyć - dost
 do widzenia - na shledanou
 do zobaczenia - na shledanou
@@ -1391,7 +1391,7 @@ drach - drak
 dracheta - drak
 dragon - dragoun
 drapacz chmur - mrakodrap m
-drapieżnik - dravec m | predátor | šelma f
+drapieżnik - dravec m, predátor, šelma f
 drawit - dravit
 dres - tepláky m
 drętki - kyselý
@@ -1399,16 +1399,16 @@ drewniak - dřevák m
 drewno - dřevo n
 Drezno - Drážďany
 drobnowidz - mikroskop
-droga - silnice | cesta
+droga - silnice, cesta
 droga ekspresowa - rychlostní silnice
 Droga Mleczna - Mléčná dráha
 drogi - drahý
 drogocenny - vzácný
 Drohobycz - Drohobyč
-drożdże - kvasinka | droždí
+drożdże - kvasinka, droždí
 drugie śniadanie - svačina f
 druh - přítel m
-druk - knihtisk | litera f | písmeno n | typ m
+druk - knihtisk, litera f, písmeno n, typ m
 drukarka - tiskárna
 drukarz - tiskař m
 drzemka - zdřímnutí n
@@ -1417,25 +1417,25 @@ drzewo iglaste - jehličnan m
 drzwi - dveře
 Dublin - Dublin
 dubn - dubnium n
-duch - přízrak | duše | duch
+duch - přízrak, duše, duch
 Duch Święty - Duch svatý m
 dudek - dudek
 dudlać - plakat
 dudy - plíce f
-duma - pýcha f | hrdost f
+duma - pýcha f, hrdost f
 Duńczyk - Dán m
 Dunka - Dánka f
 duński - dánština
-dupa - prdel f | buchta f | roštěnka f
+dupa - prdel f, buchta f, roštěnka f
 dupek - kretén m
-dupoliz - vlezdoprdelista m | prdelolezec m
+dupoliz - vlezdoprdelista m, prdelolezec m
 dureń - blbec m
-dusza - duše f | přízrak | duše | duch
+dusza - duše f, přízrak, duše, duch
 Duszanbe - Dušanbe
 Duszniki-Zdrój - Dušníky m
 dutek - peníz m
 dużo - hodně
-duży - velký | veliký
+duży - velký, veliký
 dwudziestoletni - dvacetiletý
 dwuletni - dvouletý
 dwunastoletni - dvanáctiletý
@@ -1444,15 +1444,15 @@ dwusilnikowy - dvoumotorový
 dwustuletni - dvěstěletý
 dyć - přece
 dychawica - astma n
-dycht - úplně | naprosto | docela
-dycki - vždy | vždycky
+dycht - úplně, naprosto, docela
+dycki - vždy, vždycky
 dydaktyczny - didaktický
 dyftongizacja - diftongizace f
 dygać - běžet
 dyktafon - diktafon m
 dyktator - diktátor m
 dyliżans - dostavník m
-dym - kouř m | dým m
+dym - kouř m, dým m
 dymbcok - dub
 dymić - kouřit
 dynamika - dynamika
@@ -1472,24 +1472,24 @@ dysmorfofobia - dysmorfofobická porucha f
 dyspensa - dispens
 dysproz - dysprosium
 dysydent - disident m
-dyszel - oj f | ojnice f
+dyszel - oj f, ojnice f
 dywan - koberec m
 dywanik - kobereček m
 Dżakarta - Jakarta
 dżamahirijja - džamáhíríje
 Dżamila - Džamila
-dżampreza - party | hov. akce | mejdlo | mejdan | spářka
+dżampreza - party, hov. akce, mejdlo, mejdan, spářka
 dzbanek - džbánek m
 dżdżownica - žížala m
 dżelada - dželada
 dżem - džem m
 dżez - jazz
 dziabka - motyka
-dziadek - dědeček m | děd m | děda m | děda
+dziadek - dědeček m, děd m, děda m, děda
 działać na nerwy - lézt na nervy
 działo - kanón m
 dziąsło - dáseň f
-Dżibuti - Džibutsko n | Džibuti n
+Dżibuti - Džibutsko n, Džibuti n
 Dzieciątko - Ježíšek m
 dzieciństwo - dětství n
 dzięcioł - žluna
@@ -1501,14 +1501,14 @@ dzień - den m
 dzień dobry - dobré jitro
 dziennikarka - novinářka f
 dziennikarski - novinářský
-dziennikarstwo - novinářství n | žurnalistika f | publicistika f
+dziennikarstwo - novinářství n, žurnalistika f, publicistika f
 dzierzba - ťuhýk m
 dzierżyć - držet
 dziesięcioletni - desetiletý
-dziewa - holka f | dívka f | přítelkyně f | panna f
-dziewczę - holka f | dívka f | přítelkyně f
-dziewczyna - holka f | dívka f | přítelkyně f
-dziewczynka - holčička f | děvče n
+dziewa - holka f, dívka f, přítelkyně f, panna f
+dziewczę - holka f, dívka f, přítelkyně f
+dziewczyna - holka f, dívka f, přítelkyně f
+dziewczynka - holčička f, děvče n
 dziewica - panna f
 dziewięćdziesięcioletni - devadesátiletý
 dziewięcioletni - devítiletý
@@ -1518,29 +1518,29 @@ dżihad - džihád m
 dżihadysta - džihádista m
 dzik - divočák
 dzika karta - divoká karta f
-dzika róża - růže šípková f | psí růže f | šípek m
+dzika róża - růže šípková f, psí růže f, šípek m
 dżinn - džin m
 dżinsy - džíny
 dziób - zobák m
-dziołcha - holka f | dívka f | přítelkyně f
-dziopa - holka f | dívka f | přítelkyně f
-dżip - jeep | džíp
+dziołcha - holka f, dívka f, přítelkyně f
+dziopa - holka f, dívka f, přítelkyně f
+dżip - jeep, džíp
 dziś - dnes
 dzisiaj - dnes
 dzisiejszy - dnešní
 dżistać - prdziet
-dziunia - holka f | dívka f | přítelkyně f
-dziura - díra f | jeskyně f
-dziura zabita deskami - díra f | zapadákov m
+dziunia - holka f, dívka f, přítelkyně f
+dziura - díra f, jeskyně f
+dziura zabita deskami - díra f, zapadákov m
 dziurkacz - děrovačka f
 dziurkacz biurowy - děrovačka f
 dżudo - judo
-dźwig - jeřáb m | výtah m
+dźwig - jeřáb m, výtah m
 dzwonić - telefonovat
 dzwonnica - zvonice f
 Edirne - Edirne
 Edward - Eduard m
-edyficjum - budova f | stavení n | stavba f
+edyficjum - budova f, stavení n, stavba f
 edykuł - edikula
 edyl - aedil
 Edyta - Edita
@@ -1557,8 +1557,8 @@ egoizm - egoismus
 egzoksiężyc - exoměsíc m
 egzorcysta - exorcista m
 einstein - einsteinium
-ejber - kluk m | přítel m
-eka - balík | roh m
+ejber - kluk m, přítel m
+eka - balík, roh m
 ekierka - trojúhelník m
 ekologia - ekologie f
 ekologio - ekologie f
@@ -1589,8 +1589,8 @@ Elżbieta - Alžběta f
 embriologia - embryologie f
 emigracja - emigrace f
 emigrant - emigrant m
-Emili - Emílie | Emilia
-Emilia - Emílie | Emilia
+Emili - Emílie, Emilia
+Emilia - Emílie, Emilia
 emir - emír
 empiryczny - empirický
 encyklopedia - encyklopedie f
@@ -1603,7 +1603,7 @@ entropia - entropie
 entuzjazm - nadšení n
 enzym - enzym m
 eoliczny - eolický
-Eos - Éós f | Eos f
+Eos - Éós f, Eos f
 epitafium - epitaf m
 epoka - epocha f
 epos - epos
@@ -1624,7 +1624,7 @@ Erywań - Jerevan
 ESBC - ESCB
 eschatologia - eschatologie f
 esej - esej
-eskalator - jezdící schody | pohyblivé schody | eskalátor m | pohyblivé schodiště n
+eskalator - jezdící schody, pohyblivé schody, eskalátor m, pohyblivé schodiště n
 eskimoski - eskymácký
 eskulap - lékař m
 esperanto - esperanto
@@ -1637,17 +1637,17 @@ estoński - estonština
 estrogen - estrogen m
 etalon - etalon
 etan - ethan
-eten - ethen | ethylen
+eten - ethen, ethylen
 eternit - eternit m
 Etiopia - Etiopie f
 etniczny - etnický
 etno- - etno-
-Etolia - Aitólie f | Ajtólia f
+Etolia - Aitólie f, Ajtólia f
 etologia - etologie
 etologiczny - etologický
 ETPC - ESLP
-etruski - etruský | etruština f
-etylen - ethen | ethylen
+etruski - etruský, etruština f
+etylen - ethen, ethylen
 etymologia - etymologie
 euforia - euforie f
 Eugeniusz - Evžen m
@@ -1668,15 +1668,15 @@ eż - že
 Ezdrasz - Ezdráš
 Ezop - Ezop m
 facet - muž m
-facetka - žena f | učitelka f
-facjata - obličej m | tvář f | fasáda f | průčelí n
+facetka - žena f, učitelka f
+facjata - obličej m, tvář f, fasáda f, průčelí n
 fagocista - fagotista m
 fajans - blbec m
 fajek - cigareta f
 fajer - svátek m
 fajera - svátek m
 fajerwer - cigareta f
-fajfus - penis m | pyj m
+fajfus - penis m, pyj m
 fajka - cigareta f
 fajrant - přestávka f
 fałat - bankovka
@@ -1687,14 +1687,14 @@ fana - vlajka f
 fanatyzm - fanatismus m
 fandzolić - lhát
 fantazja - fantazie
-fara - fara f | farnost f
+fara - fara f, farnost f
 farbować - barvit
 farerski - faerština
 farorz - farář m
 farsa - fraška f
 farsz - nádivka f
 faryna - cukr
-fasada - fasáda f | průčelí n
+fasada - fasáda f, průčelí n
 fasola - fasole f
 faszystowski - fašistický
 fatwa - fatva f
@@ -1716,7 +1716,7 @@ fest - velmi
 feta - amfetamin m
 fezeła - včela f
 Fidżi - Fidži
-figa - fík m | fíkovník
+figa - fík m, fíkovník
 figowiec - fíkovník
 figura retoryczna - řečnická figura f
 fikus - fíkovník
@@ -1725,7 +1725,7 @@ Filip - Filip m
 filipiński - filipínský
 Filipiny - Filipíny
 film - film m
-filok - propiska f | propisovačka f
+filok - propiska f, propisovačka f
 filolog - filolog m
 filozof - filozof
 filozofia dziejów - filosofie dějin f
@@ -1741,7 +1741,7 @@ Finlandia - Finsko
 finlandzki - finština
 fiński - finština
 finwal - plejtvák myšok m
-fioletowy - fialový | šeřikově modrý | violetový
+fioletowy - fialový, šeřikově modrý, violetový
 fiord - fjord m
 fitogeografia - fytogeografie
 fiut - chuj
@@ -1755,7 +1755,7 @@ flaszka - láhev f
 flecista - flétnista m
 flegmatyczny - flegmatický
 flet - chuj
-fletnia Pana - Panova flétna f | syrinx
+fletnia Pana - Panova flétna f, syrinx
 fliger - letadlo n
 flirt - flirt
 Florencja - Florencie
@@ -1765,7 +1765,7 @@ flugelhorn - křídlovka
 fluor - fluor
 -fobia - -fobie
 fojerman - hasič m
-folga - odpočinek m | oddech m
+folga - odpočinek m, oddech m
 folklor - folklor
 fonetyka - fonetika f
 forint - forint
@@ -1796,30 +1796,30 @@ Francuzka - Francouzka f
 frans - francium
 frasunek - starost
 frechowny - drzý
-frela - holka f | dívka f | přítelkyně f
+frela - holka f, dívka f, přítelkyně f
 fresk - freska
 fretka - fretka f
 frezarka - frézka f
 front - fronta f
 frutarianizm - frutariánství n
-fryc - Skopčák | Němec m
-Fryc - Skopčák | Němec m
+fryc - Skopčák, Němec m
+Fryc - Skopčák, Němec m
 Fryderyk - Bedřich m
 Fryderyka - Bedřiška f
-fryzjer - holič m | kadeřník m
+fryzjer - holič m, kadeřník m
 fulać - lhát
 fundamentalista - fundamentalista
 fundamentalny - základní
 funkcja stanu - stavová veličina
 funkcjonować - fungovat
-fura - automobil m | auto n | vůz m
-furdygarnia - věznice f | vězení n
+fura - automobil m, auto n, vůz m
+furdygarnia - věznice f, vězení n
 furgać - létat
 fusbal - fotbal
 fusekla - ponožka f
 futbol - fotbal
 futbolistka - fotbalistka
-futrować - krmit | živit | kojit
+futrować - krmit, živit, kojit
 futurologiczny - futurologický
 fynsterbret - parapet
 fyrtel - úhel m
@@ -1829,31 +1829,31 @@ Gaborone - Gaborone
 gadałka - víla f
 gadolin - gadolinium
 gagatowy - gagátový
-gajdus - blb | blbec
+gajdus - blb, blbec
 gajer - oblek m
 gal - gallium n
-gała - oko n | fotbal | krkavec m | vrána
-galancie - hodně | hesky
+gała - oko n, fotbal, krkavec m, vrána
+galancie - hodně, hesky
 Galia - Galie
 Galicja - Halič
-galicyzm - galicismus m | galicizmus m
+galicyzm - galicismus m, galicizmus m
 Galilea - Galilea f
 galoty - kalhoty
 Gambia - Gambie
 gametangium - gametangium
-ganc - úplně | naprosto | docela
+ganc - úplně, naprosto, docela
 gang - gang m
 gangol - oblek m
 gangster - gangster m
-gapa - krkavec m | vrána
-gara - spánek m | sen m | zdřímnutí n
-gardło - hrdlo n | krk m
+gapa - krkavec m, vrána
+gara - spánek m, sen m, zdřímnutí n
+gardło - hrdlo n, krk m
 garncarstwo - hrnčířství n
 garnitur - oblek m
 garść - hrst f
 garsonka - kostým m
 gasa - ulice f
-gasić - zhasnout | tlumit
+gasić - zhasnout, tlumit
 gąsię - house
 gąsior - houser m
 gasnąć - hasnout
@@ -1885,8 +1885,8 @@ generał dywizji - generálmajor m
 genetyczny - genetický
 Genewa - Ženeva
 genewski - ženevský
-genialny - geniální | brilantní
-Genowefa - Jenovefa f | Jenovéfa f | Genovefa f
+genialny - geniální, brilantní
+Genowefa - Jenovefa f, Jenovéfa f, Genovefa f
 Genua - Janov
 geografia - zeměpis
 geologia - geologie
@@ -1894,13 +1894,13 @@ geomancja - geomantie f
 Georgina - Jiřina f
 german - germanium n
 germanista - germanista m
-germanizm - germanismus m | germanizmus m
-germański - německý | němčina
+germanizm - germanismus m, germanizmus m
+germański - německý, němčina
 gęś - husa f
 getto - ghetto n
 Ghana - Ghana f
 gibon - gibon
-gichać - lít | smát se
+gichać - lít, smát se
 giełd - burza f
 giełda - burza f
 giez - velká moucha
@@ -1909,22 +1909,22 @@ ginekolog - ženský lékař
 ginekologia - gynekologie
 gira - noha f
 gitara - kytara f
-głąb - blb | blbec
+głąb - blb, blbec
 glacok - plešatý
 głagolica - hlaholice f
-glajza - dlaha f | thorium | izolovaná skála | tor | izolovené skalisko | mrazový suk
+glajza - dlaha f, thorium, izolovaná skála, tor, izolovené skalisko, mrazový suk
 glapa - vrána
 glaska - sklenice f
 głaskać - hladit
 głębokość - hloubka f
 glin - hliník m
-glina - hlína f | policista m
+glina - hlína f, policista m
 gliniarz - policista m
-glista - škrkavka f | žížala m
-Gliwice - Glivice | Hlivice
-glizda - škrkavka f | žížala m
-globus - glóbus m | hlava f
-głód - hlad m | hladomor m
+glista - škrkavka f, žížala m
+Gliwice - Glivice, Hlivice
+glizda - škrkavka f, žížala m
+globus - glóbus m, hlava f
+głód - hlad m, hladomor m
 głodny - hladový
 Głogów - Hlohov
 głośnik - reproduktor m
@@ -1934,16 +1934,16 @@ głowa - hlava f
 główka - hlavička f
 głownia - čepel
 główny - hlavní
-Głubczyce - Hlubčice | Glubčice
+Głubczyce - Hlubčice, Glubčice
 głubczycki - hlubčický
-Głuchołazy - Hlucholazy | Glucholazy
+Głuchołazy - Hlucholazy, Glucholazy
 głuchota - hluchota f
 głuchy - hluchý
 glukometr - glukometr m
 glukoza - glukóza f
-głupek - blb | blbec
+głupek - blb, blbec
 głupiec - blbec m
-gnat - kost f | kostka f
+gnat - kost f, kostka f
 gniazdo - hnízdo
 Gniezno - Hnězdno
 gnot - dítě n
@@ -1957,11 +1957,11 @@ godoć - mluvit
 Godzilla - Godzilla m
 godzina - hodina f
 gol - gól
-golarz - holič m | kadeřník m
+golarz - holič m, kadeřník m
 gołębnik - holubník m
 Golgota - Golgota f
-golibroda - holič m | kadeřník m
-gołoledź - náledí n | námraza f
+golibroda - holič m, kadeřník m
+gołoledź - náledí n, námraza f
 gondoliera - barkarola
 gong - gong
 goniec - posel m
@@ -1970,13 +1970,13 @@ górą - hora
 górka - plec
 górnictwo - hornictví n
 górnik - horník m
-górnołużycki - hornolužická srbština | hornolužičtina
+górnołużycki - hornolužická srbština, hornolužičtina
 górnośląski - hornoslezský
 Górny Śląsk - Horní Slezsko n
 gorset - korzet m
 gorszy - horší
 goryl - gorila f
-Góry Skaliste - Skalnaté hory | Skalisté hory
+Góry Skaliste - Skalnaté hory, Skalisté hory
 gorzki - hořký
 gość - host m
 gościnność - pohostinnost f
@@ -1988,21 +1988,21 @@ gotyk - gotika f
 gówno - hovno
 goździk - hřebíček m
 gra - hra f
-graba - ruka | dlaň f
+graba - ruka, dlaň f
 gracz - hráč
 gram - gram m
 gramofon - gramofon m
 gramofonowy - gramofonový
 granatowy - tmavomodrý
 granica - hranice f
-granit - žula f | granit m
+granit - žula f, granit m
 gra słów - slovní hříčka f
 gratulacja - blahopřání n
 grawiton - graviton m
 Grecja - Řecko
 grecki - řečtina
 Greczynka - Řekyně f
-grejpfrut - grapefruit m | grep m
+grejpfrut - grapefruit m, grep m
 Grek - Řek m
 greka - řečtina
 Grenada - Grenada
@@ -2012,8 +2012,8 @@ grób - hrob
 grobowiec - sklep
 groch - hrách m
 grog - grog m
-gromadzić - nahromadit | akumulovat | sbírat
-gromnica - hromnice f | hromnička f
+gromadzić - nahromadit, akumulovat, sbírat
+gromnica - hromnice f, hromnička f
 gronostaj - hranostaj m
 groza - hrůza f
 groźba - hrozba f
@@ -2027,7 +2027,7 @@ grudzień - prosinec m
 grunt - základ m
 grupa docelowa - cílová skupina f
 gruszka - hruška f
-gruziński - gruzínský | gruzínština
+gruziński - gruzínský, gruzínština
 Gruzja - Gruzie
 grycha - žemle f
 grymas - grimasa f
@@ -2049,19 +2049,19 @@ Gujana Francuska - Francouzská Guyana
 guła - krůta
 guli - protože
 guma - žvýkačka f
-gupielok - blb | blbec
+gupielok - blb, blbec
 Gustaw - Gustav
-guzik - knoflík m | tlačitko n
+guzik - knoflík m, tlačitko n
 gwałciciel - násilník m
 gwałtowny - násilný
 gwer - puška
 gwiazda - hvězda f
 Gwiazda Poranna - Jitřenka f
-gwiazdarz - astronom m | astrolog m | hvězdopravec m
+gwiazdarz - astronom m, astrolog m, hvězdopravec m
 Gwiazda Wieczorna - Večernice f
 gwiazdka - Štědrý den
 gwiazdozbiór - souhvězdí
-gwiaździarz - astronom m | astrolog m | hvězdopravec m
+gwiaździarz - astronom m, astrolog m, hvězdopravec m
 Gwinea - Guinea
 Gwinea Bissau - Guinea-Bissau
 Gwinea Równikowa - Rovníková Guinea f
@@ -2070,7 +2070,7 @@ gwóźdź - hřebík
 gzub - dítě n
 habituacja - habituace f
 haczka - motyka f
-Hades - Hádes m | hádes m
+Hades - Hádes m, hádes m
 hafn - hafnium n
 haft - výšivka f
 haitański - haitský
@@ -2078,17 +2078,17 @@ Haiti - Haiti
 Hajfa - Haifa f
 hajtok - nůž m
 hala - hala
-hałaśliwy - hlučný | rámusivý
+hałaśliwy - hlučný, rámusivý
 hamulec - brzda f
-Hana - Haná f | Hanácko n
-hańba - hanba f | ostuda f
+Hana - Haná f, Hanácko n
+hańba - hanba f, ostuda f
 Hanna - Hana f
 Hanoi - Hanoj
 haplotyp - haplotyp m
 Harare - Harare
 harest - vazba f
 harfa - harfa f
-harować jak wół - dřít jako vůl | dřít jako kůň
+harować jak wół - dřít jako vůl, dřít jako kůň
 has - hassium n
 haski - haagský
 haszysz - hašiš
@@ -2099,22 +2099,22 @@ hawajski - havajský
 Hawana - Havana
 hawerz - sapér m
 hazard - hazardní hra
-hę - co | proč | každý | každo-
+hę - co, proč, každý, každo-
 hebdow - hedvábí n
-hebrajski - hebrejský | hebrejština f
+hebrajski - hebrejský, hebrejština f
 hedonista - hédonista m
 hedonistyczny - hédonistický
 hedonizm - hédonismus m
 Hefajstos - Hefaistos m
 heftować - zvracet
-Hekata - Hekaté f | Hekate f
-Hekate - Hekaté f | Hekate f
+Hekata - Hekaté f, Hekate f
+Hekate - Hekaté f, Hekate f
 hektar - hektar m
 hektolitr - hektolitr m
 hel - helium
-Helena - Helena f | Helene f
+Helena - Helena f, Helene f
 heligonka - heligonka f
-helikopter - helikoptéra f | vrtulník m
+helikopter - helikoptéra f, vrtulník m
 helio- - helio-
 Helios - Hélios m
 Hellada - Řecko
@@ -2161,7 +2161,7 @@ hipoteza - hypotéza f
 Hiroszima - Hirošima f
 histeria - hysterie f
 histo- - histo-
-historia - dějiny | historie f | příběh m
+historia - dějiny, historie f, příběh m
 historiozofia - filosofie dějin f
 historyczka - historička f
 historyk - historik m
@@ -2170,10 +2170,10 @@ hiszpański - španělština
 hodować - chovat
 hodowla - chov m
 hokej - hokej m
-hokejkryja - hokejka f | hůl f
+hokejkryja - hokejka f, hůl f
 holajza - dláto n
-Holandia - Nizozemsko n | Holandsko n
-Holandyja - Nizozemsko n | Holandsko n
+Holandia - Nizozemsko n, Holandsko n
+Holandyja - Nizozemsko n, Holandsko n
 Holender - Holanďan m
 Holenderka - Holanďanka f
 holenderski - nizozemština
@@ -2194,15 +2194,15 @@ Horus - Hor m
 hostessa - hosteska f
 hotel - hotel
 hulajnoga - koloběžka f
-humerał - humerál m | amiktus m
+humerał - humerál m, amiktus m
 humor - nálada
 humorystyczny - humoristický
 huncwot - darebák
-hungaryzm - hungarismus m | hungarizmus m
+hungaryzm - hungarismus m, hungarizmus m
 huśtawka - houpačka
 husycki - husitský
 husyta - husita m
-huta - huť f | sklárna f
+huta - huť f, sklárna f
 hydrologia - hydrologie f
 hydroplan - hydroplán m
 hydroponika - hydroponie f
@@ -2226,13 +2226,13 @@ iloczas - kvantita f
 ilustrator - ilustrátor m
 imbir - zázvor m
 imbirowy - zázvorový
-imię - jméno n | křestní jméno
+imię - jméno n, křestní jméno
 imieniny - jmeniny
 imigracja - imigrace f
 imigrant - imigrant
-imperator - imperátor | císař
+imperator - imperátor, císař
 impresor - tiskař m
-impreza - party | hov. akce | mejdlo | mejdan | spářka
+impreza - party, hov. akce, mejdlo, mejdan, spářka
 ind - indium
 Indie - Indie
 indochiński - indočínský
@@ -2250,22 +2250,22 @@ inhalacja - inhalace f
 inkaski - incký
 inkaso - inkaso
 inkaust - inkoust m
-inkszy - ostatní | jiný
+inkszy - ostatní, jiný
 inkunabuł - inkunábule
-inny - ostatní | jiný
-ino - jen | jenom | pouze
+inny - ostatní, jiný
+ino - jen, jenom, pouze
 insekt - hmyz m
 instruktor - instruktor
-instrument - nástroj m | přístroj m
+instrument - nástroj m, přístroj m
 insulina - inzulin m
 integralność - integrita f
 intelekt - intelekt
 interesować - zajímat
 internet - internet
 internetowy - internetový
-inundacyja - povodeň | záplava
+inundacyja - povodeň, záplava
 inwazja - invaze f
-iny - ostatní | jiný
+iny - ostatní, jiný
 inżynier - inženýr m
 Irak - Irák m
 Iran - Írán
@@ -2284,9 +2284,9 @@ iść na skibę - krást
 iskra - jiskra f
 Islamabad - Islámábád
 islamski - islámský
-islandzki - islandský | islandština f
+islandzki - islandský, islandština f
 Itaka - Ithaka
-italianizm - italianismus m | italismus m
+italianizm - italianismus m, italismus m
 Italok - Ital m
 italski - italština
 itd. - atd.
@@ -2296,7 +2296,7 @@ Iwan - Ivan m
 Iwo - Ivo m
 Iwona - Ivona
 iż - že
-izba - mír m | pokoj m
+izba - mír m, pokoj m
 izba wytrzeźwień - záchytka f
 ize - že
 -izm - -ismus
@@ -2317,48 +2317,48 @@ jadać - jíst
 jadalnia - jídelna f
 jadowity - jedovatý
 Jadwiga - Hedvika f
-jagoda - brusnice borůvka | borůvka | tvář f
-jajko - vejce | vajíčko n
-jajo - vejce | vajíčko n
+jagoda - brusnice borůvka, borůvka, tvář f
+jajko - vejce, vajíčko n
+jajo - vejce, vajíčko n
 jaki - který
 jaki pan, taki kram - jaký pán, takový krám
 jakiś - nějaký
 jakkolwiek - jakkoli
-jakmiarz - úplně | naprosto | docela
-Jakub - Jakub | Kuba
+jakmiarz - úplně, naprosto, docela
+Jakub - Jakub, Kuba
 jałowiec - jalovec
 Jamajka - Jamajka
 jamraj - bandikut
 Jamusukro - Yamoussoukro
-Jan - Jan m | Ivan m | Johan m
+Jan - Jan m, Ivan m, Johan m
 jangryst - angrešt [{m}}
 Janina - Jana f
 jantar - jantar m
-japa - díra f | jeskyně f
+japa - díra f, jeskyně f
 Japończyk - Japonec
 Japonia - Japonsko
-japonizm - japonismus m | japonizmus m | japanismus m
+japonizm - japonismus m, japonizmus m, japanismus m
 Japonka - Japonka
 japoński - japonština
 jara - tchyně f
-jarecka - matka | máti | máma | maminka | mamička | mamka | mutra f
+jarecka - matka, máti, máma, maminka, mamička, mamka, mutra f
 Jaromir - Jaromír m
 jarosz - vegetarián m
 jaskinia - jeskyně f
 jaskółka - vlaštovka f
 Jasna Góra - Jasná Hora
 jasne jak słońce - jasné jako facka
-jasnobłękitny - světleblankytný | světle blankytný
-jasnobrązowy - světlehnědý | světle hnědý
-jasnoczerwony - světlečervený | světle červený
-jasnofioletowy - světlefialový | světle fialový
-jasnokasztanowy - světlekaštanový | světle kaštanový
-jasnoniebieski - světlemodrý | světle modrý
-jasnopomarańczowy - světleoranžový | světle oranžový
-jasnoróżowy - světlerůžový | světle růžový
-jasnoszary - světlešedý | světle šedý
-jasnozielony - světlezelený | světle zelený
-jasnożółty - světležlutý | světle žlutý
+jasnobłękitny - světleblankytný, světle blankytný
+jasnobrązowy - světlehnědý, světle hnědý
+jasnoczerwony - světlečervený, světle červený
+jasnofioletowy - světlefialový, světle fialový
+jasnokasztanowy - světlekaštanový, světle kaštanový
+jasnoniebieski - světlemodrý, světle modrý
+jasnopomarańczowy - světleoranžový, světle oranžový
+jasnoróżowy - světlerůžový, světle růžový
+jasnoszary - světlešedý, světle šedý
+jasnozielony - světlezelený, světle zelený
+jasnożółty - světležlutý, světle žlutý
 jasny jak słońce - jasný jako facka
 jastrząb - jestřáb m
 jaszczurka - ještěr m
@@ -2366,20 +2366,20 @@ Jaworzno - Javořno
 jazz - jazz
 jeansy - džíny
 jebać - šukat
-jebadło - ložnice | postel f
+jebadło - ložnice, postel f
 jechać na jednym wózku - být spolu na jedné lodi
 jedenastoletni - jedenáctiletý
 jeden za wszystkich, wszyscy za jednego - jeden za všechny, všichni za jednoho
 jedlina - jedle
 jedna jaskółka wiosny nie czyni - jedna vlaštovka jaro nedělá
-jednocześnie - současně | zaroveň
+jednocześnie - současně, zaroveň
 jednoczesny - současný
 jednokomórkowy - jednobuněčný
 jednooki - jednooký
 jednopokojowy - jednopokojový
 jednorożec - nosorožec m
 jednosilnikowy - jednomotorový
-Jędrzej - Ondřej m | Andrej m
+Jędrzej - Ondřej m, Andrej m
 jedwab - hedvábí n
 jego - jeho
 jej - její
@@ -2425,16 +2425,16 @@ Joachim - Jáchym m
 jod - jod
 jodła - jedle
 joga - jóga f
-Jokasta - Iokasté f | Iocaste f
+Jokasta - Iokasté f, Iocaste f
 jon - iont
 Jonasz - Jonáš
 Jordania - Jordánsko
 jordański - jordánský
 Jowisz - Jupiter m
 Jozafat - Jóšafat m
-Józef - Josef m | Jozef m
+Józef - Josef m, Jozef m
 józefinizm - josefinismus m
-Józefowy - Josefův | Jozefův
+Józefowy - Josefův, Jozefův
 Józek - Pepík
 jubiler - klenotník m
 jubilerka - klenotnice f
@@ -2448,28 +2448,28 @@ Jugosławia - Jugoslávie
 Jugosłowianin - Jugoslávec m
 Julia - Julie
 juliański - juliánský
-Juliusz - Julius | Július
+Juliusz - Julius, Július
 juny - mladý
 Jupiter - Jupiter m
 Jur - Jiří m
 Justyna - Justýna
 juta - juta
 jutro - zítra
-Jutrzenka - Jitřenka f | Éós f | Eos f | Aurora f
+Jutrzenka - Jitřenka f, Éós f, Eos f, Aurora f
 już - juž
 -ka - -ka
-kaban - prase n | prasnice f
+kaban - prase n, prasnice f
 kabanina - vepřové n
 kabanos - kabanos m
-kabat - kamarád | kabát m
+kabat - kamarád, kabát m
 kablowy - kabelový
 kabriolet - kabriolet m
 Kabul - Kábul
 kabza - kapsa f
 kac - kocovina f
-kacap - kacap m | blbec m
+kacap - kacap m, blbec m
 Kacper - Kašpar m
-kaczan - blb | blbec
+kaczan - blb, blbec
 kaczątko - káče
 kaczę - káče
 kaczka - kachna f
@@ -2488,13 +2488,13 @@ kajuta - kajuta f
 kajuto - kajuta f
 kakadu - kakadu
 kaktus - kaktus m
-kalafa - nos m | alkoholik m | obličej m | tvář f
+kalafa - nos m, alkoholik m, obličej m, tvář f
 kalafior - květák m
 kałamarz - kalamář m
 kalapitra - hlava f
-kalejdoskop - kaleidoskop m | krasohled m
+kalejdoskop - kaleidoskop m, krasohled m
 kalendarz - kalendář m
-kalifat - chalífát m | kalifát m
+kalifat - chalífát m, kalifát m
 kaliforn - kalifornium
 Kalifornia - Kalifornie f
 kalifornijski - kalifornský
@@ -2502,12 +2502,12 @@ kalina - kalina
 kalkulator - kalkulačka
 kalosz - galoše f
 Kalwaria - Kalvárie f
-kam - kam | kde
+kam - kam, kde
 kamasz - bota
 Kambodża - Kambodža
 kambr - kambrium
 kamczacki - kamčatský
-kameleon - chameleon m | chameleón m
+kameleon - chameleon m, chameleón m
 kamera - kamera
 Kamerun - Kamerun
 kamfora - kafr m
@@ -2526,7 +2526,7 @@ kania - bedla f
 kanion - kaňon m
 kanka - džbánek m
 kantor - směnárna f
-kaolin - kaolín m | kaolin m
+kaolin - kaolín m, kaolin m
 kapcylinder - klobouk m
 kapeć - pneumatika f
 kapeluch - klobouk m
@@ -2537,7 +2537,7 @@ Kapitol - Kapitol m
 kapituła - kapitula f
 kaplica - kaple f
 Kapsztad - Kapské Město
-kapusta - zelí n | peníz m
+kapusta - zelí n, peníz m
 kapusta chińska - čínské zelí
 kara - trest
 karaba - kočka f
@@ -2558,38 +2558,38 @@ karkonoski - krkonošský
 Karkonosze - Krkonoše
 Karlik - Karel
 Karlowe Wary - Karlovy Vary
-karlus - krasavec m | kluk m | chlapec m | hoch m
+karlus - krasavec m, kluk m, chlapec m, hoch m
 karman - peněženka f
 karmelowy - karamelový
-karmić - krmit | živit | kojit
+karmić - krmit, živit, kojit
 karminowy - karmínový
-karnawał - masopust m | karneval m
+karnawał - masopust m, karneval m
 Karol - Karel
 Karolina - Karolína
 karp - kapr m
 Karpaty - Karpaty
-karta pocztowa - korespondenční lístek | pohlednice
+karta pocztowa - korespondenční lístek, pohlednice
 kartel - kartel m
-kartka - korespondenční lístek | pohlednice
-kartkówka - písemka f | prověrka f | přepadovka
+kartka - korespondenční lístek, pohlednice
+kartkówka - písemka f, prověrka f, přepadovka
 kartofel - brambor
 kartoflany - bramborový
 kartoflisko - brambořiště n
 karuzela - kolotoč m
 Karwat - Chorvát m
-karykatura - karikatura f | karikování n
+karykatura - karikatura f, karikování n
 karykaturzysta - karikaturista m
 karzeł - trpaslík m
-Kasandra - Kasandra f | Kassandra f
+Kasandra - Kasandra f, Kassandra f
 kaseta magnetofonowa - audiokazeta f
 kasjer - pokladník m
-Kassandra - Kasandra f | Kassandra f
+Kassandra - Kasandra f, Kassandra f
 kastylijski - kastilský
 kasza jaglana - jáhly
 kaszalot - vorvaň m
 kaszel - kašel m
 kasztan - jírovec m
-kasztan jadalny - kaštanovník jedlý m | kaštanovník setý m | jedlý kaštan m
+kasztan jadalny - kaštanovník jedlý m, kaštanovník setý m, jedlý kaštan m
 kasztanowiec - jírovec m
 kasztanowy - kaštanový
 kaszubski - kašubština
@@ -2612,15 +2612,15 @@ Katmandu - Káthmándú
 katolicki - katolický
 Katowice - Katovice
 katus - puštík
-Katyń - Katyň m | Katyňský masakr
+Katyń - Katyň m, Katyňský masakr
 katyński - katyňský
 kaukaski - kavkazský
 Kaukaz - Kavkaz
-kawał - kousek | kus m
-kawałek - kousek | kus m
-kawiarka - moka | Moka Express | veka
+kawał - kousek, kus m
+kawałek - kousek, kus m
+kawiarka - moka, Moka Express, veka
 kawiarnia - kavárna f
-kawka - matka f | jeptiška f
+kawka - matka f, jeptiška f
 kawowiec - kávovník m
 kawowy - kávový
 kazachski - kazaština
@@ -2628,7 +2628,7 @@ Kazachstan - Kazachstán
 kazalnica - kazatelna
 kazatelnica - kazatelna
 każdy - každý
-kazeina - kasein | kazeín
+kazeina - kasein, kazeín
 Kazimierz - Kazimír
 kaznodzieja - kazatel m
 kciuk - palec m
@@ -2645,10 +2645,10 @@ khmerski - khmerština
 kibuc - kibuc m
 kicz - kýč m
 kiecka - sukně f
-kiedy - kdy | když | pokud
+kiedy - kdy, když, pokud
 kiedyś - někdy
 kiejda - kapsa f
-kiełbasa - salám m | klobása f
+kiełbasa - salám m, klobása f
 kielczyć się - smát se
 kiepeła - hlava f
 kierat - žentour
@@ -2658,25 +2658,25 @@ kierunek - směr m
 kieszeń - kapsa f
 Kietrz - Ketř
 Kigali - Kigali
-kij - patro | podlaží n
+kij - patro, podlaží n
 kijanka - pulec m
-kij hokejowy - hokejka f | hůl f
+kij hokejowy - hokejka f, hůl f
 Kijów - Kyjev
 kilogram - kilogram m
 kilometr - kilometr m
-kimono - spánek m | sen m
-kino - kino n | biograf | kinematograf | bio | biák
-kinol - nos m | alkoholik m
+kimono - spánek m, sen m
+kino - kino n, biograf, kinematograf, bio, biák
+kinol - nos m, alkoholik m
 Kinszasa - Kinshasa
-kintop - kino n | biograf | kinematograf | bio | biák
-Kira - Kira f | Kyra f
+kintop - kino n, biograf, kinematograf, bio, biák
+Kira - Kira f, Kyra f
 kirchóf - hřbitov
 kireja - kabát m
 kirgiski - kyrgyzština
 Kirgistan - Kyrgyzstán
 Kiribati - Kiribati
 kis - štěrk m
-kiszka - střevo n | mléko n
+kiszka - střevo n, mléko n
 Kiszyniów - Kišiněv
 kit - lež f
 kiur - curium
@@ -2697,7 +2697,7 @@ klara - Slunce n
 Klara - Klára
 klarnet - klarinet m
 kłaść - pokládat
-klatka - klec f | hrudník m
+klatka - klec f, hrudník m
 klatka piersiowa - hrudník m
 klaustrofobia - klaustrofobie
 klecha - černoprdelník m
@@ -2706,8 +2706,8 @@ klekotun - čáp m
 Kleopatra - Kleopatra f
 klerykalizm - klerikalismus m
 klęska - debakl m
-kliber - nos m | alkoholik m
-klient - zákazník m | klient m
+kliber - nos m, alkoholik m
+klient - zákazník m, klient m
 klika - klika f
 klincz - klinč m
 Kłodzko - Kladsko
@@ -2717,13 +2717,13 @@ kłopot - starost f
 klopsztanga - klepadlo
 kłos - klas
 klub - klub m
-kluber - nos m | alkoholik m
+kluber - nos m, alkoholik m
 kluka - nos m
-klupać - hledat | bít
+klupać - hledat, bít
 kłusownik - pytlák m
-kluza - věznice f | vězení n
+kluza - věznice f, vězení n
 knedlik - knedlík
-knefel - knoflík m | tlačitko n
+knefel - knoflík m, tlačitko n
 knipa - kniha f
 knot - knot m
 koala - koala m
@@ -2745,14 +2745,14 @@ kociokwik - kocovina f
 kocioł - kotel
 kocioł parowy - parní kotel
 koczkodan - kočkodan
-koczowniczy - kočovný | kočovnický
+koczowniczy - kočovný, kočovnický
 kod kreskowy - čárový kód
 koja - postel f
 kojo - postel f
 kojot - kojot m
 kokosz - slepice f
-kokoszka - slepice f | slípka zelenonohá
-kokotek - kohoutek m | jeřáb m | výtah m
+kokoszka - slepice f, slípka zelenonohá
+kokotek - kohoutek m, jeřáb m, výtah m
 koks - koks
 kolacja - večeře
 kołacz - koláč m
@@ -2768,14 +2768,14 @@ kolej - železnice f
 kolejarz - železničář m
 kolejka - fronta f
 kolejowy - železniční
-kolekta - kolekta | vstupní modlitba f
+kolekta - kolekta, vstupní modlitba f
 kolektor - kolektor
 kolendra - koriandr m
 koleś - muž m
 koleżanka - kolegyně f
 koleżeński - kamarádský
 koliber - kolibřík
-koło - kruh m | kolo n
+koło - kruh m, kolo n
 kołodziej - kolář m
 koło garncarskie - hrnčířský kruh m
 Kolombo - Kolombo
@@ -2812,7 +2812,7 @@ komuch - komunista m
 komunista - komunista m
 komunistka - komunistka f
 komunistyczny - komunistický
-koń - kůň | jezdec m | penis m | pyj m
+koń - kůň, jezdec m, penis m, pyj m
 kóń - kůň
 Konakry - Conakry
 koncentrować - soustředat se
@@ -2824,10 +2824,10 @@ kończyć - končit
 kończyna - končetina f
 kondensacja - kondenzace f
 kondensator - kondenzátor m
-kondolencje - kondolence | soustrast
+kondolencje - kondolence, soustrast
 konduktor - průvodčí m
 konduktorka - průvodčí f
-kondygnacja - patro | podlaží n
+kondygnacja - patro, podlaží n
 konfesjonał - zpovědnice f
 konflikt - konflikt
 konformizm - konformismus m
@@ -2841,7 +2841,7 @@ konkordat - konkordát
 konny - koňský
 konopny - konopný
 konsekwencja - důsledek m
-Konstancja - Konstancie f | Kostnice
+Konstancja - Konstancie f, Kostnice
 konstelacja - souhvězdí
 konsumpcja - spotřeba
 kontekst - kontext m
@@ -2851,8 +2851,8 @@ kontrowersyjny - kontroverzní
 kontrreformacja - protireformace f
 kontrrewolucja - kontrarevoluce
 kontrwywiad - kontrarozvědka f
-kontur - kontura | obrys
-kontynent - kontinent | světadíl m
+kontur - kontura, obrys
+kontynent - kontinent, světadíl m
 konwalia - konvalinka
 kopalnia - důl m
 koparka - rypadlo
@@ -2866,28 +2866,28 @@ kopuła - kopule f
 kora - kůra f
 koral - korál
 Koran - Korán m
-korbol - dýně f | panděro
+korbol - dýně f, panděro
 Korea - Korea
 Koreańczyk - Korejec
 Koreanka - Korejka
 Koreańska Republika Demokratyczna - Korejská lidově demokratická republika
-koreański - korejský | korejština f
+koreański - korejský, korejština f
 Korea Północna - Severní Korea
 Korea Południowa - Jižní Korea
 korek - dopravní zácpa
 korona - koruna f
 Koror - Koror
-korrida - korida f | býčí zápasy
+korrida - korida f, býčí zápasy
 Korsyka - Korsika f
 korupcja - korupce f
 korytarz - chodba f
 kos - kos m
 Kos - Kós
 kosa - nůž m
-kość - kost f | kostka f
+kość - kost f, kostka f
 kościół - kostel m
-Kościół - církev f | náboženská společnost f
-kosmita - mimozemšťan m | ufon m | vesmířan m
+Kościół - církev f, náboženská společnost f
+kosmita - mimozemšťan m, ufon m, vesmířan m
 kosmitka - mimozemšťanka f
 kosmodrom - kosmodrom
 kosmopolita - kosmopolita m
@@ -2911,23 +2911,23 @@ koza - koza f
 kozioł - kozel
 kozioł ofiarny - obětní beránek m
 Koziorożec - Kozoroh m
-koźlak - kozák m | klouzek obecný m
+koźlak - kozák m, klouzek obecný m
 koźlarz - kozák m
 koźlarz babka - kozák březový m
 koźlarz czerwony - křemenáč osikový m
 kozłek - kozlík
-kozłek lekarski - baldrián | čertikus | kočičí kořen | kozlík lékařský | odolen
+kozłek lekarski - baldrián, čertikus, kočičí kořen, kozlík lékařský, odolen
 krab - krab m
 krach - krach
 Kraina - Kraňsko
 kraj - stát
 krajać - krást
 krajobraz - krajina f
-Kraj Sudetów - Sudety | Sudetsko | Sudetská země | pohraniční území
+Kraj Sudetów - Sudety, Sudetsko, Sudetská země, pohraniční území
 Kraków - Krakov
 krakowski - krakovský
-kran - kohoutek m | jeřáb m | výtah m
-krancek - kousek | kus m
+kran - kohoutek m, jeřáb m, výtah m
+krancek - kousek, kus m
 kraść - krást
 krasula - kráva f
 kratek - kostka f
@@ -2935,10 +2935,10 @@ kratka - kostka f
 krawat - oprátka f
 krawatka - oprátka f
 kreda - křída f
-kredyt - kredit m | úvěr m
+kredyt - kredit m, úvěr m
 krem - krém m
 krematorium - krematorium n
-krepel - kobliha f | koblih m
+krepel - kobliha f, koblih m
 kret - krtek
 Kreta - Kréta f
 krętogłów - krutihlav
@@ -2953,7 +2953,7 @@ krokus - krokus
 krokus spiski - šafrán spišský m
 król - král m
 królestwo - království n
-królewicz - králevic m | kralevic m
+królewicz - králevic m, kralevic m
 królewski - královský
 królowa - královna f
 kronika - kronika f
@@ -2962,7 +2962,7 @@ kropla - kapka f
 krople - kapka f
 krowa - kráva f
 krowa, która dużo ryczy, mało mleka daje - pes, který štěká, nekouše
-krowi - kraví | kravský
+krowi - kraví, kravský
 krtań - hrtan
 krucyfiks - krucifix
 kruczy - havraní
@@ -2974,7 +2974,7 @@ krwotok - krvácení
 krybuny - kříž m
 krykiet - kriket
 Krym - Krym m
-kryminał - věznice f | vězení n
+kryminał - věznice f, vězení n
 krypta - krypta f
 kryptografia - kryptografie f
 krypton - krypton m
@@ -3006,7 +3006,7 @@ księgarnia - knihkupectví n
 Księga Zachariasza - Kniha Zacharjáš f
 księgozbiór - knihovna f
 księżniczka - princezna f
-księżyc - měsíc m | luna f | měsíček m
+księżyc - měsíc m, luna f, měsíček m
 Księżyc - Měsíc m
 księżycowy - měsíčný
 ksylitol - xylitol m
@@ -3045,14 +3045,14 @@ kura - slepice f
 kurhan - kurhan
 kurier - kurýr m
 kurierka - kurýrka f
-kurka - slípka zelenonohá | slepice f
+kurka - slípka zelenonohá, slepice f
 kurka wodna - slípka zelenonohá
-kurki - slípka zelenonohá | slepice f
+kurki - slípka zelenonohá, slepice f
 kurkuma - kurkuma f
 kurtyna - opona f
 kurwa - kurva
 kusić - strašit
-kuśka - penis m | pyj m
+kuśka - penis m, pyj m
 kuskus - kuskus
 kusy - ďábel m
 kusza - kuše f
@@ -3086,14 +3086,14 @@ Kwietosława - Květoslava f
 Łabędź - Labuť f
 łabędzi śpiew - labutí píseň
 labializacja - labializace
-lać - lít | smát se
+lać - lít, smát se
 łacina - latina
 łacny - snadný
-lacz - hlava f | penis m | pyj m | policista m
+lacz - hlava f, penis m, pyj m, policista m
 ład - pořádek
 ładnie - hesky
 ładunek - bombička f
-laga - patro | podlaží n
+laga - patro, podlaží n
 laguna - laguna
 lajbik - podprsenka f
 łajno - trus m
@@ -3101,20 +3101,20 @@ lajbik - podprsenka f
 lakier do paznokci - lak na nehty
 lakmus - lakmus m
 laktaza - laktáza f
-lala - panenka f | loutka f | holka f | dívka f | přítelkyně f
-lalka - panenka f | loutka f
+lala - panenka f, loutka f, holka f, dívka f, přítelkyně f
+lalka - panenka f, loutka f
 łamać sobie głowę - lámat si hlavu
 łamaniec językowy - jazykolam
 łamistrajk - stávkokaz
 lampa - lampa f
 lampart - levhart m
 łańcuch pokarmowy - potravní řetězec m
-land - vesnice | ves f
+land - vesnice, ves f
 łania - laň f
 lantan - lanthan m
 Laos - Laos
 laotański - laoština
-łapać - lapat | chytat
+łapać - lapat, chytat
 laparotomia - laparotomie f
 łapka - past f
 Laponia - Laponsko n
@@ -3127,14 +3127,14 @@ laski - lašský
 laskonogi - tenkonohý
 Laszczyzna - Lašsko n
 lat - rok m
-lata - rok m | sukně f
+lata - rok m, sukně f
 latać - létat
 latarnia morska - maják m
 latawiec - drak
 lato - léto n
 łatwo - snadno
 łatwy - snadný
-latynizm - latinismus m | latinizmus m
+latynizm - latinismus m, latinizmus m
 lawenda - levandule f
 lawendowy - levandulový
 ławka - lavice f
@@ -3146,18 +3146,18 @@ lebera - jitrnice
 leberka - jitrnice
 leberwuszt - paštika
 Lech - Lech m
-łechtaczka - poštěváček | klitoris
+łechtaczka - poštěváček, klitoris
 lecieć - letět
 lecz - ale
 leczniczy - léčivý
-Leda - Léda f | Leda f
+Leda - Léda f, Leda f
 lędźwiowy - bederní
 Legnica - Lehnice
 lekarz - lékař m
 lekarz choroby chorób kobiecych - ženský lékař
-lekka atletyka - atletika f | lehká atletika f
+lekka atletyka - atletika f, lehká atletika f
 lekki - lehký
-lekkoatletyka - atletika f | lehká atletika f
+lekkoatletyka - atletika f, lehká atletika f
 leksykologia - lexikologie f
 lemur - lemur
 len - len m
@@ -3171,7 +3171,7 @@ leopard - levhart m
 lepidopterologia - lepidopterologie f
 lepszy rydz niż nic - lepší něco než nic
 lepszy wróbel w garści niż gołąb na dachu - lepší vrabec v hrsti nežli holub na střeše
-lesbijka - lesbička f | lesba f | lesbičanka f
+lesbijka - lesbička f, lesba f, lesbičanka f
 lesisty - lesnatý
 leśny - partyzán m
 Lesotho - Lesotho n
@@ -3203,9 +3203,9 @@ Lidia - Lýdie
 likier - likér m
 likwidacja - likvidace
 likwidować - likvidovat
-lila - liliový | lila | lilový | šeříkový
+lila - liliový, lila, lilový, šeříkový
 lilak - šeřík m
-liliowy - liliový | lila | lilový | šeříkový
+liliowy - liliový, lila, lilový, šeříkový
 Lima - Lima f
 limfocyt - lymfocyt
 linie lotnicze - aerolinky
@@ -3227,7 +3227,7 @@ listopadowy - listopadový
 lit - lithium n
 litania - litanie
 litera - písmeno n
-literacki - literární | spisovný
+literacki - literární, spisovný
 litewski - litevština
 litkup - litkup
 Litomierzyce - Litoměřice
@@ -3243,33 +3243,33 @@ lizus - patolízal m
 lizuska - patolízalka f
 Loara - Loira
 łobuz - darebák
-lód - led m | zmrzlina f
+lód - led m, zmrzlina f
 lodowiec - ledovec m
 lodówka - lednička f
 łodyga - stonek m
-łódź - člun | loď
+łódź - člun, loď
 Łódź - Lodž
 logarytm - logaritmus m
 -logia - -logie
 logiczny - logický
-lojalność - loajalita f | loajálnost f
+lojalność - loajalita f, loajálnost f
 lokalizacja - lokalizace f
-lokalny - lokální | místní
-lokatiwus - lokativ m | lokál m | šestý pád m
+lokalny - lokální, místní
+lokatiwus - lokativ m, lokál m, šestý pád m
 łokieć - loket m
 lokomotywa - lokomotiva f
 lokówka - kulma
-lola - holka f | dívka f | přítelkyně f | patro | podlaží n
+lola - holka f, dívka f, přítelkyně f, patro, podlaží n
 Lombardia - Lombardie
 Londyn - Londýn m
 londyńczyk - Londýňan
-łopatologicznie - polopaticky | polopatě
+łopatologicznie - polopaticky, polopatě
 lorens - lawrencium n
 lori - lori
 lornetka - dalekohled m
 los - osud m
 łoś - los m
-łososiowy - lososí | lososový
+łososiowy - lososí, lososový
 łosprawiać - vyprávět
 łotewski - lotyština
 lotnisko - letiště
@@ -3294,26 +3294,26 @@ ludność - populace f
 Ludwik - Ludvík
 łudzikwiat - duben m
 Łukasz - Lukáš m
-Luksemburg - Lucembursko | Lucemburk
+Luksemburg - Lucembursko, Lucemburk
 luksus - luxus m
 lulka - cigareta f
 lumbago - ústřel m
-luna - luna f | měsíc m | měsíček m
+luna - luna f, měsíc m, měsíček m
 lunapark - lunapark m
-lunatyk - lunatik m | náměsíčník m | somnambul m
-luńt - kousek | kus m | pes m
+lunatyk - lunatik m, náměsíčník m, somnambul m
+luńt - kousek, kus m, pes m
 lupa - lupa f
 łupież - lupy
 Lusaka - Lusaka
-lustro - zrcadlo | zrcadlovka f
+lustro - zrcadlo, zrcadlovka f
 lustrzanka - zrcadlovka f
-łuszczyca - psoriáza | lupénka
+łuszczyca - psoriáza, lupénka
 lutet - lutecium n
 lutnia - loutna f
 Lutnia - Lyra f
 lutować - bít
 lutowy - únorový
-luty - únor m | studený
+luty - únor m, studený
 Łużyce - Lužice
 lwia część - lví podíl
 lwiatka - lvíček
@@ -3324,7 +3324,7 @@ Lwów - Lvov
 łysy - plešatý
 łza - slza f
 łża - lež f
-mać - matka | máti | máma | maminka | mamička | mamka | mutra f
+mać - matka, máti, máma, maminka, mamička, mamka, mutra f
 Macedonia - Makedonie
 macedoński - makedonština
 macica - děloha
@@ -3337,12 +3337,12 @@ mączny - moučný
 Madagaskar - Madagaskar
 Madera - Madeira
 Madryt - Madrid
-madziaryzm - hungarismus m | hungarizmus m
+madziaryzm - hungarismus m, hungarizmus m
 MAEA - MAAE
 mafia - mafie f
 mafijny - mafiánský
 mafioso - mafián m
-Magdalena - Magdalena f | Magdaléna f
+Magdalena - Magdalena f, Magdaléna f
 magiczny - magický
 magiel - mandl m
 magnetofon - magnetofon m
@@ -3379,7 +3379,7 @@ malina - malina
 malinka - cucflek
 Małopolska - Malopolsko
 malować - malovat
-małpa - opičák m | opice f | zavináč m
+małpa - opičák m, opice f, zavináč m
 małpi - opičí
 Malta - Malta
 mały - malý
@@ -3387,9 +3387,9 @@ Mały Lew - Malý lev m
 mały palec - malíček m
 małż - mlž m
 małżeński - manželský
-małżonka - manželka f | žena
-mam - máma | maminka | mamička | mamka | mutra f
-mama - máma | maminka | mamička | mamka | mutra f | tchyně f
+małżonka - manželka f, žena
+mam - máma, maminka, mamička, mamka, mutra f
+mama - máma, maminka, mamička, mamka, mutra f, tchyně f
 mamka - kojná f
 mammografia - mamografie f
 mamut - mamut
@@ -3401,7 +3401,7 @@ mangan - mangan m
 mango - mango
 maniak - maniak
 Manila - Manila
-maniurka - holka f | dívka f | přítelkyně f
+maniurka - holka f, dívka f, přítelkyně f
 mańkut - levák m
 manometr - manometr
 mantel - kabát m
@@ -3435,19 +3435,19 @@ Maryja - Marie f
 Maryjka - Marie f
 maryjny - mariánský
 marynarka wojenna - válečné loďstvo
-marynarz - námořník m | lodník m
+marynarz - námořník m, lodník m
 marzec - březen m
 marzenie - sen m
-marzenie senne - spánek m | sen m
+marzenie senne - spánek m, sen m
 marzyć - snít
 masajski - masajský
 masakra - masakr m
 masa krytyczna - kritické množství n
-masara - moucha f | motýlek m
+masara - moucha f, motýlek m
 masaż - masáž f
 maść - mast f
 Maseru - Maseru
-maska - obličej m | tvář f
+maska - obličej m, tvář f
 Maskat - Maskat m
 maskowy - maškarní
 maślak pstry - klouzek strakoš m
@@ -3459,15 +3459,15 @@ masło - máslo n
 mastaba - mastaba
 maszyna do pisania - psací stroj m
 maszyna do szycia - šicí stroj m
-maszynista - strojvedoucí | strojvůdce
+maszynista - strojvedoucí, strojvůdce
 matematyczny - matematický
-matematyka - matematika f | matika f
+matematyka - matematika f, matika f
 Matiasz - Matěj m
-matka - matka | máti | máma | maminka | mamička | mamka | mutra f
+matka - matka, máti, máma, maminka, mamička, mamka, mutra f
 matka chrzestna - kmotra f
 matkojebca - mamrd m
 matriarchat - matriarchát
-matros - námořník m | lodník m
+matros - námořník m, lodník m
 matura - maturita f
 maturzysta - maturant m
 maturzystka - maturantka f
@@ -3475,7 +3475,7 @@ Matuzal - Metuzalém m
 Matuzalem - Metuzalém m
 Mauretania - Mauritánie
 Mauritius - Mauricius
-mazak - obličej m | tvář f
+mazak - obličej m, tvář f
 mazojen - majonéza f
 Mbabane - Mbabane
 mdłość - slabost f
@@ -3492,7 +3492,7 @@ Medard - Medard m
 Medardowy - Medardův
 mediewalny - středověký
 Mediolan - Milán m
-mędrzec - mudrc m | mudřec m
+mędrzec - mudrc m, mudřec m
 medyk - lékař m
 męgla - mandl m
 meitner - meitnerium n
@@ -3506,14 +3506,14 @@ melatonina - melatonin
 Melchior - Melichar m
 melizmat - melisma f
 melodyjny - melodický
-Memfis - Memfis | Mennofer
+Memfis - Memfis, Mennofer
 Men - Mohan
 mendel - mandel m
 mendelew - mendelevium n
 menora - menora f
 mentalista - mentalismus m
 mentalizm - mentalismus m
-merdać - mýlit | plést
+merdać - mýlit, plést
 Merkury - Merkur m
 Mesjasz - Mesiáš m
 męski - pánský
@@ -3526,7 +3526,7 @@ meteor - meteor
 meteorologiczny - meteorologický
 meteoryt - meteorit
 metoda - metoda f
-Metody - Metoděj m | Metod m | Metud m
+Metody - Metoděj m, Metod m, Metud m
 metodyjski - metodějský
 metr kwadratowy - metr čtvereční
 metro - metro
@@ -3540,7 +3540,7 @@ mgławica - mlhovina f
 mgr - Mgr.
 miałki - povrchní
 Miami - Miami n
-mianownik - nominativ m | první pád m | jmenovatel m
+mianownik - nominativ m, první pád m, jmenovatel m
 miasto - město
 miasto stołeczne - hlavní město
 miau - mňau
@@ -3559,7 +3559,7 @@ mieć nosa - mít nos
 mieć olej w głowie - mít něco v hlavě
 mieć po dziurki w nosie - mít po krk
 mieć powyżej uszu - mít po krk
-mieć w mały małym palcu - mít v malíčku | mít v malíku
+mieć w mały małym palcu - mít v malíčku, mít v malíku
 miecz - meč m
 miecz Damoklesa - Damoklův meč
 Mieczysława - Mečislava f
@@ -3569,21 +3569,21 @@ miedźwiedź - medvěd
 Międzynarodowa Agencja Energii Atomowej - Mezinárodní agentura pro atomovou energii
 Międzyrzec Podlaski - Podleské Meziříčí
 miejsce - místo n
-miejscownik - lokativ m | lokál m | šestý pád m
-miejska legenda - současná pověst | městská pověst
+miejscownik - lokativ m, lokál m, šestý pád m
+miejska legenda - současná pověst, městská pověst
 miękkość - měkkost f
 mielcuch - pivo m
 miernik - měrka
 mieśćce - místo n
 mieśce - místo n
-miesiąc - měsíc m | luna f | měsíček m
+miesiąc - měsíc m, luna f, měsíček m
 miesiąc miodowy - líbánky
-miesiączek - měsíc m | luna f | měsíček m
+miesiączek - měsíc m, luna f, měsíček m
 miesięczny - měsíčný
 mięsień - sval
 mięsień krawiecki - sval krejčovský m
-mięsopust - masopust m | karneval m | fašank m | fašangy | ostatky
-mięsopustnik - únor m | studený
+mięsopust - masopust m, karneval m, fašank m, fašangy, ostatky
+mięsopustnik - únor m, studený
 mięsożerca - masožravec m
 mięsożerny - masožravý
 mieszkać - bydlet
@@ -3599,8 +3599,8 @@ mikrocefalia - mikrocefalie f
 mikrofon - mikrofon
 Mikronezja - Mikronésie
 mikroskop - mikroskop
-Mila - Emílie | Emilia
-milczeć jak grób - mlčet jako hrob | mlčet jako němý
+Mila - Emílie, Emilia
+milczeć jak grób - mlčet jako hrob, mlčet jako němý
 Milena - Milena f
 miligram - miligram m
 milimetr - milimetr m
@@ -3610,16 +3610,16 @@ militaryzm - militarismus m
 miłość - láska f
 miłosierdzie - milosrdenství n
 miłośnica - milenka f
-mimo - kruh m | kolo n
+mimo - kruh m, kolo n
 mimowolny - mimovolný
 minaret - minaret m
 Minerwa - Minerva f
 minimalista - minimalista m
 ministra - ministryně f
 ministrant - ministrant m
-Minos - Minos m | Minós m
+Minos - Minos m, Minós m
 Mińsk - Minsk
-miód - med | medovina f
+miód - med, medovina f
 miodownik - medovník m
 miodowy - medový
 miód pitny - medovina f
@@ -3633,7 +3633,7 @@ mistyk - mystik m
 mitologia - bájesloví
 mleko - mléko n
 młody - mladý
-młodzie - kvasinka | droždí
+młodzie - kvasinka, droždí
 młodziec - nemluvně n
 młot - kladivo n
 młotek - kladivo n
@@ -3645,12 +3645,12 @@ mobilizacja - mobilizace f
 moc - moc f
 móc - moct
 model - model
-modelka - manekýnka f | modelka f
+modelka - manekýnka f, modelka f
 modlitewnik - modlitby
 modlitwa - modlitba f
 modny - módní
-modrakowy - modrý | blankytný
-modry - modrý | blankytný
+modrakowy - modrý, blankytný
+modry - modrý, blankytný
 modrzew - modřín
 modrzewnica - kyhanka f
 modrzyć - barvit
@@ -3668,27 +3668,27 @@ Monako - Monako
 moneta - mince
 Mongolia - Mongolsko
 mongolski - mongolština
-monocykl - jednokolka f | monocykl m
+monocykl - jednokolka f, monocykl m
 monofizytyzm - monofyzitismus
-monogamiczny - monogamní | monogamický
+monogamiczny - monogamní, monogamický
 monografia - monografie f
 monopol - monopol m
 Monrovia - Monrovia
 monstrancja - monstrance
 Montevideo - Montevideo
-mora - přízrak | duše | duch
+mora - přízrak, duše, duch
 Morawa - Morava f
 morawski - moravský
 Morawy - Morava
-mord - vražda f | mord m
-morderstwo - vražda f | mord m
-mordować - zabít | přibít
+mord - vražda f, mord m
+morderstwo - vražda f, mord m
+mordować - zabít, přibít
 morela - meruňka f
 Morfeusz - Morfeus m
 morkwa - mrkev
 Moroni - Moroni
 mors - mrož m
-morski - mořský | námořní
+morski - mořský, námořní
 morze - moře n
 Morze Adriatyckie - Jaderské moře
 Morze Bałtyckie - Baltské moře
@@ -3715,19 +3715,19 @@ mowa jest srebrem, a milczenie złotem - mluviti stříbro, mlčeti zlato
 mówić - mluvit
 mozaika - mozaika f
 Mozambik - Mosambik
-może - možná | snad | moct
+może - možná, snad, moct
 mózg - mozek m
 możliwość - možnost f
 mrowisko - mraveniště n
 mrówka - mravenec m
 mrównik - hrabáč kapský (hrabáč takaru) m
 mruczeć - příst
-Ms - lokativ m | lokál m | šestý pád m
+Ms - lokativ m, lokál m, šestý pád m
 MSZ - MZV
 msza - mše
 mszał - misál m
 mszalny - mešní
-mucha - moucha f | motýlek m
+mucha - moucha f, motýlek m
 muchomor - muchomůrka f
 muchomór - muchomůrka f
 muchomor cytrynowy - muchomůrka citrónová f
@@ -3748,7 +3748,7 @@ muraszka - mravenec m
 musieć - muset
 muślin - mušelín m
 musztarda - hořčice
-muza - Múza f | múza f
+muza - Múza f, múza f
 mużyk - muž m
 muzyka - hudba f
 my - my
@@ -3756,8 +3756,8 @@ mydło - mýdlo n
 myjna - ofina f
 mykita - liška f
 mykologia - mykologie f
-mylić - mýlit | plést
-myrdyrda - jíška f | zásmažka f | zápražka f
+mylić - mýlit, plést
+myrdyrda - jíška f, zásmažka f, zápražka f
 myrmekologia - myrmekologie f
 mysikrólik - králíček
 myśleć - myslet
@@ -3765,14 +3765,14 @@ mysz - myš
 Myszka Miki - Myšák Mickey m
 myszoskoczek - pískomil m
 myszy tańcują, gdy kota nie czują - když není kocour doma, myši mají pré
-N - instrumentál m | sedmý pád m
+N - instrumentál m, sedmý pád m
 nabój - bombička f
-naciskać - mačkat | tisknout
+naciskać - mačkat, tisknout
 nacjonalista - nacionalista m
 nacjonalizować - znárodňovat
 naczyniak - angiom
 naczyniak krwionośny - hemangiom
-naczynie - nádoba | nádobí
+naczynie - nádoba, nádobí
 naczyniowy - cévní
 nadawca - odesílatel m
 naddunajski - podunajský
@@ -3803,12 +3803,12 @@ na pewno - určitě
 napisy końcowe - závěrečné titulky
 napiwek - spropitné n
 napletek - předkožka
-naprany - opilý | opilec m
+naprany - opilý, opilec m
 naprawa - oprava
 naprawdę - opravdu
 na przykład - například
-naraz - naráz | najednou
-na razie - zatím | zatím!
+naraz - naráz, najednou
+na razie - zatím, zatím!
 narba - jizva f
 narciarski - lyžařský
 narciarz - lyžař m
@@ -3816,7 +3816,7 @@ narkomanka - narkomanka f
 narkotyk - droga f
 narodowy socjalizm - nacionální socialismus m
 narychtować - připravit
-narzędnik - instrumentál m | sedmý pád m
+narzędnik - instrumentál m, sedmý pád m
 Nassau - Nassau
 nastolatek - teenager
 na sto procent - určitě
@@ -3838,11 +3838,11 @@ Nawakszut - Nuakšott
 nawet - dokonce
 nawilżać - hydratovat
 nawyk - zvyk m
-nazad - zpět | zpátky
+nazad - zpět, zpátky
 Nazaret - Nazaret m
 na zdrowie - na zdraví
-nazista - nacista m | nácek m
-nazod - zpět | zpátky
+nazista - nacista m, nácek m
+nazod - zpět, zpátky
 nazwisko - příjmení n
 Ndżamena - Ndžamena
 neandertalczyk - neandertálec m
@@ -3859,25 +3859,25 @@ Nepal - Nepál m
 neptun - neptunium n
 Neptun - Neptun m
 nerwowy - nervózní
-nestorianizm - nestoriánství n | nestorianismus m
+nestorianizm - nestoriánství n, nestorianismus m
 neurobiologia - neurověda f
 neurotoksyna - neurotoxin m
 neutrino - neutrino
 neutron - neutron
-ni - ný | ani | ne
+ni - ný, ani, ne
 niacyna - niacin
 Niamey - Niamey
 nic - nic
 nić Ariadny - Ariadnina nit f
 nicielnica - nitěnka f
 nicnierobienie - nicnedělání
-Niderlandy - Nizozemsko n | Holandsko n
+Niderlandy - Nizozemsko n, Holandsko n
 nie - ne
 niebezpieczeństwo - nebezpečí n
-niebieski - modrý | blankytný
+niebieski - modrý, blankytný
 niebieskofioletowy - modrofialový
-niebiosa - nebe | nebesa
-niebo - nebe | nebesa
+niebiosa - nebe, nebesa
+niebo - nebe, nebesa
 nieboszczyk - nebožtík m
 niech - nechť
 niechętnie - nerad
@@ -3908,7 +3908,7 @@ Niemen - Němen
 Niemiec - Němec m
 nie mieć - ne
 Niemiecka Republika Demokratyczna - Německá demokratická republika
-niemiecki - německý | němčina
+niemiecki - německý, němčina
 Niemka - Němka f
 niemowlę - nemluvně n
 niemożliwy - nemožný
@@ -3916,7 +3916,7 @@ nieodwracalny - nevratný
 nieoficjalny - neoficiální
 nieostrożny - neopatrný
 niepoczytalność - nepříčetnost f
-niepodległość - nezávislost f | samostatnost f
+niepodległość - nezávislost f, samostatnost f
 niepodważalny - nevyvratitelný
 niepokalane poczęcie - neposkvrněné početí n
 nieposłuszny - neposlušný
@@ -3925,7 +3925,7 @@ nieprawda - nepravda f
 nieprzemakalny - nepromokavý
 nieprzewidywalny - nepředvídatelný
 niereformowalny - nereformovatelný
-nierówność - nerovnice f | nerovnost f
+nierówność - nerovnice f, nerovnost f
 nieruchomość - nemovitost
 nie samym chlebem człowiek żyje - niejenom chlebem živ je člověk
 nieść - nést
@@ -3934,13 +3934,13 @@ nieskończony - nekonečný
 niestety - bohužel
 nieszczelny - netěsný
 niewdzięcznik - nevděčník m
-niewdzięczność - nevděk m | nevděčnost f
+niewdzięczność - nevděk m, nevděčnost f
 niewdzięczny - nevděčný
 niewiasta - žena f
 niewiastka - snacha f
 niewinny - nevinný
 niewolniczy - otrocký
-nie wszystko złoto, co się świeci - není všechno zlato co se třpytí | navrch huj, vespod fuj
+nie wszystko złoto, co się świeci - není všechno zlato co se třpytí, navrch huj, vespod fuj
 niewyobrażalny - nepředstavitelný
 niewystarczający - nedostatečný
 niezapominajka - pomněnka f
@@ -3948,8 +3948,8 @@ niezatapialny - nepotopitelný
 niezbędny - nutný
 nieznany - neznámý
 niezniszczalny - nezničitelný
-niezwłocznie - neprodleně | neodkladně
-niezwyciężony - neporazitelný | nepřemožitelný
+niezwłocznie - neprodleně, neodkladně
+niezwyciężony - neporazitelný, nepřemožitelný
 nieżyczliwy - zlomyslný
 nigdy - nikdy
 nigdzie - nikde
@@ -3963,14 +3963,14 @@ nikiel - nikl m
 nikotyna - nikotin m
 Nikozja - Nikósie
 nilowy - nilský
-nim - on | ono
+nim - on, ono
 nimfa - nymfa f
 niob - niob m
 NIP - DIČ n (daňové identifikační číslo)
 ni pies, ni wydra - ani ryba, ani rak
 ni rak, ni ryba - ani ryba, ani rak
 niszczyć - ničit
-niszczyciel - ničitel m | torpédoborec m
+niszczyciel - ničitel m, torpédoborec m
 niż - než
 niża - nížina f
 nizina - nížina f
@@ -3992,7 +3992,7 @@ Norwegia - Norsko
 norweski - norština
 Norweżka - Norka f
 Norymberga - Norimberk m
-nos - nos m | alkoholik m
+nos - nos m, alkoholik m
 nosić - nosit
 nosorożec - nosorožec m
 Nowak - Novák m
@@ -4028,13 +4028,13 @@ obecność - přítomnost f
 obecny - přítomný
 obelisk - obelisk m
 oberżyna - oberžina f
-oberżynowy - lilkový | baklažánový
+oberżynowy - lilkový, baklažánový
 obiad - oběd m
 obiecać - slíbit
 obiecadło - abeceda
 obiecanki cacanki - sliby chyby
 obiekt - objekt m
-obierać - loupat | bít
+obierać - loupat, bít
 oblężenie - obležení n
 obłok - oblak m
 obłuda - pokrytectví n
@@ -4049,7 +4049,7 @@ obrażać - uražet
 obrazić - urazit
 obrotnica - točna f
 obrus - ubrus m
-obrzydliwy - hnusný | odporný
+obrzydliwy - hnusný, odporný
 obrzym - obr m
 obserwować - pozorovat
 obszar chronionego krajobrazu - přírodní park m
@@ -4060,36 +4060,36 @@ Ocean Atlantycki - Atlantský oceán m
 Oceania - Oceánie
 Ocean Indyjski - Indický oceán
 Ocean Spokojny - Tichý oceán m
-oceniać - oceňovat | hodnotit
+oceniać - oceňovat, hodnotit
 ochy i achy - achich ouvej
-ociec - otec | táta | tatínek | taťka | fotr m
+ociec - otec, táta, tatínek, taťka, fotr m
 oczodół - očnice f
 oczywiście - samozřejmě
-od - od | z
+od - od, z
 oda - óda f
 odcień - odstín m
 odcisk palca - otisk prstu
 odczucie - pocit m
-oddech - oddech | oddych
+oddech - oddech, oddych
 oddychać - dýchat
 oddzielić ziarno od plew - oddělit zrno od plev
 oddzielić ziarno od plewy - oddělit zrno od plev
-ode - od | z
-odejmowanie - odčítání | odečítání
+ode - od, z
+odejmowanie - odčítání, odečítání
 Odessa - Oděsa f
 odezwać się - ozvat se
 odkażanie - dezinfekce f
 odkupienie - vykoupení n
 odkurzacz - vysavač
-odmiana - druh m | typ m | rod m | žánr m | varianta f
-odpoczynek - odpočinek m | oddech m
-odpowiadać - odpovídat | vyhovovat
+odmiana - druh m, typ m, rod m, žánr m, varianta f
+odpoczynek - odpočinek m, oddech m
+odpowiadać - odpovídat, vyhovovat
 odpowiedź - odpověď
 odprowadzać - doprovázet
 odra - spalničky
 Odra - Odra
 odtrutka - protijed m
-odwet - odplata f | odveta f | represe f
+odwet - odplata f, odveta f, represe f
 odwieczny - odvěký
 odwiedzać - navštěvovat
 odwiedzić - navštívit
@@ -4098,7 +4098,7 @@ odwrotny - opačný
 odżywka - kondicionér m
 ofiara - oběť f
 oftalmologiczny - oftalmologický
-ognie świętego Elma - Eliášův oheň m | oheň svatého Eliáše m
+ognie świętego Elma - Eliášův oheň m, oheň svatého Eliáše m
 ogniskowa - průvodič m
 ogólniak - gympl m
 ogórek - okurka f
@@ -4109,11 +4109,11 @@ ogrodnik - zahradník m
 ogrodzenie - ohrada
 ogród zoologiczny - zoologická zahrada f
 OIOM - JIP
-ojciec - otec | táta | tatínek | taťka | fotr m
+ojciec - otec, táta, tatínek, taťka, fotr m
 ojciec chrzestny - kmotr m
 ojciec święty - Svatý otec m
 ojczyc - syn
-ojczym - otčím m | nevlastní otec m
+ojczym - otčím m, nevlastní otec m
 ojczyzna - vlast f
 Ojgen - Evžen m
 ojla - sova f
@@ -4126,16 +4126,16 @@ oko - oko n
 okop - příkop
 okostna - okostice f
 okrąg - kruh m
-okrągły - kruhový | kulatý
+okrągły - kruhový, kulatý
 okraść - vykrást
 okręt - loď
 okręt liniowy - řadová loď
 okręt podwodny - ponorka f
-oksza - sekera f | sekyra f
+oksza - sekera f, sekyra f
 oktan - oktan
 okulary - brýle
 okulary przeciwsłoneczne - sluneční brýle
-okulista - oční lékař m | oftalmolog m
+okulista - oční lékař m, oftalmolog m
 okulistyczny - oftalmologický
 okultyzm - okultismus m
 okupant - okupant m
@@ -4151,7 +4151,7 @@ ołów - olovo
 ołówek - tužka f
 ołtarz - oltář m
 Ołtarz - Oltář m
-Olza - Olše | Olza
+Olza - Olše, Olza
 oma - babička f
 Oman - Omán
 omen - omen n
@@ -4172,14 +4172,14 @@ operowy - operní
 Opole - Opolí n
 opona - pneumatika f
 oportunista - oportunista m
-oportunistyczny - oportunistický | oportunný
+oportunistyczny - oportunistický, oportunný
 opowiadać - vyprávět
-oprócz - kromě | mimo
+oprócz - kromě, mimo
 optymalny - optimální
 oraz - a
-orbita - orbita f | očnice f
+orbita - orbita f, očnice f
 orchestrion - orchestrion m
-orchidea - orchidea f | orchidej f
+orchidea - orchidea f, orchidej f
 ordnung - pořádek
 ordynariusz - ordinář m
 ordynator - primář m
@@ -4199,7 +4199,7 @@ ortodoksyjny - ortodoxní
 ortograficzny - pravopisný
 ortoreksja - orthorexie f
 orzech - ořech
-orzeł - orel | žádanka f
+orzeł - orel, žádanka f
 Orzeł - Orel m
 oset - bodlák m
 osiągać - dosáhnout
@@ -4213,9 +4213,9 @@ osm - osmium
 ośmioletni - osmiletý
 osoba - osoba f
 osobliwy - osobitý
-Osobłoga - Osoblaha f | Petrovický potok m (do zbiegu ze strumieniem Muszlow)
+Osobłoga - Osoblaha f, Petrovický potok m (do zbiegu ze strumieniem Muszlow)
 osobłoski - osoblažský
-ostatki - fašank m | fašangy | ostatky
+ostatki - fašank m, fašangy, ostatky
 osteo- - osteo-
 osteoporoza - osteoporóza
 Ostrawa - Ostrava f
@@ -4223,7 +4223,7 @@ ostrężyna - ostružina
 ostrokrzew - cesmína f
 ostrokrzew kolczasty - cesmína ostrolistá f
 ostrosłup - jehlan m
-ostry - ostrý | palivý
+ostry - ostrý, palivý
 ostrzytko - ořezávátko n
 Oświęcim - Osvětim
 oszukańczy - podvodný
@@ -4241,48 +4241,48 @@ owca - ovce f
 owies - oves m
 owłosiony - chlupatý
 owoc - ovoce n
-owocnia - oplodí | perikarp
+owocnia - oplodí, perikarp
 owulacja - ovulace f
-ożarty - opilý | opilec m
+ożarty - opilý, opilec m
 ożyna - ostružina
 pacan - blbec m
 pacha - podpaží n
 pachniarz - nos m
 pachnidło - parfém m
-pacholę - kluk m | chlapec m | hoch m
-paciuk - krysa | potkan
+pacholę - kluk m, chlapec m, hoch m
+paciuk - krysa, potkan
 Pacyfik - Tichý oceán m
 pacynka - maňásek m
 paczek - balík
-pączek - kobliha f | koblih m
+pączek - kobliha f, koblih m
 paczka - balík
 padać - mluvit
 padlinożerca - mrchožrout
 pająk - pavouk m
-pajęcznik - září n | říjen m | listopad m
+pajęcznik - září n, říjen m, listopad m
 pajęczyna - pavučina
 pajucina - pavučina
 Pakistan - Pákistán
 pakli - jestliže
-pała - hlava f | penis m | pyj m | policista m
+pała - hlava f, penis m, pyj m, policista m
 palacz - řidič m
 palant - vůl m
 Palatyn - Palatin m
 Palau - Palau
-pale - hlava f | penis m | pyj m | policista m
+pale - hlava f, penis m, pyj m, policista m
 palec - prst m
-palec wskazujący - ukazovák m | ukazováček m
-paleo- - paleo- | pale- | pal-
+palec wskazujący - ukazovák m, ukazováček m
+paleo- - paleo-, pale-, pal-
 paleontolog - paleontolog m
 paleontologia - paleontologie f
 Palermo - Palermo m
 Palestyna - Palestinská autonomie f
 paliatywny - paliativní
-palić - palit | kouřit
+palić - palit, kouřit
 palić za sobą mosty - spálit za sebou všechny mosty
 Palikir - Palikir
 palindrom - palindrom
-paliowy - světležlutý | světle žlutý
+paliowy - světležlutý, světle žlutý
 pallad - palladium
 pamiątka - památka f
 pamięć - paměť
@@ -4309,7 +4309,7 @@ Papua-Nowa Gwinea - Papua-Nová Guinea
 papuć - bota
 para - vodní pára
 parabola - parabola f
-parafia - fara f | farnost f
+parafia - fara f, farnost f
 parafialny - farní
 parafianka - farnice f
 paragon - paragon
@@ -4319,13 +4319,13 @@ Paramaribo - Paramaribo
 parapet - parapet
 parapetówa - kolaudačka
 parapetówka - kolaudačka
-parasol - deštník m | slunečnik m
+parasol - deštník m, slunečnik m
 Pardubice - Pardubice
 park - park
 parking - parkoviště n
 park krajobrazowy - chráněná krajinná oblast f
 park narodowy - národní park m
-parochija - fara f | farnost f
+parochija - fara f, farnost f
 parodia - parodie f
 parostatek - parník m
 parter - přízemí n
@@ -4336,14 +4336,14 @@ Parys - Paris m
 Paryż - Paříž
 pasjans - pasiáns m
 pasować - slušet
-pasożyt - parazit m | cizopasník m
+pasożyt - parazit m, cizopasník m
 pasta - pasta f
 pasta do zębów - zubní pasta f
 pastylka - tableta f
 pasywny - pasivní
-pasza - paša | krmivo
+pasza - paša, krmivo
 paszcza - tlama f
-paszport - pas | cestovní pas m
+paszport - pas, cestovní pas m
 pasztet - paštika
 pasztet strasburski - foie gras
 pątnik - poutník m
@@ -4375,18 +4375,18 @@ peeling - peeling m
 Pegaz - Pegas m
 peja - veš
 pejoratywny - pejorativní
-pekator - penis m | pyj m
+pekator - penis m, pyj m
 Pekin - Peking
 pełny - plný
 pendżabski - paňdžábský
-penis - penis m | pyj m
+penis - penis m, pyj m
 pensjonat - penzion
 pępek - pupek m
 Pepik - Čech m
 peptyd - peptid m
 peregrynacja - pouť f
 perfumeria - voňavkářství n
-perfumy - parfém m | voňavka f
+perfumy - parfém m, voňavka f
 pergola - pergola f
 perka - brambor
 perkoz - potápka
@@ -4398,7 +4398,7 @@ Peruwiańczyk - Peruánec m
 Peruwianka - Peruánka f
 perykopa - perikopa f
 peryskop - periskop
-pęseta - pinzeta f | pinseta f
+pęseta - pinzeta f, pinseta f
 pestka - pecka f
 pesymista - pesimista
 petronelka - beruška f
@@ -4415,7 +4415,7 @@ piątkowy - páteční
 pić jak szewc - pít jako duha
 piczka - píča f
 pidżama - pyžamo n
-piec - pec | péci
+piec - pec, péci
 pięćdziesięcioletni - padesátiletý
 piechota - pěšky
 pięciobój - pětiboj m
@@ -4431,7 +4431,7 @@ piedestał - piedestal m
 piegża - pěnice
 piekielny - pekelný
 piekło - peklo
-piękność - krasavice f | kráska f
+piękność - krasavice f, kráska f
 pielęgniarka - zdravotní sestra f
 pielgrzym - poutník m
 pielgrzymka - pouť f
@@ -4440,7 +4440,7 @@ pień - kmen m
 pieniądz - peníz m
 pieniński - pieninský
 Pieniny - Pieniny
-pieprzyć - pepřit | mlít | kecat | mrdat | šukat | šoustat | prcat
+pieprzyć - pepřit, mlít, kecat, mrdat, šukat, šoustat, prcat
 pierdnięcie - prd m
 pierdzieć - prdziet
 pieróg - piroh m
@@ -4458,17 +4458,17 @@ pieszo - pěšky
 pięta Achillesa - Achillova pata f
 pięta achillesowa - Achillova pata f
 piętnastoletni - patnáctiletý
-piętro - patro | podlaží n
+piętro - patro, podlaží n
 pietruszka - petržel
 pietruziel - petržel
 pigularz - lékárník m
 pigwa - kdoule
-pijany - opilý | opilec m
+pijany - opilý, opilec m
 pijawa - duha f
 pikawa - srdce
 piksel - pixel
 piła - pila f
-piłka - míč f | balón m
+piłka - míč f, balón m
 piłka nożna - fotbal
 piłkarka - fotbalistka
 piłkarzyki - stolní fotbal m
@@ -4478,20 +4478,20 @@ piołun - pelyněk m
 pion - pěšec m
 pionek - pěšec m
 piorun - blesk
-piosenka - píseň f | písnička f
+piosenka - píseň f, písnička f
 Piotr - Petr m
 Piotra - Petra f
 pipa - píča f
 piramida - pyramida f
 pirat - pirát
 pirenejski - pyrenejský
-piromania - pyromanie f | pyrománie f
+piromania - pyromanie f, pyrománie f
 pirydoksyna - pyridoxin m
 piryt - pyrit m
 pisać - psát
 pisanka - kraslice f
 pisklę - pískle n
-pismo - písmo | abeceda
+pismo - písmo, abeceda
 pistacja - pistácie
 pistolet maszynowy - samopal
 pisuar - pisoár m
@@ -4502,8 +4502,8 @@ piwiarnia - pivnice f
 piwnica - sklep
 piwo - pivo m
 piżama - pyžamo n
-pizda - pizda f | píča f
-pizgać - bít | šukat
+pizda - pizda f, píča f
+pizgać - bít, šukat
 piznąć - uhodit
 pizza - pizza f
 pizzeria - pizzerie f
@@ -4526,7 +4526,7 @@ plaster - náplast
 plastyk - výtvarník m
 płaszcz - kabát m
 płaszczyk - kabátek
-płaszczyzna - plocha f | rovina
+płaszczyzna - plocha f, rovina
 platan - platan m
 plateau - plošina f
 płatek śniegu - sněhová vločka f
@@ -4535,24 +4535,24 @@ plaża - pláž
 plazma - plazma
 plecak - batoh
 plecówka - plec
-Plejady - Plejády | Kuřátka n
+Plejady - Plejády, Kuřátka n
 plejstocen - pleistocén
 plemię - plemeno n
 plemienny - plemenný
-pleść androny - hlasát bludy | kázat bludy
+pleść androny - hlasát bludy, kázat bludy
 pleśń - plíseň
 pliszka - konipas m
 płot - plot m
 pluć - plivat
 płucnica islandzka - pukléřka islandská
 płuco - plíce f
-pług - ruchadlo m | pluh m
+pług - ruchadlo m, pluh m
 pluskolec - znakoplavka
 pluskwiak - ploštice f
-pluton - plutonium m | četa f
+pluton - plutonium m, četa f
 Pluton - Pluto m
 płyn Lugola - Lugolův roztok
-płynny - plynný | likvidní | kapalný | tekutý
+płynny - plynný, likvidní, kapalný, tekutý
 pływać - plavat
 PNA - PSČ
 pobój - bojiště n
@@ -4567,7 +4567,7 @@ pociąg - vlak
 początkowo - zpočátku
 początkowy - počáteční
 poczta - pošta
-pocztówka - korespondenční lístek | pohlednice
+pocztówka - korespondenční lístek, pohlednice
 pocztowy - poštovní
 poczytalność - příčetnost f
 podarunek - dárek m
@@ -4578,8 +4578,8 @@ poddasze - podkroví n
 Podgorica - Podgorica
 podkarpacki - podkarpatský
 podkolanówka - podkolenka f
-podkoszulek - tričko n | nátělník m
-podkoszulka - tričko n | nátělník m
+podkoszulek - tričko n, nátělník m
+podkoszulka - tričko n, nátělník m
 podkowa - podkova f
 Podlasie - Podlesí
 podłoga - podlaha f
@@ -4601,7 +4601,7 @@ poduszka powietrzna - airbag m
 poduszkowiec - vznášedlo n
 podwiązka - podvazek m
 podwozie - podvozek m
-poezja - básnictví n | poezie f
+poezja - básnictví n, poezie f
 poganka - pohanka
 pogaństwo - pohanství n
 pogoda - počasí n
@@ -4611,7 +4611,7 @@ poić - pojit
 pojazd - vozidlo n
 pojedynek - souboj m
 pojutrze - pozítří
-pokój - mír m | pokoj m
+pokój - mír m, pokoj m
 pokrzewka piegża - pěnice
 pokrzywowy - kopřivový
 pokuta - pokání n
@@ -4621,7 +4621,7 @@ Polak, Węgier – dwa bratanki, i do szabli, i do szklanki - Polák, Maďar, dv
 polarny - polární
 polder - polder
 polegać - spoléhat
-poleku - pomalu | zvolna
+poleku - pomalu, zvolna
 polemika - polemika
 policja - policie
 policjant - policista m
@@ -4636,31 +4636,31 @@ polityka - politika
 półnagi - polonahý
 północnoamerykański - severoamerický
 północno-wschodni - severovýchodní
-połóg - šestinedělí | porod
+połóg - šestinedělí, porod
 polon - polonium
-polonizm - polonismus m | polonizmus m
+polonizm - polonismus m, polonizmus m
 połowa - polovina f
 półowa - polovina f
 polować - lovit
 położenie - umístění n
-położyć - položit | lehnout si
+położyć - položit, lehnout si
 Polska - Polsko n
-polski - polský | polština f
+polski - polský, polština f
 półudenyk - oběd m
-południe - poledne | jih
+południe - poledne, jih
 południk - poledník
 południowoamerykański - jihoamerický
-Półwysep Kolski - Kola f | Kolský poloostrov m
+Półwysep Kolski - Kola f, Kolský poloostrov m
 Półwysep Krymski - Krymský poloostrov m
 połykać - polykat
-pomagać - pomáhat | pomoct
+pomagać - pomáhat, pomoct
 pomarańcza - pomeranč m
 pomarańczowoczerwony - oranžovočervený
 pomarańczowożółty - oranžověžlutý
-pomarańczowy - pomerančový | oranžový
+pomarańczowy - pomerančový, oranžový
 pomidor - rajče n
 pomidorówka - rajská polévka f
-pomnik - památník m | monument m
+pomnik - památník m, monument m
 pomnik przyrody - přírodní památka
 pomoc - pomoc f
 Pomorze - Pomořansko
@@ -4672,7 +4672,7 @@ poniedziałek - pondělí n
 poniedziałkowy - pondělní
 ponieważ - protože
 pontyfikat - pontifikát m
-popiersie - poprsí n | busta f
+popiersie - poprsí n, busta f
 popojutrze - popozítří
 poprawnie - správně
 poprawność polityczna - politická korektnost f
@@ -4686,13 +4686,13 @@ porcja - porce
 pornografia - pornografie f
 pornograficzny - pornografický
 poród - porod
-porozmawiać - pomluvit | pomluvit si
+porozmawiać - pomluvit, pomluvit si
 portfel - peněženka f
 portki - kalhoty
 Portugalia - Portugalsko
 portugalski - portugalština
 porucznik - nadporučík m
-poruta - stud m | propadák m
+poruta - stud m, propadák m
 porwanie - únos m
 porządek - pořádek
 porzeczka - rybíz
@@ -4700,7 +4700,7 @@ porzućcie wszelką nadzieję, wy, którzy tu wchodzicie - zanechte veškeré na
 pościć - postit se
 Posejdon - Poseidón m
 poseł - poslanec m
-posesor - vlastník m | majitel m
+posesor - vlastník m, majitel m
 posiłek - svačina f
 posłać do diabła - poslat k čertu
 posłać do wszystkich diabłów - poslat k čertu
@@ -4728,16 +4728,16 @@ powierzchnia - plocha f
 powierzchowny - povrchní
 powieść - román m
 powieściopisarz - romanopisec m
-powiestka - jméno n | křestní jméno | titul
+powiestka - jméno n, křestní jméno, titul
 powietrze - vzduch m
-powódź - povodeň | záplava
-powoli - pomalu | zvolna
+powódź - povodeň, záplava
+powoli - pomalu, zvolna
 powtarzać - opakovat
-poza - kromě | mimo
+poza - kromě, mimo
 pozamałżeński - mimomanželský
 pozawczoraj - předevčírem
 pozaziemski - mimozemský
-poziom - hladina f | úroveň f
+poziom - hladina f, úroveň f
 poziomica - vodováha n
 Poznań - Poznaň
 późno - pozdě
@@ -4749,15 +4749,15 @@ pożyteczny idiota - užitečný idiot m
 PP - PP
 praca - práce f
 praca domowa - domácí úkol
-prącie - penis m | pyj m
+prącie - penis m, pyj m
 pracodawca - zaměstnavatel m
 pracoholiczka - workoholička f
 pracoholik - workoholik m
 pracować - pracovat
-pracowity - pracný | pracovitý
+pracowity - pracný, pracovitý
 praczka - pradlena f
 Praga - Praha
-pragnąć - dychtit | toužit
+pragnąć - dychtit, toužit
 pragnienie - žízeň f
 pralka - pračka f
 pralnia - prádelna f
@@ -4772,7 +4772,7 @@ prawdziwek - hřib smrkový m
 prawdziwy - skutečný
 prawdziwych przyjaciół poznaje się w biedzie - v nouzi poznáš přítele
 prawica - pravice f
-prawie - teměř | skoro
+prawie - teměř, skoro
 prawko - řidičský průkaz
 prawniczy - právnický
 prawnik - právník
@@ -4791,17 +4791,17 @@ prezydent - prezident m
 prezydentka - prezidentka f
 problematyczny - problematický
 proboszcz - farář m
-próbować - zkoušet | chutnat
+próbować - zkoušet, chutnat
 probówka - zkumavka f
 próbówka - zkumavka f
 procesja - procesí n
-prócz - kromě | mimo
+prócz - kromě, mimo
 prodiż - remoska f
 proletariusz - proletář m
 prom - trajekt m
 promet - promethium
 propan - propan
-proponować - nabízet | navrhovat
+proponować - nabízet, navrhovat
 propozycja - propozice f
 prorokini - prorokyně
 prosię ziemne - hrabáč kapský (hrabáč takaru) m
@@ -4813,13 +4813,13 @@ prostokątny - obdélníkový
 proszę - prosím
 proszek - prášek
 protaktyn - protaktinium
-protein - bílek m | bělima f | oční bělmo n | bílkovina f
-proteina - bílek m | bělima f | oční bělmo n | bílkovina f
+protein - bílek m, bělima f, oční bělmo n, bílkovina f
+proteina - bílek m, bělima f, oční bělmo n, bílkovina f
 protestant - protestant m
 protestować - protestovat
 protokolant - zapisovatel
 proton - proton m
-prowansalski - okcitánština | okcitánský
+prowansalski - okcitánština, okcitánský
 prowincjał - provinciál
 prowizoryczny - provizorní
 Prusy - Prusko
@@ -4862,7 +4862,7 @@ przełącznik - přepínač m
 przemówienie - projev
 Przemyśl - Přemyšl
 przemysł - průmysl m
-przemyt - pašování n | kontraband m | pašeráctví n | podloudnictví n
+przemyt - pašování n, kontraband m, pašeráctví n, podloudnictví n
 przemytniczka - pašeračka f
 przemytnik - pašerák m
 przenośnia - metafora f
@@ -4874,7 +4874,7 @@ przepraszam - promiňte
 przeprowadzać - stěhovat
 przeprowadzić - přestěhovat
 przepust - propustek m
-przerażający - děsivý | hrůzostrašný
+przerażający - děsivý, hrůzostrašný
 przerośnięty - přerostlý
 Przerów - Přerov
 przerwa - přestávka f
@@ -4888,20 +4888,20 @@ przewijanie - převíjení
 przewlekły - chronický
 przewodnik - průvodce
 przewoźnik - dopravce m
-przez - přes | skrz
-przeze - přes | skrz
+przez - přes, skrz
+przeze - přes, skrz
 przezroczysty - průhledný
 przeźroczysty - průhledný
 przeżuwacz - přežvýkavec m
 przoć - milovat
-przycisk - tlačitko n | knoflík m
+przycisk - tlačitko n, knoflík m
 przygotować - připravit
 przygotowywać - připravovat
 przyimek - předložka
 przyjąć - přijmout
 przyjaciel - přítel m
 przyjacielski - přátelský
-przyjaciółka - přítelkyně f | milenka f
+przyjaciółka - přítelkyně f, milenka f
 przyjaźń - přátelství n
 przyjebać - uhodit
 przyjęcie - přijetí n
@@ -4909,7 +4909,7 @@ przykazanie - přikázání n
 przylot - přílet m
 przymiotnik - přídavné jméno
 przynieść - přinést
-przypadek - náhoda f | pád m | případ m
+przypadek - náhoda f, pád m, případ m
 przypadkiem - náhodou
 przypadkowo - náhodou
 przyroda - příroda f
@@ -4920,11 +4920,11 @@ przysięgać - přísahat
 przystawka - předkrm m
 przystojniak - krasavec m
 przyszłość - budoucnost f
-przytcza - náhoda f | pád m | případ m
+przytcza - náhoda f, pád m, případ m
 przytomność - přítomnost f
 przytośtać - přinést
 przytulić - obejmout
-przyzapuście - masopust m | karneval m
+przyzapuście - masopust m, karneval m
 pseudonauka - pseudověda
 pseudonim - pseudonym m
 psi - psí
@@ -4933,7 +4933,7 @@ psiarnia - policie
 psisko - pes m
 psuć - kazit
 psycholingwistyka - psycholingvistika f
-psycholog - psycholog m | psycholožka f
+psycholog - psycholog m, psycholožka f
 psychologia - psychologie f
 pszczelarstwo - včelařství n
 pszczelarz - včelař m
@@ -4941,12 +4941,12 @@ pszczeli - včelí
 pszczoła - včela f
 Pszczyna - Pštína
 Ptah - Ptah
-ptak - penis m | pyj m
-ptaszę - penis m | pyj m
+ptak - penis m, pyj m
+ptaszę - penis m, pyj m
 ptaszek - ptáček m
 publicystyka - publicistika f
 publiczny - veřejný
-puchar - číše | pohár
+puchar - číše, pohár
 puchowy - pérový
 pudełko - krabička f
 puder - pudr
@@ -4958,7 +4958,7 @@ pulares - peněženka f
 pularysek - peněženka f
 punkt - bod m
 punktualny - přesný
-purpurowy - purpurový | purpurný | nachový
+purpurowy - purpurový, purpurný, nachový
 puścić - pustit
 puste - prázdný
 pustka - prázdnota f
@@ -4966,21 +4966,21 @@ pusty - prázdný
 pustynia - poušť
 puszcza - prales m
 puszczyk - puštík
-puszka - plechovka f | věznice f | vězení n | pivo m
+puszka - plechovka f, věznice f, vězení n, pivo m
 Pyjter - Petr m
 pyra - brambor
 pyrrusowe zwycięstwo - Pyrrhovo vítězství
-pyta - penis m | pyj m
+pyta - penis m, pyj m
 pytać - ptát se
 pytanie - otázka f
-rabarbar - rebarbora f | řeveň m
+rabarbar - rebarbora f, řeveň m
 rabat - rabat
 Rabat - Rabat
 rabin - rabín m
-rachatłukum - rahat | turecký med
+rachatłukum - rahat, turecký med
 Rachela - Ráchel f
 rachować - počítat
-raciądz - rytíř m | vítěz m
+raciądz - rytíř m, vítěz m
 Racibórz - Ratiboř
 racjonalista - racionalista m
 racjonalizm - racionalismus m
@@ -4988,7 +4988,7 @@ racuch - lívanec m
 raczej - raději
 rad - radium
 radar - radar
-radio - rozhlas m | rádio n
+radio - rozhlas m, rádio n
 radioaktywny - radioaktivní
 radioodbiornik - radiopřijímač
 radon - radon
@@ -4997,20 +4997,20 @@ rafinować - rafinovat
 ragóżka - stěrač m
 Rajch - Německo n
 rajzować - cestovat
-rak - rak m | rakovina f
+rak - rak m, rakovina f
 Rak - Rak m
 rakuski - rakouský
 ramiączko - ramínko n
 ramię - rameno n
-randka - rande n | schůzka f
+randka - rande n, schůzka f
 ranek - ráno
 rano - ráno
 raróg - raroh
 rasa - rasa f
 rasistowski - rasistický
-rasizm - rasismus m | rasizmus m
+rasizm - rasismus m, rasizmus m
 ratusz - radnice f
-razdziawa - krkavec m | vrána
+razdziawa - krkavec m, vrána
 razem - pospolu
 raz na ruski rok - jednou za uherský rok
 reakcjonista - reakcionář m
@@ -5033,7 +5033,7 @@ rekomendować - doporučit
 rekrut - rekrut m
 relatywnie - poměrně
 relikwia - relikvie f
-remis - remíza f | plichta f
+remis - remíza f, plichta f
 ren - rhenium
 reporter - reportér m
 reprezentant - reprezentant m
@@ -5067,11 +5067,11 @@ robinsonada - robinzonáda
 robot - robot
 robotnik - dělník m
 robotyka - robotika f
-rock - rock | rock-and-roll | rokenrol
+rock - rock, rock-and-roll, rokenrol
 rocznica - výročí n
 roczny - roční
 rod - rhodium
-rodzaj - druh m | typ m | rod m | žánr m
+rodzaj - druh m, typ m, rod m, žánr m
 rodzeństwo - sourozenci
 rodzicielski - rodičovský
 rodzicielstwo - rodičovství
@@ -5085,7 +5085,7 @@ róg Amaltei - roh hojnosti m
 rogaty - rohatý
 róg obfitości - roh hojnosti m
 rogówka - rohovka f
-rok - rok m | sukně f
+rok - rok m, sukně f
 Roksana - Roxana f
 rolada - roláda f
 Roland - Roland m
@@ -5096,16 +5096,16 @@ Rom - Rom m
 romantyzm - romantismus
 romb - kosočtverec
 rompelkamera - prádelna f
-romski - romský | romština
+romski - romský, romština
 rondo - kruhový objezd
 ronić łzy - ronit slzy
 ropowica - flegmóna f
 ropucha - ropucha
-rosarium - rosarium n | rozárium n
+rosarium - rosarium n, rozárium n
 rosiczka - rosnatka f
 Rosja - Rusko
 roślinożerny - býložravý
-rosyjski - ruský | ruština
+rosyjski - ruský, ruština
 rotmistrz - rotmistr m
 rouza - růže f
 Rouza - Růžena f
@@ -5113,18 +5113,18 @@ rower - kolo n
 rowerzysta - cyklista m
 równanie - rovnice
 równanie stanu - stavovou rovnicí
-również - též | také | taky
+również - též, také, taky
 równonoc - rovnodennost f
 równy - rovný
 róża - růže f
 Róża - Růžena f
-róża dzika - růže šípková f | psí růže f | šípek m
-róża herbaciana - růže čajová | čajovka
-róża herbatnia - růže čajová | čajovka
+róża dzika - růže šípková f, psí růže f, šípek m
+róża herbaciana - růže čajová, čajovka
+róża herbatnia - růže čajová, čajovka
 różaniec - růženec m
 różanka - hořavka f
-rozbieżność - rozpor m | nesrovnalost f | diskrepance f
-rozdroże - rozcestí n | křižovatka f
+rozbieżność - rozpor m, nesrovnalost f, diskrepance f
+rozdroże - rozcestí n, křižovatka f
 rozdział - kapitola f
 rozeta - rezeda
 rozmaity - rozmanitý
@@ -5147,12 +5147,12 @@ rtęć - rtuť f
 rtm. - rtm.
 rubid - rubidium
 ruchliwy - čilý
-ruchome schody - jezdící schody | pohyblivé schody | eskalátor m | pohyblivé schodiště n
-ruchomy - movitý | mobilní
+ruchome schody - jezdící schody, pohyblivé schody, eskalátor m, pohyblivé schodiště n
+ruchomy - movitý, mobilní
 ruczaj - ručej m
 ruda - ruda f
-rudny - červený | rudý | komunista m
-rudy - rezavý | ryšavý | zrzavý
+rudny - červený, rudý, komunista m
+rudy - rezavý, ryšavý, zrzavý
 rufa - hýždě
 rugby - ragby n
 Rumcajs - Rumcajs
@@ -5175,9 +5175,9 @@ rybi - rybí
 rybitwa - rybák
 Rybnik - Rybnik
 rybny - rybí
-Ryby - Ryby | Ryby f | Ryba f
+Ryby - Ryby, Ryby f, Ryba f
 rycerski - rytířský
-rycerz - rytíř m | vítěz m
+rycerz - rytíř m, vítěz m
 rychtować - připravovat
 ryczeć - řvát
 Ryga - Riga
@@ -5188,8 +5188,8 @@ rysowniczka - kreslířka f
 rysownik - kreslíř m
 rysunek - kresba
 Ryszard - Richard m
-rywal - rival m | soupeř m
-rywalizować - soutěžit | konkurovat
+rywal - rival m, soupeř m
+rywalizować - soutěžit, konkurovat
 ryż - rýže f
 ryzyko - riziko n
 rząd - řada f
@@ -5205,12 +5205,12 @@ Rzeszów - Řešov
 rzeżączka - kapavka
 rzeźbiarka - sochařka f
 rzeźbiarz - sochař m
-rzić - prdel f | buchta f | roštěnka f
+rzić - prdel f, buchta f, roštěnka f
 rzodkiewka - ředkvička f
 rzucać kłoda pod kłody pod nogi - házet klacky pod nohy
 rzucać perły przed wieprze - házet perly sviním
-rzut - hod | vrh
-rzut karny - pokutový kop m | penalta | desítka
+rzut - hod, vrh
+rzut karny - pokutový kop m, penalta, desítka
 rzut rożny - roh m
 rzygać - zvracet
 Rzym - Řím
@@ -5225,9 +5225,9 @@ Sahara - Sahara
 saharyjski - saharský
 Saipan - Saipan
 Saksonia - Sasko
-sałata - salát m | taxi
+sałata - salát m, taxi
 sałatka - salát m
-salceson - tlačenka f | policista m
+salceson - tlačenka f, policista m
 salomonowy wyrok - šalamounské rozhodnutí
 Saloniki - Soluň
 Salwador - Salvador
@@ -5238,7 +5238,7 @@ Samoa - Samoa
 samobójca - sebevrah m
 samobójczyni - sebevražedkyně f
 samobójstwo - sebevražda f
-samochód - automobil m | auto n | vůz m
+samochód - automobil m, auto n, vůz m
 samodzielny - samostatný
 samolot - letadlo n
 samoobsługowy - samoobslužný
@@ -5272,17 +5272,17 @@ scenariusz - scénář m
 schabowy - vepřový řízek
 schadzka - dostaveníčko n
 schody - schody
-schody ruchome - jezdící schody | pohyblivé schody | eskalátor m | pohyblivé schodiště n
+schody ruchome - jezdící schody, pohyblivé schody, eskalátor m, pohyblivé schodiště n
 schyłek - sklonek
 ścięgno - šlacha
 ściemniać - lhát
-Scyta - Skyt m | Skyth m
+Scyta - Skyt m, Skyth m
 seaborg - seaborgium
 segregator - šanon m
 sękaty - sukovitý
-sekretarka - sekretářka f | záznamnik m
+sekretarka - sekretářka f, záznamnik m
 seks oralny - orální sex
-seksualność - sexualita f | pohlavnost f | sexuálnost f
+seksualność - sexualita f, pohlavnost f, sexuálnost f
 sekunda - sekunda
 selen - selen
 Selene - Seléné f
@@ -5290,7 +5290,7 @@ Selenita - Měsíčňan m
 Selenitka - Měsíčňanka f
 selenografia - selenografie f
 seler - celer
-sen - spánek m | sen m
+sen - spánek m, sen m
 Senegal - Senegal
 senność - ospalost
 senny - ospalý
@@ -5304,10 +5304,10 @@ Serbka - Srbka f
 serbski - srbština
 serce - srdce
 serdce - srdce
-serdeczny palec - prsteník m | prsteníček m
+serdeczny palec - prsteník m, prsteníček m
 serduszko - srdíčko
 serial - seriál m
-sernik - kasein | kazeín
+sernik - kasein, kazeín
 seroka - straka
 serologia - sérologie
 serwatka - syrovátka f
@@ -5320,8 +5320,8 @@ sezonowy - sezónní
 sfen - titanit
 siano - seno n
 siarka - síra
-siarkowodór - sirovodík | sulfan
-siąść - sednout | posadit se
+siarkowodór - sirovodík, sulfan
+siąść - sednout, posadit se
 się - se
 sieć - síť
 sieczeń - únor m
@@ -5334,7 +5334,7 @@ siedmioramienny - sedmiramenný
 siedzenie - sedadlo n
 siedzieć - sedět
 siedzieć na dupie - sedět na prdeli
-siekiera - sekera f | sekyra f
+siekiera - sekera f, sekyra f
 Siena - Siena f
 sierociniec - sirotčinec
 sierp - srp m
@@ -5352,17 +5352,17 @@ silos - silažní věž f
 Singapur - Singapur m
 siniak - modřina f
 siodło - sedlo n
-sioło - vesnice | ves f
-siostra - sestra f | ségra f | jeptiška
+sioło - vesnice, ves f
+siostra - sestra f, ségra f, jeptiška
 siostrzenica - neteř f
 sirpień - srpen m
 sitko - mikrofon
 sitwa - klika f
-skała - hornina f | skála f
+skała - hornina f, skála f
 skalpel - skalpel
 Skały Adrszpaskie - Adršpašské skály
-Skały Adrszpasko-Cieplickie - Adršpašsko-Teplické skály | Adršpašskoteplické skály
-Skały Adrszpasko-Teplickie - Adršpašsko-Teplické skály | Adršpašskoteplické skály
+Skały Adrszpasko-Cieplickie - Adršpašsko-Teplické skály, Adršpašskoteplické skály
+Skały Adrszpasko-Teplickie - Adršpašsko-Teplické skály, Adršpašskoteplické skály
 skand - skandium
 skąpstwo - skoupost f
 skarbonka - pokladnička f
@@ -5370,8 +5370,8 @@ skarga - žaloba f
 skarpeta - ponožka f
 skasować - zrušit
 skibać - krást
-skład - obchod | sklep | strop m
-sklep - obchod | sklep | strop m
+skład - obchod, sklep, strop m
+sklep - obchod, sklep, strop m
 skoczek - jezdec m
 skok o tyczce - skok o tyči
 skończony - končit
@@ -5386,7 +5386,7 @@ skrepnąć - zemřít
 skrobia - škrob m
 skromność - skromnost f
 skroń - spánek m
-skrótowiec - akronym m | akronymum
+skrótowiec - akronym m, akronymum
 skrucha - zkroušenost f
 skrytka pocztowa - poštovní přihrádka f
 skrzydlaty - okřídlený
@@ -5398,17 +5398,17 @@ skrzyp polny - přeslička rolní
 skurwysyn - zkurvysyn
 skuter - skútr m
 słabość - slabost f
-sładnie - snadno | hesky
+sładnie - snadno, hesky
 Śląsk - Slezsko n
-Śląsk Cieszyński - Těšínsko | Těšínské Slezsko n
+Śląsk Cieszyński - Těšínsko, Těšínské Slezsko n
 śląski - slezský
 Śląsk Opolski - Opolské Slezsko
 sława - sláva f
 slawistyka - slavistika f
-slawizm - slavismus m | slavizmus m
+slawizm - slavismus m, slavizmus m
 śledź - oprátka f
 śledziona - slezina
-ślepa babka - slepá bába | na slepou bábu
+ślepa babka - slepá bába, na slepou bábu
 ślepa uliczka - slepá ulička
 ślepota - slepota f
 śleptać - plakat
@@ -5441,9 +5441,9 @@ Słowianka - Slovanka f
 słowiański - slovanský
 słowik - slavík
 słowik rdzawy - slavík obecný
-słownik - slovník m | slovní zásoba f
+słownik - slovník m, slovní zásoba f
 słownikowy - slovníkový
-ślub - svatba f | sňatek m
+ślub - svatba f, sňatek m
 słuchawka - sluchátko n
 sługa - sluha m
 slup - šalupa
@@ -5452,7 +5452,7 @@ służba bezpieczeństwa - služba bezpečnosti f
 słyszeć - slyšet
 smacznego - dobrou chuť
 smakować - chutnat
-smerf - šmoula | šmoulové
+smerf - šmoula, šmoulové
 śmiać się - smát se
 śmiałym szczęście sprzyja - odvážnému štěstí přeje
 śmierć - smrt f
@@ -5469,7 +5469,7 @@ snecha - snacha f
 śniadanko - snídáníčko n
 śnić - snít
 śnieg - sníh m
-Śnieżka - Sněžka | Sněhurka
+Śnieżka - Sněžka, Sněhurka
 Śnieżnik - Králický Sněžník m
 śnieżyć - sněžit
 sobaczy - psí
@@ -5490,13 +5490,13 @@ sok - džus m
 sokół - sokol
 sokowirówka - odšťavňovač
 Sol - Sol m
-solniczka - slánka f | solnička f
+solniczka - slánka f, solnička f
 Solon - Solón m
 Somalia - Somálsko n
 Somalijczyk - Somálec
 somalijski - somálština
 somsiad - soused m
-sopel - rampouch m | střechýl m
+sopel - rampouch m, střechýl m
 Sopot - Sopoty
 sos - omáčka
 sosna - borovice
@@ -5504,8 +5504,8 @@ sos sojowy - sójová omáčka
 sowa - sova f
 sozologia - environmentalistika
 spacer - procházka f
-spać jak kamień - spát jako pařez | spát jako dub | spát jako dudek
-spać jak suseł - spát jako pařez | spát jako dub | spát jako dudek
+spać jak kamień - spát jako pařez, spát jako dub, spát jako dudek
+spać jak suseł - spát jako pařez, spát jako dub, spát jako dudek
 spadochroniarz - parašutista m
 spaghetti - špagety
 spalić za sobą mosty - spálit za sebou všechny mosty
@@ -5518,12 +5518,12 @@ spekulant - spekulant m
 sperma - sperma n
 spichlerz - sýpka f
 spichrz - sýpka f
-śpieszyć - spěchat | pospíchat | chvátat
+śpieszyć - spěchat, pospíchat, chvátat
 śpiew - zpěv m
 śpiewać - zpívat
 śpiewaczka - zpěvačka
 śpiewak - zpěvák m
-spiker - hlasatel m | speaker
+spiker - hlasatel m, speaker
 śpioch - ospalec
 spis - seznam m
 spis rzeczy - obsah m
@@ -5541,7 +5541,7 @@ spotkanie - setkání n
 spowiednia - zpovědnice f
 spowiedź - zpověď
 spragniony - žíznivý
-spróbować - zkusit | chutnat
+spróbować - zkusit, chutnat
 sprzątać - uklízet
 sprzątaczka - uklízečka f
 sprzedawać - prodávat
@@ -5552,7 +5552,7 @@ sraka - sračka f
 srebrna - stříbrný
 srebrny - stříbrný
 srebro - stříbro n
-średni - střední | průměrný
+średni - střední, průměrný
 średnica - průměr m
 średniowiecze - středověk m
 średniowieczny - středověký
@@ -5568,7 +5568,7 @@ ssak - savec
 stabilność - stabilita f
 stacja - stanice f
 stacja benzynowa - benzínová pumpa f
-stacja kolejowa - železniční stanice f | stanice f | nádraží n
+stacja kolejowa - železniční stanice f, stanice f, nádraží n
 stajnia Augiasza - Augiášův chlév
 stalagmit - stalagmit m
 stalaktyt - stalaktit m
@@ -5581,37 +5581,37 @@ Stany Zjednoczone Ameryki - Spojené státy americké
 stara miłość nie rdzewieje - stará láska nerezaví
 stara panna - stará panna f
 Stare Bielsko - Staré Bílsko
-starek - dědeček m | děd m | děda m | děda
-stare miasto - starý | město
+starek - dědeček m, děd m, děda m, děda
+stare miasto - starý, město
 starka - babička f
 starość - stáří n
-starosek - dědeček m | děd m | děda m | děda
-staroszek - dědeček m | děd m | děda m | děda
-starszy - otec | táta | tatínek | taťka | fotr m
+starosek - dědeček m, děd m, děda m, děda
+staroszek - dědeček m, děd m, děda m, děda
+starszy - otec, táta, tatínek, taťka, fotr m
 stary - starý
-starzyk - dědeček m | děd m | děda m | děda
+starzyk - dědeček m, děd m, děda m, děda
 statek - loď f
-statki - nádoba | nádobí
-statory - nádoba | nádobí
+statki - nádoba, nádobí
+statory - nádoba, nádobí
 statyw - stativ m
-staw - rybník m | kloub m
+staw - rybník m, kloub m
 stawiać - stavět
 staw łokciowy - loket m
 stęchlizna - ztuchlina f
 Stefan - Stefan
-stefka - stevardka f | letuška f
+stefka - stevardka f, letuška f
 Stela - Stela f
 Stella - Stella f
-step - step f | step m
-stewardesa - stevardka f | letuška f
+step - step f, step m
+stewardesa - stevardka f, letuška f
 stodoła - stodola f
 stojak - stojan
-stokrotka - sedmikráska f | sedmikrása f
+stokrotka - sedmikráska f, sedmikrása f
 stół - stůl m
 stolarz - truhlář
 stolica - hlavní město
-stołówka - menza f | jídelna f
-stołowy - stolní | jídelna f
+stołówka - menza f, jídelna f
+stołowy - stolní, jídelna f
 stomatolog - zubař m
 stomatologia - stomatologie f
 stonka - mandelinka
@@ -5620,14 +5620,14 @@ stoper - stoper
 stopień - stupeň m
 stopniowo - postupně
 stosować - používat
-stosunek - poměr m | pohlavní styk
+stosunek - poměr m, pohlavní styk
 stosunek płciowy - pohlavní styk
-strach - strach m | strašák | strašák do zelí
+strach - strach m, strašák, strašák do zelí
 strach ma wielkie oczy - strach má velké oči
-strach na wróble - strach m | strašák | strašák do zelí
+strach na wróble - strach m, strašák, strašák do zelí
 strajk - stávka f
 strajkować - stávkovat
-strąpacz - únor m | studený
+strąpacz - únor m, studený
 straszyć - strašit
 strażak - hasič m
 Strefa Gazy - Pásmo Gazy
@@ -5643,8 +5643,8 @@ stryczek - oprátka f
 stryj - strýc m
 stryjek - strýc m
 strzała - šíp m
-strzec jak oka w głowie - střežit jako oko v hlavě | chránit jako oko v hlavě | chovat jako oko v hlavě | opatrovat jako oko v hlavě
-strzec jak źrenicy oka - střežit jako oko v hlavě | chránit jako oko v hlavě | chovat jako oko v hlavě | opatrovat jako oko v hlavě
+strzec jak oka w głowie - střežit jako oko v hlavě, chránit jako oko v hlavě, chovat jako oko v hlavě, opatrovat jako oko v hlavě
+strzec jak źrenicy oka - střežit jako oko v hlavě, chránit jako oko v hlavě, chovat jako oko v hlavě, opatrovat jako oko v hlavě
 strzelanina - střelba f
 strzelba - puška f
 Strzelec - Střelec m
@@ -5653,19 +5653,19 @@ studentka - studentka f
 studnia - studna
 stuła - štóla f
 stuletni - stoletý
-stwórca - tvůrce m | stvořitel m
+stwórca - tvůrce m, stvořitel m
 styczeń - leden m
 styczniowy - lednový
 suchar - suchar m
 Sudan - Súdán
 sudecki - sudetský
 sudeckoniemiecki - sudetoněmecký
-Sudety - Sudety | Krkonošsko-jesenická subprovincie | Krkonošsko-jesenická soustava | Sudetská soustava
+Sudety - Sudety, Krkonošsko-jesenická subprovincie, Krkonošsko-jesenická soustava, Sudetská soustava
 sufit - strop m
 sufizm - súfismus
 sugilit - sugilit
 suka - fena f
-sukces - úspěch m | zdar m
+sukces - úspěch m, zdar m
 sułtanat - sultanát m
 sumienie - svědomí n
 Surinam - Surinam
@@ -5687,7 +5687,7 @@ swędzić - svědět
 świekra - tchyně f
 świerk - smrk
 świerzb - svrab
-świeść - švagrová | tchyně f
+świeść - švagrová, tchyně f
 Świetlana - Světlana f
 świetny - skvělý
 święto - svátek m
@@ -5698,15 +5698,15 @@ swędzić - svědět
 Święty Zastęp - Svatý oddíl m
 świeży - čerstvý
 Świna - Svina
-świnia - prase n | prasnice f
+świnia - prase n, prasnice f
 Świnica - Svinica f
 świnka morska - morče
-świostka - švagrová | tchyně f
-świt - svítání | úsvit
-świtanie - svítání | úsvit
+świostka - švagrová, tchyně f
+świt - svítání, úsvit
+świtanie - svítání, úsvit
 swok - strýc m
 Syberia - Sibiř f
-syfilis - syfilis f | příjice f
+syfilis - syfilis f, příjice f
 sygnaturka - sanktusník
 syjam - siamská kočka f
 Syjon - Sijón m
@@ -5718,7 +5718,7 @@ symbol - symbol
 syn - syn
 synapsa - synapse
 syndrom miodowy miodowego miesiąca - syndrom líbánek m
-synek - kluk m | chlapec m | hoch m
+synek - kluk m, chlapec m, hoch m
 synkretyczny - synkretický
 syn marnotrawny - marnotratný syn m
 synowa - snacha f
@@ -5758,7 +5758,7 @@ szantażysta - vyděrač m
 szantażystka - vyděračka f
 szaszłyk - šašlik
 Szczecin - Štětín
-szczególny - zvláštní | neobvyklý | speciální výjimečný
+szczególny - zvláštní, neobvyklý, speciální výjimečný
 szczegółowy - podrobný
 szczęka - čelist f
 szczekać - štěkat
@@ -5768,9 +5768,9 @@ szczerk - štěrk m
 szczęście - štěstí n
 szczewik - bota
 szczodry - štědrý
-szczoteczka do zębów - kartáček na zuby m | zubní kartáček m
+szczoteczka do zębów - kartáček na zuby m, zubní kartáček m
 szczotka - kartáč m
-szczur - krysa | potkan
+szczur - krysa, potkan
 szczygieł - stehlík
 szczyt - orgasmus m
 szept - šepot m
@@ -5783,10 +5783,10 @@ sześćdziesięcioletni - šedesátiletý
 sześciokąt - šestiúhelník
 sześcioletni - šestiletý
 szesnastoletni - šestnáctiletý
-szew - lebeční šev | šev | sešití | steh | sutura
-szkarłatny - šarlatový | šarlatný
+szew - lebeční šev, šev, sešití, steh, sutura
+szkarłatny - šarlatový, šarlatný
 szkielet - kostra
-szkira - holka f | dívka f | přítelkyně f
+szkira - holka f, dívka f, přítelkyně f
 szkita - noha f
 szklanka - sklenice f
 szklarnia - skleník m
@@ -5797,10 +5797,10 @@ szkodzić - škodit
 szkoła podstawowa - základní škola f
 szkoła powszechna - základní škola f
 szkoła średnia - střední škola f
-szkop - Skopčák | Němec m
+szkop - Skopčák, Němec m
 Szkot - Skot m
 Szkotka - Skotka f
-szlaban - závora | šraňka | zarach | domácí vězení
+szlaban - závora, šraňka, zarach, domácí vězení
 szlag - úder m
 szlajfa - stuha f
 Szląsk - Slezsko n
@@ -5810,8 +5810,8 @@ szlug - cigareta f
 szmaja - levák m
 szmania - levák m
 szminka - rtěnka f
-szmuglerka - pašeračka f | pašování n | kontraband m | pašeráctví n | podloudnictví n
-szneka - obličej m | tvář f
+szmuglerka - pašeračka f, pašování n, kontraband m, pašeráctví n, podloudnictví n
+szneka - obličej m, tvář f
 szogun - šógun m
 szok - šok m
 szósty zmysł - šestý smysl
@@ -5830,14 +5830,14 @@ sztrofa - trest
 sztuczna szczęka - umělý chrup
 sztuczne ognie - ohňostroj
 sztuczny - umělý
-sztuka - umění n | hra f | holka f | dívka f | přítelkyně f
+sztuka - umění n, hra f, holka f, dívka f, přítelkyně f
 szukać - hledat
 szukać dziury w całym - hledat na všem hnidy
 szukać igły w stogu siana - hledat jehlu v kupce sena
 szukam człowieka - hledám člověka
 szulak - jestřáb m
 szum - šum
-szwab - Skopčák | Němec m
+szwab - Skopčák, Němec m
 Szwabia - Švábsko
 szwagierka - švagrová
 szwaja - noha f
@@ -5848,22 +5848,22 @@ Szwecyjo - Švédsko
 Szwed - Švéd m
 Szwedka - Švédka f
 szwedzki - švédština
-szwestera - sestra f | ségra f | jeptiška
-szyja - krk m | šíje f
+szwestera - sestra f, ségra f, jeptiška
+szyja - krk m, šíje f
 szykanowanie - šikana
 szykowny - elegantní
 szyna - dlaha f
 szynal - hřebík
-szypszyna - růže šípková f | psí růže f | šípek m
-szyszka - šiška f | vzácný pták m
+szypszyna - růže šípková f, psí růže f, šípek m
+szyszka - šiška f, vzácný pták m
 tabla - tabla
-tablet - grafický tablet m | tablet m | digitalizačný tablet m | tabletový digitalizátor m | digitizér m | digitalizátor m | snímacia tabuľka f
+tablet - grafický tablet m, tablet m, digitalizačný tablet m, tabletový digitalizátor m, digitizér m, digitalizátor m, snímacia tabuľka f
 tabletka - tableta f
 tablica rejestracyjna - registrační značka
 tabliczka - násobilka f
 tabliczka mnożenia - násobilka f
 tachykardia - tachykardie f
-tacik - otec | táta | tatínek | taťka | fotr m | dědeček m | děd m | děda m | děda
+tacik - otec, táta, tatínek, taťka, fotr m, dědeček m, děd m, děda m, děda
 Tadeusz - Tadeáš
 tadżycki - tádžičtina
 Tadżykistan - Tádžikistán
@@ -5872,7 +5872,7 @@ tak - ano
 taksonomia - taxonomie f
 taksówka - taxi
 taktyka - taktika
-także - též | také | taky
+także - též, také, taky
 tal - thallium
 talizman - talisman
 Tallinn - Tallinn
@@ -5890,23 +5890,23 @@ tanksztela - benzínová pumpa f
 tantal - tantal
 Tanzania - Tanzanie
 taoizm - taoismus m
-tarcza - štít | ciferník m | obličej m | tvář f | protiraketová obrana | předvěst
+tarcza - štít, ciferník m, obličej m, tvář f, protiraketová obrana, předvěst
 tarcza antyrakietowa - protiraketová obrana
 tarcza krystaliczna - štít
 tarcza ostrzegawcza - předvěst
-tarcza strzelecka - štít | ciferník m | obličej m | tvář f | protiraketová obrana | předvěst
+tarcza strzelecka - štít, ciferník m, obličej m, tvář f, protiraketová obrana, předvěst
 tarcza szkolna - štít
 tarczyca - štítná žláza f
 targ - trh m
 Tarnów - Tarnov
 tarpan - tarpan
-taśka - kabelka f | sáček m
+taśka - kabelka f, sáček m
 taśma perforowana - děrná páska
 taśtać - nést
-Taszkent - Taškent | Toškent
-tata - táta | tatínek | taťka
+Taszkent - Taškent, Toškent
+tata - táta, tatínek, taťka
 taternictwo - horolezectví
-tato - táta | tatínek | taťka
+tato - táta, tatínek, taťka
 Tatry - Tatry
 tatrzański - tatranský
 Tbilisi - Tbilisi
@@ -5931,37 +5931,37 @@ telefonować - telefonovat
 telegram - telegram
 teleobiektyw - teleobjektiv m
 telewizja - televize f
-telewizor - televizor m | televize f
+telewizor - televizor m, televize f
 telewizyjny - televizní
 tellur - tellur
 temat - téma
 temperówka - ořezávátko n
 tender - tendr
 tenis - tenis
-ten śmiać się śmieje, kto śmiać się śmieje ostatni - kdo se směje naposledy, ten se směje nejlépe | kdo se směje naposled, ten se směje nejlépe
+ten śmiać się śmieje, kto śmiać się śmieje ostatni - kdo se směje naposledy, ten se směje nejlépe, kdo se směje naposled, ten se směje nejlépe
 Teodor - Teodor m
 teolog - teolog m
 teologia - teologie
 teologiczny - teologický
 Teplickie Skalne Miasto - Teplické skalní město
 tępy - tupý
-teraz - nyní | teď
+teraz - nyní, teď
 terb - terbium
 Teresa - Tereza f
 teriologiczny - teriologický
 terminologiczny - terminologický
-termit - všekaz | termit
+termit - všekaz, termit
 termodynamika - termika
 terrarium - terárium n
 terroryzm - terorismus m
 teść - tchán m
 teściowa - tchyně f
 tęsknić - toužit
-tęsknota - tužba | touha
+tęsknota - tužba, touha
 testament - závěť f
 teszarz - truhlář
 tetum - tetum
-też - též | také | taky
+też - též, také, taky
 tezaurus - tezaurus m
 Tezeusz - Théseus m
 tik - tik
@@ -5979,21 +5979,21 @@ Togo - Togo
 tokijski - tokijský
 tokoferol - tokoferol m
 toksyna - toxin m
-Tomisław - Tomislav m | Tom m | Toma m
+Tomisław - Tomislav m, Tom m, Toma m
 toń - tůň n
 tondo - tondo
 tonfa - tonfa f
 Tonga - Tonga
 topola - topol
-tor - thorium | izolovaná skála | tor | izolovené skalisko | mrazový suk
-torebka - kabelka f | sáček m
+tor - thorium, izolovaná skála, tor, izolovené skalisko, mrazový suk
+torebka - kabelka f, sáček m
 torf - rašelina
 torfowisko - rašeliniště n
 tornado - tornádo
 tors - hrudník m
 tort - dort m
 Toruń - Toruň
-tory - thorium | izolovaná skála | tor | izolovené skalisko | mrazový suk
+tory - thorium, izolovaná skála, tor, izolovené skalisko, mrazový suk
 totalitaryzm - totalita
 totem - totem m
 towar - zboží n
@@ -6002,7 +6002,7 @@ trąd - lepra f
 tradycja - tradice f
 tradycyjny - tradiční
 trądzik - akné f
-traf - náhoda f | pád m | případ m
+traf - náhoda f, pád m, případ m
 trafić trafiło się ślepej kurze ziarno - i slepá slepice někdy zrnko najde
 trafika - trafika f
 traktor - traktor
@@ -6015,7 +6015,7 @@ transparentny - průhledný
 transport - doprava f
 transseksualistka - transsexuálka f
 transsubstancjacja - transsubstanciace
-tranzystor - rozhlas m | rádio n
+tranzystor - rozhlas m, rádio n
 trąt - trubec
 trawienie - trávení
 trawnik - trávník m
@@ -6037,7 +6037,7 @@ truchło - mrtvola f
 trumna - rakev f
 trunek - alkoholický nápoj
 trup - mrtvola f
-truskawka - jahodník m | jahoda f
+truskawka - jahodník m, jahoda f
 truskawkowy - jahodový
 truteń - trubec
 trybalizm - tribalismus
@@ -6087,12 +6087,12 @@ turystyka - turistika f
 tusz - inkoust m
 tutaj - tady
 Tuvalu - Tuvalu
-tuż - skoro | téměř
+tuż - skoro, téměř
 tuzin - tucet m
 twardość - tvrdost f
 twardziel - tvrďák m
 twaróg - tvaroh m
-twarz - obličej m | tvář f
+twarz - obličej m, tvář f
 twierdzić - tvrdit
 ty - ty
 tybetański - tibetský
@@ -6102,13 +6102,13 @@ tygrysica - tygřice f
 tyj - čaj m
 Tyjuś - Teodor m
 tyle - tolik
-tylko - jen | jenom | pouze
-tymczasem - zatímco | zatím
+tylko - jen, jenom, pouze
+tymczasem - zatímco, zatím
 tymianek - tymián m
 tyn - plot m
 typ - typ m
 typografia - typografie
-tyrania - krutovláda f | tyranie f
+tyrania - krutovláda f, tyranie f
 Tyrteusz - Tyrtaios m
 tyrystor - tyristor m
 tysiącletni - tisíciletý
@@ -6143,7 +6143,7 @@ ul. - ul.
 Ułan Bator - Ulánbátar
 ulica - ulice f
 ulotka - leták m
-Ulryk - Oldřich | Ulrik
+Ulryk - Oldřich, Ulrik
 umarlec - nebožtík m
 umfal - nehoda f
 umowa - úmluva f
@@ -6158,8 +6158,8 @@ upokarzać - ponížit
 upór - tvrdohlavost f
 Ural - Ural
 uran - uran m
-Uran - Uran m | Uranos m
-Uranos - Uran m | Uranos m
+Uran - Uran m, Uranos m
+Uranos - Uran m, Uranos m
 Urban - Urban m
 Urbanowy - Urbanův
 urlop - dovolená
@@ -6177,7 +6177,7 @@ uśmiechać się - usmívat se
 usta - ústa
 ustalić - určit
 uszny - ušní
-utęsknienie - tužba | touha
+utęsknienie - tužba, touha
 uwaga - pozor
 uzasadniać - zdůvodnit
 uzasadnienie - opodstatnění n
@@ -6189,11 +6189,11 @@ użyteczny idiota - užitečný idiot m
 użytkownik - uživatel m
 używać - používat
 V4 - V4
-wacha - déšť m | moře n | voda f
+wacha - déšť m, moře n, voda f
 Wag - Váh
-Waga - Váhy | Váha f
+Waga - Váhy, Váha f
 wagon - vůz m
-wajco - vejce | vajíčko n
+wajco - vejce, vajíčko n
 wałach - valach m
 Walburga - Valburga f
 walcowaty - válcovitý
@@ -6201,17 +6201,17 @@ walczerz - prapor
 walczyć - bojovat
 Waldemar - Valdemar
 waldryjan - kozlík
-Walenty - Valentin m | Valentýn m
+Walenty - Valentin m, Valentýn m
 Walia - Wales
 walka z wiatrakami - boj s větrnými mlýny
 walkman - walkman
-waluta - měna f | valuta f
+waluta - měna f, valuta f
 wanad - vanad
 wanienka - vanička f
 wapń - vápník
 waran - varan m
 wardawy - levák m
-warga - ret m | pysk m (stydký)
+warga - ret m, pysk m (stydký)
 wariant - varianta f
 wariat - blázen m
 warkocz - cop m
@@ -6239,12 +6239,12 @@ Watykan - Vatikán
 Wawrzyńcowy - Vavřincův
 Wawrzyniec - Vavřinec m
 wąż - had m
-ważyć - vážit | vážit si
+ważyć - vážit, vážit si
 wbrew - přes
 wcześnie - dřív
 wcześniej - dřív
 wczoraj - včera
-wczorajszy - včerejší | nedávný | dnešní
+wczorajszy - včerejší, nedávný, dnešní
 w cztery oczy - mezi čtyřma očima
 wdzięczność - vděčnost f
 wędkarz - rybář m
@@ -6255,12 +6255,12 @@ wegański - veganský
 wegetarianin - vegetarián m
 wegetarianizm - vegetariánství
 węgiel - uhlík
-węgiel kamienny - černé uhlí | kamenné uhlí n | černé uhlí n
+węgiel kamienny - černé uhlí, kamenné uhlí n, černé uhlí n
 Węgier - Maďar m
 Węgierka - Maďarka f
 węgierski - maďarština
 węglowodan - karbohydrát m
-Węgry - Maďarsko n | Uhry
+Węgry - Maďarsko n, Uhry
 Wełtawa - Vltava f
 Wenecja - Benátky
 wenecki - benátský
@@ -6283,21 +6283,21 @@ węzeł - uzel m
 węzeł gordyjski - gordický uzel
 Wężownik - Hadonoš m
 Wezuwiusz - Vesuv m
-wezwanie - jméno n | křestní jméno | titul
-wiać - vát | foukat
+wezwanie - jméno n, křestní jméno, titul
+wiać - vát, foukat
 wiadomość - zpráva f
 Wiara - Věra f
 wiarygodność - hodnověrnost
 wiatr - vítr m
 wiatyk - viaticum
 wiązadło - vazivo m
-Wichta - Viktoria f | Viktorie f
+Wichta - Viktoria f, Viktorie f
 widelec - vidlička f
 widelec do porcjowania - vidliĉka porcovací f
 wideoklip - videoklip
 widołka - vidlička f
 widz - divák
-więc - tak | tedy | pak
+więc - tak, tedy, pak
 wieczera - večeře
 wieczerza - večeře
 Wieczne Miasto - Věčné město n
@@ -6328,33 +6328,33 @@ wieloryb - velryba f
 Wieloryb - Velryba f
 wielotorbielowaty - polycystický
 wieniec adwentowy - adventní věnec m
-wieniec laurowy - laur m | vavřín m
+wieniec laurowy - laur m, vavřín m
 Wientian - Vientiane
 wieprzowina - vepřové n
 wiercenie - vrtání
 wierzba - vrba
-wieś - vesnice | ves f
+wieś - vesnice, ves f
 wieszak - věšák m
 Wietnam - Vietnam
 Wietnamczyk - Vietnamec m
 Wietnamka - Vietnamka f
-wietnamski - vietnamský | vietnamština
+wietnamski - vietnamský, vietnamština
 wietrzny - větrný
 wiewiór - kapavka
 wiewiórka - veverka f
 wieża - věž
-wieża Eiffla - Eiffelova věž f | ajfelovka f
-więzienie - věznice f | vězení n
+wieża Eiffla - Eiffelova věž f, ajfelovka f
+więzienie - věznice f, vězení n
 Wigilia - Štědrý den
 wihara - vihára
 wikariusz - vikář m
 wikary - farní vikář
 wiking - Viking
 Wikipedia - Wikipedie
-Wikisłownik - Wikcionář | Wikislovník m
+Wikisłownik - Wikcionář, Wikislovník m
 Wikiźródła - Wikizdroje
 Wiktor - Viktor
-Wiktoria - Viktoria f | Viktorie f
+Wiktoria - Viktoria f, Viktorie f
 wilga - žluva f
 wilgoć - vlhkost f
 wilgotność - vlhkost f
@@ -6374,28 +6374,28 @@ winogrodnictwo - vinohradnictví n
 winogrodniczka - vinohradnice f
 winogrodnik - vinohradník m
 wiosenny - jarní
-wioska - vesnice | ves f
-wiosna - jaro f | vesna f
+wioska - vesnice, ves f
+wiosna - jaro f, vesna f
 Wirakocza - Virakoča m
-wirus - virus m | vir m
+wirus - virus m, vir m
 wirusologia - virologie f
 wiskacza - viskača
 wiśnia - višeň f
 wiszczeć - křičet
 Wisznu - Višnu m
 Wit - Vít m
-witalność - vitalita f | vitálnost f
+witalność - vitalita f, vitálnost f
 witaminowy - vitaminový
-witraż - vitráž f | vitraj f
+witraż - vitráž f, vitraj f
 wiwianit - vivianit
 wiza - vízum n
-wizjer - mířidlo n | zaměřovač m | hledáček m | dativ m | třetí pád m
+wizjer - mířidlo n, zaměřovač m, hledáček m, dativ m, třetí pád m
 wizyta - návštěva f
-wkładka - vložka f | příloha f
+wkładka - vložka f, příloha f
 włączać - zapínat
 włączyć - zapnout
-właściciel - vlastník m | majitel m
-właściwy - vhodný | správný
+właściciel - vlastník m, majitel m
+właściwy - vhodný, správný
 włazić w dupę - lézt do prdele
 Włoch - Ital m
 Włochy - Itálie
@@ -6412,16 +6412,16 @@ woda mineralna - minerální voda f
 wodniczka - rákosník ostřicový m
 Wodnik - Vodnář m
 wodnopłat - hydroplán m
-wodolot - křídlová loď | křídlový člun
+wodolot - křídlová loď, křídlový člun
 wodór - vodík
 wodospad - vodopád
 wodzić za nos - tahat za nos
 Wojciech - Vojtěch
-województwo - vojvodství | kraj
+województwo - vojvodství, kraj
 wojna - válka f
 wojna trojańska - trojská válka
-wokabularz - slovník m | slovní zásoba f
-wołacz - vokativ m | pátý pád m
+wokabularz - slovník m, slovní zásoba f
+wołacz - vokativ m, pátý pád m
 Wolarz - Pastýř m
 wolfram - wolfram
 Wołga - Volha f
@@ -6430,14 +6430,14 @@ wolna miłość - volná láska f
 wołoski - valašský
 Wołoszczyzna - Valašsko n
 wołowina - hovězí n
-worek - pytel | vak m | výběžek m
+worek - pytel, vak m, výběžek m
 wóz - vůz m
 wóz drabiniasty - žebřiňák m
 wózek dziecięcy - kočárek
 wózek sklepowy - nákupní vozík m
-wozić żyto na Zawiśle - nosit dříví do lesa | nosit sovy do Atén
+wozić żyto na Zawiśle - nosit dříví do lesa, nosit sovy do Atén
 wrażenie - dojem m
-Wrocław - Vratislav f | Wrocław f
+Wrocław - Vratislav f, Wrocław f
 wróg - nepřítel m
 wrogi - nepřátelský
 wrona - vrána
@@ -6450,11 +6450,11 @@ wścibski - všetečný
 wścieklizna - vzteklina f
 współcześnie - současně
 współczesny - současný
-współczucie - soustrast f | soucit f
+współczucie - soustrast f, soucit f
 współlokator - spolubydlící m
 wspólnie - pospolu
 współpraca - spolupráce f
-wstążka - stuha f | pás karet
+wstążka - stuha f, pás karet
 wstęga - stuha f
 wstyd - stud m
 wszak - přece
@@ -6469,12 +6469,12 @@ wuj - strýc m
 wujek - strýc m
 wujko - strýc m
 wujo - strýc m
-wulkan - sopka f | vulkán
+wulkan - sopka f, vulkán
 Wulkan - Vulkán m
-wuszt - salám m | klobása f
+wuszt - salám m, klobása f
 wy - vy
-wybierać - vybírat | volit
-wybrać - vybrat | zvolit
+wybierać - vybírat, volit
+wybrać - vybrat, zvolit
 Wybrzeże kość Kości Słoniowej - Pobřeží slonoviny
 wybuchowy - výbušný
 wychodzić z założenia - předpokládat
@@ -6489,8 +6489,8 @@ wygląd - podoba f
 wygrana - cena f
 wyjątek - výjimka f
 wyjec - vřešťan
-wyjść po angielsku - zmizet po anglicku | prásknout do bot
-wykrzyknik - vykřičník m | citoslovce n
+wyjść po angielsku - zmizet po anglicku, prásknout do bot
+wykrzyknik - vykřičník m, citoslovce n
 wykształcenie - vzdělaní n
 wykusz - arkýř
 wylać dziecko z kąpielą - vylít vaničku i s dítětem
@@ -6510,7 +6510,7 @@ wyrychtować - připravit
 wyrzygiwać - zvracet
 wysiadać - vystupovat
 wysiąść - vystoupit
-wysoki - vysoký m | vysoká f | vysoké n
+wysoki - vysoký m, vysoká f, vysoké n
 wyspa - ostrov m
 Wyspa Bożego Narodzenia - Vánoční ostrov m
 Wyspa Króla Jerzego - Ostrov krále Jiřího f
@@ -6527,27 +6527,27 @@ wyświetlacz - displej m
 wysyłać - posílat
 wyszehradzki - visegrádský
 wytrzeźwiałka - záchytka f
-wywiad - interview m | rozhovor m
+wywiad - interview m, rozhovor m
 wywielga - žluva f
-wzdłuż - podle | podél
+wzdłuż - podle, podél
 wzdręga grecka - perlín peloponéský
 Yjduś - Eduard m
 -yzm - -ismus
-za - odbyt m | příliš
+za - odbyt m, příliš
 ząb - zub
 zabaczyć - zapomenout
 żabie oczko - pomněnka f
-zabijać - zabít | přibít
+zabijać - zabít, přibít
 zabijak - vrah
 zabójca - vrah
 zabójczyni - vražedkyně f
-zabójstwo - vražda f | mord m
+zabójstwo - vražda f, mord m
 zabytek - památka
 Zachariasz - Zachariáš m
 zachłanny - chamtivý
 zachód - západ
-Zachodni Brzeg - Západní břeh m | Západní břeh Jordánu m | Předjordánsko n
-Zachodni Brzeg Jordanu - Západní břeh Jordánu m | Západní břeh m | Předjordánsko n
+Zachodni Brzeg - Západní břeh m, Západní břeh Jordánu m, Předjordánsko n
+Zachodni Brzeg Jordanu - Západní břeh Jordánu m, Západní břeh m, Předjordánsko n
 zachodniosłowiański - západoslovanský
 zachód słońca - západ slunce m
 zachorować - onemocnět
@@ -6565,75 +6565,75 @@ zagrożony - ohrožený
 Zagrzeb - Záhřeb
 zaimek - zájmeno n
 zajebać - uhodit
-zajebisty - hustý | cool | super | perfektní | vymazlený
+zajebisty - hustý, cool, super, perfektní, vymazlený
 zajmować - zabývat se
-zakalec - zákalec m | zákal m | brousek m
+zakalec - zákalec m, zákal m, brousek m
 zakarpacki - zakarpatský
 zakaz - zákaz m
 zakładać - předpokládat
 zakładka - záložka f
-zakład karny - věznice f | vězení n
-żako - žako m | papoušek šedý m
+zakład karny - věznice f, vězení n
+żako - žako m, papoušek šedý m
 zakochany - zamilovaný
-zakonnica - matka f | jeptiška f
+zakonnica - matka f, jeptiška f
 zakonnik - řeholník
 zakręt - zatáčka f
 zakrystian - sakristán m
-żal - smutek | žal
-zalany - opilý | opilec m
+żal - smutek, žal
+zalany - opilý, opilec m
 zaleta - klad
 zalotka - kleštičky
 żałować - litovat
 założyciel - zakladatel m
-zamach stanu - puč m | převrat m
+zamach stanu - puč m, převrat m
 Zambia - Zambie
-zamek - hrad m | zámek m | zip m
+zamek - hrad m, zámek m, zip m
 zamężna - vdaná f
 zamiennik - náhrada f
 zamorski - zámořský
-zamówienie - objednání | objednávka f | zakázka f
+zamówienie - objednání, objednávka f, zakázka f
 zamożność - bohatství
-Zaolzie - Záolší | Záolží | Zaolzí | Českotěšínsko
+Zaolzie - Záolší, Záolží, Zaolzí, Českotěšínsko
 zapad - západ
 zapalenie płuc - zápal plic
 zapalenie wyrostek wyrostka robaczkowego - apendicitida
-zapałka - zápalka | sirka
+zapałka - zápalka, sirka
 zapiekanka - zapekané
 zapierdolić - uhodit
 zapominać - zapomínat
 zapominalski - zapomnětlivý
 zapomnieć - zapomenout
-zaproponować - nabídnout | navrhnout
+zaproponować - nabídnout, navrhnout
 zaprosić - pozvat
 zaproszenie - pozvání n
-zaprzeczenie - zápor m | negace f
-zapusty - fašank m | fašangy | ostatky
+zaprzeczenie - zápor m, negace f
+zapusty - fašank m, fašangy, ostatky
 zapytać - zeptat se
 zaręczyny - zasnoubení
 zarękawek - rukávník m
 żarliwy - vroucí
 żarłok - žrout m
-zarodek - embryo n | zárodek m
-żart - vtip m | žert m
+zarodek - embryo n, zárodek m
+żart - vtip m, žert m
 zasłonak - pavučinec m
 zasługiwać - zasluhovat
 zasłużyć - zasloužit
-zasmażka - jíška f | zásmažka f | zápražka f
+zasmażka - jíška f, zásmažka f, zápražka f
 zasnąć - usínat
 zaspa - závěj f
-zastępca - zástupce m | náhradník m
+zastępca - zástupce m, náhradník m
 zastrużka - ořezávátko n
-zaświaty - podsvětí n | záhrobí n
-zatrzymać - zastavit | zastavovat | zatýkat
-zatrzymywać - zastavovat | zatýkat
+zaświaty - podsvětí n, záhrobí n
+zatrzymać - zastavit, zastavovat, zatýkat
+zatrzymywać - zastavovat, zatýkat
 zawał - infarkt m
 zawiść - závist f
 zawistny - závistivý
 zawodowy - profesionální
 zawór bezpieczeństwa - pojistný ventil
 zawrzeć - vařit
-zawsze - vždy | vždycky
-zawżdy - vždy | vždycky
+zawsze - vždy, vždycky
+zawżdy - vždy, vždycky
 zazulka - beruška f
 zbawienie - spása
 zbiornik - nádrž f
@@ -6642,8 +6642,8 @@ zbliżenie - pohlavní styk
 zboczeniec - úchylák m
 zbór - sbor
 zbrodnia katyńska - Katyňský masakr
-zbyt - odbyt m | příliš
-zdanie - věta f | názor m
+zbyt - odbyt m, příliš
+zdanie - věta f, názor m
 zdarzenie - událost f
 zdjęcie - fotografie f
 zdradzić - zradit
@@ -6651,7 +6651,7 @@ zdradziecki - zrádný
 zdrajczyni - zrádkyně f
 zdrowie - zdraví n
 zdrowy - zdravý
-zdrzadło - zrcadlo | zrcadlovka f
+zdrzadło - zrcadlo, zrcadlovka f
 Żdżar nad Sazawą - Žďár nad Sázavou
 zdziwienie - úžas m
 że - že
@@ -6661,8 +6661,8 @@ zebranie - mítink m
 zebroid - zebroid
 żeby - aby
 żeby mieć kołaczy, trzeba użyć pracy - bez práce nejsou koláče
-żec - palit | kouřit
-zefir - zefýr m | zefír m
+żec - palit, kouřit
+zefir - zefýr m, zefír m
 Zefir - Zefyros m
 zegarek - hodinky
 zegarmistrz - hodinář m
@@ -6675,7 +6675,7 @@ zegar słoneczny - sluneční hodiny
 żelazomangan - feromangan
 żelbet - železobeton m
 zelter - minerální voda f
-zelżywość - hanba f | ostuda f
+zelżywość - hanba f, ostuda f
 zemsta - msta f
 żenąć - běžet
 żeńczyna - žena f
@@ -6698,7 +6698,7 @@ zielony - zelený
 Ziemia - Země f
 Ziemianin - pozemšťan m
 Ziemianka - pozemšťanka f
-Ziemia Święta - Svatá země f | Svatá zem f
+Ziemia Święta - Svatá země f, Svatá zem f
 ziemniaczany - bramborový
 ziemniak - brambor
 ziemski - zemský
@@ -6712,7 +6712,7 @@ zioła prowansalskie - provensálské koření
 ziołolecznictwo - fytoterapie f
 ziom - krajan m
 ziomek - krajan m
-ziomkostwo - krajanské sdružení n | landsmanšaft m
+ziomkostwo - krajanské sdružení n, landsmanšaft m
 zista - babička f
 Zjednoczone Emiraty Arabskie - Spojené arabské emiráty
 zjeżdżalnia - skluzavka f
@@ -6723,7 +6723,7 @@ złośliwość - zlomyslnost f
 złotniczka - zlatnice f
 złotnik - zlatník m
 złoto - zlato n
-zły - špatný | nesprávný
+zły - špatný, nesprávný
 zmarszczka - vráska f
 zmartwienie - starost
 zmieniać - měnit
@@ -6734,7 +6734,7 @@ znachorka - mastičkářka f
 znać jak własną kieszeń - znát jako své boty
 znać się jak kura na pieprzu - rozumět něčemu jako koza petrželi
 znajda - nalezenec m
-znajdować - nacházet | nacházet se
+znajdować - nacházet, nacházet se
 znajomy - známý
 znak astronomiczny - astronomický symbol m
 znakomity - skvělý
@@ -6744,16 +6744,16 @@ znalazca - nálezce m
 znaleźć - najít
 znienacka - najednou
 znieść - zrušit
-żniwa - žeň f | žně
+żniwa - žeň f, žně
 znośny - snesitelný
-zodiak - zvěrokruh m | zvířetník m | zodiak m | zodiakus m
+zodiak - zvěrokruh m, zvířetník m, zodiak m, zodiakus m
 Zofia - Žofie f
 zoisyt - zoisit
 zol - podlaha f
 zola - podlaha f
 żołądek - žaludek m
-żółć - žluč | žlutý
-żołnierka - vojna f | vojákyně f | vojačka f
+żółć - žluč, žlutý
+żołnierka - vojna f, vojákyně f, vojačka f
 żółty - žlutý
 żółw - želva f
 żołwica - švagrová
@@ -6771,10 +6771,10 @@ zostać - zůstat
 zostawiać - nechat
 z poważaniem - s pozdravem
 z powodu - kvůli
-z powrotem - zpět | zpátky
-żrący - žíravý | leptavý
+z powrotem - zpět, zpátky
+żrący - žíravý, leptavý
 zrękowiny - zasnoubení
-źrenica - panenka f | zornice f | pupila f | oko n
+źrenica - panenka f, zornice f, pupila f, oko n
 źródło - pramen
 ZSRR - SSSR
 żuć - žvýkat
@@ -6782,28 +6782,28 @@ ZUM - IMC
 zupa - polévka f
 zupełny - úplný
 zupka chińska - vietnamská polévka f
-żuraw - jeřáb m | jeřáb
+żuraw - jeřáb m, jeřáb
 żurawina - brusinka
 żurnal - časopis
 żurnalistka - novinářka f
 Zurych - Curych
 zwiadowca - průzkumník m
-zwiastun - trailer | kinoupoutávka | kinotrailer
+zwiastun - trailer, kinoupoutávka, kinotrailer
 Związek Socjalistycznych Republik Radzieckich - Svaz sovětských socialistických republik
 zwieracz - svěrač
-zwierciadło - zrcadlo | zrcadlovka f
-zwierzak - živočich m | zvíře n
-zwierzę - živočich m | zvíře n
+zwierciadło - zrcadlo, zrcadlovka f
+zwierzak - živočich m, zvíře n
+zwierzę - živočich m, zvíře n
 żwir - štěrk m
 zwłaszcza - zejména
 zwłoki - mrtvola f
-zwolenniczka - přívrženkyně f | stoupenkyně f
-zwolić - vybrat | zvolit
+zwolenniczka - přívrženkyně f, stoupenkyně f
+zwolić - vybrat, zvolit
 zwolnienie lekarskie - neschopenka f
 zwrotnica - výhybka
-z wyjątkiem - kromě | mimo
+z wyjątkiem - kromě, mimo
 zwykle - obvykle
-z wyłączeniem - kromě | mimo
+z wyłączeniem - kromě, mimo
 żybura - žinčice f
 życie - život
 żyć na wysokiej stopie - žít na vysoké noze
@@ -6818,13 +6818,13 @@ z wyłączeniem - kromě | mimo
 Żylina - Žilina f
 zymft - hořčice
 żymła - žemle f
-żyniaczka - svatba f | sňatek m
+żyniaczka - svatba f, sňatek m
 żynich - ženich m
 zyntyca - žinčice f
 żyrafa - žirafa f
 Żytawa - Žitava
-żywe srebro - živé stříbro n | rtuť f
-żywić - živit | jíst
+żywe srebro - živé stříbro n, rtuť f
+żywić - živit, jíst
 żywokost - kostival m
 żywokostowy - kostivalový
 z zamkniętymi oczami - se zavřenýma očima

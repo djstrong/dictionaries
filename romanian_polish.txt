@@ -1,8 +1,8 @@
-a - do | i | ale
+a - do, i, ale
 abajur - klosz
-abandon - opuszczenie | zaniedbanie
+abandon - opuszczenie, zaniedbanie
 abate - opat
-abces - ropień | wrzód
+abces - ropień, wrzód
 abdica - abdykować
 Abhazia - Abchazja
 abiogeneză - abiogeneza
@@ -20,12 +20,12 @@ acest - ten
 achiu - seler
 acolo - tam
 acoperiș - dach
-acord - traktat | układ | porozumienie
+acord - traktat, układ, porozumienie
 acru - kwaśny
 actiniu - aktyn
 actor - aktor
 actriță - aktorka
-acum - teraz | obecnie
+acum - teraz, obecnie
 acumula - gromadzić
 acumulator - akumulator
 acuza - oskarżać
@@ -39,17 +39,17 @@ adevăr - prawda
 adevărat - prawdziwy
 adjectiv - przymiotnik
 administrație - administracja
-adora - uwielbiać | czcić
+adora - uwielbiać, czcić
 adresă - adres
-aduce - przyprowadzić | przynieść
-adult - osoba dorosła | dorosły
+aduce - przyprowadzić, przynieść
+adult - osoba dorosła, dorosły
 aduna - zebrać
 adunare - dodawanie
 adverb - przysłówek
 adverbial - przysłówkowy
-adversar - adwersarz | przeciwnik
-aeronautic - aeronautyczny | lotniczy
-aeronautică - aeronautyka | lotnictwo | aeronautic
+adversar - adwersarz, przeciwnik
+aeronautic - aeronautyczny, lotniczy
+aeronautică - aeronautyka, lotnictwo, aeronautic
 aeroport - lotnisko
 afară - na zewnątrz
 Afganistan - Afganistan
@@ -61,7 +61,7 @@ agale - powoli
 agentă - agentka
 agenție - agencja
 agnosticism - agnostycyzm
-agresor - agresor | napastnik
+agresor - agresor, napastnik
 agricultură - rolnictwo
 aici - tutaj
 aisberg - góra lodowa
@@ -69,21 +69,21 @@ ajuta - pomagać
 ajutor - pomoc
 alanină - alanina
 albanez - albański
-albaneză - albański | Albanka | albanez
+albaneză - albański, Albanka, albanez
 Albania - Albania
-albastru - niebieski | błękitny
+albastru - niebieski, błękitny
 albeață - biel
 albină - pszczoła
 alchimic - alchemiczny
 alege - wybrać
-alegere - wybory | elekcja
+alegere - wybory, elekcja
 alergie - alergia
 alfabet - alfabet
 algebră - algebra
 algebric - algebraiczny
 aliat - sojusznik
 aligator - aligator
-altminteri - inaczej | w przeciwnym razie
+altminteri - inaczej, w przeciwnym razie
 aluat - ciasto
 aluminiu - glin
 amărăciune - gorycz
@@ -91,11 +91,11 @@ ambasadă - ambasada
 ambasador - ambasador
 ambiție - ambicja
 amenința - grozić
-amenințare - groźba | zagrożenie
+amenințare - groźba, zagrożenie
 America - Ameryka
 America de Nord - Ameryka Północna
 America de Sud - Ameryka Południowa
-american - Amerykanin | amerykański
+american - Amerykanin, amerykański
 americiu - ameryk
 amestec - mieszanka
 amețeală - zawroty głowy
@@ -117,7 +117,7 @@ Anglia - Anglia
 animal - zwierzę
 animalitate - zwierzęcość
 anin - olcha
-aniversare - rocznica | urodziny
+aniversare - rocznica, urodziny
 Antarctica - Antarktyka
 anterior - poprzedni
 antic - stary
@@ -138,7 +138,7 @@ ara - orać
 Arabia Saudită - Arabia Saudyjska
 Aragon - Aragonia
 aramă - miedź
-arăta - pokazać | wykazać | wskazać | okazać się
+arăta - pokazać, wykazać, wskazać, okazać się
 arătos - przystojny
 arbaletă - kusza
 arbore - drzewo
@@ -168,14 +168,14 @@ arunca - rzucić
 asară - zeszłej nocy
 asculta - słuchać
 aseară - zeszłej nocy
-asemenea - podobny | taki
+asemenea - podobny, taki
 asexualitate - aseksualność
 Asia - Azja
 asociație - stowarzyszenie
 aspirină - aspiryna
 astatiniu - astat
-astăzi - dziś | dzisiaj
-aștepta - czekać | oczekiwać
+astăzi - dziś, dzisiaj
+aștepta - czekać, oczekiwać
 asteroid - asteroida
 astmă - astma
 astronom - astronom
@@ -187,7 +187,7 @@ atletică ușoară - lekkoatletyka
 atmosferă - atmosfera
 atom - atom
 atrage - przyciągać
-atringe - dotknąć | sięgnąć
+atringe - dotknąć, sięgnąć
 atrocitate - okrucieństwo
 atrofie - atrofia
 august - sierpień
@@ -201,8 +201,8 @@ Austro-Ungaria - Austro-Węgry
 autobuz - autobus
 autogară - dworzec autobusowy
 automobil - samochód
-automobilistic - automobilowy | samochodowy
-autor - autor | pisarz
+automobilistic - automobilowy, samochodowy
+autor - autor, pisarz
 autostradă - autostrada
 auzi - słyszeć
 avalanșă - lawina
@@ -210,7 +210,7 @@ avantajos - korzystny
 avea - mieć
 avion - samolot
 Avraam - Abraham
-azer - Azer | Azerbejdżanin | azerski | azerbejdżański
+azer - Azer, Azerbejdżanin, azerski, azerbejdżański
 Azerbaidjan - Azerbejdżan
 azi noapte - zeszłej nocy
 azot - azot
@@ -221,12 +221,12 @@ bacă - jagoda
 Bahrain - Bahrajn
 băiat - chłopak
 bălai - blond
-balaur - smok | potwór
+balaur - smok, potwór
 balenă - wieloryb
 băltoacă - kałuża
-ban - pieniądz | ban
+ban - pieniądz, ban
 banană - banan
-bancă - bank | ławka
+bancă - bank, ławka
 bancnotă - banknot
 bandaj - bandaż
 baraj - tama
@@ -259,7 +259,7 @@ berkeliu - berkel
 bibliotecă - biblioteka
 bicicletă - rower
 bilă - żółć
-binecuvânta - błogosławić | chwalić
+binecuvânta - błogosławić, chwalić
 biochimie - biochemia
 biogeneză - biogeneza
 biograf - biograf
@@ -268,7 +268,7 @@ biolog - biolog
 biologic - biologiczny
 biologie - biologia
 birou - biuro
-biserică - kościół | cerkiew | zbór
+biserică - kościół, cerkiew, zbór
 bisexualitate - biseksualizm
 bismut - bizmut
 blană - futro
@@ -305,7 +305,7 @@ bufnă - sowa
 bufniță - sowa
 bujor - piwonia
 bulgar - Bułgar
-bulgară - bułgarski | Bułgarka | bulgar
+bulgară - bułgarski, Bułgarka, bulgar
 Bulgaria - Bułgaria
 bulgur - bulgur
 bună dimineața - dzień dobry
@@ -318,18 +318,18 @@ Burkina Faso - Burkina Faso
 burtă - brzuch
 buruiană - chwast
 Burundi - Burundi
-că - że | iż
+că - że, iż
 cacao - kakao
-cădea - upaść | spaść
+cădea - upaść, spaść
 cadmiu - kadm
 cadou - prezent
 cafea - kawa
 cafeă - kawa
-câine - pies (rodzaj zwierzęcia) | pies (samiec psa)
+câine - pies (rodzaj zwierzęcia), pies (samiec psa)
 Câinele Mare - Wielki Pies
 caisă - morela
 cal - koń
-călărie - jeździectwo | jazda konna
+călărie - jeździectwo, jazda konna
 călătorie - podróż
 calculator - komputer
 caldarâm - chodnik
@@ -337,11 +337,11 @@ căldare - wiadro
 căldură - ciepło
 cale - aleja
 Calea Lactee - Droga Mleczna
-calendar - kalendarz | almanach
+calendar - kalendarz, almanach
 californiu - kaliforn
 cămașă - koszula
 Cambodgia - Kambodża
-cameră de zi - pokój gościnny | duży pokój
+cameră de zi - pokój gościnny, duży pokój
 cămilă - wielbłąd
 cămin - komin
 câmp - pole
@@ -350,7 +350,7 @@ cancer - rak
 cânepă - konopie
 cangur - kangur
 cânta - śpiewać
-cântec - piosenka | pieśń
+cântec - piosenka, pieśń
 cap - głowa
 capabil - zdolny
 capabilitate - zdolność
@@ -361,21 +361,21 @@ Capul Verde - Republika Zielonego Przylądka
 cărămidă - cegła
 carbon - węgiel
 cărbune - węgiel
-cârd - stado | chmara
+cârd - stado, chmara
 cardamom - kardamon
 cârmă - ster
-carmin - szkarłatny | bordo
+carmin - szkarłatny, bordo
 cârnat - kiełbasa
-carte - książka | karta
+carte - książka, karta
 cartof - ziemniak
 casă - dom
 căsca - ziewać
 castra - kastrować
 castravete - ogórek
 cât - ile
-cățea - suka | samica psa | dziwka
+cățea - suka, samica psa, dziwka
 categorie - kategoria
-cățel - szczeniak | szczenię
+cățel - szczeniak, szczenię
 catifea - aksamit
 catran - smoła
 căuta - szukać
@@ -391,19 +391,19 @@ celar - spiżarnia
 cel puțin - przynajmniej
 central - centralny
 centură - pas
-cenzura - cenzurować | cenzură
-cer - niebo | firmament | niebiosa | raj | Bóg | opatrzność
+cenzura - cenzurować, cenzură
+cer - niebo, firmament, niebiosa, raj, Bóg, opatrzność
 cerb - jeleń
 cerc - kółko
 cercel - kolczyk
 cerceta - szukać
-cercetare - szukanie | poszukiwanie
+cercetare - szukanie, poszukiwanie
 cerință - potrzeba
 ceriu - cer
 cerși - błagać
 certificat - certyfikat
 cesiu - cez
-cetate - cytadela | forteca
+cetate - cytadela, forteca
 ceva - coś
 CFR - Koleje Rumuńskie
 cheie - klucz
@@ -416,17 +416,17 @@ chitară - gitara
 chitosan - chitozan
 cicatrice - blizna
 ciclism - kolarstwo
-cifră - cyfra | liczba
+cifră - cyfra, liczba
 ciment - cement
 cimitir - cmentarz
 cincea - piąty
-cinci - pięć | 5
+cinci - pięć, 5
 cincilea - piąty
 cincisprezece - piętnaście
 cincisprezecea - piętnasty
 cincisprezecelea - piętnasty
-cincizeci - pięćdziesiąt | 50
-cinematic - kinematograficzny | filmowy | kinowy
+cincizeci - pięćdziesiąt, 50
+cinematic - kinematograficzny, filmowy, kinowy
 cingătoare - pas
 cinzeci - pięćdziesiąt
 cioacă - kawka
@@ -444,13 +444,13 @@ circumstanță - okoliczność
 cisternă - cysterna
 citi - czytać
 citologie - cytologia
-ciudat - cudaczny | dziwny
+ciudat - cudaczny, dziwny
 civilizație - cywilizacja
 clădi - budować
-clădire - budynek | budowanie
+clădire - budynek, budowanie
 clei - klej
 clinică - klinika
-clipă - chwila | moment
+clipă - chwila, moment
 clopot - dzwon
 clor - chlor
 coasă - kosa
@@ -468,18 +468,18 @@ colonie - kolonia
 colorat - kolorowy
 Columb - Kolumb (odkrywca)
 comanda - rozkazywać
-comandă - rozkaz | polecenie
-combatant - bojownik | wojownik | bojowniczy | walczący
+comandă - rozkaz, polecenie
+combatant - bojownik, wojownik, bojowniczy, walczący
 combate - walczyć
-combativ - bojowy | wojowniczy
+combativ - bojowy, wojowniczy
 combustibil - paliwo
 cometă - kometa
 comoară - skarb
 compara - porównać
 comparare - porównanie
 comparație - porównanie
-compasiune - współczucie | miłosierdzie | litość
-complet - kompletny | całkowicie
+compasiune - współczucie, miłosierdzie, litość
+complet - kompletny, całkowicie
 complex - złożony
 complexitate - złożoność
 compozitor - kompozytor
@@ -487,21 +487,21 @@ comunicație - komunikacja
 comunism - komunizm
 comunitate - społeczność
 concavitate - wklęsłość
-conflict - konflikt | niezgoda | spór
+conflict - konflikt, niezgoda, spór
 conform - według
 coniac - koniak
 consoană - spółgłoska
-constelație - gwiazdozbiór | konstelacja
+constelație - gwiazdozbiór, konstelacja
 constituție - konstytucja
 construi - konstruować
 continent - kontynent
-controla - kontrolować | sprawdzać | przeprowadzać inspekcję | weryfikować | testować
+controla - kontrolować, sprawdzać, przeprowadzać inspekcję, weryfikować, testować
 convențional - konwencjonalny
 coopera - współpracować
 copac - drzewo
 Copenhaga - Kopenhaga
 copia - kopiować
-copil - dziecko | wilk | hak
+copil - dziecko, wilk, hak
 corb - kruk
 Coreea - Korea
 Coreea de Nord - Korea Północna
@@ -517,9 +517,9 @@ costa - kosztować
 Costa Rica - Kostaryka
 coțofană - sroka
 Crăciun - Boże Narodzenie
-crâng - zagajnik | zarośla | gąszcz
+crâng - zagajnik, zarośla, gąszcz
 craniu - czaszka
-crăpa - rozbić | rozłamać | rozpołowić | rozłupać | pęknąć | rozpęknąć się | rozerwać się
+crăpa - rozbić, rozłamać, rozpołowić, rozłupać, pęknąć, rozpęknąć się, rozerwać się
 cravată - krawat
 crea - tworzyć
 creangă - gałąź
@@ -528,7 +528,7 @@ creativitate - kreatywność
 creatură - stworzenie
 crede - wierzyć
 credibil - wiarygodny
-creier - mózg | inteligencja
+creier - mózg, inteligencja
 creion - ołówek
 creștinism - chrześcijaństwo
 crevetă - krewetka
@@ -536,19 +536,19 @@ crimă - morderstwo
 crin - lilia
 cripton - krypton
 crizantemă - chryzantema
-croată - Chorwatka | chorwacki | chorwacka | f  croat
+croată - Chorwatka, chorwacki, chorwacka, f  croat
 Croația - Chorwacja
 croitor - krawiec
 crom - chrom
 cromozom - chromosom
 cruciadă - krucjata
-cu - z | z (razem)
-cub - sześcian | kostka
+cu - z, z (razem)
+cub - sześcian, kostka
 cubism - kubizm
 cucerire - podbój
 cugeta - myśleć
 cuib - gniazdo
-culoare - barwa | kolor
+culoare - barwa, kolor
 cultură - kultura
 cumnat - szwagier
 cumnată - szwagierka
@@ -568,7 +568,7 @@ curiu - kiur
 curte - sąd
 curvă - kurwa
 cuțit - nóż
-cuvânt - słowo | wyraz
+cuvânt - słowo, wyraz
 da - dawać
 dacă - język dacki
 daltă - dłuto
@@ -577,7 +577,7 @@ dans - taniec
 dansa - tańczyć
 dânsa - ona
 dânsul - on
-dar - prezent | dar | podarunek | wtedy | ale
+dar - prezent, dar, podarunek, wtedy, ale
 darmstadtiu - darmsztadt
 dativ - celownik
 deal - pagórek
@@ -620,9 +620,9 @@ dificultate - trudność
 digestie - trawienie
 dimensiune - wymiar
 dimineață - ranek
-din - z | na | w
+din - z, na, w
 din cauză că - ponieważ
-din nou - znowu | znów
+din nou - znowu, znów
 dinte - ząb
 dintre - wśród
 dirijor - dyrygent
@@ -632,7 +632,7 @@ dispărea - zniknąć
 disprosiu - dysproz
 distanță - odległość
 distruge - zniszczyć
-diversitate - różnorodność | zróżnicowanie
+diversitate - różnorodność, zróżnicowanie
 divorț - rozwód
 divorța - rozwodzić się
 doi - dwa
@@ -642,13 +642,13 @@ doisprezecelea - dwunasty
 dolmen - dolmen
 domestic - domowy
 dor - tęsknota
-dori - pragnąć | życzyć
+dori - pragnąć, życzyć
 dormi - spać
 dormitor - sypialnia
 două - dwa
 douăsprezece - dwanaście
 douăzecea - dwudziesty
-douăzeci - dwadzieścia | 20
+douăzeci - dwadzieścia, 20
 douăzecilea - dwudziesty
 dovedi - udowodnić
 dovleac - dynia
@@ -660,21 +660,21 @@ drept - prawo
 drojdie - drożdże
 drum - droga
 dubniu - dubn
-duce - nieść | prowadzić | wieść
+duce - nieść, prowadzić, wieść
 dulce - słodki
 duminică - niedziela
-dumneavoastră - wasz | należeć do Państwa
+dumneavoastră - wasz, należeć do Państwa
 dumnezeu - Bóg
 Dumnezeu - Bóg
 după - po
 durată - czas trwania
 dureros - bolesny
 duș - prysznic
-dușman - nieprzyjaciel | wróg
+dușman - nieprzyjaciel, wróg
 dușmăni - nienawidzić
 ea - ona
 echinocțiu - równonoc
-echipă - zespół | drużyna
+echipă - zespół, drużyna
 economie - gospodarka
 ecosistem - ekosystem
 ecran - ekran
@@ -688,21 +688,21 @@ el - on
 electromagnetic - elektromagnetyczny
 electron - elektron
 elefant - słoń
-elimina - eliminować | likwidować
+elimina - eliminować, likwidować
 Elveția - Szwajcaria
-embrion - embrion | zarodek
+embrion - embrion, zarodek
 Emilia - Emilia
 emisferă - półkula
-emoție - emocja | uczucie
+emoție - emocja, uczucie
 emoțional - emocjonalny
-empiric - empiryczny | doświadczalny
+empiric - empiryczny, doświadczalny
 enciclopedie - encyklopedia
 energie - energia
 engleză - język angielski
 enigmă - zagadka
 enigmatic - enigmatyczny
 episcop - biskup
-epocă - epoka | okres
+epocă - epoka, okres
 erbiu - erb
 Eritrea - Erytrea
 erotic - erotyczny
@@ -722,7 +722,7 @@ Europa Centrală - Europa Środkowa
 europiu - europ
 evacuare - ewakuacja
 evanghelie - ewangelia
-eveniment - wydarzenie | ewenement
+eveniment - wydarzenie, ewenement
 evlavios - pobożny
 evoluție - ewolucja
 exagera - przesadzać
@@ -737,7 +737,7 @@ explica - wyjaśniać
 explicație - wyjaśnienie
 exportator - eksporter
 extern - zewnętrzny
-face - robić | wykonywać
+face - robić, wykonywać
 fagure - plaster
 faimos - słynny
 făină - mąka
@@ -749,8 +749,8 @@ fân - siano
 fanatism - fanatyzm
 fără - bez
 farmacologie - farmakologia
-fată - dziewczyna | córka
-față - twarz | oblicze
+fată - dziewczyna, córka
+față - twarz, oblicze
 februarie - luty
 federație - federacja
 femeie - kobieta
@@ -761,7 +761,7 @@ ferigă - paproć
 fermă - farma
 fermecător - uroczy
 fesă - pośladek
-fi - być | istnieć
+fi - być, istnieć
 fiară - zwierzę
 fibră - włókno
 fier - żelazo
@@ -777,7 +777,7 @@ firesc - naturalny
 fiu - syn
 fiu vitreg - pasierb
 fizic - fizyczny
-fizică - fizyka | fizic
+fizică - fizyka, fizic
 fizician - fizyk
 fiziolog - fizjolog
 fiziologie - fizjologia
@@ -798,10 +798,10 @@ folosire - używanie
 folositor - przydatny
 fonetic - fonetyczny
 forja - wykuwać
-forță - siła | moc
+forță - siła, moc
 fortăreață - forteca
 fosfor - fosfor
-fost - były | dawny
+fost - były, dawny
 fotbal - piłka nożna
 fotbalist - piłkarz
 foto - zdjęcie
@@ -820,21 +820,21 @@ frică - strach
 fricțiune - tarcie
 frontieră - granica
 fruct - owoc
-frumos - ładny | piękny | śliczny | piękno (kategoria estetyczna)
+frumos - ładny, piękny, śliczny, piękno (kategoria estetyczna)
 fugi - uciekać
 fum - dym
 fumar - komin
 funcție - funkcja
 funcționalitate - funkcjonalność
-fundamental - podstawowy | zasadniczy
-funie - lina | sznur
+fundamental - podstawowy, zasadniczy
+funie - lina, sznur
 fura - kraść
 furculingură - łyżkowidelec
 furculiță - widelec
 furios - wściekły
 furnică - mrówka
 furnicătură - swędzenie
-furt - kradzież | rabunek
+furt - kradzież, rabunek
 fustă - spódnica
 Gabon - Gabon
 gâdila - łaskotać
@@ -843,15 +843,15 @@ găină - kura
 galben - żółty
 Galileea - Galilea (kraina)
 galiu - gal
-gândac - żuk | karaluch
+gândac - żuk, karaluch
 gândi - myśleć
-gară - stacja | dworzec
+gară - stacja, dworzec
 garaj - garaż
 gard - płot
 Gargantua - Gargantua
 gâscă - gęś
 găsi - znaleźć
-gât - gardło | szyja
+gât - gardło, szyja
 găti - gotować
 gâtlej - gardło
 gaură - dziura
@@ -887,7 +887,7 @@ golf - zatoka
 goli - opróżniać
 gospodină - gospodyni domowa
 grabă - pośpiech
-grăbi - przyspieszać | pospieszać
+grăbi - przyspieszać, pospieszać
 grădină - ogród
 grafit - grafit
 gram - gram
@@ -898,9 +898,9 @@ gravitațional - grawitacyjny
 grecesc - grecki
 Grecia - Grecja
 greșeală - pomyłka
-greu - ciężki | trudny
+greu - ciężki, trudny
 Guatemala - Gwatemala
-gură - buzia | usta
+gură - buzia, usta
 gustos - smaczny
 gutuie - pigwa
 guvern - rząd
@@ -925,7 +925,7 @@ histologie - histologia
 hochei - hokej
 holmiu - holm
 homar - homar
-homosexualitate - homoseksualność | homoseksualizm
+homosexualitate - homoseksualność, homoseksualizm
 hormon - hormon
 Horus - Horus
 hoț - złodziej
@@ -944,7 +944,7 @@ iarbă - trawa
 iarnă - zima
 iederă - bluszcz
 ieftin - tani
-iepure - zając | królik
+iepure - zając, królik
 ierarhie - hierarchia
 ieri - wczoraj
 ierta - wybaczać
@@ -953,13 +953,13 @@ iluminație - oświetlenie
 iluzie - iluzja
 imagina - wyobrazić sobie
 imaginație - wyobraźnia
-imagine - wizerunek | obraz
+imagine - wizerunek, obraz
 imaturitate - niedojrzałość
 îmbrăcăminte - odzież
-îmbrățișare - uścisk | objęcie
+îmbrățișare - uścisk, objęcie
 imediat - natychmiast
 imperialism - imperializm
-important - ważny | doniosły
+important - ważny, doniosły
 imposibil - niemożliwy
 imposibilitate - niemożliwość
 împreună - razem
@@ -977,20 +977,20 @@ incendiu - pożar
 închis - zamknięty
 închisoare - więzienie
 include - zawierać
-inclus - załączony | włączony
+inclus - załączony, włączony
 înconjur - objazd
 încorona - koronować
-încredere - wiara | ufność
+încredere - wiara, ufność
 încuia - zamknąć na klucz
-independență - niezależność | niepodległość
-indicator - znak | wskaźnik
+independență - niezależność, niepodległość
+indicator - znak, wskaźnik
 indicator rutier - znak drogowy
 indiscret - niedyskretny
 indispensabil - nieodzowny
 indiu - ind
 Indonezia - Indonezja
-indoneziană - indonezyjski | Indonezyjka | indonezian
-îndrăzni - ośmielić się | odważyć się
+indoneziană - indonezyjski, Indonezyjka, indonezian
+îndrăzni - ośmielić się, odważyć się
 inexplicabil - niewytłumaczalny
 infinitate - nieskończoność
 inflație - inflacja
@@ -1011,7 +1011,7 @@ instabilitate - niestabilność
 instrument - instrument
 insulă - wyspa
 întâietate - priorytet
-întâmpla - zdarzyć się | wydarzyć się
+întâmpla - zdarzyć się, wydarzyć się
 înțelege - rozumieć
 inteligent - inteligentny
 intensitate - intensywność
@@ -1028,10 +1028,10 @@ intra - wejść
 întrebare - pytanie
 întrebuința - używać
 întrucât - ponieważ
-învârti - kręcić | obracać | kręcić się | obracać się
+învârti - kręcić, obracać, kręcić się, obracać się
 invazie - inwazja
 inventa - wynaleźć
-înverzi - pomalować na zielono | zazielenić | zazielenić się
+înverzi - pomalować na zielono, zazielenić, zazielenić się
 investitor - inwestor
 invidie - zazdrość
 invincibil - niezwyciężony
@@ -1074,7 +1074,7 @@ Kuweit - Kuwejt
 la - u
 lac - jezioro
 lacrimă - łza
-lăcustă - szarańcza | konik polny
+lăcustă - szarańcza, konik polny
 lalea - tulipan
 lămâie - cytryna
 lână - wełna
@@ -1085,13 +1085,13 @@ lapte - mleko
 lăptos - mleczny
 la revedere - do widzenia
 larg - szeroki
-lăsa - puścić | pozwolić
+lăsa - puścić, pozwolić
 latin - łaciński
-lăuda - chwalić | wysławiać
+lăuda - chwalić, wysławiać
 lawrențiu - lorens
 lebădă - łabędź
 lecție - lekcja
-legatură - link | hiperłącze
+legatură - link, hiperłącze
 legendar - legendarny
 legiune - legion
 legumă - warzywo
@@ -1101,9 +1101,9 @@ lesbiană - lesbijka
 leșina - zemdleć
 leton - łotewski
 Letonia - Łotwa
-leu - lew | lej
+leu - lew, lej
 Liban - Liban
-libertate - wolność | swoboda
+libertate - wolność, swoboda
 librar - księgarz
 librărie - księgarnia
 limbă - język
@@ -1116,7 +1116,7 @@ linte - soczewica
 lipici - klej
 lipitoare - pijawka
 literar - literacki
-literat - literat | pisarz
+literat - literat, pisarz
 literatură - literatura
 litiu - lit
 Lituania - Litwa
@@ -1129,33 +1129,33 @@ locuitor - mieszkaniec
 logaritm - logarytm
 Londra - Londyn
 lopată - łopata
-lor - ich | im
+lor - ich, im
 loterie - loteria
 lotus - lotus
 lovi - uderzać
 lubeniță - arbuz
 lucra - pracować
 lucrare - praca
-lucru - rzecz | sprawa
-lumânare - świeca | świeczka | dziewanna kutnerowata
+lucru - rzecz, sprawa
+lumânare - świeca, świeczka, dziewanna kutnerowata
 lume - świat
 lumină - światło
-lună - księżyc | miesiąc
-lunar - księżycowy | miesięczny
+lună - księżyc, miesiąc
+lunar - księżycowy, miesięczny
 lung - długi
-lungime - długość | czas trwania
+lungime - długość, czas trwania
 luni - poniedziałek
 lup - wilk
 lutețiu - lutet
 mac - mak
 Macedonia - Macedonia
 măcelar - rzeźnik
-macromoleculă - makromolekuła | makrocząsteczka
+macromoleculă - makromolekuła, makrocząsteczka
 macrou - makrela
 măgar - osioł
-magazin - magazyn | czasopismo | skleo
-maghiar - węgierski | Węgier
-maghiară - Węgierka | węgierski | f  maghiar
+magazin - magazyn, czasopismo, skleo
+maghiar - węgierski, Węgier
+maghiară - Węgierka, węgierski, f  maghiar
 magneziu - magnez
 măgură - pagórek
 mai - maj
@@ -1176,7 +1176,7 @@ mangan - mangan
 mănușă - rękawiczka
 măr - jabłko
 mărar - koper
-mare - wielki | morze
+mare - wielki, morze
 Marea Britanie - Wielka Brytania
 Marea Mediterană - Morze Śródziemne
 Marea Neagră - Morze Czarne
@@ -1201,7 +1201,7 @@ mătură - miotła
 mătușă - ciotka
 Mauritania - Mauretania
 mecanic - mechaniczny
-medical - leczniczy | medyczny
+medical - leczniczy, medyczny
 medicină - medycyna
 mediocru - mierny
 meduză - meduza
@@ -1233,16 +1233,16 @@ mire - pan młody
 mirosi - pachnieć
 mișcare - ruch
 misterios - tajemniczy
-moale - miękki | słaby
+moale - miękki, słaby
 moarte - śmierć
 model - szablon
-moft - kaprys | drobnostka
-moldovenească - mołdawska | Mołdawianka | język mołdawski
+moft - kaprys, drobnostka
+moldovenească - mołdawska, Mołdawianka, język mołdawski
 molibden - molibden
 molie - ćma
 monarhie - monarchia
 mondial - światowy
-monedă - moneta | waluta | środek płatniczy
+monedă - moneta, waluta, środek płatniczy
 monogamie - monogamia
 monstru - potwór
 moped - motorower
@@ -1259,7 +1259,7 @@ mulge - doić
 multicultural - wielokulturowy
 mulțime - tłum
 mulțumesc - dziękuję
-mumă - matka | królowa pszczół
+mumă - matka, królowa pszczół
 muncă - praca
 munci - pracować
 munte - góra
@@ -1270,7 +1270,7 @@ muri - umrzeć
 musafir - gość
 mușca - gryźć
 muscă - mucha
-mușchi - mięsień | mech
+mușchi - mięsień, mech
 mustață - wąsy
 mutație - mutacja
 muzeu - muzeum
@@ -1282,10 +1282,10 @@ nadir - nadir
 Nairobi - Nairobi
 nămol - błoto
 nară - nozdrze
-narcotic - narkotyczny | narkotyk
+narcotic - narkotyczny, narkotyk
 nas - nos
 naș - ojciec chrzestny
-nașă - matka chrzestna | położna
+nașă - matka chrzestna, położna
 născut - urodzony
 natație - pływanie
 Națiunile Unite - Organizacja Narodów Zjednoczonych
@@ -1325,21 +1325,21 @@ nisip - piasek
 noapte - noc
 noapte bună - dobranoc
 nobeliu - nobel
-nobil - szlachetny | arystokrata
+nobil - szlachetny, arystokrata
 nocturn - nocny
 noi - my
 noiembrie - listopad
 nominativ - mianownik
-nor - chmura | obłok
+nor - chmura, obłok
 noră - synowa
 Norbert - Norbert
-nord - północ | północny (tylko w złożeniach)
-noroc - szczęście | szczęśliwy los
-norocos - szczęśliwy | mający szczęście
+nord - północ, północny (tylko w złożeniach)
+noroc - szczęście, szczęśliwy los
+norocos - szczęśliwy, mający szczęście
 noroi - błoto
 Norvegia - Norwegia
-norvegian - norweski | Norweg
-norvegiană - norweski | Norweżka | norvegian
+norvegian - norweski, Norweg
+norvegiană - norweski, Norweżka, norvegian
 nou - nowy
 noua - dziewiąty
 nouă - dziewięć
@@ -1353,15 +1353,15 @@ nouăzecilea - dziewięćdziesiąty
 nu - nie
 nud - nagi
 numai - tylko
-număr - numer | liczba | cyfra
+număr - numer, liczba, cyfra
 număr de telefon - numer telefonu
-nume - imię | nazwa | nazwisko
-numi - nazywać | nazywać się
+nume - imię, nazwa, nazwisko
+numi - nazywać, nazywać się
 nuntă - ślub
 oaie - owca
 oaspete - gość
 obez - otyły
-obicei - zwyczaj | obyczaj
+obicei - zwyczaj, obyczaj
 obosit - zmęczony
 obrăznicie - bezczelność
 obscen - obsceniczny
@@ -1375,23 +1375,23 @@ Oceania - Oceania
 Oceanul Arctic - Ocean Arktyczny
 ochelari - okulary
 ochi - oko
-o clipă - jeszcze chwilę | za moment
+o clipă - jeszcze chwilę, za moment
 octombrie - październik
-oculistic - okulistyczny | oftalmologiczny
-oficial - urzędowy | oficjalny
+oculistic - okulistyczny, oftalmologiczny
+oficial - urzędowy, oficjalny
 ofta - wzdychać
 oglindă - lustro
 olar - garncarz
 olog - kulawy
 Olympia - Olimpia (miasto w Grecji)
-om - mężczyzna | człowiek
+om - mężczyzna, człowiek
 om de afaceri - przedsiębiorca
 omenesc - ludzki
 omenos - ludzki
 omogen - jednolity
 omor - morderstwo
 omorî - zabić
-operă - dzieło | utwór | praca | opera
+operă - dzieło, utwór, praca, opera
 opiu - opium
 opt - osiem
 opta - ósmy
@@ -1411,7 +1411,7 @@ organism - organizm
 Organizația Națiunilor Unite - Organizacja Narodów Zjednoczonych
 organizație - organizacja
 orgasm - orgazm
-orgolios - dumny | zarozumiały
+orgolios - dumny, zarozumiały
 orhidee - orchidea
 orientare - orientacja
 orientare sexuală - orientacja seksualna
@@ -1429,7 +1429,7 @@ ozon - ozon
 pa - na razie
 păcat - grzech
 pace - pokój
-pact - pakt | układ
+pact - pakt, układ
 păcurar - pasterz
 păduche - wesz
 pădure - las
@@ -1441,9 +1441,9 @@ paisprezece - czternaście
 paisprezecea - czternasty
 paisprezecelea - czternasty
 paladiu - pallad
-palat - pałac | podniebienie
+palat - pałac, podniebienie
 pâlnie - lejek
-pământ - ziemia (planeta) | ziemia | ląd | kraj
+pământ - ziemia (planeta), ziemia, ląd, kraj
 Pământ - Ziemia
 pană - pióro
 pandeism - pandeizm
@@ -1451,11 +1451,11 @@ pansexualitate - panseksualizm
 panteism - panteizm
 pantof - but
 papuc - kapeć
-pară - gruszka | płomień
+pară - gruszka, płomień
 paradox - paradoks
 parazit - pasożyt
 parazitar - pasożytniczy
-părea - wydawać się | wyglądać
+părea - wydawać się, wyglądać
 parfum - perfumy
 părinte - rodzic
 parlament - parlament
@@ -1472,7 +1472,7 @@ patinaj - łyżwiarstwo
 patologie - patologia
 patra - czwarty
 pătrat - kwadrat
-patru - cztery | 4
+patru - cztery, 4
 patrulea - czwarty
 patruzecea - czterdziesty
 patruzeci - czterdzieści
@@ -1483,15 +1483,15 @@ pe curând - na razie
 pedeapsă - kara
 peninsulă - półwysep
 Peninsula Arabică - Półwysep Arabski
-pentru - do | za
+pentru - do, za
 pentru că - ponieważ
 pepene verde - arbuz
-percheziție - poszukiwanie | szukanie
+percheziție - poszukiwanie, szukanie
 pereche - para
-periodic - okresowy | periodyczny
+periodic - okresowy, periodyczny
 perlă - perła
 pernă - poduszka
-persoană - człowiek | osoba
+persoană - człowiek, osoba
 personalitate - osobowość
 pescar - rybak
 pescui - łowić
@@ -1506,11 +1506,11 @@ picior - noga
 pictor - malarz
 pictură - malarstwo
 pieptene - grzebień
-pierde - stracić | zgubić
+pierde - stracić, zgubić
 pilot - pilot
 pin - sosna
 piscină - basen
-pisică - kot | kotka
+pisică - kot, kotka
 pistrui - pieg
 pitoresc - malowniczy
 Pittsburgh - Pittsburgh (stolica Allegheny)
@@ -1527,7 +1527,7 @@ planta - sadzić
 plantă - roślina
 plăti - płacić
 pleoapă - powieka
-plesni - rozłamać | rozłupać | uderzyć | łupnąć | smagnąć | pęknąć | rozpęknąć się | rozłamać się
+plesni - rozłamać, rozłupać, uderzyć, łupnąć, smagnąć, pęknąć, rozpęknąć się, rozłamać się
 pleșuv - łysy
 plicticos - nudny
 plictiseală - nuda
@@ -1542,7 +1542,7 @@ pluti - płynąć na powierzchni
 Pluto - Pluton
 plutoniu - pluton
 poamă - owoc
-pod - most | strych
+pod - most, strych
 poet - poeta
 poetă - poetka
 poetic - poetycki
@@ -1558,7 +1558,7 @@ politician - polityk
 poliție - policja
 polițist - policjant
 politologie - politologia
-poloneză - język polski | polonez
+poloneză - język polski, polonez
 Polonia - Polska
 poloniu - polon
 pom de Crăciun - choinka
@@ -1566,19 +1566,19 @@ Pomerania - Pomorze
 popice - kręgle
 popularitate - popularność
 porc spinos - jeżozwierz
-porni - uruchomić | zapuścić
-pornografic - pornograficzny | obsceniczny
+porni - uruchomić, zapuścić
+pornografic - pornograficzny, obsceniczny
 pornografie - pornografia
 porție - porcja
 portocală - pomarańcza
 portocaliu - pomarańczowy
 portret - portret
 Portugalia - Portugalia
-portugheză - portugalski | Portugalka
-porumb - kukurydza | gołąb
+portugheză - portugalski, Portugalka
+porumb - kukurydza, gołąb
 porumbel - gołąb
 porunci - rozkazać
-posibil - możliwy | prawdopodobnie | możliwość
+posibil - możliwy, prawdopodobnie, możliwość
 posibilitate - możliwość
 poștă - poczta
 potasiu - potas
@@ -1610,7 +1610,7 @@ prietenos - przyjazny
 primăvară - wiosna
 primejdie - niebezpieczeństwo
 primejdios - niebezpieczny
-primi - dostać | otrzymać
+primi - dostać, otrzymać
 prinț - książę
 prințesă - księżniczka
 prioritate - priorytet
@@ -1618,7 +1618,7 @@ privi - patrzeć
 priză - gniazdko
 prizonier - więzień
 problemă - problem
-productivitate - produktywność | wydajność
+productivitate - produktywność, wydajność
 profesoară - profesor
 profesor - profesor
 profitabil - korzystny
@@ -1637,8 +1637,8 @@ protocol - protokół
 psihiatrie - psychiatria
 psihologie - psychologia
 Ptah - Ptah
-public - publika | publiczny
-publicitate - rozgłos | reklama
+public - publika, publiczny
+publicitate - rozgłos, reklama
 pugilat - boks
 pulă - chuj
 pulpană - spódnica
@@ -1648,12 +1648,12 @@ purice - pchła
 puritate - czystość
 puroi - ropa
 purpură - purpurowy
-purta - nieść | nosić (ubranie) | zachowywać się
+purta - nieść, nosić (ubranie), zachowywać się
 pușcă - karabin
 pușcărie - więzienie
 putea - móc
 putere - moc
-puternic - silny | mocny
+puternic - silny, mocny
 răbdare - cierpliwość
 răceală - przeziębienie
 rădăcină - korzeń
@@ -1679,7 +1679,7 @@ reconciliere - pojednanie
 reducere - zniżka
 refuza - odmawiać
 regat - królestwo
-Regatul Unit - Wielka Brytania | Zjednoczone Królestwo
+Regatul Unit - Wielka Brytania, Zjednoczone Królestwo
 rege - król
 regim - reżim
 regină - królowa
@@ -1688,7 +1688,7 @@ religie - religia
 religios - religijny
 reniu - ren
 renova - odnawiać
-reprezentant - przedstawiciel | reprezentant
+reprezentant - przedstawiciel, reprezentant
 reproducere - reprodukcja
 republica - republika
 republică - republika
@@ -1696,22 +1696,22 @@ Republica Cehă - Republika Czeska
 Republica Federală Germania - Republika Federalna Niemiec
 respinge - odrzucać
 respira - oddychać
-respirație - oddech | oddychanie
+respirație - oddech, oddychanie
 Reunion - Reunion
 reuniune - spotkanie
 revoluție - rewolucja
-rezultat - rezultat | skutek | wynik
-ridica - podnieść | unieść | wznieść
+rezultat - rezultat, skutek, wynik
+ridica - podnieść, unieść, wznieść
 roată - koło
 rob - niewolnik
 robinet - kran
 rodiu - rod
 roi - rój
 Roma - Rzym
-română - język rumuński | Rumunka | român
+română - język rumuński, Rumunka, român
 românesc - rumuński
 România - Rumunia
-roșu - czerwony | czerwień
+roșu - czerwony, czerwień
 rotire - obrót
 rotund - okrągły
 rozător - gryzoń
@@ -1721,7 +1721,7 @@ rugăciune - modlitwa
 rugină - rdza
 rumeguș - trociny
 rusesc - rosyjski
-rușine - wstyd | zażenowanie | nieśmiałość
+rușine - wstyd, zażenowanie, nieśmiałość
 ruteniu - ruten
 rutherfordiu - rutherford
 rutier - drogowy
@@ -1739,7 +1739,7 @@ săgetător - łucznik
 șaizeci - sześćdziesiąt
 șaizecilea - szesnasty
 șal - szal
-salată - sałata | sałatka
+salată - sałata, sałatka
 salivă - ślina
 saltea - materac
 salut - cześć
@@ -1752,7 +1752,7 @@ sandviș - kanapka
 sânge - krew
 sângera - krwawić
 São Tomé și Príncipe - Wyspy Świętego Tomasza i Książęca
-sapă - motyka | oskard
+sapă - motyka, oskard
 săptămână - tydzień
 săptămînă - tydzień
 șapte - siedem
@@ -1763,7 +1763,7 @@ săptămînă - tydzień
 șaptesprezecelea - siedemnasty
 șaptezeci - siedemdziesiąt
 săpun - mydło
-sărbători - świętować | obchodzić
+sărbători - świętować, obchodzić
 sare - sól
 sări - skoczyć
 săritură - skok
@@ -1777,10 +1777,10 @@ sat - wieś
 satiră - satyra
 satisfacție - satysfakcja
 Saturn - Saturn
-sau - lub | albo
+sau - lub, albo
 scai - oset
 scandiu - skand
-scaun - krzesło | siedzenie
+scaun - krzesło, siedzenie
 schi - narta
 schimba - zmieniać
 schiță - szkic
@@ -1795,7 +1795,7 @@ scrie - pisać
 scriere - pismo
 scriitor - pisarz
 scrisoare - list
-scroafă - maciora | locha
+scroafă - maciora, locha
 scrotal - mosznowy
 scrumieră - popielniczka
 sculptor - rzeźbiarz
@@ -1807,7 +1807,7 @@ seaborgiu - seaborg
 seară - wieczór
 secară - żyto
 secetă - susza
-secol - wiek | stulecie
+secol - wiek, stulecie
 secție de poliție - komisariat policji
 secundă - sekunda
 securitate - bezpieczeństwo
@@ -1820,10 +1820,10 @@ semnificanță - znaczenie
 semnificație - znaczenie
 senator - senator
 separa - oddzielić
-separatist - separatysta | separatystyczny
+separatist - separatysta, separatystyczny
 septembrie - wrzesień
-ser - serum | surowica
-serv - chłop pańszczyźniany | niewolnik
+ser - serum, surowica
+serv - chłop pańszczyźniany, niewolnik
 sete - pragnienie
 șevalet - sztaluga
 sex oral - seks oralny
@@ -1834,7 +1834,7 @@ sferă cerească - sfera niebieska
 sfinx - sfinks
 sforăi - chrapać
 și - i
-Sibiu - miasto Sybin | okręg Sybin
+Sibiu - miasto Sybin, okręg Sybin
 sicriu - trumna
 silabă - sylaba
 silabic - sylabiczny
@@ -1848,18 +1848,18 @@ simulare - symulacja
 sinagogă - synagoga
 sinceritate - szczerość
 Singapore - Singapur
-sinonim - bliskoznaczny | synonim
+sinonim - bliskoznaczny, synonim
 sinteză - synteza
 sinucidere - samobójstwo
 sista - przerwać
 sistem - system
 sistem planetar - układ planetarny
 sistem solar - Układ Słoneczny
-situat - położony | usytuowany
+situat - położony, usytuowany
 situație - sytuacja
 slang - slang
-sloven - słoweński | Słoweniec
-slovenă - Słowenka | słoweński | sloven
+sloven - słoweński, Słoweniec
+slovenă - Słowenka, słoweński, sloven
 Slovenia - Słowenia
 smârc - bagno
 soacră - teściowa
@@ -1876,7 +1876,7 @@ soldat - żołnierz
 Solon - Solon
 solstițiu - przesilenie
 șomaj - bezrobocie
-somn - sen | spanie
+somn - sen, spanie
 sonet - sonet
 șopti - szeptać
 soră - siostra
@@ -1899,26 +1899,26 @@ spin - cierń
 spiritual - duchowy
 spital - szpital
 sport - sport
-spovedi - spowiadać się | wyznać
+spovedi - spowiadać się, wyznać
 sprânceană - brew
 spumă - piana
 spune - powiedzieć
 Sri Lanka - Sri Lanka
-stânga - lewo | lewa strona | stâng
+stânga - lewo, lewa strona, stâng
 staniu - cyna
 stat - państwo
-Statele Unite - Stany Zjednoczone | USA
+Statele Unite - Stany Zjednoczone, USA
 Statele Unite ale Americii - Stany Zjednoczone Ameryki
-statuie - posąg | statua
-staul - stoisko | stajnia
+statuie - posąg, statua
+staul - stoisko, stajnia
 stea - gwiazda
 steag - flaga
 Ştefan - Stefan
 șterge - usunąć
-șters - wycieranie | wymazanie
+șters - wycieranie, wymazanie
 stibiu - antymon
 sticlă - szkło
-știință - nauka | wiedza
+știință - nauka, wiedza
 științific - naukowy
 stimul - bodziec
 stol - chmara
@@ -1933,7 +1933,7 @@ strugure - winogrono
 strungă - kanion
 stup - ul
 stupiditate - głupota
-SUA - USA | Stany Zjednoczone Ameryki
+SUA - USA, Stany Zjednoczone Ameryki
 subiect - podmiot
 submarin - okręt podwodny
 substanță - substancja
@@ -1942,14 +1942,14 @@ subtil - subtelny
 suburban - podmiejski
 suc - sok
 succes - sukces
-sud - południowy (tylko w złożeniach) | południe
+sud - południowy (tylko w złożeniach), południe
 sudic - południowy
 sudoare - pot
 Suedia - Szwecja
-suficient - wystarczający | wystarczająco
+suficient - wystarczający, wystarczająco
 sufix - przyrostek
-sufla - dmuchać | dąć
-suflet - dusza | duch
+sufla - dmuchać, dąć
+suflet - dusza, duch
 sufletește - duchowo
 sufragerie - jadalnia
 sughița - czkać
@@ -1965,7 +1965,7 @@ sursă - źródło
 șurub - śruba
 susura - szeptać
 suta - setny
-sută - sto | 100
+sută - sto, 100
 sutălea - setny
 suveranitate - suwerenność
 tabără - obóz
@@ -1978,10 +1978,10 @@ tălmaci - tłumacz
 tâmplar - stolarz
 tantal - tantal
 țânțar - komar
-țară - kraj | wieś
+țară - kraj, wieś
 Țările de Jos - Holandia
 tastatură - klawiatura
-tată - ojciec | tata
+tată - ojciec, tata
 tată vitreg - ojczym
 tatuaj - tatuaż
 taxi - taksówka
@@ -2000,7 +2000,7 @@ temporar - tymczasowy
 terapie - terapia
 terbiu - terb
 termina - skończyć
-terminare - zakończenie | ukończenie
+terminare - zakończenie, ukończenie
 Termopile - Termopile
 te rog - proszę cię
 testicul - jądro
@@ -2028,20 +2028,20 @@ toxic - trujący
 toxicologie - toksykologia
 trabuc - cygaro
 trădător - zdrajca
-traduce - tłumaczyć | przekładać
+traduce - tłumaczyć, przekładać
 traducere - tłumaczenie
-trăi - żyć | mieszkać
-traiectorie - tor | trajektoria
+trăi - żyć, mieszkać
+traiectorie - tor, trajektoria
 trandafir - róża
 translator - tłumacz
 transmisie - transmisja
-Transnistria - Naddniestrze | Republika Naddniestrzańska
-transporta - transportować | przenosić
-tratat - traktat | układ | pakt
+Transnistria - Naddniestrze, Republika Naddniestrzańska
+transporta - transportować, przenosić
+tratat - traktat, układ, pakt
 treabă - praca
 trebui - potrzebować
 trebuință - potrzeba
-trei - trzy | 3
+trei - trzy, 3
 treia - trzeci
 treilea - trzeci
 treișpelea - trzynasty
@@ -2068,7 +2068,7 @@ Turcia - Turcja
 turcoaz - turkusowy
 Turkmenistan - Turkmenia
 turn - wieża
-turna - lać | wlać
+turna - lać, wlać
 țurțur - sopel
 tuse - kaszel
 tuși - kaszleć
@@ -2079,8 +2079,8 @@ ulcer - wrzód
 ulm - wiąz
 umbră - cień
 umbrelă - parasol
-un - jakiś | pewien | któryś | jeden
-unchi - wuj | wujek
+un - jakiś, pewien, któryś, jeden
+unchi - wuj, wujek
 undă - fala
 unde - gdzie
 undeva - gdzieś
@@ -2090,7 +2090,7 @@ Ungaria - Węgry
 unghie - paznokieć
 uniform - jednolity
 unitate - jedność
-uniune - związek | unia
+uniune - związek, unia
 Uniunea Europeană - Unia Europejska
 universitate - uniwersytet
 unșpelea - jedenasty
@@ -2107,7 +2107,7 @@ ununquadiu - ununquadium
 ununseptiu - ununseptium
 ununtriu - ununtrium
 unununiu - unununium
-urâciune - brzydota | strach | potwór
+urâciune - brzydota, strach, potwór
 uraniu - uran
 Uranus - Uran
 ureche - ucho
@@ -2120,7 +2120,7 @@ urzică - pokrzywa
 ușă - drzwi
 usca - suszyć
 usturoi - czosnek
-util - pomocny | przydatny
+util - pomocny, przydatny
 utilizator - użytkownik
 vacă - krowa
 vaccină - szczepionka
@@ -2135,19 +2135,19 @@ vânătaie - siniak
 vânător - myśliwy
 vandalism - wandalizm
 vânt - wiatr
-vânzător - sprzedawca | zdrajca
+vânzător - sprzedawca, zdrajca
 vară - lato
 vă rog - proszę
 Varșovia - Warszawa
 varză - kapusta
 vâsc - jemioła
-veac - wiek | stulecie
+veac - wiek, stulecie
 vedea - widzieć
 vegetarianism - wegetarianizm
 vehicul - pojazd
 venă - żyła
 verb - czasownik
-verde - zieleń | zielony
+verde - zieleń, zielony
 versiune - wersja
 vesel - zadowolony
 vest - zachód
@@ -2171,7 +2171,7 @@ virus - wirus
 vis - sen
 visa - śnić
 vitamină - witamina
-viteză - szybkość | prędkość
+viteză - szybkość, prędkość
 vizibil - widoczny
 vizibilitate - widoczność
 vizită - wizyta
@@ -2185,11 +2185,11 @@ volan - kierownica
 volum - objętość
 vomita - wymiotować
 vorbă - słowo
-vorbi - mówić | rozmawiać
+vorbi - mówić, rozmawiać
 vot - głosowanie
 votcă - wódka
 vrabie - wróbel
-vrăjitorie - sztuka magiczna | uprawianie magii
+vrăjitorie - sztuka magiczna, uprawianie magii
 vrea - chcieć
 vulcan - wulkan
 vulpe - lis
@@ -2208,7 +2208,7 @@ zâmbet - uśmiech
 zâmbitor - uśmiechnięty
 zăpadă - śnieg
 zară - maślanka
-zăvor - zasuwa | rygiel
+zăvor - zasuwa, rygiel
 zbor - lot
 zbura - lecieć
 zeamă - wywar
@@ -2221,7 +2221,7 @@ zenit - zenit
 zer - serwatka
 zestre - posag
 zeu - bóg
-zgaibă - pęcherz | bąbel
+zgaibă - pęcherz, bąbel
 zgomotos - hałaśliwy
 zi - dzień
 zice - powiedzieć

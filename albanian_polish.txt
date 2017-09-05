@@ -1,16 +1,16 @@
 abat - opat
 abazhur - abażur
 abdikim - abdykacja
-abetare - abecadło | alfabet | ABC | poradnik
+abetare - abecadło, alfabet, ABC, poradnik
 abetare morze - alfabet Morse'a
 absolutizëm - absolutyzm
 absorbim - absorpcja
 abstrakt - abstrakcyjny
 absurditet - absurd
-adhuroj - czcić | wielbić | uwielbiać
-adhurueshëm - fascynujący | wciągający | absorbujący | uroczy
+adhuroj - czcić, wielbić, uwielbiać
+adhurueshëm - fascynujący, wciągający, absorbujący, uroczy
 administrativ - administracyjny
-admirueshëm - godny podziwu | wspaniały
+admirueshëm - godny podziwu, wspaniały
 adresë - adres
 aeroplan - samolot
 aeroport - lotnisko
@@ -18,11 +18,11 @@ afër - blisko
 afërmënç - na pewno
 afërsisht - około
 aftësi - umiejętność
-agim - brzask | poranek | wschód słońca
+agim - brzask, poranek, wschód słońca
 ah - buk
 ai - on
 ajër - powietrze
-ajkë - krem | śmietana
+ajkë - krem, śmietana
 ajo - ona
 aksident - wypadek
 aktivizëm - aktywizm
@@ -30,7 +30,7 @@ aktor - aktor
 akull - lód
 alfabet - alfabet
 alkool - alkohol
-ambulancë - ambulans | karetka
+ambulancë - ambulans, karetka
 Amerika - Ameryka
 analogji - analogia
 anarkizëm - anarchizm
@@ -42,7 +42,7 @@ Antigua dhe Barbuda - Antigua i Barbuda
 antimon - antymon
 antonim - antonim
 antropologji - antropologia
-anullim - anulowanie | unieważnienie
+anullim - anulowanie, unieważnienie
 apokalips - apokalipsa
 ar - złoto
 ardhme - przyszłość
@@ -98,11 +98,11 @@ avull - para
 Azia - Azja
 azot - azot
 baba - ojciec
-Baba Dimri - święty mikołaj | Dziadek Mróz
+Baba Dimri - święty mikołaj, Dziadek Mróz
 babagjysh - dziadek
 bagazh - bagaż
 bahçe - ogród
-bajgë - gnój | łajno
+bajgë - gnój, łajno
 bajonetë - bagnet
 bakelit - bakelit
 bakshish - napiwek
@@ -122,20 +122,20 @@ barukë - runo owcze
 barut - proch strzelniczy
 bashkëndodhi - zbieg okoliczności
 bashkëveprim - interakcja
-bashkim - unia | związek | połączenie | fuzja | zjednoczenie
+bashkim - unia, związek, połączenie, fuzja, zjednoczenie
 Bashkimi Europian - Unia Europejska
 bathë - bób
 be - przysięga
-bëj - robić | przejeżdżać | prowadzić
-bëj dashuri - kochać się | uprawiać miłość
+bëj - robić, przejeżdżać, prowadzić
+bëj dashuri - kochać się, uprawiać miłość
 Benini - Benin
 benzinë - benzyna
-beqar - samotny | nieżonaty
+beqar - samotny, nieżonaty
 bërryl - łokieć
 bërshen - jałowiec
-bërthamor - jądrowy | nuklearny
+bërthamor - jądrowy, nuklearny
 besoj - wierzyć
-betejë - bitwa | walka
+betejë - bitwa, walka
 bibliotekë - biblioteka
 biçikletë - rower
 bijë - córka
@@ -172,10 +172,10 @@ brishtë - delikatny
 brumë - ciasto
 brushtull - wrzos
 bubu - niestety
-budallaçkë - idiotka | kretynka | głupia dziewczyna
+budallaçkë - idiotka, kretynka, głupia dziewczyna
 budizëm - buddyzm
 buf - sowa
-bujk - rolnik | farmer
+bujk - rolnik, farmer
 bujqësi - rolnictwo
 bukë - chleb
 bukël - łasica
@@ -185,17 +185,17 @@ Bullgari - Bułgaria
 Bullgaria - Bułgaria
 burdhë - worek
 burg - więzienie
-burrë - mężczyzna | mąż
+burrë - mężczyzna, mąż
 bush - bukszpan
 buzëqesh - uśmiechać się
 buzëqeshje - uśmiech
-çadër - parasol | namiot
+çadër - parasol, namiot
 çaj - herbata
 çakall - szakal
 çakalle - szakal
 çalë - kulawy
 çamçakëz - guma do żucia
-çast - chwila | moment
+çast - chwila, moment
 çë - co
 çelës - klucz
 çelik - stal
@@ -213,7 +213,7 @@ cirlë - kos
 çokollatë - czekolada
 Colombo - Kolumb (odkrywca)
 çorbë - zupa
-çukë - szczyt | dziób
+çukë - szczyt, dziób
 cullak - nagi
 çupkë - dziewczynka
 daltë - dłuto
@@ -221,10 +221,10 @@ dangë - brzuch
 dardhë - gruszka
 darkë - kolacja
 Dashi - Baran
-dashur - kochany | ukochany | miły
+dashur - kochany, ukochany, miły
 dashuri - miłość
 dashuroj - kochać
-dasmë - ślub | wesele
+dasmë - ślub, wesele
 dëborë - śnieg
 defekt - defekt
 dëgjoj - słuchać
@@ -233,18 +233,18 @@ dele - owca
 delfin - delfin
 dem - byk
 dembel - leniwy
-Demi - Byk | Byk  ♉
+Demi - Byk, Byk  ♉
 demokraci - demokracja
 demokratik - demokratyczny
 derdhazë - powódź
-dërgoj - wysłać | wysyłać
+dërgoj - wysłać, wysyłać
 dermatologji - dermatologia
 derr - wieprz
 derrkuc - prosię
-dëshiroj - chcieć | pragnąć
+dëshiroj - chcieć, pragnąć
 dëshirueshëm - pożądany
 det - morze
-detal - część maszyny | detal
+detal - część maszyny, detal
 Deti Adriatik - Morze Adriatyckie
 Deti Baltik - Morze Bałtyckie
 Deti Mesdhe - Morze Śródziemne
@@ -253,17 +253,17 @@ deve - wielbłąd
 dhallë - maślanka
 dhanore - celownik
 dhatë - miejsce
-dhe - i | ziemia | grunt
+dhe - i, ziemia, grunt
 dhelpër - lis
 dhëmb - ząb
 dhembje koke - ból głowy
-dhëndërr - zięć | pan młody
-dhjetë - dziesięć | 10
+dhëndërr - zięć, pan młody
+dhjetë - dziesięć, 10
 dhjetor - grudzień
-dhomë - pokój | pomieszczenie
+dhomë - pokój, pomieszczenie
 dhunë - przemoc
-dhuratë - dar | prezent
-di - wiedzieć | znać
+dhuratë - dar, prezent
+di - wiedzieć, znać
 dialekt - dialekt
 diçka - coś
 diell - słońce
@@ -274,14 +274,14 @@ dimër - zima
 dinjitet - godność
 ditë - dzień
 ditëlindje - urodziny
-divan - kanapa | sofa | tapczan
-djalë - chłopiec | syn
+divan - kanapa, sofa, tapczan
+djalë - chłopiec, syn
 djall - diabeł
 djathë - ser
 dje - wczoraj
 djersë - pot
 djersij - pocić się
-do - chcieć | lubić | kochać
+do - chcieć, lubić, kochać
 dobët - słaby
 domate - pomidor
 dorashkë - rękawiczka
@@ -296,7 +296,7 @@ drejtues - administrator
 drenjë - przepiórka
 dreq - diabeł
 dritare - okno
-drithë - ziarno | zboże
+drithë - ziarno, zboże
 droe - strach
 drokth - miotła
 drom - droga
@@ -305,13 +305,13 @@ dryshk - rdza
 duhan - tytoń
 duhanpirës - palacz
 duhet - musieć
-dy - dwa | 2
+dy - dwa, 2
 dygjuhësh - dwujęzyczny
 dyllë - wosk
 dymbëdhjetë - dwanaście
 dyqan - sklep
-dyzet - czterdzieści | 40
-e - i | forma wprowadzająca dopełniacz
+dyzet - czterdzieści, 40
+e - i, forma wprowadzająca dopełniacz
 e celet - blady
 eci - iść
 edh - koza
@@ -320,13 +320,13 @@ e enjte - czwartek
 e hënë - poniedziałek
 ehull - sopel
 ekologji - ekologia
-ekspozitë - wystawa | ekspozycja
+ekspozitë - wystawa, ekspozycja
 elb - jęczmień
 elefant - słoń
 e martë - wtorek
 ëmbël - słodki
-ëmbëlsi - słodycz | słodkość
-ëmbëlsirë - ciasteczko | słodycz | deser
+ëmbëlsi - słodycz, słodkość
+ëmbëlsirë - ciasteczko, słodycz, deser
 ëmë - matka
 emër - imię
 e mërkurë - środa
@@ -360,10 +360,10 @@ eufori - euforia
 e vërteta të merr sytë - prawda w oczy kole
 faleminderit - dziękuję
 fall - przepowiednia
-famshëm - sławny | słynny
+famshëm - sławny, słynny
 fantazmë - duch
-farë - nasiono | nasienie
-farmaci - apteka | farmacja
+farë - nasiono, nasienie
+farmaci - apteka, farmacja
 farmakologji - farmakologia
 fashë - bandaż
 fe - religia
@@ -371,14 +371,14 @@ fëmijë - dziecko
 feniks - feniks
 ferr - piekło
 fier - paproć
-fill - nić | nitka
+fill - nić, nitka
 fill dhëmbësh - nitka do zębów
 fillim - początek
 filloj - zaczynać
 filxhan - filiżanka
 firmë - podpis
 firmos - podpisywać
-fitoj - zdobyć | wygrać
+fitoj - zdobyć, wygrać
 fitore - zwycięstwo
 fizikë - fizyka
 fiziologji - fizjologia
@@ -394,11 +394,11 @@ flojere - flet
 flori - złoto
 flutur - motyl
 fole - gniazdo
-forcë - siła | moc
-fortë - mocny | silny
-fortësi - siła | twardość
+forcë - siła, moc
+fortë - mocny, silny
+fortësi - siła, twardość
 foshnjë - niemowlę
-fotografi - fotografia | zdjęcie
+fotografi - fotografia, zdjęcie
 fqinj - sąsiad
 Francë - Francja
 freskët - świeży
@@ -406,17 +406,17 @@ frikë - strach
 frushkull - gwizdek
 frutë - owoc
 frymë - oddech
-frymëmarrje - oddech | oddychanie
+frymëmarrje - oddech, oddychanie
 fshaj - wzdychać
-fshehtë - sekret | tajemnica
+fshehtë - sekret, tajemnica
 ftesë - zaproszenie
 ftohtë - zimny
-ftoj - zaprosić | zapraszać
+ftoj - zaprosić, zapraszać
 fund - spódnica
-fundit - ostatni | końcowy
+fundit - ostatni, końcowy
 funksion - funkcja
-fuqi - siła | moc
-fuqishëm - silny | potężny
+fuqi - siła, moc
+fuqishëm - silny, potężny
 furçë dhëmbësh - szczoteczka do zębów
 fushatë - kampania
 fushë - pole
@@ -425,15 +425,15 @@ fyej - obrażać
 fyell - flet
 fyerje - obraza
 fyt - gardło
-gabim - błąd | pomyłka | wina
+gabim - błąd, pomyłka, wina
 Gaforrja - Rak
 gajdhur - osioł
 Galilea - Galilea (kraina)
 gamule - sterta
 gatë - czapla
-gatuaj - gotować | przygotowywać jedzenie
+gatuaj - gotować, przygotowywać jedzenie
 gavër - dziura
-gaz - radość | śmiech
+gaz - radość, śmiech
 gazetar - dziennikarz
 gazetari - dziennikarstwo
 gazetë - gazeta
@@ -441,7 +441,7 @@ gënjeshtër - kłamstwo
 gërhas - chrapać
 gërshërë - nożyczki
 gështenjë - kasztan
-gëzim - radość | szczęście
+gëzim - radość, szczęście
 gëzuar - wesoły
 gisht - palec
 gisht i madh - kciuk
@@ -449,16 +449,16 @@ gjah - polowanie
 gjak - krew
 gjalpë - masło
 gjarpër - wąż
-gjashtë - sześć | 6
+gjashtë - sześć, 6
 gjashtëdhjetë - sześćdziesiąt
-gjashtëmbëdhjetë - szesnaście | 16
-gjatë - wysoki | długi
+gjashtëmbëdhjetë - szesnaście, 16
+gjatë - wysoki, długi
 gjë - rzecz
 gjej - znaleźć
 gjelbër - zielony
 gjellë - danie (potrawa)
 gjellëz - sól
-gjemb - cierń | kolec
+gjemb - cierń, kolec
 gjendër - gruczoł
 gjenealogji - genealogia
 gjenetik - genetyczny
@@ -477,24 +477,24 @@ Gjibraltari - Gibraltar
 gjimnastikë - gimnastyka
 gjinore - dopełniacz
 gjirafë - żyrafa
-gjithashtu - także | też | również
+gjithashtu - także, też, również
 gjithçka - wszystko
 gjithësi - wszechświat
 gjithë thelbi i çështjes - tu leży pies pogrzebany
-gjor - nędzny | nieszczęsny
+gjor - nędzny, nieszczęsny
 gju - kolano
 gjuhë - język
 gjuhë amtare - język ojczysty
 gjuhë e huaj - język obcy
-gjuhësi - lingwistyka | językoznawstwo
+gjuhësi - lingwistyka, językoznawstwo
 gjuhësor - językowy
-gjumë - sen | spanie
+gjumë - sen, spanie
 gjurmë - ślad
 gjysh - dziadek
 gjyshe - babcia
 gjysmë - połowa
 gledhë - pieszczota
-glep - żądło | pokrzywa
+glep - żądło, pokrzywa
 Godzilla - Godzilla
 gomar - osioł
 gozhdë - gwóźdź
@@ -502,28 +502,28 @@ gramatikan - gramatyk
 gramatikë - gramatyka
 gramatikisht - gramatycznie
 gramatikor - gramatyczny
-grehull - zarośla | gąszcz
+grehull - zarośla, gąszcz
 grek - grecki
 greqisht - po grecku
 grerak - szerszeń
-grerë - szerszeń | osa
+grerë - szerszeń, osa
 grih - ostrzyć
 grip - grypa
-grua - kobieta | żona
+grua - kobieta, żona
 grumbull - sterta
 gurgull - gardło
 gusht - sierpień
 ha - jeść
-habi - zaskoczenie | zdumienie
+habi - zaskoczenie, zdumienie
 hajdut - złodziej
 hap - otwierać
 hapur - otwarty
-hardhi - wino | winorośl
+hardhi - wino, winorośl
 hardhucë - jaszczurka
 harraq - zapominalski
 harroj - zapomnieć
 hartë - mapa
-hauz - staw | sadzawka
+hauz - staw, sadzawka
 hë - teraz
 hekur - żelazo
 helm - trucizna
@@ -542,8 +542,8 @@ hirrë - serwatka
 histori - historia
 hokë - żart
 Hollanda - Holandia
-hollë - szczupły | chudy
-hollësi - detal | szczegół
+hollë - szczupły, chudy
+hollësi - detal, szczegół
 homonim - homonim
 homoseksualitet - homoseksualizm
 hordhi - horda
@@ -554,7 +554,7 @@ Hungaria - Węgry
 hyjnor - boski
 idealizëm - idealizm
 identifikim - identyfikacja
-i hollësishëm - szczegółowy | z detalami
+i hollësishëm - szczegółowy, z detalami
 i madh - duży
 imagjinatë - wyobraźnia
 infeksion - infekcja
@@ -569,7 +569,7 @@ Irlanda - Irlandia
 ironi - ironia
 ishull - wyspa
 ishulli - wyspa
-islam - islamski | islam
+islam - islamski, islam
 Islanda - Islandia
 Italia - Włochy
 jam - być
@@ -587,7 +587,7 @@ jugor - południowy
 jurist - prawnik
 kabisht - skorek
 kaçel - kulawy
-kafe - kawa | brązowy
+kafe - kawa, brązowy
 kafshë - zwierzę
 kajsi - morela
 kalë - koń
@@ -599,12 +599,12 @@ kallamboq - kukurydza
 kaltër - niebieski
 kam - mieć
 kamion - ciężarówka
-kanape - kanapa | sofa | tapczan
+kanape - kanapa, sofa, tapczan
 karbë - sęp
 karkalec - konik polny
 kartolinë - pocztówka
 kastravec - ogórek
-katër - cztery | 4
+katër - cztery, 4
 katërmbëdhjetë - czternaście
 katran - smoła
 katund - wioska
@@ -613,17 +613,17 @@ kek - ciasto
 kem - kadzidło
 këmish - koszula
 këmishë - koszula
-kënaqësi - przyjemność | satysfakcja
+kënaqësi - przyjemność, satysfakcja
 këndoj - śpiewać
-këngë - pieśń | piosenka
-keq - kiepsko | zły
+këngë - pieśń, piosenka
+keq - kiepsko, zły
 keqardhës - współczujący
 keqkuptim - nieporozumienie
 Kërshëndella - Boże Narodzenie
 këshill - rada
 kështjellë - zamek
 ketër - wiewiórka
-këtu - tutaj | tu
+këtu - tutaj, tu
 këtu është gjithë puna - tu leży pies pogrzebany
 kilometër - kilometr
 kinema - kino
@@ -634,7 +634,7 @@ kmesë - sierp
 kockë - kość
 kodër - wzgórze
 kofshë - udo
-kohë - czas | czas trwania | pogoda
+kohë - czas, czas trwania, pogoda
 kohëpaskohshëm - sporadyczny
 kokë - głowa
 kokëçarje - ból głowy
@@ -668,7 +668,7 @@ krenari - duma
 krënd - chrust
 kreshkë - listowie
 krevat - łóżko
-krim - zbrodnia | przestępstwo
+krim - zbrodnia, przestępstwo
 krimb - robak
 Krime - Krym
 kripë - sól
@@ -696,22 +696,22 @@ Kur'ani - Koran
 kurorë - korona
 kurrë - nigdy
 kurth - pułapka
-kurvë - kurwa | dziwka
+kurvë - kurwa, dziwka
 kushtetutë - konstytucja
-kushtueshëm - drogi | kosztowny
+kushtueshëm - drogi, kosztowny
 kuzhinë - kuchnia
-ky - to | ten
+ky - to, ten
 laj - myć
 lajkë - pochlebstwo
 lakuriq - nagi
 laps - ołówek
 lar - wawrzyn
 lartësi - wysokość
-lashtë - stary | starożytny
-lëbarke - dyzenteria | czerwonka
+lashtë - stary, starożytny
+lëbarke - dyzenteria, czerwonka
 legjendar - legendarny
 legjendë - legenda
-lehtë - łatwy | lekki
+lehtë - łatwy, lekki
 lejoj - pozwolić
 lend - żołądź
 lëng seminal - sperma
@@ -720,7 +720,7 @@ lepur i gropave - królik
 lepuri i egër - zając
 lesh - wełna
 letargji - letarg
-letër - list | karta
+letër - list, karta
 letërsi - literatura
 lëviz - ruszać
 lexim - czytanie
@@ -732,19 +732,19 @@ ligjëratë - mowa
 ligjërim - legalizacja
 ligjërues - wykładowca
 lind - urodzić
-lindje - urodzenie | narodziny | wschód
+lindje - urodzenie, narodziny, wschód
 lindor - wschodni
 linjë ajrore - linie lotnicze (przedsiębiorstwo)
 liqen - jezioro
-lirë - wolny | swodobny | tani | niedrogi
+lirë - wolny, swodobny, tani, niedrogi
 liri - wolność
 lise - strumień
 Lituania - Litwa
 livadhe - łąka
 llahtarshëm - przerażający
-lloj - rodzaj | typ | gatunek
+lloj - rodzaj, typ, gatunek
 llom - błoto
-llucë - muł | breja | papka
+llucë - muł, breja, papka
 lluke - ślepy
 llum - błoto
 lodër - zabawka
@@ -754,7 +754,7 @@ lopatë - łopata
 lopë - krowa
 lorzë - papuga
 luan - lew
-luftë - wojna | walka
+luftë - wojna, walka
 lugatë - ster
 lugë - łyżka
 luginë - dolina
@@ -763,7 +763,7 @@ lumë - rzeka
 lumtur - szczęśliwy
 lupesh - żarłok
 mace - kot
-madh - wielki | duży
+madh - wielki, duży
 madhësi - rozmiar
 magar - osioł
 maj - maj
@@ -771,15 +771,15 @@ makinë - maszyna
 mal - góra
 Mal i Zi - Czarnogóra
 malor - górzysty
-manastir - monastyr | klasztor | opactwo
+manastir - monastyr, klasztor, opactwo
 mangan - mangan
 marihuana - marihuana
-marr - brać | wziąć
+marr - brać, wziąć
 marramendje - zawroty głowy
 marrë - szalony
 marr frymë - oddychać
 mars - marzec
-martesë - ślub | wesele
+martesë - ślub, wesele
 martohem - poślubić
 martuar - żonaty
 mas - mierzyć
@@ -788,7 +788,7 @@ masturboj - masturbować się
 matematik - matematyczny
 matematikë - matematyka
 mbaj - trzymać
-mbaroj - kończyć | wypełniać
+mbaroj - kończyć, wypełniać
 mbërrij - przybyć
 mbi - nad
 mbiemri - nazwisko
@@ -800,14 +800,14 @@ mëkat - grzech
 mel - proso
 mëmë - matka
 me mirë një vezë sot se një pulë mot - lepszy wróbel w garści niż gołąb na dachu
-mençur - inteligentny | mądry | bystry
+mençur - inteligentny, mądry, bystry
 mëndafsh - jedwab
 mëngë - rękaw
-mëngjes - rano | ranek | śniadanie
+mëngjes - rano, ranek, śniadanie
 mënyrë - sposób
 mëri - gniew
 merimangë - pająk
-mërzi - nuda | rozgoryczenie
+mërzi - nuda, rozgoryczenie
 mesazh - wiadomość
 mesditë - południe (godzina)
 meshin - skóra
@@ -815,18 +815,18 @@ mëshqerrë - jałówka
 mështjerrë - jałówka
 mësim - nauka
 mesnatë - północ
-mësoj - uczyć | uczyć się
+mësoj - uczyć, uczyć się
 miell - mąka
 mijë - tysiąc
 mik - przyjaciel
 mikologji - mykologia
 mikrobiologji - mikrobiologia
 milingonë - mrówka
-milion - milion | 1.000.000
+milion - milion, 1.000.000
 mill - pochwa
 miqësi - przyjaźń
 miqësor - przyjazny
-mirë - dobry | dobrze
+mirë - dobry, dobrze
 mirëmbrëma - dobry wieczór
 mirë u pafshim - do widzenia
 misër - kukurydza
@@ -853,7 +853,7 @@ mrekulli - cud
 mrekullueshëm - cudowny
 muaj - miesiąc
 muf - niedojrzały
-mund - móc | być w stanie
+mund - móc, być w stanie
 murrët - ponury
 murrmë - ponury
 mushkëri - płuco
@@ -861,13 +861,13 @@ mushkonjë - komar
 muzg - zmierzch
 muzikë - muzyka
 myshk - mech
-mysliman - muzułmański | muzułmanin
+mysliman - muzułmański, muzułmanin
 na - my
 nani - teraz
 nashti - teraz
 natë - noc
 natën e mirë - dobranoc
-natyrshëm - naturalnie | naturalny
+natyrshëm - naturalnie, naturalny
 ndajfolje - przysłówek
 ndërkombëtar - międzynarodowy
 ndihmë - pomoc
@@ -876,39 +876,39 @@ ndodh - zdarzyć się
 ndonjëherë - czasami
 ndoshta - może
 ne - my
-në - w (o miejscu) | w (o czasie) | na (do kraju) | o (godzinie) | do (dokądś)
+në - w (o miejscu), w (o czasie), na (do kraju), o (godzinie), do (dokądś)
 nën - pod
 nënë - mama
-neni - punkt | paragraf
-nëntë - dziewięć | 9 | dziewiąty
+neni - punkt, paragraf
+nëntë - dziewięć, 9, dziewiąty
 nëntëmbëdhjetë - dziewiętnaście
 nëntor - listopad
 nesër - jutro
 nevojë - potrzeba
-nga - z | od
+nga - z, od
 ngjalë - węgorz
 ngjashëm - podobny
 ngjire - wir
 ngjyrë - kolor
 ngjyrë gri - szary
-ngratë - nędzny | nieszczęsny
+ngratë - nędzny, nieszczęsny
 ngushtë - wąski
 ni - teraz
 nisem - wyruszać
-një - jeden | 1 | jakiś
+një - jeden, 1, jakiś
 njëmbëdhjetë - jedenaście
-njëmijë - tysiąc | 1000
-njëqind - sto | 100
+njëmijë - tysiąc, 1000
+njëqind - sto, 100
 njerk - ojczym
 njerkë - macocha
-njëzet - dwadzieścia | 20
+njëzet - dwadzieścia, 20
 njoh - wiedzieć
 njomë - wilgotny
 nuk - nie
 numër - liczba
 nuselalë - łasica
 nxehtë - gorący
-nyjë - węzeł | supeł
+nyjë - węzeł, supeł
 ombrellë - umbrella
 oqean - ocean
 Oqeania - Oceania
@@ -934,10 +934,10 @@ pare - pieniądze
 parlament - parlament
 parlamentar - parlamentarny
 partner - partner
-pasditë - popołudnie | po południu
+pasditë - popołudnie, po południu
 pasdrekë - popołudnie
 pashpjegueshëm - niewytłumaczalny
-pasion - pasja | namiętność
+pasion - pasja, namiętność
 pasqyrë - lustro
 patë - gęś
 patëllxhan - bakłażan
@@ -950,7 +950,7 @@ pëllumb - gołąb
 pemë - drzewo
 penxhere - okno
 përcëlloj - piec
-përditë - codziennie | każdego dnia
+përditë - codziennie, każdego dnia
 përgjegjësi - odpowiedzialność
 përgjigje - odpowiedź
 përkas - dotykać
@@ -958,13 +958,13 @@ përkthej - tłumaczyć
 përkthim - tłumaczenie
 përkthyes - tłumacz
 përkthyese - tłumacz
-përrallë - opowieść | bajka
+përrallë - opowieść, bajka
 përrua - strumień
-përsëri - znowu | znów
+përsëri - znowu, znów
 për shembull - na przykład
 përveç - oprócz
 përvojë - doświadczenie
-pesë - pięć | 5
+pesë - pięć, 5
 pesëdhjetë - pięćdziesiąt
 pesëmbëdhjetë - piętnaście
 peshk - ryba
@@ -989,10 +989,10 @@ plesht - pchła
 plor - lemiesz
 plotë - pełny
 plug - pług
-plumb - ołów | pocisk
+plumb - ołów, pocisk
 Polonia - Polska
-popull - naród | narodowość
-popullor - narodowy | ludowy
+popull - naród, narodowość
+popullor - narodowy, ludowy
 pornografi - pornografia
 pornografik - pornograficzny
 Portugalia - Portugalia
@@ -1001,7 +1001,7 @@ pothuaj - prawie
 pothuajse - prawie
 prag - próg
 pranverë - wiosna
-pre - zdobycz | kamieniołom
+pre - zdobycz, kamieniołom
 pres - czekać
 prezervativ - prezerwatywa
 prill - kwiecień
@@ -1012,7 +1012,7 @@ pshurr - sikać
 psikolog - psycholog
 psikologji - psychologia
 puçërr - krosta
-pulë - kurczak | kura
+pulë - kurczak, kura
 pulqer - kciuk
 punë - praca
 punësi - zatrudnienie
@@ -1046,7 +1046,7 @@ reagim - reakcja
 reagoj - reagować
 reklamë - reklama
 rëkuall - oset
-relaksohem - odpoczywać | relaksować się
+relaksohem - odpoczywać, relaksować się
 rende - tarka
 rëndë - ciężki
 rëndësishëm - ważny
@@ -1054,18 +1054,18 @@ repë - pustynia
 republikë - republika
 rërë - piasek
 rezultat - rezultat
-ri - młody | nowy
+ri - młody, nowy
 rikëz - prosię
 rit - rytuał
 rrasë - deska
 rrëkuall - oset
 rrenë - kłamstwo
-rrepë - rzepa | burak
+rrepë - rzepa, burak
 rrëqebull - ryś
 rrëshirë - żywica
 rrëshqanor - gad
 rreth - okręg
-rrezik - ryzyko | niebezpieczeństwo
+rrezik - ryzyko, niebezpieczeństwo
 rrezikshëm - niebezpieczny
 rrokë - spirala
 rrotë - koło
@@ -1082,16 +1082,16 @@ seks - płeć
 seksual - seksualny
 seksualisht - seksualnie
 seksualitet - seksualność
-send - rzecz | przedmiot
-sëpatë - siekiera | topór
+send - rzecz, przedmiot
+sëpatë - siekiera, topór
 serb - Serb
 serbe - Serbka
 Serbi - Serbia
 shah - szachy
 shalë - siodło
 shegë - granat
-shejtan - diabeł | szatan
-shekull - wiek | stulecie
+shejtan - diabeł, szatan
+shekull - wiek, stulecie
 shembull - przykład
 shenjtë - święty
 sheqer - cukier
@@ -1102,14 +1102,14 @@ shikoj - widzieć
 shilor - jarzmo
 shitje - sprzedaż
 shitore - sklep
-shkak - powód | przyczyna
+shkak - powód, przyczyna
 shkallë krahasore - stopień wyższy
 shkallmë - miecz
 shkencë - nauka
 shkencëtar - naukowiec
 shkencor - naukowy
 shklube - karabin
-shkoj - iść | jechać
+shkoj - iść, jechać
 shkojëz - por
 shkollë - szkoła
 shkopis - kastrować
@@ -1117,14 +1117,14 @@ shkorre - krzew
 shkrap - skorpion
 shkrim - pismo
 shkundëllimë - trzęsienie ziemi
-shkurt - luty | krótko
+shkurt - luty, krótko
 shlligë - żmija
 shpatë - miecz
 shpejtë - szybki
 shpejtësi - prędkość
 shpellë - jaskinia
 shpesh - często
-shpirt - dusza | duch
+shpirt - dusza, duch
 shpjertë - szybki
 shportë - kosz
 shpresë - nadzieja
@@ -1138,7 +1138,7 @@ shqipe - orzeł
 Shqipëri - Albania
 shqiptar - Albańczyk
 shqyt - tarcza
-shtatë - siedem | 7 | siódmy
+shtatë - siedem, 7, siódmy
 shtatëmbëdhjetë - siedemnaście
 shtator - wrzesień
 shtazë - zwierzę
@@ -1151,11 +1151,11 @@ shtrat - łóżko
 shtrembërim - deformacja
 shtrigë - wiedźma
 shturë - szpak
-shumë zhurmë për asgjë - burza w szklance wody | wiele hałasu o nic
+shumë zhurmë për asgjë - burza w szklance wody, wiele hałasu o nic
 shurdh - głuchy
 shurdhët - głuchy
 shurqel - wodospad
-sidomos - w szczególności | zwłaszcza
+sidomos - w szczególności, zwłaszcza
 sillë - śniadanie
 Singapori - Singapur
 sinonim - synonim
@@ -1169,12 +1169,12 @@ skërfyell - krtań
 skile - lis
 skllav - niewolnik
 skllavëri - niewolnictwo
-socialist - socjalista | socjalistyczny
+socialist - socjalista, socjalistyczny
 socializëm - socjalizm
 sociologji - socjologia
-sopatë - siekiera | topór
+sopatë - siekiera, topór
 sorrë - wrona
-sot - dziś | dzisiaj
+sot - dziś, dzisiaj
 sovjetik - sowiecki
 Spanja - Hiszpania
 Spanjë - Hiszpania
@@ -1187,8 +1187,8 @@ strategji - strategia
 student - student
 studente - studentka
 studentor - studencki
-studim - studia | nauka
-studioj - uczyć się | studiować
+studim - studia, nauka
+studioj - uczyć się, studiować
 stuhishëm - burzliwy
 Suedia - Szwecja
 sulmim - atak
@@ -1196,7 +1196,7 @@ supë - zupa
 taftar - lejek
 tambël - mleko
 tash - teraz
-tatë - ojciec | tata
+tatë - ojciec, tata
 tatuazh - tatuaż
 të - (nie każdy)
 tëbutë - dąb
@@ -1207,12 +1207,12 @@ televizion - telewizja
 televizor - telewizor
 tenjë - ćma
 teprim - przesada
-tërësisht - całkowicie | kompletnie
+tërësisht - całkowicie, kompletnie
 tërfil - koniczyna
 tërmet - trzęsienie ziemi
 tërshërë - owies
 teshtimë - kichnięcie
-tetë - osiem | 8 | ósmy
+tetë - osiem, 8, ósmy
 tetëmbëdhjetë - osiemnaście
 tetor - październik
 tezgjah - krosno
@@ -1236,7 +1236,7 @@ Toka - Ziemia
 Tora - Tora
 tradhtar - zdrajca
 traditë - tradycja
-tre - trzy | 3
+tre - trzy, 3
 treg - rynek
 trekëndësh - trójkąt
 trembëdhjetë - trzynaście
@@ -1255,7 +1255,7 @@ tryezë shkrimi - biurko
 tulipan - tulipan
 tullë - cegła
 tung - cześć!
-tungjatjeta - cześć | hej
+tungjatjeta - cześć, hej
 turp - wstyd
 tus - przestraszyć
 tym - dym
@@ -1279,7 +1279,7 @@ ushtar - żołnierz
 uthull - ocet
 uturij - grzmieć
 va - bród
-vajzë - dziewczyna | córka
+vajzë - dziewczyna, córka
 valixhe - walizka
 vampir - wampir
 varem - zależeć
@@ -1288,7 +1288,7 @@ varrezë - cmentarz
 vath - kolczyk
 Vatikani - Watykan (państwo)
 vdekje - śmierć
-ve - jajko | wdowa
+ve - jajko, wdowa
 veçoj - izolować
 vegjë - krosno
 vëlla - brat
@@ -1297,7 +1297,7 @@ vendlindje - miejsce urodzenia
 verbër - ślepy
 verbërisht - ślepo
 verdhë - żółty
-verë - lato | wino (napój alkoholowy)
+verë - lato, wino (napój alkoholowy)
 veri - północ
 verior - północny
 verr - olcha
@@ -1342,11 +1342,11 @@ xheloz - zazdrosny
 xhelozi - zazdrość
 xixë - iskra
 xixëllonjë - świetlik
-yjor - gwiezdny | gwiaździsty
+yjor - gwiezdny, gwiaździsty
 ylber - tęcza
 yll - gwiazda
 yllnajë - gwiazdozbiór
-yllth - gwiazdka | gwiazdeczka
+yllth - gwiazdka, gwiazdeczka
 zakonisht - zwykle
 zambak - lilia
 zarf - koperta
@@ -1356,16 +1356,16 @@ zbulim - odkrycie
 zdralë - brud
 zdrukthëtar - stolarz
 ze - dusza
-zero - zero | 0
+zero - zero, 0
 -zet - dwadzieścia
 zgavër - dziura
 zgjerbe - ćma
-zgjuar - inteligentny | mądry
+zgjuar - inteligentny, mądry
 zhabë - ropucha
 zhapi - jaszczurka
 zhdukje - zniknięcie
 zhurmë - hałas
-zhurmëmadh - głośny | hałaśliwy
+zhurmëmadh - głośny, hałaśliwy
 zi - czarny
 zjarm - ogień
 zjarr - ogień

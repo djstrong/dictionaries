@@ -25,15 +25,15 @@ alfabetu - այբուբեն
 Algieria - Ալժիր
 Allach - Ալլահ
 Allah - Ալլահ
-aluminium - ալյումին | ալյումինում
+aluminium - ալյումին, ալյումինում
 amajza - մրջյուն
 Amazonka - Ամազոն
 ameryk - ամերիցիում
 Ameryka - Ամերիկա
 analiza - անալիզ
-Andora - Անդորա | Անդորրա
-angielski - անգլիական | անգլերեն
-angol - անգլիական | անգլերեն
+Andora - Անդորա, Անդորրա
+angielski - անգլիական, անգլերեն
+angol - անգլիական, անգլերեն
 Angola - Անգոլա
 aniżeli - քան (kʿan)
 anoda - مصعد
@@ -45,7 +45,7 @@ apluzyna - նարինջ
 aprykoza - ծիրան
 apryl - ապրիլ
 Arab - արաբ
-arabski - արաբական | արաբերեն
+arabski - արաբական, արաբերեն
 arabus - արաբ
 aramejski - արամեական արամեերեն
 Ararat - Արարատ
@@ -88,14 +88,14 @@ banan - ադամաթուզ m
 banana - ադամաթուզ m
 bandzioch - որովայն
 Bangladesz - Բանգլադեշ
-bania - դդում | գլուխ
+bania - դդում, գլուխ
 baniak - գլուխ
 bar - բարիում
 Bartłomiej - Բարդուղիմեոս
 barwa - գույն
 bas - որովայն
 bawić - խաղալ
-bebech - որովայն | ստամոքս
+bebech - որովայն, ստամոքս
 bęben - որովայն
 Bejrut - Պէյրութ
 belfer - ուսուցիչ
@@ -111,11 +111,11 @@ bezsensowny - անիմաստ
 bezwarunkowo - անպայման
 Bhutan - Բութան
 Białoruś - Բելառուս
-biały - ճերմակ (chermak) | սպիտակ (spitak)
+biały - ճերմակ (chermak), սպիտակ (spitak)
 Biblia - Աստվածաշունչ (Astvacašounč̣)
 biedny - աղքատ
 bindasz - առնանդամ
-binia - օրիորդ | ընկերուհի
+binia - օրիորդ, ընկերուհի
 biologia - կենսաբանություն
 biskup - Եպիսկոպոս
 bitwa - կռիվ
@@ -150,10 +150,10 @@ Bułgaria - Բուլղարիա
 bułgarski - բուլղարերեն
 Burundi - Բուրունդի
 burzowiny - գարեջուր
-buzi - պաչ | համբույր
+buzi - պաչ, համբույր
 Była Jugosłowiańska Republika Macedonii - Նախկին Հարավսլավական Մակեդոնիայի Հանրապետություն
 całować - համբուրել
-całus - պաչ | համբույր
+całus - պաչ, համբույր
 Cardiff - Քարդիֆ
 cera - աղջիկ
 cez - ցեզիում
@@ -178,15 +178,15 @@ chrześcijanin - քրիստոնյա
 chrześcijaństwo - Քրիստոնեություն
 churchać - հազալ
 chuśle - ջութակ
-chwost - ագի | պոչ
-ciemno - խավար | մթություն
-ciemność - խավար | մթություն
+chwost - ագի, պոչ
+ciemno - խավար, մթություն
+ciemność - խավար, մթություն
 ciepły - ջերմ
 ciężarny - հղի կին
 ciocia - հորաքույր
 ciotka - մորաքույր
 ciurlocek - առնանդամ
-ćma - խավար | մթություն
+ćma - խավար, մթություն
 ćmaga - օղի
 córa - աղջիկ
 córczysko - աղջիկ
@@ -198,8 +198,8 @@ cupać - հազալ
 cyferblat - դեմք
 cyga - իշամեղու
 Cypr - Կիպրոս
-cypresz - կիպարիս | նոճի
-cyprys - կիպարիս | նոճի
+cypresz - կիպարիս, նոճի
+cyprys - կիպարիս, նոճի
 cywilizacja - քաղաքականություն
 Czad - Չադ
 czaj - թեյ
@@ -213,7 +213,7 @@ czędo - մանուկ
 czekać - սպասել
 czerwiec - հունիս
 czerwony - կարմիր
-członek - անդամ | առնանդամ
+członek - անդամ, առնանդամ
 człowiek - մարդ
 czorny - սեւ
 czuć - հոտ գալ
@@ -231,15 +231,15 @@ Demokratyczna Republika Wyspy Świętego Tomasza i Wysp Świętego Tomasza i Ksi
 deszcz - անձրեւ
 deżdż - անձրեւ
 diament - ադամանդ
-Diogenes - Դիոգենես | Դիոգենես (Սինոպացի)
+Diogenes - Դիոգենես, Դիոգենես (Սինոպացի)
 Dniepr - Դնեպր
 dobry wieczór - բարի երեկո (bari yereko)
 doktor - բժիշկ
 dołek - տխրություն
 dom - տուն
 doradca - խորհրդական (khorhrdakan)
-do widzenia - ցտեսություն | օրոր-օրոր
-do zobaczenia - ցտեսություն | օրոր-օրոր
+do widzenia - ցտեսություն, օրոր-օրոր
+do zobaczenia - ցտեսություն, օրոր-օրոր
 druh - բարեկամ
 drzewo - ծառ
 dudlać - խմել
@@ -257,14 +257,14 @@ działać - աշխատել
 dzieciszczko - մանուկ
 dziecko - մանուկ
 dzień - օր
-dziewa - օրիորդ | ընկերուհի
-dziewczę - օրիորդ | ընկերուհի
-dziewczyna - օրիորդ | ընկերուհի
-dziołcha - օրիորդ | ընկերուհի
-dziopa - օրիորդ | ընկերուհի
+dziewa - օրիորդ, ընկերուհի
+dziewczę - օրիորդ, ընկերուհի
+dziewczyna - օրիորդ, ընկերուհի
+dziołcha - օրիորդ, ընկերուհի
+dziopa - օրիորդ, ընկերուհի
 dziś - այսօր
 dzisiaj - այսօր
-dziunia - օրիորդ | ընկերուհի
+dziunia - օրիորդ, ընկերուհի
 dżungla - ջունգլի (ǰungli)
 dźwięk - ձայն (jayn)
 EBOiR - ՎԶԵԲ
@@ -323,20 +323,20 @@ folga - դադար
 foryster - օտարական
 fosfor - ֆոսֆոր
 Francja - Ֆրանսիա
-francuski - ֆրանսիական | ֆրանսերեն
+francuski - ֆրանսիական, ֆրանսերեն
 Francuz - ֆրանսիացի
 Francuzka - ֆրանսուհի
 frans - ֆրանսիում
-frela - օրիորդ | ընկերուհի
+frela - օրիորդ, ընկերուհի
 fulać - ստել
 fundamentalny - հիմունք
 funkcjonować - աշխատել
 Gabon - Գաբոն
-gała - աչք | ագռավ
+gała - աչք, ագռավ
 Galilea - Գալիլեա
 Gambia - Գամբիա
 gapa - ագռավ
-gara - անուրջ | քուն
+gara - անուրջ, քուն
 gardło - կոկորդ
 gdzie - որտեղ (vortegh)
 gędźba - երաժշտություն
@@ -346,11 +346,11 @@ gira - ոտք
 gitara - կիթառ
 glajza - թորիում
 glapa - ագռավ
-glin - ալյումին | ալյումինում
+glin - ալյումին, ալյումինում
 globus - գլուխ
 głód - քաղց
 głowa - գլուխ
-gnat - ոսկոր | ատրճանակ
+gnat - ոսկոր, ատրճանակ
 gniew - զայրուց
 gnot - մանուկ
 godać - ասել
@@ -363,9 +363,9 @@ gość - հյուր
 graba - ձեռք (jeṙkʿ)
 gracz - խաղացող (khaghats’vogh)
 Grecja - Հունաստան
-grecki - հունական | հունարեն
+grecki - հունական, հունարեն
 Grek - հույն
-greka - հունական | հունարեն
+greka - հունական, հունարեն
 grudzień - դեկտեմբեր
 grupa - խումբ
 gruziński - վրացերեն
@@ -377,7 +377,7 @@ gwer - հրացան
 gwiazda - աստղ (astł)
 Gwinea - Գվինեա
 gwóźdź - մեխ
-gzub - մանուկ | որովայն
+gzub - մանուկ, որովայն
 hajtok - դանակ (danak)
 hara - օղի
 harfa - տավիղ
@@ -403,7 +403,7 @@ Indie - Հնդկաստան
 informacja - տեղեկատվություն
 informować - տեղեկացնել
 ino - միայն (miayn)
-inteligencja - բանականություն | խելք
+inteligencja - բանականություն, խելք
 inwestować - դնել
 Irak - Իրաք
 Iran - Իրան
@@ -419,7 +419,7 @@ jabłko - խնձոր (xnjor)
 jądro - ամորձիք
 jagoda - այտ
 jajko - ձու
-jajo - ձու (dzu) | հավկիթ (havkitʿ)
+jajo - ձու (dzu), հավկիթ (havkitʿ)
 japoński - ճապոներեն
 jarecka - մայր
 jedyny - միակ
@@ -471,8 +471,8 @@ kij - փայտ
 Kilimandżaro - Կիլիմանջարո
 kilo - կիլո
 kilogram - կիլոգրամ
-kimać - ննջել | քնել
-kimono - անուրջ | քուն
+kimać - ննջել, քնել
+kimono - անուրջ, քուն
 kira - օղի
 Kirgistan - Ղրղզստան
 kiszka - կաթ
@@ -496,7 +496,7 @@ Kolumbia - Կոլումբիա
 komar - մոծակ
 komedia - կատակերգություն
 kompozytor - երգահան
-koń - ձի (dzi) | առնանդամ
+koń - ձի (dzi), առնանդամ
 kóń - ձի (dzi)
 koncepcja - գաղափար
 Konfucjusz - Կոնֆուցիոս
@@ -513,9 +513,9 @@ kość - ոսկոր
 kościół - եկեղեցի
 kot - կատու
 kowal - դարբին
-kraj - երկիր | աշխարհ | պետություն
+kraj - երկիր, աշխարհ, պետություն
 krasula - կով
-krew - արյան | արյուն
+krew - արյան, արյուն
 krok - քայլ
 królik - ճագար
 krowa - կով
@@ -532,7 +532,7 @@ kula - ոտք
 kulos - ոտք
 kult - պաշտամունք
 kultura - մշակույթ
-kusik - պաչ | համբույր
+kusik - պաչ, համբույր
 kuśka - առնանդամ
 Kuwejt - Քուվեյթ
 kwarantanna - կարանտին
@@ -541,15 +541,15 @@ kwiat - ծաղիկ
 kwiecień - ապրիլ
 łabęć - կարապ
 łabędź - կարապ
-lacz - գլուխ | առնանդամ
+lacz - գլուխ, առնանդամ
 ląd - երկիր
 laga - փայտ
-lala - օրիորդ | ընկերուհի
+lala - օրիորդ, ընկերուհի
 lantan - լանթան
 Laos - Լաոս
 las - անտառ
 lat - տարի
-lata - տարի | փեշ
+lata - տարի, փեշ
 lato - ամառ
 lawina - ձյունակույտ
 lekarz - բժիշկ
@@ -574,7 +574,7 @@ Litwa - Լիտվա
 lód - պաղպաղակ
 logika - տրամաբանություն
 logiko - տրամաբանություն
-lola - օրիորդ | ընկերուհի | փայտ
+lola - օրիորդ, ընկերուհի, փայտ
 Londyn - Լոնդոն
 losowy - պատահական
 lotnisko - օդակայան
@@ -602,10 +602,10 @@ mały - փոքր
 małżeństwo - ամուսնություն
 małżonek - ամուսին
 małżonka - կին
-maniurka - օրիորդ | ընկերուհի
+maniurka - օրիորդ, ընկերուհի
 Maroko - Մարոկկո
 marzec - մարտ
-marzenie senne - անուրջ | քուն
+marzenie senne - անուրջ, քուն
 maska - դեմք
 masochizm - մազոխիզմ
 masturbacja - մաստուրբացիա
@@ -615,7 +615,7 @@ Mauretania - Մավրիտանիա
 mąż - ամուսին
 mazak - դեմք
 mechanizm - մեխանիզմ
-męczennik - մարտիրոս | նահատակ
+męczennik - մարտիրոս, նահատակ
 meczet - մզկիթ
 Med - մար
 medal - կրծքանշան
@@ -623,7 +623,7 @@ medycyna - բժշկություն
 medyk - բժիշկ
 Meksyk - Մեքսիկա
 Merkury - Մերկուրի (Merkouri)
-metafizyka - մետաֆիզիկա | բնազանցություն
+metafizyka - մետաֆիզիկա, բնազանցություն
 meteorolog - օդերեւութաբան
 meteorologia - օդերեւութաբանություն
 metoda - մեթոդ
@@ -634,7 +634,7 @@ miejsce - տեղ
 mielcuch - գարեջուր
 mieśćce - տեղ
 mieśce - տեղ
-miesiąc - ամիս | լուսին
+miesiąc - ամիս, լուսին
 miesiączek - լուսին
 mięsopustnik - փետրվար (petrvar)
 mieszkać - ապրել
@@ -689,18 +689,18 @@ nepotyzm - նտանեվարություն
 nerka - երիկամ
 nestorianin - նեստորական (nestorakan)
 neutralność - չեզոքություն
-ni - ոչ (wocz) | չէ (cze) | չ-
-nie - ոչ (wocz) | չէ (cze) | չ-
+ni - ոչ (wocz), չէ (cze), չ-
+nie - ոչ (wocz), չէ (cze), չ-
 niebieski - կապույտ
 niebiosa - երկինք
 niebo - երկինք
 niedożywienie - թերասնում
 niedziela - կիրակի
 Niemcy - Գերմանիա
-nie mieć - ոչ (wocz) | չէ (cze) | չ-
+nie mieć - ոչ (wocz), չէ (cze), չ-
 niemiecki - գերմանական
 nienawidzić - ատել
-niepodległość - անկախություն (ankakhut’yun) | ինքնուրույնություն (ink’nuruynut’yun)
+niepodległość - անկախություն (ankakhut’yun), ինքնուրույնություն (ink’nuruynut’yun)
 nieprzyjemny - անախորժ
 nieść - տանել
 nieśmiertelność - անմահություն
@@ -737,7 +737,7 @@ Odessa - Օդեսա (Ōdesa)
 odpoczynek - դադար
 odważny - քաջ
 oficer - սպա
-ogon - ագի | պոչ
+ogon - ագի, պոչ
 ogórek - վարունգ (varung)
 ogromny - ահագին
 ojciec - հայր
@@ -751,7 +751,7 @@ oligarchia - օլիգարխիա
 ołówek - մատիտ
 oma - տատիկ
 Oman - Օման
-omieszkać - ոչ (wocz) | չէ (cze) | չ-
+omieszkać - ոչ (wocz), չէ (cze), չ-
 opera - օպերա
 opero - օպերա
 opium - ափիոն
@@ -769,11 +769,11 @@ owca - ոչխար
 Pacyfik - Խաղաղ օվկիանոս
 padać - ասել
 pająk - սարդ (sard)
-pajęcznik - հոկտեմբեր | նոյեմբեր
+pajęcznik - հոկտեմբեր, նոյեմբեր
 Pakistan - Պակիստան
 pakli - եթե
-pała - գլուխ | առնանդամ
-pale - գլուխ | առնանդամ
+pała - գլուխ, առնանդամ
+pale - գլուխ, առնանդամ
 Palestyna - Պաղեստին
 pallad - պալադիում
 państwo - պետություն
@@ -805,7 +805,7 @@ pizza - պիցցա
 platyna - պլատին
 płciowy - սեռական
 pływanie - լող
-pocałunek - պաչ | համբույր
+pocałunek - պաչ, համբույր
 pocestny - ճանապարհորդ
 pochwa - հեշտոց
 podobny - նման
@@ -827,7 +827,7 @@ poliginia - բազմակնություն
 poligynia - բազմակնություն
 polon - poloniumu
 Polska - Լեհաստան
-polski - լեհուհի | լեհաստանցի | լեհական | լեհերեն
+polski - լեհուհի, լեհաստանցի, լեհական, լեհերեն
 południowy - գարնանային
 półwysep - թերակղզի
 Półwysep Arabski - Արաբական թերակղզի
@@ -848,7 +848,7 @@ powiestka - անուն
 prącie - առնանդամ
 pracować - աշխատել
 pragnienie - ցանկություն
-prawa ręka - աջ | ձեռք (jeṙkʿ)
+prawa ręka - աջ, ձեռք (jeṙkʿ)
 prawo - օրենք
 prawy - աջ
 proton - պրոտոն
@@ -870,8 +870,8 @@ przyzwoity - ազնիվ
 psiarnia - ոստիկան
 psisko - շուն
 pszczoła - մեղու
-ptak - թռչուն | առնանդամ
-ptaszę - թռչուն | առնանդամ
+ptak - թռչուն, առնանդամ
+ptaszę - թռչուն, առնանդամ
 pustynia - անապատ
 puszka - գարեջուր
 pwać - հավատալ
@@ -903,7 +903,7 @@ robić - անել
 rodzina - ընտանիք
 rodzynek - չամիչ
 rodzynka - չամիչ
-rok - տարի | փեշ
+rok - տարի, փեշ
 rok przestępny - նահանջ տարի
 ropa naftowa - նավթ
 róść - բուսնել
@@ -933,7 +933,7 @@ Rzym - Հռոմ
 sagan - գլուխ
 Sahara Zachodnia - Արևմտյան Սահարա
 sałata - տաքսի
-sałatka - սալաթ | աղցան
+sałatka - սալաթ, աղցան
 samar - samariumu
 samolot - օդանավ
 sarnapa - ընձուղտ
@@ -945,7 +945,7 @@ seaborg - siborghiumu
 sekciarski - աղանդավորական
 seksualny - սեռական
 selen - սելեն
-sen - անուրջ | քուն
+sen - անուրջ, քուն
 ser - պանիր
 Serbia - Սերբիա
 serce - սիրտ
@@ -959,8 +959,8 @@ sirpień - օգոստոս
 skand - scandiumu
 skrzydło - թեւ
 skrzypce - ջութակ
-śleboda - ազատութիւն | ազատություն
-słodki - անուշ | քաղցր
+śleboda - ազատութիւն, ազատություն
+słodki - անուշ, քաղցր
 słoń - փիղ
 słońce - արեւ
 słowa - բառ
@@ -988,7 +988,7 @@ solidarność - համերաշխություն
 Solon - Սոլոն
 somsiad - դրացի
 sowa - բու
-spać - ննջել | քնել
+spać - ննջել, քնել
 sperma - սերմ
 śpiewak - երգիչ
 spódnica - փեշ
@@ -1004,7 +1004,7 @@ stal - պողպատ
 Stambuł - Ստամբուլ
 stanowisko - պաշտոն
 starek - պապ
-stare miasto - հին (heen) | քաղաք
+stare miasto - հին (heen), քաղաք
 starka - տատիկ
 starosek - պապ
 staroszek - պապ
@@ -1027,7 +1027,7 @@ sumo - սումո
 Sycylia - Սիցիլիա
 syra - ոտք
 Syria - Սիրիա
-szacunek - հարգանք | պատկառանք | հարգում
+szacunek - հարգանք, պատկառանք, հարգում
 szafran - քրքում
 szakal - շնագայլ
 szaszok - վախկոտ
@@ -1037,7 +1037,7 @@ szczypiorniak - հանդբոլ
 szczyt - օրգազմ
 szef - պետ
 szeroki - ահագին
-szkira - օրիորդ | ընկերուհի
+szkira - օրիորդ, ընկերուհի
 szkita - ոտք
 szkoła - դպրոց
 szlachetny - ազնիվ
@@ -1045,7 +1045,7 @@ szlauch - օձ
 szmucha - խաբեբայություն
 szneka - դեմք
 szpital - հիւանդանոց
-sztuka - օրիորդ | ընկերուհի
+sztuka - օրիորդ, ընկերուհի
 szwaja - ոտք
 Szwajcaria - Շվեյցարիա
 Szwecja - Շվեդիա
@@ -1053,7 +1053,7 @@ Szwecyjo - Շվեդիա
 szwedzki - շվեդերեն
 szwestera - քույր
 szynal - մեխ
-tacik - հայր | պապ
+tacik - հայր, պապ
 Tadżykistan - Տաճիկստան
 Tajlandia - Թաիլանդ
 tak - այո (ayo)
@@ -1139,7 +1139,7 @@ uśmiech - ժպիտ
 usta - բերան
 ustny - անգիր
 utok - փախուստ
-wacha - անձրեւ | ծով | ջուր
+wacha - անձրեւ, ծով, ջուր
 wajco - ձու
 wałek - խաբեբայություն
 walić konia - ժաժ տալ (žaž tal)
@@ -1189,7 +1189,7 @@ wodór - ջրածին
 wojna - պատերազմ
 wokabularz - բառարան
 wolfram - վոլֆրամ
-wolność - ազատութիւն | ազատություն
+wolność - ազատութիւն, ազատություն
 wolny - ազատ
 woniączka - օղի
 wróg - ոսոխ
@@ -1210,7 +1210,7 @@ zabójstwo - սպանություն
 zaćmienie - խավարում
 zagraniczny - օտար
 zaimek - դերանուն (deranun)
-żal - վիշտ | տխրություն
+żal - վիշտ, տխրություն
 Zamość - Զամոստիա
 zapalenie płuc - թոքերի բորբոքում (t’vok’yeri borbok’um)
 zaprzeczać - ուրանալ
@@ -1223,7 +1223,7 @@ zemsta - քեն
 żeńczyna - կին
 żeński - իգական
 zielony - կանաչ (kanačʿ)
-ziemia - երկիր | աշխարհ
+ziemia - երկիր, աշխարհ
 Ziemia Święta - Սուրբ Երկիր
 zima - ձմեռ
 zista - տատիկ
@@ -1237,7 +1237,7 @@ znać - ճանաչել
 żona - կին
 żonaty - ամուսնացած
 źrenica - աչք
-zrywka - պայուսակ | փախուստ
+zrywka - պայուսակ, փախուստ
 zupa - ապուր
 Związek Socjalistycznych Republik Radzieckich - Սովետական Սոցիալիստական Հանրապետությունների Միություն
 zwierciadło - հայելի (hayeli)

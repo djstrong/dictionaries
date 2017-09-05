@@ -1,5 +1,5 @@
 abecadło - alfabet
-abò - albo | czy | czyli | lub
+abò - albo, czy, czyli, lub
 absolwent - absolwent
 abstrakcëjô - abstrakcja
 achtnąc - uszanować
@@ -12,7 +12,7 @@ Afrika - Afryka
 aka - motyka
 akcëjô - akcja
 aksamińt - aksamit
-akùratno - dokładnie | akurat
+akùratno - dokładnie, akurat
 akùsticzny - akustyczny
 akùstika - akustyka
 akùzatiw - biernik
@@ -36,9 +36,9 @@ arabsczi - arabski
 arbata - herbata
 archeòlogijô - archeologia
 architekta - architekt
-armijô - armia | wojsko
+armijô - armia, wojsko
 artikel - artykuł
-artikùlacjô - artykulacja | wymowa
+artikùlacjô - artykulacja, wymowa
 artista - artysta
 artistka - artystka
 astronóma - astronom
@@ -50,19 +50,19 @@ aùtoł - samochód
 Azëjô - Azja
 Azerbejdżan - Azerbejdżan
 bãbòruszk - wiaderko
-baczëc - uważać | baczyć
+baczëc - uważać, baczyć
 bączk - chrząszcz
 badérowac - badać
-bakarat - bakarat | bakarat (rodzaj szkła)
+bakarat - bakarat, bakarat (rodzaj szkła)
 balëjô - wanna
 balika - wanna
-ban - pociąg | kolej
-bana - pociąg | kolej
-bania - dynia | duża głowa | szczególnie łysa
+ban - pociąg, kolej
+bana - pociąg, kolej
+bania - dynia, duża głowa, szczególnie łysa
 Banino - Banino (wieś w województwie pomorskim)
 banowi - kolejarz
-banowiszcze - dworzec kolejowy | stacja
-barch - kołowacizna - choroba owiec | obłęd | głupota
+banowiszcze - dworzec kolejowy, stacja
+barch - kołowacizna - choroba owiec, obłęd, głupota
 barchniec - szaleć
 barda - broda
 barń - broń
@@ -75,69 +75,69 @@ barzëczkò - bardzo
 barżilkò - bardzo
 barzo - bardzo
 baskijsczi - baskijski
-bë - by | żeby
+bë - by, żeby
 bëc - być
 bédowac - proponować
 bédowanié - propozycja
 Belgijskô - Belgia
-bëlno - porządnie | dobrze | pięknie | dzielnie
-bëlnota - cnota | cnotliwość | dzielność
-bëlny - zacny | dobry | szlachetny | doskonały | piękny
-bënë - wewnątrz | do środka
+bëlno - porządnie, dobrze, pięknie, dzielnie
+bëlnota - cnota, cnotliwość, dzielność
+bëlny - zacny, dobry, szlachetny, doskonały, piękny
+bënë - wewnątrz, do środka
 bes - bez (krzew)
-bestri - pstry | srokaty
-bëstri - bystry | wartki | gwałtowny | nagły
+bestri - pstry, srokaty
+bëstri - bystry, wartki, gwałtowny, nagły
 Bëtowò - Bytów
-bez - bez | przez
+bez - bez, przez
 bezòsobòwi - bezosobowy
 bezszëk - nonszalancja
 bezzmiłkòwi - poprawny
-białeczka - kobietka | żonka
-białka - kobieta | białogłowa | żona
+białeczka - kobietka, żonka
+białka - kobieta, białogłowa, żona
 bibloteka - biblioteka
-bic sã - mocować się | bić się
+bic sã - mocować się, bić się
 biéda - bieda
-biédny - biedny | ubogi
+biédny - biedny, ubogi
 bielëzna - bielizna
 biôłi - biały
 Biôłorëskô - Białoruś
 biôłorusczi - białoruski
-biôtkòwac - mocować się | bić się
-bitka - bitka | bójka | ząb mleczny | kotlet bity | uderzenie | cios
+biôtkòwac - mocować się, bić się
+bitka - bitka, bójka, ząb mleczny, kotlet bity, uderzenie, cios
 biuletin - biuletyn
 blësniec - szaleć
 blisczi - bliski
 bliza - latarnia morska
 blóna - chmura
-bò - bo | gdyż
+bò - bo, gdyż
 bóg - bóg
 bòhater - bohater
 bòjec sã - bać się
-bôl - bal | kloc drewna | duży | walcowaty przedmiot z drewna
+bôl - bal, kloc drewna, duży, walcowaty przedmiot z drewna
 bòlesc - ból
 Bòlesłôw - Bolesław
-Bôłt - Bałtyk | Morze Bałtyckie
+Bôłt - Bałtyk, Morze Bałtyckie
 bòski - boski
 bòsniany - bośniacki
 Bòsnijô ë Hercegòwina - Bośnia i Hercegowina
 bót - but
 bôt - łódź
-bówka - chłopak | zawadiaka
-bóżk - bożek | idol | bałwan
+bówka - chłopak, zawadiaka
+bóżk - bożek, idol, bałwan
 bracyna - brat
 brat - brat
 bratulka - bratanica
 brëdny - brudny
 brëkòwnik - użytkownik
 brële - okulary
-brëslëjący - wzburzony | szumiący
+brëslëjący - wzburzony, szumiący
 bridż - brydż
 bridżowi - brydżowy
 bridżownik - brydżysta
 bróma - brama
 bróna - brona
 brónic - bronić
-bruny - brunatny | brązowy
+bruny - brunatny, brązowy
 brzëch - brzuch
 brzëchòwina - wnętrzności
 brzôd - owoc
@@ -147,7 +147,7 @@ bùksë - spodnie
 bùlgarsczi - bułgarski
 Bùlgarskô - Bułgaria
 bùrméster - burmistrz
-bùten - zewnątrz (na) | na dwór | na dworze
+bùten - zewnątrz (na), na dwór, na dworze
 bùzer - łobuz
 cąc - ciąć
 całi - cały
@@ -159,23 +159,23 @@ cecewiô - drabina
 cekawi - ciekawy
 celëczëzna - cielęcina
 cemnica - ciemność
-cemnoczerwiony - ciemnoczerwony | pąsowy
-cemnomòdri - ciemnoniebieski | granatowy
-cemny - ciemny | mroczny | głupi | durny
+cemnoczerwiony - ciemnoczerwony, pąsowy
+cemnomòdri - ciemnoniebieski, granatowy
+cemny - ciemny, mroczny, głupi, durny
 cenczi - cienki
 cepłi - ciepły
 cërëlicã - cyrylica
 cerkwiô - cerkiew
 cerkwiowi - cerkiewny
-cëskac - rzucać | ciskać
+cëskac - rzucać, ciskać
 cëszkò - cichutko
-chãc - chęć | zapał
-chaja - snieżyca | burza morska | huragan
-chëcz - dom | budynek mieszkalny | mieszkanie
+chãc - chęć, zapał
+chaja - snieżyca, burza morska, huragan
+chëcz - dom, budynek mieszkalny, mieszkanie
 chińsczi - chiński
 chiże - szybko
 chléb - chleb
-chłop - mężczyzna | chłop | mąż
+chłop - mężczyzna, chłop, mąż
 chmùra - chmura
 chòc - choć
 chójka - młoda sosna
@@ -185,27 +185,27 @@ chróst - chrust
 chrzept - grzbiet
 chrzeptowina - polędwica
 chto - kto
-chùtczi - prędki | szybki | zwinny | ochoczy | wcześniej | taniec wirowy | polka
-chùtkò - prędko | szybko | żwawo | ochoczo
+chùtczi - prędki, szybki, zwinny, ochoczy, wcześniej, taniec wirowy, polka
+chùtkò - prędko, szybko, żwawo, ochoczo
 chùtuszkò - szybko
 chwôlëc - chwalić
-ciéj ni môsz kraba, to dobrô i żaba - gdy nie masz kraba | to dobra i żaba
-cknąc - wąchać | węszyć | czuć węchem
+ciéj ni môsz kraba, to dobrô i żaba - gdy nie masz kraba, to dobra i żaba
+cknąc - wąchać, węszyć, czuć węchem
 cłowi - celny
 cłowi ùrząd - urząd celny
 cnik - nos
 copac - cofać
 cuch - pociąg
-cwëk - sens | cel
+cwëk - sens, cel
 cygnąc - ciągnąć
 cytrónszpëjza - rodzaj leguminy przygotowywany na Kaszubach i Kociewiu na specjalne uroczystości (komunie, wesela )
 cządnik - czasopismo
-czas - czas | okres
+czas - czas, okres
 czë - czy
-czëc - słyszeć | czuć
+czëc - słyszeć, czuć
 czedë - kiedy
-czej - kiedy | gdy
-czejbë - gdyby | jeśliby
+czej - kiedy, gdy
+czejbë - gdyby, jeśliby
 czełkòwac - kiełkować
 czemù - czemu
 czerwińc - czerwiec
@@ -215,13 +215,13 @@ czerz - krzew
 czesczi - czeski
 Czeskô - Czechy
 Czeskô Repùblika - Republika Czeska
-czësto - czysto | zupełnie | całkiem
+czësto - czysto, zupełnie, całkiem
 czëtińc - czytelnik
-czij - kij | laska | czyj
+czij - kij, laska, czyj
 człowiek - człowiek
 Czôrnô Góra - Czarnogóra
-czôrny - czarny | ciemny | eufemistyczna nazwa diabła
-czosnik - czosnek | grzebień
+czôrny - czarny, ciemny, eufemistyczna nazwa diabła
+czosnik - czosnek, grzebień
 czwiôrti - czwarty
 czwôrtk - czwartek
 daleczi - daleki
@@ -230,20 +230,20 @@ dama - tama
 Damroka - Damroka
 danka - choinka
 darga - droga
-darmôk - darmowy | gratisowy
+darmôk - darmowy, gratisowy
 darżëszcze - droga
 datiw - celownik
-dëcht - całkiem | całkowicie | zupełnie
+dëcht - całkiem, całkowicie, zupełnie
 dëdac - myśleć
-dëfelka - mały drewniak | chodaczek drewniany
-dëfla - drewniak | chodak drewniany
-dél - deska | bal | kloc drewna | duży | walcowaty przedmiot z drewna
+dëfelka - mały drewniak, chodaczek drewniany
+dëfla - drewniak, chodak drewniany
+dél - deska, bal, kloc drewna, duży, walcowaty przedmiot z drewna
 dënsczi - duński
 Dëńskô - Dania
 dërdes - rdest
-dësza - duch | dusza
+dësza - duch, dusza
 deszcz - deszcz
-deszczomiérz - deszczomierz | pluwiometr
+deszczomiérz - deszczomierz, pluwiometr
 deszczownik - parasol
 diamańt - diament
 dic - dąć
@@ -256,36 +256,36 @@ dłudżi - długi
 dług - dług
 długo - długo
 długòta - długość
-do - do (przeznaczenia) | do (momentu czasu)
+do - do (przeznaczenia), do (momentu czasu)
 dobri - dobry
 dobri dzéń - dzień dobry
 dobri nocë - dobranoc
 dobri wieczór - dobry wieczór
 doch - przecież
-do czësta - zupełnie | mocno
-dodôwk - dodatek | załącznik
+do czësta - zupełnie, mocno
+dodôwk - dodatek, załącznik
 dogmat - dogmat
 dojinka - nocnik
 dôka - mgła
 dołgòterminowi - długoterminowy
-dólnica - miejsce do składowania ziemniaków | marchwi itp. znajdujące się blisko zabudowań gospodarskich
+dólnica - miejsce do składowania ziemniaków, marchwi itp. znajdujące się blisko zabudowań gospodarskich
 dolnosorbsczi - dolnołużycki
-dóm - dom | sień
+dóm - dom, sień
 doma - w domu
-domôcy - domowy | swojski | ojczysty | rodzimy
+domôcy - domowy, swojski, ojczysty, rodzimy
 dopiérze - dopiero
 dorôdca - doradca
 dorsz - dorsz
 dôwac - dawać
 dôwôcz - celownik
-drãdżi - ciężki | trudny
-drãgò - ciężko | trudno
+drãdżi - ciężki, trudny
+drãgò - ciężko, trudno
 drapac - drapać
 drëch - przyjaciel
 drzéwiã - drzewo
 drzéwò - drzewo
 Dw. - celownik
-dwa - dwa | 2
+dwa - dwa, 2
 dze - gdzie
 dzeckò - dziecko
 dzéń - dzień
@@ -293,11 +293,11 @@ dzesãc - 10
 dzewiãc - nazwa liczby 9
 dźuma - dżuma
 dżungla - dżungla
-dzurkôcz - dziurkacz (biurowy) | dziurkacz (biletowy)
-dzys - dziś | dzisiaj
+dzurkôcz - dziurkacz (biurowy), dziurkacz (biletowy)
+dzys - dziś, dzisiaj
 dzysô - dzisiaj
 ë - i
-edicjô - edycja | wydanie
+edicjô - edycja, wydanie
 edikt - edykt
 Édmùnd - Edmund
 egipsczi - egipski
@@ -319,11 +319,11 @@ ewòlucyjny - ewolucyjny
 fagas - łotr
 familëjô - rodzina
 faraón - faraon
-farwa - kolor | barwa
+farwa - kolor, barwa
 farwarstwò - farbiarstwo - barwienie tkanin
-farwny - kolorowy | barwny
+farwny - kolorowy, barwny
 farwôrz - farbiarz - nazwa zawodu
-farwòwac - farbować | barwić
+farwòwac - farbować, barwić
 fëszbin - fiszbin
 filharmóniô - filharmonia
 film - film
@@ -332,8 +332,8 @@ filozófa - filozof
 fińsczi - fiński
 Fińskô - Finlandia
 fizjologiczny - fizjologiczny
-flaba - morda | brzydka gęba | pysk
-flaczi - flaki | wnętrzności
+flaba - morda, brzydka gęba, pysk
+flaczi - flaki, wnętrzności
 fòlklor - folklor
 fòntana - fontanna
 fòrmùlôrz - formularz
@@ -347,7 +347,7 @@ fùlprawny - pełnoprawny
 fùturista - futurysta
 fùturisticzny - futurystyczny
 fùturizm - futuryzm
-gãba - usta | jama ustna | gęba
+gãba - usta, jama ustna, gęba
 gabardina - gabardyna
 gadac - mówić
 galerëjã - galeria
@@ -355,9 +355,9 @@ gard - miasto
 gãs - gęś
 gãsti - gęsty
 gazétnictwò - dziennikarstwo
-gbur - gospodarz | rolnik
-gbùr - rolnik | chłop
-gbùrka - gospodyni | chłopka
+gbur - gospodarz, rolnik
+gbùr - rolnik, chłop
+gbùrka - gospodyni, chłopka
 gbùrstwò - folwark
 gbùrzëna - rolnictwo
 Gdiniô - Gdynia
@@ -367,17 +367,17 @@ Gduńskô Hôwinga - Zatoka Gdańska
 gdze - gdzie
 genytiw - dopełniacz
 geògrafijô - geografia
-głëpiec - szaleć | głupieć
+głëpiec - szaleć, głupieć
 głôdczi - gładki
 głodni - głodny
 głos - głos
 głosowac - głosować
 głowa - głowa
-gnãbic - gnębić (ktoś) | gnębić (coś)
+gnãbic - gnębić (ktoś), gnębić (coś)
 gnãbicél - gnębiciel
-gnôt - kość | gnat
+gnôt - kość, gnat
 gôdac - mówić
-Gòdë - Boże Narodzenie | Święta | Święta Bożego Narodzenia
+Gòdë - Boże Narodzenie, Święta, Święta Bożego Narodzenia
 gòdnik - grudzień
 gòłąb - gołąb
 gòłąbczëna - gołębica
@@ -389,14 +389,14 @@ góra - góra
 gòrączka - gorączka
 górnosorbsczi - górnołużycki
 gòsc - gość
-gòscyńc - hotel | gospoda
+gòscyńc - hotel, gospoda
 gòscynnosc - gościnność
-gòwniôrz - gówniarz | skarabeusz
+gòwniôrz - gówniarz, skarabeusz
 grac - grać
-grajny - namiętny | pożądliwy
+grajny - namiętny, pożądliwy
 grajny dóm - dom publiczny
 gramatika - gramatyka
-granatny - granatowy | ciemnoniebieski
+granatny - granatowy, ciemnoniebieski
 grecczi - grecki
 Greckô - Grecja
 Grégór - Grzegorz
@@ -406,13 +406,13 @@ Grëzëjô - Gruzja
 grëzóńsczi - gruziński
 grëzypiórk - gryzipiórek
 gromicznik - luty
-gromisto - gromiście | bardzo
+gromisto - gromiście, bardzo
 grónk - dzban
 grôp - garnek
 grosz - grosz
 grzëmòt - grzmot
 gùz - guzik
-gwës - niewątpliwie | na pewno | pewny (przekonany o czymś)
+gwës - niewątpliwie, na pewno, pewny (przekonany o czymś)
 gwësno - oczywiście
 gwiôzda - gwiazda
 habit - habit
@@ -420,7 +420,7 @@ hańdlowi - handlowy
 hebrajsczi - hebrajski
 hëta - huta
 hëtnictwò - hutnictwo
-hëtnik - hutnik | hucianin (mieszkaniec Huty)
+hëtnik - hutnik, hucianin (mieszkaniec Huty)
 hëtny - hutniczy
 héwò - oto
 hibrida - hybryda
@@ -443,26 +443,26 @@ jãczm - jęczmień
 jadro - sieć
 jagòda - jagoda
 jajco - jajko
-jak - jak | jakim sposobem
+jak - jak, jakim sposobem
 Jakùb - Jakub
 janiół - anioł
 jantôr - bursztyn
 japòńsczi - japoński
 Japòńskô - Japonia
 jasnomòdri - jasnoniebieski
-jasnowida - jasnowidz | jasnowidzący
-jasny - jasny | pogodny | bezchmurny
+jasnowida - jasnowidz, jasnowidzący
+jasny - jasny, pogodny, bezchmurny
 Jastarniô - Jastarnia
 Jastrë - Wielkanoc
-jãzëk - język: mięsień znajdujący się w jamie ustnej lub gębowej | pełniący funkcję narządu smaku | ułatwiający jedzenie | a u ludzi także mówienie | język: zbiór słów | reguł gramatycznych | alfabetu | zasad wymowy | umożliwiający porozumiewanie się osób znających ten zbiór
-jeden - nazwa liczby 1 | pewien | niejaki | jakiś
+jãzëk - język: mięsień znajdujący się w jamie ustnej lub gębowej, pełniący funkcję narządu smaku, ułatwiający jedzenie, a u ludzi także mówienie, język: zbiór słów, reguł gramatycznych, alfabetu, zasad wymowy, umożliwiający porozumiewanie się osób znających ten zbiór
+jeden - nazwa liczby 1, pewien, niejaki, jakiś
 jedwôb - jedwab
 jeléń - jeleń
 jelenica - łania
 jesc - jeść
 jeséń - jesień
 jesz - jeszcze
-jeżlë - jeśli | jeżeli
+jeżlë - jeśli, jeżeli
 jezoro - jezioro
 jibis - ibis
 jic - iść
@@ -481,11 +481,11 @@ jiny - inny
 jistnik - rzeczownik
 Jizrael - Izrael
 jo - tak (odpowiedź na pytanie)
-jô - ja | jaźń | ego
+jô - ja, jaźń, ego
 Józk - Józek
 jugò - jarzmo
 Jugòsławijô - Jugosławia
-kabôt - kurtka | marynarka
+kabôt - kurtka, marynarka
 kadril - kadryl
 kalãdôrz - kalendarz
 Kaliningradzkô Òbéńda - Obwód kaliningradzki
@@ -495,7 +495,7 @@ kąpielnica - wanna
 Karolëna - Karolina
 Kartuzë - Kartuzy
 karwa - krowa
-Kaszëba - Kaszub | Kaszuba
+Kaszëba - Kaszub, Kaszuba
 Kaszëbë - Kaszuby
 kaszëbsczi - kaszubski
 Kaszëbskô - Kaszuby
@@ -508,9 +508,9 @@ klôsztór - klasztor
 knéga - książka
 knéra - nos
 knéżka - książka
-kò - przecież | wszak | jednak
+kò - przecież, wszak, jednak
 kòchac - kochać
-kòl - koło | obok | przy
+kòl - koło, obok, przy
 kòlano - kolano
 kòloseùm - koloseum
 kôłp - łabędź
@@ -542,14 +542,14 @@ krabë to dlô nas jak żabë - krab jest dla nas jak żaba
 Krësztof - Krzysztof
 krëzbùla - agrest
 krôj - kraj
-króm - sklep | kram | oprócz
-krôsniã - krasnoludek | karzełek
+króm - sklep, kram, oprócz
+krôsniã - krasnoludek, karzełek
 krótczi - krótki
 krzëwi - krzywy
 krzëżacczi - krzyżacki
 Krzëżôk - Krzyżak
 kùch - ciasto
-kùla - miejsce do składowania ziemniaków | marchwi itp. znajdujące się blisko zabudowań gospodarskich
+kùla - miejsce do składowania ziemniaków, marchwi itp. znajdujące się blisko zabudowań gospodarskich
 kulôk - hulajnoga
 kùltura - kultura
 kùm - żłób
@@ -563,37 +563,37 @@ kùsznąc - pocałować
 kwiat - kwiat
 kwietnik - kwiecień
 labòratorëjô - laboratorium
-łacëzna - łacina | język łaciński
+łacëzna - łacina, język łaciński
 łãka - zatoka
 łapczëwi - łapczywy
 łapczëwòsc - łapczywość
 las - las
 latawiskò - lotnisko
 lato - lato
-le - ale | tylko
-lëchi - zły | lichy
-łëczk - szczypior | szczypiorek
+le - ale, tylko
+lëchi - zły, lichy
+łëczk - szczypior, szczypiorek
 lëdztwò - ludność
 lëft - powietrze
-lëmic - bić | uderzać | kleić
+lëmic - bić, uderzać, kleić
 Leòn - Leon
 lëpë - warga
 lëpin - łubin
 lëpinc - lipiec
 lës - lis
-lëst - liść | list
+lëst - liść, list
 lëstopadnik - listopad
 lëteracczi - literacki
 lëtewsczi - litewski
 Lëtewskô - Litwa
-letkò - lekko | łatwo
+letkò - lekko, łatwo
 lewi - lewy
 leżec - leżeć
 łëzgówc - łuskowiec
 leżnosc - możliwość
 Lichtenstein - Liechtenstein
-lilewi - liliowy | fioletowy
-liwk - kamizelka | stanik | gorset
+lilewi - liliowy, fioletowy
+liwk - kamizelka, stanik, gorset
 lód - lód
 lokatiw - miejscownik
 łokc - łokieć
@@ -630,7 +630,7 @@ mëga - komar
 melizmat - melizmat
 melizmaticzny - melizmatyczny
 melizmatika - melizmatyka
-mëma - matka | mama | żona
+mëma - matka, mama, żona
 mënuta - minuta
 mënutny - minutowy
 mërk - znak
@@ -645,14 +645,14 @@ midzënôrodni - międzynarodowy
 miec - mieć
 miedzwiédz - niedźwiedź
 mieło - miło
-miemiecczëzna - niemczyzna | język niemiecki
+miemiecczëzna - niemczyzna, język niemiecki
 miemiecczi - niemiecki
 Miemieckô - Niemcy
 miesąc - miesiąc
 miesãcznik - miesięcznik
 miesądz - księżyc
-miono - imię | nazwisko
-mita - miejsce do składowania ziemniaków | marchwi itp. znajdujące się blisko zabudowań gospodarskich.
+miono - imię, nazwisko
+mita - miejsce do składowania ziemniaków, marchwi itp. znajdujące się blisko zabudowań gospodarskich.
 Ml. - miejscownik
 mlékò - mleko
 młënôrz - młynarz
@@ -661,10 +661,10 @@ młoc - mleć
 młody - młody
 młoleczka - wiatrak
 mòdlëtwa - modlitwa
-mòdri - niebieski | modry - nazwa koloru | figlarnie: o jałowym mleku (bez tłuszczu)
-mòdrôk - chaber | bławat
-mòdrôkòwi - chabrowy | bławatny
-mòdżiła - mogiła | grób
+mòdri - niebieski, modry - nazwa koloru, figlarnie: o jałowym mleku (bez tłuszczu)
+mòdrôk - chaber, bławat
+mòdrôkòwi - chabrowy, bławatny
+mòdżiła - mogiła, grób
 mòdżilny - mogilny
 môj - maj
 mòkri - mokry
@@ -683,9 +683,9 @@ mòzdrëch - musztarda
 mróz - mróz
 mrozëc - mrozić
 mrozny - mroźny
-na - na | weź | ona
+na - na, weź, ona
 nalezc - znaleźć
-nałożëc - przyzwyczajać się | przywyknąć
+nałożëc - przyzwyczajać się, przywyknąć
 narajic - wyswatać
 narzãdzôcz - narzędnik
 nawetka - nawet
@@ -698,16 +698,16 @@ nick - nic
 nié - nie
 niebò - niebo
 niedoczinnosc - niedoczynność
-niedzela - niedziela | tydzień
+niedzela - niedziela, tydzień
 niemiecczi - niemiecki
 nierôd - niechętnie
 nieszczestlëwi - nieszczęśliwy
 niezabôtka - niezapominajka
 nigdë - nigdy
 nigdze - nigdzie
-nimò - mimo | pomimo
-niszrëch - ciekawy | interesujący (o człowieku)
-no - ono | to
+nimò - mimo, pomimo
+niszrëch - ciekawy, interesujący (o człowieku)
+no - ono, to
 noc - noc
 nòcnik - gość nocny
 nôdzeja - nadzieja
@@ -717,7 +717,7 @@ nominatiw - mianownik
 norda - północ (strona świata)
 Nordowô Amerika - Ameryka Północna
 Nordowô Irlandëjô - Irlandia Północna
-nórt - kąt | kraniec
+nórt - kąt, kraniec
 norwesczi - norweski
 Norweskô - Norwegia
 nos - nos
@@ -726,13 +726,13 @@ nowi - nowy
 nôzwëskò - nazwisko
 Nrz. - narzędnik
 Nz. - mianownik
-òbierzka - kromka | pajda
+òbierzka - kromka, pajda
 òbjëmac - zawierać
 òbôczëc - widzieć
 òbszcządny - oszczędny
 òbzerac - oglądać
 òbzérac - oglądać
-òbzerac sã - wahać się | oglądać się
+òbzerac sã - wahać się, oglądać się
 òct - ocet
 òddichac - oddychać
 òdjimk - fotografia
@@ -740,12 +740,12 @@ Nz. - mianownik
 Òdora - Odra
 òdroda - odrodzenie
 òdżin - ogień
-ògadòwac - grodzić | ogrodzić | bronić
+ògadòwac - grodzić, ogrodzić, bronić
 ògard - ogród
 òglowò - ogólnie
 ògniôrz - strażak
 ògón - ogon
-ògrôdzac - ogrodzić | bronić
+ògrôdzac - ogrodzić, bronić
 òjc - ojciec
 òkno - okno
 òkò - oko
@@ -764,11 +764,11 @@ Nz. - mianownik
 òrzéł - orzeł
 òska - osika
 òsmë - nazwa liczby 8
-òsoblëwò - zwłaszcza | szczególnie | przede wszystkim
+òsoblëwò - zwłaszcza, szczególnie, przede wszystkim
 òstawic - zostawić
 òstri - ostry
 ostrowina - archipelag
-òtaksowanié - ocena | określenie
+òtaksowanié - ocena, określenie
 Òwczé Òstrowë - Wyspy Owcze
 òwôd - owad
 paczét - pakiet
@@ -779,7 +779,7 @@ państwòwi - państwowy
 papiéż - papież
 papla - topola
 paralusz - paraliż
-parłãczëc - jednoczyć | kojarzyć | łączyć | wiązać | konsolidować | skupiać | jednoczyć się | łączyć się | wiązać się
+parłãczëc - jednoczyć, kojarzyć, łączyć, wiązać, konsolidować, skupiać, jednoczyć się, łączyć się, wiązać się
 parmiéń - promień
 parôt - papuga
 parpac - paproć
@@ -793,8 +793,8 @@ pełnic - pełnić
 pënka - penis
 persczi - perski
 perturbacjô - perturbacja
-pëszny - piękny | wspaniały
-pëtac - pytać | pytać się
+pëszny - piękny, wspaniały
+pëtac - pytać, pytać się
 pëtanié - pytanie
 piãc - nazwa cyfry 5
 piãcgwiôzdkòwi - pięciogwiazdkowy
@@ -806,7 +806,7 @@ piérwi - pierwszy
 piesniô - pieśń
 Pilëce - Jastrzębia Góra
 piôsk - piasek
-pismiono - czasopismo | magazyn
+pismiono - czasopismo, magazyn
 pisôrka - pisarka
 pisôrz - pisarz
 piwò - piwo
@@ -828,55 +828,55 @@ pòczątkòwi - początkowy
 pòd - pod
 pôda - kum
 pòdatk - podatek
-pòdług - według | wedle | podług
+pòdług - według, wedle, podług
 pògańsczi - pogański
 pògón - poganin
-pòlaszëzna - polszczyzna | język polski
+pòlaszëzna - polszczyzna, język polski
 pôlc - palec
 pôlëc - palić
 pòlitikôrz - polityk
 półkùgla - półkula
-pôłnié - południe (strona świata) | południe (pora dnia) | obiad
+pôłnié - południe (strona świata), południe (pora dnia), obiad
 pôłniowi - południowy
 Pòlôch - Polak
 pòlonistika - polonistyka
-pòłożenié - położenie | lokalizacja
+pòłożenié - położenie, lokalizacja
 pòlsczi - polski
 Pòlskô - Polska
 półtora - półtora
 pòmòrsczi - pomorski
 Pòmòrskô - Pomorze
-pòmùchla - dorsz bałtycki | pomuchla
+pòmùchla - dorsz bałtycki, pomuchla
 pòniedzôłk - poniedziałek
 pòniesc - ponieść
 pònosëc - ponosić
 pòpiół - popiół
 pò prôwdze - naprawdę
-pòrénk - poranek | wschód (strona świata)
+pòrénk - poranek, wschód (strona świata)
 pòrt - port
 pòrtret - portret
 pòrtugalsczi - portugalski
 Pòrtugalskô - Portugalia
-pòsélc - poseł | posłaniec
+pòsélc - poseł, posłaniec
 pòszczesnik - życica
 pòtemu - potem
 pòtkanié - spotkanie
 pòtrôwnica - truskawka
-pòtrus - muchomor | muchomór
+pòtrus - muchomor, muchomór
 prastark - pradziadek
 prawi - prawy
-prażnica - jajecznica | upał
+prażnica - jajecznica, upał
 priza - więzienie
 prorok - prorok
 prosba - prośba
-prosti - prosty | równy | niewykształcony | nieobyty | zwykły | zwyczajny | pojedynczy | skromny
-przë - przy | obok | podczas
+prosti - prosty, równy, niewykształcony, nieobyty, zwykły, zwyczajny, pojedynczy, skromny
+przë - przy, obok, podczas
 przebicé - przebitka
-przebòj - przebój | hit
-przebòjowi - przebojowy | hitowy
-przëchilnosc - uprzejmość | życzliwość
+przebòj - przebój, hit
+przebòjowi - przebojowy, hitowy
+przëchilnosc - uprzejmość, życzliwość
 przedmiasté - przedmieście
-przédnik - prezes | przewodniczący
+przédnik - prezes, przewodniczący
 przëdownik - przymiotnik
 przedrowié - przedpole
 przedzëma - przedzimie
@@ -888,7 +888,7 @@ psyczka - suka
 pszéńca - pszenica
 ptôch - ptak
 ptôstwò - ptactwo
-ptôszëna - ptaszyna | mięso drobiu
+ptôszëna - ptaszyna, mięso drobiu
 pùchnąc - puchnąć
 pùjk - kot
 pupa - lalka
@@ -908,48 +908,48 @@ razã - razem
 rëba - ryba
 rëbôk - rybak
 rëcëna - rycina
-rëchli - prędzej | wcześniej | raczej
+rëchli - prędzej, wcześniej, raczej
 rechòwac - liczyć
 Réda - Reda
 rëda - błoto
 redakcëjô - redakcja
-réga - rząd | szereg
+réga - rząd, szereg
 regùlamin - regulamin
 rek - rak
 religijô - religia
 Rëmiô - Rumia
 renic - ranić
 rewòlucjô - rewolucja
-réżka - rządek | linijka | wers | werset
+réżka - rządek, linijka, wers, werset
 Ribno - Rybno
 ricérz - rycerz
 Riszard - Ryszard
 riwal - rywal
 robic - robić
 robôk - robak
-robòta - robota | praca
+robòta - robota, praca
 rôczba - zaproszenie
-roda - przyroda | natura
+roda - przyroda, natura
 rodzôcz - dopełniacz
 róg - róg
 rok - rok
 romańsczi - romański
 ropa - para (substancja w postaci gazowej)
 roscëna - roślina
-równak - ale | jednakże
+równak - ale, jednakże
 róża - róża
 rozdzél - rozdział
 rozdzelac - rozdzielać
 rozebrac - rozebrać
 różewi - różowy
-rozgòrzony - oburzony | rozzłoszczony
+rozgòrzony - oburzony, rozzłoszczony
 rujan - październik
 rumùńsczi - rumuński
 Rumùńskô - Rumunia
 rusczi - rosyjski
 Ruskô - Rosja
 ruta - szyba
-rzëc - dupa | rzyć
+rzëc - dupa, rzyć
 rzéka - rzeka
 rzeszëc - rzucać
 sã - się
@@ -958,7 +958,7 @@ sadło - sadło
 samòrządzënowi - samorządowy
 samòstójnota - niepodległość
 San Marino - San Marino
-sarcësto - siarczyście | bardzo
+sarcësto - siarczyście, bardzo
 sarna - sarna
 sãzabicé - samobójstwo
 scana - ściana
@@ -967,10 +967,10 @@ scygôcz - hamulec
 sëchi - suchy
 sedzec - siedzieć
 sekac - siekać
-sëknia - suknia | ubiór
-sekretno - sekretnie | bardzo
+sëknia - suknia, ubiór
+sekretno - sekretnie, bardzo
 sëma - kwota
-semiã - nasiono | siemię
+semiã - nasiono, siemię
 semiónkò - nasionko
 sër - ser
 serbsczi - serbski
@@ -981,21 +981,21 @@ sétmë - nazwa liczby 7
 séwnik - wrzesień
 Singapùr - Singapur
 skąks - skunks
-skaszëbic - przetłumaczyć na (język) kaszubski | skaszubić
-sklep - piwnica znajdująca się w obrębie domu | miejsce do składowania ziemniaków | marchwi itp. znajdujące się blisko zabudowań gospodarskich
-skòwrónk - modrzew | skowronek
+skaszëbic - przetłumaczyć na (język) kaszubski, skaszubić
+sklep - piwnica znajdująca się w obrębie domu, miejsce do składowania ziemniaków, marchwi itp. znajdujące się blisko zabudowań gospodarskich
+skòwrónk - modrzew, skowronek
 skra - iskra
 skrãcac - skręcać
 skrobac - skrobać
 skrzeczk - chomik
 skrzëpczi - skrzypce
 skrzidło - skrzydło
-skwarka - skwarek | drobny mężczyzna
+skwarka - skwarek, drobny mężczyzna
 słabizna - pachwina
-slëbnô - żona | ślubna
-slëbny - mąż | ślubny
+slëbnô - żona, ślubna
+slëbny - mąż, ślubny
 slënowi - ślinowy
-slënowô gargula - ślinianka | gruczoł ślinowy
+slënowô gargula - ślinianka, gruczoł ślinowy
 słëpsczi - słupski
 Słëpsk - Słupsk
 Słëpskò - Słupsk
@@ -1019,7 +1019,7 @@ smòła - smoła
 smùtan - listopad
 snieg - śnieg
 sniég - śnieg
-snôżi - piękny | śliczny
+snôżi - piękny, śliczny
 so - się
 sobòta - sobota
 sodlarzczi - rymarski
@@ -1033,9 +1033,9 @@ sparłãczëc - połączyć
 spiéwac - śpiewać
 spisënk - spis
 spòczëwac - spoczywać
-spùscëc sã - zaufać | zdać się
+spùscëc sã - zaufać, zdać się
 Sri Lanka - Sri Lanka
-srodze - srodze | bardzo | wiele | nader
+srodze - srodze, bardzo, wiele, nader
 srom - wstyd
 Stanisłôw - Stanisław
 starna - strona
@@ -1058,7 +1058,7 @@ strzédnowiek - średniowiecze
 strzëna - trzcina
 strzërzënë - ścinki
 strzoda - środa
-stwòrzëc - stworzyć | utworzyć
+stwòrzëc - stworzyć, utworzyć
 swiãto - święto
 swiéca - świeca
 swiéczka - świeczka
@@ -1068,7 +1068,7 @@ szari - szary
 szãtopiérz - nietoperz
 szchanie - koromysło
 szczëka - szczupak
-szczëpa - łapa | garść
+szczëpa - łapa, garść
 szczestlëwi - szczęśliwy
 szëc - szyć
 szëja - szyja
@@ -1097,7 +1097,7 @@ szpiek - szynka
 szpòrtówca - sportowiec
 szrëca - łyżwa
 sztatus - status
-szterë - cztery | 4
+szterë - cztery, 4
 sztërë - cztery
 Sztetëno - Szczecin
 sztrajk - strajk
@@ -1125,8 +1125,8 @@ terôzkù - teraz
 terôzniészi - teraźniejszy
 tësąclatni - tysiącletni
 tetczëzna - ojczyzna
-tidzéń - tydzień (okres od poniedziałku do niedzieli) | siedem dni
-tiłk - pośladki | tyłek
+tidzéń - tydzień (okres od poniedziałku do niedzieli), siedem dni
+tiłk - pośladki, tyłek
 titułowac - tytułować
 tłëst - tłuszcz
 tobak - tytoń
@@ -1149,25 +1149,25 @@ trzéc - trzeć
 trzëmac - trzymać
 tśirožk - trójkąt
 tusk - pies
-tuwò - tutaj | tu
+tuwò - tutaj, tu
 ù - u
 ùchò - ucho
 ùchwalënk - uchwała
 ùczestnienié - gratulacja
 ùderzëc - uderzać
-ùjny - bujny | hojny
-ùkôzac - ukazać | ukazać się
+ùjny - bujny, hojny
+ùkôzac - ukazać, ukazać się
 Ùkrajina - Ukraina
 ùkrajińsczi - ukraiński
 ulizac - ulizać
 ùmierac - umierać
 ùnijô - unia
 ùrząd - urząd
-ùrzas - strach | przestrach | przerażenie | zgroza
-ùrzasnąc sã - przeląc się | przelęknąć się | przerazić się | przestraszyć się | zląc się | zlęknąć się
-w - trzydziesta pierwsza litera kaszubskiego alfabetu | w | we
+ùrzas - strach, przestrach, przerażenie, zgroza
+ùrzasnąc sã - przeląc się, przelęknąć się, przerazić się, przestraszyć się, zląc się, zlęknąć się
+w - trzydziesta pierwsza litera kaszubskiego alfabetu, w, we
 wa - wy
-wãbórk - wiadro | żartobliwie instrument muzyczny: bęben | neosemantyzm określający samochód marki Wartburg
+wãbórk - wiadro, żartobliwie instrument muzyczny: bęben, neosemantyzm określający samochód marki Wartburg
 wanoga - podróż
 warbel - wróbel
 warna - wrona
@@ -1176,15 +1176,15 @@ wąsczi - wąski
 Watikan - Watykan
 wątpia - wnętrzności
 wcyg - wciąż
-wë - Pan | Pani | Państwo
+wë - Pan, Pani, Państwo
 wëbaczic - wybaczyć
 wëcerac - wycierać
 wëcérôcz - wycior
-wëdanié - wydanie | edycja
+wëdanié - wydanie, edycja
 wëdłëbnik - wykałaczka
 wëdôwanié - edytorstwo
 wëdôwca - wydawca
-wëdôwk - edycja | wydanie
+wëdôwk - edycja, wydanie
 wëgódny - wygodny
 wëjimk - wyjątek
 wejle - oto
@@ -1205,7 +1205,7 @@ wësztôłcenié - wykształcenie
 wëzgódka - zagadka
 wiater - wiatr
 wiążëna - spójnik
-wid - światło | wzrok
+wid - światło, wzrok
 widzec - widzieć
 wiéchrzëzna - powierzchnia
 wiedzec - wiedzieć
@@ -1238,7 +1238,7 @@ wòłiwôcz - wołacz
 wôłna - wełna
 wonôtowac - wymiotować
 wôżni - ważny
-wrëk - karpiel | brukiew
+wrëk - karpiel, brukiew
 wsebët - jaźń
 wspólnik - wspólnik
 wstawac - wstawać
@@ -1254,9 +1254,9 @@ zakòchac sã - zakochać się
 zakôzac - zabronić
 zamrozëc - zamrozić
 zarząd - zarząd
-zastôwiac sã - zastawiać | grodzić | ogrodzić | bronić
+zastôwiac sã - zastawiać, grodzić, ogrodzić, bronić
 zaszifrowac - zaszyfrować
-zatôrczac sã - zastawiać | grodzić | ogrodzić | bronić
+zatôrczac sã - zastawiać, grodzić, ogrodzić, bronić
 zbiérk - zbiór
 zdrzódło - źródło
 zdżinąc - zniknąć
@@ -1265,22 +1265,22 @@ zëbnąc - marznąć
 żëc - żyć
 żëcé - życie
 żëczba - życzenie
-żelë - jeśli | jeżeli
+żelë - jeśli, jeżeli
 zélnik - sierpień
 zelony - zielony
 zëma - zima
-zemia - Ziemia | trzecia planeta Układu Słonecznego | kraj | kraina geograficzna | grunt
+zemia - Ziemia, trzecia planeta Układu Słonecznego, kraj, kraina geograficzna, grunt
 zëmny - zimny
 żeniały - żonaty
 zesel - fotel
-żëwotnik - żywotnik | tuja
+żëwotnik - żywotnik, tuja
 żgaga - zgaga
 zgniłim miãsã òbrosłi - leniwy
 zgniti - zgniły
 zjôzd - zjazd
-zlepszëc - doskonalić | ulepszać
+zlepszëc - doskonalić, ulepszać
 złi - zły
-złoti - złoty | złotówka
+złoti - złoty, złotówka
 złoto - złoto
 zmerkac - spostrzegać
 znit - znicz
@@ -1293,10 +1293,10 @@ zrzesz - związek
 zrzeszëc - związać
 zrzeszenié - zrzeszenie
 żuber - żubr
-Żukòwò - Żukòwò | Żukòwa
+Żukòwò - Żukòwò, Żukòwa
 żwac - żuć
 zwëk - zwyczaj
-zwiérz - zwierzę | zwierz
+zwiérz - zwierzę, zwierz
 zybówka - huśtawka
 zylcowina - galantyna
 zymk - wiosna

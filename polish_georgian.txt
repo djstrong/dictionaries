@@ -60,7 +60,7 @@ ateizm - ათეიზმი (ateizmi)
 Ateny - ათენი
 ateusz - ათეისტი (ateist'i)
 Austria - ავსტრია (avst'ria)
-Azerbejdżan - აზარბაიჯანი | აზერბაიჯანი
+Azerbejdżan - აზარბაიჯანი, აზერბაიჯანი
 Azja - აზია
 babcia - ბებია
 babka - ბებია
@@ -91,14 +91,14 @@ bójka - ჩხუბი
 Boston - ბოსტონი
 Brazylia - ბრაზილია
 broń - იარაღი
-brudny - ბინძური | დასვრილი
+brudny - ბინძური, დასვრილი
 brzmienie - ხმის (khmis)
-buc - ყლე (q'le) | კლე (k'le)
+buc - ყლე (q'le), კლე (k'le)
 buda - სკოლა
 Budapeszt - ბუდაპეშტი
 buldożer - ბულდოზერი
 Bułgaria - ბულგარეთი (bulgareti)
-burza - ქარიშხალი (kariszchali) | ჭექა–ქუხილი (cz'eka-kuchili)
+burza - ქარიშხალი (kariszchali), ჭექა–ქუხილი (cz'eka-kuchili)
 burza w szklance wody - ქარიშხალი ჭიქა წყალში
 but - ფეხსაცმელი (pekhsatsmeli)
 być - ყოფნა
@@ -114,8 +114,8 @@ choinka - საშობაო ნაძვის ხე
 chójk - საშობაო ნაძვის ხე
 choroba - ავადმყოფობა (avadmqopoba)
 Chorwacja - ხორვატია (horvatia)
-chuj - ყლე (q'le) | კლე (k'le)
-ciebie - შენ (shen) | თქვენ (tkven)
+chuj - ყლე (q'le), კლე (k'le)
+ciebie - შენ (shen), თქვენ (tkven)
 cień - ჩრდილი
 ciżma - ფეხსაცმელი (pekhsatsmeli)
 cnotliwy - სათნო
@@ -130,9 +130,9 @@ czarna dziura - შავი ხვრელი (shavi khvreli)
 czasownik - ზმნა
 Czechosłowacja - ჩეხოსლოვაკია
 Czecho-Słowacja - ჩეხოსლოვაკია
-cześć - გამარჯობა | კარგად
+cześć - გამარჯობა, კარგად
 człowiek - კაცი (k'aci)
-czorny - ბინძური | დასვრილი
+czorny - ბინძური, დასვრილი
 czyhunka - თორიუმი
 Dagestan - დაღესტანი
 dalajlama - დალაი-ლამა
@@ -183,10 +183,10 @@ fawela - ფაველა
 fenek - ფენეკი
 film - ფილმი (p’ilmi)
 Finlandia - ფინეთი
-fiut - ყლე (q'le) | კლე (k'le)
+fiut - ყლე (q'le), კლე (k'le)
 fizjologia - ფიზიოლოგია
 fizyka Słońca - ჰელიოფიზიკა
-flet - ყლე (q'le) | კლე (k'le)
+flet - ყლე (q'le), კლე (k'le)
 fliger - თვითმფრინავი (tvitmprinavi)
 Gabon - გაბონი
 gadałka - ფერია
@@ -304,8 +304,8 @@ Kubanka - კუბელი (k'ubeli)
 kubizm - კუბიზმი
 kula - ფეხი (pekhi)
 kulos - ფეხი (pekhi)
-kutafon - ყლე (q'le) | კლე (k'le)
-kutas - ყლე (q'le) | კლე (k'le)
+kutafon - ყლე (q'le), კლე (k'le)
+kutas - ყლე (q'le), კლე (k'le)
 kwarantanna - კარანტინი
 kwiecień - აპრილი (ap'rili)
 lateks - ლატექსი
@@ -314,7 +314,7 @@ lekarz - ექიმი (ekimi)
 lekcja - გაკვეთილი (gak'vetili)
 leksykon - ლექსიკონი
 lingwista - ენათმეცნიერი (enatmetsnieri)
-lingwistyka - ენათმეცნიერება (enatmetsniereba) | ლინგვისტიკა (lingvist'ik'a)
+lingwistyka - ენათმეცნიერება (enatmetsniereba), ლინგვისტიკა (lingvist'ik'a)
 linie lotnicze - ავიახაზი
 lis - მელა
 listopad - ნოემბერი (noemberi)
@@ -387,20 +387,20 @@ nekrolog - ნეკროლოგი
 nektaryna - ვაშლატამა
 nektarynka - ვაშლატამა
 neutralność - ნეიტრალიტეტი
-ni - არა (ara) | არ (ar)
-nie - არა (ara) | არ (ar)
+ni - არა (ara), არ (ar)
+nie - არა (ara), არ (ar)
 niechybnie - აუცილებლად
 nieduch - ავადმყოფობა (avadmqopoba)
 niedźwiedź - დათვი
 Niemcy - გერმანია (germania)
-nie mieć - არა (ara) | არ (ar)
+nie mieć - არა (ara), არ (ar)
 niepodległość - დამოუკიდებლობის (damoukideblobis)
 nierówność - უთანასწორობა
 niewiasta - ქალი
 niezwyciężony - უძლეველი
 nihilizm - ნიჰილიზმი
 nim - ის (is)
-no - დიახ (diax) | კი (k'i) | ჰო (ho)
+no - დიახ (diax), კი (k'i), ჰო (ho)
 noc - ღამე (ghame)
 noga - ფეხი (pekhi)
 nominacja - ნომინაცია
@@ -418,7 +418,7 @@ ociec - მამა (mama)
 Odessa - ოდესა (odesa)
 odwet - შურისგება
 odwracalny - შექცევადი
-ogórek - კიტრი (kitri) | खीरा (kīra)
+ogórek - კიტრი (kitri), खीरा (kīra)
 ojciec - მამა (mama)
 ojczyc - ვაჟი
 ojla - ბუ (bu)
@@ -426,7 +426,7 @@ okręt podwodny - წყალქვეშა ნავი
 oksymoron - ოქსიმორონი
 Olimpia - ოლიმპია
 oma - ბებია
-omieszkać - არა (ara) | არ (ar)
+omieszkać - არა (ara), არ (ar)
 on - ის (is)
 ona - ის (is)
 one - ისინი (isini)
@@ -437,14 +437,14 @@ oraz - და (da)
 orgazm - ორგაზმი
 paciuk - ვირთაგვა
 pająk - ობობა (oboba)
-pajęcznik - სექტემბერი (sekt'emberi) | ოქტომბერი (okt'omberi) | ნოემბერი (noemberi)
+pajęcznik - სექტემბერი (sekt'emberi), ოქტომბერი (okt'omberi), ნოემბერი (noemberi)
 Pakistan - პაკისტანი
 Panama - პანამა
 papier - ქაღალდი
 papuć - ფეხსაცმელი (pekhsatsmeli)
 park - პარკი (p'ark'i)
 pasztet strasburski - ფუა-გრა
-pątnik - მლოცვარე | პილიგრიმი
+pątnik - მლოცვარე, პილიგრიმი
 październik - ოქტომბერი (okt'omberi)
 paździerzeń - ოქტომბერი (okt'omberi)
 pazura - ხელი (kheli)
@@ -452,12 +452,12 @@ personifikacja - გაპიროვნება
 pęseta - პინცეტი (pinc’eti)
 peso - პესო
 piekło - ჯოჯოხეთი (jojokheti)
-pielgrzym - მლოცვარე | პილიგრიმი
+pielgrzym - მლოცვარე, პილიგრიმი
 pies - ძაღლი (dzaghli)
 pięść - მუშტი
 pieśń - სიმღერა
 piłka - ბურთი
-piorun - მეხი (mekhi) | ელვა (elva)
+piorun - მეხი (mekhi), ელვა (elva)
 piosenka - სიმღერა
 pismo - ანბანი
 pizza - პიცა
@@ -491,7 +491,7 @@ przesądny - ცრუმორწმუნე
 przestępca - დამნაშავე
 przydomek - მეტსახელი
 psisko - ძაღლი (dzaghli)
-raciądz - მხედარი | რაინდი
+raciądz - მხედარი, რაინდი
 Rajch - გერმანია (germania)
 ranek - დილა (dila)
 rano - დილა (dila)
@@ -515,8 +515,8 @@ ruchome schody - ესკალატორი
 rugby - რაგბი
 rumianek - გვირილა
 ruten - რუთენიუმი
-rycerz - მხედარი | რაინდი
-rywal - მეტოქე | კონკურენტი
+rycerz - მხედარი, რაინდი
+rywal - მეტოქე, კონკურენტი
 ryż - ბრინჯი
 rzeźbiarz - მოქანდაკე
 samar - სამარიუმი
@@ -578,16 +578,16 @@ szkita - ფეხი (pekhi)
 Szkocja - შოტლანდია (Šot'landia)
 szkoła - სკოლა
 szlauch - გველი
-sznur - თოკი | საბელი | ბაგირი
+sznur - თოკი, საბელი, ბაგირი
 szpiegostwo - შპიონაჟი (špionaži)
 szpuk - მტრედი
 szwaja - ფეხი (pekhi)
 Szwecja - შვედეთი
 Szwecyjo - შვედეთი
 szwestera - და (da)
-tacik - მამა (mama) | ბაბუა
+tacik - მამა (mama), ბაბუა
 Tadżykistan - ტაჯიკეთი
-tak - დიახ (diax) | კი (k'i) | ჰო (ho)
+tak - დიახ (diax), კი (k'i), ჰო (ho)
 także - ასევე (aseve)
 tal - თალიუმი
 Tamara - თამარი
@@ -598,17 +598,17 @@ tata - მამა (mama)
 tato - მამა (mama)
 Tbilisi - თბილისი
 technet - ტექნეციუმი
-tej - შენ (shen) | თქვენ (tkven)
+tej - შენ (shen), თქვენ (tkven)
 tellur - ტელური
 temat - თემის (t’emis)
 terb - ტერბიუმი
-termit - თერმიტი | ტერმიტი
+termit - თერმიტი, ტერმიტი
 Termopile - თერმოპილები
 terroryzm - ტერორიზმი
 też - ასევე (aseve)
 Tezeusz - თესევსი
 tlen - ჟანგბადი (zhangbadi)
-tobie - შენ (shen) | თქვენ (tkven)
+tobie - შენ (shen), თქვენ (tkven)
 tor - თორიუმი
 Tora - თორა
 tory - თორიუმი
@@ -620,16 +620,16 @@ tryktrak - ნარდი
 tudzież - და (da)
 Tunezja - ტუნისი
 Turcja - თურქეთი
-ty - შენ (shen) | თქვენ (tkven)
+ty - შენ (shen), თქვენ (tkven)
 tylko - მხოლოდ
 tyrania - ტირანია
 ul. - ქ.
 unikalny - ერთადერთი
 uón - ის (is)
 uśmiech - ღიმილი
-wacha - წვიმა (ts'mina) | წყალი (cqali)
+wacha - წვიმა (ts'mina), წყალი (cqali)
 waluta - ვალუტა (waluta)
-wata cukrowa - ბამბა | ბამბის ნაყინი
+wata cukrowa - ბამბა, ბამბის ნაყინი
 wąż - გველი
 wczoraj - გუშინ (gushin)
 wdowa - ქვრივი
@@ -650,7 +650,7 @@ wilk - მგელი (mgeli)
 wilk w owczej skórze - მგელი ცხვრის ტყავში
 winnica - ვენახი
 wino - ღვინო (ghvino)
-winograd - ვენახი | ღვინო (ghvino)
+winograd - ვენახი, ღვინო (ghvino)
 wiza - ვიზა
 Włoch - იტალიელი (it'alieli)
 włos - თმა

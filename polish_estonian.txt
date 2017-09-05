@@ -11,7 +11,7 @@ adwentnik - detsember
 adwokat - advokaat
 aeracja - aeratsioon
 aeroplan - lennuk
-afelzina - apelsin | apelsinipuu
+afelzina - apelsin, apelsinipuu
 Afganistan - Afganistan
 Afryka Północna - Põhja-Aafrika
 agregat - agregaat
@@ -32,20 +32,20 @@ ameba - amööb
 ameryk - ameriitsium
 Amman - ‘Ammān
 amoniak - ammoniaak
-amoralizm - amoraalsus | amoralism
+amoralizm - amoraalsus, amoralism
 Amu-daria - Amudarja
 anachroniczny - anakrooniline
 anarchistyczny - anarhistlik
 Anatolia - Anatoolia
 Andaluzja - Andaluusia
 andrologia - androloogia
-Andromeda - Andromeda | Andromeeda
+Andromeda - Andromeda, Andromeeda
 Andy - Andid
 aneksja - anneksioon
-angielski - inglise | inglise keel
+angielski - inglise, inglise keel
 Anglia - Inglismaa
 Anglija - Inglismaa
-angol - inglise | inglise keel
+angol - inglise, inglise keel
 aniżeli - kui
 ankieta - ankeet
 Antananarywa - Antananarivo
@@ -56,7 +56,7 @@ Antoni - Anteneh
 Antonina - Antoniina f
 antybakteryjny - antibakteriaalne
 Apeniny - Apenniinid
-apluzyna - apelsin | apelsinipuu
+apluzyna - apelsin, apelsinipuu
 ara - aara
 Arab - araablane
 arabeska - arabesk
@@ -67,8 +67,8 @@ archeolog - arheoloog
 archeologia - arheoloogia
 archeologiczny - arheoloogiline
 argon - argoon
-armia - armee | sõjavägi
-armijo - armee | sõjavägi
+armia - armee, sõjavägi
+armijo - armee, sõjavägi
 arsen - arseen
 arteterapia - kunstiteraapia
 arytmia - arütmia
@@ -78,7 +78,7 @@ aseksualny - aseksuaalne
 astat - astaat
 astrofizyka - astrofüüsika
 Asyria - Assüüria
-asza - saar | saarepuu
+asza - saar, saarepuu
 aszynbecher - tuhatoos
 ateizm - ateism
 Ateny - Ateena
@@ -108,7 +108,7 @@ bar - baarium
 Baran - Jäär
 barszcz - borš
 batymetria - batümeetria
-beczeć - nutma | nuuksuma
+beczeć - nutma, nuuksuma
 bedki - seen
 bejm - raha
 belfer - õpetaja
@@ -129,15 +129,15 @@ biblioteka - raamatukogu
 bibliotekarz - raamatukoguhoidja
 bielaczek - väikekoskel
 bimba - tramm
-binder - kaelaside | lips
-bindka - kaelaside | lips
+binder - kaelaside, lips
+bindka - kaelaside, lips
 biograficzny - elulooline
 biolog - bioloog
 biologia - bioloogia
 bioniczny - biooniline
 biseksualizm - biseksuaalsus
 biskup - piiskop
-bitwa - lahing | võitlus
+bitwa - lahing, võitlus
 biurko - kirjutuslaud
 bizmut - vismut
 Bliźnięta - Kaksikud
@@ -164,16 +164,16 @@ bryle - prillid
 brzmienie - heli
 brzydki - inetu
 buda - kool
-budka telefoniczna - telefonikabiin | telefoniputka
+budka telefoniczna - telefonikabiin, telefoniputka
 buldożer - buldooser
 Bułgaria - Bulgaaria
 bułgarski - bulgaaria
-burdel - lõbumaja | bordell
+burdel - lõbumaja, bordell
 burzowiny - õlu
 być w błędzie - eksima
 Byk - Sõnn
 Była Jugosłowiańska Republika Macedonii - Endise Jugoslaavia Vabariik Makedoonia
-całkowicie - täielikul | täiesti | täitsa
+całkowicie - täielikul, täiesti, täitsa
 cebula - sibul
 chamera - pilv
 chananejski - kaananlane
@@ -216,7 +216,7 @@ cyprys - küpress
 czajka - kiivitaja
 czarna dziura - must auk
 Czarnogóra - Montenegro
-czarodziej - maag | võlur | nõid
+czarodziej - maag, võlur, nõid
 czas - aeg
 czasownik - tegusõna
 Czechosłowacja - Tšehhoslovakkia
@@ -238,7 +238,7 @@ dała - andma
 dana - andma
 dany - andma
 darowanemu koniowi w zęby się nie zagląda - kingitud hobuse suhu ei vaadata
-debata - arutlus | vaidlus | mõttevahetus | diskussioon
+debata - arutlus, vaidlus, mõttevahetus, diskussioon
 defenestracja - defenestratsioon
 deizm - deism
 demografia - rahvastikuteadus
@@ -257,22 +257,22 @@ dolmen - dolmen
 doradca - nõustaja
 dostojnik - aukandja
 dotykać - puudutama
-do widzenia - head aega | nägemist
-do zobaczenia - head aega | nägemist
+do widzenia - head aega, nägemist
+do zobaczenia - head aega, nägemist
 dramatyczny - dramaatiline
-Droga Mleczna - Linnutee | Galaktika
+Droga Mleczna - Linnutee, Galaktika
 drozd - rästas
 droździk - vainurästas
 druh - sõber
 drukarka - printer
 drzewo - puu
 drzwi - uks
-dudlać - nutma | nuuksuma
+dudlać - nutma, nuuksuma
 dutek - raha
-dycht - täielikul | täiesti | täitsa
+dycht - täielikul, täiesti, täitsa
 dyktator - diktaator
 dyskryminować - diskrimineerima
-dyskusja - arutlus | vaidlus | mõttevahetus | diskussioon
+dyskusja - arutlus, vaidlus, mõttevahetus, diskussioon
 dysputa - dispuut
 dzięcioł białogrzbiety - valgeselg-kirjurähn
 dzięcioł czarny - musträhn
@@ -304,7 +304,7 @@ eschatologia - eshatoloogia
 eskalator - eskalaator
 eskulap - arst
 Estonia - Eesti
-estoński - eesti | eesti keel
+estoński - eesti, eesti keel
 estrogen - östrogeen
 etologia - etoloogia
 etymologia - etümoloogia
@@ -329,8 +329,8 @@ film - film
 filozofia dziejów - ajaloofilosoofia
 filozofia historii - ajaloofilosoofia
 Finlandia - Soome
-finlandzki - soome | soome keel
-fiński - soome | soome keel
+finlandzki - soome, soome keel
+fiński - soome, soome keel
 fizjologia - füsioloogia
 fiżon - uba
 fizyka Słońca - päikesefüüsika
@@ -351,9 +351,9 @@ furdygarnia - vangla
 fusbal - jalgpall
 futbol - jalgpall
 gągoł - sõtkas
-gała - silm | jalgpall | vares
+gała - silm, jalgpall, vares
 Galilea - Galilea
-ganc - täielikul | täiesti | täitsa
+ganc - täielikul, täiesti, täitsa
 gapa - vares
 gardło - kurk
 gdy kota nie ma, myszy harcują - kui kassid läinud, on hiirtel pidu
@@ -397,14 +397,14 @@ hara - viin
 hau - auh
 haubica - haubits
 hedonizm - hedonism
-helio- - helio- | päikese-
+helio- - helio-, päikese-
 heliofizyka - päikesefüüsika
 hellenista - hellenist
 heparyna - hepariin
 herbarz - herbaarium
 Herod - Herodes
 heteroseksualny - heteroseksuaalne
-hetki - täielikul | täiesti | täitsa
+hetki - täielikul, täiesti, täitsa
 hiacynt - hüatsint
 hierarchiczny - hierarhiline
 hipokorystyk - hüpokorism
@@ -425,7 +425,7 @@ inkunabuł - inkunaabel
 inundacyja - veetulv
 iryd - iriidium
 Islandia - Island
-islandzki - islandi | islandi keel
+islandzki - islandi, islandi keel
 Itaka - Ithaka
 italski - itaalia
 iż - et
@@ -437,7 +437,7 @@ Jahwe - Jahve
 jajo - muna
 jamnik - taks
 Jan - Jaan
-jarosz - vegetaarlane | taimetoitlane
+jarosz - vegetaarlane, taimetoitlane
 jeden za wszystkich, wszyscy za jednego - üks kõigi ja kõik ühe eest
 jemiołuszka - siidisaba
 jer - põhjavint
@@ -490,13 +490,13 @@ koleś - mees
 koło - jalgratas
 kolonializm - kolonialism
 Kolumb - Kolumbus
-koń - hobu | hobune
-kóń - hobu | hobune
+koń - hobu, hobune
+kóń - hobu, hobune
 kondensacja - kondensatsioonireaktsioon
 kondensator - kondensaator
 konspiracja - vandenõu
 konstruktywizm - konstruktivism
-kopernik - koperniitsium | kopernikium
+kopernik - koperniitsium, kopernikium
 Korsyka - Korsika
 Kos - Kos
 kosa - nuga
@@ -507,8 +507,8 @@ kot - kass
 koza - kits
 Koziorożec - Kaljukits
 krasula - lehm
-krawat - kaelaside | lips
-krawatka - kaelaside | lips
+krawat - kaelaside, lips
+krawatka - kaelaside, lips
 krążownik - ristleja
 krew - veri
 krowa - lehm
@@ -524,8 +524,8 @@ księgozbiór - raamatukogu
 Kuba - Kuuba
 kubizm - kubism
 kuloodporny - kuulikindel
-kumulacja - kuhjumine | kogunemine
-kurwacik - kaelaside | lips
+kumulacja - kuhjumine, kogunemine
+kurwacik - kaelaside, lips
 kwokacz - heletilder
 kynologia - künoloogia
 łabędź krzykliwy - laululuik
@@ -555,7 +555,7 @@ lub - või
 łucznictwo - vibusport
 luńt - koer
 lustro - peegel
-luty - veebruar | küünlakuu | vastlakuu | hundikuu
+luty - veebruar, küünlakuu, vastlakuu, hundikuu
 łyska - lauk
 Macedonia - Makedoonia
 magnolia - magnoolia
@@ -589,18 +589,18 @@ miażdżyca - ateroskleroosi
 Michał - Miikael
 miecz - mõõk
 miedźwiedź - karu
-międzynarodowy - rahvusvaheline | internatsionaalne
+międzynarodowy - rahvusvaheline, internatsionaalne
 miękkopiór - hahk
 mielcuch - õlu
 miesiąc miodowy - mesinädalad
-mięsopustnik - veebruar | küünlakuu | vastlakuu | hundikuu
+mięsopustnik - veebruar, küünlakuu, vastlakuu, hundikuu
 mikrobiologia - mikrobioloogia
 miliwolt - millivolt
 miłość - armastus
 minaret - minarett
 mistrzowski - meisterlik
 mitologia - mütoloogia
-mój - minu | mu (forma skrócona)
+mój - minu, mu (forma skrócona)
 Mojżesz - Mooses
 Mołdawianin - moldaavlane
 monopolowy - alkoholikauplus
@@ -619,10 +619,10 @@ mydło - seep
 Myszka Miki - Miki Hiir
 myszołów włochaty - karvasjalg-viu
 myszy tańcują, gdy kota nie czują - kui kassid läinud, on hiirtel pidu
-na cołki łeb - täielikul | täiesti | täitsa
+na cołki łeb - täielikul, täiesti, täitsa
 na koszt firmy - firma kulul
 narkolepsja - narkolepsia
-na sto procent - täielikul | täiesti | täitsa
+na sto procent - täielikul, täiesti, täitsa
 naturalizacja - naturalisatsioon
 nauczyciel - õpetaja
 na zdrowie - terviseks
@@ -638,7 +638,7 @@ Niemen - Neemen
 Niemiecka Republika Demokratyczna - Saksa Demokraatlik Vabariik
 nienaturalny - ebaloomulik
 nie od razu Kraków zbudowano - Roomat ei ehitatud ühe päevaga
-niepodległość - sõltumatus | iseseisvus
+niepodległość - sõltumatus, iseseisvus
 nieruchomość - kinnisvara
 niewiarygodny - uskumatu
 nie wszystko złoto, co się świeci - kõik pole kuld, mis hiilgab
@@ -679,7 +679,7 @@ okupować - okupeerima
 olcha - lepp
 Olimpia - Olümpia
 onkolog - onkoloog
-oologia - munateadus | oologia
+oologia - munateadus, oologia
 opal - opaal
 opium - oopium
 oraz - ja
@@ -691,7 +691,7 @@ owulacja - ovulatsioon
 paciuk - rott
 Pacyfik - Vaikne ookean
 pająk - ämblik
-pajęcznik - september | oktoober | november
+pajęcznik - september, oktoober, november
 palladianizm - palladianism
 pamięć - mälu
 pandeizm - pandeism
@@ -731,38 +731,38 @@ Pittsburgh - Pittsburgh
 piwo - õlu
 plac - väljak
 plagiator - plagiaator
-płakać - nutma | nuuksuma
+płakać - nutma, nuuksuma
 planetarium - planetaarium
 plaża - rand
 płot - tara
 płynny - vedel
-pocestny - rändaja | reisija
-pod - all | alla
-pode - all | alla
+pocestny - rändaja, reisija
+pod - all, alla
+pode - all, alla
 podmenu - alammenüü
 podologia - podiaatria
 podróżniczek - sinirind
-podróżnik - rändaja | reisija
-podwójny podbródek - topeltlõug | lõualott
-poezja - luule | poeesia
+podróżnik - rändaja, reisija
+podwójny podbródek - topeltlõug, lõualott
+poezja - luule, poeesia
 pogaństwo - paganlus
 pogoda - ilm
 pole elektryczne - elektriväli
-poli- - polü- | mitme-
+poli- - polü-, mitme-
 polityka - poliitika
 polon - poloonium
 Polska - Poola
-polski - poola | poola keel
+polski - poola, poola keel
 półtora - poolteist
 półtorej - poolteist
 południk - meridiaan
 Półwysep Bałkański - Balkani poolsaar
 połykać - neelama
-pomarańcza - apelsin | apelsinipuu
+pomarańcza - apelsin, apelsinipuu
 pomoc - abi
 poniedziałek - esmaspäev
 popielniczka - tuhatoos
-popiół - saar | saarepuu
+popiół - saar, saarepuu
 pornografia - pornograafia
 pornograficzny - pornograafiline
 port - sadam
@@ -792,7 +792,7 @@ ptaszę - lind
 puchacz - kassikakk
 puste - tühi
 pusty - tühi
-puszka - vangla | õlu
+puszka - vangla, õlu
 raciądz - rüütel
 racjonalność - ratsionaalsus
 radon - radoon
@@ -852,8 +852,8 @@ serce - süda
 serdce - süda
 seroka - harakas
 siano - hein
-siarkowodór - väävelvesinik | vesiniksulfiid
-sieczeń - veebruar | küünlakuu | vastlakuu | hundikuu
+siarkowodór - väävelvesinik, vesiniksulfiid
+sieczeń - veebruar, küünlakuu, vastlakuu, hundikuu
 siedem grzechów głównych - seitse surmapattu
 sikora - tihane
 sikora czubata - tutt-tihane
@@ -866,10 +866,10 @@ skok o tyczce - teivashüpe
 Skop - Jäär
 Skorpion - Skorpion
 skrobia - tärklis
-śledź - kaelaside | lips
+śledź - kaelaside, lips
 śledziona - põrn
-śleptać - nutma | nuuksuma
-ślips - kaelaside | lips
+śleptać - nutma, nuuksuma
+ślips - kaelaside, lips
 słońce - päike
 słonka - metskurvits
 słowa - sõna
@@ -896,10 +896,10 @@ somsiad - naaber
 sopel - jääpurikas
 sos sojowy - sojakaste
 sowa - öökull
-spam - rämpspost | spämm
+spam - rämpspost, spämm
 śpiewać - laulma
 sport - sport
-spotkanie - miiting | koosolek
+spotkanie - miiting, koosolek
 spowiedź - piht
 sprzedaż - müük
 srebro - hõbe
@@ -911,7 +911,7 @@ Stany - Ameerika Ühendriigid
 Stany Zjednoczone - Ameerika Ühendriigid
 Stany Zjednoczone Ameryki - Ameerika Ühendriigid
 Stefan - Stefanos
-strąpacz - veebruar | küünlakuu | vastlakuu | hundikuu
+strąpacz - veebruar, küünlakuu, vastlakuu, hundikuu
 strit - rida
 struna głosowa - häälepael
 strzała - nool
@@ -933,7 +933,7 @@ szaman - šamaan
 szamanizm - šamanism
 szatański - saatanlik
 szczególny - spetsiaalne
-szczery - avameelne | otsekohene | siiras
+szczery - avameelne, otsekohene, siiras
 szczęśliwego Nowy Nowego Roku - head uut aastat
 szczoteczka do zębów - hambahari
 szczur - rott
@@ -942,7 +942,7 @@ szept - sosin
 szeroki - lai
 szklistka - klaaskeha
 szkoła - kool
-szlips - kaelaside | lips
+szlips - kaelaside, lips
 szneka - nägu
 szogun - šogun
 szok - šokk
@@ -953,7 +953,7 @@ Szwecja - Rootsi
 Szwecyjo - Rootsi
 szwedzki - rootsi
 szykowny - ilus
-tablet - digitaallaud | digiteerija | digiteerimislaud | graafikalaud | graafikatahvel
+tablet - digitaallaud, digiteerija, digiteerimislaud, graafikalaud, graafikatahvel
 tachykardia - tahhükardia
 Tadżykistan - Tadžikistan
 Tajlandia - Tai
@@ -963,9 +963,9 @@ także - samuti
 tal - tallium
 tantal - tantaal
 taoista - taoist
-tarcza - kilp | nägu
+tarcza - kilp, nägu
 tarcza krystaliczna - kilp
-tarcza strzelecka - kilp | nägu
+tarcza strzelecka - kilp, nägu
 tarcza szkolna - kilp
 tarczyca - kilpnääre
 tatuażysta - tätoveerija
@@ -973,7 +973,7 @@ technet - tehneetsium
 technolog - tehnoloog
 tęcza - vikerkaar
 tellur - telluur
-temat - teema | aine
+temat - teema, aine
 temperatura pokojowa - toatemperatuur
 terb - terbium
 Termopile - Termopüülid
@@ -998,10 +998,10 @@ twarz - nägu
 tygr - tiiger
 tygrys - tiiger
 tyn - tara
-typografia - tüpograafia | trükikunst
+typografia - tüpograafia, trükikunst
 tyrania - türannia
 Tyrteusz - Tyrtaios m
-uczeń - koolipoiss | õpilane
+uczeń - koolipoiss, õpilane
 ukleja - viidikas
 Unia Europejska - Euroopa Liit
 uniwersalny - universaalne
@@ -1012,37 +1012,37 @@ Uranos - Uranos
 urodziwy - ilus
 urologia - uroloogia
 uzależnienie - sõltuvus
-wacha - vihm | meri | vesi
+wacha - vihm, meri, vesi
 Waga - Kaalud
 Walia - Wales
 waran - varaan
 warga - huul
 Watykan - Vatikan
 weganin - veegan
-wegetarianin - vegetaarlane | taimetoitlane
+wegetarianin - vegetaarlane, taimetoitlane
 wegetarianizm - taimetoitlus
 węgiel - süsinik
 wesele - pulmad
-Wesołych Świąt - häid jõule | häid lihavõttepühi
+Wesołych Świąt - häid jõule, häid lihavõttepühi
 wiatr - tuul
-Wielkanoc - lihavõtted | ülestõusmispühad | lihavõttepühad | kevadpühad
+Wielkanoc - lihavõtted, ülestõusmispühad, lihavõttepühad, kevadpühad
 wieś - küla
 więzienie - vangla
 Wikipedia - Vikipeedia
 Wikisłownik - Vikisõnaraamat
 Wikiźródła - Vikitekstid
-wilk - susi | hunt
+wilk - susi, hunt
 wilkołak - libahunt
 willa - villa
 winnica - viinapuuistandik
 wino - vein
-winograd - viinapuuistandik | viinamari | vein
+winograd - viinapuuistandik, viinamari, vein
 winogrono - viinamari
 wioska - küla
 wiosna - kevad
 Wisła - Wisła
 włoski - itaalia
-wniwecz - täielikul | täiesti | täitsa
+wniwecz - täielikul, täiesti, täitsa
 woda - vesi
 wóda - viin
 wódka - viin
@@ -1055,7 +1055,7 @@ wolność słowa - sõnavabadus
 woniączka - viin
 wózek dziecięcy - lapsekäru
 wózek sklepowy - ostukäru
-w pełni - täielikul | täiesti | täitsa
+w pełni - täielikul, täiesti, täitsa
 wrona - vares
 wrzesień - september
 wtorek - telsipäev
@@ -1080,14 +1080,14 @@ zakład karny - vangla
 żal - lein
 zapalenie - põletik
 zapalenie płuc - kopsupõletik
-zapalenie wyrostek wyrostka robaczkowego - apenditsiit | pimesoolepõletik
+zapalenie wyrostek wyrostka robaczkowego - apenditsiit, pimesoolepõletik
 zaproszenie - kutse
 zarękawek - muhv
 zasiać ziarno - seemneid külvama
 Zatoka Fińska - Soome laht
 żdać - ootama
 zdjęcie - fotokunst
-zdrowy - terve | tervislik
+zdrowy - terve, tervislik
 zdrzadło - peegel
 że - et
 zebra - sebra
@@ -1110,7 +1110,7 @@ zoo- - zoo-
 zooplankton - zooplankton
 źrenica - silm
 zupa - leem
-zupełnie - täielikul | täiesti | täitsa
+zupełnie - täielikul, täiesti, täitsa
 Związek Socjalistycznych Republik Radzieckich - Nõukogude Sotsialistlike Vabariikide Liit
 zwierciadło - peegel
 zwierzak - loom

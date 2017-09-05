@@ -1,4 +1,4 @@
-abdykować - abdica de la | abdica
+abdykować - abdica de la, abdica
 abecadło - alfabet
 Abidżan - Abidjan
 abiecadło - alfabet
@@ -43,7 +43,7 @@ Andy - Anzii Cordilieri
 Anglia - Anglia f
 Anglija - Anglia f
 anioł - înger m
-aniżeli - ca | decat
+aniżeli - ca, decat
 anjoł - înger m
 Antananarywa - Antananarivo
 Antares - Antares
@@ -54,7 +54,7 @@ Antyle Holenderskie - Antilele Olandeze
 antyoksydant - antioxidant
 antyrasizm - anti-rasism
 antyutleniacz - antioxidant
-Apeniny - Munții Apenini | Apeninii
+Apeniny - Munții Apenini, Apeninii
 apetyt - poftă
 apryl - aprilie
 Arabia Saudyjska - Arabia Saudită
@@ -126,10 +126,10 @@ biuro - birou n
 bizmut - bismut n
 błąd poznawczy - distorsiune cognitivă
 Bliźnięta - Gemeni
-bo - pentru că | din cauză că | datorită
-Bóg - Zeu m | Dumnezeu m
+bo - pentru că, din cauză că, datorită
+Bóg - Zeu m, Dumnezeu m
 bogaty - bogat
-Bohemia - Cehia | Boemia
+Bohemia - Cehia, Boemia
 bohr - bohriu n
 ból - durere f
 Boliwia - Bolivia f
@@ -149,7 +149,7 @@ Brazylia - Brazilia f
 browar - bere
 Brunei - Brunei
 brydż - bridge
-bryka - automobil n | mașină f
+bryka - automobil n, mașină f
 brzmienie - sunet
 brzuch - stomac n
 brzytwa - brici
@@ -190,7 +190,7 @@ chuj - pulă
 ciało - corp n
 ciało szkliste - umoare apoasă
 cieść - socru m
-ciężki - greu m | grea f
+ciężki - greu m, grea f
 cipa - pizdă f
 ciżma - pantof m
 ćma - molie f
@@ -214,10 +214,10 @@ czarny - negru
 czas - timp n
 czasopismo - revistă
 czasownik - verb n
-czas to pieniądz - timpul înseamnă bani | timpul costă bani
+czas to pieniądz - timpul înseamnă bani, timpul costă bani
 Czechosłowacja - Cehoslovacia
 Czecho-Słowacja - Cehoslovacia
-Czechy - Cehia | Boemia
+Czechy - Cehia, Boemia
 czekać - aștepta
 czekolada - ciocolată f
 czereśnia - cireaşă
@@ -225,7 +225,7 @@ Czerniowce - Cernăuţi
 czerwiec - iunie
 czerwień - roșu n
 czerwony - roșu
-cześć - salut | bună
+cześć - salut, bună
 czeski - boem
 cześnia - cireaşă
 czkawka - pughiț
@@ -238,7 +238,7 @@ czyhunka - toriu n
 czyrwiec - iunie
 czyrwień - iunie
 czysło - număr n
-czysty - curat | pur
+czysty - curat, pur
 Dafne - Daphne
 Dagestan - Daghestan
 dalece - foarte
@@ -251,20 +251,20 @@ dekiel - cap
 demografia - demografie
 demokracja - democrație f
 dioda - diodă
-Diogenes - Diogene m | Diogene m (din Sinop)
+Diogenes - Diogene m, Diogene m (din Sinop)
 dla - pentru
 Dniepr - Nipru
-do - până la | către | pentru
+do - până la, către, pentru
 dobranoc - noapte bună
 dobry wieczór - bună seara
-dodatek - adaus n | supliment n
+dodatek - adaus n, supliment n
 doktor - medic m
 dolmen - dolmen
 dom - casă f
-doradca - consilier m | sfătuitor m
+doradca - consilier m, sfătuitor m
 dostojnik - demnitar m
-do widzenia - la revedere | pa
-do zobaczenia - la revedere | pa
+do widzenia - la revedere, pa
+do zobaczenia - la revedere, pa
 dramatyczny - dramatic
 drętki - acru
 drewno - lemn n
@@ -287,7 +287,7 @@ dziękuję - mulțumesc
 dziela - pentru
 dzieło - operă f
 dzień - zi f
-dzień dobry - bună dimineaţa | bună ziua
+dzień dobry - bună dimineaţa, bună ziua
 dziennikarstwo - ziaristică f
 dziś - astăzi
 dzisiaj - astăzi
@@ -324,9 +324,9 @@ Europa Środkowa - Europa Centrală f
 eż - că
 Ezop - Esop m
 facet - om m
-facetka - femeie f | muiere f
+facetka - femeie f, muiere f
 facjata - față f
-fajny - frumos | drăguț
+fajny - frumos, drăguț
 familio - familie f
 famuła - familie f
 fanatyzm - fanatism
@@ -349,23 +349,23 @@ flet - pulă
 fliger - avion n
 Florencja - Florenţa
 fluor - fluor n
-folio - foaie | folio
+folio - foaie, folio
 fosfor - fosfor n
 Francja - Franța f
 frans - franciu
 fresk - frescă f
 fulać - minţi
-fura - automobil n | mașină f
+fura - automobil n, mașină f
 fusbal - fotbal
 futbol - fotbal
 futbolista - fotbalist m
 gadolin - gadoliniu
-gała - ochi | fotbal | cioara grivă
+gała - ochi, fotbal, cioara grivă
 Galilea - Galileea f
 gapa - cioara grivă
 gasa - stradă f
-gdyż - pentru că | din cauză că | datorită
-gdzie - unde | în care
+gdyż - pentru că, din cauză că, datorită
+gdzie - unde, în care
 geburstag - zi de naștere f
 gędźba - muzică f
 generał - general m
@@ -397,18 +397,18 @@ Górny Śląsk - Silezia Superioară f
 gospodarka - economie f
 graba - mână f
 gracz - jucător
-granatowy - albastru închis | bleumarin
+granatowy - albastru închis, bleumarin
 granica - graniţă f
 Grecja - Grecia f
 groźba - amenințare f
 grudzień - decembrie
 gruszka - pară f
 Gruzinka - georgiană
-gryfny - frumos | drăguț
-grzebień - pieptene | piepten
+gryfny - frumos, drăguț
+grzebień - pieptene, piepten
 grzech - păcat n
 gułag - gulag
-guli - pentru că | din cauză că | datorită
+guli - pentru că, din cauză că, datorită
 gwiazda - stea f
 Gwinea Równikowa - Guineea Ecuatorială f
 gzub - stomac n
@@ -416,20 +416,20 @@ hafn - hafniu
 Haiti - Haiti
 hajtok - cuțit n
 harfa - harpă f
-hau - ham | hau
+hau - ham, hau
 hel - heliu
 helio- - helio-
 Hellada - Grecia f
 hemisfera - emisferă f
 heparyna - heparină
-herbarz - ierbar | ierarhiza
-hiacynt - zambilă f | iacint m | floarea-viorelei | acintuș
+herbarz - ierbar, ierarhiza
+hiacynt - zambilă f, iacint m, floarea-viorelei, acintuș
 historiozofia - filozofia istoriei
 historyk - Istoric
 Hiszpania - Spania f
 hiszpanka - gripa spaniolă
-Holandia - Olanda f | Ţările de Jos
-Holandyja - Olanda f | Ţările de Jos
+Holandia - Olanda f, Ţările de Jos
+Holandyja - Olanda f, Ţările de Jos
 holm - holmiu
 Hongkong - Hong Kong
 hormon - hormon m
@@ -439,7 +439,7 @@ hydrologia - hidrologie f
 i - și
 ind - indiu
 infrastruktura - infrastructură f
-innymi słowy - cu alte cuvinte | altfel spus
+innymi słowy - cu alte cuvinte, altfel spus
 ino - numai
 insekt - insectă f
 instynkt - instinct m
@@ -461,11 +461,11 @@ jabłko - măr n
 jajko - ou n
 jajo - ou n
 jaki - care
-Jakub - Iacov | Iacob | Iame
+Jakub - Iacov, Iacob, Iame
 jantar - chihlimbar
 jara - soacră f
 jarecka - mamă f
-jebadło - dormitor n | dormitoare
+jebadło - dormitor n, dormitoare
 jesień - toamnă f
 jeśli - dacă
 jest - fi
@@ -474,7 +474,7 @@ jeż - arici
 jeżeli - dacă
 jezioro - lac n
 Jezus - Isus m
-Jezus Chrystus - Iisus Hristos | isus cristos
+Jezus Chrystus - Iisus Hristos, isus cristos
 język - limba f
 język obcy - limbă străină
 jidysz - idiş
@@ -487,27 +487,27 @@ kaczka - raţă
 kadm - cadmiu
 Kafarnaum - Capernaum
 kafej - cafeneă f
-kaj - unde | în care
-kalafa - nas n | față f
+kaj - unde, în care
+kalafa - nas n, față f
 kalapitra - cap
 kalendarz - calendar n
 kalfas - stomac n
 kalifat - califat n
-kam - unde | în care
+kam - unde, în care
 kamasz - pantof m
 kanonizacja - canonizare f
 kaolin - caolin
 kąpiółka - baie f
 kara - pedeapsă f
 karaba - pisică
-Katarzyna - Ekaterina f | Catalina f | Caterina f | Catrina f
+Katarzyna - Ekaterina f, Catalina f, Caterina f, Catrina f
 katastrofa ekologiczna - criză ecologică
 Katyń - masacrul de la Katyń
 kaval - caval
 kawiarnia - cafeneă f
 kaznodzieja - predicator m
-kędy - unde | în care
-kejter - cîine | câine
+kędy - unde, în care
+kejter - cîine, câine
 Kenia - Kenya f
 kenotaf - cenotaf
 kenotafium - cenotaf
@@ -528,13 +528,13 @@ kluka - nas n
 knipa - carte f
 koala - koala f
 kobalt - cobalt n
-kobieta - femeie f | muiere f
+kobieta - femeie f, muiere f
 kochać - face dragoste
 kociamber - pisică
 kod kreskowy - cod de bare
 kolano - genunchi m
 kołchoz - colhoz
-kolejny - următor | altul
+kolejny - următor, altul
 koleś - om m
 kolizja - coliziune f
 koło - bicicletă f
@@ -584,7 +584,7 @@ krzem - siliciu
 ksenon - xenon
 książka - carte f
 księgozbiór - bibliotecă f
-Księżyc - Luna | Selena
+Księżyc - Luna, Selena
 księżycowy - lunar
 kto chce żyć z swojej pracy, dolegać nie trzeba - cine se trezeste de dimineata, departe ajunge
 kto rano wstaje, temu Pan Bóg daje - cine se trezeste de dimineata, departe ajunge
@@ -607,8 +607,8 @@ kwiatostan - inflorescență
 kwiecień - aprilie
 łaciński - latin
 lacz - cap
-ładny - frumos | drăguț
-land - țară | sat
+ładny - frumos, drăguț
+land - țară, sat
 lantan - lantan
 las - pădure f
 lat - an m
@@ -645,7 +645,7 @@ lorens - lawrențiu
 Łotwa - Letonia f
 lub - ori
 łudzikwiat - aprilie
-luńt - cîine | câine
+luńt - cîine, câine
 lupa - lupă
 lutet - luteciu
 luty - februarie
@@ -655,7 +655,7 @@ mać - mamă f
 maciek - stomac n
 Maghreb - Maghreb
 magnet - mag
-magnetofon - magnetofon n | mag
+magnetofon - magnetofon n, mag
 magnez - magneziu
 maj - mai
 mak - mac
@@ -719,7 +719,7 @@ molibden - molibden
 Monachium - Munchen
 monarchia - monarhie f
 moneta - monedă
-mordować - ucide | omorî | sinucide
+mordować - ucide, omorî, sinucide
 morze - mare f
 Morze Bałtyckie - Marea Baltică
 mosiądz - monedă
@@ -744,10 +744,10 @@ Myszka Miki - Mickey Mouse m
 na - pe
 Naddniestrze - Transnistria f
 nadziany - bogat
-nadzieja - speranță f | nădejde f
+nadzieja - speranță f, nădejde f
 Nairobi - Nairobi
 Napoleon - Napoleon
-naprany - beat | băut
+naprany - beat, băut
 NATO - NATO
 naturalność - naturalitate f
 nauka - știință f
@@ -762,7 +762,7 @@ neptun - neptuniu
 Neptun - Neptun
 ni - nu
 nic - nimic
-Niderlandy - Olanda f | Ţările de Jos
+Niderlandy - Olanda f, Ţările de Jos
 nie - nu
 niebieski - albastru
 niebiosa - cer n
@@ -772,20 +772,20 @@ nie dospać trzeba, kto chce dostać chleba - cine se trezeste de dimineata, dep
 nieduch - boală
 niedziela - duminică f
 Niemcy - Germania f
-nie mieć - nu | avea
+nie mieć - nu, avea
 Niemiecka Republika Demokratyczna - Republica Democrată Germană
 nienawidzić - urî
 niepodległość - independență f
 nieprzyjazny - neprietenos
 nierealny - nereal
 nieść - transporta
-niewiasta - femeie f | muiere f
+niewiasta - femeie f, muiere f
 niezdolność - incapacitate
 niezwyciężony - invincibil
 nigdy - niciodată
 nikiel - nichel
 niob - niobiu
-niż - ca | decat
+niż - ca, decat
 no - da
 nobel - nobeliu
 noc - noapte f
@@ -809,13 +809,13 @@ obraz - film n
 obrotnica - placă turnantă f
 ocean - ocean n
 ochrona - protecție f
-ochroniarz - păzitor m | gardă de corp f | protector m
+ochroniarz - păzitor m, gardă de corp f, protector m
 ochronny - protector
 ociec - tată m
 od - de
 odcisk palca - amprentă digitală
 ode - de
-odpowiadać - răspunde | însemna | potrivi
+odpowiadać - răspunde, însemna, potrivi
 ofiara - victimă f
 oficjalny - oficial
 oftalmologiczny - oculistic
@@ -852,13 +852,13 @@ owad - insectă f
 owca - oaie f
 owoc - fruct
 owocowy - de fructe
-ożarty - beat | băut
+ożarty - beat, băut
 pachniarz - nas n
 paciuk - șobolan m
-padać na kolana - a îngenuchea | a cade în genunchi
+padać na kolana - a îngenuchea, a cade în genunchi
 pagórek - deal
 pająk - păianjen m
-pajęcznik - septembrie | octombrie | noiembrie
+pajęcznik - septembrie, octombrie, noiembrie
 pakli - dacă
 pakt - pact n
 pała - cap
@@ -892,24 +892,24 @@ piczka - pizdă f
 pieczeń - afacere
 pień - trunchi n
 pierwsza pomoc - primul ajutor
-pies - cîine | câine
+pies - cîine, câine
 pietruszka - pătrunjel m
 pietruziel - pătrunjel m
-pijany - beat | băut
+pijany - beat, băut
 pijawa - curcubeu n
 pikawa - inimă f
 piksel - pixel
 piłka nożna - fotbal
 piłkarz - fotbalist m
 piłkarzyki - foosball
-piorun - trăsnet n | fulger n
+piorun - trăsnet n, fulger n
 piosenka - cântec n
 pipa - pizdă f
 pisarz - scriitor m
 pismo - alfabet
 Pittsburgh - Pittsburgh
 piwo - bere
-pizda - pizdă | pizdă f
+pizda - pizdă, pizdă f
 plac - piață f
 płacić - plăti
 płakać - plânge
@@ -917,14 +917,14 @@ planeta - planetă
 planetarium - planetarium n
 planta - plantă f
 płuco - plămân m
-pływanie - natație n | înot m
-po - pe | după | până la | câte | în
+pływanie - natație n, înot m
+po - pe, după, până la, câte, în
 pociąg - tren n
 poeta - poet m
 poetka - poetă f
 poetycki - poetic
 poezja - poezie f
-pogaństwo - păgânism | păgânătate
+pogaństwo - păgânism, păgânătate
 pojazd - vehicul n
 pokój - pace f
 poleku - încet
@@ -934,27 +934,27 @@ polityczny - politic
 polityk - politician m
 polityka - politică f
 półkula - emisferă f
-północ - miez de noapte n | nord n
+północ - miez de noapte n, nord n
 północnoamerykański - nord-american
 polon - poloniu n
 półsamogłoska - semivocală f
 Polska - Polonia f
 południe - prânz n
 południowy - sud-
-pomidor - pătlăgea roşie f | tomată f
+pomidor - pătlăgea roşie f, tomată f
 Pomorze - Pomerania
 poniedziałek - luni f
-ponieważ - pentru că | din cauză că | datorită
+ponieważ - pentru că, din cauză că, datorită
 pornografia - pornografie f
 pornograficzny - pornografic
-potas - potasiu n | kaliu n
+potas - potasiu n, kaliu n
 potrzebować - trebui
 powietrze - aer
 powoli - încet
 pożar - incendiu n
 pożyczka - împrumut
 praca - operă f
-pracownik - lucrător m | angajat m | muncitor m
+pracownik - lucrător m, angajat m, muncitor m
 Praga - Praga
 prawa ręka - mână f
 prawda - adevăr
@@ -962,10 +962,10 @@ prawosławie - ortodoxie f
 prazeodym - praseodim
 prenatalny - prenatal
 prezydent - președinte m
-próbować - proba | încerca
+próbować - proba, încerca
 program - program n
 promet - promețiu
-proszę - scuzați | vă rog | poftiți
+proszę - scuzați, vă rog, poftiți
 protaktyn - protactiniu
 Prusy - Prusia
 prysznic - duş m
@@ -978,7 +978,7 @@ przerywać - întrerupe
 przez - prin
 przeze - prin
 przoć - face dragoste
-psisko - cîine | câine
+psisko - cîine, câine
 psy szczekają, karawana idzie dalej - câinii latră, caravana trece
 pszczoła - albină f
 Ptah - Ptah
@@ -1000,7 +1000,7 @@ realizm - realism
 regent - regent m
 ręka - mână f
 rekin - rechin m
-reklama - anunţ | reclamă f
+reklama - anunţ, reclamă f
 ren - reniu
 reprezentant - reprezentant m
 republika - republică f
@@ -1010,7 +1010,7 @@ Republika Słowacka - Republica Slovacă
 rewolucja - revoluție f
 rewolucjonista - revoluționar
 rezerwuar - rezervor n
-rezultat - rezultat n | efect n
+rezultat - rezultat n, efect n
 rod - rodiu
 rodzina - familie f
 rok - an m
@@ -1021,19 +1021,19 @@ roślina - plantă f
 rouza - trandafir m
 rower - bicicletă f
 równanie - ecuaţie
-również - de asemenea | încă
+również - de asemenea, încă
 róża - trandafir m
 różnorodność - diversitate f
-różny - diferit | deosebit
-roztomaity - diferit | deosebit
-rozwiązanie - rezolvare f | soluție f
+różny - diferit, deosebit
+roztomaity - diferit, deosebit
+rozwiązanie - rezolvare f, soluție f
 rubid - rubidiu n
 ruchome schody - escalator
 rudny - roșu
 rugby - rugbi n
 Rumunia - România
 Rumunka - română f
-rumuński - română (limba) | romanesc m | romanească f
+rumuński - română (limba), romanesc m, romanească f
 ruten - ruteniu n
 rutherford - rutherfordiu
 ryba - pește m
@@ -1043,14 +1043,14 @@ rząd - guvern n
 rzadko - rar
 rząd marionetkowy - stat marionetă
 rządowy - guvernamental
-rzeka - fluviu n | râu
+rzeka - fluviu n, râu
 rzeźbiarz - sculptor m
 sąd - curte f
 sagan - cap
 sałatka - salată f
 Salwador - Salvador n
 samar - samariu n
-samochód - automobil n | mașină f
+samochód - automobil n, mașină f
 samochodowy - automobilistic
 samolot - avion n
 Sardynia - Sardinia
@@ -1077,14 +1077,14 @@ siarkowodór - hidrogen sulfurat
 się - se
 sieczeń - februarie
 siedem grzechów głównych - păcat capital
-Siedmiogród - Ardealul | Transilvania
+Siedmiogród - Ardealul, Transilvania
 sierpień - august
 siestrzan - nepot m
 siestrzeniec - nepot m
 silno - foarte
 sin - sin
 Singapur - Singapore
-sioło - țară | sat
+sioło - țară, sat
 siostra - soră f
 siostrzan - nepot m
 siostrzanek - nepot m
@@ -1109,15 +1109,15 @@ słowik szary - filomelă
 słownik - dicționar n
 słowo - cuvânt n
 smacznego - poftă bună
-smerf - Ştrumf | Ştrumfi
+smerf - Ştrumf, Ştrumfi
 śmierć - moarte
 smutniak - pâine f
-sobaka - cîine | câine
+sobaka - cîine, câine
 sobota - sâmbătă f
 socynianin - socinian
 socynista - socinian
 socynjanin - socinian
-sód - sodiu n | natriu n
+sód - sodiu n, natriu n
 sojusznik - aliat m
 Solon - Solon
 somsiad - vecin m
@@ -1136,10 +1136,10 @@ srebro - argint n
 Sri Lanka - Sri Lanka
 środa - miercuri f
 ssak - mamifer n
-Stany - Statele Unite ale Americii | Statele Unite
-Stany Zjednoczone - Statele Unite ale Americii | Statele Unite
-Stany Zjednoczone Ameryki - Statele Unite ale Americii | Statele Unite
-stare miasto - vechi | oraș n
+Stany - Statele Unite ale Americii, Statele Unite
+Stany Zjednoczone - Statele Unite ale Americii, Statele Unite
+Stany Zjednoczone Ameryki - Statele Unite ale Americii, Statele Unite
+stare miasto - vechi, oraș n
 starszy - tată m
 stary - vechi
 Stefan - Ştefan
@@ -1173,18 +1173,18 @@ syn - fiu m
 synapsa - sinapsă
 synowiec - nepot m
 synteza - sinteză f
-sypialnia - dormitor n | dormitoare
+sypialnia - dormitor n, dormitoare
 syra - picior n
 sytuacja - situație f
 szachy - şah m
 szanować - respecta
 szatański - satanic
-szczęśliwego Nowy Nowego Roku - la mulți ani | un an nou ferici
+szczęśliwego Nowy Nowego Roku - la mulți ani, un an nou ferici
 szczewik - pantof m
 szczur - șobolan m
 szczyt - orgasm n
 szept - șoaptă f
-szeroki - larg | lat
+szeroki - larg, lat
 szkic - schiță f
 szkita - picior n
 szklistka - umoare apoasă
@@ -1197,20 +1197,20 @@ szpital - spital n
 sztrof - pedeapsă f
 sztrofa - pedeapsă f
 sztuka - artă
-szucman - păzitor m | gardă de corp f | protector m
+szucman - păzitor m, gardă de corp f, protector m
 szwaja - picior n
 Szwajcaria - Elveţia
 Szwecja - Suedia f
 Szwecyjo - Suedia f
 szwestera - soră f
 szyja - gât n
-szykowny - frumos | drăguț
+szykowny - frumos, drăguț
 szyszynka - glandă pineală
 tacik - tată m
 Tadżykistan - Tadjikistan
-Tajlandia - Tailanda | Thailanda f
+Tajlandia - Tailanda, Thailanda f
 tak - da
-także - de asemenea | încă
+także - de asemenea, încă
 tal - taliu n
 tańczyć - dansa
 tantal - tantal n
@@ -1220,18 +1220,18 @@ tarcza strzelecka - față f
 taśtać - transporta
 te - acesta
 technet - tehnetziu
-technolog - tehnolog m | tehnologă f
+technolog - tehnolog m, tehnologă f
 tęcza - curcubeu n
-tellur - telur | teluriu n?
-temat - subiect m | temă f
+tellur - telur, teluriu n?
+temat - subiect m, temă f
 ten - acesta
-tenże - acesta | ăsta
+tenże - acesta, ăsta
 teraz - acum
 terb - terbiu n
 Termopile - Termopile
 teść - socru m
 teściowa - soacră f
-też - de asemenea | încă
+też - de asemenea, încă
 Timor Wschodni - Timorul de Est n
 tkanka tłuszczowa - țesut adipos n
 tlen - oxigen n
@@ -1245,15 +1245,15 @@ traktat - tratat n
 trawnik - gazon
 trójskok - triplu salt
 trzem - palat n
-tu - aici | ici
+tu - aici, ici
 tudzież - și
-tukej - aici | ici
+tukej - aici, ici
 tulipan - lalea
 tulp - lalea
 Tunezja - Tunisia
 tungsten - wolfram
 Turcja - Turcia
-tutaj - aici | ici
+tutaj - aici, ici
 tuż - aproape
 twarz - față f
 tydzień - săptămână m
@@ -1265,7 +1265,7 @@ uczestniczka - participantă f
 uj - unchi m
 ujec - unchi m
 ujek - unchi m
-układ - acord n | tratat n
+układ - acord n, tratat n
 Ukraina - Ucraina f
 ulica - stradă f
 umysł - minte n
@@ -1277,13 +1277,13 @@ ununhexium - ununhexiu n
 ununquadium - ununquadiu n
 Ural - Munţii Ural
 urodziny - zi de naștere f
-urodziwy - frumos | drăguț
+urodziwy - frumos, drăguț
 urologia - urologie f
 uśmiechnięty - zâmbitor
 usta - buze
 użytkownik - utilizator m
 w - în
-wacha - mare f | apă
+wacha - mare f, apă
 Waga - Balanţă
 wajco - ou n
 wampirzyca - vampiră f
@@ -1298,7 +1298,7 @@ ważny - important
 wczoraj - ieri
 we - în
 węgiel - carbon n
-Węgierka - unguroaică f | maghiară f
+Węgierka - unguroaică f, maghiară f
 węgorz - ţipar m
 Węgry - Ungaria f
 wentroba - ficat n
@@ -1310,22 +1310,22 @@ wiek - secol n
 wiela - care
 wielbłąd - cămilă f
 Wielka Niedźwiedzica - Ursa Mare
-Wielkanoc - Paști m | Paște m
+Wielkanoc - Paști m, Paște m
 wielki - mare
 wielokąt - poligon m
 wielokulturowy - multicultural
-wieś - țară | sat
+wieś - țară, sat
 wieża - turn
 Wikipedia - Wikipedia
 Wikisłownik - Wikţionar
 Wikiźródła - Wikisource
-wilk - lup m | copil m
-willa - villa f | vilă f
+wilk - lup m, copil m
+willa - villa f, vilă f
 winnica - vie
 wino - vin n
-winograd - vie | strugure m | vin n
+winograd - vie, strugure m, vin n
 winogrono - strugure m
-wioska - țară | sat
+wioska - țară, sat
 wiosna - primăvară
 Wisła - Vistula
 wizyta - vizită f
@@ -1349,7 +1349,7 @@ wrona - cioara grivă
 wrzesień - septembrie
 współczucie - compasiune f
 wtorek - marţi f
-w tym - în | ăsta
+w tym - în, ăsta
 wuj - unchi m
 wujek - unchi m
 wujko - unchi m
@@ -1370,18 +1370,18 @@ Wyspy Kanaryjskie - Insulele Canare
 wystarczający - suficient
 wyszukiwanie - caută f
 wyża - înălțime f
-wyznanie - confesiune f | credință f | rit n
-z - din | cu
-za - după | ca | pentru
+wyznanie - confesiune f, credință f, rit n
+z - din, cu
+za - după, ca, pentru
 ząb - dinte m
-zabijać - ucide | omorî | sinucide
-Zabulon - Zabulon | Zebulon | Zebulun m
+zabijać - ucide, omorî, sinucide
+Zabulon - Zabulon, Zebulon, Zebulun m
 zachód księżyca - apus de lună n
 zaćmienie - eclipsă
 żagiel - velă f
 zakażenie - infecţie f
 żal - durere f
-zalany - beat | băut
+zalany - beat, băut
 zamknąć - închide
 Zaolzie - Transolza
 zapalenie płuc - pneumonie
@@ -1393,15 +1393,15 @@ zbrodnia katyńska - masacrul de la Katyń
 żdać - aștepta
 zdalasiały - obosit
 zdecydować - hotărî
-ze - din | cu
+ze - din, cu
 że - că
 żegleń - carbon n
 zelter - apă minerală f
-żeńczyna - femeie f | muiere f
-zez - din | cu
-zgodnie - în acord | conform
+żeńczyna - femeie f, muiere f
+zez - din, cu
+zgodnie - în acord, conform
 ziele angielskie - ienibahar n
-zielnik - ierbar | ierarhiza
+zielnik - ierbar, ierarhiza
 zielony - verde
 zielony ludzik - mic om verde
 Ziemia Święta - Țara Sfântă f
@@ -1424,8 +1424,8 @@ zooplankton - zooplancton m
 ZUM - ITU
 żurnal - revistă
 Związek Socjalistycznych Republik Radzieckich - Uniunea Republicilor Sovietice Socialiste
-zwierzak - animal n | fiară f
-zwierzę - animal n | fiară f
+zwierzak - animal n, fiară f
+zwierzę - animal n, fiară f
 zwierzęcość - animalitate f
 zwrotnica - schimbător
 życie - viață f

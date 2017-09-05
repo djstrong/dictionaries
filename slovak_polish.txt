@@ -1,4 +1,4 @@
-a - a | i
+a - a, i
 Ábádán - Abadan
 abažúr - abażur
 abbé - opat
@@ -11,9 +11,9 @@ abdikácia - abdykacja
 abdikačný - abdykacyjny
 abdikovať - abdykować
 abdómen - brzuch
-abdominálny - abdominalny | brzuszny
-abeceda - alfabet | abecadło
-abecedár - spis alfabetyczny | elementarz
+abdominálny - abdominalny, brzuszny
+abeceda - alfabet, abecadło
+abecedár - spis alfabetyczny, elementarz
 abecedne - alfabetycznie
 abecedný - alfabetyczny
 aberácia - aberracja
@@ -23,14 +23,14 @@ Abidžan - Abidżan
 abiotický - abiotyczny
 abiturient - abiturient
 abiturientka - abiturientka
-abnormalita - niezwykłość | nienormalność | upośledzenie
-abnormálnosť - niezwykłość | nienormalność
+abnormalita - niezwykłość, nienormalność, upośledzenie
+abnormálnosť - niezwykłość, nienormalność
 abonent - abonent
-abonentka - abonentka | abonament
+abonentka - abonentka, abonament
 abonentský - abonencki
 Abrahám - Abraham
-absces - absces | ropień | wrzód
-absencia - absencja | nieobecność
+absces - absces, ropień, wrzód
+absencia - absencja, nieobecność
 absenčný - absencyjny
 absolutista - absolutysta
 absolutistický - absolutystyczny
@@ -38,15 +38,15 @@ absolutistka - absolutystka
 absolutizácia - absolutyzacja
 absolutizmus - absolutyzm
 absolutizovať - absolutyzować
-absolútne - absolutnie | zupełnie | bezwzględnie
-absolútny - absolutny | bezwzględny | całkowity
+absolútne - absolutnie, zupełnie, bezwzględnie
+absolútny - absolutny, bezwzględny, całkowity
 absolutórium - absolutorium
 absolvent - absolwent
 absolventka - absolwentka
 absolventský - absolwencki
 absorbovanie - absorbowanie
-absorbovať - absorbować | wchłaniać
-absorpcia - wchłanianie | absorpcja
+absorbovať - absorbować, wchłaniać
+absorpcia - wchłanianie, absorpcja
 abstinencia - abstynencja
 abstinent - abstynent
 abstinentka - abstynentka
@@ -69,17 +69,17 @@ achát - agat
 achátový - agatowy
 Achilles - Achilles
 Achillov - Achillesowy
-Achillova päta - pięta Achillesa | pięta achillesowa
+Achillova päta - pięta Achillesa, pięta achillesowa
 achromatický - achromatyczny
-achromatizmus - achromatyzm | achromatopsja
+achromatizmus - achromatyzm, achromatopsja
 Adam - Adam
 Adamov - Adamowy
-Adamovo jablko - jabłko Adama | grdyka
+Adamovo jablko - jabłko Adama, grdyka
 Adamovo rebro - żebro Adama
 Addis Abeba - Addis Abeba
-adekvátne - adekwatnie | odpowiednio
-adekvátnosť - adekwatność | zgodność | odpowiedniość
-adekvátny - adekwatny | odpowiedni
+adekvátne - adekwatnie, odpowiednio
+adekvátnosť - adekwatność, zgodność, odpowiedniość
+adekvátny - adekwatny, odpowiedni
 adept - adept
 adeptka - adeptka
 adiabatický - adiabatyczny
@@ -89,16 +89,16 @@ administrátor - administrator
 administrátorka - administratorka
 administrovať - administrować
 admirál - admirał
-adopcia - adopcja | przysposobienie
+adopcia - adopcja, przysposobienie
 adopčný - adopcyjny
-adoptovať - adoptować | przysposobić
+adoptovať - adoptować, przysposobić
 adrenalín - adrenalina
 adrenalínový - adrenalinowy
-adresa - adres | identyfikator miejsca | pisemny przejaw wdzięczności
+adresa - adres, identyfikator miejsca, pisemny przejaw wdzięczności
 adresát - adresat
 adresátka - adresatka
 adresovať - adresować
-Adriána - Adriana | Adrianna
+Adriána - Adriana, Adrianna
 advent - adwent
 adventista - adwentysta
 adventný - adwentowy
@@ -106,7 +106,7 @@ adventný veniec - wieniec adwentowy
 advokát - adwokat
 advokátsky - adwokacki
 aerobik - aerobik
-aeronaut - aeronauta | lotnik | pilot
+aeronaut - aeronauta, lotnik, pilot
 afarčina - język afar
 afektácia - afektacja
 Afganec - Afgańczyk
@@ -124,7 +124,7 @@ Afrika - Afryka
 afrikánčina - język afrykanerski
 Afrikánec - Afrykaner
 Afrodita - Afrodyta
-agát - robinia | grochodrzew
+agát - robinia, grochodrzew
 Agáta - Agata
 agent - agent
 agentúra - agencja
@@ -140,29 +140,29 @@ agorafóbia - agorafobia
 agresivita - agresywność
 agresívnosť - agresywność
 agresívny - agresywny
-agresor - agresor | napastnik
+agresor - agresor, napastnik
 agronóm - agronom
 agronómia - agronomia
 agronomický - agronomiczny
 agronómka - agronomka
 ahoj - cześć
 Aischylos - Ajschylos
-aj - i | również | też | nawet | oj | ojoj
-ak - jeśli | jak | gdy
+aj - i, również, też, nawet, oj, ojoj
+ak - jeśli, jak, gdy
 akadémia - akademia
 akademický - akademicki
-akcentovanie - akcent | akcentowanie
+akcentovanie - akcent, akcentowanie
 akcentovať - akcentować
 akceptácia - akceptacja
 akceptovať - akceptować
 akcia - akcja
 akciový - akcyjny
 akné - trądzik
-ako - jak | jeśli | jeżeli
+ako - jak, jeśli, jeżeli
 ako blesk z jasného neba - jak grom z jasnego nieba
 ako hrom z jasného neba - jak grom z jasnego nieba
 akokoľvek - jakkolwiek
-akomodácia - akomodacja | adaptacja | aklimatyzacja
+akomodácia - akomodacja, adaptacja, aklimatyzacja
 akord - akord
 akordeón - akordeon
 akordeonista - akordeonista
@@ -173,18 +173,18 @@ akreditácia - akredytacja
 akrobacia - akrobacja
 akrobat - akrobata
 akrobatka - akrobatka
-akronym - akronim | skrótowiec
+akronym - akronim, skrótowiec
 akropola - akropol
-akt - akt (, ) | akt
+akt - akt (, ), akt
 aktínium - aktyn
 aktivácia - aktywacja
 aktivista - aktywista
 aktivistka - aktywistka
 aktívne - aktywnie
-aktívny - aktywny | czynny | dodatni
-aktovka - aktówka | jednoaktówka
-aktualizácia - aktualizacja | uaktualnienie
-aktualizovať - aktualizować | uaktualnić / uaktualniać
+aktívny - aktywny, czynny, dodatni
+aktovka - aktówka, jednoaktówka
+aktualizácia - aktualizacja, uaktualnienie
+aktualizovať - aktualizować, uaktualnić / uaktualniać
 aktuálny - aktualny
 akumulácia - akumulacja
 akumulátor - akumulator
@@ -201,7 +201,7 @@ akvárium - akwarium
 akvizitér - akwizytor
 akvizítor - akwizytor
 aký - jaki
-akýkoľvek - jakikolwiek | dowolny
+akýkoľvek - jakikolwiek, dowolny
 aký otec, taký syn - jaki ojciec, taki syn
 aký pán, taký krám - jaki pan, taki kram
 alabaster - alabaster
@@ -218,13 +218,13 @@ alchýmia - alchemia
 alchymista - alchemik
 aldehyd - aldehyd
 ale - ale
-alebo - albo | lub
+alebo - albo, lub
 alegória - alegoria
 alegorický - alegoryczny
 Aleksander - Aleksander
-alergén - alergen | czynnik uczulający
+alergén - alergen, czynnik uczulający
 alergia - alergia
-alergický - alergiczny | uczuleniowy
+alergický - alergiczny, uczuleniowy
 Alexandra - Aleksandra
 Alexandria - Aleksandria
 algebra - algebra
@@ -273,20 +273,20 @@ ambivalencia - ambiwalencja
 ambivalentný - ambiwalentny
 Ambróz - Ambroży
 Ambrózov - Ambrożowy
-ambulancia - ambulatorium | przychodnia | karetka | ambulans
+ambulancia - ambulatorium, przychodnia, karetka, ambulans
 Američan - Amerykanin
 Američanka - Amerykanka
 amerícium - ameryk
 Americká Samoa - Samoa Amerykańskie
 Americké Panenské ostrovy - Wyspy Dziewicze Stanów Zjednoczonych
 americký - amerykański
-Amerika - Ameryka | Stany Zjednoczone Ameryki
+Amerika - Ameryka, Stany Zjednoczone Ameryki
 amerikanista - amerykanista
 amerikanistika - amerykanistyka
 amerikanistka - amerykanistka
 amerikanizácia - amerykanizacja
 amerikanizmus - amerykanizm
-amerikanizovať - amerykanizować | amerykanizować się
+amerikanizovať - amerykanizować, amerykanizować się
 ametyst - ametyst
 amfiteáter - amfiteatr
 amfora - amfora
@@ -298,8 +298,8 @@ amnestia - amnestia
 amnézia - amnezja
 amoniak - amoniak
 amoralita - amoralność
-amortizácia - amortyzacja | anulowanie (dokumentu)
-amortizovať - amortyzować | zamortyzować | anulować (dokument)
+amortizácia - amortyzacja, anulowanie (dokumentu)
+amortizovať - amortyzować, zamortyzować, anulować (dokument)
 ampér - amper
 amplitúda - amplituda
 amputácia - amputacja
@@ -314,10 +314,10 @@ anabolizmus - anabolizm
 anagram - anagram
 analfabet - analfabeta
 analfabetizmus - analfabetyzm
-análny - analny | odbytniczy | odbytowy
-analógia - analogia | podobieństwo
+análny - analny, odbytniczy, odbytowy
+analógia - analogia, podobieństwo
 analogicky - analogicznie
-analogický - analogiczny | podobny
+analogický - analogiczny, podobny
 analytička - analityczka
 analytický - analityczny
 analytik - analityk
@@ -334,7 +334,7 @@ anatomický - anatomiczny
 Andalúzia - Andaluzja
 Andorra - Andora
 andorrský - andorski
-Andrej - Andrzej | Jędrzej
+Andrej - Andrzej, Jędrzej
 Andrejov - Andrzejowy
 androgén - androgen
 androgénny - androgenny
@@ -362,7 +362,7 @@ ani - ani
 anjel - anioł
 Ankara - Ankara
 Anna - Anna
-áno - tak | no tak | oczywiście
+áno - tak, no tak, oczywiście
 anonym - anonim
 anonymnosť - anonimowość
 anonymný - anonimowy
@@ -405,7 +405,7 @@ antológia - antologia
 Antónia - Antonia
 antonymický - antonimiczny
 antonymum - antonim
-antrax - antraks | wąglik | czarna krosta
+antrax - antraks, wąglik, czarna krosta
 antropológia - antropologia
 antropomorfizácia - antropomorfizacja
 antropomorfizmus - antropomorfizm
@@ -414,22 +414,22 @@ Antverpy - Antwerpia
 anulovať - anulować
 aorta - aorta
 apatit - apatyt
-apelovať - apelować | wnosić apelację
+apelovať - apelować, wnosić apelację
 apeninský - apeniński
 Apeninský polostrov - Półwysep Apeniński
 Apeniny - Apeniny
 aperitív - aperitif
-aplauz - aplauz | poklask | oklaski
-aplikácia - zastosowanie | stosowanie | aplikacja
+aplauz - aplauz, poklask, oklaski
+aplikácia - zastosowanie, stosowanie, aplikacja
 aplikovať - aplikować
-apokalypsa - apokalipsa | koniec świata
+apokalypsa - apokalipsa, koniec świata
 apokalyptický - apokaliptyczny
 apokryf - apokryf
 apolitický - apolityczny
 apollinarizmus - apolinaryzm
 apológia - apologia
 apologický - apologetyczny
-apoplexia - apopleksja | udar mózgu
+apoplexia - apopleksja, udar mózgu
 aportovanie - aportowanie
 aportovať - aportować
 apostata - apostata
@@ -458,11 +458,11 @@ Aragónčan - Aragończyk
 Aragónčanka - Aragonka
 aragónčina - język aragoński
 Aragónsko - Aragonia
-aranžovať - aranżować | organizować | dekorować (wystawę sklepową)
+aranžovať - aranżować, organizować, dekorować (wystawę sklepową)
 Ararat - Ararat (masyw)
 arašid - orzech ziemny
 arbitráž - arbitraż
-archaický - archaiczny | przestarzały
+archaický - archaiczny, przestarzały
 archaizácia - archaizacja
 archaizovať - archaizować
 archanjel - archanioł
@@ -473,9 +473,9 @@ archeologický - archeologiczny
 Archimedes - Archimedes
 architekt - architekt
 architektka - architektka
-architektonický - architektoniczny | architektoński
+architektonický - architektoniczny, architektoński
 architektonika - architektonika
-architektúra - architektura | budowa | konstrukcja
+architektúra - architektura, budowa, konstrukcja
 arcibiskup - arcybiskup
 areografia - areografia
 Argentína - Argentyna
@@ -501,20 +501,20 @@ arkáda - arkada
 arkádový - arkadowy
 arktický - arktyczny
 Arktída - Arktyka
-armáda - armia | wojsko
+armáda - armia, wojsko
 armádny - wojskowy
 Armén - Ormianin
-arménčina - język armeński | język ormiański
+arménčina - język armeński, język ormiański
 Arménka - Ormianka
 Arménsko - Armenia
-arménsky - ormiański | armeński | po ormiańsku | po armeńsku
+arménsky - ormiański, armeński, po ormiańsku, po armeńsku
 arogancia - arogancja
 arogantný - arogancki
-aróma - aromat | silna woń
+aróma - aromat, silna woń
 aromatický - aromatyczny
 aromatizovať - aromatyzować
 artefakt - artefakt
-artéria - arteria | tętnica
+artéria - arteria, tętnica
 arteterapia - arteterapia
 artikulácia - artykulacja
 artikulačný - artykulacyjny
@@ -542,7 +542,7 @@ asertivita - asertywność
 asertívne - asertywnie
 asertívny - asertywny
 asexualita - aseksualizm
-asexuálnosť - aseksualność | aseksualizm
+asexuálnosť - aseksualność, aseksualizm
 asexuálny - aseksualny
 asfalt - asfalt
 asfaltovať - asfaltować
@@ -550,7 +550,7 @@ asfaltový - asfaltowy
 Ashmorov a Cartierov ostrov - Wyspy Ashmore i Cartiera
 asignácia - asygnata
 asignovať - asygnować
-asimilovať - asymilować | asymilować się | upodabniać się
+asimilovať - asymilować, asymilować się, upodabniać się
 asistent - asystent
 asistentka - asystentka
 asistovať - asystować
@@ -587,7 +587,7 @@ astronómka - astronomka
 astúrčina - asturyjski
 Astúria - Asturia
 asymetria - asymetria
-asymetrickosť - asymetryczność | asymetria
+asymetrickosť - asymetryczność, asymetria
 asymetrický - asymetryczny
 atakovať - atakować
 atď. - itd.
@@ -602,7 +602,7 @@ atentátnik - zamachowiec
 Atény - Ateny
 Atlantický oceán - Ocean Atlantycki
 Atlantik - Atlantyk
-atlas - atlas (zbiór map w postaci książki) | atlas (pierwszy kręg szyjny) | atłas
+atlas - atlas (zbiór map w postaci książki), atlas (pierwszy kręg szyjny), atłas
 Atlas - Atlas
 atlét - lekkoatleta
 atmosféra - atmosfera
@@ -619,14 +619,14 @@ atramentový - atramentowy
 atrapa - atrapa
 atrofia - atrofia
 atropín - atropina
-august - sierpień | clown | klaun
-aukcia - aukcja | przetarg
+august - sierpień, clown, klaun
+aukcia - aukcja, przetarg
 aukčný - aukcyjny
 Aurélia - Aurelia
 Austrália - Australia
 austrálsky - australijski
-auto - auto | samochód
-autoalarm - autoalarm | alarm samochodowy
+auto - auto, samochód
+autoalarm - autoalarm, alarm samochodowy
 autobiografia - autobiografia
 autobiografický - autobiograficzny
 autobus - autobus
@@ -643,7 +643,7 @@ automaticky - automatycznie
 automatický - automatyczny
 automatizácia - automatyzacja
 automechanik - mechanik samochodowy
-automobil - samochód | auto
+automobil - samochód, auto
 automobilista - automobilista
 automobilka - fabryka samochodów
 automobilový - samochodowy
@@ -651,18 +651,18 @@ autoportrét - autoportret
 autorádio - radio samochodowe
 autorizácia - autoryzacja
 autorizovať - autoryzować
-autostop - autostop | hamulec automatyczny
+autostop - autostop, hamulec automatyczny
 autostopár - autostopowicz
 autostopárka - autostopowiczka
 autostráda - autostrada
 Aventin - Awentyn
 Aventín - Awentyn
 averzia - awersja
-avšak - ale | lecz
+avšak - ale, lecz
 axióma - aksjomat
 azbest - azbest
 azbestový - azbestowy
-azda - chyba | może | czy | czyżby
+azda - chyba, może, czy, czyżby
 Azerbajdžan - Azerbejdżan
 azerbajdžanský - azerbejdżański
 Ázia - Azja
@@ -671,23 +671,23 @@ azimut - azymut
 azorský - azorski
 Azory - Azory
 Azovské more - Morze Azowskie
-azúr - lazur | błękit
+azúr - lazur, błękit
 azurit - azuryt
 Azúrové pobrežie - Lazurowe Wybrzeże
-azúrový - lazurowy | błękitny
+azúrový - lazurowy, błękitny
 azyl - azyl (polityczny)
 azylant - azylant
 azylantka - azylantka
-baba - baba | stara kobieta | babsztyl
-bába - lalka | lala | dzidziuś | bobas
-babička - babcia | babunia
+baba - baba, stara kobieta, babsztyl
+bába - lalka, lala, dzidziuś, bobas
+babička - babcia, babunia
 bábika - lalka
-babka - babcia | staruszka | babka | akuszerka | haftka | uszko | kowadło (do klepania kosy) | stara węgierska moneta o niskim nominale
-babka k babce, budú kapce - grosz do grosza, a będzie kokosza | ziarnko do ziarnka, a zbierze się miarka
-babona - zabobon | przesąd
+babka - babcia, staruszka, babka, akuszerka, haftka, uszko, kowadło (do klepania kosy), stara węgierska moneta o niskim nominale
+babka k babce, budú kapce - grosz do grosza, a będzie kokosza, ziarnko do ziarnka, a zbierze się miarka
+babona - zabobon, przesąd
 Babylon - Babilon
 babylonský - babiloński
-babysitterka - babysitterka | opiekunka do dzieci
+babysitterka - babysitterka, opiekunka do dzieci
 bača - baca
 bádanie - badanie
 bagatelizovať - bagatelizować
@@ -699,12 +699,12 @@ bahamský - bahamski
 Bahamy - Bahamy
 bahenný - bagienny
 bahnisko - bagnisko
-bahno - błoto | bagno | upadek
+bahno - błoto, bagno, upadek
 Bahrajn - Bahrajn
-Bahrajňan - Bahrańczyk | Bahrajńczyk
-Bahrajňanka - Bahranka | Bahrajnka
+Bahrajňan - Bahrańczyk, Bahrajńczyk
+Bahrajňanka - Bahranka, Bahrajnka
 bahrajnský - bahrajński
-báječný - bajeczny | wspaniały
+báječný - bajeczny, wspaniały
 bájka - bajka
 bájoslovie - mitologia
 baklažán - bakłażan
@@ -741,7 +741,7 @@ banán - banan
 banánová republika - republika bananowa
 banánovník - bananowiec
 banánový - bananowy
-banda - banda | gang | paczka
+banda - banda, gang, paczka
 bandáž - bandaż
 banditizmus - bandytyzm
 Bangkok - Bangkok
@@ -752,10 +752,10 @@ bangladéšsky - bangladeski
 Bangui - Bangi
 baníctvo - górnictwo
 baník - górnik
-banjarčina - język banjar | bandżar
+banjarčina - język banjar, bandżar
 Banjul - Bandżul
-banka - bank | probówka | menzurka
-bankár - bankier | finansista
+banka - bank, probówka, menzurka
+bankár - bankier, finansista
 bankomat - bankomat
 bankovka - banknot
 bankový - bankowy
@@ -766,7 +766,7 @@ BAP - choroba afektywna dwubiegunowa
 baptista - baptysta
 baptizmus - baptyzm
 bar - bar
-baran - baran | taran | baba | kafar
+baran - baran, taran, baba, kafar
 Baran - Baran
 baranica - baranica
 baráž - baraż
@@ -795,7 +795,7 @@ barytón - baryton
 barytónový - barytonowy
 bas - bas
 báseň - wiersz
-basista - bas | basista | więzień
+basista - bas, basista, więzień
 Bask - Bask
 basketbal - koszykówka
 basketbalista - koszykarz
@@ -805,20 +805,20 @@ baskičtina - język baskijski
 básnik - poeta
 batožina - bagaż
 báť sa - bać się
-báť sa ako čert kríža - bać się jak diabeł święconej wody | bać się jak czart krzyża
+báť sa ako čert kríža - bać się jak diabeł święconej wody, bać się jak czart krzyża
 báť sa ako čert svätenej vody - bać się jak diabeł święconej wody
 báť sa o svoju kožu - bać się o swoją skórę
 Batumi - Batumi
 bauxit - boksyt
-baviť - bawić | zabawiać | bawić się
+baviť - bawić, zabawiać, bawić się
 bavlna - bawełna
 Bavorsko - Bawaria
 bavorský - bawarski
 bazalka - bazylia
 bazalt - bazalt
-bažant - bażant ( L.) | nowicjusz | rekrut | kot
+bažant - bażant ( L.), nowicjusz, rekrut, kot
 bazárový - bazarowy
-bazén - pływalnia | basen (pływacki)
+bazén - pływalnia, basen (pływacki)
 Bazilej - Bazylea
 bazilika - bazylika
 bazuka - bazooka
@@ -829,7 +829,7 @@ bedminton - badminton
 beduín - Beduin
 beduínsky - beduiński
 begónia - begonia
-beh - bieg | ruch | praca | noga zwierzęcia
+beh - bieg, ruch, praca, noga zwierzęcia
 behať - biegać
 Bejrút - Bejrut
 belasý - błękitny
@@ -842,7 +842,7 @@ Belgicko - Belgia
 belgický - belgijski
 Belize - Belize
 Belmopan - Belmopan
-belosť - białość | biel
+belosť - białość, biel
 Benátčan - wenecjanin
 Benátčanka - wenecjanka
 Benátky - Wenecja
@@ -868,7 +868,7 @@ betón - beton
 betonár - betoniarz
 betónovať - betonować
 bez - bez
-bežať - biegnąć | biec
+bežať - biegnąć, biec
 bezbolestne - bezboleśnie
 bezbolestný - bezbolesny
 bezbožník - bezbożník
@@ -878,31 +878,31 @@ bezdetný - bezdzietny
 bezdomovec - bezdomny
 bezkrvne - bezkrwawo
 bezkrvný - bezkrwawy
-bezlesný - bezleśny | niezalesiony
+bezlesný - bezleśny, niezalesiony
 bezlistý - bezlistny
 bezmäsito - bezmięsnie
-bezmocný - bezsilny | bezradny
-beznádej - beznadzieja | beznadziejność
+bezmocný - bezsilny, bezradny
+beznádej - beznadzieja, beznadziejność
 beznádejný - beznadziejny
 beznohý - beznogi
 bezo - bez
 béžový - beżowy
-bezpečnosť - bezpieczeństwo | milicja | policja
+bezpečnosť - bezpieczeństwo, milicja, policja
 bezpečný - bezpieczny
 bezplatne - bezpłatnie
 bezplatný - bezpłatny
 bez práce nie sú koláče - bez pracy nie ma kołaczy
-bezprávie - bezprawie | niesprawiedliwość | krzywda
-bezprávne - bezprawnie | niesprawiedliwie
-bezprávny - bezprawny | niesprawiedliwy | krzwydzący
+bezprávie - bezprawie, niesprawiedliwość, krzywda
+bezprávne - bezprawnie, niesprawiedliwie
+bezprávny - bezprawny, niesprawiedliwy, krzwydzący
 bezprecedentný - bezprecedensowy
 bezpredmetne - bezprzedmiotowo
-bezpredmetnosť - bezprzedmiotowość | bezpodstawność
-bezpredmetný - bezprzedmiotowy | bezpodstawny
+bezpredmetnosť - bezprzedmiotowość, bezpodstawność
+bezpredmetný - bezprzedmiotowy, bezpodstawny
 bezsennosť - bezsenność
 bezsenný - bezsenny
 bezvedomie - nieprzytomność
-bezvládie - bezrząd | anarchia
+bezvládie - bezrząd, anarchia
 bezzubý - bezzębny
 Bhután - Bhutan
 Bhutánčan - Bhutańczyk
@@ -918,17 +918,17 @@ bibliofil - bibliofil
 bibliofilia - bibliofilia
 bibliografia - bibliografia
 bibliografický - bibliograficzny
-bičovať - biczować | drażnić
+bičovať - biczować, drażnić
 bicykel - rower
 bicyklovať - jeździć na rowerze
 bicyklový - rowerowy
 bidet - bidet
-bieda - bieda | nędza | niedostatek | ubóstwo | trud
-biela krvinka - biała krwinka | leukocyt
+bieda - bieda, nędza, niedostatek, ubóstwo, trud
+biela krvinka - biała krwinka, leukocyt
 biela mágia - biała magia
 Biela sobota - Wielka Sobota
 Biele more - Morze Białe
-bielizeň - bielizna | pranie | wyprana odzież
+bielizeň - bielizna, pranie, wyprana odzież
 bielizník - bieliźniarka
 bielok - białko jajka
 Bielorus - Białorusin
@@ -936,14 +936,14 @@ Bieloruska - Białorusinka
 Bielorusko - Białoruś
 bieloruský - białoruski
 bieloruština - język białoruski
-bieluha žltobiela - białucha | wal biały
-biely - biały | biały (jasny, blady)
+bieluha žltobiela - białucha, wal biały
+biely - biały, biały (jasny, blady)
 biely ako sneh - biały jak śnieg
 Biely dom - Biały Dom
 bigamia - bigamia
 bigamický - bigamiczny
 bigamista - bigamista
-biliard - bilard | stół do gry w bilard
+biliard - bilard, stół do gry w bilard
 biliardový - bilardowy
 bilingválny - dwujęzyczny
 biochémia - biochemia
@@ -971,35 +971,35 @@ bisexuálny - biseksualny
 Biškek - Biszkek
 biskup - biskup
 biskupský - biskupi
-biť - bić | bić się
-bitka - bójka | bitka | walka
+biť - bić, bić się
+bitka - bójka, bitka, walka
 bizmut - bizmut
-biznismen - biznesmen | przedsiębiorca
+biznismen - biznesmen, przedsiębiorca
 bizón - bizon
 bižutéria - biżuteria
 blahobyt - dobrobyt
-blahoprianie - gratulacje | życzenia
+blahoprianie - gratulacje, życzenia
 blana - błona
 blanketa - blankiet
 blato - błoto
 Blažej - Błażej
-blažený - szczęśliwy | błogi
-bláznivý - szalony | obłąkany
-blázon - wariat | idiota | umysłowo chory | dureń | głupek
+blažený - szczęśliwy, błogi
+bláznivý - szalony, obłąkany
+blázon - wariat, idiota, umysłowo chory, dureń, głupek
 blbo - głupio
-blbý - głupkowaty | głupawy | idiotyczny | głupi | durny
+blbý - głupkowaty, głupawy, idiotyczny, głupi, durny
 blcha - pchła
 bledosť - bladość
-bledý - blady | słaby | wątły
+bledý - blady, słaby, wątły
 bledý ako krieda - blady jak kreda
 bledý ako mŕtvola - blady jak trup
 bledý ako plátno - blady jak płótno
 bledý ako smrť - blady jak śmierć
 bledý ako stena - blady jak ściana
 blesk - błyskawica
-Blíženci - Bliźnięta | Blíženec
-blízko - blisko | koło
-blízkosť - bliskość | niedalekość
+Blíženci - Bliźnięta, Blíženec
+blízko - blisko, koło
+blízkosť - bliskość, niedalekość
 blízky - bliski
 Blízky východ - Bliski Wschód
 blokáda - blokada
@@ -1038,11 +1038,11 @@ Bohuslav - Bogusław
 Bohuslava - Bogusława
 bohužiaľ - niestety
 bohyňa - bogini
-boj - walka | bitwa | bój
+boj - walka, bitwa, bój
 bojazlivý - bojaźliwy
 bojkot - bojkot
 bojkotovať - bojkotować
-bojovať - walczyć | toczyć bój
+bojovať - walczyć, toczyć bój
 bojovníčka - bojowniczka
 bojovník - bojownik
 bôľ - ból
@@ -1053,12 +1053,12 @@ Bologna - Bolonia
 Bolončan - bolończyk
 Bolončanka - bolonka
 bolonský - boloński
-boľševicky - bolszewicko | po bolszewicku
+boľševicky - bolszewicko, po bolszewicku
 boľševický - bolszewicki
 boľševik - bolszewik
 boľševizácia - bolszewizacja
 boľševizmus - bolszewizm
-boľševizovať - bolszewizować | bolszewizować się
+boľševizovať - bolszewizować, bolszewizować się
 bomba - bomba
 Bombaj - Bombaj
 Bombajčan - bombajczyk
@@ -1085,7 +1085,7 @@ bosporský - bosforski
 Boston - Boston
 bostonský - bostoński
 bosý - bosy
-botanička - botaniczka | kobieta botanik
+botanička - botaniczka, kobieta botanik
 botanická záhrada - ogród botaniczny
 botanický - botaniczny
 botanik - botanik
@@ -1104,10 +1104,10 @@ braček - braciszek
 brada - broda
 bradatý - brodaty
 bradavka - brodawka
-brána - brama | bramka | brona
-Brandenburg - Brandenburgia | Brandenbursko
+brána - brama, bramka, brona
+Brandenburg - Brandenburgia, Brandenbursko
 Brandenbursko - Brandenburgia
-brániť - bronić | bronić się
+brániť - bronić, bronić się
 brankár - bramkarz
 brankárka - bramkarka
 brankársky - bramkarski
@@ -1120,17 +1120,17 @@ Bratislavčan - bratysławianin
 Bratislavčanka - bratysławianka
 bratislavský - bratysławski
 bratranec - kuzyn
-bratstvo - braterstwo | bractwo
+bratstvo - braterstwo, bractwo
 bravúra - brawura
 bravúrne - brawurowo
 bravúrny - brawurowy
-brázda - bruzda | zmarszczka
+brázda - bruzda, zmarszczka
 Brazílčan - Brazylijczyk
 Brazílčanka - Brazylijka
 Brazília - Brazylia
 brazílsky - brazylijski
 brazilský - brazylijski
-brdo - grzebień tkacki | płocha
+brdo - grzebień tkacki, płocha
 brečtan - bluszcz
 breh - brzeg
 Brémy - Brema
@@ -1147,7 +1147,7 @@ brhlík - kowalik
 bridký - brzydki
 bridž - brydż
 bridžový - brydżowy
-brigáda - brygada | praca tymczasowa | praca dorywcza
+brigáda - brygada, praca tymczasowa, praca dorywcza
 briliant - brylant
 Brit - Brytyjczyk
 Britka - Brytyjka
@@ -1160,7 +1160,7 @@ brokolica - brokuł
 brokolicový - brokułowy
 bróm - brom
 Bronislava - Bronisława
-bronzová nedeľa - druga niedziela adwentu | trzecia niedziela handlowa przed Bożym Narodzeniem
+bronzová nedeľa - druga niedziela adwentu, trzecia niedziela handlowa przed Bożym Narodzeniem
 broskyňa - brzoskwinia
 brošňa - broszka
 brožúra - broszura
@@ -1190,7 +1190,7 @@ budhista - buddysta
 budhistický - buddyjski
 budhizmus - buddyzm
 budík - budzik
-budova - budynek | budowla
+budova - budynek, budowla
 budovať - budować
 budúci - przyszły
 budúci čas - czas przyszły
@@ -1205,17 +1205,17 @@ Bulharka - Bułgarka
 Bulharsko - Bułgaria
 bulharský - bułgarski
 bulímia - bulimia
-bulvár - bulwar | aleja
+bulvár - bulwar, aleja
 bulvárny - bulwarowy
 bumerang - bumerang
-bunda - kurtka | skafander | wiatrówka | kożuch
+bunda - kurtka, skafander, wiatrówka, kożuch
 bunka - komórka
 bunker - bunkier (schron)
 Burgunďan - Burgundczyk
 Burgunďanka - Burgundka
 Burgundsko - Burgundia
 Buriatsko - Buriacja
-búrka - burza | kłótnia | zwada
+búrka - burza, kłótnia, zwada
 Burkina - Burkina Faso
 Burkina Faso - Burkina Faso
 búrlivý - burzliwy
@@ -1234,26 +1234,26 @@ Býk - Byk
 byrokracia - biurokracja
 byrokrat - biurokrata
 byrokratický - biurokratyczny
-bystrý - szybki | bystry | ostry | przenikliwy
+bystrý - szybki, bystry, ostry, przenikliwy
 byt - mieszkanie
-byť - być | znajdować się w stanie
-bytosť - istota | stworzenie: człowiek | zwierzę
-byť sto rokov za opicami - być sto lat za Murzynami | być sto | lat za małpami
-bývalý - były | dawny
+byť - być, znajdować się w stanie
+bytosť - istota, stworzenie: człowiek, zwierzę
+byť sto rokov za opicami - być sto lat za Murzynami, być sto, lat za małpami
+bývalý - były, dawny
 bývať - mieszkać
 byvol - bawół
 Byzantion - Bizancjum
 Čad - Czad
 čaj - herbata
-čajka - mewa | czajka
-čakať - czekać | oczekiwać | spodziewać się | zwlekać
+čajka - mewa, czajka
+čakať - czekać, oczekiwać, spodziewać się, zwlekać
 Canberra - Canberra
 cap - cap
 cár - car
 Caracas - Caracas
-Carihrad - Konstantynopol | Stambuł
-čárka - akcent ostry | akut | akcent silny
-čas - czas | pora | wolna chwila | pogoda
+Carihrad - Konstantynopol, Stambuł
+čárka - akcent ostry, akut, akcent silny
+čas - czas, pora, wolna chwila, pogoda
 čašníčka - kelnerka
 čašník - kelner
 časopis - czasopismo
@@ -1261,7 +1261,7 @@ Carihrad - Konstantynopol | Stambuł
 časový - czasowy
 čas sú peniaze - czas to pieniądz
 časť - część
-častica - partykuła | cząsteczka
+častica - partykuła, cząsteczka
 často - często
 častý - częsty
 čau - cześć
@@ -1277,39 +1277,39 @@ Cejlón - Cejlon
 Cejlónčan - Cejlończyk
 Cejlónčanka - Cejlonka
 cejlónsky - cejloński
-celebrita - gwiazda | sławna osoba
+celebrita - gwiazda, sławna osoba
 celé číslo - liczba całkowita
 celibát - celibat
-celkom - całkiem | całkowicie | łącznie
-čelo - czoło | front | przód | wiolonczela
+celkom - całkiem, całkowicie, łącznie
+čelo - czoło, front, przód, wiolonczela
 celulóza - celuloza
 celý boží deň - cały boży dzień
 čembalo - klawesyn
 cement - cement
 cementový - cementowy
-cena - cena | koszt | nagroda | wartość
+cena - cena, koszt, nagroda, wartość
 cencúľ - sopel
 centaurus - centaur
-centrifúga - centryfuga | wirówka
+centrifúga - centryfuga, wirówka
 cenzurovať - cenzurować
 cep - cep
 cér - cer
-ceremoniál - ceremonia | uroczystość
+ceremoniál - ceremonia, uroczystość
 ceremoniálne - ceremonialnie
 ceremoniálnosť - ceremonialność
 ceremoniálny - ceremonialny
 čerešňa - czereśnia
 černica - jeżyna
 čerstvý - świeży
-čert - czart | diabeł
-čert nikdy nespí - diabeł nie śpi | licho nie śpi | złe nie śpi | diabeł nigdy nie śpi
+čert - czart, diabeł
+čert nikdy nespí - diabeł nie śpi, licho nie śpi, złe nie śpi, diabeł nigdy nie śpi
 ceruza - ołówek
 ceruzka - ołówek
 červ - robak
 červená - červený
 Červené more - Morze Czerwone
 červený - czerwony
-červienka - rudzik | czerwonka
+červienka - rudzik, czerwonka
 červivý - robaczywy
 Češka - Czeszka
 Česká republika - Republika Czeska
@@ -1319,17 +1319,17 @@ ceruzka - ołówek
 český - czeski
 cesnak - czosnek
 česť - cześć
-cesta - droga | podróż | sposób | metoda
-cestička - dróżka | ścieżka | alejka | przedziałek (we włosach)
+cesta - droga, podróż, sposób, metoda
+cestička - dróżka, ścieżka, alejka, przedziałek (we włosach)
 čeština - język czeski
 cesto - ciasto
 cestovať - podróżować
 cestovateľ - podróżnik
 Ceuta - Ceuta
-cez - przez | poprzez | dzięki | w czasie | w ciągu
+cez - przez, poprzez, dzięki, w czasie, w ciągu
 cézium - cez
 cezmína - ostrokrzew ( L.)
-chalan - chłopak | chłopiec | kawaler | chłopaczysko | urwis | łobuziak
+chalan - chłopak, chłopiec, kawaler, chłopaczysko, urwis, łobuziak
 chameleón - kameleon
 charakteristický - charakterystyczny
 charakteristika - charakterystyka
@@ -1344,39 +1344,39 @@ chinín - chinina
 chirurg - chirurg
 chirurgia - chirurgia
 chlad - chłód
-chladnička - chłodziarka | lodówka
+chladnička - chłodziarka, lodówka
 chladno - chłodno
 chladný - chłodny
-chlap - mężczyzna | chłop
-chlapec - chłopiec | chłopak
+chlap - mężczyzna, chłop
+chlapec - chłopiec, chłopak
 chlieb - chleb
 chlór - chlor
 chlorofyl - chlorofil
 chlorofylový - chlorofilowy
 chlp - włos
 chmeľ - chmiel
-chod - chód | bieg | ruch | danie
+chod - chód, bieg, ruch, danie
 chodec - przechodzień
 chodidlo - stopa
 chodievať - chodzić
 chodiť - chodzić
-chodník - ścieżka | chodnik
+chodník - ścieżka, chodnik
 cholera - cholera
 cholesterol - cholesterol
 choreograf - choreograf
 choreografia - choreografia
 choroba - choroba
-chorobný - chorobowy | chorobliwy
+chorobný - chorobowy, chorobliwy
 Chorvát - Chorwat
 chorvátčina - język chorwacki
 Chorvátka - Chorwatka
 Chorvátsko - Chorwacja
 chorvátsky - chorwacki
 chorý - chory
-chrabrý - dzielny | mężny | śmiały | waleczny
-chrám - świątynia | kościół
+chrabrý - dzielny, mężny, śmiały, waleczny
+chrám - świątynia, kościół
 chrániť - chronić
-chrbát - plecy | grzbiet | grzbiet górski
+chrbát - plecy, grzbiet, grzbiet górski
 chrbtica - kręgosłup
 chren - chrzan
 chrípka - grypa
@@ -1384,15 +1384,15 @@ chrípkový - grypowy
 chrobák - chrząszcz
 chróm - chrom
 chromozóm - chromosom
-chronický - przewlekły | chroniczny
+chronický - przewlekły, chroniczny
 chronológia - chronologia
 chronologický - chronologiczny
 chronometer - chronometr
 chrt - chart
 chudák - biedak
 chudnúť - chudnąć
-chudoba - bieda | nędza | ubóstwo
-chudobný - biedny | ubogi
+chudoba - bieda, nędza, ubóstwo
+chudobný - biedny, ubogi
 chudobný ako kostolná myš - biedny jak mysz kościelna
 chudokrvnosť - niedokrwistość
 chuj - język chuj
@@ -1400,30 +1400,30 @@ chuligán - chuligan
 chuligánka - chuliganka
 chuligánsky - chuligański
 chuligánstvo - chuligaństwo
-chumaj - kretyn | idiota | dureń
-chuť - smak | apetyt | chęć | ochota
-chutný - smaczny | apetyczny | smakowity | uroczy | czarujący
-chvála - pochwała | chwała
-chvíľa - chwila | moment
+chumaj - kretyn, idiota, dureń
+chuť - smak, apetyt, chęć, ochota
+chutný - smaczny, apetyczny, smakowity, uroczy, czarujący
+chvála - pochwała, chwała
+chvíľa - chwila, moment
 chvíľka - chwilka
 chvost - ogon
 chyba - wada
-chybne - błędnie | nieprawidłowo
-chýrečný - głośny | znany | osławiony
-chytro - szybko | prędko
-chytrý - prędki | szybki | bystry | chyży | rączy | cwany | sprytny | pomysłowy | przebiegły | chytry
-chyža - chałupa | chata
+chybne - błędnie, nieprawidłowo
+chýrečný - głośny, znany, osławiony
+chytro - szybko, prędko
+chytrý - prędki, szybki, bystry, chyży, rączy, cwany, sprytny, pomysłowy, przebiegły, chytry
+chyža - chałupa, chata
 chyžná - pokojówka
-či - czy | lub | albo
+či - czy, lub, albo
 čí - czyj
 čiapka - czapka
 čiara - linia
 čiarka - przecinek
 cíbik - czajka
 cibuľa - cebula
-cica - kicia | kiciuś
+cica - kicia, kiciuś
 cicavec - ssak
-cicka - kiciuś | kociak | kociątko
+cicka - kiciuś, kociak, kociątko
 cieľ - cel
 čierna diera - czarna dziura
 Čierna Hora - Czarnogóra
@@ -1434,12 +1434,12 @@ cieľ - cel
 čierny - czarny
 cifra - cyfra
 Cigán - Cygan
-cigániť - kłamać | cyganić
+cigániť - kłamać, cyganić
 Cigánka - Cyganka
 cigánsky - cygański
 cigara - cygaro
 cigareta - papieros
-cikať - sikać | siusiać
+cikať - sikać, siusiać
 Čile - Chile
 čin - czyn
 cín - cyna
@@ -1447,14 +1447,14 @@ cín - cyna
 Číňan - Chińczyk
 Číňanka - Chinka
 činnosť - czynność
-činný - czynny | aktywny
+činný - czynny, aktywny
 činný rod - strona czynna
 čínsky - chiński
 čínština - język chiński
 cintorín - cmentarz
-čip - czip | chip
+čip - czip, chip
 čipka - koronka
-čipový - chipowy | czipowy
+čipový - chipowy, czipowy
 cirkev - Kościół
 cirkulácia - cyrkulacja
 cirkus - cyrk
@@ -1462,24 +1462,24 @@ cirkusák - cyrkowiec
 cirkusový - cyrkowy
 cirok - sorgo
 cisár - cesarz
-číselný - liczbowy | liczebny | ilościowy
+číselný - liczbowy, liczebny, ilościowy
 číslica - cyfra
-číslo - liczba | numer
+číslo - liczba, numer
 číslovka - liczebnik
 cisterna - cysterna
-čistý - czysty | pełny | zupełny | dokładnie robiony
+čistý - czysty, pełny, zupełny, dokładnie robiony
 čítanie - czytanie
 čítať - czytać
-čitateľ - czytelnik | licznik
+čitateľ - czytelnik, licznik
 čitateľka - czytelniczka
 čitateľný - czytelny
 čitateľský - czytelniczy
-citlivosť - wrażliwość | czułość | delikatność | podatność
+citlivosť - wrażliwość, czułość, delikatność, podatność
 citoslovce - wykrzyknik
 citrón - cytryna
 civilizácia - cywilizacja
 civilizačný - cywilizacyjny
-čiže - czyli | to znaczy
+čiže - czyli, to znaczy
 člen - członek
 členok - kostka
 čln - łódź
@@ -1488,7 +1488,7 @@ clo - cło
 človiečik - człowieczek
 cmar - maślanka
 čmeľ - trzmiel
-cnosť - cnosť | dobra cecha
+cnosť - cnosť, dobra cecha
 čo - co
 čokoláda - czekolada
 čokoládový - czekoladowy
@@ -1496,17 +1496,17 @@ cnosť - cnosť | dobra cecha
 cól - cal
 colnica - urząd celny
 Cookove ostrovy - Wyspy Cooka
-čoskoro - wkrótce | niedługo
+čoskoro - wkrótce, niedługo
 coulomb - kulomb
 čpavok - amoniak
 čremcha - czeremcha
 črieda - stado
-čuch - węch | powonienie
-čuchať - wąchać | węszyć
-čučoriedka - borówka czarna | czarna jagoda ( L.)
-cudzí - cudzy | obcy
+čuch - węch, powonienie
+čuchať - wąchać, węszyć
+čučoriedka - borówka czarna, czarna jagoda ( L.)
+cudzí - cudzy, obcy
 cudzina - zagranica
-cudzinec - cudzoziemiec | obcokrajowiec
+cudzinec - cudzoziemiec, obcokrajowiec
 cudzinecký - cudzoziemski
 cudzinka - cudzoziemka
 cudzoložiť - cudzołożyć
@@ -1519,7 +1519,7 @@ cukráreň - cukiernia
 cukrík - cukierek
 cukrová trstina - trzcina cukrowa
 cukrovina - melasa
-cukrovka - burak cukrowy | cukrzyca
+cukrovka - burak cukrowy, cukrzyca
 cukrový - cukrowy
 cupkavo - drobnym kroczkiem
 curium - kiur
@@ -1527,7 +1527,7 @@ curium - kiur
 cval - cwał
 cvikla - ćwikła
 cyklický - cykliczny
-cyklista - kolarz | cyklista
+cyklista - kolarz, cyklista
 cyklistika - kolarstwo
 cyklistka - rowerzystka
 cyklóna - cyklon
@@ -1535,41 +1535,41 @@ cyperský - cypryjski
 Cyprus - Cypr
 Cyril - Cyryl
 cyrilika - cyrylica
-cyrilo-metodský - cyrylo-metodejski | cyrylo-metodiański | cyrylo-metodyjski
+cyrilo-metodský - cyrylo-metodejski, cyrylo-metodiański, cyrylo-metodyjski
 cyrilský - cyrylijski
 dáčtina - język dacki
 dadaistický - dadaistyczny
 dadaizmus - dadaizm
 Dagestan - Dagestan
 Dagmara - Dagmara
-ďakovať - dziękować | być wdzięcznym | zawdzięczać
+ďakovať - dziękować, być wdzięcznym, zawdzięczać
 dalajláma - dalajlama
 ďaleko - daleko
-ďalekohľad - lornetka | luneta | teleskop
+ďalekohľad - lornetka, luneta, teleskop
 Ďalekohľad - Luneta
 ďalekozrakosť - dalekowzroczność
 ďalekozraký - dalekowzroczny
-ďaleký - daleki | długi
+ďaleký - daleki, długi
 Dalmácia - Dalmacja
-ďalší - dalszy | kolejny
+ďalší - dalszy, kolejny
 daltonista - daltonista
 daltonistka - daltonistka
 daltonizmus - daltonizm
-dáma - dama | hetman | królowa | warcaby
+dáma - dama, hetman, królowa, warcaby
 Dán - Duńczyk
-daň - podatek | danina | haracz
+daň - podatek, danina, haracz
 dánčina - język duński
 Dánka - Dunka
 daňový - podatkowy
 Dánsko - Dania
 dánsky - duński
-dar - prezent | podarunek | dar
+dar - prezent, podarunek, dar
 darmožráč - darmozjad
 darmstadtium - darmsztadt
 daromný - daremny
-darovať - darować | ofiarować | przekazywać
+darovať - darować, ofiarować, przekazywać
 darvinista - darwinista
-darvinistický - darwinistyczny | darwinowski
+darvinistický - darwinistyczny, darwinowski
 darvinizmus - darwinizm
 ďasno - dziąsło
 dať - dać
@@ -1586,18 +1586,18 @@ dav - tłum
 Dávid - Dawid
 dávka - dawka
 dávkovať - dawkować
-dávno - dawno | długo
+dávno - dawno, długo
 dážď - deszcz
 dáždiček - deszczyk
-daždivý - deszczowy | dżdżysty
+daždivý - deszczowy, dżdżysty
 dážďovka - dżdżownica
 dážďovník - jerzyk
 dažďový - deszczowy
 dcéra - córka
 dcéruška - córeczka
-debakel - klęska | porażka
+debakel - klęska, porażka
 debatovať - debatować
-debna - skrzynia | skrzynka
+debna - skrzynia, skrzynka
 Debrecín - Debreczyn
 debutant - debiutant
 debutantka - debiutantka
@@ -1606,21 +1606,21 @@ debutovať - debiutować
 december - grudzień
 decentralizácia - decentralizacja
 decentralizovať - decentralizować
-deci - setka | sto gram
+deci - setka, sto gram
 decibel - decybel
 deciliter - decylitr
 decimeter - decymetr
-decko - dzieciak | dziecko
+decko - dzieciak, dziecko
 dedičnosť - dziedziczność
 dedikácia - dedykacja
 dedikovať - dedykować
-dedina - wieś | wioska
-dedinčan - wieśniak | mieszkaniec wsi
+dedina - wieś, wioska
+dedinčan - wieśniak, mieszkaniec wsi
 dedko - dziadek
-dedo - dziadek | starzec
+dedo - dziadek, starzec
 dedukovať - dedukować
 defekácia - defekacja
-defenzíva - defensywa | obrona
+defenzíva - defensywa, obrona
 defenzívny - defensywny
 deficit - deficyt
 deficitný - deficytowy
@@ -1629,8 +1629,8 @@ definícia - definicja
 definitívne - definitywnie
 definitívny - definitywny
 definovať - definiować
-deformácia - deformacja | zniekształcenie
-deformovať - deformować | deformować się
+deformácia - deformacja, zniekształcenie
+deformovať - deformować, deformować się
 defraudácia - defraudacja
 degenerácia - degeneracja
 degradácia - degradacja
@@ -1641,10 +1641,10 @@ deionizácia - dejonizacja
 deista - deista
 deizmus - deizm
 dejepis - historia
-dejepisný - historyczny | historiograficzny
-dejiny - dzieje | historia
-dekáda - dekada | dziesięć dni
-dekadencia - dekadencja | dekadentyzm
+dejepisný - historyczny, historiograficzny
+dejiny - dzieje, historia
+dekáda - dekada, dziesięć dni
+dekadencia - dekadencja, dekadentyzm
 dekan - dziekan
 deklamácia - deklamacja
 deklamovať - deklamować
@@ -1678,8 +1678,8 @@ demagogický - demagogiczny
 demarkácia - demarkacja
 demarkačný - demarkacyjny
 demaskovať - demaskować
-demencia - demencja | otępienie
-dementi - dementi | sprostowanie
+demencia - demencja, otępienie
+dementi - dementi, sprostowanie
 dementovať - dementować
 demilitarizácia - demilitaryzacja
 demilitarizovať - demilitaryzować
@@ -1692,7 +1692,7 @@ demografka - demografka
 demokracia - demokracja
 demokrat - demokrata
 demokratický - demokratyczny
-demolácia - rozbiórka | burzenie | demolowanie
+demolácia - rozbiórka, burzenie, demolowanie
 demolovať - demolować
 démon - demon
 démonickosť - demoniczność
@@ -1700,15 +1700,15 @@ démonický - demoniczny
 démonizmus - demonizm
 démonizovať - demonizować
 demonštrácia - demonstracja
-demonštrant - demonstrant | uczestnik demonstracji
-demonštrantka - demonstrantka | uczestniczka demonstracji
+demonštrant - demonstrant, uczestnik demonstracji
+demonštrantka - demonstrantka, uczestniczka demonstracji
 demonštrovať - demonstrować
 demontáž - demontaż
 demontovať - demontować
 demoralizácia - demoralizacja
 demoralizovať - demoralizować
-demotivácia - demotywacja | utrata motywacji
-deň - dzień | czasy
+demotivácia - demotywacja, utrata motywacji
+deň - dzień, czasy
 denacionalizácia - denacjonalizacja
 denacionalizovať - denacjonalizować
 denaturát - denaturat
@@ -1733,7 +1733,7 @@ deprivácia - deprywacja
 dermatológ - dermatolog
 dermatológia - dermatologia
 dermatologický - dermatologiczny
-desať - dziesięć | 10
+desať - dziesięć, 10
 desaťboj - dziesięciobój
 desaťročie - dekada
 desiaty - dziesiąty
@@ -1749,7 +1749,7 @@ determinácia - determinacja
 deterministický - deterministyczny
 determinizmus - determinizm
 determinovať - determinować
-deti - dzieci | dieťa
+deti - dzieci, dieťa
 detonácia - detonacja
 detonátor - detonator
 detonovať - detonować
@@ -1758,7 +1758,7 @@ detronizovať - detronizować
 devalvácia - dewaluacja
 devastácia - dewastacja
 devastovať - dewastować
-deväť - dziewięć | 9
+deväť - dziewięć, 9
 deväťdesiat - dziewięćdziesiąt
 deväťdesiaty - dziewięćdziesiąty
 devätnásť - dziewiętnaście
@@ -1766,8 +1766,8 @@ devätnásty - dziewiętnasty
 deväťsto - dziewięćset
 deväťstý - dziewięćsetny
 developerský - deweloperski
-deviácia - dewiacja | odchylenie od normy
-deviant - dewiant | zboczeniec
+deviácia - dewiacja, odchylenie od normy
+deviant - dewiant, zboczeniec
 deviatka - dziewiątka
 deviaty - dziewiąty
 devíza - dewiza
@@ -1789,12 +1789,12 @@ diabetička - diabetyczka
 diabetický - diabetyczny
 diabetik - diabetyk
 diabol - diabeł
-diabolský - diabelski | diabelny
+diabolský - diabelski, diabelny
 diadém - diadem
 diagnostický - diagnostyczny
 diagnostik - diagnostyk
 diagnostika - diagnostyka
-diagnostikovať - diagnozować | zdiagnozować
+diagnostikovať - diagnozować, zdiagnozować
 diagnóza - diagnoza
 diagonálny - diagonalny
 diagram - diagram
@@ -1831,7 +1831,7 @@ dimorfizmus - dymorfizm
 dinár - dinar
 dinosaurus - dinozaur
 dióda - dioda
-Dionýzos - Dionizos | Bachus | Liber | Liber Pater
+Dionýzos - Dionizos, Bachus, Liber, Liber Pater
 diplomacia - dyplomacja
 diplomat - dyplomata
 diplomatický - dyplomatyczny
@@ -1866,38 +1866,38 @@ disproporcia - dysproporcja
 distribúcia - dystrybucja
 distribuovať - dystrybuować
 distribútor - dystrybutor
-divadlo - teatr | przedstawienie teatralne
+divadlo - teatr, przedstawienie teatralne
 divák - widz
 dividenda - dywidenda
 divoký - dziki
 dizajnér - projektant
 dlaň - dłoń
 dláto - dłuto
-dlažba - nawierzchnia | bruk
+dlažba - nawierzchnia, bruk
 dlh - dług
 dlho - długo
 dlhopis - obligacja
 dlhotrvajúci - długotrwały
 dlhý - długi
 dĺžka - długość
-dnes - dziś | dzisiaj
-dnešný - dzisiejszy | współczesny | teraźniejszy
-DNK - kwas deoksyrybonukleinowy | DNA
+dnes - dziś, dzisiaj
+dnešný - dzisiejszy, współczesny, teraźniejszy
+DNK - kwas deoksyrybonukleinowy, DNA
 dno - dno
-do - do | w | na
+do - do, w, na
 dobre - dobrze
 dobré ráno - dzień dobry!
 dobro - dobro
-dobrodružstvo - przygoda | awantura
+dobrodružstvo - przygoda, awantura
 Dobromila - Dobromiła
 Dobroslava - Dobrosława
 dobrovoľník - ochotnik
 dobrú chuť - smacznego!
 dobrú noc - dobranoc
-dobrý - dobry | porządny | dobrze wykonany
+dobrý - dobry, porządny, dobrze wykonany
 dobrý deň - dzień dobry
 dobrý večer - dobry wieczór
-dochovať - odchować | wychować ( dzieci)
+dochovať - odchować, wychować ( dzieci)
 dogma - dogmat
 dogmatický - dogmatyczny
 dogmatik - dogmatyk
@@ -1906,51 +1906,51 @@ dojča - niemowlę
 dojiť - doić
 dokonalosť - doskonałość
 dokončiť - dokończyć
-doktor - doktor | lekarz
+doktor - doktor, lekarz
 doktorandský - doktorancki
 doktorát - doktorat
 doktrína - doktryna
 dokumentácia - dokumentacja
-dokumentarista - dokumentalista | mężczyzna zajmujący się dokumentacją
+dokumentarista - dokumentalista, mężczyzna zajmujący się dokumentacją
 dokumentárny - dokumentalny
 dokumentovať - dokumentować
 dokúpiť - dokupić
 dokupovať - dokupować
 dolár - dolar
-dôležitosť - waga | ważność | istotność
+dôležitosť - waga, ważność, istotność
 dôležitý - ważny
 dolina - dolina
 dolmen - dolmen
 Dolné Sliezsko - Dolny Śląsk
 dom - dom
-doma - w domu | u siebie | w ojczyźnie | we własnym kraju
+doma - w domu, u siebie, w ojczyźnie, we własnym kraju
 domáci - domowy
 domácnosť - gospodarstwo domowe
 doména - domena
-domestikovať - udomawiać | udomowić
+domestikovať - udomawiać, udomowić
 dominancia - dominacja
 dominanta - dominanta
 Dominika - Dominika
 dominikán - dominikanin
-Dominikánska republika - Dominikana | Republika Dominikańska
+Dominikánska republika - Dominikana, Republika Dominikańska
 domino - domino
 dominovať - dominować
-domnienka - przypuszczenie | domysł | domniemanie
-domorodec - tubylec | autochton
-domov - dom rodzinny | ojczyzna | kraj ojczysty | dom | internat | do kraju | do ojczyzny
+domnienka - przypuszczenie, domysł, domniemanie
+domorodec - tubylec, autochton
+domov - dom rodzinny, ojczyzna, kraj ojczysty, dom, internat, do kraju, do ojczyzny
 Don - Don
 doobedie - przedpołudnie
 doping - doping
 doprava - transport
-dopravník - przenośnik taśmowy | przenośnik
+dopravník - przenośnik taśmowy, przenośnik
 dopyt - zapotrzebowanie
 Dorota - Dorota
 doska - deska
 dospelý - dorosły
-dospieť - dorosnąć | dojrzeć
+dospieť - dorosnąć, dojrzeć
 dosť - dość
 dostať - dostać
-dostatočný - dostateczny | wystarczający
+dostatočný - dostateczny, wystarczający
 dostať sa z dážďa pod odkvap - wpaść z deszczu pod rynnę
 dôstojne - godnie
 dôstojník - oficer
@@ -1963,20 +1963,20 @@ dôvera - zaufanie
 dovidenia - do widzenia
 do videnia - do widzenia
 dôvod - dowód
-dôvodný - uzasadniony | udowodniony
-dóza - pojemnik | doza | dawka
-dozimeter - dozymetr | dawkomierz
+dôvodný - uzasadniony, udowodniony
+dóza - pojemnik, doza, dawka
+dozimeter - dozymetr, dawkomierz
 doživotie - dożywocie
 doživotne - dożywotnio
 doživotný - dożywotni
 dozorca - dozorca
 dozorkyňa - dozorczyni
-dráč - zdzierus | lichwiarz | pracuś | nadgorliwiec
+dráč - zdzierus, lichwiarz, pracuś, nadgorliwiec
 dračí - smoczy
 Drahomíra - Drogomira
 Drahoslava - Drogosława
-drahý - drogi | cenny | kochany
-drak - smok | latawiec
+drahý - drogi, cenny, kochany
+drak - smok, latawiec
 dráma - dramat
 dramatický - dramatyczny
 dramaturg - dramaturg
@@ -1988,9 +1988,9 @@ Drážďanka - drezdenka
 drážďanský - drezdeński
 Drážďany - Drezno
 dráždec - łechtaczka
-dráždiť - drażnić | niepokoić
+dráždiť - drażnić, niepokoić
 drevený - drewniany
-drevo - drewno | drzewo
+drevo - drewno, drzewo
 driemať - drzemać
 drobný - drobny
 droga - narkotyk
@@ -2001,54 +2001,54 @@ drôt - drut
 drôtik - drucik
 drozd - drozd
 drozd čierny - kos
-drsný - szorstki | ostry | bez wrażliwości
+drsný - szorstki, ostry, bez wrażliwości
 druh - gatunek
 druhý - drugi
-držať - ściskać | trzymać
+držať - ściskać, trzymać
 držať jazyk za zubami - trzymać język za zębami
-duál - liczba podwójna | dualis
+duál - liczba podwójna, dualis
 dualistický - dualistyczny
 dualizmus - dualizm
-dub - dąb ( L.) | dąb
+dub - dąb ( L.), dąb
 Dublin - Dublin
 ďubník trojprstý - dzięcioł trójpalczasty
 dubnium - dubn
 dubový - dębowy
 Dubrovník - Dubrownik
-duch - duch | dusza
+duch - duch, dusza
 dudok - dudek
 dúfať - mieć nadzieję
-dúha - tęcza | klepka
+dúha - tęcza, klepka
 ďumbier - imbir
 Dunaj - Dunaj (rzeka w Europie)
 Dunajec - Dunajec
 dunčo - pies
 duplikácia - duplikacja
 duplikát - duplikat
-duša - dusza | dętka
+duša - dusza, dętka
 Dušanbe - Duszanbe
 dusík - azot
-dva - dwa | 2
+dva - dwa, 2
 dvadsať - dwadzieścia
 dvadsiaty - dwudziesty
 dvaja - dwóch
 dvakrát - dwa razy
-dvanásť - dwanaście | 12
+dvanásť - dwanaście, 12
 dvanásty - dwunasty
 dvere - drzwi
-dvesto - dwieście | 200
-dvetisíc - dwa tysiące | 2000
+dvesto - dwieście, 200
+dvetisíc - dwa tysiące, 2000
 dvojbodka - dwukropek
 dvojča - bliźniak
 dvojciferný - dwucyfrowy
 dvojčlen - dwumian
-dvojhláska - dwugłoska | dyftong
+dvojhláska - dwugłoska, dyftong
 dvojjazyčný - dwujęzyczny
-dvojstý - dwusetny | dwóchsetny
-dvorný - dworny | nadworny
+dvojstý - dwusetny, dwóchsetny
+dvorný - dworny, nadworny
 dýchať - oddychać
 dym - dym
-dynamickosť - dynamika | dynamiczność
+dynamickosť - dynamika, dynamiczność
 dynamický - dynamiczny
 dynamit - dynamit
 dynamizmus - dynamizm
@@ -2057,34 +2057,34 @@ dysgrafia - dysgrafia
 dyslexia - dysleksja
 dyspraxia - dyspraksja
 dysprózium - dysproz
-dyzentéria - dyzenteria | czerwonka
+dyzentéria - dyzenteria, czerwonka
 džbán - dzban
 džem - dżem
 džentlmen - dżentelmen
-džez - dżez | jazz
+džez - dżez, jazz
 džezový - jazzowy
 Džibuti - Dżibuti
 Džibutsko - Dżibuti
-džibutský - dżibutyjski | dżibucki
+džibutský - dżibutyjski, dżibucki
 džihád - dżihad
-džíp - dżip | jeep
+džíp - dżip, jeep
 džudista - dżudoka
-džudo - judo | dżudo
+džudo - judo, dżudo
 džungľa - dżungla
 džús - sok
 ebonit - ebonit
-edícia - edycja | wydanie
+edícia - edycja, wydanie
 Edita - Edyta
-editovať - edytować | wydawać
+editovať - edytować, wydawać
 edukácia - edukacja
 edukačný - edukacyjny
 Egejské more - Morze Egejskie
 egejský - egejski
 egocentrik - egocentryk
 egocentrizmus - egocentryzm
-egoista - egoista | samolub | sobek
+egoista - egoista, samolub, sobek
 egoistka - egoistka
-egoizmus - egoizm | samolubstwo | sobkostwo
+egoizmus - egoizm, samolubstwo, sobkostwo
 Egypt - Egipt
 Egypťan - Egipcjanin
 Egypťanka - Egipcjanka
@@ -2106,7 +2106,7 @@ ekumenický - ekumeniczny
 ekumenizácia - ekumenizacja
 ekumenizmus - ekumenizm
 Ekvádor - Ekwador
-ekvivalent - ekwiwalent | odpowiednik
+ekvivalent - ekwiwalent, odpowiednik
 elaborát - elaborat
 elastický - elastyczny
 Elbrus - Elbrus
@@ -2149,14 +2149,14 @@ Elvíra - Elwira
 emancipácia - emancypacja
 emancipačný - emancypacyjny
 emancipovať - emancypować
-embryo - embrion | zarodek
+embryo - embrion, zarodek
 embryológia - embriologia
 embryonálny - embrionalny
 emigrácia - emigracja
 emigrant - emigrant
 emigrantka - emigrantka
 emigrantský - emigracyjny
-emigrovať - emigrować | wyemigrować
+emigrovať - emigrować, wyemigrować
 Emília - Emilia
 emirát - emirat
 emisia - emisja
@@ -2165,7 +2165,7 @@ emócia - emocja
 emocionálne - emocjonalnie
 emocionálnosť - emocjonalność
 emocionálny - emocjonalny
-empatia - empatia | współodczuwanie
+empatia - empatia, współodczuwanie
 empatický - empatyczny
 empirik - empiryk
 empirizmus - empiryzm
@@ -2178,7 +2178,7 @@ endogenéza - endogeneza
 endogénny - endogenny
 endokrinológ - endokrynolog
 endokrinológia - endokrynologia
-endokrinologička - kobieta endokrynolog | endokrynolożka
+endokrinologička - kobieta endokrynolog, endokrynolożka
 endokrinologický - endokrynologiczny
 endoskopia - endoskopia
 energetický - energetyczny
@@ -2193,15 +2193,15 @@ entuziazmus - entuzjazm
 enzým - enzym
 eocén - eocen
 epicentrum - epicentrum
-epický - epicki | epiczny
+epický - epicki, epiczny
 epidémia - epidemia
 epidemický - epidemiczny
 epidemiológia - epidemiologia
 epidemiologický - epidemiologiczny
 epigón - epigon
-epigram - epigram | epigramat
+epigram - epigram, epigramat
 epilácia - epilacja
-epilepsia - epilepsja | padaczka
+epilepsia - epilepsja, padaczka
 epileptička - epileptyczka
 epileptický - epileptyczny
 epileptik - epileptyk
@@ -2234,7 +2234,7 @@ eskalácia - eskalacja
 eskalátor - schody ruchome
 eskalovať - eskalować
 Eskimáčka - Eskimoska
-Eskimák - Eskimos | mgławica Eskimos
+Eskimák - Eskimos, mgławica Eskimos
 eskortovať - eskortować
 eso - as
 esperantista - esperantysta
@@ -2256,7 +2256,7 @@ eternit - eternit
 eternitový - eternitowy
 eticky - etycznie
 etický - etyczny
-etiketa - etykieta | etykietka | nalepka
+etiketa - etykieta, etykietka, nalepka
 Etiópčan - Etiopczyk
 Etiópčanka - Etiopka
 Etiópia - Etiopia
@@ -2284,12 +2284,12 @@ euro - euro
 euroázijský - eurazjatycki
 Európa - Europa
 europeizácia - europeizacja
-europeizovať - europeizować | europeizować się
+europeizovať - europeizować, europeizować się
 európium - europ
 Európska únia - Unia Europejska
 európsky - europejski
 eutanázia - eutanazja
-eutektikum - eutektyk | eutektyka | mieszanina eutektyczna
+eutektikum - eutektyk, eutektyka, mieszanina eutektyczna
 Eva - Ewa
 evakuácia - ewakuacja
 evakuovať - ewakuować
@@ -2313,17 +2313,17 @@ exhibicionistický - ekshibicjonistyczny
 exhibicionizmus - ekshibicjonizm
 exhumácia - ekshumacja
 exhumovať - ekshumować
-existencia - egzystencja | byt | indywiduum | istota
+existencia - egzystencja, byt, indywiduum, istota
 existencialista - egzystencjalista
 existencializmus - egzystencjalizm
-existovanie - egzystowanie | istnienie
-existovať - istnieć | żyć
+existovanie - egzystowanie, istnienie
+existovať - istnieć, żyć
 exkavátor - koparka
-exkluzívny - ekskluzywny | wyłączny
-exodus - exodus | migracja
+exkluzívny - ekskluzywny, wyłączny
+exodus - exodus, migracja
 expanzia - ekspansja
-expanzívne - ekspansywnie | ekspansyjnie
-expanzívny - ekspansywny | ekspansyjny
+expanzívne - ekspansywnie, ekspansyjnie
+expanzívny - ekspansywny, ekspansyjny
 expedícia - ekspedycja
 experiment - eksperyment
 experimentálny - eksperymentalny
@@ -2382,25 +2382,25 @@ fanaticky - fanatycznie
 fanatický - fanatyczny
 fanatizmus - fanatyzm
 farad - farad
-faraón - faraon | mrówka faraona | faraonka ( L.)
+faraón - faraon, mrówka faraona, faraonka ( L.)
 faraónsky - faraoński
-farba - kolor | barwa | karnacja (skóry) | farba | tembr (np. głosu) | maść (zwierząt)
+farba - kolor, barwa, karnacja (skóry), farba, tembr (np. głosu), maść (zwierząt)
 farizej - faryzeusz
-farizejsky - faryzejsko | faryzeuszowsko
-farizejský - faryzejski | faryzeuszowski
-farizejstvo - faryzejstwo | faryzeuszostwo
-farmaceut - farmaceuta | aptekarz | student farmacji
+farizejsky - faryzejsko, faryzeuszowsko
+farizejský - faryzejski, faryzeuszowski
+farizejstvo - faryzejstwo, faryzeuszostwo
+farmaceut - farmaceuta, aptekarz, student farmacji
 farmaceutický - farmaceutyczny
-farmaceutka - farmaceutka | studentka farmacji
+farmaceutka - farmaceutka, studentka farmacji
 farmakológ - farmakolog
 farmakológia - farmakologia
-farmakologička - farmakolożka | kobieta farmakolog
+farmakologička - farmakolożka, kobieta farmakolog
 farmakologický - farmakologiczny
 fasáda - fasada
 fasádový - fasadowy
 fascinácia - fascynacja
-fašiangový - karnawałowy | mięsopustny | zapustny
-fašiangy - karnawał | mięsopust | ostatki
+fašiangový - karnawałowy, mięsopustny, zapustny
+fašiangy - karnawał, mięsopust, ostatki
 fašista - faszysta
 fašistický - faszystowski
 fašizmus - faszyzm
@@ -2421,13 +2421,13 @@ feministka - feministka
 feminizmus - feminizm
 fenol - fenol
 fenylalanín - fenyloalanina
-fenylketonúria - fenyloketonuria | oligofrenia fenylopirogronowa
+fenylketonúria - fenyloketonuria, oligofrenia fenylopirogronowa
 fermium - ferm
 festival - festiwal
 feudalizmus - feudalizm
-fialový - fioletowy | liliowy
+fialový - fioletowy, liliowy
 Fidži - Fidżi
-figľovať - figlować | płatać figle
+figľovať - figlować, płatać figle
 figurína - manekin
 filé - filet
 filharmónia - filharmonia
@@ -2437,7 +2437,7 @@ Filipínec - Filipińczyk
 Filipínka - Filipinka
 filipínsky - filipiński
 Filipíny - Filipiny
-film - film | błona | warstewka
+film - film, błona, warstewka
 filmotéka - filmoteka
 filológia - filologia
 filozof - filozof
@@ -2453,10 +2453,10 @@ finančný žralok - rekin finansowy
 fínčina - język fiński
 Fínka - Finka
 Fínsko - Finlandia
-fínsky - fiński | po fińsku
+fínsky - fiński, po fińsku
 firn - firn
 fjord - fiord
-fľaša - butelka | flaszka
+fľaša - butelka, flaszka
 flauta - flet
 flerovium - flerow
 flóra - flora
@@ -2471,9 +2471,9 @@ fond - fundusz
 fonéma - fonem
 fonetika - fonetyka
 fontána - fontanna
-formovanie - formowanie | kształtowanie
-formulovať - formułować | sformułować
-fosfát - fosforan | fosforečnan
+formovanie - formowanie, kształtowanie
+formulovať - formułować, sformułować
+fosfát - fosforan, fosforečnan
 fosfor - fosfor
 fosforečnan - fosforan
 fotka - fotka
@@ -2482,7 +2482,7 @@ fotograf - fotograf (mężczyzna)
 fotografia - fotografia
 fotografický - fotograficzny
 fotografista - fotograf
-fotografovanie - fotografia | fotografowanie
+fotografovanie - fotografia, fotografowanie
 fotografovať - fotografować
 fotokópia - fotokopia
 fotomodelka - fotomodelka
@@ -2501,24 +2501,24 @@ Františka - Franciszka
 fráza - fraza
 frazeologický - frazeologiczny
 Frederika - Fryderyka
-frekvencia - frekwencja | godzina szczytu | wzmożony ruch | częstotliwość
+frekvencia - frekwencja, godzina szczytu, wzmożony ruch, częstotliwość
 Frízsko - Fryzja
 frízština - język fryzyjski
 fruktóza - fruktoza
 frutariánstvo - frutarianizm
-fúkať - wiać | dąć | dmuchać
+fúkať - wiać, dąć, dmuchać
 funkcia - funkcja
-futbal - piłka nożna | futbol
+futbal - piłka nożna, futbol
 futurológ - futurolog
 futurológia - futurologia
 futurologický - futurologiczny
-fúzy - wąsy | fúz
+fúzy - wąsy, fúz
 fytopatológia - fitopatologia
 fytoterapia - ziołolecznictwo
 fyzik - fizyk
 fyzika - fizyka
 fyziognómia - fizjonomia
-GABA - GABA | kwas γ-aminomasłowy
+GABA - GABA, kwas γ-aminomasłowy
 Gabon - Gabon
 Gabriela - Gabriela
 gadolínium - gadolin
@@ -2538,7 +2538,7 @@ Galilea - Galilea (kraina)
 gálium - gal
 Gambia - Gambia
 Ganga - Ganges
-gangréna - gangrena | zgorzel
+gangréna - gangrena, zgorzel
 gangsterský - gangsterski
 garancia - gwarancja
 garantovať - gwarantować
@@ -2570,7 +2570,7 @@ generalizovať - generalizować
 generálne - generalnie
 generátor - generator
 generovať - generować
-genetický - genetyczny | dotyczący genezy
+genetický - genetyczny, dotyczący genezy
 genetik - genetyk
 genetika - genetyka
 genéza - geneza
@@ -2617,7 +2617,7 @@ gladiátor - gladiator
 glazúra - glazura
 glazúrový - glazurowy
 globalizácia - globalizacja
-globálne - globalnie | globálny
+globálne - globalnie, globálny
 globálne otepľovanie - globalne ocieplenie
 globálny - globalny
 glóbus - globus
@@ -2634,7 +2634,7 @@ gól - gol
 golf - golf
 Golgota - Golgota
 golier - kołnierz
-gombár - guzikarz | szmuklerz | sprzedawca guzików
+gombár - guzikarz, szmuklerz, sprzedawca guzików
 gombíček - guziczek
 gombík - guzik
 gondola - gondola
@@ -2657,7 +2657,7 @@ gréckokatolíčka - grekokatoliczka
 gréckokatolícky - greckokatolicki
 gréckokatolík - grekokatolik
 grécky - grecki
-gréčtina - greka | język grecki
+gréčtina - greka, język grecki
 gregoriánsky - gregoriański
 Grék - Grek
 Grékyňa - Greczynka
@@ -2677,7 +2677,7 @@ Guatemala - Gwatemala
 gubernátor - gubernator
 Guinea - Gwinea
 Guinea-Bissau - Gwinea Bissau
-guľa - sfera | kula | nabój
+guľa - sfera, kula, nabój
 gulag - gułag
 guláš - gulasz
 guľáš - gulasz
@@ -2702,9 +2702,9 @@ hafnium - hafn
 Haifa - Hajfa
 Haiti - Haiti
 haitský - haitański
-haja tmavá - kania czarna | kania brunatna
+haja tmavá - kania czarna, kania brunatna
 Hajfa - Hajfa
-hala - hol | westybul | hala
+hala - hol, westybul, hala
 Halič - Galicja
 Haličan - Galicjanin
 Haličanka - Galicjanka
@@ -2743,13 +2743,13 @@ hedonizmus - hedonizm
 Hedviga - Jadwiga
 hegemón - hegemon
 hegemónia - hegemonia
-hej - tak | aha | hej | ej | ach
+hej - tak, aha, hej, ej, ach
 hektár - hektar
 hektárový - hektarowy
 hektoliter - hektolitr
 hektolitrový - hektolitrowy
 heligónka - heligonka
-helikoptéra - helikopter | śmigłowiec
+helikoptéra - helikopter, śmigłowiec
 helio- - helio-
 heliocentrický - heliocentryczny
 heliocentrizmus - heliocentryzm
@@ -2763,7 +2763,7 @@ helsinský - helsiński
 hematológ - hematolog
 hematológia - hematologia
 hematologický - hematologiczny
-hemisféra - hemisfera | półkula
+hemisféra - hemisfera, półkula
 hemofília - hemofilia
 hemoglobín - hemoglobina
 hemoglobínový - hemoglobinowy
@@ -2808,24 +2808,24 @@ historiograf - historiograf
 historiografia - historiografia
 historiografický - historiograficzny
 historizmus - historyzm
-historka - historyjka | opowiastka
+historka - historyjka, opowiastka
 hlad - głód
-hľadať - szukać | poszukiwać | wyszukiwać
+hľadať - szukać, poszukiwać, wyszukiwać
 hľadať ihlu v kope sena - szukać igły w stogu siana
-hladký - gładki | delikatny | drobny
-hladný - głodny | żądny | chciwy
+hladký - gładki, delikatny, drobny
+hladný - głodny, żądny, chciwy
 hladomor - klęska głodu
 hladovka - głodówka
 hladový - głodowy
 hlaholika - głagolica
 hlaholka - gągoł
 hlas - głos
-hlasitý - głośny | gromki
+hlasitý - głośny, gromki
 hláska - głoska
 hlasovací - wyborczy
 hlasovanie - głosowanie
 hlasovať - głosować
-hlava - głowa | głowa (rozum, intelekt, umysł) | głowa (jednostka) | głowa (przywódca, szef, najważniejsza osoba w jakiejś zbiorowości) | główka (rzecz kulista przypominająca głowę 1.1)
+hlava - głowa, głowa (rozum, intelekt, umysł), głowa (jednostka), głowa (przywódca, szef, najważniejsza osoba w jakiejś zbiorowości), główka (rzecz kulista przypominająca głowę 1.1)
 hlava rodiny - głowa rodziny
 hlavné mesto - stolica
 hlavný - główny
@@ -2836,37 +2836,37 @@ hlina - glina
 hliník - glin
 hlista - dżdżownica
 hloh - głóg
-hlt - łyk | haust
-hltať - połykać | łykać
+hlt - łyk, haust
+hltať - połykać, łykać
 hlucháň - głuszec
 hluchota - głuchota
 hluchý - głuchy
 hluchý ako peň - głuchy jak pień
 hluk - hałas
-hlupák - dureń | głupiec | bałwan
+hlupák - dureń, głupiec, bałwan
 hlúpo - głupio
 hlúpy - głupi
 hlúpy ako peň - głupi jak but
 hmla - mgła
 hmlistý - mglisty
 hmlovina - mgławica
-hmota - materia | substancja | masa | materiał | tworzywo | tkanka
+hmota - materia, substancja, masa, materiał, tworzywo, tkanka
 hmotnosť - masa
 hmyz - owad
 hnačka - biegunka
-hneď - brąz | zaraz | za chwilę
+hneď - brąz, zaraz, za chwilę
 hnedý - brązowy
 hniezdo - gniazdo
 hnilý - zgniły
 hnis - ropa
-hnisavý - ropny | ropiejący | gnijący
+hnisavý - ropny, ropiejący, gnijący
 hniť - gnić
-hnoj - gnój | łajno | gnojowisko | kupa gnoju
+hnoj - gnój, łajno, gnojowisko, kupa gnoju
 hnojivo - nawóz
-hnusný - wstrętny | obrzydliwy | okrutny
+hnusný - wstrętny, obrzydliwy, okrutny
 hoboj - obój
 hod - rzut
-hodina - godzina | pora dnia
+hodina - godzina, pora dnia
 hodinky - zegarek
 hodiny - zegar
 hodváb - jedwab (przędza)
@@ -2882,7 +2882,7 @@ Holandsko - Holandia
 holandský - holenderski
 holmium - holm
 holub - gołąb
-holý - goły | nagi | łysy | pusty | czysty
+holý - goły, nagi, łysy, pusty, czysty
 homár - homar
 homeopatia - homeopatia
 Homér - Homer
@@ -2892,7 +2892,7 @@ Honduras - Honduras
 Hongkong - Hongkong
 hongkonský - hongkoński
 Honolulu - Honolulu
-hora - góra | kupa | las
+hora - góra, kupa, las
 horčík - magnez
 hore - w górę
 horizont - horyzont
@@ -2921,20 +2921,20 @@ hotelový - hotelowy
 hovädo - bydlę
 hovädzí - wołowy
 hovno - gówno
-hovoriť - mówić | rozmawiać | władać językiem
-hra - gra | zabawa | sztuka
+hovoriť - mówić, rozmawiać, władać językiem
+hra - gra, zabawa, sztuka
 hrable - grabie
-hráč - gracz | zawodnik | muzyk | muzykant
+hráč - gracz, zawodnik, muzyk, muzykant
 hrach - groch
 hrad - zamek
-hradba - mur | mur obronny
-hrana - krawędź | kant
+hradba - mur, mur obronny
+hrana - krawędź, kant
 hranica - granica
 hrať - grać
 hrať prvé husle - grać pierwsze skrzypce
 hrať s otvorenými kartami - grać w otwarte karty
 hrb - garb
-hŕba - kupa | góra | stos
+hŕba - kupa, góra, stos
 hrbatý - garbaty
 hrdina - bohater
 hrdinka - bohaterka
@@ -2943,42 +2943,42 @@ hrdlo - gardło
 hrdý - dumny
 hrdza - rdza
 hrdzavieť - rdzawieć
-hrdzavý - zardzewiały | rdzawy
+hrdzavý - zardzewiały, rdzawy
 hrešiť - grzeszyć
 hrianka - grzanka
 hríbár - grzybiarz
-hriech - grzech | skandal
+hriech - grzech, skandal
 hriešnik - grzesznik
 hriva - grzywa
 hrob - grób
-hrobka - grobowiec | krypta
+hrobka - grobowiec, krypta
 hrobové ticho - grobowa cisza
 hroch - hipopotam
-hrom - grom | piorun
+hrom - grom, piorun
 hromadiť - gromadzić
 Hromnice - Obetovanie Pána
 hromnička - gromnica
-hromničný - związany ze świętem Matki Boskiej Gromnicznej | dotyczący święta Matki Boskiej Gromnicznej
+hromničný - związany ze świętem Matki Boskiej Gromnicznej, dotyczący święta Matki Boskiej Gromnicznej
 hroziť - grozić
 hrozno - winogrono
 hroznový - winogronowy
-hrsť - garść | garstka | niewielka ilość
+hrsť - garść, garstka, niewielka ilość
 hrtan - krtań
-hruď - pierś | mostek
+hruď - pierś, mostek
 hrudník - klatka piersiowa
 hruška - gruszka
 hrýzť - gryźć
 huba - grzyb
 hubár - grzybiarz
 hudba - muzyka
-hudobník - muzyk | grający na instrumencie muzycznym
+hudobník - muzyk, grający na instrumencie muzycznym
 húfnica - haubica
 humanistka - humanistka
 humanizácia - humanizacja
 humanizmus - humanizm
 hurikán - huragan
-hus - gęś ( L.) | gęś
-húsa - gąska | gąsiątko
+hus - gęś ( L.), gęś
+húsa - gąska, gąsiątko
 húsatko - gąsiątko
 húsenica - gąsienica
 husí - gęsi
@@ -2990,14 +2990,14 @@ hustota - gęstość
 hustý - gęsty
 huta - huta
 hviezda - gwiazda
-hviezdička - gwiazdeczka | gwiazdka
+hviezdička - gwiazdeczka, gwiazdka
 hviezdny - gwiezdny
 hvizdák - kulik
 hvízdať - gwizdać
 hybridizácia - hybrydyzacja
 Hydra - Hydra
 hydrant - hydrant
-hydrogenácia - uwodornianie | uwodornienie | hydrogenizacja
+hydrogenácia - uwodornianie, uwodornienie, hydrogenizacja
 hyena - hiena
 Hygieia - Higieja
 hygiena - higiena
@@ -3023,7 +3023,7 @@ hystericky - histerycznie
 hysterický - histeryczny
 hysterik - histeryk
 i - i
-iba - tylko | jedynie
+iba - tylko, jedynie
 Iberský polostrov - Półwysep Iberyjski
 ibis - ibis
 ich - ich
@@ -3036,7 +3036,7 @@ idea - idea
 ideál - ideał
 ideológia - ideologia
 ideový - ideowy
-idiot - idiota | dureń | kretyn
+idiot - idiota, dureń, kretyn
 idiotka - idiotka
 Ignác - Ignacy
 ihla - igła
@@ -3052,7 +3052,7 @@ ilúzia - iluzja
 iluzionista - iluzjonista
 iluzionistický - iluzjonistyczny
 iluzionizmus - iluzjonizm
-imanie - mienie | majątek | dobytek
+imanie - mienie, majątek, dobytek
 imbecil - imbecyl
 imbecilka - imbecylka
 imelo - jemioła ( L.)
@@ -3063,10 +3063,10 @@ imigrantka - imigrantka
 imitácia - imitacja
 imitovať - imitować
 impedancia - impedancja
-imperátor - imperator | cesarz
+imperátor - imperator, cesarz
 imperialistický - imperialistyczny
 imperializmus - imperializm
-impersonálny - impersonalny | nieosobowy | bezosobowy
+impersonálny - impersonalny, nieosobowy, bezosobowy
 impertinencia - impertynencja
 implementácia - implementacja
 implementovať - implementować
@@ -3088,7 +3088,7 @@ improvizátor - improwizator
 improvizátorka - improwizatorka
 improvizátorský - improwizatorski
 improvizovať - improwizować
-impulz - impuls | bodziec
+impulz - impuls, bodziec
 imunológ - immunolog
 imunológia - immunologia
 imunologický - immunologiczny
@@ -3128,7 +3128,7 @@ inercia - inercja
 infant - infant
 infekcia - infekcja
 infekčný - infekcyjny
-infikovať - infekować | zainfekować
+infikovať - infekować, zainfekować
 inflácia - inflacja
 inflačný - inflacyjny
 informácia - informacja
@@ -3143,15 +3143,15 @@ ingerencia - ingerencja
 ingerovať - ingerować
 inhalácia - inhalacja
 inhalačný - inhalacyjny
-injekcia - zastrzyk | iniekcja
-inšpekcia - inspekcja | kontrola
+injekcia - zastrzyk, iniekcja
+inšpekcia - inspekcja, kontrola
 inšpekčný - inspekcyjny
 inšpirácia - inspiracja
 inšpirátor - inspirator
 inšpirátorka - inspiratorka
 inšpirovať - inspirować
 inštalácia - instalacja
-inštalovať - instalować | zainstalować
+inštalovať - instalować, zainstalować
 inštancia - instancja
 inštinkt - instynkt
 inštinktívny - instynktowny
@@ -3186,8 +3186,8 @@ inventarizovať - inwentaryzować
 investícia - inwestycja
 investičný - inwestycyjny
 investor - inwestor
-investovať - inwestować | zainwestować
-iný - inny | inny człowiek | druga osoba
+investovať - inwestować, zainwestować
+iný - inny, inny człowiek, druga osoba
 inžinier - inżynier
 inžiniersky - inżynierski
 inzulín - insulina
@@ -3220,7 +3220,7 @@ ireálne - irrealnie
 ireálny - irrealny
 irídium - iryd
 irigácia - irygacja
-iritácia - irytacja | rozdrażnienie
+iritácia - irytacja, rozdrażnienie
 iritovať - irytować
 Írka - Irlandka
 Irkutsk - Irkuck
@@ -3233,13 +3233,13 @@ ironizovať - ironizować
 iskierka - iskierka
 iskra - iskra
 islam - islam
-islamský - islamski | muzułmański
+islamský - islamski, muzułmański
 Island - Islandia
 Islanďan - Islandczyk
 Islanďanka - Islandka
 islandčina - język islandzki
 islandský - islandzki
-ísť - iść | chodzić | jechać | podróżować
+ísť - iść, chodzić, jechać, podróżować
 ísť cez mŕtvoly - iść po trupach
 Izák - Izaak
 izba - pokój
@@ -3252,7 +3252,7 @@ Izraelčan - Izraelczyk
 Izraelčanka - Izraelka
 izraelský - izraelski
 ja - ja
-jablčný - jabłkowy | jabłeczny
+jablčný - jabłkowy, jabłeczny
 jablko - jabłko
 jablko padá ďaleko od stromu - niedaleko pada jabłko od jabłoni
 jablkový - jabłkowy
@@ -3260,17 +3260,17 @@ jabloň - jabłoń
 jačmeň - jęczmień
 jačmenný - jęczmienny
 Jadranské more - Morze Adriatyckie
-jadro - pestka | ziarno | jądro | rdzeń | ośrodek | centrum | istota | sedno | sens
+jadro - pestka, ziarno, jądro, rdzeń, ośrodek, centrum, istota, sedno, sens
 jadrový - jądrowy
 jahňa - jagnię
-jahoda - poziomka (,  L.) | poziomka | truskawka | jagoda
-jahodový - poziomkowy | truskawkowy
+jahoda - poziomka (,  L.), poziomka, truskawka, jagoda
+jahodový - poziomkowy, truskawkowy
 jak - jak
 Jakub - Jakub
 jama - dół
 Jamajka - Jamajka
 Janov - Genua
-jantár - bursztyn | jantar
+jantár - bursztyn, jantar
 január - styczeń
 japončina - język japoński
 Japonec - Japończyk
@@ -3287,52 +3287,52 @@ jarný - wiosenny
 jaseň - jesion
 jaskyňa - jaskinia
 jasnozelený - jasnozielony
-jasný - jasny | wyraźny
+jasný - jasny, wyraźny
 jaspis - jaspis
 jastrab - jastrząb
 jastrabí - jastrzębi
-jastrab lesný - jastrząb zwyczajny | jastrząb | jastrząb gołębiarz
-jastrab obyčajný - jastrząb zwyczajny | jastrząb | jastrząb gołębiarz
+jastrab lesný - jastrząb zwyczajny, jastrząb, jastrząb gołębiarz
+jastrab obyčajný - jastrząb zwyczajny, jastrząb, jastrząb gołębiarz
 jav - zjawisko
-javor - klon ( L.) | drewno klonu
+javor - klon ( L.), drewno klonu
 javorový - klonowy
-jazda - jazda | konnica | kawaleria
+jazda - jazda, konnica, kawaleria
 jazdec - jeździec
 jazdecký - jeździecki
 jazdectvo - jeździectwo
 jazero - jezioro
 jazva - blizna
-jazvec - borsuk | jaźwiec
-jazyk - język (mowa) | język
+jazvec - borsuk, jaźwiec
+jazyk - język (mowa), język
 jazykoveda - językoznawstwo
 jazykovedec - językoznawca
 jazykový - językowy
 jebať - jebać
-jed - jad | złość
+jed - jad, złość
 jeden - jeden
-jedenásť - jedenaście | 11
+jedenásť - jedenaście, 11
 jedenásty - jedenasty
 jedenie - jedzenie
 jeden za všetkých, všetci za jedného - jeden za wszystkich, wszyscy za jednego
 jedináčik - jedynak
 jediný - jedyny
 jedľa - jodła
-jedlo - potrawa | danie | jedzenie | posiłek
-jednako - jednakowo | tak samo | a jednak | mimo wszystko
-jedna lastovička nerobí leto - jedna jaskółka nie czyni wiosny | jedna jaskółka nie czyni lata
+jedlo - potrawa, danie, jedzenie, posiłek
+jednako - jednakowo, tak samo, a jednak, mimo wszystko
+jedna lastovička nerobí leto - jedna jaskółka nie czyni wiosny, jedna jaskółka nie czyni lata
 jednobožstvo - jednobóstwo
 jednobunkový - jednokomórkowy
 jednodetný - mający jedno dziecko
-jednoduchý - łatwy | prosty | nieskomplikowany | zwyczajny | skromny
+jednoduchý - łatwy, prosty, nieskomplikowany, zwyczajny, skromny
 jednorožec - jednorożec
-jednosmerný - jednokierunkowy | jednostronny
-jednotka - jedynka | jednostka
+jednosmerný - jednokierunkowy, jednostronny
+jednotka - jedynka, jednostka
 jednotné číslo - liczba pojedyncza
-jedovatý - trujący | toksyczny | zjadliwy | jadowity
+jedovatý - trujący, toksyczny, zjadliwy, jadowity
 jeho - jego
 jej - jej
 jeleň - jeleń
-jelša - olcha | olsza
+jelša - olcha, olsza
 Jemen - Jemen
 jen - jen
 Jenisej - Jenisej
@@ -3383,7 +3383,7 @@ Juhoslovanka - Jugosłowianka
 juhoslovanský - jugosłowiański
 júl - lipiec
 jún - czerwiec
-Jupiter - Jowisz | Jupiter
+Jupiter - Jowisz, Jupiter
 jura - jura
 Juraj - Jerzy
 jurta - jurta
@@ -3400,9 +3400,9 @@ Južný kríž - Krzyż Południa
 Južný oceán - Ocean Południowy
 Južný Sudán - Sudan Południowy
 Južný trojuholník - Trójkąt Południowy
-k - k | do | pod | przy
+k - k, do, pod, przy
 kabaret - kabaret
-kabát - płaszcz | marynarka | żakiet
+kabát - płaszcz, marynarka, żakiet
 kábel - kabel
 kabelka - torebka (damska)
 kabína - kabina
@@ -3412,10 +3412,10 @@ Kábul - Kabul
 Kábulčan - kabulczyk
 Kábulčanka - kabulka
 kábulský - kabulski
-kačica - kaczka | kaczka właściwa/pływająca
+kačica - kaczka, kaczka właściwa/pływająca
 kačica divá - kaczka krzyżówka
 kačica hvizdárka - świstun
-kačka - kaczka | kačica
+kačka - kaczka, kačica
 kaderník - fryzjer (damski)
 kadidlo - kadzidło
 kadidlový - kadzidłowy
@@ -3467,7 +3467,7 @@ kalužiak - brodziec
 kalvinista - kalwinista
 kalvinistka - kalwinistka
 kalvinizmus - kalwinizm
-kam - dokąd | gdzie
+kam - dokąd, gdzie
 kamarátka - koleżanka
 Kambodža - Kambodża
 Kambodžan - Kambodżanin
@@ -3478,7 +3478,7 @@ kameň - kamień
 kamenný - kamienny
 kameňovať - kamieniować
 kamera - kamera
-kameraman - kamerzysta | operator kamery
+kameraman - kamerzysta, operator kamery
 Kamerun - Kamerun
 Kamerunčan - Kameruńczyk
 Kamerunčanka - Kamerunka
@@ -3501,7 +3501,7 @@ Kanárske ostrovy - Wyspy Kanaryjskie
 kaňa sivá - błotniak zbożowy
 kancelária - kancelaria
 kancerogén - kancerogen
-kancerogénny - kancerogenny | rakotwórczy
+kancerogénny - kancerogenny, rakotwórczy
 kandidát - kandydat
 kandidatúra - kandydatura
 kandidovať - kandydować
@@ -3538,7 +3538,7 @@ karabinier - karabinier
 Karáči - Karaczi
 karate - karate
 karcinogén - kancerogen
-karcinogénny - kancerogenny | rakotwórczy
+karcinogénny - kancerogenny, rakotwórczy
 kardinál - kardynał
 kardiograf - kardiograf
 kardiogram - kardiogram
@@ -3557,21 +3557,21 @@ Karmel - Karmel
 Karolína - Karolina
 karoséria - karoseria
 Karpaty - Karpaty
-karta - karta | kartka pocztowa | pocztówka | widokówka
+karta - karta, kartka pocztowa, pocztówka, widokówka
 kartel - kartel
 kartograf - kartograf
 kartografia - kartografia
 kartografický - kartograficzny
 kartotéka - kartoteka
-kaša - kleik | papka | masa | ciasto
+kaša - kleik, papka, masa, ciasto
 kašeľ - kaszel
 kasíno - kasyno
-Kasiopeja - Gwiazdozbiór Kasjopei | Kasjopeja | Kassiopeia
+Kasiopeja - Gwiazdozbiór Kasjopei, Kasjopeja, Kassiopeia
 kaskáda - kaskada
 kaskadér - kaskader
 kaskadérsky - kaskaderski
 kaskádový - kaskadowy
-kašlať - kasłać | kaszleć
+kašlať - kasłać, kaszleć
 kašmír - kaszmir
 kašmírčina - język kaszmirski
 kašmírový - kaszmirowy
@@ -3639,7 +3639,7 @@ kaviareň - kawiarnia
 kavka - kawka
 kávovar - ekspres do kawy
 kávovník - kawowiec
-kávovník arabský - kawa arabska | kawowiec
+kávovník arabský - kawa arabska, kawowiec
 kávový - kawowy
 Kazach - Kazach
 Kazachstan - Kazachstan
@@ -3648,17 +3648,17 @@ každá palica má dva konce - każdy kij ma dwa końce
 každoročne - corocznie
 každoročný - coroczny
 každý - każdy
-každý je kováčom svojho šťastia - każdy jest kowalem swojego losu | każdy jest kowalem swojego szczęścia
+každý je kováčom svojho šťastia - każdy jest kowalem swojego losu, każdy jest kowalem swojego szczęścia
 kázeň - kazanie
 kazuár - kazuar
 kde - gdzie
 kde sa dvaja bijú, tam tretí víťazí - gdzie dwóch się bije, tam trzeci korzysta
 kebab - kebab
 kečup - keczup
-keď - gdy | kiedy | jak | jeśli | choć | chociaż | nawet gdy
+keď - gdy, kiedy, jak, jeśli, choć, chociaż, nawet gdy
 kefa - szczotka
 kefír - kefir
-kel - kapusta włoska ( L. var.  L.) | kieł
+kel - kapusta włoska ( L. var.  L.), kieł
 Kelt - Celt
 Keltské more - Morze Celtyckie
 keltský - celtycki
@@ -3668,13 +3668,13 @@ kempingový - kempingowy
 kempovať - biwakować
 Keňa - Kenia
 kenozoikum - kenozoik
-ker - krzak | krzew
+ker - krzak, krzew
 keramický - ceramiczny
 keramika - ceramika
-kilo - kilogram | kilo
+kilo - kilogram, kilo
 kilogram - kilogram
 kilohertz - kiloherc
-kilometer - kilometr | 1000 metrów
+kilometer - kilometr, 1000 metrów
 kilometrový - kilometrowy
 kilovolt - kilowolt
 kilowatthodina - kilowatogodzina
@@ -3689,7 +3689,7 @@ kirgizský - kirgiski
 kirgizština - kirgiski
 Kiribati - Kiribati
 Kišiňov - Kiszyniów
-kladivo - młotek | młot
+kladivo - młotek, młot
 klaksón - klakson
 klamár - kłamca
 klamať - kłamać
@@ -3709,10 +3709,10 @@ Klaudia - Klaudia
 klaun - klaun
 klauzula - klauzula
 klávesnica - klawiatura
-klaviatúra - klawiatura | klávesnica
+klaviatúra - klawiatura, klávesnica
 klavír - fortepian
 kĺb - staw
-KĽDR - KRLD | Koreańska Republika Ludowo-Demokratyczna
+KĽDR - KRLD, Koreańska Republika Ludowo-Demokratyczna
 klenotník - jubiler
 kleptoman - kleptoman
 kleptománia - kleptomania
@@ -3763,10 +3763,10 @@ kobalt - kobalt
 koberec - dywan
 kobra - kobra
 kobyla - klacz
-koč - kareta | powóz
-kocka - sześcian | kostka | kość | klocki | krata | kratka
-kočka - cizia | laska
-kocúr - kot | kocur
+koč - kareta, powóz
+kocka - sześcian, kostka, kość, klocki, krata, kratka
+kočka - cizia, laska
+kocúr - kot, kocur
 kocúrik - kocurek
 kód - kod
 Kodaň - Kopenhaga
@@ -3782,7 +3782,7 @@ kofeínový - kofeinowy
 kognitívny - kognitywny
 kohorta - kohorta
 kohút - kogut
-koitus - coitus | akt płciowy
+koitus - coitus, akt płciowy
 kokaín - kokaina
 kokaínový - kokainowy
 koketéria - kokieteria
@@ -3795,13 +3795,13 @@ koks - koks
 koktať - jąkać się
 kolaborant - kolaborant
 kolaborovať - kolaborować
-koláč - ciasto | placek
+koláč - ciasto, placek
 kolagén - kolagen
 kolagénový - kolagenowy
 kolaudácia - kolaudacja
 kolaudačný - kolaudacyjny
 kolaudovať - kolaudować
-koleda - kolęda (pieśń) | kolęda (obrzęd ludowy)
+koleda - kolęda (pieśń), kolęda (obrzęd ludowy)
 koledníčka - kolędniczka
 koledník - kolędnik
 koledovať - kolędować
@@ -3813,8 +3813,8 @@ kolektivista - kolektywista
 kolektivizácia - kolektywizacja
 kolektivizačný - kolektywizacyjny
 kolektivizmus - kolektywizm
-kolektívne - kolektywnie | zbiorowo
-kolektívny - zbiorowy | kolektywny
+kolektívne - kolektywnie, zbiorowo
+kolektívny - zbiorowy, kolektywny
 koleno - kolano
 koleso - koło
 kolibiarik - świstunka
@@ -3835,7 +3835,7 @@ kolportér - kolporter
 kolportovať - kolportować
 Kolumbia - Kolumbia
 Kolumbijka - Kolumbijka
-kóma - śpiączka | koma
+kóma - śpiączka, koma
 komár - komar
 kombajn - kombajn
 kombajnista - kombajnista
@@ -3878,7 +3878,7 @@ kompozícia - kompozycja
 kompozičný - kompozycyjny
 kompresia - kompresja
 kompromitácia - kompromitacja
-kompromitovať - kompromitować | kompromitować się
+kompromitovať - kompromitować, kompromitować się
 komunikácia - komunikacja
 komunikačný - komunikacyjny
 komunikovať - komunikować
@@ -3888,23 +3888,23 @@ komunistka - komunistka
 komunita - społeczność
 komunizmus - komunizm
 kôň - koń
-konár - konar | gałąź
+konár - konar, gałąź
 koncentrácia - koncentracja
 koncentračný - koncentracyjny
 koncentrák - obóz koncentracyjny
-koncentrovať - koncentrować | koncentrować się
+koncentrovať - koncentrować, koncentrować się
 koncepcia - koncepcja
 konceptuálny - konceptualny
 koncert - koncert
 koncertný - koncertowy
 koncertovať - koncertować
 koncesia - koncesja
-končiť - kończyć | kończyć się
+končiť - kończyć, kończyć się
 kondenzácia - kondensacja
 kondenzovať - kondensować
 kondor - kondor
 konečník - odbytnica
-konečný - końcowy | ostateczny | definitywny | skończony
+konečný - końcowy, ostateczny, definitywny, skończony
 konfederácia - konfederacja
 konfederačný - konfederacyjny
 konfekcia - konfekcja
@@ -3923,7 +3923,7 @@ konfrontovať - konfrontować
 konglomerát - konglomerat
 Kongo - Kongo
 kongregácia - kongregacja
-kongres - kongres | konferencja
+kongres - kongres, konferencja
 koniec - koniec
 konjugácia - koniugacja
 konjunktúra - koniunktura
@@ -3959,7 +3959,7 @@ konštruktivista - konstruktywista
 konštruktivistický - konstruktywistyczny
 konštruktivizmus - konstruktywizm
 konštruovať - konstruować
-kontaktovať - kontaktować | kontaktować się
+kontaktovať - kontaktować, kontaktować się
 kontext - kontekst
 kontinent - kontynent
 kontrabasista - kontrabasista
@@ -3976,7 +3976,7 @@ kontrolovať - kontrolować
 kontroverzia - kontrowersja
 kontroverzne - kontrowersyjnie
 kontroverzný - kontrowersyjny
-kontúra - kontur | obrys
+kontúra - kontur, obrys
 konvencia - konwencja
 konvertovať - konwertować
 konverzácia - konwersacja
@@ -4016,7 +4016,7 @@ koordinátorka - koordynatorka
 koordinovať - koordynować
 kopa - kopa
 kopať - kopać
-kopec - pagórek | górka | kupka (ziemi, jedzenia itp.)
+kopec - pagórek, górka, kupka (ziemi, jedzenia itp.)
 kopejka - kopiejka
 kopernikium - kopernik
 kopija - kopia
@@ -4039,7 +4039,7 @@ kórejsky - po koreańsku
 kórejský - koreański
 korekcia - korekcja
 korelácia - korelacja
-koreň - korzeń | rdzeń
+koreň - korzeń, rdzeń
 korenie - przyprawa
 korešpondencia - korespondencja
 korešpondenčný - korespondencyjny
@@ -4048,8 +4048,8 @@ korešpondentka - korespondentka
 korešpondovať - korespondować
 korigovať - korygować
 Korint - Korynt
-Korinťan - Koryntianin | Koryntczyk | koryntianin | koryntczyk
-Korinťanka - Koryntianka | koryntianka
+Korinťan - Koryntianin, Koryntczyk, koryntianin, koryntczyk
+Korinťanka - Koryntianka, koryntianka
 korintský - koryncki
 kormorán - kormoran
 Kornélia - Kornelia
@@ -4082,10 +4082,10 @@ kotol - kocioł
 kotva - kotwica
 kov - metal
 kováč - kowal
-kovboj - cowboy | kowboj
+kovboj - cowboy, kowboj
 kovový - metalowy
 koza - koza
-koža - skóra | kożuch
+koža - skóra, kożuch
 kozmetička - kosmetyczka
 kozmický - kosmiczny
 kozmológia - kosmologia
@@ -4100,46 +4100,46 @@ kozmos - kosmos
 Kozorožec - Koziorożec
 kožušina - futro
 krab - krab
-kráčať - iść | poruszać się
+kráčať - iść, poruszać się
 krádež - kradzież
 kradmo - ukradkiem
 kradmý - ukradkowy
 kradoš - złodziejaszek
-kraj - brzeg | skraj | kraj | kraina | ojczyzna
+kraj - brzeg, skraj, kraj, kraina, ojczyzna
 krájať - kroić
 krajčír - krawiec
 krajčírka - krawcowa
-krajina - kraina | ziemia | kraj | okolica
+krajina - kraina, ziemia, kraj, okolica
 krakľa - kraska
 Krakov - Kraków
 krakovský - krakowski
 kráľ - król
-králik - królik ( L.) | królik | jastrun ( Mill.)
-kráľovná - królowa | hetman
+králik - królik ( L.), królik, jastrun ( Mill.)
+kráľovná - królowa, hetman
 kráľovná vied - królowa nauk
 kráľovstvo - królestwo
 krása - piękno
-krásny - bardzo piękny | ładny
+krásny - bardzo piękny, ładny
 krasojazdec - woltyżer
-kráter - krater | lej
-krátko - krótko | wkrótce
+kráter - krater, lej
+krátko - krótko, wkrótce
 krátkonohý - krótkonogi
 krátkovlasý - krótkowłosy
 krátkozrakosť - krótkowzroczność
 krátkozraký - krótkowzroczny
-krátky - krótki | zwięzły
+krátky - krótki, zwięzły
 krava - krowa
 kravata - krawat
 kravský - krowi
-kŕč - kurcz | korzeń z naroślami
+kŕč - kurcz, korzeń z naroślami
 krčma - karczma
-kreácia - kreacja | wytwór | twór
+kreácia - kreacja, wytwór, twór
 kreativita - kreatywność
 kreatívne - kreatywnie
 kreatívnosť - kreatywność
 kreatívny - kreatywny
-kreatúra - stworzenie | kreatura
-krém - krem | pasta (do butów)
+kreatúra - stworzenie, kreatura
+krém - krem, pasta (do butów)
 kremácia - kremacja
 krematórium - krematorium
 kremeň - kwarc
@@ -4177,25 +4177,25 @@ krivonos smrekový - krzyżodziób świerkowy
 kríž - krzyż
 kríza - kryzys
 krížik - krzyżyk
-krk - szyja | gryf (np. skrzypiec)
+krk - szyja, gryf (np. skrzypiec)
 krkavec - kruk
 kroj - strój
 krokodíl - krokodyl
 kronikár - kronikarz
 krst - chrzest
-krstná dcéra - córka chrzestna | chrześnica | chrześniaczka
+krstná dcéra - córka chrzestna, chrześnica, chrześniaczka
 krstná matka - matka chrzestna
 krstný otec - ojciec chrzestny
-krstný syn - syn chrzestny | chrześniak
+krstný syn - syn chrzestny, chrześniak
 krt - kret
 krtinec - kretowisko
-krúpa - grad | kulka gradu
+krúpa - grad, kulka gradu
 krupobitie - gradobicie
 kružnica - okrąg
 krv - krew
 krvácanie - krwawienie
 krvácať - krwawić
-krvavý - krwawy | zakrwawiony
+krvavý - krwawy, zakrwawiony
 krvinka - krwinka
 Krym - Krym
 krymský - krymski
@@ -4216,11 +4216,11 @@ kubistka - kubistka
 kubizmus - kubizm
 kuchár - kucharz
 kuchárka - kucharka
-kuchársky - kucharski | kulinarny
+kuchársky - kucharski, kulinarny
 kuchyňa - kuchnia
 kukučka - kukułka
 kukurica - kukurydza
-kulík - siewka | sieweczka
+kulík - siewka, sieweczka
 kulík zlatý - siewka złota
 kulminácia - kulminacja
 kulminačný - kulminacyjny
@@ -4236,17 +4236,17 @@ kumulovať - kumulować
 kuna - kuna
 kúpací - kąpielowy
 kúpalisko - kąpielisko
-kúpať - kąpać | przemywać | oblewać
+kúpať - kąpać, przemywać, oblewać
 kupec - kupiec
 kúpeľňa - łazienka
 kúpiť - kupić
 kupola - kopuła
 kupovať - kupować
-kura - kura | kuraki | kurczę | kurczak
+kura - kura, kuraki, kurczę, kurczak
 kurátor - kurator
 kurátorka - kuratorka
 kurátorský - kuratorski
-kurča - kurczak | młode kury
+kurča - kurczak, młode kury
 Kurd - Kurd
 kurdčina - język kurdyjski
 Kurdistan - Kurdystan
@@ -4261,15 +4261,15 @@ kurkuma - kurkuma
 kurkumín - kurkumina
 kurtizána - kurtyzana
 kurva - kurwa
-kurz - kurs | szkolenie | kierunek
+kurz - kurs, szkolenie, kierunek
 kurzista - kursant
 kurzistka - kursantka
 kurzíva - kursywa
-kus - kawałek | kawał | sztuka
-kút - kąt | zakątek
+kus - kawałek, kawał, sztuka
+kút - kąt, zakątek
 Kuvajt - Kuwejt
 kuvajtský - kuwejcki
-kúzelník - iluzjonista | prestidigitator
+kúzelník - iluzjonista, prestidigitator
 kvadratúra - kwadratura
 kvadrilión - kwadrylion
 kvákať - kwakać
@@ -4277,7 +4277,7 @@ kvalifikácia - kwalifikacja
 kvalifikačný - kwalifikacyjny
 kvalifikovať - kwalifikować
 kvalita - jakość
-kvantita - ilość | iloczas | długość
+kvantita - ilość, iloczas, długość
 kvantový - kwantowy
 kvapka - kropla
 kvark - kwark
@@ -4287,8 +4287,8 @@ kvasinka - drożdże
 kvet - kwiat
 kvetina - kwiat
 Kvetná nedeľa - Niedziela Palmowa
-Kvetoslava - Kwiatosława | Kwietosława
-kvitnúť - kwitnąć | prosperować
+Kvetoslava - Kwiatosława, Kwietosława
+kvitnúť - kwitnąć, prosperować
 kybernetický - cybernetyczny
 kybernetik - cybernetyk
 kybernetika - cybernetyka
@@ -4296,7 +4296,7 @@ Kyjev - Kijów
 Kyjevčan - kijowianin
 Kyjevčanka - kijowianka
 kyjevský - kijowski
-kým - póki | dopóki
+kým - póki, dopóki
 kyselina - kwas
 kyselina sírová - kwas siarkowy
 kyselinový - kwasowy
@@ -4311,19 +4311,19 @@ laboratórny - laboratoryjny
 labuť - łabędź
 labuť spevavá - łabędź krzykliwy
 labužníčka - smakoszka
-labužník - smakosz | łasuch
+labužník - smakosz, łasuch
 lacno - tanio
 lacný - tani
 ľad - lód
-ľadnička - lodówka | chladnička
-ľadovec - lodowiec | grad
+ľadnička - lodówka, chladnička
+ľadovec - lodowiec, grad
 ľadvina - nerka
 ľahkomyseľne - lekkomyślnie
 ľahkomyseľnosť - lekkomyślność
 ľahkomyseľný - lekkomyślny
-ľahký - lekki | łatwy | prosty | spokojny | cienki | lekkostrawny | słaby | niewielki
+ľahký - lekki, łatwy, prosty, spokojny, cienki, lekkostrawny, słaby, niewielki
 lajdáctvo - łajdactwo
-lajdák - drań | łajdak
+lajdák - drań, łajdak
 lakeť - łokieć
 lakomec - skąpiec
 lakonickosť - lakoniczność
@@ -4349,24 +4349,24 @@ lasica - łasica
 láska - miłość
 láska je slepá - miłość jest ślepa
 lastovička - jaskółka
-latinčina - język łaciński | łacina
+latinčina - język łaciński, łacina
 latinizácia - latynizacja
 latinizovať - latynizować
 latinský - łaciński
-látka - substancja | materiał | tkanina
+látka - substancja, materiał, tkanina
 Lausanne - Lozanna
 láva - lawa
-ľaváčka - leworęczna | mańkutka
-ľavák - leworęczny | mańkut
-lavica - ławka | ława | kładka | mostek | ławica | pokład | warstwa
-ľavica - lewica | lewa dłoń | lewa strona
+ľaváčka - leworęczna, mańkutka
+ľavák - leworęczny, mańkut
+lavica - ławka, ława, kładka, mostek, ławica, pokład, warstwa
+ľavica - lewica, lewa dłoń, lewa strona
 ľavicový - lewicowy
 lavína - lawina
 lavínový - lawinowy
 ľavý - lewy
 lawrencium - lorens
 lebka - czaszka
-lebo - bo | ponieważ | dlatego | że
+lebo - bo, ponieważ, dlatego, że
 lecitín - lecytyna
 legalizácia - legalizacja
 legalizovať - legalizować
@@ -4378,10 +4378,10 @@ lekár - lekarz
 lekáreň - apteka
 lekárka - lekarka
 lekárnik - aptekarz
-lekársky - lekarski | medyczny
+lekársky - lekarski, medyczny
 lekcia - lekcja
 lektorát - lektorat
-lem - lamówka | plisa | obszywka | krawędź
+lem - lamówka, plisa, obszywka, krawędź
 len - tylko
 leninizmus - leninizm
 lenivo - leniwie
@@ -4391,10 +4391,10 @@ leopard - lampart
 lepidlo - klej
 lepok - gluten
 lepší vrabec v hrsti ako holub na streche - lepszy wróbel w garści niż gołąb na dachu
-lepší vrabec v hrsti ako zajac v chrasti - lepszy wróbel w garści niż gołąb na dachu | lepszy wróbel w garści niż zając w chruście
+lepší vrabec v hrsti ako zajac v chrasti - lepszy wróbel w garści niż gołąb na dachu, lepszy wróbel w garści niż zając w chruście
 les - las
 lesbička - lesbijka
-lesnatý - lesisty | bogato zalesiony
+lesnatý - lesisty, bogato zalesiony
 lesnícky - leśniczy
 lesníctvo - leśnictwo
 lesník - leśnik
@@ -4404,16 +4404,16 @@ Lesothčanka - Lesotyjka
 Lesotho - Lesotho
 lesothský - lesotyjski
 let - lot
-letec - lotnik | pilot
+letec - lotnik, pilot
 letectvo - lotnictwo
 letieť - lecieć
 letisko - lotnisko
 letný - letni
 leto - lato
-leukémia - białaczka | leukemia
+leukémia - białaczka, leukemia
 leukemický - białaczkowy
-leukocyt - leukocyt | biała krwinka
-lev - lew ( L.) | lew
+leukocyt - leukocyt, biała krwinka
+lev - lew ( L.), lew
 Lev - Lew
 levanduľa - lawenda
 levanduľový - lawendowy
@@ -4431,7 +4431,7 @@ lexikón - leksykon
 ležať - leżeć
 Lhasa - Lhasa
 liana - liana
-liať - lać | wlewać | lać się
+liať - lać, wlewać, lać się
 Libanon - Liban
 Libanončan - Libańczyk
 Libanončanka - Libanka
@@ -4442,23 +4442,23 @@ Libéria - Liberia
 libra - funt
 Líbya - Libia
 líce - policzek
-licencia - pozwolenie | koncesja | licencja
+licencia - pozwolenie, koncesja, licencja
 lichen - liszaj
 Lichtenštajnsko - Liechtenstein
-lichtenštajnský - liechtensteiński | lichtensztajński
+lichtenštajnský - liechtensteiński, lichtensztajński
 licitácia - licytacja
 licitačný - licytacyjny
 licitovať - licytować
 líder - lider
 líderka - liderka
-liek - lek | lekarstwo
+liek - lek, lekarstwo
 lienka - biedronka
-lieska - leszczyna ( L.) | sito (do suszenia owoców) | plecionka
+lieska - leszczyna ( L.), sito (do suszenia owoców), plecionka
 lietadlo - samolot
 Lietajúca ryba - Ryba Latająca
 lietať - lecieć
 lievik - lejek
-lift - winda | dźwig
+lift - winda, dźwig
 Ligúria - Liguria
 Ligúrske more - Morze Liguryjskie
 likvidácia - likwidacja
@@ -4470,22 +4470,22 @@ Lima - Lima (stolica)
 limonáda - lemoniada
 limuzína - limuzyna
 lineárny - linearny
-lingvista - lingwista | językoznawca
+lingvista - lingwista, językoznawca
 lingvistický - językowy
-lingvistka - lingwistka | językoznawczyni
+lingvistka - lingwistka, językoznawczyni
 líniový - liniowy
 lipa - lipa
 liposukcia - liposukcja
 Lipsko - Lipsk
-lis - prasa (maszyna) | tłocznia
+lis - prasa (maszyna), tłocznia
 Lisabon - Lizbona
 Lisabončan - lizbończyk
 Lisabončanka - lizbonka
-liška - lis ( L.) | lis
+liška - lis ( L.), lis
 líška - lis
 Líška - Lisek
-list - liść | list | kartka
-lístok - bilet | list: liścik | płatek
+list - liść, list, kartka
+lístok - bilet, list: liścik, płatek
 liter - litr
 literát - literat
 literátsky - literacki
@@ -4502,7 +4502,7 @@ livermorium - liwermor
 Lívia - Liwia
 lízať - lizać
 Lobamba - Lobamba
-loď - statek | okręt | nawa
+loď - statek, okręt, nawa
 loďka - łódka
 loďkový - łódkowy
 Lodž - Łódź
@@ -4542,7 +4542,7 @@ loviť - polować
 lož - kłamstwo
 lôžko - łóżko
 lož má krátke nohy - kłamstwo ma krótkie nogi
-ľstivý - chytry | podstępny
+ľstivý - chytry, podstępny
 ľúbiť - kochać
 Ľubľana - Lublana
 Ľubľančan - lublańczyk
@@ -4550,8 +4550,8 @@ lož má krátke nohy - kłamstwo ma krótkie nogi
 ľubľanský - lublański
 Ľubomíra - Lubomira
 lúč - promień
-Lucia - Łucja | Lucja
-lucifer - diabeł | łotr | zły człowiek
+Lucia - Łucja, Lucja
+lucifer - diabeł, łotr, zły człowiek
 lúčka - łączka
 Lúčna - Grześ
 ľud - lud
@@ -4568,7 +4568,7 @@ luk - łuk
 lúka - łąka
 lukostrelec - łucznik
 lúmen - lumen
-lupa - lupa | szkło powiększające
+lupa - lupa, szkło powiększające
 lustrácia - lustracja
 lustračný - lustracyjny
 lustrovať - lustrować
@@ -4577,11 +4577,11 @@ luterán - luteranin
 luteránka - luteranka
 Luxemburg - Luksemburg
 Luxembursko - Luksemburg
-luxus - luksus | zbytek | przepych
+luxus - luksus, zbytek, przepych
 luxusne - luksusowo
 luxusný - luksusowy
 Ľvov - Lwów
-Ľvovčan - lwowiak | lwowianin
+Ľvovčan - lwowiak, lwowianin
 Ľvovčanka - lwowianka
 ľvovský - lwowski
 lymfa - limfa
@@ -4602,7 +4602,7 @@ lyžovať - jeździć na nartach
 lživo - kłamliwie
 lživý - kłamliwy
 má - mať
-mača - kociak | kotek
+mača - kociak, kotek
 Macajčan - mieszkaniec Makau
 Macajčanka - mieszkanka Makau
 macajský - mający związek z Makau
@@ -4610,10 +4610,10 @@ Macao - Makau
 macedónčina - język macedoński
 Macedónsko - Macedonia
 macedónsky - macedoński
-mach - mech | cios w próżnię
+mach - mech, cios w próżnię
 machinácia - machinacja
 mačiatko - kociątko
-mačka - kot | futro z kota (1.1)
+mačka - kot, futro z kota (1.1)
 Madagaskar - Madagaskar
 Maďar - Węgier
 maďarčina - język węgierski
@@ -4645,15 +4645,15 @@ máj - maj
 majestát - majestat
 majetkový - majątkowy
 majetok - majątek
-majiteľ - właściciel | posiadacz
+majiteľ - właściciel, posiadacz
 majonéza - majonez
-majster - majster | mistrz
+majster - majster, mistrz
 mak - mak
-Makedónia - starożytna Macedonia i historyczna kraina geograficzna | Macedónia
-mäkký - miękki | łagodny | przyjemny | wrażliwy | litościwy
+Makedónia - starożytna Macedonia i historyczna kraina geograficzna, Macedónia
+mäkký - miękki, łagodny, przyjemny, wrażliwy, litościwy
 mäkkýš - mięczak
 makový - makowy
-makromolekula - makromolekuła | makrocząsteczka
+makromolekula - makromolekuła, makrocząsteczka
 Malachiáš - Malachiasz
 malajčina - język malajski
 Malajec - Malaj
@@ -4681,7 +4681,7 @@ Malijčanka - Malijka
 malijský - malijski
 malina - malina
 malinový - malinowy
-málo - mało | niewiele
+málo - mało, niewiele
 Malorka - Majorka
 maľovať - malować
 malta - zaprawa murarska
@@ -4689,10 +4689,10 @@ Malta - Malta
 maltčina - język maltański
 maltský - maltański
 Malvína - Malwina
-malý - mały | niewielki | niewysoki | młody
+malý - mały, niewielki, niewysoki, młody
 Malý lev - Mały Lew
 Malý pes - Mały Pies
-mama - mama | teściowa
+mama - mama, teściowa
 mamička - matka
 mámiť - mamić
 mamka - matka
@@ -4700,9 +4700,9 @@ Manáma - Manama
 Manchester - Manchester
 mančina - język manx
 mandarínka - mandarynka
-mandarínkovník - mandarynka | drzewko mandarynkowe
+mandarínkovník - mandarynka, drzewko mandarynkowe
 mandarínkový - mandarynkowy
-mandľa - migdałowiec | migdał | migdałek
+mandľa - migdałowiec, migdał, migdałek
 mangán - mangan
 mánia - mania
 maniačka - maniaczka
@@ -4710,18 +4710,18 @@ maniactvo - maniactwo
 maniakálny - maniakalny
 manifestácia - manifestacja
 manifestačne - manifestacyjnie
-manifestovať - manifestować | manifestować się | objawiać się
+manifestovať - manifestować, manifestować się, objawiać się
 Manila - Manila
 manilský - manilski
 manipulácia - manipulacja
-manipulátor - manipulant | manipulator
-manipulátorka - manipulantka | manipulatorka
+manipulátor - manipulant, manipulator
+manipulátorka - manipulantka, manipulatorka
 manipulovať - manipulować
 Manitoba - Manitoba
 manufaktúra - manufaktura
 maňuška - marionetka
-manžel - mąż | małżonek
-manželka - żona | małżonka
+manžel - mąż, małżonek
+manželka - żona, małżonka
 manželský - małżeński
 manželstvo - małżeństwo
 maoizmus - maoizm
@@ -4735,13 +4735,13 @@ marazmus - marazm
 marec - marzec
 margarín - margaryna
 marhuľa - morela
-mariánsky - maryjny | mariański
+mariánsky - maryjny, mariański
 marinovať - marynować
 markíz - markiz
 Marmarské more - Morze Marmara
 márnica - kostnica
 márnotratný syn - syn marnotrawny
-márny - marny | daremny | zbyteczny | bezwartościowy
+márny - marny, daremny, zbyteczny, bezwartościowy
 Maročan - Marokańczyk
 Maročanka - Marokanka
 marocký - marokański
@@ -4750,7 +4750,7 @@ Mars - Mars
 Marseille - Marsylia
 Marshallove ostrovy - Wyspy Marshalla
 Marťan - Marsjanin
-Martin - Marcin | Martin
+Martin - Marcin, Martin
 Martinik - Martynika
 Martinov - Marcinowy
 marxista - marksista
@@ -4768,14 +4768,14 @@ masívny - masywny
 maskovať - maskować
 masliak - maślak
 maslo - masło
-mäso - mięso | miąższ
+mäso - mięso, miąższ
 masochistický - masochistyczny
 masochistka - masochistka
 masochizmus - masochizm
 masturbácia - masturbacja
 masturbovať - masturbować
 mat - mat
-mať - mieć | posiadać | uważać za coś | kogoś | przygotowywać się | mieć się | matka
+mať - mieć, posiadać, uważać za coś, kogoś, przygotowywać się, mieć się, matka
 mäta - mięta ( L.)
 Matej - Maciej
 Matejov - Maciejowy
@@ -4791,7 +4791,7 @@ maternica - macica
 materský - macierzyński
 Matilda - Matylda
 matka - matka
-matný - matowy | mętny | niewyraźny | mglisty | słaby | wątły
+matný - matowy, mętny, niewyraźny, mglisty, słaby, wątły
 mať prázdne vrecko - mieć pustą kieszeń
 matriarchálny - matriarchalny
 matriarchát - matriarchat
@@ -4804,13 +4804,13 @@ Maurícius - Mauritius
 Mauritánia - Mauretania
 maximalista - maksymalista
 maximalizmus - maksymalizm
-mazový - łojowy | tłuszczowy
+mazový - łojowy, tłuszczowy
 meander - meander
 meč - miecz
 mecenáš - mecenas
 mecenáška - mecenaska
 mecenášsky - mecenasowski
-mech - worek | miech
+mech - worek, miech
 mechanický - mechaniczny
 mechanika - mechanika
 mechanizácia - mechanizacja
@@ -4826,15 +4826,15 @@ Medard - Medard
 Medardov - Medardowy
 medicína - medycyna
 medievalistika - mediewistyka
-medikament - lek | lekarstwo | medykament
-medovina - miód pitny | nektar
-medovník - miodownik (ciasto) | miodownik (piernikarz) | miodownik ( L.)
+medikament - lek, lekarstwo, medykament
+medovina - miód pitny, nektar
+medovník - miodownik (ciasto), miodownik (piernikarz), miodownik ( L.)
 medúza - meduza
 Medúza - Meduza
 medveď - niedźwiedź
 medveď biely - niedźwiedź biały
 medvedica - niedźwiedzica
-medzi - między | wśród
+medzi - między, wśród
 medzinárodný - międzynarodowy
 medziplanetárny - międzyplanetarny
 megafón - megafon
@@ -4854,9 +4854,9 @@ Melilla - Melilla
 meliorácia - melioracja
 melioračný - melioracyjny
 melódia - melodia
-melodický - melodyjny | melodyczny
-melón - melon | arbuz | kawon
-meluzína - wyjący | jęczący wiatr
+melodický - melodyjny, melodyczny
+melón - melon, arbuz, kawon
+meluzína - wyjący, jęczący wiatr
 mendelevium - mendelew
 meno - imię
 menševizmus - mienszewicy
@@ -4869,24 +4869,24 @@ merkantilista - merkantylista
 merkantilizmus - merkantylizm
 Merkúr - Merkury
 mesačný - miesięczny
-mesiac - księżyc | miesiąc
+mesiac - księżyc, miesiąc
 Mesiac - Księżyc
-Mesiačan - Selenita | astronauta na Księżycu
-Mesiačanka - Selenitka | astronautka na Księżycu
+Mesiačan - Selenita, astronauta na Księżycu
+Mesiačanka - Selenitka, astronautka na Księżycu
 Mesiáš - Mesjasz
 mešita - meczet
 mesto - miasto
 mestský - miejski
 metabolický - metaboliczny
 metabolizmus - metabolizm
-metafora - metafora | przenośnia
+metafora - metafora, przenośnia
 metaforický - metaforyczny
 metafyzika - metafizyka
 metajazyk - metajęzyk
 metalurg - metalurg
 metalurgia - metalurgia
 metalurgický - metalurgiczny
-metamorfóza - metamorfoza | przeobrażenie
+metamorfóza - metamorfoza, przeobrażenie
 metán - metan
 metánový - metanowy
 metastáza - metastaza
@@ -4898,18 +4898,18 @@ meteoritika - meteorytyka
 meteorológ - meteorolog
 meteorológia - meteorologia
 meteorologický - meteorologiczny
-meter - metr | jednostka miary | metr krawiecki
+meter - metr, jednostka miary, metr krawiecki
 metla - miotła
 Metod - Metody
 metodický - metodyczny
 metodológia - metodologia
-metodský - metodejski | metodiański | metodyjski
-metonýmia - metonimia | zamiennia
+metodský - metodejski, metodiański, metodyjski
+metonýmia - metonimia, zamiennia
 metráž - metraż
 metro - metro
 metrológia - metrologia
 metrový - metrowy
-metylalkohol - alkohol metylowy | metanol
+metylalkohol - alkohol metylowy, metanol
 Mexičan - Meksykanin
 Mexičanka - Meksykanka
 mexický - meksykański
@@ -4918,12 +4918,12 @@ Mexiko - Meksyk
 Mezopotámia - Mezopotamia
 mezopotámsky - mezopotamski
 mezzosoprán - mezzosopran
-miazga - sok (drzewny) | limfa | chłonka
+miazga - sok (drzewny), limfa, chłonka
 Michaela - Michalina
 Michal - Michał
 miecha - rdzeń kręgowy
 mier - pokój
-miesto - miejsce | stanowisko | posada | zamiast
+miesto - miejsce, stanowisko, posada, zamiast
 migréna - migrena
 mikcia - mikcja
 mikrobiológia - mikrobiologia
@@ -4934,7 +4934,7 @@ Mikronézia - Mikronezja
 Mikronézske federatívne štáty - Sfederowane Stany Mikronezji
 mikronézsky - mikronezyjski
 mikroskop - mikroskop
-Mikuláš - Mikołaj | święty mikołaj
+Mikuláš - Mikołaj, święty mikołaj
 Milánčan - mediolańczyk
 Milánčanka - mediolanka
 Miláno - Mediolan
@@ -4951,9 +4951,9 @@ milión - milion
 miliónový - miliowy
 milo - miło
 Miloslav - Miłosław
-milovať - kochać | kochać się | uprawiać seks
+milovať - kochać, kochać się, uprawiać seks
 milovníčka - miłośniczka
-milovník - miłośnik | amant
+milovník - miłośnik, amant
 milý - miły
 mimozemský - pozaziemski
 minaret - minaret
@@ -4965,10 +4965,10 @@ minimálny - minimalny
 ministerstvo - ministerstwo
 Minsk - Mińsk
 minulosť - przeszłość
-minulý - miniony | przeszły | dawny | poprzedni | ubiegły | zeszły
+minulý - miniony, przeszły, dawny, poprzedni, ubiegły, zeszły
 minulý čas - czas przeszły
 minúta - minuta
-misa - misa | miska | półmisek
+misa - misa, miska, półmisek
 misionár - misjonarz
 misionárka - misjonarka
 misionársky - misjonarski
@@ -4983,21 +4983,21 @@ mlčať - milczeć
 Mliečna cesta - Droga Mleczna
 Mliečna dráha - Droga Mleczna
 mliečny - mleczny
-mlieko - mleko | mleczko
+mlieko - mleko, mleczko
 mlyn - młyn
 mních - mnich
 Mníchov - Monachium
-mnoho - wiele | dużo
+mnoho - wiele, dużo
 mnohobožstvo - wielobóstwo
 mnohý - wiele
 množina - zbiór
 množné číslo - liczba mnoga
-množstvo - ilość | mnóstwo
+množstvo - ilość, mnóstwo
 mobilizovať - mobilizować
 mobilný telefón - telefon komórkowy
 moč - mocz
 močenie - mikcja
-močiar - bagno | moczary
+močiar - bagno, moczary
 močiarnica - bekas
 močová rúra - cewka moczowa
 močovina - mocznik
@@ -5006,23 +5006,23 @@ močový - moczowy
 môcť - móc
 móda - moda
 modernosť - nowoczesność
-moderný - nowoczesny | modny | w modzie
+moderný - nowoczesny, modny, w modzie
 modlitba - modlitwa
 modrý - niebieski
-Mogadišan - mogadiszanin | mogadiszuanin
+Mogadišan - mogadiszanin, mogadiszuanin
 Mogadišo - Mogadiszu
-mogadišský - mogadiszuański | mogadiszański
+mogadišský - mogadiszuański, mogadiszański
 môj - mój
 Mojmír - Mojmir
 mokrý - mokry
 mól - mol
 moldavčina - język mołdawski
 Moldavsko - Mołdawia
-molekula - molekuła | cząsteczka
+molekula - molekuła, cząsteczka
 molybdén - molibden
 monacký - monakijski
 Monako - Monako
-monastier - monaster | monastyr
+monastier - monaster, monastyr
 Mongol - Mongoł
 Mongolka - Mongołka
 Mongolsko - Mongolia
@@ -5038,19 +5038,19 @@ montáž - montaż
 Montevideo - Montevideo
 montovať - montować
 Montserrat - Montserrat
-morálka - moralność | morale
-morálne - moralnie | morálny
+morálka - moralność, morale
+morálne - moralnie, morálny
 morálnosť - moralność
 morálny - moralny
-Morava - Morawy (kraina) | Morawa (rzeka)
+Morava - Morawy (kraina), Morawa (rzeka)
 Moravan - Morawianin
 Moravanka - Morawianka
 moravský - morawski
-morča - indyczę | świnka morska
+morča - indyczę, świnka morska
 more - morze
 morféma - morfem
 Morfeus - Morfeusz
-moriak - indyk | indor
+moriak - indyk, indor
 morka - indyczka
 morské prasiatko - świnka morska
 morský - morski
@@ -5070,10 +5070,10 @@ mozaika - mozaika
 Mozambik - Mozambik
 môže - może
 možno - może
-možnosť - okazja | możliwość
+možnosť - okazja, możliwość
 možný - możliwy
 mozog - mózg
-mračno - chmura | chmara | tuman | mrowie | rój | pochmurnie
+mračno - chmura, chmara, tuman, mrowie, rój, pochmurnie
 mrakodrap - drapacz chmur
 mramor - marmur
 mramorový - marmurowy
@@ -5083,14 +5083,14 @@ mráz - mróz
 mrkva - marchew ( L.)
 mrož - mors
 Mŕtve more - Morze Martwe
-mŕtvola - zwłoki | trup
-mŕtvy - martwy | zmarły | umarły
+mŕtvola - zwłoki, trup
+mŕtvy - martwy, zmarły, umarły
 mucha - mucha
 mudrc - mędrzec
 múdro - mądrze
 múdrosť - mądrość
 múdry - mądry
-muflón - muflon | muflon europejski
+muflón - muflon, muflon europejski
 muka - męka
 múka - mąka
 mulica - mulica
@@ -5103,7 +5103,7 @@ mušketa - muszkiet
 mušketier - muszkieter
 mutácia - mutacja
 mutant - mutant
-muž - mąż | mężczyzna
+muž - mąż, mężczyzna
 múzeum - muzeum
 mužný - męski
 mužský - męski
@@ -5111,23 +5111,23 @@ mužský rod - rodzaj męski
 my - my
 mydlo - mydło
 mykológia - mykologia
-mykóza - mikoza | grzybica
+mykóza - mikoza, grzybica
 myopia - krótkowzroczność
 mys - przylądek
 myš - mysz
 myšiak - myszołów
-myšiak lesný - myszołów zwyczajny | myszołów
+myšiak lesný - myszołów zwyczajny, myszołów
 myšlienka - pomysł
 myslieť - myśleć
 mytológia - mitologia
 mytologický - mitologiczny
-mzda - pensja | wynagrodzenie | płaca
-na - na | do
-náboženský - religijny | wyznaniowy
+mzda - pensja, wynagrodzenie, płaca
+na - na, do
+náboženský - religijny, wyznaniowy
 náboženstvo - religia
 nábytkový - meblowy
 nábytok - mebel
-nachádzať - odnajdywać | znajdować
+nachádzať - odnajdywać, znajdować
 nachladnúť - przeziębić się
 nacionalistický - nacjonalistyczny
 nádej - nadzieja
@@ -5135,12 +5135,12 @@ nadhlavník - zenit
 nadir - nadir
 nadmerne - nadmiernie
 nadmerný - nadmierny
-nádor - guz | narośl | nowotwór
+nádor - guz, narośl, nowotwór
 nadprirodzený - nadprzyrodzony
-nadrealista - nadrealista | surrealista
-nadrealistický - nadrealistyczny | surrealistyczny
-nadrealizmus - nadrealizm | surrealizm
-nádrž - zbiornik | bak
+nadrealista - nadrealista, surrealista
+nadrealistický - nadrealistyczny, surrealistyczny
+nadrealizmus - nadrealizm, surrealizm
+nádrž - zbiornik, bak
 nadšený - entuzjastyczny
 náhoda - przypadek
 náhodný - losowy
@@ -5148,23 +5148,23 @@ nahosť - nagość
 Nahum - Nahum
 nahý - nagi
 Nairobi - Nairobi
-najmä - szczególnie | zwłaszcza
+najmä - szczególnie, zwłaszcza
 najprv - najpierw
 nájsť - znaleźć
 nakázať - nakazać
-náklonnosť - uczucie | skłonność (do kogoś)
+náklonnosť - uczucie, skłonność (do kogoś)
 nakresliť - narysować
 nakúpiť - zakupić
 nálepka - nalepka
 namaľovať - namalować
-námesačníctvo - somnambulizm | lunatyzm
+námesačníctvo - somnambulizm, lunatyzm
 námesačník - lunatyk
 námestie - plac
 Namíbia - Namibia
-namyslenec - zarozumialec | pyszałek
+namyslenec - zarozumialec, pyszałek
 namyslený - zarozumiały
 nandu - nandu
-naozaj - naprawdę | rzeczywiście | istotnie
+naozaj - naprawdę, rzeczywiście, istotnie
 napísať - napisać
 nápoj - napój
 napríklad - na przykład
@@ -5175,33 +5175,33 @@ národ - naród
 narodeniny - urodziny
 národnosť - narodowość
 národný - narodowy
-narúčať - narzucać | nakazywać
-naručiť - narzucić | nakazać
+narúčať - narzucać, nakazywać
+naručiť - narzucić, nakazać
 náš - nasz
 nasledovať - naśladować
 nasledovníčka - zwolenniczka
 nasledovník - zwolennik
-nástroj - narzędzie | instrument | środek
+nástroj - narzędzie, instrument, środek
 nástupca - następca
 nástupkyňa - następczyni
-natrvalo - na stałe | trwale
+natrvalo - na stałe, trwale
 naturalizmus - naturalizm
 naturálny - naturalny
 náuka - nauka
 Nauru - Nauru
-návrh - propozycja | pomysł | sugestia
+návrh - propozycja, pomysł, sugestia
 návšteva - wizyta
 Nazaret - Nazaret
 nazdar - czołem
 na zdravie - na zdrowie!
-názor - pogląd | przekonanie
-názov - nazwa | tytuł
+názor - pogląd, przekonanie
+názov - nazwa, tytuł
 N'Djamena - Ndżamena
 nealkoholický - niealkoholowy
 Neapol - Neapol
 neapolský - neapolitański
 nebezpečenstvo - niebezpieczeństwo
-nebezpečný - niebezpieczny | ryzykowny
+nebezpečný - niebezpieczny, ryzykowny
 nebo - niebo
 nebohý - biedny
 nebolestivý - bezbolesny
@@ -5209,29 +5209,29 @@ nebožtík - nieboszczyk
 necht - paznokieć
 nechuť - niechęć
 neďaleko - niedaleko
-neďaleký - pobliski | niedaleki
-nedávno - niedawno | dopiero (co)
+neďaleký - pobliski, niedaleki
+nedávno - niedawno, dopiero (co)
 nedeľa - niedziela
-nedobrý - niedobry | zły
+nedobrý - niedobry, zły
 nedostatok - niedostatek
 neforemný - nieforemny
-neformálny - nieformalny | potoczny
+neformálny - nieformalny, potoczny
 negatívny - negatywny
 nehoda - wypadek
-nekróza - martwica | nekroza
+nekróza - martwica, nekroza
 nelogickosť - nielogiczność
 nelogický - nielogiczny
 nemčina - język niemiecki
 Nemec - Niemiec
 Nemecká demokratická republika - Niemiecka Republika Demokratyczna
-Nemecká spolková republika - Republika Federalna Niemiec | Niemcy
+Nemecká spolková republika - Republika Federalna Niemiec, Niemcy
 Nemecko - Niemcy
 nemecký - niemiecki
 nemilý - niemiły
 Nemka - Niemka
 nemoc - choroba
 nemocnica - szpital
-nemoderný - nienowoczesny | konserwatywny
+nemoderný - nienowoczesny, konserwatywny
 nemožný - niemożliwy
 nemý - niemy
 nenávidieť - nienawidzić
@@ -5245,18 +5245,18 @@ neodvratný - nieunikniony
 neodým - neodym
 neoliberalizmus - neoliberalizm
 neón - neon
-neosobný - nieosobowy | bezosobowy
+neosobný - nieosobowy, bezosobowy
 Nepál - Nepal
 nepálčina - język nepalski
 nepálsky - nepalski
 neplnoletý - niepełnoletni
 nepotrebne - niepotrzebnie
 nepotrebný - niepotrzebny
-nepriateľ - nieprzyjaciel | wróg
+nepriateľ - nieprzyjaciel, wróg
 nepriateľský - nieprzyjazny
 nepríjemne - nieprzyjemnie
 nepríjemný - nieprzyjemny
-neprítomnosť - absencja | nieobecność | brak
+neprítomnosť - absencja, nieobecność, brak
 Neptún - Neptun
 neptúnium - neptun
 nereálny - nierealny
@@ -5273,23 +5273,23 @@ nespravodlivo - niesprawiedliwie
 nespravodlivosť - niesprawiedliwość
 nešťastie - nieszczęście
 nestoriánstvo - nestorianizm
-neter - bratanica | siostrzenica
+neter - bratanica, siostrzenica
 netopier - nietoperz
 neurotička - neurotyczka
 neurotický - neurotyczny
 neurotik - neurotyk
-neuróza - nerwica | neuroza
+neuróza - nerwica, neuroza
 neutrón - neutron
 neužitočný - bezużyteczny
 nevernosť - niewierność
-nevesta - panna młoda | narzeczona | synowa
+nevesta - panna młoda, narzeczona, synowa
 neviditeľnosť - niewidzialność
 neviditeľný - niewidzialny
 nevlastná dcéra - pasierbica
 nevlastná matka - macocha
 nevlastný otec - ojczym
 nevlastný syn - pasierb
-nevraživosť - niechęć | wrogość
+nevraživosť - niechęć, wrogość
 nevyliečiteľný - nieuleczalny
 newton - niuton
 newyorský - nowojorski
@@ -5297,8 +5297,8 @@ nezábudka - niezapominajka
 nezamestnanosť - bezrobocie
 nezamestnaný - bezrobotny
 nezávislosť - niepodległość
-nezávislý - niepodległy | niezawisły
-nezmyselný - absurdalny | bezsensowny
+nezávislý - niepodległy, niezawisły
+nezmyselný - absurdalny, bezsensowny
 nič - nic
 Nice - Nicea
 nie - nie
@@ -5322,7 +5322,7 @@ nikotínový - nikotynowy
 Nikózia - Nikozja
 nikto - nikt
 Níl - Nil
-Nina - Nina | słowackie imię żeńskie
+Nina - Nina, słowackie imię żeńskie
 niób - niob
 nirvána - nirwana
 Nitra - Nitra
@@ -5332,12 +5332,12 @@ nížina - nizina
 nížinný - nizinny
 nízkopodlažný - niskopodłogowy
 nízky - niski
-no - ale | lecz | no | ależ | nie
+no - ale, lecz, no, ależ, nie
 nobelium - nobel
 noc - noc
 nočný - nocny
 noha - noga
-nohavice - spodnie | nohavica
+nohavice - spodnie, nohavica
 nominatív - mianownik
 Nór - Norweg
 nórčina - język norweski
@@ -5349,18 +5349,18 @@ Nórske more - Morze Norweskie
 Nórsko - Norwegia
 nórsky - norweski
 nos - nos
-nosiť - nosić (np. ubranie) | nieść | nosić
+nosiť - nosić (np. ubranie), nieść, nosić
 nosorožec - nosorożec
 nov - nów
 Novák - Nowak
 Nová Kaledónia - Nowa Kaledonia
-Nováková - Nowakowa | Nowak
+Nováková - Nowakowa, Nowak
 Nová Zem - Nowa Ziemia
 november - listopad
 Nové Mexiko - Nowy Meksyk
 novinár - dziennikarz
 novinárka - dziennikarka
-noviny - gazeta | novina
+noviny - gazeta, novina
 novogréčtina - język nowogrecki
 novoplatonizmus - neoplatonizm
 novoplatónsky - neoplatoński
@@ -5375,7 +5375,7 @@ Núbia - Nubia
 ňuchať - wąchać
 nuda - nuda
 nudný - nudny
-núdza - nędza | bieda
+núdza - nędza, bieda
 nukleónové číslo - liczba masowa
 nula - zero
 nulový - zerowy
@@ -5386,32 +5386,32 @@ nymfomanický - nimfomański
 nymfomanka - nimfomanka
 o - o
 Ob - Ob
-oba - oba | obydwa
+oba - oba, obydwa
 občan - obywatel
-obchod - handel | sklep
-obchodník - handlowiec | kupiec
+obchod - handel, sklep
+obchodník - handlowiec, kupiec
 obdĺžnik - prostokąt
 obdĺžnikový - prostokątny
-obdobie - okres | pora | sezon | epoka
+obdobie - okres, pora, sezon, epoka
 obecenstvo - publiczność
 obed - obiad
-Obetovanie Pána - Ofiarowanie Pańskie | Matki Boskiej Gromnicznej
+Obetovanie Pána - Ofiarowanie Pańskie, Matki Boskiej Gromnicznej
 obežnica - planeta
 obhrýzať - obgryzać
 objaviteľ - odkrywca
 objaviteľka - odkrywczyni
 objednávka - zamówienie
 oblačno - pochmurno
-oblačnosť - pochmurność | zachmurzenie
-oblak - chmura | obłok | smuga
-oblasť - obszar | okolica | strefa | dziedzina | zakres | gałąź
+oblačnosť - pochmurność, zachmurzenie
+oblak - chmura, obłok, smuga
+oblasť - obszar, okolica, strefa, dziedzina, zakres, gałąź
 oblečenie - odzież
 oblek - ubranie
-obličaj - twarz | oblicze
+obličaj - twarz, oblicze
 oblička - nerka
-obloha - niebo | firmament
+obloha - niebo, firmament
 oblok - okno
-oblý - okrągły | obły | zaokrąglony
+oblý - okrągły, obły, zaokrąglony
 obojživelník - płaz
 obor - olbrzym
 obrázok - obrazek
@@ -5419,72 +5419,72 @@ obriezka - obrzezanie
 obrovský - olbrzymi
 obrúčka - obrączka
 obrus - obrus
-obrys - kontur | obrys
-obscénny - obsceniczny | wulgarny
+obrys - kontur, obrys
+obscénny - obsceniczny, wulgarny
 observatórium - obserwatorium
 obsidián - obsydian
 obuv - obuwie
 obuvník - szewc
-obyčaj - zwyczaj | maniery
-obyčajný - zwykły | zwyczajny
+obyčaj - zwyczaj, maniery
+obyčajný - zwykły, zwyczajny
 obyvateľ - mieszkaniec
 obyvateľka - mieszkanka
 obyvateľský - obywatelski
-obyvateľstvo - ludność | populacja
-obzor - horyzont | widnokrąg | perspektywa | horyzont (  horyzonty) | poziom
+obyvateľstvo - ludność, populacja
+obzor - horyzont, widnokrąg, perspektywa, horyzont (  horyzonty), poziom
 occitánsky - prowansalski
 oceán - ocean
 oceľ - stal
 oceňovať - wyceniać
 ochladiť - ochłodzić
-ochorenie - choroba | dolegliwość
+ochorenie - choroba, dolegliwość
 ochorieť - zachorować
 ochrana - ochrona
 očierniť - oczernić
 očistec - czyściec
 očistiť - oczyścić
 očný - oczny
-oco - ojciec | tato
+oco - ojciec, tato
 ocot - ocet
 odborár - związkowiec
-odborník - fachowiec | specjalista
-odchod - odejście | odjazd
+odborník - fachowiec, specjalista
+odchod - odejście, odjazd
 odčítanie - odejmowanie
 oddanosť - oddanie
-oddych - odpoczynek | oddech
+oddych - odpoczynek, oddech
 Odesa - Odessa
 odídenec - azylant
 odídenkyňa - azylantka
-odkaz - link | odnośnik | odniesienie
+odkaz - link, odnośnik, odniesienie
 odkiaľ - skąd
-odklad - odroczenie | zwłoka
+odklad - odroczenie, zwłoka
 odklínať - odklinać
 odliv - odpływ
-odpor - opór | sprzeciw | wstręt | odraza
+odpor - opór, sprzeciw, wstręt, odraza
 odpoveď - odpowiedź
-odsek - ustęp | akapit
+odsek - ustęp, akapit
 odsuvník - apostrof
 odtieň - odcień
 odvážiť sa - odważyć się
 odvážny - odważny
-odveta - rewanż | odwet
+odveta - rewanż, odwet
 odvolanie - odwołanie
 ofenzíva - ofensywa
 oficiálny - oficjalny
 ofina - grzywka
-oheň - ogień | pożar | ogromny ból | palenie | podkreślenie siły jakiegoś zjawiska | niebezpieczna | ciężka sytuacja
+oheň - ogień, pożar, ogromny ból, palenie, podkreślenie siły jakiegoś zjawiska, niebezpieczna, ciężka sytuacja
 ohlásiť - ogłosić
 ohm - om
 ohňostroj - fajerwerk
-ohovárať - obmawiać | oczerniać
-ohrada - ogrodzenie | płot | zagroda
-okamih - okamgnienie | moment | chwila
+ohovárať - obmawiać, oczerniać
+ohrada - ogrodzenie, płot, zagroda
+okamih - okamgnienie, moment, chwila
 okcitánčina - język oksytański
 oklamať - okłamać
 okno - okno
 oko - oko
-okolo - wokół | obok
-okrem - oprócz | poza
+okolo - wokół, obok
+okrem - oprócz, poza
 október - październik
 okuliare - okulary
 okultizmus - okultyzm
@@ -5493,7 +5493,7 @@ okupant - okupant
 okupovať - okupować
 olej - olej
 Oľga - Olga
-oliva - oliwka (drzewo) | oliwka (owoc)
+oliva - oliwka (drzewo), oliwka (owoc)
 Olomouc - Ołomuniec
 olovo - ołów
 olovrant - podwieczorek
@@ -5508,8 +5508,8 @@ omietkar - tynkarz
 on - on
 ona - ona
 onánia - onanizm
-Ondrej - Jędrzej | Andrzej
-Ondrejov - Jędrzejowy | Andrzejowy
+Ondrej - Jędrzej, Andrzej
+Ondrejov - Jędrzejowy, Andrzejowy
 ondulácia - ondulacja
 oni - oni
 onkológia - onkologia
@@ -5521,20 +5521,20 @@ operácia - operacja
 operačný - operacyjny
 operačný systém - system operacyjny
 opica - małpa
-opilec - pijak | pijany
+opilec - pijak, pijany
 opísať - opisać
 opitý - pijany
 opitý ako snop - pijany jak bela
-oplotenie - ogrodzenie | płot | parkan
+oplotenie - ogrodzenie, płot, parkan
 opozícia - opozycja
 opozičný - opozycyjny
 opozitum - antonim
-opúšťať - opuszczać | porzucać
-opustiť - opuścić | porzucić | opuścić się | zapuścić się | zaniedbać się
+opúšťať - opuszczać, porzucać
+opustiť - opuścić, porzucić, opuścić się, zapuścić się, zaniedbać się
 oranžový - pomarańczowy
 orať - orać
 oravský - orawski
-orbita - orbita | oczodół
+orbita - orbita, oczodół
 orchester - orkiestra
 ordovik - ordowik
 orech - orzech
@@ -5571,7 +5571,7 @@ os - oś
 osa - osa
 Osaka - Osaka
 osciloskop - oscyloskop
-osem - osiem | 8
+osem - osiem, 8
 osemdesiat - osiemdziesiąt
 osemdesiaty - osiemdziesiąty
 osemnásť - osiemnaście
@@ -5582,7 +5582,7 @@ oskičtina - język oskijski
 oslabiť - osłabić
 Oslo - Oslo
 oslobodenie - oswobodzenie
-oslobodiť - oswobodzić | oswobodzić się | uwolnić się
+oslobodiť - oswobodzić, oswobodzić się, uwolnić się
 osmička - ósemka
 osmium - osm
 ôsmy - ósmy
@@ -5600,7 +5600,7 @@ oťarchavieť - zajść w ciążę
 otázka - pytanie
 otčim - ojczym
 otcovský - ojcowski
-otec - ojciec | tato
+otec - ojciec, tato
 otepľovanie - ocieplenie
 otráviť - otruć
 otrok - niewolnik
@@ -5615,15 +5615,15 @@ ovčí - owczy
 ovocie - owoc
 ovocný - owocowy
 ovos - owies
-ovulácia - owulacja | jajeczkowanie
+ovulácia - owulacja, jajeczkowanie
 -ový - -owy
-oxidácia - oksydacja | utlenianie
+oxidácia - oksydacja, utlenianie
 oxymoron - oksymoron
 ozajstný - prawdziwy
-ozbrojený - uzbrojony | zbrojny
+ozbrojený - uzbrojony, zbrojny
 ozimina - ozimina
 oživiť - ożywić
-označenie - oznaczenie | określenie
+označenie - oznaczenie, określenie
 označovať - oznaczać
 oznámiť - oznajmić
 oznamovací spôsob - tryb oznajmujący
@@ -5633,11 +5633,11 @@ pacientka - pacjentka
 pacifista - pacyfista
 pacifistický - pacyfistyczny
 pacifizmus - pacyfizm
-pád - spadanie | upadek | przypadek
+pád - spadanie, upadek, przypadek
 Pád - Pad
-padať - padać | upadać
+padať - padać, upadać
 Padova - Padwa
-padúcnica - epilepsja | padaczka
+padúcnica - epilepsja, padaczka
 páka - dźwignia
 Pakistan - Pakistan
 Pakistanec - Pakistańczyk
@@ -5651,18 +5651,18 @@ Palaučan - Palauańczyk
 Palaučanka - Palauanka
 palauský - palauański
 palec - kciuk
-pálenka - brandy | winiak
+pálenka - brandy, winiak
 paleontológia - paleontologia
 paleozoický - paleozoiczny
 paleozoikum - paleozoik
-palica - laska | kij
-páliť - palić | przypalać
-palivo - paliwo | opał
+palica - laska, kij
+páliť - palić, przypalać
+palivo - paliwo, opał
 paluba - pokład
 pamäť - pamięć
 pamäťový - pamięciowy
 pamflet - pamflet
-pán - pan | właściciel
+pán - pan, właściciel
 Panama - Panama
 pančucha - pończocha
 pandeizmus - pandeizm
@@ -5673,7 +5673,7 @@ pankreatický - trzustkowy
 Panna - Panna
 panoráma - panorama
 panteizmus - panteizm
-pantograf - pantograf (przyrząd kreślarski) | pantograf | odbierak prądu
+pantograf - pantograf (przyrząd kreślarski), pantograf, odbierak prądu
 papagáj - papuga
 pápež - papież
 papier - papier
@@ -5695,7 +5695,7 @@ parkovisko - parking
 parlament - parlament
 parlamentný - parlamentarny
 pas - pas
-pás - pas | taśma
+pás - pas, taśma
 pasažier - pasażer
 pasažierka - pasażerka
 Pásmo Gazy - Strefa Gazy
@@ -5705,7 +5705,7 @@ pasta - pasta
 pastier - pasterz
 pastiersky - pasterski
 pat - pat
-päť - pięć | 5
+päť - pięć, 5
 päta - pięta
 päťboj - pięciobój
 päťbojár - pięcioboista
@@ -5713,7 +5713,7 @@ päťdesiat - pięćdziesiąt
 päťdesiatnička - pięćdziesięciolatka
 päťdesiatnik - pięćdziesięciolatek
 päťdesiaty - pięćdziesiąty
-pätica - piątka | cokół | trzonek
+pätica - piątka, cokół, trzonek
 päťnásobný - pięciokrotny
 pätnásť - piętnaście
 pätnásty - piętnasty
@@ -5721,7 +5721,7 @@ patológia - patologia
 päťročný - pięcioletni
 päťsto - pięćset
 päťstý - pięćsetny
-päťtisic - pięć tysięcy | 5000
+päťtisic - pięć tysięcy, 5000
 päťuholník - pięciokąt
 päťuholníkový - pięciokątny
 päťzväzkový - pięciotomowy
@@ -5752,14 +5752,14 @@ pejoratívny - pejoratywny
 pekár - piekarz
 Peking - Pekin
 peklo - piekło
-pekne - pięknie | ładnie | dobrze
-pekný - piękny | ładny | dobry
+pekne - pięknie, ładnie, dobrze
+pekný - piękny, ładny, dobry
 pelikán - pelikan
 Peloponéz - Peloponez
-peň - pień | pieniek | pniak | karcz
+peň - pień, pieniek, pniak, karcz
 pena - piana
 penalta - rzut karny
-peniaze - pieniądze | peniaz
+peniaze - pieniądze, peniaz
 penica - pokrzewka
 penica popolavá - piegża
 penzión - pensjonat
@@ -5768,9 +5768,9 @@ peračník - piórnik
 percento - procent
 perla - perła
 perlička - perliczka
-pero - pióro (ptasie) | pióro (do pisania) | sprężyna | resor
+pero - pióro (ptasie), pióro (do pisania), sprężyna, resor
 personálny - personalny
-personifikácia - personifikacja | uosobienie
+personifikácia - personifikacja, uosobienie
 perspektíva - perspektywa
 Peru - Peru
 Peruánka - Peruwianka
@@ -5778,31 +5778,31 @@ Perzia - Persja
 perzský - perski
 pes - pies
 pesnička - piosenka
-pestrofarebný - różnokolorowy | pstry | pstrokaty
+pestrofarebný - różnokolorowy, pstry, pstrokaty
 Peter - Piotr
 Petra - Piotra (imię żeńskie)
-pevný - pewny | zdecydowany | stacjonarny | stały
+pevný - pewny, zdecydowany, stacjonarny, stały
 pianista - pianista
 pianistka - pianistka
-piano - piano | cicho | delikatnie | pianino | fortepian
+piano - piano, cicho, delikatnie, pianino, fortepian
 piate koleso na voze - piąte koło u wozu
 piatok - piątek
-piaty - piąty | 5.
+piaty - piąty, 5.
 piča - cipa
 pichliač - ostrożeń
 piecť - piec
 Piemont - Piemont
-pieseň - piosenka | pieśń
+pieseň - piosenka, pieśń
 pieskovisko - piaskownica
 piesok - piasek
-pijak - pijak | bibuła | przełyk u drobiu | kleszcz
+pijak - pijak, bibuła, przełyk u drobiu, kleszcz
 pijan - pijak
 pijanka - pijaczka
 pijanský - pijański
 pijanstvo - pijaństwo
 pijavica - pijawka
-píla - piła | tartak
-pilier - filar | słup
+píla - piła, tartak
+pilier - filar, słup
 pilníček - pilniczek
 pilník - pilnik
 pilovať - piłować
@@ -5821,7 +5821,7 @@ Pittsburgh - Pittsburgh (stolica Allegheny)
 pivnica - piwnica
 pivnička - piwniczka
 pivničný - piwniczny
-pivo - piwo (napój) | piwo (kufel / butelka)
+pivo - piwo (napój), piwo (kufel / butelka)
 pivot - piwot
 pivovar - browar
 pizza - pizza
@@ -5829,15 +5829,15 @@ PKO - Park Kultury i Wypoczynku
 plagiát - plagiat
 plagiátor - plagiator
 plagiátorstvo - plagiatorstwo
-plagizovať - plagiatować | splagiatować
+plagizovať - plagiatować, splagiatować
 plakať - płakać
 plameň - płomień
-plameniak - flaming | czerwonak
+plameniak - flaming, czerwonak
 planéta - planeta
 planetárium - planetarium
 plánovať - planować
-plášť - płaszcz | trencz | osłona | pancerz
-plat - pensja | pobory
+plášť - płaszcz, trencz, osłona, pancerz
+plat - pensja, pobory
 platan - platan
 platba - płatność
 platina - platyna
@@ -5862,10 +5862,10 @@ plechový - blaszany
 ples - bal
 pleseň - pleśń
 plesňový - pleśniowy
-pleso - staw | jezioro w Tatrach
+pleso - staw, jezioro w Tatrach
 plnoletosť - pełnoletniość
 plnoletý - pełnoletni
-plný - pełny | pełen
+plný - pełny, pełen
 plocha - płaszczyzna
 plochý - płaski
 plot - płot
@@ -5875,7 +5875,7 @@ pluh - pług
 plukovník - pułkownik
 plurál - liczba mnoga
 pľuť - pluć
-Pluto - Pluton | Hades
+Pluto - Pluton, Hades
 plutónium - pluton
 plyn - gaz
 plynovod - gazociąg
@@ -5889,26 +5889,26 @@ pobrežie - wybrzeże
 Pobrežie Slonoviny - Wybrzeże Kości Słoniowej
 pobrežník - biegus
 pobrežník čiernozobý - biegus zmienny
-počas - podczas | w czasie
+počas - podczas, w czasie
 počasie - pogoda
-počet - ilość | rachunek
-pochovať - pochować | pogrzebać
+počet - ilość, rachunek
+pochovať - pochować, pogrzebać
 pochvala - pochwała
 pochybovačnosť - powątpiewanie
 pochybovať - wątpić
-pocit - uczucie | poczucie
+pocit - uczucie, poczucie
 počítač - komputer
 počítačový - komputerowy
 počkať - poczekać
-počuť - słyszeć | usłyszeć | słychać
-počúvať - słuchać | być posłusznym
+počuť - słyszeć, usłyszeć, słychać
+počúvať - słuchać, być posłusznym
 poďakovať - podziękować
 podávať - podawać
 Podgorica - Podgorica
-Podkarpatská Rus - Zakarpacie | Ukraina Zakarpacka
-podľa - według | zgodnie z
+Podkarpatská Rus - Zakarpacie, Ukraina Zakarpacka
+podľa - według, zgodnie z
 podlaha - podłoga
-podlý - podły | nikczemny
+podlý - podły, nikczemny
 podmet - podmiot
 podmieňovací spôsob - tryb przypuszczający
 podnikateľ - przedsiębiorca
@@ -5918,11 +5918,11 @@ podobný - podobny
 podpáliť - podpalić
 podpazušie - pacha
 podpis - podpis
-podporovať - wspierać | pomagać
+podporovať - wspierać, pomagać
 podprsenka - biustonosz
-podráždenie - podrażnienie | rozdrażnienie
+podráždenie - podrażnienie, rozdrażnienie
 podráždiť - podrażnić
-podriadenie - poddanie | podporządkowanie
+podriadenie - poddanie, podporządkowanie
 podstatné meno - rzeczownik
 podunajský - naddunajski
 poduška - poduszka
@@ -5935,14 +5935,14 @@ poézia - poezja
 pohan - poganin
 pohanka - poganka
 pohanský - pogański
-pohár - szklanka | puchar
+pohár - szklanka, puchar
 Pohár - Puchar
-pohľadnica - pocztówka | widokówka
+pohľadnica - pocztówka, widokówka
 pohlavie - płeć
 pohlavne - płciowo
 pohlavný - płciowy
-pohltiť - pochłonąć | połknąć
-pohnúť - ruszyć | poruszyć
+pohltiť - pochłonąć, połknąć
+pohnúť - ruszyć, poruszyć
 pohorelec - pogorzelec
 pohorenisko - pogorzelisko
 pohorie - pasmo górskie
@@ -5952,13 +5952,13 @@ pohyb - ruch
 poinformovať - poinformować
 poker - poker
 pokladník - kasjer
-pokoj - spoczynek | spokój | pokój
+pokoj - spoczynek, spokój, pokój
 pokojný - spokojny
 pokožka - naskórek
 pokračovať - kontynuować
 pokrm - pokarm
 pokrmový - pokarmowy
-pokuta - grzywna | mandat | kara pieniężna
+pokuta - grzywna, mandat, kara pieniężna
 pol - pół
 pól - biegun
 pole - pole
@@ -5977,8 +5977,8 @@ politologička - politolożka
 politologický - politologiczny
 Poľka - Polka
 pollitrovka - półlitrówka
-polnoc - północ | 12 w nocy
-poľnohospodársky - rolniczy | rolny
+polnoc - północ, 12 w nocy
+poľnohospodársky - rolniczy, rolny
 poľnohospodárstvo - rolnictwo
 pologuľa - półkula
 polónium - polon
@@ -5987,7 +5987,7 @@ polopúšť - półpustynia
 polopúšťový - półpustynny
 polostrov - półwysep
 poľovať - polować
-Poľovné psy - Psy Gończe | Gwiazdozbiór Psów Gończych
+Poľovné psy - Psy Gończe, Gwiazdozbiór Psów Gończych
 polovodič - półprzewodnik
 položiť - położyć
 polročný - półroczny
@@ -6002,10 +6002,10 @@ polyglot - poliglota
 polyteistický - politeistyczny
 polyteizmus - politeizm
 pomáhať - pomagać
-pomaly - pomału | powoli
+pomaly - pomału, powoli
 pomalý - powolny
 pomaranč - pomarańcza
-pomlčka - milczenie | myślnik
+pomlčka - milczenie, myślnik
 pomník - pomnik
 pomoc - pomoc
 pomocník - pomocnik
@@ -6013,27 +6013,27 @@ pomocný - pomocniczy
 pomôcť - pomóc
 pondelok - poniedziałek
 ponižovať - poniżać
-ponor - zanurzenie | ponor
-ponorka - łódź podwodna | okręt podwodny
-ponožka - skarpeta | skarpetka
+ponor - zanurzenie, ponor
+ponorka - łódź podwodna, okręt podwodny
+ponožka - skarpeta, skarpetka
 pontifikát - pontyfikat
-ponuka - propozycja | oferta | podaż
+ponuka - propozycja, oferta, podaż
 ponuro - ponuro
 poobšívať - poobszywać
 pop - pop
 popierať - zaprzeczać
 popkultúra - popkultura
-poplatok - opłata | abonament
+poplatok - opłata, abonament
 popol - popiół
 popolavý - popielaty
 Popolcová streda - Środa Popielcowa
 popoludnie - popołudnie
 popôrodný - poporodowy
-Poprad - Poprad (rzeka) | Poprad (miasto)
+Poprad - Poprad (rzeka), Poprad (miasto)
 poprosiť - poprosić
 populácia - populacja
 por. - porucznik
-porážka - porażka | przegrana
+porážka - porażka, przegrana
 porcelán - porcelana
 porcelánový - porcelanowy
 pornografia - pornografia
@@ -6058,11 +6058,11 @@ poručiteľ - spadkodawca
 poručiteľka - spadkodawczyni
 poschodie - piętro
 poškodená - poszkodowana
-poškodenie - szkoda | uszkodzenie
+poškodenie - szkoda, uszkodzenie
 poškodený - poszkodowany
 poslanecký - poselski
-poslať - posłać | wysłać
-poslať do čerta - wysłać do diabła | posłać do diabła | posłać do wszystkich diabłów
+poslať - posłać, wysłać
+poslať do čerta - wysłać do diabła, posłać do diabła, posłać do wszystkich diabłów
 posledný - ostatni
 poslucháč - słuchacz
 poslucháčka - słuchaczka
@@ -6077,24 +6077,24 @@ posteľ - łóżko
 postierať - pościerać
 poštový - pocztowy
 postupný - stopniowy
-pošva - pochwa | pochwa (na broń)
+pošva - pochwa, pochwa (na broń)
 pot - pot
-potápač - nurek | tracz
+potápač - nurek, tracz
 potápka - perkoz
 potápka chochlatá - perkoz dwuczuby
 potáplica - nur
 potkan - szczur
-potok - potok | strumień
+potok - potok, strumień
 potomok - potomek
 potomstvo - potomstwo
-potrat - aborcja | poronienie
+potrat - aborcja, poronienie
 potrava - potrawa
 potreba - potrzeba
 potrebný - potrzebny
 potrebovať - potrzebować
 poutierať - powycierać
 používateľ - użytkownik
-povaha - natura | charakter
+povaha - natura, charakter
 povedať - powiedzieć
 povel - rozkaz
 povera - przesąd
@@ -6104,7 +6104,7 @@ pôvod - pochodzenie
 povodeň - powódź
 povodňový - powodziowy
 povolanec - rekrut
-povraz - sznur | lina | powróz
+povraz - sznur, lina, powróz
 povrch - powierzchnia
 povstanie - powstanie
 pozajtra - pojutrze
@@ -6115,28 +6115,28 @@ pôžička - pożyczka
 pozičný - pozycyjny
 pozmetať - pozmiatać
 Poznaň - Poznań
-Poznančan - poznanianin | poznaniak
+Poznančan - poznanianin, poznaniak
 Poznančanka - poznanianka
 poznanský - poznański
-poznať - znać | poznać | zaznać
+poznať - znać, poznać, zaznać
 pozor - uwaga
 pozornosť - uwaga
 pozorný - uważny
 pozorovať - obserwować
 pozostalosť - spadek
 práca - praca
-prach - kurz | pył | proch
+prach - kurz, pył, proch
 prací prášok - proszek do prania
-pračka - bójka | bijatyka | bitka
-práčka - praczka | pralka
-pracovať - pracować | wykonywać pracę | być zatrudnionym w
+pračka - bójka, bijatyka, bitka
+práčka - praczka, pralka
+pracovať - pracować, wykonywać pracę, być zatrudnionym w
 práčovňa - pralnia
-pracovníčka - pracownica | pracowniczka
+pracovníčka - pracownica, pracowniczka
 pracovník - pracownik
 Praha - Praga
 prak - proca
 prameň - źródło
-prasa - prosię | prosię (ktoś brudny lub nieprzyzwoity)
+prasa - prosię, prosię (ktoś brudny lub nieprzyzwoity)
 prašiak - trzepak
 prasiatko - prosiątko
 praslovančina - język prasłowiański
@@ -6152,7 +6152,7 @@ pravdivý - prawdziwy
 pravdovravný - prawdomówny
 pravičiar - prawicowiec
 pravicový - prawicowy
-pravidlo - prawidło | przepis | formuła
+pravidlo - prawidło, przepis, formuła
 právnik - prawnik
 pravnučka - prawnuczka
 pravnuk - prawnuk
@@ -6164,12 +6164,12 @@ právoplatnosť - prawomocność
 právoplatný - prawomocny
 pravoslávie - prawosławie
 pravoslávny - prawosławny
-pravý - prawy | prawicowy | prawdziwy | właściwy
-prázdny - pusty | wolny
+pravý - prawy, prawicowy, prawdziwy, właściwy
+prázdny - pusty, wolny
 prazeodým - prazeodym
 prd - pierdnięcie
-pre - z powodu | przez (kogo, co) | dla
-prechádzka - spacer | przechadzka
+pre - z powodu, przez (kogo, co), dla
+prechádzka - spacer, przechadzka
 prechladnúť - przeziębić się
 prečo - dlaczego
 predaj - sprzedaż
@@ -6184,26 +6184,26 @@ predložka - przyimek
 predložkový - przyimkowy
 predmestie - przedmieście
 predmet - przedmiot
-predovšetkým - przede wszystkim | szczególnie | zwłaszcza
+predovšetkým - przede wszystkim, szczególnie, zwłaszcza
 predpoludnie - przedpołudnie
 predpona - przedrostek
-predseda - przewodniczący | prezes
+predseda - przewodniczący, prezes
 predstavenie - przedstawienie
-predstaviť - przedstawić | przedstawić się
+predstaviť - przedstawić, przedstawić się
 predstaviteľ - przedstawiciel
 predstaviteľka - przedstawicielka
 predsudok - przesąd
 predvčerom - przedwczoraj
 prejsť - przejść
 prekážať - przeszkadzać
-preklad - przekład | tłumaczenie
-prekladanie - przekładanie | tłumaczenie
-prekladať - przekładać | tłumaczyć | przekładać (z jednego języka na drugi)
+preklad - przekład, tłumaczenie
+prekladanie - przekładanie, tłumaczenie
+prekladať - przekładać, tłumaczyć, przekładać (z jednego języka na drugi)
 prekladateľ - tłumacz
 preležanina - odleżyna
 preložiť - przełożyć
 premárniť - zmarnować
-premena - zmiana | przemiana | odmiana
+premena - zmiana, przemiana, odmiana
 premiér - premier
 prenasledovať - prześladować
 prenocovať - przenocować
@@ -6216,16 +6216,16 @@ Prešporok - Bratysława
 pretancovať - przetańczyć
 pretekár - zawodnik
 pretože - ponieważ
-pretvoriť - przekształcać | przetworzyć | przeobrażać
-preukaz - dowód | legitymacja
-preukázať - przejawić | ukazać | wyświadczyć
+pretvoriť - przekształcać, przetworzyć, przeobrażać
+preukaz - dowód, legitymacja
+preukázať - przejawić, ukazać, wyświadczyć
 prevaha - przewaga
 preveriť - sprawdzić
 previezť - przewieźć
 prezident - prezydent
 prezidentský - prezydencki
 pŕhľava - pokrzywa
-priamy - prosty | bezpośredni | całkowity
+priamy - prosty, bezpośredni, całkowity
 prianie - życzenie
 priateľ - przyjaciel
 priateľka - przyjaciółka
@@ -6238,8 +6238,8 @@ príčina - przyczyna
 pričňa - prycza
 prídavné meno - przymiotnik
 priecestie - przejazd kolejowy
-priečinok - szuflada | przegródka | skrytka pocztowa
-priemer - średnia | średnica
+priečinok - szuflada, przegródka, skrytka pocztowa
+priemer - średnia, średnica
 priemerne - przeciętnie
 priemernosť - przeciętność
 priemerný - przeciętny
@@ -6256,13 +6256,13 @@ príjemnosť - przyjemność
 príjemný - przyjemny
 prikázať - przykazać
 príklad - przykład
-príliš - zbyt | zbytnio
+príliš - zbyt, zbytnio
 prímas - prymas
 prímerie - rozejm
 princezná - księżniczka
 prinútiť - zmusić
 pripekať - przypiekać
-príroda - natura | przyroda
+príroda - natura, przyroda
 prírodný - przyrodniczy
 príručka - podręcznik
 príručkový - podręcznikowy
@@ -6274,7 +6274,7 @@ prisťahovalectvo - imigracja
 prístav - port
 prístavný - portowy
 prístup - dostęp
-prítomnosť - teraźniejszość | współczesność | obecność
+prítomnosť - teraźniejszość, współczesność, obecność
 prítomný - obecny
 prítomný čas - czas teraźniejszy
 priúčať - uczyć
@@ -6285,8 +6285,8 @@ privlastňovacie zámeno - zaimek dzierżawczy
 prívrženec - zwolennik
 prívrženkyňa - zwolenniczka
 prízemie - parter
-prízrak - zjawa | widmo
-prízvuk - akcent | akcent wyrazowy
+prízrak - zjawa, widmo
+prízvuk - akcent, akcent wyrazowy
 problém - problem
 problematika - problematyka
 prodekan - prodziekan
@@ -6295,7 +6295,7 @@ produkovať - produkować
 produktivita - wydajność
 profanizácia - profanacja
 profanovať - profanować
-program - program | plan
+program - program, plan
 programový - programowy
 progresívny - progresywny
 projekt - projekt
@@ -6308,12 +6308,12 @@ prosím - proszę
 prostitutka - prostytutka
 prostitútka - prostytutka
 prostota - prostota
-prostredie - sytuacja | położenie | okoliczności | środowisko | otoczenie
+prostredie - sytuacja, położenie, okoliczności, środowisko, otoczenie
 protaktínium - protaktyn
 protiklerikálny - antyklerykalny
 protireformácia - kontrreformacja
 protivníčka - przeciwniczka
-protivník - adwersarz | przeciwnik
+protivník - adwersarz, przeciwnik
 protón - proton
 protoplazma - protoplazma
 Provensalsko - Prowansja
@@ -6323,14 +6323,14 @@ próza - proza
 prozaický - prozaiczny
 prsia - piersi
 prst - palec
-prsť - ziemia | gleba
+prsť - ziemia, gleba
 prsteň - pierścień
-prstenec - pierścień | pierścionek
+prstenec - pierścień, pierścionek
 prstenník - serdeczny palec
 prúd - prąd
 pružina - sprężyna
 prvočíslo - liczba pierwsza
-prvok - element | pierwiastek | pierwotniak
+prvok - element, pierwiastek, pierwotniak
 prvý - pierwszy
 pšenica - pszenica
 pseudonym - pseudonim
@@ -6369,7 +6369,7 @@ Rabat - Rabat
 rabín - rabin
 racionalizmus - racjonalizm
 radar - radar
-radiátor - grzejnik | kaloryfer
+radiátor - grzejnik, kaloryfer
 radikalizmus - radykalizm
 rádio - radio
 rádioaktívnosť - radioaktywność
@@ -6396,8 +6396,8 @@ rám - rama
 rameno - ramię
 raňajkovať - jeść śniadanie
 raňajky - śniadanie
-rande - randka | spotkanie
-ráno - rano | poranek | ranek | wcześnie | z rana
+rande - randka, spotkanie
+ráno - rano, poranek, ranek, wcześnie, z rana
 rap - rap
 rapkáč - grzechotka
 rarita - rarytas
@@ -6412,11 +6412,11 @@ rásť - rosnąć
 rastlina - roślina
 rastlinný - roślinny
 raž - żyto
-rázcestie - rozdroże | rozstaj | skrzyżowanie
+rázcestie - rozdroże, rozstaj, skrzyżowanie
 reakcia - reakcja
 reálny - realny
-rebro - żebro | żeberka | żeberko
-reč - mowa | język | wymowa | przemówienie
+rebro - żebro, żeberka, żeberko
+reč - mowa, język, wymowa, przemówienie
 recenzovať - recenzować
 recepcia - recepcja
 recesia - recesja
@@ -6426,48 +6426,48 @@ región - region
 regionálny - regionalny
 reinkarnácia - reinkarnacja
 rekonvalescencia - rekonwalescencja
-relatívny - relatywny | względny
+relatívny - relatywny, względny
 relaxácia - relaksacja
 relaxačný - relaksacyjny
-relaxovať - relaksować | odprężać
+relaxovať - relaksować, odprężać
 relígia - religia
 religiozita - religijność
 remeslo - rzemiosło
 reminiscencia - reminiscencja
 remisia - remisja
-remíza - remiza | zajezdnia | remis
+remíza - remiza, zajezdnia, remis
 rénium - ren
 renovácia - renowacja
-renovovať - odnawiać | przeprowadzać renowację
+renovovať - odnawiać, przeprowadzać renowację
 repa - burak
 republika - republika
-rešpektovať - respektować | szanować
-reštaurácia - restauracja (miejsce) | restauracja (odnowienie)
+rešpektovať - respektować, szanować
+reštaurácia - restauracja (miejsce), restauracja (odnowienie)
 reťaz - łańcuch
 reumatický - reumatyczny
 reumatizmus - reumatyzm
-rev - ryk | krzyk
+rev - ryk, krzyk
 revolúcia - rewolucja
 revolučne - rewolucyjnie
 revolučný - rewolucyjny
 revolver - rewolwer
 Reykjavík - Reykjavík
-rezance - kluski | rezanec
+rezance - kluski, rezanec
 rezať - ciąć
 rezervácia - rezerwacja
-rezervovať - rezerwować | zamawiać
+rezervovať - rezerwować, zamawiać
 režisér - reżyser
 rezonancia - rezonans
 riad - naczynia
-riboflavín - ryboflawina | witamina B₂
+riboflavín - ryboflawina, witamina B₂
 Richard - Ryszard
 riedky - rzadki
 rieka - rzeka
 Riga - Ryga
 Rijád - Rijad
 Rím - Rzym
-Riman - Rzymianin | rzymianin
-Rimanka - Rzymianka | rzymianka
+Riman - Rzymianin, rzymianin
+Rimanka - Rzymianka, rzymianka
 rímskokatolícky - rzymskokatolicki
 rímsky - rzymski
 ring - ring
@@ -6477,22 +6477,22 @@ ritný otvor - odbytnica
 rituál - rytuał
 rituálny - rytualny
 riziko - ryzyko
-robiť - robić | dziać się | utrwalać się | tworzyć się
+robiť - robić, dziać się, utrwalać się, tworzyć się
 robot - robot
-robota - praca | robota
+robota - praca, robota
 robotník - robotnik
 ročné obdobie - pora roku
 ročný - roczny
-rod - ród | dynastia | rodzaj | pochodzenie
+rod - ród, dynastia, rodzaj, pochodzenie
 rodič - rodzic
 rodičovský - rodzicielski
 rodičovstvo - rodzicielstwo
-rodina - rodzina | potomstwo | środowisko
+rodina - rodzina, potomstwo, środowisko
 rodinný - rodzinny
-rodiť - rodzić | rodzić się
+rodiť - rodzić, rodzić się
 ródium - rod
 roentgenium - roentgen
-roh - róg | naroże | narożnik | kąt
+roh - róg, naroże, narożnik, kąt
 roh hojnosti - róg obfitości
 rohožka - wycieraczka (do butów)
 roj - rój
@@ -6511,7 +6511,7 @@ romantik - romantyk
 romantizmus - romantyzm
 rosa - rosa
 Rotterdam - Rotterdam
-rovesníčka - rówieśnica | rówieśniczka
+rovesníčka - rówieśnica, rówieśniczka
 rovesnícky - rówieśniczy
 rovesník - rówieśnik
 rovnica - równanie
@@ -6521,36 +6521,36 @@ rovno - prosto
 rovnodennosť - równonoc
 rovnosť - równość
 rovnováha - równowaga
-rovný - równy | prosty
-rozárium - rosarium | rozarium
+rovný - równy, prosty
+rozárium - rosarium, rozarium
 rozdať - rozdać
 rozdeliť - rozdzielić
 rozdiel - różnica
 rozhodnutie - decyzja
-rozhovor - rozmowa | dyskusja | konwersacja
+rozhovor - rozmowa, dyskusja, konwersacja
 rozhrešenie - rozgrzeszenie
 rozkaz - rozkaz
 rozkázať - rozkazać
 rozkazovací spôsob - tryb rozkazujący
 rozkazovať - rozkazywać
-rozklad - rozkład | rozłożenie na części
+rozklad - rozkład, rozłożenie na części
 rozkoš - rozkosz
 rozkošne - rozkosznie
-rozliať - rozlać | rozlać się
-rozličný - rozliczny | różnorodny | różny | odmienny
+rozliať - rozlać, rozlać się
+rozličný - rozliczny, różnorodny, różny, odmienny
 rozlišovať - rozróżniać
 rozmarín - rozmaryn
 rozmer - rozmiar
-rozmnožovací - rozrodczy | służący do rozmnażania
+rozmnožovací - rozrodczy, służący do rozmnażania
 rôznorodosť - różnorodność
-rôzny - różny | rozliczny
+rôzny - różny, rozliczny
 rožok - rogalik
 rozpoznať - rozpoznać
-rozprávať - mówić | rozmawiać | rozprawiać
+rozprávať - mówić, rozmawiać, rozprawiać
 roztok - roztwór
-rozum - rozum | umysł | pomysły
+rozum - rozum, umysł, pomysły
 rozumieť - rozumieć
-rozumný - rozumny | rozsądny | mądry
+rozumný - rozumny, rozsądny, mądry
 rozvod - rozwód
 rubídium - rubid
 rubín - rubin
@@ -6561,7 +6561,7 @@ rukáv - rękaw
 rukavica - rękawica
 rukojemníčka - zakładniczka
 rukojemník - zakładnik
-rukopis - charakter pisma | rękopis
+rukopis - charakter pisma, rękopis
 rum - rum
 rumanček - rumianek
 Rumun - Rumun
@@ -6579,11 +6579,11 @@ ruský - rosyjski
 ruština - język rosyjski
 ruténium - ruten
 rutherfordium - rutherford
-ruža - róża (, ,  L.) | róża | różyczka
+ruža - róża (, ,  L.), róża, różyczka
 ruženec - różaniec
 Ružomberok - Rużomberk
 ružový - różowy
-RVHP - RWPG | Rada Wzajemnej Pomocy Gospodarczej
+RVHP - RWPG, Rada Wzajemnej Pomocy Gospodarczej
 Rwanda - Rwanda
 ryba - ryba
 Ryba - Ryba
@@ -6591,33 +6591,33 @@ rybár - rybitwa
 rybárčiť - wędkować
 rybárik - zimorodek
 rybárstvo - rybołówstwo
-rybník - staw rybny | zarybiony staw
-Ryby - Ryby | Ryba
-rýchlo - szybko | prędko | zręcznie | zwinnie | niezwłocznie | natychmiastowo
+rybník - staw rybny, zarybiony staw
+Ryby - Ryby, Ryba
+rýchlo - szybko, prędko, zręcznie, zwinnie, niezwłocznie, natychmiastowo
 rýchlokorčuliar - łyżwiarz
-rýchlomer - prędkościomierz | szybkościomierz
+rýchlomer - prędkościomierz, szybkościomierz
 rýchlopis - stenografia
 rýchlosť - szybkość
-rýchly - szybki | pospieszny
+rýchly - szybki, pospieszny
 Rydlo - Rylec
 rým - rym
 Rýn - Ren
 rýpadlo - koparka
-rys - ryś | rysunek techniczny | rys | cecha
+rys - ryś, rysunek techniczny, rys, cecha
 rytier - rycerz
 rytina - rycina
 ryža - ryż
 ryžový - ryżowy
-s - s | z | ze
-sa - się | siebie
+s - s, z, ze
+sa - się, siebie
 Sabína - Sabina
 šablón - szablon
 šablóna - szablon
-šach - szachy | szach
+šach - szachy, szach
 Sachalin - Sachalin
 sacharid - sacharyd
 šachovnica - szachownica
-sad - sad | park
+sad - sad, park
 sadista - sadysta
 sadistický - sadystyczny
 sadistka - sadystka
@@ -6629,7 +6629,7 @@ saharský - saharyjski
 šakal - szakal
 sakrálny - sakralny
 sakramentálny - sakramentalny
-šál - szal | szalik
+šál - szal, szalik
 Šalamún - Salomon
 Šalamúnove ostrovy - Wyspy Salomona
 šalát - sałata
@@ -6648,7 +6648,7 @@ samotka - izolatka
 samouk - samouk
 samovražda - samobójstwo
 samovznietenie - samozapłon
-šampión - mistrz | czempion
+šampión - mistrz, czempion
 samuraj - samuraj
 samurajský - samurajski
 Saná - Sana
@@ -6658,8 +6658,8 @@ sanásky - sanajski
 San Francisco - San Francisco
 Šanghaj - Szanghaj
 sanitár - sanitariusz
-Sankt Peterburg - Petersburg | Sankt Petersburg
-San Marino - San Marino (państwo) | San Marino (miasto)
+Sankt Peterburg - Petersburg, Sankt Petersburg
+San Marino - San Marino (państwo), San Marino (miasto)
 San Maríno - San Marino
 sanmarínsky - sanmaryński
 sanskritský - sanskrycki
@@ -6668,9 +6668,9 @@ Sarajevo - Sarajewo
 sarkofág - sarkofag
 šarlátový - szkarłatny
 sať - ssać
-šatstvo - odzież | ubrania
+šatstvo - odzież, ubrania
 Saturn - Saturn
-šaty - suknia | sukienka | ubranie | šata
+šaty - suknia, sukienka, ubranie, šata
 Saudská Arábia - Arabia Saudyjska
 sauna - sauna
 savana - sawanna
@@ -6698,33 +6698,33 @@ schizofrénia - schizofrenia
 schizofrenička - schizofreniczka
 schizofrenický - schizofreniczny
 schizofrenik - schizofrenik
-schladiť - schłodzić | schłodzić się
+schladiť - schłodzić, schłodzić się
 schody - schody
 scholastický - scholastyczny
 scholastik - scholastyk
 scholastika - scholastyka
-schopnosť - zdolność | umiejętność
+schopnosť - zdolność, umiejętność
 schopný - zdolny
-schovať - schować | schować się
-schovávať - chować | ukrywać
+schovať - schować, schować się
+schovávať - chować, ukrywać
 schránka - skrzynka
 schudnúť - schudnąć
 schválenie - zatwierdzenie
 scivilizovať - cywilizować
 seaborgium - seaborg
 sebaobrana - samoobrona
-sebec - egoista | samolub
-sedem - siedem | 7
+sebec - egoista, samolub
+sedem - siedem, 7
 sedemdesiat - siedemdziesiąt
 sedemdesiatka - siedemdziesiątka
 sedemdesiaty - siedemdziesiąty
 sedemnásť - siedemnaście
 sedemnásty - siedemnasty
 sedemramenný - siedmioramienny
-sedemsto - siedemset | 700
+sedemsto - siedemset, 700
 sedemstý - siedemsetny
 sedieť - siedzieć
-šedivý - siwy | wyblakły | spłowiały
+šedivý - siwy, wyblakły, spłowiały
 Sedmohradsko - Siedmiogród
 šedý - szary
 Segedín - Segedyn
@@ -6736,44 +6736,44 @@ sejf - sejf
 sekera - siekiera
 sekretariát - sekretariat
 sekretárka - sekretarka
-sekunda - sekunda | chwilka | okamgnienie
+sekunda - sekunda, chwilka, okamgnienie
 selén - selen
-Selena - Selena | Celina
+Selena - Selena, Celina
 selenografia - selenografia
-šelma - drapieżnik | szelma
+šelma - drapieżnik, szelma
 sémantika - semantyka
 semenník - jądro
-semeno - nasiono | nasienie
+semeno - nasiono, nasienie
 semester - semestr
 semestrálny - semestralny
 semitský - semicki
 sen - sen
-sendvič - sandwicz | kanapka
+sendvič - sandwicz, kanapka
 Senegal - Senegal
 seno - siano
 sentimentálny - sentymentalny
-senzor - sensor | czujnik
+senzor - sensor, czujnik
 senzualizmus - sensualizm
 separatista - separatysta
 separatistický - separatystyczny
-separatistka - separatystka | zwolenniczka separatyzmu
+separatistka - separatystka, zwolenniczka separatyzmu
 separatizmus - separatyzm
 september - wrzesień
 serenáda - serenada
-servus - serwus | cześć | no cześć
+servus - serwus, cześć, no cześć
 seržant - sierżant
-šesť - sześć | 6
+šesť - sześć, 6
 šesťdesiat - sześćdziesiąt
 šesťdesiaty - sześćdziesiąty
-sesternica - kuzynka | siostrzenica
+sesternica - kuzynka, siostrzenica
 šestnásť - szesnaście
 šestnásty - szesnasty
 sestra - siostra
 sestrička - siostrzyczka
-šesťsto - sześćset | 600
+šesťsto - sześćset, 600
 šesťuholník - sześciokąt
 šesťuholníkový - sześciokątny
-šetriť - oszczędzać | szczędzić | ograniczać zużycie
+šetriť - oszczędzać, szczędzić, ograniczać zużycie
 sever - północ
 Severná Amerika - Ameryka Północna
 Severná Karolína - Karolina Północna
@@ -6782,7 +6782,7 @@ Severná koruna - Korona Północna
 Severné Mariány - Mariany Północne
 Severné more - Morze Północne
 severný - północny
-Severný ľadový oceán - Ocean Arktyczny | Ocean Lodowaty Północny
+Severný ľadový oceán - Ocean Arktyczny, Ocean Lodowaty Północny
 severoafrický - północnoafrykański
 severoamerický - północnoamerykański
 severoatlantický - północnoatlantycki
@@ -6796,7 +6796,7 @@ sex - seks
 sexuálna orientácia - orientacja seksualna
 sexuálne - seksualnie
 sexuálnosť - seksualność
-sexuálny - seksualny | płciowy
+sexuálny - seksualny, płciowy
 sexuológia - seksuologia
 Seychelčan - Seszelczyk
 Seychelčanka - Seszelka
@@ -6806,7 +6806,7 @@ sezamový - sezamowy
 sezónnosť - sezonowość
 sfalzifikovať - sfalsyfikować
 sformulovať - sformułować
-si - siebie | byť
+si - siebie, byť
 Sibír - Syberia
 Sibírčan - Sybirak
 Sibírčanka - Sybiraczka
@@ -6834,9 +6834,9 @@ simulovať - symulować
 Singapur - Singapur
 singapurský - singapurski
 singulár - liczba pojedyncza
-šíp - strzała | dzika róża
+šíp - strzała, dzika róża
 Šíp - Strzała
-šípka - dzika róża | strzałka
+šípka - dzika róża, strzałka
 síra - siarka
 šírka - szerokość
 širokosť - szerokość
@@ -6846,44 +6846,44 @@ sirotinec - sierociniec
 sírovodík - siarkowodór
 sírovodíkový - siarkowodorowy
 šiška - szyszka
-šiť - szyć (robić ubrania) | szyć (łączyć dwa materiały za pomocą igły i nici)
-situácia - sytuacja | położenie
+šiť - szyć (robić ubrania), szyć (łączyć dwa materiały za pomocą igły i nici)
+situácia - sytuacja, położenie
 sivý - siwy
 skala - skała
 škála - skala
 skalpel - skalpel
-skamenelina - skamielina | skamieniałości
+skamenelina - skamielina, skamieniałości
 škandál - skandal
 skandium - skand
-škaredosť - brzydota | szkaradność
-škaredý - brzydki | szkaradny
+škaredosť - brzydota, szkaradność
+škaredý - brzydki, szkaradny
 škaredý ako noc - brzydki jak noc
 škatuľa - pudełko
 skica - szkic
-skladba - składnia | kompozycja | zestawienie
+skladba - składnia, kompozycja, zestawienie
 sklo - szkło
 skloňovanie - deklinacja
 sklz - opóźnienie
-škoda - szkoda | strata | uszczerbek | ujma
+škoda - szkoda, strata, uszczerbek, ujma
 škodlivý - szkodliwy
-skok - skok | krycie
+skok - skok, krycie
 škola - szkoła
 školáčka - uczennica
 školák - uczeń
-školenie - szkolenie | kurs
+školenie - szkolenie, kurs
 školský - szkolny
 školstvo - szkolnictwo
 skonať - skonać
 skončiť - skończyć
 skonfiškovať - skonfiskować
 Skopje - Skopje
-škorec - szpak zwyczajny | szpak
+škorec - szpak zwyczajny, szpak
 škorica - cynamon
 škoricovník - cynamonowiec
 škoricovník cejlónsky - cynamonowiec cejloński
 škoricový - cynamonowy
 skorigovať - skorygować
-skoro - wkrótce | niebawem | wcześnie | prędko | szybko | prawie | niemal | bez mała
+skoro - wkrótce, niebawem, wcześnie, prędko, szybko, prawie, niemal, bez mała
 skorocel - babka
 škorpión - skorpion
 skorumpovať - skorumpować
@@ -6892,9 +6892,9 @@ skorumpovať - skorumpować
 Škótsko - Szkocja
 škótsky - szkocki
 škovránok - skowronek
-skratka - skrót | skrótowiec
+skratka - skrót, skrótowiec
 škrečok - chomik
-škriekavec zlovestný - sójka złowroga | sójka syberyjska
+škriekavec zlovestný - sójka złowroga, sójka syberyjska
 skrinka - skrzynka
 škrob - skrobia
 škrobový - skrobiowy
@@ -6902,14 +6902,14 @@ skromne - skromnie
 skromnosť - skromność
 skromný - skromny
 skrutka - śruba
-skrutkovač - śrubokręt | wkrętak
-skrz - przez | poprzez
+skrutkovač - śrubokręt, wkrętak
+skrz - przez, poprzez
 škuner - szkuner
 skupina - grupa
 skúsenosť - doświadczenie
 skúsiť - spróbować
 škvrna - plama
-slabika - sylaba | zgłoska
+slabika - sylaba, zgłoska
 slabosť - słabość
 slabý - słaby
 šľacha - ścięgno
@@ -6922,7 +6922,7 @@ slalomárka - zawodniczka w slalomie
 slalomový - slalomowy
 slama - słoma
 slamená vdova - słomiana wdowa
-slamený - słomiany | słomkowy | słomkowożółty | słomianożółty
+slamený - słomiany, słomkowy, słomkowożółty, słomianożółty
 slamený vdovec - słomiany wdowiec
 slaný - słony
 sláva - sława
@@ -6938,26 +6938,26 @@ Slavomíra - Sławomira
 slečna - panna
 slepo - ślepo
 slepota - ślepota
-slepý - ślepy | zaślepiony
+slepý - ślepy, zaślepiony
 slezina - śledziona
 sliepka - kura
 Sliezsko - Śląsk
 slimák - ślimak
 slinivka - trzustka
-slivka - śliwa | śliwka
+slivka - śliwa, śliwka
 slivkový - śliwkowy
 slivovica - śliwowica
 sliz - śluz
-sliznica - błona śluzowa | śluzówka
+sliznica - błona śluzowa, śluzówka
 slnce - słońce
 slnečnica - słonecznik
 slnečný - słoneczny
 slnečný vietor - wiatr słoneczny
-slnko - słońce | gwiazda oświetlająca daną planetę | energia wysyłana przez słońce
+slnko - słońce, gwiazda oświetlająca daną planetę, energia wysyłana przez słońce
 Slnko - Słońce
 slnovrat - przesilenie
 sloboda - wolność
-slobodne - swobodnie | wolno
+slobodne - swobodnie, wolno
 slobodný - wolny
 sloj - warstwa
 slon - słoń
@@ -6985,14 +6985,14 @@ slovinský - słoweński
 slovník - słownik
 slovníkový - słownikowy
 slovný druh - część mowy
-slovo - słowo | wyraz
+slovo - słowo, wyraz
 sluch - słuch
 sluka - słonka
 slza - łza
 smäd - pragnienie
 smädný - spragniony
 smer - kierunek
-smerovka - kierunkowskaz | ster
+smerovka - kierunkowskaz, ster
 smetisko - śmietnisko
 smetiť - śmiecić
 smetník - śmietnik
@@ -7004,20 +7004,20 @@ smrdieť - śmierdzieć
 smrek - świerk
 smrekovec - modrzew
 smrekový - świerkowy
-šmrnc - szyk | elegancja | klasa
-smršť - trąba (powietrzna) | wir powietrza
+šmrnc - szyk, elegancja, klasa
+smršť - trąba (powietrzna), wir powietrza
 smrť - śmierć
 Smrtná nedeľa - przedostatnia niedziela przed Wielkanocą
-smútiť - smucić się | być smutnym
+smútiť - smucić się, być smutnym
 smutný - smutny
 smútok - smutek
-snáď - może | być może
-sneh - śnieg | piana (z białek)
+snáď - może, być może
+sneh - śnieg, piana (z białek)
 sněhový - śniegowy
 snežiť - śnieżyć
 sniežik - śnieżek
-sniť - śnić | marzyć
-snívať - śnić | marzyć
+sniť - śnić, marzyć
+snívať - śnić, marzyć
 snob - snob
 snobka - snobka
 snobský - snobistyczny
@@ -7029,7 +7029,7 @@ sob - renifer
 sobáš - ślub
 sobášiť - udzielać ślubu
 sobota - sobota
-socha - rzeźba | posąg | statua
+socha - rzeźba, posąg, statua
 sochár - rzeźbiarz
 sochárka - rzeźbiarka
 sochársky - rzeźbiarski
@@ -7040,7 +7040,7 @@ socialistický - socjalistyczny
 socialistka - socjalistka
 socializácia - socjalizacja
 socializmus - socjalizm
-socializovať - socjalizować | socjalizować się
+socializovať - socjalizować, socjalizować się
 sociálna demokracia - socjaldemokracja
 sociálny - społeczny
 sociolingvistický - socjolingwistyczny
@@ -7058,11 +7058,11 @@ sojka - sójka
 sojka škriekavá - sójka zwyczajna
 sójové mlieko - mleko sojowe
 sójový - sojowy
-šok - szok | wstrząs
+šok - szok, wstrząs
 sokol - sokół
-sokol myšiar - pustułka zwyczajna | pustułka | sokół pustułka
+sokol myšiar - pustułka zwyczajna, pustułka, sokół pustułka
 Sokrates - Sokrates
-soľ - sól | sól kuchenna
+soľ - sól, sól kuchenna
 solárium - solarium
 solarizácia - solaryzacja
 solidarita - solidarność
@@ -7091,10 +7091,10 @@ sopranistka - sopranistka
 sopránový - sopranowy
 šošovica - soczewica
 šošovka - soczewka
-SOU - ZSZ | Zasadnicza szkoła zawodowa
+SOU - ZSZ, Zasadnicza szkoła zawodowa
 Soul - Seul
 sova - sowa
-sovietsky - sowiecki | radziecki
+sovietsky - sowiecki, radziecki
 Sovietsky zväz - Związek Radziecki
 šovinista - szowinista
 šovinistický - szowinistyczny
@@ -7111,20 +7111,20 @@ spanie - spanie
 Španielka - Hiszpanka
 Španielsko - Hiszpania
 španielsky - hiszpański
-spánok - sen | spanie | skroń
+spánok - sen, spanie, skroń
 špáradlo - wykałaczka
-spasiteľ - wybawca | zbawca | zbawiciel | wybawiciel
+spasiteľ - wybawca, zbawca, zbawiciel, wybawiciel
 spať - spać
-špatný - brzydki | szpetny | szkaradny
-spať spánkom spravodlivých - spać snem sprawiedliwego (spać głęboko, mocno i spokojnie) | być martwym | nie żyć
+špatný - brzydki, szpetny, szkaradny
+spať spánkom spravodlivých - spać snem sprawiedliwego (spać głęboko, mocno i spokojnie), być martwym, nie żyć
 špeciálne - specjalnie
 špeditér - spedytor
 spektakulárny - spektakularny
 špekulácia - spekulacja
 špenát - szpinak
 spev - śpiew
-speváčka - śpiewaczka | piosenkarka
-spevák - śpiewak | piosenkarz
+speváčka - śpiewaczka, piosenkarka
+spevák - śpiewak, piosenkarz
 spievať - śpiewać
 špik - szpik
 špinavý - brudny
@@ -7138,13 +7138,13 @@ Spojené arabské emiráty - Zjednoczone Emiraty Arabskie
 Spojené kráľovstvo - Zjednoczone Królestwo
 Spojené štáty - Stany Zjednoczone
 Spojené štáty americké - Stany Zjednoczone Ameryki
-spojka - sprzęgło | łącznik | spójnik
+spojka - sprzęgło, łącznik, spójnik
 spojovník - dywiz
 spoločensko-politický - społeczno-polityczny
 spoločenstvo - społeczeństwo
 spoločnosť - społeczność
 Spoločnosť národov - Liga Narodów
-spolu - razem | wspólnie | z sobą
+spolu - razem, wspólnie, z sobą
 spoluhláska - spółgłoska
 spoluobčan - współobywatel
 spoluobčianka - współobywatelka
@@ -7161,18 +7161,18 @@ spontánne - spontanicznie
 spontánnosť - spontaniczność
 spontánny - spontaniczny
 sponzor - sponsor
-sponzorka - kobieta sponsor | sponsorka
+sponzorka - kobieta sponsor, sponsorka
 sponzorovať - sponsorować
 sponzorský - sponsorski
 šport - sport
 športový - sportowy
-spôsob - sposób | metoda
-spotiť - spocić | zmoczyć potem | spocić się
+spôsob - sposób, metoda
+spotiť - spocić, zmoczyć potem, spocić się
 spoveď - spowiedź
 spovednica - konfesjonał
 spoznávať - poznawać
-správa - wiadomość | administracja
-správanie - zachowanie | zachowywanie się
+správa - wiadomość, administracja
+správanie - zachowanie, zachowywanie się
 spravodlivo - sprawiedliwie
 spravodlivosť - sprawiedliwość
 spravodlivý - sprawiedliwy
@@ -7182,7 +7182,7 @@ spríbuznenosť - pokrewieństwo
 spríbuznený - spokrewniony
 spriemyselnenie - uprzemysłowienie
 sprofanovať - sprofanować
-šraubovák - śrubokręt | wkrętak
+šraubovák - śrubokręt, wkrętak
 Srb - Serb
 srbčina - język serbski
 Srbka - Serbka
@@ -7198,13 +7198,13 @@ stagnácia - stagnacja
 stalagmit - stalagmit
 stalagnát - stalagnat
 stalaktit - stalaktyt
-stále - stale | ciągle | niezmiennie
+stále - stale, ciągle, niezmiennie
 stalinizmus - stalinizm
 stan - namiot
 štandardný - standardowy
-stanica - dworzec | stacja
+stanica - dworzec, stacja
 Stanislava - Stanisława
-stanoviť - stanowić | ustalać | ustanawiać
+stanoviť - stanowić, ustalać, ustanawiać
 stará mama - babcia
 stará panna - stara panna
 starnúť - starzeć się
@@ -7215,8 +7215,8 @@ starogrécky - starogrecki
 starogréčtina - język starogrecki
 staromódne - staromodnie
 staromódny - staromodny
-starostlivosť - troska | opieka
-starosvetsky - staroświecko | po staroświecku
+starostlivosť - troska, opieka
+starosvetsky - staroświecko, po staroświecku
 starosvetský - staroświecki
 staroveký - starożytny
 starý - stary
@@ -7230,8 +7230,8 @@ stáť - stać
 statický - statyczny
 štatisticky - statystyczny
 štátny - państwowy
-statočný - odważny | dzielny
-stavba - budowa | budynek
+statočný - odważny, dzielny
+stavba - budowa, budynek
 šťavnatý - soczysty
 stáž - staż
 stážista - stażysta
@@ -7240,28 +7240,28 @@ Stefan - Stefan
 Štefan - Stefan
 Štefánia - Stefania
 stehno - udo
-štekliť - łaskotać | łechtać
+štekliť - łaskotać, łechtać
 štekot - szczekanie
 stena - ściana
-šteňa - szczenię | szczeniak
+šteňa - szczenię, szczeniak
 šteniatko - szczeniątko
 stenografia - stenografia
 štetec - pędzel
-stimulovať - stymulować | pobudzać
+stimulovať - stymulować, pobudzać
 štipendium - stypendium
 stisk - ścisk
-štítna žľaza - tarczyca | gruczoł tarczycy
-stlačiť - stłoczyć | stłoczyć się
-stĺp - słup | kolumna
+štítna žľaza - tarczyca, gruczoł tarczycy
+stlačiť - stłoczyć, stłoczyć się
+stĺp - słup, kolumna
 sto - sto
 stodola - stodoła
-stojan - stojak | wieszak
+stojan - stojak, wieszak
 Štokholm - Sztokholm
 štokholmský - sztokholmski
 stokrát - stokroć
 stôl - stół
-stolica - krzesło | władza | organ władzy | stolec | odchody | kał
-stolička - krzesło | ząb trzonowy
+stolica - krzesło, władza, organ władzy, stolec, odchody, kał
+stolička - krzesło, ząb trzonowy
 Stolový vrch - Góra Stołowa
 stomatológ - stomatolog
 stomatológia - stomatologia
@@ -7270,32 +7270,32 @@ stomatologický - stomatologiczny
 stometrový - stumetrowy
 stomiliónový - stumiliowy
 stonka - łodyga
-stopa - ślad | stopa
+stopa - ślad, stopa
 stopercentne - stuprocentowo
 stopercentný - stuprocentowy
-storočie - stulecie | wiek
-strach - strach | obawa
+storočie - stulecie, wiek
+strach - strach, obawa
 štrajk - strajk
 straka - sroka
-strana - strona | partia polityczna
+strana - strona, partia polityczna
 stránka - strona
 strašenie - straszenie
-strašidlo - straszydło | potwór
-strata - strata | stracenie | utracenie | ubytek
+strašidlo - straszydło, potwór
+strata - strata, stracenie, utracenie, ubytek
 stratég - strateg
 stratégia - strategia
 strategický - strategiczny
 stratiť - stracić
 stratosféra - stratosfera
 stratosférický - stratosferyczny
-stráviť - strawić | spędzić
-stravovanie - odżywianie się | jedzenie
+stráviť - strawić, spędzić
+stravovanie - odżywianie się, jedzenie
 strážca - strażnik
 strážnik - strażnik
 strecha - dach
-stred - środek | centrum
+stred - środek, centrum
 streda - środa
-stredisko - ośrodek | centrum | punkt
+stredisko - ośrodek, centrum, punkt
 stredná škola - szkoła średnia
 stredne - średnio
 stredný rod - rodzaj nijaki
@@ -7304,7 +7304,7 @@ stredoeurópsky - środkowoeuropejski
 stredovek - średniowiecze
 stredoveký - średniowieczny
 Stredozemné more - Morze Śródziemne
-strela - strzała | pocisk | kula | strzał | rzut
+strela - strzała, pocisk, kula, strzał, rzut
 streľba - strzelanina
 strelec - strzelec
 Strelec - Strzelec
@@ -7315,18 +7315,18 @@ strelkyňa - kobieta strzelec
 stres - stres
 stresovať - stresować
 stretnutie - spotkanie
-stridží deň - według wierzeń ludowych każdy dzień | m.in. 24 i 30 listopada | 4 | 6 | 7 | 13 i 21 grudnia | odznaczający się intensywnym działaniem zwłaszcza negatywnych sił nadprzyrodzonych
-strieborná nedeľa - trzecia niedziela adwentu | przedostatnia niedziela handlowa przed Bożym Narodzeniem
+stridží deň - według wierzeń ludowych każdy dzień, m.in. 24 i 30 listopada, 4, 6, 7, 13 i 21 grudnia, odznaczający się intensywnym działaniem zwłaszcza negatywnych sił nadprzyrodzonych
+strieborná nedeľa - trzecia niedziela adwentu, przedostatnia niedziela handlowa przed Bożym Narodzeniem
 strieborný - srebrny
 striebristý - srebrzysty
 striebro - srebro
 strieľanie - strzelanie
 strieľať - strzelać
-štrk - żwir | żwirownia
-strmeň - strzemię | skuwka | pałąk
-strmý - stromy | urwisty | energiczny | gwałtowny
+štrk - żwir, żwirownia
+strmeň - strzemię, skuwka, pałąk
+strmý - stromy, urwisty, energiczny, gwałtowny
 strnádka - trznadel
-štrnásť - czternaście | 14
+štrnásť - czternaście, 14
 štrnásty - czternasty
 stroj - maszyna
 strom - drzewo
@@ -7334,12 +7334,12 @@ stroncium - stront
 štruktúra - struktura
 struna - struna
 strunový - strunowy
-strýc - stryj | stryjek | wujek
-strýko - stryj | wujek
+strýc - stryj, stryjek, wujek
+strýko - stryj, wujek
 studená sprcha - zimny prysznic
 študent - student
 študentský - studencki
-studený - zimny | chłodny
+studený - zimny, chłodny
 studňa - studnia
 študovať - studiować
 šťuka - szczupak
@@ -7353,7 +7353,7 @@ stupňovanie - stopniowanie
 stvoriť - stworzyć
 štvorstý - czterechsetny
 štvoruholník - czworokąt
-štvrť - ćwierć | dzielnica
+štvrť - ćwierć, dzielnica
 štvrtkový - czwartkowy
 štvrtok - czwartek
 štvrťstoročie - ćwierćwiecze
@@ -7361,8 +7361,8 @@ stvoriť - stworzyć
 stý - setny
 štýl - styl
 štylistika - stylistyka
-štyri - cztery | 4
-štyridsať - czterdzieści | 40
+štyri - cztery, 4
+štyridsať - czterdzieści, 40
 štyridsiaty - czterdziesty
 štyristo - czterysta
 subjektivista - subiektywista
@@ -7373,15 +7373,15 @@ subjektívny - subiektywny
 subkontinent - subkontynent
 subkontinentálny - subkontynentalny
 súboj - pojedynek
-súbor - zbiór | kolekcja
+súbor - zbiór, kolekcja
 subskripcia - subskrypcja
 substancia - substancja
 substitúcia - substytucja
 substitučný - substytucyjny
-subtropický - subtropikalny | podzwrotnikowy
+subtropický - subtropikalny, podzwrotnikowy
 subvencia - subwencja
-súčasný - współczesny | obecny
-súčasť - część | składnik
+súčasný - współczesny, obecny
+súčasť - część, składnik
 suchosť - suchość
 suchý - suchy
 súcit - współczucie
@@ -7393,20 +7393,20 @@ Sudánka - Sudanka
 sudánsky - sudański
 sudca - sędzia
 sudetský - sudecki
-Sudety - Sudety | Kraj Sudetów (sudeckoniemieckie pogranicze Czech)
+Sudety - Sudety, Kraj Sudetów (sudeckoniemieckie pogranicze Czech)
 súdnictvo - sądownictwo
 súdruh - towarzysz
 sugestívny - sugestywny
-súhlas - porozumienie | zgoda | przyzwolenie | pozwolenie
-súhvezdie - gwiazdozbiór | konstelacja
+súhlas - porozumienie, zgoda, przyzwolenie, pozwolenie
+súhvezdie - gwiazdozbiór, konstelacja
 suicidálny - samobójczy
 suicídium - samobójstwo
 suka - suka
-šukať - mieć stosunek płciowy | uprawiać seks
+šukať - mieć stosunek płciowy, uprawiać seks
 sukňa - spódnica
 súkromný - prywatny
 súkvetie - kwiatostan
-sulfát - siarczan | sulfat
+sulfát - siarczan, sulfat
 sulfid - siarczek
 súlož - stosunek seksualny
 sultán - sułtan
@@ -7415,45 +7415,45 @@ sultánsky - sułtański
 Sumatra - Sumatra
 sumec - sum
 súmernosť - symetria
-súmrak - zmierzch | zmrok
+súmrak - zmierzch, zmrok
 šunka - szynka
 súostrovie - archipelag
 sup - sęp
-súper - rywal | konkurent | współzawodnik
+súper - rywal, konkurent, współzawodnik
 superhviezda - supergwiazda
-súperka - rywalka | konkurentka | współzawodniczka
+súperka - rywalka, konkurentka, współzawodniczka
 supermarket - supermarket
 šupina - łuska
 šupinatý - pokryty łuskami
 súradnica - współrzędna
-surfovať - surfować | serfować
+surfovať - surfować, serfować
 Surinam - Surinam
-súrny - pilny | naglący | nagły
+súrny - pilny, naglący, nagły
 súrodenec - rodzeństwo
 surrealistický - surrealistyczny
 surrealistka - surrealistka
 surrealizmus - surrealizm
 sused - sąsiad
 šuškovité teliesko - szyszynka
-sústava - system | układ
-súťaž - konkurs | konkurencja
+sústava - system, układ
+súťaž - konkurs, konkurencja
 suverenita - suwerenność
 suverénne - suwerennie
 suverénnosť - suwerenność
 suverénny - suwerenny
 šváb - karaluch
-svadba - ślub | wesele
+svadba - ślub, wesele
 švagor - szwagier
 švagriná - bratowa
-svah - stok | zbocze
+svah - stok, zbocze
 svahilčina - suahili
 Švajčiarska konfederácia - Konfederacja Szwajcarska
 Švajčiarsko - Szwajcaria
 švajčiarsky - szwajcarski
 sval - mięsień
 svalový - mięśniowy
-svätá - święta | svätý
-Svätá Lucia - Święta Łucja | Łucja z Syrakuz | Saint Lucia
+svätá - święta, svätý
+Svätá Lucia - Święta Łucja, Łucja z Syrakuz, Saint Lucia
 svätojánsky - świętojański
 svätý - święty
 Svätý Krištof a Nevis - Saint Kitts i Nevis
@@ -7474,21 +7474,21 @@ svet - świat
 svetadiel - kontynent
 svetelný - świetlny
 svetelný rok - rok świetlny
-Svetlana - Świetlana | Swietłana
-svetlo - światło | jasno
+Svetlana - Świetlana, Swietłana
+svetlo - światło, jasno
 svetloplachosť - światłowstręt
-svetlý - jasny | rozświetlony
+svetlý - jasny, rozświetlony
 svetový - światowy
 sviatok - święto
 svieca - świeca
-sviečka - świeczka | świeca | świeca zapłonowa
+sviečka - świeczka, świeca, świeca zapłonowa
 sviňa - świnia
-sviniar - świntuch | świnia | świniopas | świniarz
-sviniarka - świntucha | świnia
+sviniar - świntuch, świnia, świniopas, świniarz
+sviniarka - świntucha, świnia
 svokor - teść
 svokra - teściowa
 svrab - świerzb
-swahilčina - suahili | swahili
+swahilčina - suahili, swahili
 sýkorka - sikora
 symbióza - symbioza
 symbolický - symboliczny
@@ -7503,12 +7503,12 @@ synkopa - omdlenie
 synkretický - synkretyczny
 synkretizmus - synkretyzm
 syntax - składnia
-syntetizátor - syntetyzator | syntezator | syntezátor
+syntetizátor - syntetyzator, syntezator, syntezátor
 syr - ser
 Sýria - Syria
 sýrsky - syryjski
 systém - system
-sýty - syty | nasycony | mocny | intensywny | jaskrawy
+sýty - syty, nasycony, mocny, intensywny, jaskrawy
 tabak - tytoń
 tabatierka - tabakierka
 tablička - tabliczka
@@ -7528,8 +7528,8 @@ Taiwanec - Tajwańczyk
 Taiwanka - Tajwanka
 taiwanský - tajwański
 tajga - tajga
-tajomstvo - tajemnica | sekret
-takmer - prawie | niemal
+tajomstvo - tajemnica, sekret
+takmer - prawie, niemal
 takticky - taktycznie
 taktický - taktyczny
 taktik - taktyk
@@ -7561,24 +7561,24 @@ tantal - tantal
 Tanzánia - Tanzania
 tanzánsky - tanzański
 tapeta - tapeta
-ťarchavosť - ciąża | brzemienność
+ťarchavosť - ciąża, brzemienność
 taška - torba
 Taškent - Taszkent
 Taškenťan - taszkentczyk
 Taškenťanka - taszkentka
 taškentský - taszkencki
 tatárčina - język tatarski
-tatko - ojciec | tata
+tatko - ojciec, tata
 tátoš - rumak
 tatranský - tatrzański
 Tatry - Tatry
 ťava - wielbłąd
-taxameter - taksometr | taksomierz
+taxameter - taksometr, taksomierz
 taxík - taksówka
 taxikár - taksówkarz
 taxonómia - taksonomia
 taxonomický - taksonomiczny
-ťažký - ciężki | intensywny | wyczerpujący | trudny | wielki
+ťažký - ciężki, intensywny, wyczerpujący, trudny, wielki
 Tbilisi - Tbilisi
 tbiliský - tbiliski
 teatrálny - teatralny
@@ -7598,11 +7598,11 @@ tehotenstvo - ciąża
 teistický - teistyczny
 teizmus - teizm
 tekutina - płyn
-tekutý - płynny | ciekły
+tekutý - płynny, ciekły
 tekvica - dynia
 teľa - cielę
 Tel Aviv - Tel Awiw
-telefón - telefon | rozmowa telefoniczna
+telefón - telefon, rozmowa telefoniczna
 telefonista - telefonista
 telefónny - telefoniczny
 telefonovať - telefonować
@@ -7626,17 +7626,17 @@ téma - temat
 Temešvár - Timiszoara
 temný - ciemny
 temperament - temperament
-tendencia - tendencja | skłonność | dążność
+tendencia - tendencja, skłonność, dążność
 tendenčný - tendencyjny
 tenis - tenis
 tenisový - tenisowy
 tenista - tenisista
 tenistka - tenisistka
-tenký - cienki | szczupły | smukły | skromny | biedny | słaby | mizerny
+tenký - cienki, szczupły, smukły, skromny, biedny, słaby, mizerny
 Teodor - Teodor
 teológ - teolog
 teológia - teologia
-teoréma - teoremat | twierdzenie
+teoréma - teoremat, twierdzenie
 teoretička - teoretyczka
 teoreticky - teoretycznie
 teoretický - teoretyczny
@@ -7648,7 +7648,7 @@ teplo - ciepło
 teplomer - termometr
 teplota - temperatura
 teplý - ciepły
-tepna - tętnica | arteria
+tepna - tętnica, arteria
 terakota - terakota
 teraz - teraz
 terbium - terb
@@ -7676,14 +7676,14 @@ tesár - cieśla
 testosterón - testosteron
 testovanie - testowanie
 testovať - testować
-teta - ciocia | ciotka
+teta - ciocia, ciotka
 tetanus - tężec
 tetrachlórmetán - czterochlorek węgla
 tetralógia - tetralogia
 tetralogický - tetralogiczny
-tetrov - cietrzew | głuszec
+tetrov - cietrzew, głuszec
 tetumčina - tetum
-text - tekst | partytura
+text - tekst, partytura
 textológ - tekstolog
 textológia - tekstologia
 textologický - tekstologiczny
@@ -7696,13 +7696,13 @@ Tibeťan - Tybetańczyk
 Tibeťanka - Tybetanka
 tibetčina - tybetański
 tibetský - tybetański
-ticho - cisza | cicho
+ticho - cisza, cicho
 ticho ako v hrobe - cicho jak w grobie
-tichý - cichy | spokojny
+tichý - cichy, spokojny
 Tichý oceán - Ocean Spokojny
-tiecť - ciec | cieknąć
+tiecť - ciec, cieknąć
 tieň - cień
-tiež - też | także | również
+tiež - też, także, również
 tiger - tygrys
 tikať - tykać
 Timor - Timor
@@ -7714,7 +7714,7 @@ tis - cis
 Tisa - Cisa
 tisíc - tysiąc
 tisíci - tysięczny
-tisícina - tysięczna część | jedna tysięczna
+tisícina - tysięczna część, jedna tysięczna
 tisícročie - tysiąclecie
 titán - tytan
 titanizmus - tytanizm
@@ -7722,14 +7722,14 @@ tkáč - tkacz
 tkáčka - tkaczka
 tkáčsky - tkacki
 tkáčstvo - tkactwo
-tkanina - tkanina | materiał
+tkanina - tkanina, materiał
 tkať - tkać
 tlač - druk
 tlačiareň - drukarnia
-tlačiť - cisnąć | uwierać
+tlačiť - cisnąć, uwierać
 tlak - ciśnienie
 tlmočník - tłumacz
-tlstý - otyły | gruby
+tlstý - otyły, gruby
 tma - ciemność
 tmavo - ciemno
 tmavobelasý - ciemnobłękitny
@@ -7742,7 +7742,7 @@ tmavosivý - ciemnoszary
 tmavovlasý - ciemnowłosy
 tmavozelený - ciemnozielony
 tmavožltý - ciemnożółty
-tmavý - ciemny | mroczny | głęboki
+tmavý - ciemny, mroczny, głęboki
 toaletný - toaletowy
 Togčan - Togijczyk
 Togčanka - Togijka
@@ -7763,7 +7763,7 @@ Tonga - Tonga
 Tongan - Tongijczyk
 Tonganka - Tongijka
 tongský - tongijski
-topánka - but | obuwie
+topánka - but, obuwie
 topás - topaz
 topografia - topografia
 topografický - topograficzny
@@ -7783,7 +7783,7 @@ Toskánsko - Toskania
 totalitarizmus - totalitaryzm
 totalitárne - totalitarnie
 totalitárny - totalitarny
-totalizmus - totalitaryzm | totalitarizmus
+totalizmus - totalitaryzm, totalitarizmus
 tovar - towar
 toxický - toksyczny
 tráčtina - język tracki
@@ -7795,7 +7795,7 @@ tradicionalistka - tradycjonalistka
 tradicionalizmus - tradycjonalizm
 tradičně - tradycyjnie
 tradičný - tradycyjny
-tragédia - tragedia | nieszczęście
+tragédia - tragedia, nieszczęście
 tragickosť - tragiczność
 tragický - tragiczny
 tragikomédia - tragikomedia
@@ -7812,9 +7812,9 @@ transakčný - transakcyjny
 transcendentálne - transcendentalnie
 transcendentálny - transcendentalny
 transfigurácia - transfiguracja
-transfigurovať - transfigurować | przeobrażać
+transfigurovať - transfigurować, przeobrażać
 transformácia - transformacja
-transformovať - przekształcać | transformować
+transformovať - przekształcać, transformować
 transfúzia - transfuzja
 transliterácia - transliteracja
 transliteračný - transliteracyjny
@@ -7830,14 +7830,14 @@ transylvánsky - transylwański
 tranzistor - tranzystor
 tranzit - tranzyt
 trasochvost - pliszka
-trasovisko - trzęsawisko | grzęzawisko
+trasovisko - trzęsawisko, grzęzawisko
 traumaticky - traumatycznie
 traumatický - traumatyczny
-traumatizovať - traumatyzować | wywoływać traumę
+traumatizovať - traumatyzować, wywoływać traumę
 traumatológ - traumatolog
 traumatológia - traumatologia
 traumatologický - traumatologiczny
-tráva - trawa | trawka
+tráva - trawa, trawka
 trávenie - trawienie
 tráviť - trawić
 trávniček - trawniczek
@@ -7848,7 +7848,7 @@ treska - dorsz
 trest - kara
 tretí - trzeci
 tretina - jedna trzecia
-trh - targ | rynek | szarpnięcie
+trh - targ, rynek, szarpnięcie
 tri - trzy
 triangulácia - triangulacja
 triangulačný - triangulacyjny
@@ -7863,16 +7863,16 @@ tribunál - trybunał
 Trident - Trydent
 tridsať - trzydzieści
 tridsiaty - trzydziesty
-triezvy - trzeźwy | rozsądny | rozważny
+triezvy - trzeźwy, rozsądny, rozważny
 trigonometria - trygonometria
 trigonometrický - trygonometryczny
 trilógia - trylogia
 trimester - trymestr
-trinásť - trzynaście | 13
+trinásť - trzynaście, 13
 trinásty - trzynasty
 Trinidad a Tobago - Trynidad i Tobago
 tristo - trzysta
-triumfálne - triumfalnie | tryumfalnie
+triumfálne - triumfalnie, tryumfalnie
 triumfálny - triumfalny
 triumfovať - triumfować
 triviálne - trywialnie
@@ -7882,11 +7882,11 @@ tŕň - cierń
 Trnava - Trnawa
 trojka - trójka
 trojstý - trzechsetny
-trojuholník - trójkąt | ekierka | trójkąt rysunkowy
+trojuholník - trójkąt, ekierka, trójkąt rysunkowy
 Trojuholník - Trójkąt
 trolejbus - trolejbus
 trón - tron
-tropický - tropikalny | zwrotnikowy
+tropický - tropikalny, zwrotnikowy
 troposféra - troposfera
 troposférický - troposferyczny
 trpezlivý - cierpliwy
@@ -7897,8 +7897,8 @@ trstina - trzcina
 trstinový - trzcinowy
 truhla - trumna
 truhlár - trumniarz
-trup - tułów | kadłub
-trvalá - trwała | trwała ondulacja | trvalý
+trup - tułów, kadłub
+trvalá - trwała, trwała ondulacja, trvalý
 trvale - trwale
 trvalosť - trwałość
 trvať - trwać
@@ -7928,21 +7928,21 @@ Turín - Turyn
 turista - turysta
 turistický - turystyczny
 turistika - turystyka
-Turkmén - Turkmen | Turkmeńczyk
+Turkmén - Turkmen, Turkmeńczyk
 turkménčina - język turkmeński
 Turkménka - Turkmenka
 Turkménsko - Turkmenistan
 Tuvalčan - Tuwalczyk
 Tuvalčanka - Tuwalka
 Tuvalu - Tuvalu
-túžba - żądza | chęć | silne pragnienie
+túžba - żądza, chęć, silne pragnienie
 tužka - ołówek
 tvár - twarz
 tvoj - twój
 tvorba - twórczość
-tvorca - twórca | autor
-tvorivý - twórczy | kreatywny
-tvorkyňa - twórczyni | autorka
+tvorca - twórca, autor
+tvorivý - twórczy, kreatywny
+tvorkyňa - twórczyni, autorka
 tvrdý - twardy
 tvrdza - twierdza
 ty - ty
@@ -7965,7 +7965,7 @@ týždenný - tygodniowy
 úbytok - ubytek
 učebnica - podręcznik
 učenie - nauczanie
-účes - uczesanie | fryzura
+účes - uczesanie, fryzura
 ucho - ucho
 úchylka - odchylenie od normy
 učiť - uczyć
@@ -7978,9 +7978,9 @@ uhasiť - ugasić
 uhlie - węgiel
 uhlík - węgiel
 uhlový - kątowy
-uhol - kąt | róg | naroże
-úhor - ugór | węgorz
-uhorka - ogórek ( L.) | ogórek
+uhol - kąt, róg, naroże
+úhor - ugór, węgorz
+uhorka - ogórek ( L.), ogórek
 Uhorsko - Węgry
 ujo - wujek
 ukameňovať - ukamieniować
@@ -8003,8 +8003,8 @@ umrieť - umrzeć
 umyť - umyć
 umývadlo - umywalka
 umyváreň - umywalnia
-únava - zmęczenie | znużenie
-unavený - zmęczony | znużony | wyczerpany
+únava - zmęczenie, znużenie
+unavený - zmęczony, znużony, wyczerpany
 únia - unia
 unifikácia - unifikacja
 unifikovať - unifikować
@@ -8022,13 +8022,13 @@ univerzitný - uniwersytecki
 únos - porwanie
 úpadok - upadek
 úplatok - łapówka
-úplný - całkowity | zupełny | absolutny
-upozornenie - ostrzeżenie | uwaga
-upratať - posprzątać | sprzątnąć
+úplný - całkowity, zupełny, absolutny
+upozornenie - ostrzeżenie, uwaga
+upratať - posprzątać, sprzątnąć
 upratovačka - sprzątaczka
 upratovať - sprzątać
 úrad - urząd
-úradný - urzędowy | oficjalny
+úradný - urzędowy, oficjalny
 Ural - Ural
 urán - uran
 Urán - Uran
@@ -8041,7 +8041,7 @@ urbanizácia - urbanizacja
 Urbanov - Urbanowy
 urobiť - zrobić
 úrodnosť - urodzajność
-úrodný - żyzny | urodzajny
+úrodný - żyzny, urodzajny
 urológ - urolog
 urológia - urologia
 urologický - urologiczny
@@ -8054,39 +8054,39 @@ Uruguajka - Urugwajka
 uruguajský - urugwajski
 úsmev - uśmiech
 usmrtenie - uśmiercenie
-usmrtiť - zabić | uśmiercić
+usmrtiť - zabić, uśmiercić
 ušnica - małżowina uszna
 ušný - uszny
-úspešný - pomyślny | skuteczny
+úspešný - pomyślny, skuteczny
 ústa - usta
 ústava - konstytucja
 ustavične - ustawicznie
 ustavičný - ustawiczny
 ústie - ujście
 ustrica - ostryga
-utečenec - uciekinier | zbieg
-útecha - pociecha | otucha
+utečenec - uciekinier, zbieg
+útecha - pociecha, otucha
 utekať - uciekać
 utiecť - uciec
-útočiť - atakować | napadać
+útočiť - atakować, napadać
 útočník - napastnik
 útok - atak
-utopiť - utopić | utopić się
+utopiť - utopić, utopić się
 utorok - wtorek
 útvar - twór
 uväzniť - aresztować
 uvedomene - świadomie
 uveriť - uwierzyć
-úvod - wstęp | wprowadzenie
+úvod - wstęp, wprowadzenie
 už - już
 Uzbečka - Uzbeczka
 uzbecký - uzbecki
 Uzbek - Uzbek
 Uzbekistan - Uzbekistan
 uzdravenie - uzdrowienie
-uzdraviť - uzdrowić | wyleczyć
+uzdraviť - uzdrowić, wyleczyć
 uzdravovať - uzdrawiać
-územie - terytorium | obszar
+územie - terytorium, obszar
 úžera - lichwiarstwo
 úžitkový - użytkowy
 užitočnosť - użyteczność
@@ -8094,9 +8094,9 @@ užitočný - pożyteczny
 úžitok - użytek
 užívať - zażywać
 užívateľ - użytkownik
-úzky - wąski | zbyt wąski | ciasny
+úzky - wąski, zbyt wąski, ciasny
 užovka - zaskroniec
-V4 - V4 | Grupa Wyszehradzka
+V4 - V4, Grupa Wyszehradzka
 väčší - większy
 väčšina - większość
 väčšinový - większościowy
@@ -8107,10 +8107,10 @@ vagón - wagon
 vagónik - wagonik
 vagónový - wagonowy
 váha - waga
-Váhy - Waga | Váha
-vajce - jajo | jajko
+Váhy - Waga, Váha
+vajce - jajo, jajko
 vaječník - jajnik
-vajíčko - jajeczko (  vajce) | jajeczko (komórka jajowa) | jajko | zaparzaczka (do herbaty)
+vajíčko - jajeczko (  vajce), jajeczko (komórka jajowa), jajko, zaparzaczka (do herbaty)
 vakcína - szczepionka
 vakcinácia - szczepienie
 valčík - walc
@@ -8143,7 +8143,7 @@ Vatikán - Watykan
 vatikánsky - watykański
 Vavrincov - Wawrzyńcowy
 Vavrinec - Wawrzyniec
-vazal - wasal | lennik
+vazal - wasal, lennik
 vazelína - wazelina
 vazelínový - wazelinowy
 väzeň - więzień
@@ -8161,25 +8161,25 @@ včelársky - pszczelarski
 včelárstvo - pszczelarstwo
 včelí - pszczeli
 včera - wczoraj
-vchod - wejście | wchodzenie | wstęp
+vchod - wejście, wchodzenie, wstęp
 vďačný - wdzięczny
 vďaka - wdzięczność
 vdova - wdowa
 vdovec - wdowiec
 vdych - wdech
 vdychovať - wdychać
-večer - wieczór | w porze wieczornej
+večer - wieczór, w porze wieczornej
 večera - kolacja
 večerať - jeść kolację
 Večernica - Gwiazda Wieczorna
-večerný - wieczorny | wieczorowy
-vecko - kibel | wychodek
+večerný - wieczorny, wieczorowy
+vecko - kibel, wychodek
 vecne - rzeczowo
 večne - wiecznie
 večnosť - wieczność
 večný - wieczny
-veda - nauka | wiedza
-véda - weda | Weda | święta księga hinduizmu | najstarsze teksty sanskryckie
+veda - nauka, wiedza
+véda - weda, Weda, święta księga hinduizmu, najstarsze teksty sanskryckie
 vedec - naukowiec
 vedecký - naukowy
 vedierko - wiaderko
@@ -8192,10 +8192,10 @@ vegetácia - roślinność
 vegetarián - wegetarianin
 vegetariánsky - wegetariański
 vegetariánstvo - wegetarianizm
-vek - wiek | życie
+vek - wiek, życie
 vektor - wektor
 vektorový - wektorowy
-veľa - dużo | wiele
+veľa - dużo, wiele
 velebiť - wielbić
 Veľká Británia - Wielka Brytania
 Veľká medvedica - Wielka Niedźwiedzica
@@ -8207,7 +8207,7 @@ Veľkonočná nedeľa - Niedziela Wielkanocna
 veľkonočný - wielkanocny
 Veľkonočný pondelok - Poniedziałek Wielkanocny
 veľkosť - wielkość
-veľký - duży | wielki
+veľký - duży, wielki
 Veľký pes - Wielki Pies
 Veľký piatok - Wielki Piątek
 Veľký týždeň - Svätý týždeň
@@ -8225,7 +8225,7 @@ veniec - wieniec
 ventilácia - wentylacja
 ventilátor - wentylator
 ventilovať - wentylować
-Venuša - Wenus | Wenera
+Venuša - Wenus, Wenera
 veranda - weranda
 verbalizácia - werbalizacja
 verbalizmus - werbalizm
@@ -8251,14 +8251,14 @@ veselo - wesoło
 veselosť - wesołość
 veselý - wesoły
 veslo - wiosło
-veslovanie - wiosłowanie | wioślarstwo
+veslovanie - wiosłowanie, wioślarstwo
 vesmír - wszechświat
 vesna - wiosna
-Vesna - Wesna | Wiosna
+Vesna - Wesna, Wiosna
 vesta - kamizelka
 Vesta - Westa
-vestibul - westybul | hol | hall
-veta - zdanie | twierdzenie
+vestibul - westybul, hol, hall
+veta - zdanie, twierdzenie
 veterán - weteran
 veteránka - weteranka
 veterinár - weterynarz
@@ -8268,9 +8268,9 @@ veterinárstvo - weterynaria
 vetný člen - część zdania
 vetovať - wetować
 vetrať - wietrzyć
-vetva - gałąź | odgałęzienie | dział
+vetva - gałąź, odgałęzienie, dział
 vetvička - gałązka
-veverica - wiewiórka | futro z wiewiórki
+veverica - wiewiórka, futro z wiewiórki
 veža - wieża
 Vezuv - Wezuwiusz
 viacboj - wielobój
@@ -8283,7 +8283,7 @@ viazanka - krawat
 vibrácia - wibracja
 vibrátor - wibrator
 vibrovať - wibrować
-vicegubernátor - wicegubernator | zastępca gubernatora
+vicegubernátor - wicegubernator, zastępca gubernatora
 vicegubernátorský - wicegubernatorski
 viceprezident - wiceprezydent
 viceprezidentský - wiceprezydencki
@@ -8294,13 +8294,13 @@ vidiek - prowincja
 vidieť - widzieć
 viditeľný - widzialny
 vidlička - widelec
-viečko - wieczko | pokrywka | powieka
+viečko - wieczko, pokrywka, powieka
 Viedeň - Wiedeń
 Viedenčan - wiedeńczyk
 Viedenčanka - wiedenka
 viedenský - wiedeński
-viera - wiara | wierzenie
-Viera - Wiara | Wiera
+viera - wiara, wierzenie
+Viera - Wiara, Wiera
 Vietnam - Wietnam
 vietnamčina - język wietnamski
 Vietnamec - Wietnamczyk
@@ -8308,10 +8308,10 @@ Vietnamka - Wietnamka
 vietnamský - wietnamski
 vietor - wiatr
 vigvam - wigwam
-víkend - koniec tygodnia | weekend
+víkend - koniec tygodnia, weekend
 Viktória - Wiktoria
 viktoriánský - wiktoriański
-víla - wiła | rusałka
+víla - wiła, rusałka
 Vilnius - Wilno
 vilniusky - wileński
 vina - wina
@@ -8341,11 +8341,11 @@ Visla - Wisła
 višňa - wiśnia
 višňový - wiśniowy
 Vít - Wit
-vitalita - witalność | żywotność
+vitalita - witalność, żywotność
 vitálnosť - witalność
 vitálny - witalny
 vitamín - witamina
-vitaminológia - witaminologia | nauka o witaminach
+vitaminológia - witaminologia, nauka o witaminach
 vitamínový - witaminowy
 vitariánka - witarianka
 vítať - witać
@@ -8361,7 +8361,7 @@ vizuálne - wizualnie
 vizuálny - wizualny
 vklad - wkład
 vkus - gust
-vláda - rząd | władza
+vláda - rząd, władza
 vládca - władca
 Vladivostok - Władywostok
 vládkyňa - władczyni
@@ -8378,14 +8378,14 @@ Vlasy Bereniky - Warkocz Bereniki
 vĺča - wilczę
 vlčí - wilczy
 vlčica - wilczyca
-vlezdoprdelista - włazidupa | włazodup | dupoliz
+vlezdoprdelista - włazidupa, włazodup, dupoliz
 vlha - wilga
-vlhkosť - wilgotność | wilgoć
+vlhkosť - wilgotność, wilgoć
 vlhký - wilgotny
 vlk - wilk
 Vlk - Wilk
 vlkolak - wilkołak
-vlna - fala | wełna
+vlna - fala, wełna
 vlnolam - falochron
 Vltava - Wełtawa
 vniesť - wnieść
@@ -8393,15 +8393,15 @@ vnikať - wnikać
 vnučka - wnuczka
 vnuk - wnuk
 voda - woda
-vodca - przywódca | wódz | przewodnik
+vodca - przywódca, wódz, przewodnik
 vodič - kierowca
 vodík - wodór
 vodka - wódka
 vodný - wodny
-Vodný had - Wąż Wodny | Wąż Morski
+Vodný had - Wąż Wodny, Wąż Morski
 vodopád - wodospad
 vojačka - żołnierka
-vojak - żołnierz | wojak | szeregowiec | szeregowy
+vojak - żołnierz, wojak, szeregowiec, szeregowy
 vojenský - wojskowy
 vojna - wojna
 vojnový - wojenny
@@ -8414,7 +8414,7 @@ vôkol - wokół
 vôl - wół
 vôľa - wola
 volant - kierownica
-volať - wołać | domagać się | nawoływać | nazywać się
+volať - wołać, domagać się, nawoływać, nazywać się
 volavka - czapla
 volebný - wyborczy
 volejbal - siatkówka
@@ -8436,21 +8436,21 @@ vozovka - jezdnia
 vplyv - wpływ
 vrabec - wróbel
 vracať - wymiotować
-vrah - zabójca | morderca
+vrah - zabójca, morderca
 vraj - podobno
 vrak - wrak
-vrana - wrona | górny otwór w beczce
+vrana - wrona, górny otwór w beczce
 vraní - wroni
 vráska - zmarszczka
 vráta - wrota
 vražda - morderstwo
 vŕba - wierzba ( L.)
 vŕbový - wierzbowy
-vrch - góra | szczyt | teren | stok wznoszący się do góry | mnóstwo | sterta czegoś | górskie osiedle | górska osada | wierzch
+vrch - góra, szczyt, teren, stok wznoszący się do góry, mnóstwo, sterta czegoś, górskie osiedle, górska osada, wierzch
 vrchovitý - górzysty
 vrece - worek
 vreckár - kieszonkowiec
-vrecko - woreczek | torebka | kieszeń
+vrecko - woreczek, torebka, kieszeń
 vreckovka - chusteczka (do nosa)
 vred - wrzód
 vres - wrzos
@@ -8461,11 +8461,11 @@ Vroclav - Wrocław
 Vroclavčan - wrocławianin
 Vroclavčanka - wrocławianka
 vroclavský - wrocławski
-vrt - odwiert | wiercenie
-vrták - wiertło | zaczepny człowiek
+vrt - odwiert, wiercenie
+vrták - wiertło, zaczepny człowiek
 vrtoch - kaprys
 vrtuľa - śmigło
-vrtuľník - śmigłowiec | helikopter
+vrtuľník - śmigłowiec, helikopter
 všade - wszędzie
 všestranne - wszechstronnie
 všestrannosť - wszechstronność
@@ -8486,16 +8486,16 @@ vulkanický - wulkaniczny
 vulkanizácia - wulkanizacja
 vulkanizovať - wulkanizować
 vy - wy
-vyberať - wybierać | brać
+vyberať - wybierać, brać
 vybieliť - wybielić
 vybíjaná - dwa ognie
-výborný - świetny | wspaniały
-výbuch - wybuch | eksplozja
+výborný - świetny, wspaniały
+výbuch - wybuch, eksplozja
 vybuchnúť - wybuchnąć
 výbuchový - wybuchowy
 vybudovanie - wybudowanie
 vybudovať - wybudować
-východ - wyjście | wychodzenie | wschód (kierunek geograficzny) | wschód (np. ciała niebieskiego)
+východ - wyjście, wychodzenie, wschód (kierunek geograficzny), wschód (np. ciała niebieskiego)
 Východná Európa - Europa Wschodnia
 východný - wschodni
 Východný Timor - Timor Wschodni
@@ -8523,17 +8523,17 @@ vykrádať - wykradać
 výkres - wykres
 vyletieť - wylecieć
 vyliečiť - wyleczyć
-vylízať - wylizać | wylizać się | wyleczyć się
+vylízať - wylizać, wylizać się, wyleczyć się
 vylúskať - wyłuskać
 vymazať - wymazać
 výmena - wymiana
-vymeniť - wymienić | zamienić
-vymieňať - wymieniać | zamieniać
+vymeniť - wymienić, zamienić
+vymieňať - wymieniać, zamieniać
 vymierať - wymierać
 vymrieť - wymrzeć
 vymýšľať - wymyślać
 vymyslieť - wymyślić
-vymyť - wymyć | umyć
+vymyť - wymyć, umyć
 vynájsť - wynaleźć
 vynález - wynalazek
 vynálezca - wynalazca
@@ -8544,7 +8544,7 @@ vypiť - wypić
 vyplácať - wypłacać
 vyplatiť - wypłacić
 vypnúť - wyłączyć
-vypotiť - wypocić | wypocić się
+vypotiť - wypocić, wypocić się
 výpoveď - wypowiedź
 vypovedať - wypowiadać
 vypracovať - wypracować
@@ -8552,10 +8552,10 @@ vyprať - wyprać
 vypredať - wyprzedać
 vypredávať - wyprzedawać
 vyprodukovať - wyprodukować
-vyprorokovať - wyprorokować | przepowiedzieć
+vyprorokovať - wyprorokować, przepowiedzieć
 výr - puchacz
 vyrábať - wyrabiać
-výroba - produkcja | wytwórczość
+výroba - produkcja, wytwórczość
 výr skalný - puchacz zwyczajny
 vysávač - odkurzacz
 vyschnúť - wyschnąć
@@ -8564,7 +8564,7 @@ vysídľovať - wysiedlać
 vyskočiť - wyskoczyć
 výsledok - wynik
 vysliediť - wyśledzić
-vyslobodiť - wyswobodzić | wyswobodzić się
+vyslobodiť - wyswobodzić, wyswobodzić się
 výslovnosť - wymowa
 vysoká škola - szkoła wyższa
 vysokokalorický - wysokokaloryczny
@@ -8582,31 +8582,31 @@ vytiecť - wycieć
 vytrepať - wytrzepać
 vytriezvieť - wytrzeźwieć
 výtvarník - plastyk (osoba)
-vytvoriť - utworzyć | wytworzyć
+vytvoriť - utworzyć, wytworzyć
 vyučovať - uczyć
-využívanie - używanie | eksploatacja
-vývar - wywar | rosół
+využívanie - używanie, eksploatacja
+vývar - wywar, rosół
 Výveva - Pompa
 vyvolávať - wywoływać
-vývoz - eksport | wywóz
+vývoz - eksport, wywóz
 vyzdravieť - wyzdrowieć
 vyzliecť - rozebrać
 vyznačiť - wyznaczyć
-významný - znaczący | wybitny
+významný - znaczący, wybitny
 vyznávač - wyznawca
 vyzuť - zdjąć buty
 vzdialenosť - odległość
-vzdialený - oddalony | odległy | daleki
+vzdialený - oddalony, odległy, daleki
 vzdor - opór
 vzduch - powietrze
 vždy - zawsze
 vziať - wziąć
 vzkriesiť - wskrzesić
-vzniesť - wznieść | wznieść się
+vzniesť - wznieść, wznieść się
 vznik - powstanie
-vznikať - powstawać | wynikać
+vznikať - powstawać, wynikać
 vzorec - wzór
-vzťah - stosunek | relacja
+vzťah - stosunek, relacja
 Wales - Walia
 waleský - walijski
 waleština - język walijski
@@ -8625,7 +8625,7 @@ xerografický - kserograficzny
 xylofón - ksylofon
 yterbium - iterb
 ytrium - itr
-z - z | ze
+z - z, ze
 žaba - żaba
 zabarikádovať - zabarykadować
 zabíjanie - zabijanie
@@ -8639,13 +8639,13 @@ zabudnúť - zapomnieć
 začať - zacząć
 zachmúrený - ponury
 záchod - toaleta
-zachovať - zachować | uchować | zachować się
-začiatočný - początkowy | wczesny
+zachovať - zachować, uchować, zachować się
+začiatočný - początkowy, wczesny
 začiatok - początek
-začínať - zaczynać | rozpoczynać
-zadĺženosť - zadłużenie | zaległość
-záhada - zagadka | tajemnica
-záhadný - zagadkowy | tajemniczy
+začínať - zaczynać, rozpoczynać
+zadĺženosť - zadłużenie, zaległość
+záhada - zagadka, tajemnica
+záhadný - zagadkowy, tajemniczy
 zahlasovať - zagłosować
 záhrada - ogród
 záhradka - ogródek
@@ -8653,7 +8653,7 @@ záhradník - ogrodnik
 zahraničný - zagraniczny
 Záhreb - Zagrzeb
 zaimponovať - zaimponować
-zainteresovať - zainteresować | zainteresować się
+zainteresovať - zainteresować, zainteresować się
 zajac - zając
 Zajac - Zając
 zajtra - jutro
@@ -8661,7 +8661,7 @@ zákaz - zakaz
 zakázaný - zakazany
 zakázať - zakazać
 zákazník - klient
-zakazovať - zakazywać | zabraniać
+zakazovať - zakazywać, zabraniać
 zakladateľ - założyciel
 zakladateľka - założycielka
 zakladateľský - założycielski
@@ -8678,11 +8678,11 @@ zakvasiť - zakwasić
 zalepiť - zakleić
 záležitosť - sprawa (kwestia)
 záliv - zatoka
-záloha - zapas | rezerwa | zaliczka | zadatek | zastaw
+záloha - zapas, rezerwa, zaliczka, zadatek, zastaw
 žalovaný - pozwany
 založenie - założenie
 zaľúbený - zakochany
-žaluď - żołądź | trefl
+žaluď - żołądź, trefl
 zaľudnenie - zaludnienie
 zaľudniť - zaludnić
 zaľudňovať - zaludniać
@@ -8702,15 +8702,15 @@ zámočník - ślusarz
 zámok - zamek
 zamontovať - zamontować
 zamordovať - zamordować
-zamurovať - zamurować | wmurować
-žáner - rodzaj | gatunek
+zamurovať - zamurować, wmurować
+žáner - rodzaj, gatunek
 zanikať - zanikać
 zaniknúť - zaniknąć
-západ - zachód | zachód (np. ciała niebieskiego) | spust w zamku w drzwiach
+západ - zachód, zachód (np. ciała niebieskiego), spust w zamku w drzwiach
 Západná Sahara - Sahara Zachodnia
 západný - zachodni
 západoslovanský - zachodniosłowiański
-zápal - zapalenie | zapał | entuzjazm
+zápal - zapalenie, zapał, entuzjazm
 zápalka - zapałka
 zapaľovacia sviečka - świeca zapłonowa
 zaparkovať - zaparkować
@@ -8726,22 +8726,22 @@ zárobkový - zarobkowy
 zárobok - zarobek
 zárodok - zarodek
 zasiať - zasiać
-zaspať - zasnąć | zaspać
+zaspať - zasnąć, zaspać
 zaspievať - zaśpiewać
-zastávka - przerwa | przystanek | flaga
+zastávka - przerwa, przystanek, flaga
 zastrašiť - zastraszyć
 zať - zięć
-zatelefonovať - zadzwonić | zatelefonować
+zatelefonovať - zadzwonić, zatelefonować
 zatknúť - aresztować
 zatmenie - zaćmienie
 zatvárať - zamykać
 zatvoriť - zamknąć
 zátvorka - nawias
 zátylok - potylica
-záväzok - obietnica | zobowiązanie
-záverečný - końcowy | finalny
+záväzok - obietnica, zobowiązanie
+záverečný - końcowy, finalny
 závidieť - zazdrościć
-zavináč - rolmops | małpa ( @)
+zavináč - rolmops, małpa ( @)
 zaviniť - zawinić
 závisť - zawiść
 zavolať - zawołać
@@ -8751,58 +8751,58 @@ zázrak - cud
 zázvor - imbir
 zázvorový - imbirowy
 zbavenie - pozbawienie
-zberateľ - zbieracz | kolekcjoner
-zberateľka - zbieraczka | kolekcjonerka
+zberateľ - zbieracz, kolekcjoner
+zberateľka - zbieraczka, kolekcjonerka
 zbiehavosť - zbieżność
 zbohom - do widzenia
 zbraň - broń
-zbytočný - niepotrzebny | zbyteczny
+zbytočný - niepotrzebny, zbyteczny
 zdemoralizovať - zdemoralizować
-zdôvodniť - usprawiedliwiać | uzasadniać
+zdôvodniť - usprawiedliwiać, uzasadniać
 zdravie - zdrowie
 zdravotný - zdrowotny
-zdravý - zdrowy | właściwy | poprawny | odpowiedni | zdrowy człowiek
+zdravý - zdrowy, właściwy, poprawny, odpowiedni, zdrowy człowiek
 zdrobnenina - zdrobnienie
 zdroj - źródło
-že - że | iż
+že - że, iż
 zebra - zebra
-žehlička - prasowaczka | żelazko
+žehlička - prasowaczka, żelazko
 žehliť - prasować
 želať - życzyć
-zelenina - warzywo | jarzyna
+zelenina - warzywo, jarzyna
 zelený - zielony
 Zelený štvrtok - Wielki Czwartek
 zeler - seler
 železná nedeľa - pierwsza niedziela adwentu
-železnica - kolej | linia kolejowa
+železnica - kolej, linia kolejowa
 železný - żelazny
 železo - żelazo
-železobetón - żelazobeton | żelbeton | żelbet
-zem - ziemia | kula ziemska
+železobetón - żelazobeton, żelbeton, żelbet
+zem - ziemia, kula ziemska
 Zem - Ziemia
 zemepis - geografia
 zemetrasenie - trzęsienie ziemi
 zemiak - ziemniak
 zemiakový - ziemniaczany
 zemný plyn - gaz ziemny
-žena - kobieta | żona
+žena - kobieta, żona
 žena ľahkých mravov - kobieta lekkich obyczajów
 ženatý - żonaty
 Ženeva - Genewa
 ženevský - genewski
 ženích - pan młody
 zenit - zenit
-ženiť - żenić | żenić się
+ženiť - żenić, żenić się
 ženský - żeński
 ženský rod - rodzaj żeński
 žeriav - żuraw
 Žeriav - Żuraw
 Zeus - Zeus
 zhnitý - zgniły
-zhodnotiť - ocenić | wycenić | oszacować
+zhodnotiť - ocenić, wycenić, oszacować
 žiaden - żaden
-žiadny - żaden | żadny
-žiak - uczeń | wychowanek | zwolennik
+žiadny - żaden, żadny
+žiak - uczeń, wychowanek, zwolennik
 žiaľ - żal
 žid - żyd
 Žid - Żyd
@@ -8814,38 +8814,38 @@ zhodnotiť - ocenić | wycenić | oszacować
 žila - żyła
 žiletka - żyletka
 Žilina - Żylina
-zima - zima | rok szkolny | niska temperatura
+zima - zima, rok szkolny, niska temperatura
 Zimbabwe - Zimbabwe
-žinčica - żętyca | żentyca
+žinčica - żętyca, żentyca
 zinok - cynk
 žirafa - żyrafa
 Žirafa - Żyrafa
 zirkón - cyrkon
 zirkónium - cyrkon
-zisk - zysk | korzyść | pożytek
-získať - zyskać | uzyskać
+zisk - zysk, korzyść, pożytek
+získať - zyskać, uzyskać
 žiť - żyć
 žitný - żytni
-žito - żyto | pszenica
+žito - żyto, pszenica
 živá mŕtvola - żywy trup
 živica - żywica
 živičný - żywiczny
 živicový - żywicowy
 živočích - zwierzę
-život - życie | żywotność
+život - życie, żywotność
 životnosť - żywotność
 životný - żywotny
 životopis - życiorys
 živý - żywy
 živý plot - żywopłot
-žízeň - pragnienie | chęć | ochota | żądza
+žízeň - pragnienie, chęć, ochota, żądza
 zjesť - zjeść
-zlatá nedeľa - czwarta niedziela adwentu | ostatnia niedziela handlowa przed Bożym Narodzeniem
+zlatá nedeľa - czwarta niedziela adwentu, ostatnia niedziela handlowa przed Bożym Narodzeniem
 zlatistý - złocisty
 zlatník - złotnik
 zlato - złoto
 zlatý - złoty
-zľava - zniżka | obniżka
+zľava - zniżka, obniżka
 žľaza - gruczoł
 žľazový - gruczołowy
 žlč - żółć
@@ -8854,35 +8854,35 @@ zliatina - stop (metali)
 žlna - dzięcioł z rodzaju
 žlna zelená - dzięcioł zielony
 zlo - zło
-zločin - zbrodnia | przestępstwo
-zločinec - zbrodniarz | przestępca
-zločinnost - przestępczość | zbrodniczość
-zločinný - przestępczy | zbrodniczy
-zlomok - ułamek | fragment
-zloženie - kompozycja | złożenie | struktura
-zložený - złożony | składający się z wielu części
+zločin - zbrodnia, przestępstwo
+zločinec - zbrodniarz, przestępca
+zločinnost - przestępczość, zbrodniczość
+zločinný - przestępczy, zbrodniczy
+zlomok - ułamek, fragment
+zloženie - kompozycja, złożenie, struktura
+zložený - złożony, składający się z wielu części
 zložiť - złożyć
-zložitý - złożony | skomplikowany
-žlť - żółć | żółty kolor
+zložitý - złożony, skomplikowany
+žlť - żółć, żółty kolor
 žltačka - żółtaczka
 Žlté more - Morze Żółte
 žĺtok - żółtko
 žltozelený - żółtozielony
 žltý - żółty
 zlý - zły
-zmazať - zmazać | zetrzeć | wymazać
+zmazať - zmazać, zetrzeć, wymazać
 zmena - zmiana
 zmes - mieszanina
 zmluva - umowa
 zmŕtvychvstanie - zmartwychwstanie
 zmrzlina - lód
-znamenať - znaczyć | mieć (jakieś) znaczenie
+znamenať - znaczyć, mieć (jakieś) znaczenie
 znamenie zvieratníka - znak zodiaku
-známka - znaczek (np. pocztowy) | oznaka (np. choroby) | ocena w szkole | drobny przedmiot pozwalający na identyfikację kogoś | czegoś | identyfikator | legitymacja | oznaka.
-známy - znany | znajomy
+známka - znaczek (np. pocztowy), oznaka (np. choroby), ocena w szkole, drobny przedmiot pozwalający na identyfikację kogoś, czegoś, identyfikator, legitymacja, oznaka.
+známy - znany, znajomy
 znezrady - nagle
 zničenie - zniszczenie
-zo - z | ze | około | mniej więcej
+zo - z, ze, około, mniej więcej
 zobák - dziób
 žobráčka - żebraczka
 žobráctvo - żebractwo
@@ -8900,26 +8900,26 @@ zošit - zeszyt
 zostarieť - zestarzeć się
 zostarievať - starzeć się
 zostať - zostać
-zotrieť - zetrzeć | zmazać | zatrzeć
-zoznam - spis | lista
+zotrieť - zetrzeć, zmazać, zatrzeć
+zoznam - spis, lista
 zrada - zdrada
 zradca - zdrajca
 zrak - wzrok
 žralok - rekin
-zraniť - zranić | zranić się
-žrď - żerdź | tyczka | drąg
+zraniť - zranić, zranić się
+žrď - żerdź, tyczka, drąg
 žreb - los (na loterii)
 žrebec - ogier
 zrelý - dojrzały
 zrenica - źrenica
 zrenička - źrenica
 žriebä - źrebię
-zriedka - rzadko | nieczęsto
-zrkadielko - lusterko | lustereczko
+zriedka - rzadko, nieczęsto
+zrkadielko - lusterko, lustereczko
 zrkadlo - lustro
 zrno - ziarno
-zrušiť - znieść | anulować
-ZŠ - SP | szkoła podstawowa
+zrušiť - znieść, anulować
+ZŠ - SP, szkoła podstawowa
 zub - ząb
 zubár - dentysta
 zubárka - dentystka
@@ -8936,7 +8936,7 @@ zubor - żubr
 žuvačka - guma do żucia
 Zuzana - Zuzanna
 zvárač - spawacz
-zväz - związek | unia
+zväz - związek, unia
 zverbovanec - osoba zwerbowana
 zverolekár - weterynarz
 zverolekárka - kobieta weterynarz
@@ -8948,5 +8948,5 @@ zvon - dzwon
 zvonica - dzwonnica
 zvoniť - dzwonić
 zvuk - dźwięk
-zvyk - przyzwyczajenie | nawyk | zwyczaj | obyczaj | tradycja
+zvyk - przyzwyczajenie, nawyk, zwyczaj, obyczaj, tradycja
 zygota - zygota

@@ -90,7 +90,7 @@ Brunei - Bruneja
 brydż - bridžs m
 brzmienie - skaņa
 brzoza - bērzs m
-Bug - Buga | Rietumu Buga
+Bug - Buga, Rietumu Buga
 bulba - kartupelis m
 Bułgaria - Bulgārija
 bulwa - kartupelis m
@@ -132,7 +132,7 @@ czyhunka - torijs
 czyrwiec - jūnijs
 czyrwień - jūnijs
 Dagestan - Dagestāna
-Diogenes - Diogēns m | Diogēns m (no Sinopes)
+Diogenes - Diogēns m, Diogēns m (no Sinopes)
 dla - par
 dmuchać - vēsma
 Dniepr - Dņepra
@@ -146,7 +146,7 @@ dżez - džezs
 dzięcioł trójpalczasty - trīspirkstu dzenis m
 dziela - par
 dzień dobry - labrīt
-dziennikarstwo - žurnālistika f | avīžniecība f
+dziennikarstwo - žurnālistika f, avīžniecība f
 dziennikarz - žurnālists m
 dziurkacz - skylamuša
 dziurkacz biurowy - skylamuša
@@ -171,8 +171,8 @@ fosfor - fosfors
 fresk - freska
 furdygarnia - cietums
 Gabon - Gabona
-gała - krauklis m | vārna
-gapa - krauklis m | vārna
+gała - krauklis m, vārna
+gapa - krauklis m, vārna
 gara - sapnis m
 gasa - iela f
 gatunkowizm - sudzisms
@@ -180,7 +180,7 @@ gaz - gāze f
 gaz szlachetny - cēlgāze
 gdzie - kur
 gdziekolwiek - jebkur
-Genowefa - Genovaitė f | Genoveita f
+Genowefa - Genovaitė f, Genoveita f
 geografia - ģeogrāfija
 gepard - gepards
 german - germānijs
@@ -224,11 +224,11 @@ Itaka - Itaka
 izotop - izotops
 jabłko - ābols m
 jabłoń - ābele
-jajo - olšūna f | ola f
+jajo - olšūna f, ola f
 Jastrzębie-Zdrój - Jastšembe Zdroja
 Jaworzno - Javožno
 jazz - džezs
-jebadło - guļamistaba | gulta f
+jebadło - guļamistaba, gulta f
 Jerycho - Jērika
 jest - būt
 jeż - ezis
@@ -367,8 +367,8 @@ Morze Czarne - Melnā jūra
 Morze Karaibskie - Karību jūra
 Morze Północne - Ziemeļjūra
 Morze Śródziemne - Vidusjūra
-motorniczy - vagona vadītājs | važonis
-motorowy - vagona vadītājs | važonis
+motorniczy - vagona vadītājs, važonis
+motorowy - vagona vadītājs, važonis
 Mount Everest - Everests
 mućka - liellopigovs
 muzeum - muzejs
@@ -392,7 +392,7 @@ niob - niobijs
 no - jā
 noc - nakts
 Norweg - norvēģis m
-nowotwór - neoplazma | audzējs
+nowotwór - neoplazma, audzējs
 nóż - nazis m
 nudelzupa - zupa
 nyga - ods
@@ -415,7 +415,7 @@ osoba - persona
 otwierać - atvērt
 paciuk - žurka
 pająk - zirneklis
-pajęcznik - septembris | novembris
+pajęcznik - septembris, novembris
 Panna - Jaunava
 papier - papirs
 pełny - pilnība
@@ -431,7 +431,7 @@ piwo - alus
 planeta - planēta
 płaskonos - platknābis
 płot - žogs m
-płynny - šķidrs | šķidrums
+płynny - šķidrs, šķidrums
 pociąg pocztowy - pasta vilciens
 poczta - pasts
 pod - zem
@@ -464,13 +464,13 @@ przyroda - daba f
 psiarnia - policija
 ptak - putns m
 ptaszę - putns m
-puszka - cietums | alus
+puszka - cietums, alus
 pyra - kartupelis m
-radioaktywny - radio akt | radioaktīvs
+radioaktywny - radio akt, radioaktīvs
 radon - radons
 Rak - Vēzis
 rasizm - rasisms m
-razdziawa - krauklis m | vārna
+razdziawa - krauklis m, vārna
 rekin - haizivs f
 Republika Czeska - Čehijas Republika f
 Republika Karelia - Karēlijas Republika
@@ -661,8 +661,8 @@ zielnik - herbārijs
 zielony - zaļš
 ziemniak - kartupelis m
 złoto - zelts
-żółć - dzeltens m | dzeltena f
-żółty - dzeltens m | dzeltena f
+żółć - dzeltens m, dzeltena f
+żółty - dzeltens m, dzeltena f
 źródło - avots
 zupa - zupa
 żurnalista - žurnālists m
@@ -670,4 +670,4 @@ Związek Socjalistycznych Republik Radzieckich - Padomju Sociālistisko Republik
 zwierciadło - spogulis m
 zwierzak - dzīvnieks
 zwierzę - dzīvnieks
-żyła - vēna | dzīsla
+żyła - vēna, dzīsla

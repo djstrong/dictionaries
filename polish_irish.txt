@@ -12,8 +12,8 @@ Anglija - Sasana m
 aniżeli - ná
 anonimowy - dí-ainm
 Antoni - Antóin
-aptek - poitigéireacht | cogaslann
-apteka - poitigéireacht | cogaslann
+aptek - poitigéireacht, cogaslann
+apteka - poitigéireacht, cogaslann
 Arabia Saudyjska - An Araib Shádach
 Argentyna - an Airgintín f
 armia - slua
@@ -34,7 +34,7 @@ baskijski - Bascais
 beczeć - caoin
 Belgia - Bheilg
 beryl - beirilliam m
-biały - bán | fionn | geal
+biały - bán, fionn, geal
 biber - hata m
 Biblia - Bíobla
 biblioteka - leabharlann f
@@ -66,7 +66,7 @@ chrześcijaństwo - Críostaíocht
 cudzokrain - coimhthíoch
 cudzoziemiec - coimhthíoch
 cukier - siúcra
-cydr - ceirtlis f | leann úll m
+cydr - ceirtlis f, leann úll m
 cyga - bumbóg m
 cynk - sinc
 Cypr - Chipir
@@ -85,7 +85,7 @@ dekiel - ceann m
 demografia - déimeagrafaíocht f
 dobranoc - oíche mhaith agat
 dobry wieczór - tráthnóna maith agat
-doktor - lia m | dochtúir m
+doktor - lia m, dochtúir m
 dom - teach m
 doradca - comhairleoir m
 Dorota - Doreen
@@ -97,13 +97,13 @@ dwusilnikowy - dé-inneallach
 dycht - iomlán
 dywan - cairpéad m
 dziennikarstwo - iriseoireacht
-dziennikarz - iriseoir | nuachtóir
+dziennikarz - iriseoir, nuachtóir
 dżungla - dufair f
 Emili - Eimile
 Emilia - Eimile
 emu - éamú m
 epitafium - feartlaoi f
-eskulap - lia m | dochtúir m
+eskulap - lia m, dochtúir m
 facet - fear m
 facetka - bean
 fajny - eolach
@@ -141,16 +141,16 @@ historyczny - stairiúil
 huśtawka - luascán
 imperator - impire
 intencja - rún
-Irlandczyk - Éireannach m | Gael m
+Irlandczyk - Éireannach m, Gael m
 Irlandia - Éire
 Irlandia Północna - Tuaisceart Éireann
 Irlandka - Éireannach f
-irlandzki - Éireannach | Gaelach | Gaeilge f
+irlandzki - Éireannach, Gaelach, Gaeilge f
 iryd - iridiam
 ja - mé
 jabłko - úll m
 jajo - ubh f
-Jakub - Séamas | Seamus | Shamus | Séimí
+Jakub - Séamas, Seamus, Shamus, Séimí
 Jan - Seán
 jednooki - aonsúileach
 jest - tá
@@ -190,8 +190,8 @@ kołchoz - calchas
 koleś - fear m
 kolor - dath m
 kompas - compás
-koń - capall | each
-kóń - capall | each
+koń - capall, each
+kóń - capall, each
 koniec - deireadh
 Korea Północna - an Chóiré Thuaidh
 kosa - scian m
@@ -205,7 +205,7 @@ księgozbiór - leabharlann f
 kucharz - cócaire
 lacz - ceann m
 ładny - eolach
-lekarz - lia m | dochtúir m
+lekarz - lia m, dochtúir m
 łepetyna - ceann m
 Lew - an Leon
 łgarz - bréagadóir
@@ -222,10 +222,10 @@ luty - Feabhra
 mam - táille
 marzyć - taibhrigh
 meczet - mosc m
-medyk - lia m | dochtúir m
+medyk - lia m, dochtúir m
 Merkury - Mearcair
 mężczyzna - fear m
-Michał - Mícheál m | Mícéal m
+Michał - Mícheál m, Mícéal m
 mieć - táille
 mieli - táille
 mięsopustnik - Feabhra
@@ -234,10 +234,10 @@ miłość - grá
 minaret - miontúr m
 mleko - bainne m
 mordować - maraigh
-morze - muir f | farraige f
+morze - muir f, farraige f
 Morze Bałtyckie - An Mhuir Bhailt
 Morze Śródziemne - an Mheánmhuir
-Mount Everest - Sliabh Everest | Sliaḃ Everest
+Mount Everest - Sliabh Everest, Sliaḃ Everest
 mrównik - arcán talún
 mućka - bó
 mużyk - fear m
@@ -280,7 +280,7 @@ orgazm - súnás m
 osteomalacja - oistéamalaice f
 ostry - géar
 owoc - toradh
-paciuk - francach dubh | luch francach | luchóg mhor
+paciuk - francach dubh, luch francach, luchóg mhor
 pajęcznik - Deireadh Fómhair
 pała - ceann m
 pale - ceann m
@@ -289,11 +289,11 @@ Paryż - Páras m
 październik - Deireadh Fómhair
 paździerzeń - Deireadh Fómhair
 pies - madra
-pikawa - croí | chroí
+pikawa - croí, chroí
 Piotr - Peadar
 pisarz - scríbhneoir
 płakać - caoin
-płynny - leachtach | sreabhach | líofa
+płynny - leachtach, sreabhach, líofa
 podmenu - fo-roghchlár m
 poezja - filíocht f
 Polak - Polannach m
@@ -302,7 +302,7 @@ poligynia - polaigíneas
 polon - polóiniam
 Polska - An Pholainn
 pomarańczowy - flannbhuí
-poniedziałek - Dé Luain | Luan
+poniedziałek - Dé Luain, Luan
 pornografia - pornagrafaíocht f
 potas - potaisiam
 prosię ziemne - arcán talún
@@ -316,7 +316,7 @@ przoć - gráigh
 przydomek - leasainm m
 przyjaciel - dlúthchara
 psisko - madra
-pustynia - fásach | gaineamhlach
+pustynia - fásach, gaineamhlach
 Pyjter - Peadar
 raciądz - ridire
 racjonalista - réasúnaí m
@@ -343,8 +343,8 @@ ryż - rís f
 sagan - ceann m
 samar - samairiam
 selen - seiléiniam
-serce - croí | chroí
-serdce - croí | chroí
+serce - croí, chroí
+serdce - croí, chroí
 siano - féar m
 sieczeń - Feabhra
 siedzieć - suí
@@ -362,12 +362,12 @@ sowa - ulchabhán
 śpiewać - can
 srebro - airgead m
 staw łokciowy - uillinn
-Stefan - Steafán | Stiofan
+Stefan - Steafán, Stiofan
 strąpacz - Feabhra
 Strzelec - an Saighdeoir
 styczeń - Eanáir
 synteza - sintéis
-szczur - francach dubh | luch francach | luchóg mhor
+szczur - francach dubh, luch francach, luchóg mhor
 szczyt - súnás m
 szept - cogar m
 szkoła - scoil f
@@ -402,7 +402,7 @@ tyrania - ansmacht m
 Unia Europejska - Aontas Eorpach m
 urodziny - breithlá
 urodziwy - eolach
-wacha - muir f | farraige f | uisce
+wacha - muir f, farraige f, uisce
 Waga - an Mheá
 Warszawa - Vársá m
 wątpliwość - amhras
@@ -412,7 +412,7 @@ weganin - veigeán m
 węgiel - carbón
 Wesołych Świąt - Nollaig Shona
 wideo - físeán
-Wielkanoc - an Cháisc f | Cáisc f | Cásca f
+Wielkanoc - an Cháisc f, Cáisc f, Cásca f
 wielożeństwo - polaigíneas
 wietrzny - gaofar
 Wikisłownik - Vicífhoclóir
@@ -421,7 +421,7 @@ wino - fíon
 winograd - fíon
 wiosna - earrach m
 władza - údarás
-włos - folt m | gruaig f
+włos - folt m, gruaig f
 wniwecz - iomlán
 woda - uisce
 Wodnik - an tUisceadóir
@@ -430,7 +430,7 @@ w pełni - iomlán
 wrona - caróg dubh
 wróżka - sióg
 wuszt - ispín m
-wyspa - oileán m | inis f
+wyspa - oileán m, inis f
 Wyspa Świętego Wyspy Świętego Tomasza i Wyspa Książęca - São Tomé agus Príncipe
 Wyspy Kanaryjskie - hOileáin Chanáracha
 Wyspy Normandzkie - Oileáin Mhuir nIocht
@@ -448,7 +448,7 @@ złoto - ór m
 żółw - turtar m
 żółw lamparci - toirtís liopaird
 zupełnie - iomlán
-żurnalista - iriseoir | nuachtóir
+żurnalista - iriseoir, nuachtóir
 Związek Socjalistycznych Republik Radzieckich - Aontas na bPoblachtaí Sóivéideacha Sóisialacha
 żyła - féith
 żyletka - lainne rásúir f

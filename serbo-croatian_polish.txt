@@ -1,4 +1,4 @@
-abažur - klosz | abażur
+abažur - klosz, abażur
 abdicirati - abdykować
 abdikacija - abdykacja
 abdomen - brzuch
@@ -33,7 +33,7 @@ agnosticizam - agnostycyzm
 agonija - agonia
 agrarni - rolny
 agresija - agresja
-agresor - agresor | napastnik
+agresor - agresor, napastnik
 agrikultura - rolnictwo
 agronomija - agronomia
 ahat - agat
@@ -56,7 +56,7 @@ akvarij - akwarium
 akvedukt - akwedukt
 alabastar - alabaster
 alabaster - alabaster
-alatka - narzędzie | instrument
+alatka - narzędzie, instrument
 albatros - albatros
 albin - albinos
 albino - albinos
@@ -67,7 +67,7 @@ alergija - alergia
 aleutski - aleucki
 alfa - alfa (nazwa greckiej litery α)
 alfabet - alfabet
-alga - alga | glon
+alga - alga, glon
 algebra - algebra
 algoritam - algorytm
 aligator - aligator
@@ -149,7 +149,7 @@ aorta - aorta
 apatičan - apatyczny
 apatija - apatia
 apetit - apetyt
-aplauz - oklaski | aplauz
+aplauz - oklaski, aplauz
 apokrifan - apokryficzny
 apostol - apostoł
 apostrof - apostrof
@@ -187,7 +187,7 @@ astronaut - astronauta
 astronom - astronom
 astronomski - astronomiczny
 ateist - ateista
-atentat - zamach | morderstwo
+atentat - zamach, morderstwo
 Atlantski ocean - Ocean Atlantycki
 atom - atom
 atomski - atomowy
@@ -198,12 +198,12 @@ australijanski - australijski
 australijski - australijski
 autentičan - autentyczny
 autentičnost - autentyczność
-auto - auto | samochód
+auto - auto, samochód
 autobiografija - autobiografia
 autobus - autobus
 autokracija - autokracja
 autokratizam - autokracja
-automatski - automatyczny | automatycznie
+automatski - automatyczny, automatycznie
 autonoman - niezależny
 autonomija - autonomia
 autoput - autostrada
@@ -226,11 +226,11 @@ bajuneta - bagnet
 baka - babcia
 bakterija - bakteria
 bakteriologija - bakteriologia
-balega - obornik | gnój | łajno
+balega - obornik, gnój, łajno
 balet - balet
 balkon - balkon
 balon - balon
-balta - topór | siekiera
+balta - topór, siekiera
 banana - banan
 bandit - bandyta
 bandoglav - uparty
@@ -247,7 +247,7 @@ barikada - barykada
 barometar - barometr
 barut - proch strzelniczy
 basna - bajka
-bašta - ogród | bastion
+bašta - ogród, bastion
 baštinik - spadkobierca
 bazalt - bazalt
 baza podataka - baza danych
@@ -256,11 +256,11 @@ bedast - głupi
 bedro - udo
 behar - kwiat
 bejzbol - baseball
-bela - biały | blady
+bela - biały, blady
 belance - białko jajka
 belančevina - białko
 belanjak - białko jajka
-belilo - wybielacz | biel
+belilo - wybielacz, biel
 beli luk - czosnek
 Beliz - Belize
 Belize - Belize
@@ -290,7 +290,7 @@ bezbožništvo - ateizm
 bezbožnost - ateizm
 bezmalo - prawie
 beznačajan - nieistotny
-bezopasan - niegroźny | nieszkodliwy
+bezopasan - niegroźny, nieszkodliwy
 bezvredan - bezwartościowy
 bezvrijedan - bezwartościowy
 biblioteka - biblioteka
@@ -300,7 +300,7 @@ bicikal - rower
 bicikl - rower
 bigot - bigot
 bijeg - ucieczka
-bijela - biały | blady
+bijela - biały, blady
 bijeli luk - czosnek
 bijesan - wściekły
 bilingvalan - dwujęzyczny
@@ -321,7 +321,7 @@ bizon - bizon
 bjelance - białko jajka
 bjelančevina - białko
 bjelanjak - białko jajka
-bjelilo - wybielacz | biel
+bjelilo - wybielacz, biel
 bjelina - biel
 Bjelorusija - Białoruś
 bježati - uciec
@@ -344,20 +344,20 @@ bolestan - chory
 bolivijski - boliwijski
 bolnica - szpital
 bomba - bomba
-bor - sosna | bor
+bor - sosna, bor
 bordel - burdel
-borovnica - borówka amerykańska | borówka czarna | borówka
+borovnica - borówka amerykańska, borówka czarna, borówka
 bos - bosy
 Bosna i Hercegovina - Bośnia i Hercegowina
 bosonog - bosy
-bova - boja | pława
+bova - boja, pława
 božanski - boski
 božanstven - boski
 božica - bogini
 božur - piwonia
 bradat - brodaty
 bradva - topór ciesielski
-brana - tama | brona
+brana - tama, brona
 branilac - obrońca
 branitelj - obrońca
 bratstvo - bractwo
@@ -366,7 +366,7 @@ brazgotina - blizna
 Brazil - Brazylia
 brazilski - brazylijski
 brdo - wzgórze
-brendi - brandy | winiak
+brendi - brandy, winiak
 breskva - brzoskwinia
 brest - wiąz
 brežuljak - pagórek
@@ -425,17 +425,17 @@ celibat - celibat
 čelo - czoło
 cement - cement
 čempres - cyprys
-cena - cena | wartość
+cena - cena, wartość
 centimetar - centymetr
 Centralnoafrička Republika - Republika Środkowoafrykańska
-centrifuga - wirówka | centryfuga
+centrifuga - wirówka, centryfuga
 cenzura - cenzura
 cepivo - szczepionka
 ceremonija - ceremonia
 cerij - cer
 češalj - grzebień
 češljugar - szczygieł
-česma - fontanna | kran
+česma - fontanna, kran
 češnjak - czosnek
 čestitati - gratulować
 često - często
@@ -449,16 +449,16 @@ cezij - cez
 cicija - skąpiec
 cigareta - papieros
 cigla - cegła
-cijena - cena | wartość
+cijena - cena, wartość
 čileanski - chilijski
-cimbal - talerz | czynel
-cimbalo - talerz | czynel
+cimbal - talerz, czynel
+cimbalo - talerz, czynel
 čimbenik - czynnik
 ciničan - cyniczny
 činilac - czynnik
 činitelj - czynnik
 činjenica - fakt
-čip - chip | układ scalony
+čip - chip, układ scalony
 cipela - but
 čir - wrzód
 ćirilički - cyrylicki
@@ -496,7 +496,7 @@ dalek - odległy
 daljina - odległość
 Damask - Damaszek
 dan - dzień
-danas - dziś | dzisiaj
+danas - dziś, dzisiaj
 darčin - cynamon
 darmstadij - darmsztadt
 dativ - celownik
@@ -511,7 +511,7 @@ deda - dziadek
 dedukcija - dedukcja
 defektan - uszkodzony
 definicija - definicja
-definitivno - zdecydowanie | bez wątpienia
+definitivno - zdecydowanie, bez wątpienia
 deizam - deizm
 dekada - dekada
 deklaracija - deklaracja
@@ -539,7 +539,7 @@ detektor - detektor
 detelina - koniczyna
 detinjstvo - dzieciństwo
 detlić - dzięcioł
-devedeset - dziewięćdziesiąt | 90
+devedeset - dziewięćdziesiąt, 90
 devedeseti - dziewięćdziesiąty
 devetnaest - dziewiętnaście
 devetnaesti - dziewiętnasty
@@ -561,7 +561,7 @@ diktatura - dyktatura
 dilema - dylemat
 dim - dym
 dimenzija - wymiar
-dina - wydma | diuna
+dina - wydma, diuna
 dinamit - dynamit
 dinamo - prądnica
 dinastija - dynastia
@@ -592,7 +592,7 @@ djetinjstvo - dzieciństwo
 djetlić - dzięcioł
 dleto - dłuto
 dlijeto - dłuto
-dȍbar dȃn - dzień dobry | dzień dobry (po południu)
+dȍbar dȃn - dzień dobry, dzień dobry (po południu)
 dobit - zysk
 dobitnik - zwycięzca
 doboš - bęben
@@ -629,27 +629,27 @@ dramatičan - dramatyczny
 dramski - dramatyczny
 drastičan - drastyczny
 drobnjak - szczypiorek
-drug - przyjaciel | towarzysz
+drug - przyjaciel, towarzysz
 drugačije - inaczej
 drugde - gdzie indziej
 drugdje - gdzie indziej
 drukčije - inaczej
 drum - droga
-drvo - drzewo | drewno
+drvo - drzewo, drewno
 drvodelja - stolarz
 drvodjelja - stolarz
 državljanstvo - obywatelstwo
 dubnij - dubn
 dubok - głęboki
 dudov svilac - jedwabnik
-dug - długi | dług
+dug - długi, dług
 duga - tęcza
 dugačak - długi
 dugo - od dawna
 dugovečan - długowieczny
 dugovječan - długowieczny
-duhovni - duchowy | religijny
-duhovno - duchowo | religijnie
+duhovni - duchowy, religijny
+duhovno - duchowo, religijnie
 duljina - długość
 dupin - delfin
 dušek - materac
@@ -667,8 +667,8 @@ džentlmen - dżentelmen
 džep - kieszeń
 džez - jazz
 Džibuti - Dżibuti
-džip - dżip | jeep
-džudo - judo | dżudo
+džip - dżip, jeep
+džudo - judo, dżudo
 džungla - dżungla
 ebanovina - heban
 egoizam - egoizm
@@ -682,8 +682,8 @@ ekosistem - ekosystem
 ekosustav - ekosystem
 ekscentričan - ekscentryczny
 ekskluzivno - wyłącznie
-ekskrement - kał | wydalina
-eksplozija - wybuch | eksplozja
+ekskrement - kał, wydalina
+eksplozija - wybuch, eksplozja
 eksploziv - materiał wybuchowy
 eksplozivan - wybuchowy
 ekspresivan - ekspresyjny
@@ -704,13 +704,13 @@ eliksir - eliksir
 eliminacija - eliminacja
 emancipacija - emancypacja
 embrio - embrion
-embrion - embrion | zarodek | embrio
+embrion - embrion, zarodek, embrio
 emigracija - emigracja
 emigrant - emigrant
-emocija - emocja | uczucie
+emocija - emocja, uczucie
 emocionalan - emocjonalny
 emotivan - emocjonalny
-empirijski - empiryczny | doświadczalny
+empirijski - empiryczny, doświadczalny
 enciklopedija - encyklopedia
 endivija - endywia
 energija - energia
@@ -719,8 +719,8 @@ entuzijastičan - entuzjastyczny
 entuzijazam - entuzjazm
 epidemija - epidemia
 epidemijski - epidemiczny
-epilepsija - padaczka | epilepsja
-epilog - epilog | zakończenie
+epilepsija - padaczka, epilepsja
+epilog - epilog, zakończenie
 epistemologija - epistemologia
 epitaf - epitafium
 epitet - epitet
@@ -870,11 +870,11 @@ golicati - łaskotać
 goljenjača - goleń
 golub - gołąb
 gora - góra
-gord - dumny | arogancki
+gord - dumny, arogancki
 gospodarstvenik - przedsiębiorca
 gost - gość
 gostoljubiv - gościnny
-gotov - gotowy | skończony
+gotov - gotowy, skończony
 govedina - wołowina
 govorništvo - retoryka
 gozba - uczta
@@ -913,7 +913,7 @@ Gvatemala - Gwatemala
 Gvineja - Gwinea
 Gvineja Bisau - Gwinea Bissau
 gvozd - las
-habitat - habitat | środowisko
+habitat - habitat, środowisko
 hafnij - hafn
 halif - kalif
 halucinacija - halucynacja
@@ -948,7 +948,7 @@ hipoteza - hipoteza
 hir - kaprys
 histerija - histeria
 historija - historia
-hitan - nagły | pilny
+hitan - nagły, pilny
 hladan - zimny
 hobotnica - ośmiornica
 hodočašće - pielgrzymka
@@ -977,7 +977,7 @@ hrid - klif
 Hrist - Chrystus
 Hristos - Chrystus
 hrpa - sterta
-hrsuz - złodziej | rabuś | bandyta
+hrsuz - złodziej, rabuś, bandyta
 hrt - chart
 hrvač - zapaśnik
 Hrvatska - Chorwacja
@@ -1020,11 +1020,11 @@ imitacija - imitacja
 imperijalizam - imperializm
 impresivan - imponujący
 imunitet - odporność
-inače - inaczej | w przeciwnym razie | już
+inače - inaczej, w przeciwnym razie, już
 inadekvatan - nieadekwatny
 inč - cal
 incest - kazirodztwo
-incident - wydarzenie | incydent | epizod
+incident - wydarzenie, incydent, epizod
 indij - ind
 Indija - Indie
 Indijski okean - Ocean Indyjski
@@ -1034,7 +1034,7 @@ indiskretan - niedyskretny
 individualno - indywidualnie
 Indonezija - Indonezja
 industrija - przemysł
-inercija - bezwładność | inercja
+inercija - bezwładność, inercja
 infekcija - infekcja
 informacija - informacja
 infracrven - podczerwony
@@ -1088,10 +1088,10 @@ iskra - iskra
 iskustvo - doświadczenie
 islam - islam
 Island - Islandia
-ismejati - wyśmiewać | uśmiać się
-ismejavati - wyśmiewać | uśmiać się
-ismijati - wyśmiewać | uśmiać się
-ismijavati - wyśmiewać | uśmiać się
+ismejati - wyśmiewać, uśmiać się
+ismejavati - wyśmiewać, uśmiać się
+ismijati - wyśmiewać, uśmiać się
+ismijavati - wyśmiewać, uśmiać się
 isprljati - pobrudzić
 isterati - wypędzić
 isteravati - wypędzić
@@ -1102,13 +1102,13 @@ istjeravati - wypędzić
 istjerivati - wypędzić
 istočni - wschodni
 Istočni Timor - Timor Wschodni
-istodobno - równocześnie | w międzyczasie
+istodobno - równocześnie, w międzyczasie
 istok - wschód
 istoznačan - bliskoznaczny
 Isus - Jezus
 Italija - Włochy
-itekako - zdecydowanie | bez wątpienia
-i te kako - zdecydowanie | bez wątpienia
+itekako - zdecydowanie, bez wątpienia
+i te kako - zdecydowanie, bez wątpienia
 iterbij - iterb
 itrij - itr
 izabirati - wybierać
@@ -1124,7 +1124,7 @@ izdavač - wydawca
 izjutra - rano
 izlaz - wyjście
 izmeničan - zmienny
-izmet - kał | wydalina
+izmet - kał, wydalina
 izmisliti toplu vodu - na nowo odkryć koło
 izmišljati toplu vodu - na nowo odkryć koło
 izmjeničan - zmienny
@@ -1203,7 +1203,7 @@ judaizam - judaizm
 jug - południe
 Jugoslavija - Jugosławia
 juli - lipiec
-junaštvo - heroiczny czyn | bohaterstwo
+junaštvo - heroiczny czyn, bohaterstwo
 juni - czerwiec
 junica - jałówka
 jurisdikcija - jurysdykcja
@@ -1234,8 +1234,8 @@ Kalifornija - Kalifornia
 kalij - potas
 kalijum - potas
 kaliti - hartować
-kaljuga - błoto | kałuża
-kaljuža - błoto | kałuża
+kaljuga - błoto, kałuża
+kaljuža - błoto, kałuża
 Kambodža - Kambodża
 kameleon - kameleon
 Kamerun - Kamerun
@@ -1250,7 +1250,7 @@ kaotičan - chaotyczny
 kapela - kaplica
 Kapernaum - Kafarnaum
 kapitalizam - kapitalizm
-kapriciozan - kapryśny | zmienny
+kapriciozan - kapryśny, zmienny
 karakterističan - charakterystyczny
 karantena - kwarantanna
 karfiol - kalafior
@@ -1299,7 +1299,7 @@ kila - przepuklina
 kilogram - kilogram
 kino - kino
 kinuti - kichnąć
-kip - posąg | statua
+kip - posąg, statua
 Kipar - Cypr
 Kirgistan - Kirgistan
 Kirgizstan - Kirgistan
@@ -1339,14 +1339,14 @@ koincidencija - zbieg okoliczności
 kokos - kokos
 kokosov orah - kokos
 koktel - koktail
-kolajna - medal | naszyjnik
+kolajna - medal, naszyjnik
 kolektivan - zbiorowy
 kolevka - kołyska
 kolibri - koliber
 kolibrić - koliber
 kolijevka - kołyska
 kolino - kolano
-kolokvijalni - kolokwialny | potoczny
+kolokvijalni - kolokwialny, potoczny
 kolonija - kolonia
 kolonizacija - kolonizacja
 kolosalan - kolosalny
@@ -1378,20 +1378,20 @@ koncizan - zwięzły
 kondom - prezerwatywa
 konferencija - konferencja
 konflikt - konflikt
-kongres - kongres | konferencja
+kongres - kongres, konferencja
 konjak - koniak
-konjaništvo - kawaleria | konnica
-konjica - kawaleria | konnica
+konjaništvo - kawaleria, konnica
+konjica - kawaleria, konnica
 konkavan - wklęsły
 konkubina - konkubina
 konkurent - konkurent
 konobarica - kelnerka
-konop - lina | sznur
-konopac - lina | sznur
+konop - lina, sznur
+konopac - lina, sznur
 konoplja - konopie
 konopljarka - szczygieł
-konotacija - konotacja | skojarzenie
-konsenzus - konsensus | zgoda
+konotacija - konotacja, skojarzenie
+konsenzus - konsensus, zgoda
 konsonant - spółgłoska
 konstantan - stały
 konstantno - ciągle
@@ -1405,7 +1405,7 @@ konvencionalan - konwencjonalny
 konvoj - konwój
 konzervativan - konserwatywny
 konzul - konsul
-kooperacija - współpraca | kooperacja
+kooperacija - współpraca, kooperacja
 kopar - koper
 koplje - włócznia
 kopriva - pokrzywa
@@ -1455,7 +1455,7 @@ krevet - łóżko
 krhak - delikatny
 krijesnica - świetlik
 krijumčar - przemytnik
-kriminalan - przestępczy | kryminalny
+kriminalan - przestępczy, kryminalny
 kriomice - w sekrecie
 kripton - krypton
 krišom - w sekrecie
@@ -1480,7 +1480,7 @@ kuća - dom
 kućanica - gospodyni domowa
 kufer - walizka
 kuk - biodro
-kukavica - kukułka | figurka ptaka w ściennych zegarach | wysuwająca się ze środka w równych odstępach czasu | tchórz
+kukavica - kukułka, figurka ptaka w ściennych zegarach, wysuwająca się ze środka w równych odstępach czasu, tchórz
 kukavičluk - tchórzostwo
 kukuruz - kukurydza
 kuloar - korytarz
@@ -1488,7 +1488,7 @@ kult - kult
 kupaonica - łazienka
 kupatilo - łazienka
 kupina - jeżyna
-kupler - alfons | sutener
+kupler - alfons, sutener
 kupus - kapusta
 kurij - kiur
 kurjak - wilk
@@ -1523,7 +1523,7 @@ latica - płatek
 Latvija - Łotwa
 lauta - lutnia
 lavica - lwica
-lavina - lawina | osuwisko
+lavina - lawina, osuwisko
 lawrencij - lorens
 lažac - kłamca
 lažljivac - kłamca
@@ -1587,9 +1587,9 @@ livada - łąka
 ljepilo - klej
 lješnik - orzech laskowy
 ljiljan - lilia
-ljubav - miłość | zakochanie
+ljubav - miłość, zakochanie
 ljubomora - zazdrość
-ljubomoran - zazdrosny | zawistny
+ljubomoran - zazdrosny, zawistny
 ljudožder - kanibal
 ljutnja - gniew
 lobanja - czaszka
@@ -1611,20 +1611,20 @@ losos - łosoś
 lotos - lotos
 lovor - wawrzyn
 lozinka - hasło
-ložnica - sypialnia | łóżko
+ložnica - sypialnia, łóżko
 lubanja - czaszka
 lubenica - arbuz
 lud - szalony
 ludilo - szaleństwo
 lug - ług
-lukav - przebiegły | chytry
+lukav - przebiegły, chytry
 luksus - luksus
 luksuz - luksus
 luksuzan - luksusowy
 lunaran - księżycowy
 lupež - złodziej
-lutalac - wędrowiec | wędrownik
-lutalica - wędrowiec | wędrownik
+lutalac - wędrowiec, wędrownik
+lutalica - wędrowiec, wędrownik
 lutecij - lutet
 lutnja - lutnia
 lutrija - loteria
@@ -1646,13 +1646,13 @@ magnetni - magnetyczny
 magnezij - magnez
 mahovina - mech
 maj - maj
-majestetičan - majestatyczny | królewski
+majestetičan - majestatyczny, królewski
 majka - matka
 majoneza - majonez
 mak - mak
 Makao - Macau
 makar - przynajmniej
-makro - alfons | sutener
+makro - alfons, sutener
 maksimum - maksimum
 mal - mały
 malarija - malaria
@@ -1671,7 +1671,7 @@ mandragora - mandragora
 mangan - mangan
 manipulacija - manipulacja
 manjina - mniejszość
-manuskript - rękopis | manuskrypt
+manuskript - rękopis, manuskrypt
 marelica - morela
 Maroko - Maroko
 mart - marzec
@@ -1681,7 +1681,7 @@ mašta - wyobraźnia
 matematika - matematyka
 materijal - materiał
 mȁti - matka
-mator - stary | starszy
+mator - stary, starszy
 matrica - macierz
 Mauretanija - Mauretania
 Mauricijus - Mauritius
@@ -1699,10 +1699,10 @@ mek - miękki
 meksički - meksykański
 melek - anioł
 mendelevij - mendelew
-menstruacija - miesiączka | menstruacja
+menstruacija - miesiączka, menstruacja
 meriti - mierzyć
 mesar - rzeźnik
-mȅsēc - księżyc | miesiąc
+mȅsēc - księżyc, miesiąc
 mesečar - lunatyk
 mesečina - światło księżyca
 meso - mięso
@@ -1712,7 +1712,7 @@ meta - cel
 metabolizam - metabolizm
 metafizika - metafizyka
 metak - pocisk
-metamorfoza - metamorfoza | przeobrażenie
+metamorfoza - metamorfoza, przeobrażenie
 meteorit - meteoryt
 meteorologija - meteorologia
 metla - miotła
@@ -1725,7 +1725,7 @@ Mikronezija - Mikronezja
 mikroorganizam - mikroorganizm
 mikroskop - mikroskop
 milja - mila
-mimar - architekt | budowniczy
+mimar - architekt, budowniczy
 minaret - minaret
 minđuha - kolczyk
 minđuša - kolczyk
@@ -1736,7 +1736,7 @@ mirođija - koper
 miš - mysz
 mišar - myszołów
 mišić - mięsień
-mišica - mysz | ramię
+mišica - mysz, ramię
 misija - misja
 misirski - egipski
 mislilac - myśliciel
@@ -1748,7 +1748,7 @@ mito - łapówka
 mitologija - mitologia
 mjed - mosiądz
 mjeriti - mierzyć
-mjesec - księżyc | miesiąc
+mjesec - księżyc, miesiąc
 mjesečar - lunatyk
 mjesečina - światło księżyca
 mjesni - lokalny
@@ -1761,7 +1761,7 @@ mobilnost - mobilność
 močvara - bagno
 mȍdar - niebieski
 modem - modem
-moderan - nowoczesny | współczesny
+moderan - nowoczesny, współczesny
 mogranj - granat
 mogućnost - możliwość
 moj - mój
@@ -1803,37 +1803,37 @@ mukom - cicho
 munara - minaret
 municija - amunicja
 murva - morwa
-mušičav - kapryśny | zmienny
+mušičav - kapryśny, zmienny
 muslimanski - muzułmański
 mutacija - mutacja
 mužar - moździerz
 muzej - muzeum
 muzika - muzyka
-načelo - zasada | reguła
+načelo - zasada, reguła
 nacionalizam - nacjonalizm
 nada - nadzieja
 nadimak - przydomek
-nadležnost - jurysdykcja | kompetencja
+nadležnost - jurysdykcja, kompetencja
 nadliška - mandragora
 nag - nagi
 naizmeničan - zmienny
 naizmjeničan - zmienny
 najaviti - ogłaszać
 najavljivati - ogłaszać
-najednom - nagle | niespodziewanie
+najednom - nagle, niespodziewanie
 nameniti - zamierzać
 namenjivati - zamierzać
-nameravati - mieć zamiar | planować
+nameravati - mieć zamiar, planować
 nametnik - pasożyt
 Namibija - Namibia
 namijeniti - zamierzać
 namjenjivati - zamierzać
-namjeravati - mieć zamiar | planować
+namjeravati - mieć zamiar, planować
 naočit - przystojny
 napadač - napastnik
 napadačica - napastnik
-napijati - upić | upić się
-napiti - upić | upić się
+napijati - upić, upić się
+napiti - upić, upić się
 napolje - na zewnątrz
 naposletku - w końcu
 naposljetku - w końcu
@@ -1868,7 +1868,7 @@ natjeravati - zmusić
 natjerivati - zmusić
 natrag - wstecz
 nauka - nauka
-naumiti - mieć zamiar | planować
+naumiti - mieć zamiar, planować
 naušnica - kolczyk
 naveče - wieczorem
 navečer - wieczorem
@@ -1881,17 +1881,17 @@ nečitak - nieczytelny
 nečitljiv - nieczytelny
 nedavno - ostatnio
 neđe - gdzieś
-nedelja - niedziela | tydzień
+nedelja - niedziela, tydzień
 nedeljiv - niepodzielny
 nedjelja - niedziela
 nedjeljiv - niepodzielny
-nedostatak - niedobór | defekt | wada
+nedostatak - niedobór, defekt, wada
 nedužnost - niewinność
 neefikasan - nieskuteczny
 negde - gdzieś
 negđe - gdzieś
 negdje - gdzieś
-neimar - architekt | budowniczy
+neimar - architekt, budowniczy
 neimaština - bieda
 neizlečiv - nieuleczalny
 neizlječiv - nieuleczalny
@@ -1904,7 +1904,7 @@ nejak - słaby
 nejednak - nierówny
 nejednakost - nierówność
 nekamo - gdzieś
-neko - około | ktoś
+neko - około, ktoś
 nekoristan - bezużyteczny
 nektar - nektar
 nekud - gdzieś
@@ -1916,7 +1916,7 @@ Nemačka - Niemcy
 nemoguć - niemożliwy
 nemoral - niemoralność
 nemoralan - niemoralny
-nenadano - nagle | niespodziewanie
+nenadano - nagle, niespodziewanie
 nenazočan - nieobecny
 neobjašnjiv - niewytłumaczalny
 neočekivan - nieoczekiwany
@@ -1956,7 +1956,7 @@ nerazdvojan - nierozłączny
 neredovit - nieregularny
 neregularan - nieregularny
 neshvatljiv - niezrozumiały
-neškodljiv - niegroźny | nieszkodliwy
+neškodljiv - niegroźny, nieszkodliwy
 nesmisao - absurd
 nestabilnost - niestabilność
 nestanak - zniknięcie
@@ -1967,7 +1967,7 @@ nestrpljivost - niecierpliwość
 nestvaran - nierealny
 netko - ktoś
 neudoban - niewygodny
-neugodan - nieprzyjemny | niewygodny
+neugodan - nieprzyjemny, niewygodny
 neuobičajen - nietypowy
 neurologija - neurologia
 neuspeo - nieudany
@@ -2019,7 +2019,7 @@ nosorog - nosorożec
 nostalgija - nostalgia
 novac - pieniądze
 novačiti - rekrutować
-novčani - finansowy | pieniężny
+novčani - finansowy, pieniężny
 novčanica - banknot
 novčanik - portfel
 novčić - moneta
@@ -2027,11 +2027,11 @@ novembar - listopad
 Novi Zeland - Nowa Zelandia
 novotvorenica - neologizm
 nozdrva - nozdrze
-nuklearni - jądrowy | nuklearny
+nuklearni - jądrowy, nuklearny
 nukleus - jądro
 nutrašnji - wewnętrzny
 nužan - potrzebny
-nužda - potrzeba | konieczność
+nužda - potrzeba, konieczność
 nuždan - potrzebny
 nužnik - toaleta
 nužnost - konieczność
@@ -2059,12 +2059,12 @@ očaj - rozpacz
 očajanje - rozpacz
 ocat - ocet
 očekivanje - oczekiwanie
-oceniti - ocenić | oceniać
-ocenjivati - ocenić | oceniać
+oceniti - ocenić, oceniać
+ocenjivati - ocenić, oceniać
 očigledno - oczywiście
-ocijeniti - ocenić | oceniać
+ocijeniti - ocenić, oceniać
 očito - oczywiście
-ocjenjivati - ocenić | oceniać
+ocjenjivati - ocenić, oceniać
 očuh - ojczym
 odabirati - wybierać
 odabrati - wybierać
@@ -2078,18 +2078,18 @@ odgovornost - odpowiedzialność
 odijeliti - oddzielać
 odijevati - ubierać się
 odjeća - odzież
-odjedanput - nagle | niespodziewanie
-odjednom - nagle | niespodziewanie
+odjedanput - nagle, niespodziewanie
+odjednom - nagle, niespodziewanie
 odjeljivati - oddzielać
 odjenuti - ubierać się
 odluka - decyzja
-odmeravati - odważyć | mierzyć
-odmeriti - odważyć | mierzyć
-odmjeravati - odważyć | mierzyć
-odmjeriti - odważyć | mierzyć
+odmeravati - odważyć, mierzyć
+odmeriti - odważyć, mierzyć
+odmjeravati - odważyć, mierzyć
+odmjeriti - odważyć, mierzyć
 odobrenje - akceptacja
 odsutan - nieobecny
-odvratnost - wstręt | odraza
+odvratnost - wstręt, odraza
 odžak - komin
 ofarbati - malować
 oganj - ogień
@@ -2098,7 +2098,7 @@ ogrejati - ogrzewać
 ogrejavati - ogrzewać
 ogrijati - ogrzewać
 ogrijavati - ogrzewać
-ohol - arogancki | wyniosły | zarozumiały
+ohol - arogancki, wyniosły, zarozumiały
 ojzder - tutaj
 Okeanija - Oceania
 okoliš - środowisko
@@ -2114,7 +2114,7 @@ olujni - burzliwy
 Oman - Oman
 omlet - omlet
 on - on
-onda - wówczas | potem
+onda - wówczas, potem
 onde - tam
 ondje - tam
 onesposobiti - uniemożliwić
@@ -2128,10 +2128,10 @@ opat - opat
 opatica - przeorysza
 opcija - opcja
 opera - opera
-opet - znowu | znów
-opijati - upić | upić się
+opet - znowu, znów
+opijati - upić, upić się
 opis - opis
-opiti - upić | upić się
+opiti - upić, upić się
 oponent - oponent
 opredeliti - zdecydować
 opredeljivati - zdecydować
@@ -2141,11 +2141,11 @@ opresija - ucisk
 oprost - przebaczenie
 oprostite - przepraszam
 opscen - obsceniczny
-opsedati - oblegać | nie dawać spokoju
+opsedati - oblegać, nie dawać spokoju
 opsesija - obsesja
-opsesti - oblegać | nie dawać spokoju
-opsjedati - oblegać | nie dawać spokoju
-opsjesti - oblegać | nie dawać spokoju
+opsesti - oblegać, nie dawać spokoju
+opsjedati - oblegać, nie dawać spokoju
+opsjesti - oblegać, nie dawać spokoju
 optimizam - optymizm
 orah - orzech włoski
 oralni seks - seks oralny
@@ -2173,10 +2173,10 @@ osmijeh - uśmiech
 osmjehnuti - uśmiechać się
 osnivač - założyciel
 osnivačica - założyciel
-osnivati - ustanowić | ufundować
-osnovati - ustanowić | ufundować
+osnivati - ustanowić, ufundować
+osnovati - ustanowić, ufundować
 osoba - osoba
-osobito - szczególnie | zwłaszcza
+osobito - szczególnie, zwłaszcza
 osobna imenica - nazwa własna
 osovina - oś
 ostava - spiżarnia
@@ -2195,7 +2195,7 @@ otkriti toplu vodu - na nowo odkryć koło
 otkrivati toplu vodu - na nowo odkryć koło
 otkupnina - okup
 otopiti - roztopić się
-otrov - trucizna | jad
+otrov - trucizna, jad
 ovalan - owalny
 ovarij - jajnik
 ovas - owies
@@ -2213,14 +2213,14 @@ pacijent - pacjent
 pacijentica - pacjent
 pacijentkinja - pacjent
 padati - upaść
-padavica - padaczka | epilepsja
+padavica - padaczka, epilepsja
 padobran - spadochron
 pakao - piekło
 Pakistan - Pakistan
 pakosno - złośliwie
 pakostan - złośliwy
 paladij - pallad
-palata - pałac | rezydencja
+palata - pałac, rezydencja
 Palestina - Palestyna
 palindrom - palindrom
 Panama - Panama
@@ -2302,7 +2302,7 @@ pile - pisklę
 pingvin - pingwin
 pirat - pirat
 pirinač - ryż
-pisac - pisarz | autor
+pisac - pisarz, autor
 pismohrana - archiwum
 pismonoša - listonosz
 pitanje - pytanie
@@ -2323,7 +2323,7 @@ planet - planeta
 planeta - planeta
 planina - góra
 plantaža - plantacja
-plastika - plastik | tworzywo sztuczne
+plastika - plastik, tworzywo sztuczne
 platina - platyna
 plavičast - niebieskawy
 plaža - plaża
@@ -2340,7 +2340,7 @@ pločnik - chodnik
 plod - owoc
 plovućac - pumeks
 plovučac - pumeks
-plutača - boja | pława
+plutača - boja, pława
 plutonij - pluton
 pobačaj - poronienie
 pobeći - uciec
@@ -2351,10 +2351,10 @@ pobjeda - zwycięstwo
 pobjednik - zwycięzca
 početak - początek
 početnik - początkujący
-podgrejati - ogrzewać | ożywić
-podgrejavati - ogrzewać | ożywić
-podgrijati - ogrzewać | ożywić
-podgrijavati - ogrzewać | ożywić
+podgrejati - ogrzewać, ożywić
+podgrejavati - ogrzewać, ożywić
+podgrijati - ogrzewać, ożywić
+podgrijavati - ogrzewać, ożywić
 podijeliti - podzielić
 podmićivati - przekupić
 podmititi - przekupić
@@ -2364,16 +2364,16 @@ podnevni - południe
 podražaj - bodziec
 podstrek - bodziec
 poezija - poezja
-pogovor - epilog | zakończenie
-pogrešan - błędny | zły
+pogovor - epilog, zakończenie
+pogrešan - błędny, zły
 pohvala - pochwała
 pojačalo - wzmacniacz
 pojedinačno - indywidualnie
 poklon - prezent
 pokop - pogrzeb
 pokrajinski - regionalny
-polagan - powolny | stopniowy
-polagano - powoli | stopniowo
+polagan - powolny, stopniowy
+polagano - powoli, stopniowo
 polako - powoli
 polica - półka
 policajac - policjant
@@ -2393,7 +2393,7 @@ polovina - połowa
 polubrat - brat przyrodni
 poluga - dźwignia
 poluotok - półwysep
-pomagač - pomocnik | asystent
+pomagač - pomocnik, asystent
 pomisao - pomysł
 pomoć - pomoc
 pomoćnik - asystent
@@ -2434,7 +2434,7 @@ poslepodne - popołudnie
 poslijepodne - popołudnie
 poslodavac - pracodawca
 poslovica - przysłowie
-pospan - śpiący | senny
+pospan - śpiący, senny
 posramljen - zawstydzony
 poštar - listonosz
 postelja - łóżko
@@ -2443,8 +2443,8 @@ postojanje - egzystencja
 postupan - stopniowy
 postupno - stopniowo
 posudba - pożyczka
-posve - całkowicie | kompletnie
-posvema - całkowicie | kompletnie
+posve - całkowicie, kompletnie
+posvema - całkowicie, kompletnie
 pot - pot
 poteg - ruch
 potencijal - potencjał
@@ -2505,10 +2505,10 @@ premijer - premier
 preporuka - rekomendacja
 prepreka - przeszkoda
 prerija - preria
-presecati - rozciąć | użyć skrótu
-preseći - rozciąć | użyć skrótu
-presijecati - rozciąć | użyć skrótu
-presjeći - rozciąć | użyć skrótu
+presecati - rozciąć, użyć skrótu
+preseći - rozciąć, użyć skrótu
+presijecati - rozciąć, użyć skrótu
+presjeći - rozciąć, użyć skrótu
 prestiž - prestiż
 presto - tron
 prestolje - tron
@@ -2533,7 +2533,7 @@ pridevski - przymiotnikowy
 pridjev - przymiotnik
 pridjevni - przymiotnikowy
 pridjevski - przymiotnikowy
-prihvatljiv - do przyjęcia | zadowalający
+prihvatljiv - do przyjęcia, zadowalający
 prijatan - przyjemny
 prijatelj - przyjaciel
 prijateljski - przyjazny
@@ -2546,19 +2546,19 @@ prijevod - tłumaczenie
 prijezir - pogarda
 prilagodba - adaptacja
 priložni - przysłówkowy
-primećivati - zauważyć | komentować
-primeniti - zastosować | użyć
-primenjivati - zastosować | użyć
+primećivati - zauważyć, komentować
+primeniti - zastosować, użyć
+primenjivati - zastosować, użyć
 primerice - na przykład
 primetan - dostrzegalny
-primetiti - zauważyć | komentować
+primetiti - zauważyć, komentować
 primetljiv - dostrzegalny
 primetljivo - zauważalnie
 primetno - zauważalnie
-primijeniti - zastosować | użyć
-primijetiti - zauważyć | komentować
-primjećivati - zauważyć | komentować
-primjenjivati - zastosować | użyć
+primijeniti - zastosować, użyć
+primijetiti - zauważyć, komentować
+primjećivati - zauważyć, komentować
+primjenjivati - zastosować, użyć
 primjerice - na przykład
 primjetan - dostrzegalny
 primjetljiv - dostrzegalny
@@ -2566,7 +2566,7 @@ primjetljivo - zauważalnie
 primjetno - zauważalnie
 princ - książę
 princeza - księżniczka
-princip - zasada | reguła
+princip - zasada, reguła
 prioritet - priorytet
 pripovedati - opowiadać
 pripovediti - opowiadać
@@ -2576,7 +2576,7 @@ pripovijedati - opowiadać
 pripovijest - opowieść
 pripovijetka - opowieść
 pripovjediti - opowiadać
-pripravan - gotowy | przygotowany
+pripravan - gotowy, przygotowany
 prirodan - naturalny
 prirodno - naturalnie
 prisega - przysięga
@@ -2589,20 +2589,20 @@ prljavština - brud
 probitačan - korzystny
 problem - problem
 procedura - procedura
-procena - ocena | oszacowanie
-proceniti - oceniać | szacować
-procenjivati - oceniać | szacować
+procena - ocena, oszacowanie
+proceniti - oceniać, szacować
+procenjivati - oceniać, szacować
 proces - proces
-procijeniti - oceniać | szacować
-procjena - ocena | oszacowanie
-procjenjivati - oceniać | szacować
+procijeniti - oceniać, szacować
+procjena - ocena, oszacowanie
+procjenjivati - oceniać, szacować
 prodaja - sprzedaż
 produkcija - produkcja
 profesor - profesor
 profit - zysk
 profitabilan - korzystny
-prognanica - uchodźca | wygnaniec
-prognanik - uchodźca | wygnaniec
+prognanica - uchodźca, wygnaniec
+prognanik - uchodźca, wygnaniec
 programska podrška - oprogramowanie
 progres - postęp
 proizvoljan - arbitralny
@@ -2629,13 +2629,13 @@ prosečan - przeciętny
 prosjak - żebrak
 prosječan - przeciętny
 proslov - prolog
-prosperitet - pomyślność | dobrobyt
+prosperitet - pomyślność, dobrobyt
 prostitucija - prostytucja
-prostitutka - kurwa | prostytutka
+prostitutka - kurwa, prostytutka
 protaktinij - protaktyn
 protest - protest
-protivnica - oponent | konkurent
-protivnik - oponent | konkurent
+protivnica - oponent, konkurent
+protivnik - oponent, konkurent
 protokol - protokół
 proton - proton
 protuznačnica - antonim
@@ -2656,7 +2656,7 @@ psiholog - psycholog
 psihologija - psychologia
 psihoterapija - psychoterapia
 ptȉca - ptak
-publicitet - rozgłos | reklama
+publicitet - rozgłos, reklama
 publikacija - publikacja
 pudl - pudel
 pudla - pudel
@@ -2667,10 +2667,10 @@ pustinja - pustynia
 pustinjak - pustelnik
 pustolov - poszukiwacz przygód
 pustolovina - przygoda
-putanja - tor | trajektoria
+putanja - tor, trajektoria
 puter - masło
 putir - kielich
-putnik - pasażer | podróżnik
+putnik - pasażer, podróżnik
 putovanje - podróż
 puž - ślimak
 rabin - rabin
@@ -2690,7 +2690,7 @@ radost - radość
 radoznalost - ciekawość
 ragbi - rugby
 raketa - rakieta
-ran - wczesny | przedwczesny
+ran - wczesny, przedwczesny
 rana - rana
 rano - wcześnie
 rasizam - rasizm
@@ -2709,14 +2709,14 @@ raznovrsnost - różnorodność
 razočarenje - rozczarowanie
 razređivač - rozpuszczalnik
 razrjeđivač - rozpuszczalnik
-razumeti - rozumieć | chwytać
-razumevati - rozumieć | chwytać
-razumijevati - rozumieć | chwytać
-razumjeti - rozumieć | chwytać
+razumeti - rozumieć, chwytać
+razumevati - rozumieć, chwytać
+razumijevati - rozumieć, chwytać
+razumjeti - rozumieć, chwytać
 razvod - rozwód
 rđa - rdza
 reakcija - reakcja
-realan - realistyczny | prawdziwy
+realan - realistyczny, prawdziwy
 realizam - realizm
 realnost - rzeczywistość
 rečnik - słownik
@@ -2746,7 +2746,7 @@ reputacija - reputacja
 rešeto - sito
 restoran - restauracja
 retko - rzadko
-retkost - rzadkość | ciekawość
+retkost - rzadkość, ciekawość
 revolucija - rewolucja
 revolucionaran - rewolucyjny
 revolver - rewolwer
@@ -2759,9 +2759,9 @@ riglati - zamknąć na klucz
 rigorozan - rygorystyczny
 rijeka - rzeka
 rijetko - rzadko
-rijetkost - rzadkość | ciekawość
+rijetkost - rzadkość, ciekawość
 Rim - Rzym
-ripa - rzepa | burak
+ripa - rzepa, burak
 ris - ryś
 ritam - rytm
 ritual - rytuał
@@ -2826,7 +2826,7 @@ samoubojstvo - samobójstwo
 šampanjac - szampan
 šampon - szampon
 sandala - sandał
-sanjiv - śpiący | senny
+sanjiv - śpiący, senny
 sankcija - sankcja
 San Marino - San Marino
 santa - góra lodowa
@@ -2840,7 +2840,7 @@ sarkazam - sarkazm
 sarkofag - sarkofag
 šarmantan - uroczy
 saruk - turban
-sasma - całkowicie | kompletnie
+sasma - całkowicie, kompletnie
 sastajati - spotkać się
 sastati - spotkać się
 sasvim - całkowicie
@@ -2857,7 +2857,7 @@ sebičan - samolubny
 šećer - cukier
 sedamdeset - siedemdziesiąt
 sedamnaest - siedemnaście
-sedati - usiąść | siedzieć
+sedati - usiąść, siedzieć
 sediment - osad
 sekira - topór
 seksizam - seksizm
@@ -2884,7 +2884,7 @@ septembar - wrzesień
 šerif - szeryf
 seriozan - poważny
 seriozno - poważnie
-serum - serum | surowica
+serum - serum, surowica
 šesnaest - szesnaście
 sesti - usiąść
 ševa - skowronek
@@ -2897,7 +2897,7 @@ shizofrenija - schizofrenia
 Sicilija - Sycylia
 sićušan - maleńki
 sidro - kotwica
-sifilis - syfilis | kiła
+sifilis - syfilis, kiła
 signal - sygnał
 sijalica - żarówka
 siječanj - styczeń
@@ -2921,7 +2921,7 @@ sinoniman - bliskoznaczny
 sintaksa - składnia
 sintetičan - syntetyczny
 sinteza - synteza
-šipražje - zarośla | gąszcz
+šipražje - zarośla, gąszcz
 šiptarski - albański
 sir - ser
 sirće - ocet
@@ -2998,25 +2998,25 @@ službeno - oficjalnie
 smaragd - szmaragd
 smeđ - brązowy
 smeh - śmiech
-smeniti - zastąpić | dymisjonować
-smenjivati - zastąpić | dymisjonować
+smeniti - zastąpić, dymisjonować
+smenjivati - zastąpić, dymisjonować
 smeo - odważny
 smeon - odważny
-smerati - mieć zamiar | planować
+smerati - mieć zamiar, planować
 smešak - uśmiech
 smešan - śmieszny
 smešiti - uśmiechać się
 smijeh - śmiech
-smijeniti - zastąpić | dymisjonować
+smijeniti - zastąpić, dymisjonować
 smiješak - uśmiech
 smiješan - śmieszny
 smiješiti - uśmiechać się
 smio - odważny
 smion - odważny
 smirna - mirra
-smisao - znaczenie | sens
-smjenjivati - zastąpić | dymisjonować
-smjerati - mieć zamiar | planować
+smisao - znaczenie, sens
+smjenjivati - zastąpić, dymisjonować
+smjerati - mieć zamiar, planować
 smokva - figa
 smreka - świerk
 smȑt - śmierć
@@ -3024,9 +3024,9 @@ smrtan - śmiertelny
 smrtnost - śmiertelność
 smučka - narta
 snajperist - snajper
-snažan - silny | potężny
+snažan - silny, potężny
 snegovit - śnieżny
-snen - śpiący | senny
+snen - śpiący, senny
 snijeg - śnieg
 šnitlah - szczypiorek
 šnitling - szczypiorek
@@ -3078,7 +3078,7 @@ sprovod - pogrzeb
 spužva - gąbka
 sramežljivost - nieśmiałość
 Srbija - Serbia
-srditost - oburzenie | gniew
+srditost - oburzenie, gniew
 srebren - srebrny
 srebrn - srebrny
 srebrna - srebrny
@@ -3097,11 +3097,11 @@ stagnacija - stagnacja
 staja - stajnia
 štaka - kula
 staklenka - słoik
-stampedo - popłoch | panika
+stampedo - popłoch, panika
 stanar - najemca
 štancati - drukować
 standardizacija - standaryzacja
-stanište - habitat | środowisko
+stanište - habitat, środowisko
 star - stary
 starac - starzec
 starica - staruszka
@@ -3116,7 +3116,7 @@ stenj - knot
 stepa - step
 stidan - nieśmiały
 stidljiv - nieśmiały
-stidljivost - nieśmiałość | wstydliwość
+stidljivost - nieśmiałość, wstydliwość
 štiglic - szczygieł
 štiglić - szczygieł
 stijeg - flaga
@@ -3125,8 +3125,8 @@ stil - styl
 štit - tarcza
 stjenica - pluskwa
 stoga - dlatego
-stoleće - wiek | stulecie
-stoljeće - wiek | stulecie
+stoleće - wiek, stulecie
+stoljeće - wiek, stulecie
 stolnjak - obrus
 stonoga - stonoga
 štoviše - ponadto
@@ -3139,14 +3139,14 @@ strelac - łucznik
 streljivo - amunicja
 stričak - oset
 strijelac - łucznik
-štrik - lina | sznur
+štrik - lina, sznur
 stroncij - stront
 strop - sufit
 strpljiv - cierpliwy
 strpljivost - cierpliwość
 stršljen - szerszeń
-stručnjak - ekspert | specjalista
-struja - elektryczność | prąd | rzeka strumień
+stručnjak - ekspert, specjalista
+struja - elektryczność, prąd, rzeka strumień
 strvinar - sęp
 stvar - rzecz
 stvaran - prawdziwy
@@ -3184,7 +3184,7 @@ sunovrat - żonkil
 sup - sęp
 supa - zupa
 šupa - szopa
-suparnik - konkurent | rywal
+suparnik - konkurent, rywal
 suprotnica - antonim
 supstanca - substancja
 supstancija - substancja
@@ -3225,9 +3225,9 @@ svjedokinja - świadek
 svjetiljka - lampa
 svjetlo - światło
 svjež - świeży
-svladati - pokonać | przezwyciężyć
-svladavati - pokonać | przezwyciężyć
-svodnik - alfons | sutener
+svladati - pokonać, przezwyciężyć
+svladavati - pokonać, przezwyciężyć
+svodnik - alfons, sutener
 svojeglav - uparty
 svraka - sroka
 svud - wszędzie
@@ -3280,7 +3280,7 @@ telo - ciało
 telohranitelj - ochroniarz
 telur - tellur
 telurij - tellur
-temeljito - dokładnie | gruntownie
+temeljito - dokładnie, gruntownie
 temperatura - temperatura
 tenje - cień
 teorija - teoria
@@ -3349,7 +3349,7 @@ trešnja - czereśnia
 trezan - trzeźwy
 triangularan - trójkątny
 tribunal - trybunał
-tricikl - pojazd na trzech kołach | trójkołowiec
+tricikl - pojazd na trzech kołach, trójkołowiec
 trideset - trzydzieści
 trigonometrija - trygonometria
 trijezan - trzeźwy
@@ -3382,7 +3382,7 @@ tvrdina - twardość
 tvrdoća - twardość
 tvrdoglavost - upór
 ubistvo - morderstwo
-ubog - biedny | nędzny | nieszczęsny
+ubog - biedny, nędzny, nieszczęsny
 ubrzanje - przyspieszenie
 ucena - szantaż
 uceniti - szantażować
@@ -3447,7 +3447,7 @@ uragan - huragan
 uran - uran
 uranij - uran
 urban - miejski
-urgentan - nagły | pilny
+urgentan - nagły, pilny
 urin - uryna
 Urugvaj - Urugwaj
 uš - wesz
@@ -3486,7 +3486,7 @@ uzleteti - startować
 uzletjeti - startować
 uzlijetati - startować
 uzrečica - przysłowie
-uzrok - powód | przyczyna
+uzrok - powód, przyczyna
 uzrokovati - powodować
 uzurpator - uzurpator
 vakcina - szczepionka
@@ -3499,7 +3499,7 @@ vampir - wampir
 vanadij - wanad
 vandalizam - wandalizm
 varvarin - barbarzyńca
-Vatikan - Watykan | Państwo Watykańskie
+Vatikan - Watykan, Państwo Watykańskie
 vatra - ogień
 vatrogasac - strażak
 vaza - wazon
@@ -3557,7 +3557,7 @@ vječnost - wieczność
 vjeđa - powieka
 vjedro - wiadro
 vjenčanje - ślub
-vjera - wierzenie | religia
+vjera - wierzenie, religia
 vjeran - wierny
 vjernik - wierzący
 vjeroispovijed - religia
@@ -3583,16 +3583,16 @@ vodomar - zimorodek
 vodopad - wodospad
 vodoravan - poziomy
 vojak - żołnierz
-vojnički - wojskowy | militarny
+vojnički - wojskowy, militarny
 vojnikinja - żołnierz
 vojvotkinja - księżna
 volan - kierownica
 volfram - wolfram
-voljno - chętnie | dobrowolnie
+voljno - chętnie, dobrowolnie
 volt - wolt
 vosak - wosk
 votka - wódka
-vozilo - wehikuł | środek transportu
+vozilo - wehikuł, środek transportu
 vrag - diabeł
 vrana - wrona
 vrat - szyja
@@ -3616,7 +3616,7 @@ zacijeliti - uzdrawiać
 zacijelo - na pewno
 zacjeljivati - uzdrawiać
 zadovoljstvo - przyjemność
-zagrljaj - uścisk | objęcie | przytulenie
+zagrljaj - uścisk, objęcie, przytulenie
 zahvalan - wdzięczny
 zahvaliti - dziękować
 zajam - pożyczka
@@ -3633,7 +3633,7 @@ zambak - lilia
 Zambija - Zambia
 zamka - pułapka
 zanimljiv - interesujący
-žanr - gatunek | rodzaj
+žanr - gatunek, rodzaj
 zao - zły
 Zapadna Sahara - Sahara Zachodnia
 zaposlenik - pracownik
@@ -3646,7 +3646,7 @@ zaprljati - pobrudzić
 žargon - żargon
 zariglati - zamknąć na klucz
 žar-ptica - feniks
-zasada - zasada | reguła
+zasada - zasada, reguła
 zasaditi - sadzić
 zasađivati - sadzić
 zaseda - zasadzka
@@ -3659,7 +3659,7 @@ zato što - ponieważ
 zatvorenik - więzień
 zavazda - na zawsze
 zavera - konspiracja
-zavidljiv - zazdrosny | zawistny
+zavidljiv - zazdrosny, zawistny
 zavist - zawiść
 zavjera - konspiracja
 završen - skończony
@@ -3677,14 +3677,14 @@ zec - zając
 zelenkast - zielonkawy
 Zelenortska Republika - Republika Zielonego Przylądka
 železnica - kolej
-željeznica - kolej | transport kolejowy
+željeznica - kolej, transport kolejowy
 Zemlja - Ziemia
 zemljopis - geografia
 zemljoradnik - rolnik
 zemljoradnja - rolnictwo
 zemljotres - trzęsienie ziemi
 zena - źrenica
-žena - kobieta | żona
+žena - kobieta, żona
 zenica - źrenica
 zenit - zenit
 zerdelica - morela
@@ -3699,7 +3699,7 @@ zgrijavati - ogrzewać
 zijev - ziewnięcie
 zijevati - ziewać
 zijevnuti - ziewać
-žila - żyła | ścięgno
+žila - żyła, ścięgno
 Zimbabve - Zimbabwe
 zipka - kołyska
 živica - żywopłot
@@ -3713,9 +3713,9 @@ zlato - złoto
 žlezda - gruczoł
 žlica - łyżka
 žlijezda - gruczoł
-zloban - złośliwy | pełen złej woli
+zloban - złośliwy, pełen złej woli
 zločinac - przestępca
-zločinski - przestępczy | kryminalny
+zločinski - przestępczy, kryminalny
 zlonameran - złośliwy
 zlonamerno - złośliwie
 zlonamjeran - złośliwy
@@ -3736,7 +3736,7 @@ zoologinja - zoolog
 zoološki - zoologiczny
 zoološki vrt - zoo
 zora - świt
-zračenje - promieniowanie | emisja
+zračenje - promieniowanie, emisja
 zračna luka - lotnisko
 zrakoplovstvo - lotnictwo
 zrcalo - lustro

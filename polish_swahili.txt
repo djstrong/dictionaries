@@ -1,19 +1,19 @@
 abdykować - uzua
 abecadło - alfabeti
 abiecadło - alfabeti
-ablegierek - mtoto | mwana
+ablegierek - mtoto, mwana
 Adam - Adamu
 adres - anwani
 aeroplan - ndege
 afa - nyani
 afelzina - chungwa
-Afganistan - Afghanistan | Afuganistani
+Afganistan - Afghanistan, Afuganistani
 akuratnie - hasa
 Albania - Albania
 ale - lakini
 alfabet - alfabeti
 alfabetu - alfabeti
-Algieria - Algeria | Aljeria
+Algieria - Algeria, Aljeria
 amajza - siafu
 Amazonka - Amazonas
 ambasada - ubalozi
@@ -31,11 +31,11 @@ autobus - basi
 bać się - ogopa
 bagaż - mzigo
 bajka - hadithi
-bajtel - mtoto | mwana
+bajtel - mtoto, mwana
 bakałarz - mwalimu
 Bałtyk - Bahari ya Baltiki
-banan - mgomba | ndizi
-banana - mgomba | ndizi
+banan - mgomba, ndizi
+banana - mgomba, ndizi
 bandzioch - vagi
 bania - kichwa
 baniak - kichwa
@@ -47,7 +47,7 @@ bas - vagi
 batłąch - chupa
 bawół - nyati
 bebech - vagi
-bęben - ngoma | vagi
+bęben - ngoma, vagi
 beczeć - lia
 beczka - pipa
 bejc - mlevi
@@ -56,9 +56,9 @@ belfer - mwalimu
 Belgia - Ubelgiji
 berga - jiwe
 bezuch - ziara
-biały - -eupe | nyeupe
+biały - -eupe, nyeupe
 Biblia - Biblia
-bić - chapa | dunda
+bić - chapa, dunda
 bida - umaskini
 bieda - umaskini
 biedak - maskini
@@ -75,10 +75,10 @@ bób - kunde
 bóg - mungu
 Bóg - Mungu
 bojtel - mfuko
-bombel - mtoto | mwana
-brachol - ndugu | kaka
-bracieniec - ndugu | kaka
-brat - ndugu | kaka
+bombel - mtoto, mwana
+brachol - ndugu, kaka
+bracieniec - ndugu, kaka
+brat - ndugu, kaka
 brazyliana - kahawa
 brele - miwani
 bronić - kinga
@@ -87,7 +87,7 @@ brydż - daraja
 bryle - miwani
 brzmienie - sauti
 brzuch - vagi
-buda - chuo | shule
+buda - chuo, shule
 budynek - jengo
 bulba - kiazi
 bulić - lipa
@@ -97,7 +97,7 @@ burzowiny - bia
 butelka - chupa
 być - wa
 bzybzać - kata
-całkowicie - hasa | kabisa
+całkowicie - hasa, kabisa
 cebula - kitunguu
 cegła - tofali
 cera - mwana
@@ -106,7 +106,7 @@ chabas - nyama
 chachor - mlevi
 charakter - isimu
 charlać - kohoa
-chata - kibanda | banda
+chata - kibanda, banda
 Chiny - Uchina
 chirus - mlevi
 chlać - kukunywa
@@ -116,10 +116,10 @@ chlor - mlevi
 chmiel - bia
 choinka - mti wa Krismasi
 chójk - mti wa Krismasi
-chore - gonjwa | mgonjwa
-choroba - ugonjwa | maradhi
+chore - gonjwa, mgonjwa
+choroba - ugonjwa, maradhi
 Chorwacja - Korasia
-chory - gonjwa | mgonjwa
+chory - gonjwa, mgonjwa
 chować - ficha
 chronić - kinga
 chryzopraz - krisopraso
@@ -143,7 +143,7 @@ co - nini
 córa - mwana
 córczysko - mwana
 córka - mwana
-ćpać - kukula | tupa
+ćpać - kukula, tupa
 cud - ajabu
 cudzić - safisha
 cukier - sukari
@@ -162,12 +162,12 @@ czarny - eusi
 czarodziej - mchawi
 czarownica - mchawi
 czasownik - kielezi
-czędo - mtoto | mwana
+czędo - mtoto, mwana
 czekać - ngoja
 czekolada - chokoleti
-czemu - kwa nini | mbona
+czemu - kwa nini, mbona
 czerwony - ekundu
-cześć - habari | hujambo (do mężczyzn) | sijambo (do kobiet) | hamjambo | jambo (forma prostsza używana przez turystów)
+cześć - habari, hujambo (do mężczyzn), sijambo (do kobiet), hamjambo, jambo (forma prostsza używana przez turystów)
 człowiek - mtu
 czorny - eusi
 czwartek - alhamisi
@@ -182,7 +182,7 @@ Demokratyczna Republika Wyspy Świętego Tomasza i Wysp Świętego Tomasza i Ksi
 deszcz - mvua
 deżdż - mvua
 dezelować - haribu
-dlaczego - kwa nini | mbona
+dlaczego - kwa nini, mbona
 dłoń - kofi
 dobranoc - usiku mwema
 dobry wieczór - jioni njema
@@ -193,49 +193,49 @@ doktor - daktari
 dołować - ficha
 dom - nyumba
 doradca - mshauri
-do widzenia - kwa heri | tuonane tena
-do zobaczenia - kwa heri | tuonane tena
+do widzenia - kwa heri, tuonane tena
+do zobaczenia - kwa heri, tuonane tena
 drewno - mti
 droga - njia
 drogi - ghali
-druh - rafiki | mwenzi
+druh - rafiki, mwenzi
 drzewo - mti
 drzwi - mlango
-dudlać - lia | kukunywa
+dudlać - lia, kukunywa
 dudy - pafu
 dureń - mjinga
 dutek - fedha
-dycht - hasa | kabisa
+dycht - hasa, kabisa
 dydek - kifua
 dyktator - dikteta
 dym - moshi
 dymać - danganya
 dziabka - jembe
-dzieciszczko - mtoto | mwana
-dziecko - mtoto | mwana
-dziękówa - asante | shukuru
+dzieciszczko - mtoto, mwana
+dziecko - mtoto, mwana
+dziękówa - asante, shukuru
 dziękować - shukuru
-dziękówka - asante | shukuru
-dziękuję - asante | shukuru
+dziękówka - asante, shukuru
+dziękuję - asante, shukuru
 dzielić - gawanya
 dziób - mdomo
 dziś - leo
 dzisiaj - leo
-dżungla - msitu | msitu mnene
+dżungla - msitu, msitu mnene
 edyficjum - jengo
 egzamin - mtihani
 elefant - tembo
-elektryczność - stimu | umeme
+elektryczność - stimu, umeme
 eskulap - daktari
 Europejczyk - Mzungu
-facetka - mwanamke | mke | bibi
+facetka - mwanamke, mke, bibi
 facjata - uso
 fajans - mjinga
 fajek - sigara
 fajer - sherehe
 fajera - sherehe
 fajerwer - sigara
-fajka - kiko | sigara
+fajka - kiko, sigara
 fana - bendera
 farmaceutyk - dawa
 faryna - sukari
@@ -244,7 +244,7 @@ fefrać się - ogopa
 fest - sana
 filip - sungura
 filiżanka - kikombe
-finalizować - isha | maliza
+finalizować - isha, maliza
 Finlandia - Ufini
 fiżon - maharagwe
 flag - bendera
@@ -256,11 +256,11 @@ Francuz - Mfaransa
 Francuzka - Mfaransa
 gała - jicho
 galoty - suruali
-ganc - hasa | kabisa
+ganc - hasa, kabisa
 gardło - koo
 gardzić - dharau
 gasa - njia
-gdzie - ambapo | wapi
+gdzie - ambapo, wapi
 gej - shoga
 geografia - jiografia
 gibko - mbio
@@ -275,7 +275,7 @@ głowa - kichwa
 głównie - kwanza
 głupiec - mjinga
 gnat - mfupa
-gnot - mtoto | mwana
+gnot - mtoto, mwana
 gnu - nyumbu
 godzina - saa
 góra - mlima
@@ -284,14 +284,14 @@ gorączka - homa
 gość - mgeni
 gotować - kupika
 gra - mchezo
-graba - mkono | kofi
+graba - mkono, kofi
 gracz - mchezaji
 gruntownie - kabisa
 grzbiet - mgongo
 grzebień - kitana
 grzech - teso
 gwizdnąć - gonga
-gzub - mtoto | mwana | vagi
+gzub - mtoto, mwana, vagi
 haczka - jembe
 Haiti - Haiti
 hajtać - oa
@@ -301,7 +301,7 @@ haziel - choo
 hę - nini
 heksa - mchawi
 herbata - chai
-hetki - hasa | kabisa
+hetki - hasa, kabisa
 hipopotam - kiboko
 Holandia - Uholanzi
 Holandyja - Uholanzi
@@ -331,20 +331,20 @@ kaban - nguruwe
 Kabowerdyjczyk - Mkepuvede
 kabza - mfuko
 kacap - mjinga
-kafej - mgahawa | mkahawa
+kafej - mgahawa, mkahawa
 kaffa - kahawa
-kaj - ambapo | wapi
+kaj - ambapo, wapi
 kajet - daftari
 kajman - mamba
-kalafa - pua | uso
+kalafa - pua, uso
 kalapitra - kichwa
 kalfas - vagi
-kam - ambapo | wapi
+kam - ambapo, wapi
 kamień - jiwe
 kanał - mfereji
 kanibal - mla watu
-kapować - elewa | fahamu
-kapusta - kebeji | kebichi | fedha
+kapować - elewa, fahamu
+kapusta - kebeji, kebichi, fedha
 karakan - mende
 karaluch - mende
 kartofel - kiazi
@@ -352,9 +352,9 @@ kaszleć - kohoa
 kawa - kahawa
 kawał - kipande
 kawałek - kipande
-kawiarnia - mgahawa | mkahawa
+kawiarnia - mgahawa, mkahawa
 kciuk - kidole gumba
-kędy - ambapo | wapi
+kędy - ambapo, wapi
 kejter - mbwa
 kiecka - gauni
 kiedy - lini
@@ -366,12 +366,12 @@ Kilimandżaro - Kilimanjaro
 kilka - mbili tatu
 kimać - kulala
 kinol - pua
-kintop - mchezo | starehe
+kintop - mchezo, starehe
 kiszka - maziwa
 kłamca - mwongo
 kłamczuch - mwongo
 klamot - jiwe
-kłapaczka - kinywa | mdomo
+kłapaczka - kinywa, mdomo
 klaskanie - kofi
 klatka - kifua
 klatka piersiowa - kifua
@@ -379,9 +379,9 @@ kliber - pua
 kłopot - janga
 kluber - pua
 kluka - pua
-klupać - tafuta | gonga | chapa | dunda
+klupać - tafuta, gonga, chapa, dunda
 knipa - kitabu
-kobieta - mwanamke | mke | bibi
+kobieta - mwanamke, mke, bibi
 kochać - penda
 kolacja - chakula cha jioni
 kolano - goti
@@ -390,7 +390,7 @@ komar - mbu
 komórka - simu ya mkononi
 koń - farasi
 kóń - farasi
-kończyć - isha | maliza
+kończyć - isha, maliza
 koniec - mwisho
 konieczność - lazima
 kopruch - mbu
@@ -420,7 +420,7 @@ książka - kitabu
 który - ipi
 kucać - kohoa
 kucharz - mpishi
-kucza - kibanda | banda
+kucza - kibanda, banda
 kula - mguu
 kulos - mguu
 kurczak - kuku
@@ -457,10 +457,10 @@ lub - au
 lubić - penda
 ludojad - mla watu
 ludożerca - mla watu
-lulka - kiko | sigara
-luńt - kipande | mbwa
-lutować - chapa | dunda
-luty - Februari | baridi
+lulka - kiko, sigara
+luńt - kipande, mbwa
+lutować - chapa, dunda
+luty - Februari, baridi
 łyżka - kijiko
 łza - chozi
 machać - punga
@@ -484,14 +484,14 @@ miasto - mji
 miasto stołeczne - mji mkuu
 mieć gdzieś - dharau
 mieć gzik w kolanach - ogopa
-miejsce - mahali | pahali
+miejsce - mahali, pahali
 miękki - laini
 mielcuch - bia
 mierzyć - pima
-mieśćce - mahali | pahali
-mieśce - mahali | pahali
+mieśćce - mahali, pahali
+mieśce - mahali, pahali
 mięso - nyama
-mięsopustnik - Februari | baridi
+mięsopustnik - Februari, baridi
 mieszkać - kaa
 mieszkaniec - mkazi
 miętki - laini
@@ -518,15 +518,15 @@ mrówka - siafu
 muraszka - siafu
 myć - osha
 mydło - sabuni
-nacja - taifa | mataifa
-na cołki łeb - hasa | kabisa
+nacja - taifa, mataifa
+na cołki łeb - hasa, kabisa
 Nairobi - Nairobi
 najpierw - kwanza
 nareszcie - mwisho
-naród - taifa | mataifa
-na sto procent - hasa | kabisa
+naród - taifa, mataifa
+na sto procent - hasa, kabisa
 naszyjnik - kidani
-nauczać - fundisha | somesha
+nauczać - fundisha, somesha
 nauczyciel - mwalimu
 nauka - elimu
 nazwa - jina
@@ -537,7 +537,7 @@ nie - hapana
 niebezpieczeństwo - hatari
 niebieski - buluu
 nieć - ndugu
-nieduch - ugonjwa | maradhi
+nieduch - ugonjwa, maradhi
 nie ma - hapana
 nie mieć - hapana
 niemowlę - mtoto mchanga
@@ -545,10 +545,10 @@ nienawidzić - chukia
 niepodległość - uhuru
 nieść - beba
 niestety - kwa bahati mbaya
-nieszczęście - afa | msiba
-niewiasta - mwanamke | mke | bibi
+nieszczęście - afa, msiba
+niewiasta - mwanamke, mke, bibi
 niszczyć - haribu
-no - hivyo | ndiyo
+no - hivyo, ndiyo
 noga - mguu
 nogawice - suruali
 nos - pua
@@ -556,7 +556,7 @@ Nowy Testament - Agano Jipya
 nóż - kisu
 nyga - mbu
 obiecadło - alfabeti
-obierać - chapa | dunda
+obierać - chapa, dunda
 obłok - wingu
 obrażać - dharau
 obrona - kinga
@@ -570,7 +570,7 @@ ojczyc - mwana
 okno - dirisha
 oko - jicho
 okres - kipindi
-okręt podwodny - nyambizi | sabmarini
+okręt podwodny - nyambizi, sabmarini
 okulary - miwani
 olej - mafuta
 ołówek - penseli
@@ -587,15 +587,15 @@ ożyrok - mlevi
 pacan - mjinga
 pachniarz - pua
 pająk - buibui
-pajęcznik - Septemba | Novemba
+pajęcznik - Septemba, Novemba
 pakować - funga mizigo
 pała - kichwa
 pale - kichwa
 palec - kidole
-pamiętać - fahamu | kumbuka
+pamiętać - fahamu, kumbuka
 pan - bwana
 papieros - sigara
-papuga - kasuku | dura
+papuga - kasuku, dura
 para - moshi
 parlament - bunge
 patrzałki - miwani
@@ -624,7 +624,7 @@ piorun - umeme
 pisać - andika
 pismo - alfabeti
 piwo - bia
-pizgać - tupa | chapa | dunda
+pizgać - tupa, chapa, dunda
 piznąć - gonga
 płacić - lipa
 płacz - kilio
@@ -635,7 +635,7 @@ płuco - pafu
 początek - mwanzo
 podatek - kodi
 podążać - fuata
-podstawówka - shule ya chini | shule ya msingi
+podstawówka - shule ya chini, shule ya msingi
 podsumowanie - muhtasari
 poduszka - mto
 poezja - mashairi
@@ -687,8 +687,8 @@ przelewać - kuhawili
 przepraszam - samahani
 przeznaczenie - mungu
 przoć - penda
-przychodzić - ja | kukuja
-przyjaciel - rafiki | mwenzi
+przychodzić - ja, kukuja
+przyjaciel - rafiki, mwenzi
 przyjebać - gonga
 przypominać - kumbuka
 psiarnia - polici
@@ -721,14 +721,14 @@ rozdział - mlango
 różowy - pinki
 rozrywka - starehe
 rozum - akili
-rozumieć - elewa | fahamu
+rozumieć - elewa, fahamu
 rudny - ekundu
 ryba - samaki
 rywal - mpinzani
 ryż - mchele
 ryzyko - hatari
 rzadki - ghali
-rzecz - jambo | kitu
+rzecz - jambo, kitu
 rzeka - mto
 rzęsa - kope
 rzucać - tupa
@@ -753,7 +753,7 @@ silno - sana
 siodłak - mkulima
 siostra - ndugu
 skąpy - bahiri
-skończony - isha | maliza
+skończony - isha, maliza
 skóra - ngozi
 skorpion - nge
 skromność - unyenyekevu
@@ -796,7 +796,7 @@ stolica - mji mkuu
 stopa - mguu
 strach - hofu
 strach na wróble - hofu
-strąpacz - Februari | baridi
+strąpacz - Februari, baridi
 struś - mbuni
 strzelba - bunduki
 studnia - kisima
@@ -817,14 +817,14 @@ syra - mguu
 sytość - shibe
 szacunek - ukarimu
 szaszłyk - mshikaki
-szczęście - bahati | bahati nzuri
+szczęście - bahati, bahati nzuri
 szczycić - kinga
 szeroki - pana
 szerzyć - eneza
 szkita - mguu
-szkoła - chuo | shule
-szkoła podstawowa - shule ya chini | shule ya msingi
-szkoła powszechna - shule ya chini | shule ya msingi
+szkoła - chuo, shule
+szkoła podstawowa - shule ya chini, shule ya msingi
+szkoła powszechna - shule ya chini, shule ya msingi
 szlauch - nyoka
 szlug - sigara
 szneka - uso
@@ -838,7 +838,7 @@ Szwecyjo - Uswidi
 szwestera - ndugu
 szybko - mbio
 szyja - shingo
-tak - hivyo | ndiyo
+tak - hivyo, ndiyo
 także - pia
 tan - dansa
 taniec - dansa
@@ -850,7 +850,7 @@ tata - baba
 tato - baba
 tej - wewe
 telefon komórkowy - simu ya mkononi
-temat - somo | mada
+temat - somo, mada
 też - pia
 tlen - oksijeni
 tłuszcz - mafuta
@@ -858,7 +858,7 @@ toaleta - choo
 tobie - wewe
 torba - mfuko
 tors - kifua
-towarzyszyć - andamana | sindikiza
+towarzyszyć - andamana, sindikiza
 trup - maiti
 trwoga - hofu
 tu - hapa
@@ -869,7 +869,7 @@ turban - kilemba
 turysta - mtalii
 tutaj - hapa
 twarz - uso
-twój - kwako | ako
+twój - kwako, ako
 ty - wewe
 tydzień - wiki
 tyj - chai
@@ -877,7 +877,7 @@ tylko - tu
 ubikacja - choo
 ubóstwo - umaskini
 uczeń - mwanafunzi
-uczyć - fundisha | somesha
+uczyć - fundisha, somesha
 uderzyć - gonga
 uj - mjomba
 ujec - mjomba
@@ -890,8 +890,8 @@ Unia Europejska - Umoja wa Ulaya
 uryna - mkojo
 usługa - huduma
 uśmiech - kicheko
-usta - kinywa | mdomo
-wacha - mvua | bahari | maji
+usta - kinywa, mdomo
+wacha - mvua, bahari, maji
 wapniak - mzazi
 warga - mdomo
 Warszawa - Warshawa
@@ -925,19 +925,19 @@ wilgotność - unyevunyevu
 wilk - mbwa mwitu
 wino - mvinyo
 winograd - mvinyo
-wiosna - majira ya kuchipua | bamvua
+wiosna - majira ya kuchipua, bamvua
 Wisła - Vistula
 wiszczeć - kemea
 wizyta - ziara
 w końcu - mwisho
 właśnie - hasa
-wniwecz - hasa | kabisa
+wniwecz - hasa, kabisa
 woda - maji
 wojna - vita
 wołać - ita
 wolność - uhuru
 worek - mfuko
-w pełni - hasa | kabisa
+w pełni - hasa, kabisa
 wreszcie - mwisho
 wróg - adui
 wrzesień - Septemba
@@ -965,7 +965,7 @@ zajebać - gonga
 zakaz - marufuku
 zakazany - marufuku
 zakażenie - maambukizi
-żal - majuto | huzuni
+żal - majuto, huzuni
 zamówienie - oda
 zapad - magharibi
 zapalenie płuc - nimonia
@@ -987,7 +987,7 @@ zebranie - mkutano
 zegarek - saa
 zegarmistrz - fundi ya saa
 żelazo - chuma
-żeńczyna - mwanamke | mke | bibi
+żeńczyna - mwanamke, mke, bibi
 zeszyt - daftari
 zielarz - mganga
 zielony - -a kijani
@@ -998,10 +998,10 @@ zimnica - homa
 zimno - baridi
 zimny - baridi
 Zjednoczone Królestwo Wielka Wielkiej Brytanii i Irlandia Irlandii Północnej - Ufalme wa Muungano wa Britania na Eire ya Kaskazini
-źle - vibaya | mbaya
+źle - vibaya, mbaya
 złodziej - mwizi
 złoto - dhahabu
-zmieniać - geuka | badili
+zmieniać - geuka, badili
 znaczenie - maana
 żółć - manjano
 żółty - manjano
@@ -1009,12 +1009,12 @@ znaczenie - maana
 źrenica - jicho
 zrywka - mfuko
 żul - mlevi
-zupełnie - hasa | kabisa
+zupełnie - hasa, kabisa
 zwać - ita
 zwierzak - mnyama
 zwierzę - mnyama
 zwycięstwo - ushindi
-żyć - ishi | kaa
+żyć - ishi, kaa
 życie - maisha
 żyrafa - twiga
 żyto - ngano

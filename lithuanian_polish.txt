@@ -1,4 +1,4 @@
-abakas - abak | abakus
+abakas - abak, abakus
 abatas - opat
 abatija - opactwo
 abažū̃ras - abażur
@@ -6,24 +6,24 @@ abchazas - Abchaz
 abchazė - Abchazka
 Abchazija - Abchazja
 abchaziškas - abchaski
-abchazų - abchaski (język) | Abchazów | abchaski | abchazas
+abchazų - abchaski (język), Abchazów, abchaski, abchazas
 abdikacija - abdykacja
 abdikuoti - abdykować
-abėcėlė - abecadło | alfabet
+abėcėlė - abecadło, alfabet
 abėcėliškas - alfabetyczny
-abejaip - tak czy inaczej | tak czy owak | dwojako | na dwa sposoby
+abejaip - tak czy inaczej, tak czy owak, dwojako, na dwa sposoby
 abejingai - obojętnie
 abejingas - obojętny
 abejingumas - obojętność
 abejojimas - wątpliwość
-abejonė - wątpliwość | rozterka
-abejoti - wątpić | powątpiewać
+abejonė - wątpliwość, rozterka
+abejoti - wątpić, powątpiewać
 abejotinas - wątpliwy
 abi - obaj
 Abidžanas - Abidżan
-abiogenezė - abiogeneza | samorództwo
-abipusiai - dwustronnie | obustronnie | wzajemnie
-abipusiškai - dwustronnie | obustronnie | wzajemnie
+abiogenezė - abiogeneza, samorództwo
+abipusiai - dwustronnie, obustronnie, wzajemnie
+abipusiškai - dwustronnie, obustronnie, wzajemnie
 abipusiškas - wzajemny
 abipusiškumas - wzajemność
 abisinas - Abisyńczyk
@@ -57,7 +57,7 @@ abstrakcionizmas - abstrakcjonizm
 abstraktus - abstrakcyjny
 absurdas - absurd
 absurdiškas - absurdalny
-abu - oba | obaj | oboje
+abu - oba, obaj, oboje
 Abu Dabis - Abu Zabi
 abulija - abulia
 acetatas - octan
@@ -81,7 +81,7 @@ adjutantė - adiutantka
 administracija - administracja
 administracinis - administracyjny
 administratorė - administratorka
-administratorius - administrator | recepcja
+administratorius - administrator, recepcja
 administravimas - administracja
 administruoti - administrować
 admirolas - admirał
@@ -93,8 +93,8 @@ adresas - adres
 adresatas - adresat
 adresatė - adresatka
 adresuoti - adresować
-Adrija - Adriatyk | Adria
-Adrijos jūra - Adriatyk | Morze Adriatyckie
+Adrija - Adriatyk, Adria
+Adrijos jūra - Adriatyk, Morze Adriatyckie
 adventas - adwent
 adventinis - adwentowy
 advokatas - adwokat
@@ -108,7 +108,7 @@ afera - afera
 aferistas - aferzysta
 afganas - Afgańczyk
 afganė - Afganka
-afganiškas - afgański | afganistański
+afganiškas - afgański, afganistański
 Afganistanas - Afganistan
 afganistanietė - Afganka
 afganistanietis - Afgańczyk
@@ -116,11 +116,11 @@ afiša - afisz
 afišuoti - afiszować
 aforizmas - aforyzm
 Afrika - Afryka
-afrikanų - afrykanerski (język) | Afrykanerów | afrykanerski | afrikanas
+afrikanų - afrykanerski (język), Afrykanerów, afrykanerski, afrikanas
 afrikietė - Afrykanka
 afrikietis - Afrykanin
 afrikietiškas - afrykański
-Afrikos - afrykański | Afryki
+Afrikos - afrykański, Afryki
 afroamerikietiškas - afroamerykański
 Afroditė - Afrodyta
 agatas - agat
@@ -131,7 +131,7 @@ agitacija - agitacja
 agitacinis - agitacyjny
 agitatorius - agitator
 agituoti - agitować
-Agnė - Agnieszka | Jagna
+Agnė - Agnieszka, Jagna
 agnosticizmas - agnostycyzm
 agonija - agonia
 agorafobija - agorafobia
@@ -149,9 +149,9 @@ agroturistinis - agroturystyczny
 aguona - mak
 aguonpienis - aguonpienis
 agurkas - ogórek
-aibė - zbiór | rzesza | masa
+aibė - zbiór, rzesza, masa
 aidas - echo
-aikštė - plac | boisko
+aikštė - plac, boisko
 aikštelė - boisko
 aikštynas - boisko
 aimanuoti - biadolić
@@ -163,7 +163,7 @@ airiškai - po irlandzku
 airiškas - irlandzki
 Aischilas - Ajschylos
 aiškiaregys - jasnowidz
-aiškus - jasny | zrozumiały
+aiškus - jasny, zrozumiały
 aitvaras - latawiec
 ajeras - tatarak
 akacija - akacja
@@ -192,7 +192,7 @@ akis - oko
 akistata - konfrontacja
 akis už akį, dantis už dantį - oko za oko, ząb za ząb
 akių obuoliai - gałki
-akivaizdžiai - widocznie | oczywiście
+akivaizdžiai - widocznie, oczywiście
 aklas - ślepy
 aklumas - ślepota
 Akmenė - Okmiany
@@ -205,7 +205,7 @@ akompanimentas - akompaniament
 akompanuoti - akompaniować
 akordas - akord
 akordeonas - akordeon
-akronimas - skrótowiec | akronim
+akronimas - skrótowiec, akronim
 akrosoma - akrosom
 akstinas - cierń
 aktinis - aktyn
@@ -229,7 +229,7 @@ albanietis - Albańczyk
 Albanija - Albania
 albaniškai - po albańsku
 albaniškas - albański
-albanų - albański (język) | Albańczyków | albański | albanas
+albanų - albański (język), Albańczyków, albański, albanas
 albatrosas - albatros
 albinizmas - albinizm
 albumas - album
@@ -246,7 +246,7 @@ alergenas - alergen
 alergija - alergia
 alerginis - alergiczny
 alfabetas - alfabet
-alga - pensja | płaca
+alga - pensja, płaca
 algebra - algebra
 algebrinis - algebraiczny
 Algirdas - Olgierd
@@ -259,7 +259,7 @@ alimentai - alimenty
 alio - halo
 aliteracija - aliteracja
 aliumininis - aluminiowy
-aliuminis - glin | aluminium
+aliuminis - glin, aluminium
 aliuzija - aluzja
 aljansas - alians
 alkanas - głodny
@@ -269,9 +269,9 @@ alkoholinis - alkoholowy
 alkoholio tikrintuvas - alkomat
 alkoholis - alkohol
 alkoholizmas - alkoholizm
-alksnis - olcha | olsza
+alksnis - olcha, olsza
 alkūnė - łokieć
-Alma Ata - Ałmaty | Ałma-Ata
+Alma Ata - Ałmaty, Ałma-Ata
 almanachas - almanach
 Alpės - Alpy
 alpimas - omdlenie
@@ -292,11 +292,11 @@ aludarys - browar
 aludarystė - piwowarstwo
 aludė - piwiarnia
 alus - piwo
-alyva - oliwa | olej techniczny
+alyva - oliwa, olej techniczny
 Alžyras - Algieria
 alžyrietis - Algierczyk
 Amanas - Amman
-amatas - rękodzieło | rzemiosło
+amatas - rękodzieło, rzemiosło
 amatininkas - rzemieślnik
 Amazonė - Amazonka
 ambasada - ambasada
@@ -311,16 +311,16 @@ ameba - ameba
 amen - amen
 americis - ameryk
 Amerika - Ameryka
-amerikiečių - amerykański | Amerykanów
+amerikiečių - amerykański, Amerykanów
 amerikietė - Amerykanka
 amerikietis - Amerykanin
 amerikietiškas - amerykański
 amerikonas - Amerykaniec
-Amerikos - amerykański | Ameryki
+Amerikos - amerykański, Ameryki
 ametistas - ametyst
 amfetaminas - amfetamina
 amfiteatras - amfiteatr
-amiloidozė - amyloidoza | skrobiawica | betafibryloza
+amiloidozė - amyloidoza, skrobiawica, betafibryloza
 amnestija - amnestia
 amoniakas - amoniak
 amoralumas - amoralność
@@ -337,7 +337,7 @@ Amūras - Amur
 amžinas - wieczny
 amžinumas - wieczność
 amžinybė - wieczność
-amžius - wiek | stulecie | liczba lat
+amžius - wiek, stulecie, liczba lat
 anagrama - anagram
 anaiptol - bynajmniej
 analfabetas - analfabeta
@@ -381,7 +381,7 @@ angeliškas - anielski
 Angilija - Anguilla
 angina - angina
 angis - żmija
-anglakalbis - anglojęzyczny | angielskojęzyczny
+anglakalbis - anglojęzyczny, angielskojęzyczny
 anglas - Anglik
 anglė - Angielka
 angliavandenis - węglowodan
@@ -394,7 +394,7 @@ anglis - węgiel
 angliškai - po angielsku
 angliškas - angielski
 anglosaksiškas - anglosaksoński
-anglų - angielski | Anglików
+anglų - angielski, Anglików
 Angola - Angola
 animacija - animacja
 animacinis - animowany
@@ -416,7 +416,7 @@ ant - na
 antagonizmas - antagonizm
 antakis - brew
 Antanas - Antoni
-antausis - policzek | skroń
+antausis - policzek, skroń
 antena - antena
 antidalelė - antycząstka
 Antigva ir Barbuda - Antigua i Barbuda
@@ -433,10 +433,10 @@ antklodė - kołdra
 antologija - antologia
 antonimas - antonim
 antpirštis - naparstek
-antpuolis - atak | napad
+antpuolis - atak, napad
 antradienis - wtorek
 antras - drugi
-antraštė - tytuł | nagłówek
+antraštė - tytuł, nagłówek
 antropologas - antropolog
 antropologija - antropologia
 antspaudas - stempel
@@ -455,7 +455,7 @@ apaštalinis - apostolski
 apaštališkas - apostolski
 apatija - apatia
 apatiškas - apatyczny
-apeigos - ceremonia | obrządek | obrzędy
+apeigos - ceremonia, obrządek, obrzędy
 apeiti - obejść
 apeliacija - apelacja
 apeliacinis - apelacyjny
@@ -468,24 +468,24 @@ aperityvas - aperitif
 apėsti - objeść
 apetitas - apetyt
 apetitiškas - apetyczny
-apgailestauti - żałować | ubolewać
+apgailestauti - żałować, ubolewać
 apgamas - znamię
-apgauti - zmylić | oszukać | omamić | uwieść
-apgavystė - oszustwo | oszukaństwo | szalbierstwo
+apgauti - zmylić, oszukać, omamić, uwieść
+apgavystė - oszustwo, oszukaństwo, szalbierstwo
 apginti - bronić
 apibrėžimas - definicja
 apibrėžti - definiować
-apie - o | około | ze
+apie - o, około, ze
 apipjaustymas - obrzezanie
 apipjaustyti - obrzezać
-apkabinimas - objęcie | uścisk
-apkalbėti - obmawiać | oczerniać
-apkaltinti - obwiniać | oskarżać
+apkabinimas - objęcie, uścisk
+apkalbėti - obmawiać, oczerniać
+apkaltinti - obwiniać, oskarżać
 apklausa - ankieta
 apklotas - koc
 apkūnus - otyły
 aplinka - środowisko
-aplinkinis - okoliczny | pobliski
+aplinkinis - okoliczny, pobliski
 aplinkybė - okoliczność
 aplodismentai - aplauz
 aplombas - pewność siebie
@@ -506,7 +506,7 @@ apraksija - apraksja
 aprašymas - opis
 aprašyti - opisać
 apsakyti - opowiedzieć
-apsauga - ochrona | zabezpieczenie
+apsauga - ochrona, zabezpieczenie
 apsiaustas - płaszcz
 apsinuodijimas - zatrucie
 apskritimas - okrąg
@@ -535,7 +535,7 @@ arba - lub
 arbaletas - kusza
 arbata - herbata
 arbitralus - arbitralny
-arbitras - sędzia | arbiter
+arbitras - sędzia, arbiter
 arbitražas - arbitraż
 arbūzas - arbuz
 archaizmas - archaizm
@@ -568,14 +568,14 @@ aristokratija - arystokracja
 Aristotelis - Arystoteles
 aritmetika - arytmetyka
 aritmetinė progresija - ciąg arytmetyczny
-aritmija - arytmia | zaburzenie rytmu serca
+aritmija - arytmia, zaburzenie rytmu serca
 arka - łuk
 arkangelas - archanioł
 arkivyskupas - arcybiskup
 arkliavagis - koniokrad
 arklidė - stajnia
 arklininkystė - hodowla koni
-arklinis - koński | konny
+arklinis - koński, konny
 arklys - koń
 arklys turi keturias kojas ir tai kartais suklumpa - koń ma cztery nogi i też się potknie
 arktinis - arktyczny
@@ -586,12 +586,12 @@ Armėnijos Respublika - Republika Armenii
 armėniškas - ormiański
 armija - armia
 arnika - arnika
-aromaterapija - aromaterapia | aromatoterapia
+aromaterapija - aromaterapia, aromatoterapia
 arsenalas - arsenał
 arsenas - arsen
 Artemidė - Artemida
 arterija - tętnica
-arteriolė - arteriola | tętniczka
+arteriolė - arteriola, tętniczka
 arti - orać
 artilerija - artyleria
 artimas - bliski
@@ -612,11 +612,11 @@ asinchroninis - asynchroniczny
 ašis - oś
 asketizmas - ascetyzm
 asmenavimas - koniugacja
-asmeninis - osobisty | prywatny | osobowy
+asmeninis - osobisty, prywatny, osobowy
 asmens kodas - pesel
 asmenuotė - koniugacja
 asmenybė - osobowość
-asmuo - osoba | jednostka
+asmuo - osoba, jednostka
 ąsotis - dzban
 aspirinas - aspiryna
 astatinas - astat
@@ -649,7 +649,7 @@ atavizmas - atawizm
 atbulinė eiga - bieg wsteczny
 ateistas - ateista
 ateistinis - ateistyczny
-ateiti - przyjść | nadejść
+ateiti - przyjść, nadejść
 ateizmas - ateizm
 Atėnai - Ateny
 atentatas - atak
@@ -662,12 +662,12 @@ atitvara - bariera
 atkalbėti - odradzać
 Atlantas - Atlantyk
 atlantinis - atlantycki
-atlasas - atlas | atłas
+atlasas - atlas, atłas
 atletas - atleta
 atletika - atletyka
 atlikti sutvirtinimą - bierzmować
 atminti - pamiętać
-atmintinas - pamiętny | wiekopomny
+atmintinas - pamiętny, wiekopomny
 atmintis - pamięć
 atmosfera - atmosfera
 atnešti - przynieść
@@ -677,9 +677,9 @@ atomo branduolys - jądro atomowe
 atomo numeris - liczba atomowa
 atostogos - urlop
 atpildas - odkupienie
-atranka - wybór | selekcja | dobór
+atranka - wybór, selekcja, dobór
 atrasti - wynaleźć
-atrodyti - wyglądać | wydawać się
+atrodyti - wyglądać, wydawać się
 atsakiklis - automatyczna sekretarka
 atsakomybė - odpowiedzialność
 atsakymas - odpowiedź
@@ -690,37 +690,37 @@ atsiprašymas - przeprosiny
 atsirasti - znaleźć się
 atsirūgti - beknąć
 atskaitomybė - sprawozdawczość
-atspalvis - odcień | zabarwienie
+atspalvis - odcień, zabarwienie
 atsparumas - odporność
 atspaudas - odcisk
 atstatyti - odbudować
 atstovybė - zastępstwo
 atstumas - odległość
-atsuktuvas - śrubokręt | wkrętak
-atvaizdas - obraz | odbicie
-atvejis - przypadek | wypadek
-atvykimas - przybycie | przyjazd
+atsuktuvas - śrubokręt, wkrętak
+atvaizdas - obraz, odbicie
+atvejis - przypadek, wypadek
+atvykimas - przybycie, przyjazd
 atžvilgis - wzgląd
 audėjas - tkacz
 audiencija - audiencja
 audìnė - norka
 audiovizualinis - audiowizualny
 auditas - audyt
-auditorija - audytorium | aula
+auditorija - audytorium, aula
 auditorius - audytor
 audituoti - audytować
 audra - burza
 audringas - burzliwy
 augalas - roślina
-augimas - wzrost | rozwój
+augimas - wzrost, rozwój
 augti - rosnąć
 Augustavas - Augustów
-auka - datek | ofiara
+auka - datek, ofiara
 aukcionas - aukcja
 auksakalys - złotnik
 auksaplunksnis - złotopióry
 auksas - złoto
-aukščiau - wyżej | powyżej
+aukščiau - wyżej, powyżej
 aukščiausiasis laipsnis - stopień najwyższy
 auksinis - złoty
 aukso - złoty
@@ -730,21 +730,21 @@ Aukštaitija - Auksztota
 Aukštaitijos - auksztocki
 aukštaitis - mieszkaniec Auksztoty
 aukštaitiškas - auksztocki
-aukštas - wysoki | piętro
+aukštas - wysoki, piętro
 aukštesnysis laipsnis - stopień wyższy
 aukštuma - wyżyna
 aukštumas - wysokość
-aukštyn - w górę | wzwyż
+aukštyn - w górę, wzwyż
 aureolė - aureola
-ausis - ucho | słuch
+ausis - ucho, słuch
 auskaras - kolczyk
-aušra - świt | zorza
+aušra - świt, zorza
 austi - tkać
 australas - Australijczyk
 australė - Australijka
 Australija - Australia
 australiškas - australijski
-australų - australijski | Australijczyków
+australų - australijski, Australijczyków
 austras - Austriak
 austrė - Austriaczka
 Austrija - Austria
@@ -754,18 +754,18 @@ autentiškas - autentyczny
 autentiškumas - autentyczność
 autoatsakiklis - automatyczna sekretarka
 autobiografija - autobiografia
-autobusas - autobus | autokar
-autobusų - autobusowy | autobusas
+autobusas - autobus, autokar
+autobusų - autobusowy, autobusas
 autografas - autograf
 autoklavas - autoklawa
 autokomisas - autokomis
-autokratija - autokracja | autokratyzm
+autokratija - autokracja, autokratyzm
 autokratiškas - autokratyczny
 automagistralė - autostrada
 automatas - automat
 automatinis - automatyczny
 automatiškas - automatyczny
-automobilis - samochód | automobil
+automobilis - samochód, automobil
 automobilizmas - automobilizm
 automorfinis skaičius - liczba automorficzna
 autonomija - autonomia
@@ -778,7 +778,7 @@ autoturizmas - turystyka samochodowa
 avalynė - obuwie
 avangardas - awangarda
 avangardinis - awangardowy
-avangardizmas - awangardyzm | awangarda
+avangardizmas - awangardyzm, awangarda
 avantiūra - awantura
 avantiūristas - awanturnik
 avantiūristinis - awanturniczy
@@ -803,7 +803,7 @@ azietis - Azjat
 Azija - Azja
 azijietė - Azjatka
 azijietis - Azjata
-Azijos - azjatycki | Azji
+Azijos - azjatycki, Azji
 azimutas - azymut
 Azorai - Azory
 azotas - azot
@@ -829,11 +829,11 @@ baikalinė kryklė - bajkałówka
 baikštumas - bojaźliwość
 baikštus - bojaźliwy
 bailus - bojaźliwy
-bailys - tchórz | bojaźliwiec
-baimė - strach | lęk
+bailys - tchórz, bojaźliwiec
+baimė - strach, lęk
 baimingas - bojaźliwy
 Baisogala - Bejsagoła
-baisus - okropny | przeraźliwy
+baisus - okropny, przeraźliwy
 baitas - bajt
 bajeris - bajer
 bajoras - bojar
@@ -882,11 +882,11 @@ balsvas - białawy
 baltakaktė žąsis - gęś białoczelna
 baltarusė - Białorusinka
 Baltarusija - Białoruś
-Baltarusijos - białoruski | Białorusi
+Baltarusijos - białoruski, Białorusi
 Baltarusijos Respublika - Republika Białorusi
 baltarusis - Białorusin
 baltarusiškas - białoruski
-baltarusių - białoruski | Białorusinów
+baltarusių - białoruski, Białorusinów
 baltas - biały
 baltasis lokys - niedźwiedź polarny
 baltaskruostė berniklė - bernikla białolica
@@ -896,7 +896,7 @@ Baltica - Bałtyka
 Baltieji Rūmai - Biały Dom
 baltijietis - mieszkaniec państw nadbałtyckich
 Baltijos - bałtycki
-Baltijos jūra - Morze Bałtyckie | Bałtyk
+Baltijos jūra - Morze Bałtyckie, Bałtyk
 Baltijskas - Bałtyjsk
 baltiniai - bielizna
 baltinti - bielić
@@ -983,26 +983,26 @@ batvinis - burak
 baubas - straszydło
 baublys - bąk
 Baucenas - Budziszyn
-bauda - kara | grzywna | mandat
+bauda - kara, grzywna, mandat
 baudinys - rzut karny
 baudos aikštelė - pole karne
-bauginti - straszyć | zastraszać
+bauginti - straszyć, zastraszać
 bausmė - kara
 bausti - karać
 bavaras - Bawarczyk
 Bavarija - Bawaria
 bavarų - bawarski
 bazaltas - bazalt
-bazė - baza | zasada
+bazė - baza, zasada
 Bazelis - Bazylea
-bazilika - bazylika | rodzaj kościoła
+bazilika - bazylika, rodzaj kościoła
 bazilikas - bazylia
 bažnyčia - kościół
-be - bez | oprócz | poza
+be - bez, oprócz, poza
 beasmenis - bezosobowy
 beatodairiškas - bezwzględny
 beatodairiškumas - bezwzględność
-bebaimis - nieustraszony | nieulękły
+bebaimis - nieustraszony, nieulękły
 bebras - bóbr
 Beceilai - Becejły
 bėda - bieda
@@ -1013,12 +1013,12 @@ bedievybė - bezbożnictwo
 bedugnis - bezdenny
 beformis - bezkształtny
 begalis - bezkresny
-be galo - bez końca | niezmiernie
-begalvis - bezgłowy | bezmózgi | głupi | tępy
+be galo - bez końca, niezmiernie
+begalvis - bezgłowy, bezmózgi, głupi, tępy
 begalybė - bezkres
 begarsis - bezdźwięczny
 begemotas - hipopotam
-bėgikas - biegacz | biegus
+bėgikas - biegacz, biegus
 bėgimas - bieg
 bėgimas su kliūtimis - bieg z przeszkodami
 bėgimo takas - bieżnia
@@ -1026,8 +1026,8 @@ bėginėti - biegać
 bėgioti - biegać
 bėgis - bieg
 bėgte - biegiem
-bėgti - biec | biegać
-bei - i | oraz
+bėgti - biec, biegać
+bei - i, oraz
 beicas - bejca
 beicuoti - bejcować
 Beirutas - Bejrut
@@ -1043,7 +1043,7 @@ belgė - Belgijka
 Belgija - Belgia
 belgiškas - belgijski
 Belgradas - Belgrad
-belgų - belgijski | Belgów
+belgų - belgijski, Belgów
 Beliava - Bielawa
 Belizas - Belize
 Belmontas - Belmont
@@ -1058,7 +1058,7 @@ bendrasis vidaus produktas - produkt krajowy brutto
 bendratis - bezokolicznik
 bendravardis - imiennik
 bendrovė - spółka
-bendruomenė - społeczeństwo | wspólnota
+bendruomenė - społeczeństwo, wspólnota
 bendvažygis - towarzysz podróży
 Bendzinas - Będzin
 benefisas - benefis
@@ -1067,7 +1067,7 @@ bengališkas - bengalski
 Beninas - Benin
 benzinas - benzyna
 benzolas - benzol
-be reikalo - bez potrzeby | niepotrzebnie | zbytecznie
+be reikalo - bez potrzeby, niepotrzebnie, zbytecznie
 beretė - beret
 bergždžiai - daremnie
 bergždžias - daremny
@@ -1090,7 +1090,7 @@ Betliejus - Betlejem
 betonas - beton
 betoninis - betonowy
 betono maišytuvas - betoniarka
-beveik - prawie | omal
+beveik - prawie, omal
 bevėjis - bezwietrzny
 bevertis - bezwartościowy
 bevielis - bezprzewodowy
@@ -1106,8 +1106,8 @@ biblioteka - biblioteka
 bibliotekininkas - bibliotekarz
 bibliotekininkė - bibliotekarka
 bibliotekininkystė - bibliotekarstwo
-bičiulė - przyjaciółka | koleżanka
-bičiulis - przyjaciel | kumpel | kolega
+bičiulė - przyjaciółka, koleżanka
+bičiulis - przyjaciel, kumpel, kolega
 bifštekas - befsztyk
 bijoti - bać się
 Bilbinavas - Bilwinowo
@@ -1131,10 +1131,10 @@ Biškekas - Biszkek
 bismutas - bizmut
 bitas - bit
 bitė - pszczoła
-bitininkas - żołna zwyczajna | pszczelarz
+bitininkas - żołna zwyczajna, pszczelarz
 biudžetas - budżet
 biudžetinis - budżetowy
-Bizantija - cesarstwo bizantyńskie | Bizancjum
+Bizantija - cesarstwo bizantyńskie, Bizancjum
 bizantiškas - bizantyjski
 biznierius - biznesmen
 biznis - biznes
@@ -1148,19 +1148,19 @@ blauzda - goleń
 blefuoti - blefować
 blėsti - blaknąć
 blevyzga - bluźnierstwo
-blevyzgoti - bluźnić | bluzgać
+blevyzgoti - bluźnić, bluzgać
 blezdinga - jaskółka
 bliauti - beczeć
 blizgesys - blask
 blogai - źle
-blogas - zły | blog
+blogas - zły, blog
 blogėti - pogarszać się
 blokšti - ciskać
 blukti - blaknąć
 blusa - pchła
 blyškus - blady
-boba - kobieta | staruszka | żona
-bobteilas - owczarek staroangielski | bobtail
+boba - kobieta, staruszka, żona
+bobteilas - owczarek staroangielski, bobtail
 bobutė - babcia
 Bogota - Bogota
 boksas - boks
@@ -1170,11 +1170,11 @@ Boleslavecas - Bolesławiec
 Bolivija - Boliwia
 bomba - bomba
 bombonešis - bombowiec
-bongas - bong | bongo | bongos
+bongas - bong, bongo, bongos
 boras - bor
 bordo - bordo
 boris - bohr
-boro rūgštis - kwas borowy | kwas borny
+boro rūgštis - kwas borowy, kwas borny
 bortas - burta
 boružė - biedronka
 bosas - bas
@@ -1205,10 +1205,10 @@ braziliškas - brazylijski
 Brėmenas - Brema
 bręsti - dojrzewać
 brezentas - brezent
-brėžinys - szkic | zarys
+brėžinys - szkic, zarys
 briedis - łoś
-brigada - brygada | ekipa
-brinkti - pęcznieć | nabrzmiewać
+brigada - brygada, ekipa
+brinkti - pęcznieć, nabrzmiewać
 Briuselis - Bruksela
 brokas - bubel
 brolėčia - bratanica
@@ -1239,14 +1239,14 @@ Buenos Airės - Buenos Aires
 Bugas - Bug
 būgnas - bęben
 būgnelis - bębenek
-būgnininkas - dobosz | perkusista
+būgnininkas - dobosz, perkusista
 būgnuoti - bębnić
 būgštauti - lękać się
 buhalteris - księgowy
-builis - kur diabeł | trybula
+builis - kur diabeł, trybula
 buivolas - bawół
 Bukareštas - Bukareszt
-bukas - buk | tępy | rozwarty
+bukas - buk, tępy, rozwarty
 bukletas - folder
 buldogas - buldog
 bulgaras - Bułgar
@@ -1257,16 +1257,16 @@ bulgariškai - po bułgarsku
 bulgariškas - bułgarski
 bulmastifas - bulmastif
 bulterjeras - bulterier
-bulvė - ziemniak | kartofel
+bulvė - ziemniak, kartofel
 buomas - belka
 buožgalvis - kijanka
-būras - chłop | wieśniak
+būras - chłop, wieśniak
 burbulas - bańka
 burė - żagiel
 Burkina Fasas - Burkina Faso
 burna - usta
-burti - wróżyć | czarować | podrywać
-burtininkas - czarownik | czarodziej
+burti - wróżyć, czarować, podrywać
+burtininkas - czarownik, czarodziej
 Burundis - Burundi
 buržuazija - burżuazja
 būsimas - przyszły
@@ -1277,9 +1277,9 @@ butelis - butelka
 būti - być
 būtybė - stworzenie
 buvoti - bywać
-BVP - PKB | produkt krajowy brutto
+BVP - PKB, produkt krajowy brutto
 bybis - bybys
-bybys - chuj | kutas
+bybys - chuj, kutas
 Bydgoščius - Bydgoszcz
 Bytomas - Bytom
 Čadas - Czad
@@ -1300,7 +1300,7 @@ Cechanuvas - Ciechanów
 čekiškai - po czesku
 čekiškas - czeski
 Čekoslovakija - Czechosłowacja
-čekų - czeski (język) | Czechów | czeski | čekas
+čekų - czeski (język), Czechów, czeski, čekas
 celė - cela
 celebruoti - celebrować
 celibatas - celibat
@@ -1310,7 +1310,7 @@ celofanas - celofan
 celofaninis - celofanowy
 cementas - cement
 cementuoti - cementować
-čempionatas - mistrzostwo | mistrzostwa
+čempionatas - mistrzostwo, mistrzostwa
 Čenstakava - Częstochowa
 centas - cent
 centimetras - centymetr
@@ -1319,13 +1319,13 @@ centralizuoti - centralizować
 centras - centrum
 Centrinė Europa - Europa Środkowa
 Centrinės Afrikos Respublika - Republika Środkowoafrykańska
-centrinis - centralny | środkowy
+centrinis - centralny, środkowy
 cenzūra - cenzura
 ceremonija - ceremonia
 ceris - cer
 cerkvė - cerkiew
 Černobylis - Czarnobyl
-česnakas - czosnek (pospolity) | rodzaj roślin z rodziny amarylkowatych
+česnakas - czosnek (pospolity), rodzaj roślin z rodziny amarylkowatych
 Cešynas - Cieszyn
 cezis - cez
 chameleonas - kameleon
@@ -1386,7 +1386,7 @@ citologinis - cytologiczny
 citrina - cytryna
 citrinukas - latolistek cytrynek
 cituoti - cytować
-čiulpti - ssać | cmokać | pykać fajkę
+čiulpti - ssać, cmokać, pykać fajkę
 čiulpti bybį - ciągnąć druta
 čiuožėjas - łyżwiarz
 čiurlenti - ciurkać
@@ -1404,55 +1404,55 @@ cukrus - cukier
 cunamis - tsunami
 cyplė - świstun
 CŽV - CIA
-dabar - teraz | obecnie
+dabar - teraz, obecnie
 daboklė - areszt
 dačia - dacza
 daiktas - rzecz
 daiktavardis - rzeczownik
 dailidė - cieśla
-daina - pieśń | piosenka
+daina - pieśń, piosenka
 dainavimas - śpiew
-dainelė - piosenka | piosnka
-dainininkas - piosenkarz | śpiewak
-dainininkė - piosenkarka | śpiewaczka
+dainelė - piosenka, piosnka
+dainininkas - piosenkarz, śpiewak
+dainininkė - piosenkarka, śpiewaczka
 dainuoti - śpiewać
 Daka - Dhaka
 daktaras - doktor
-dalelytė - partykuła | cząsteczka
+dalelytė - partykuła, cząsteczka
 dalis - część
 dalmatinas - dalmatyńczyk
 daltonikas - daltonista
-dalykas - sprawa | przedmiot
-dalyvauti - uczestniczyć | brać udział | współdziałać
+dalykas - sprawa, przedmiot
+dalyvauti - uczestniczyć, brać udział, współdziałać
 dalyvė - wspólniczka
-dalyvis - wspólnik | uczestnik
+dalyvis - wspólnik, uczestnik
 dama - dama
 Damaskas - Damaszek
 danas - Duńczyk
 danė - Dunka
-dangiškas - niebieski | niebiański
-dangoraižis - wieżowiec | drapacz chmur
+dangiškas - niebieski, niebiański
+dangoraižis - wieżowiec, drapacz chmur
 dangus - niebo
 Danija - Dania
 Danijos Karalystė - Królestwo Danii
 daniškas - duński
 dantis - ząb
 dantistas - dentysta
-dantų gydytojas - dentysta | stomatolog
-danų - duński (język) | Duńczyków | duński | danas
-daoizmas - taoizm | daoizm
+dantų gydytojas - dentysta, stomatolog
+danų - duński (język), Duńczyków, duński, danas
+daoizmas - taoizm, daoizm
 dar - jeszcze
-darbas - praca | zatrudnienie | czyn | uczynek | czynność
+darbas - praca, zatrudnienie, czyn, uczynek, czynność
 darbininkas - robotnik
-darbuotis - męczyć się | trudzić się | porać się czymś
+darbuotis - męczyć się, trudzić się, porać się czymś
 Darkiemis - Darkiejmy
 darkytis - błaznować
 darmštatis - darmsztadt
-daryti - robić | czynić | wywierać (wpływ)
+daryti - robić, czynić, wywierać (wpływ)
 daryti neaktualų - deaktualizować
 daržas - ogród
 darželis - ogródek
-daržovė - warzywo | jarzyna
+daržovė - warzywo, jarzyna
 data - data
 daug - dużo
 daugiakalbis - wielojęzyczny
@@ -1474,7 +1474,7 @@ davinėti - dawać
 davinys - dawka
 dažnai - często
 dažykla - lakiernia
-dažyti - kolorować | farbować | barwić | malować (pokój) | różować (o twarzy) - nakładać róż
+dažyti - kolorować, farbować, barwić, malować (pokój), różować (o twarzy) - nakładać róż
 debatai - debata
 debatuoti - debatować
 debesis - chmura
@@ -1485,9 +1485,9 @@ debiutantas - debiutant
 debiutas - debiut
 debiutuoti - debiutować
 dėdė - wujek
-dėdienė - ciocia | ciotka - siostra matki lub ojca
+dėdienė - ciocia, ciotka - siostra matki lub ojca
 definicija - definicja
-degalinė - stacja benzynowa | stacja paliw
+degalinė - stacja benzynowa, stacja paliw
 degeneracija - degeneracja
 degeneratas - degenerat
 degeneruoti - degenerować
@@ -1495,21 +1495,21 @@ degradacija - degradacja
 degraduoti - degradować
 degresinis - degresywny
 degti - płonąć
-degtinė - wódka | gorzałka
+degtinė - wódka, gorzałka
 Degučiai - Degucie
 deguonis - tlen
 degustacija - degustacja
 degustacinis - degustacyjny
 deimantas - diament
 deja - niestety
-dejuoti - żalić się | biadolić | narzekać | użalać się | lamentować | jęczeć
+dejuoti - żalić się, biadolić, narzekać, użalać się, lamentować, jęczeć
 dekanas - dziekan
 dėkingas - wdzięczny
 deklamatorius - recytator
 dėkoju - dziękuję
 dėkoti - dziękować
 dėkui - dziękuję
-dėl - z powodu | wskutek | na skutek | dzięki | o (kogo, co)
+dėl - z powodu, wskutek, na skutek, dzięki, o (kogo, co)
 dėlė - pijawka
 delegacija - delegacja
 delegalizuoti - delegalizować
@@ -1531,33 +1531,33 @@ demokratinis - demokratyczny
 demonas - demon
 denaras - denar
 dendrochronologija - dendrochronologia
-dendrologija - dendrologia | drzewoznawstwo
+dendrologija - dendrologia, drzewoznawstwo
 depresija - depresja
 derintuvė - debugger
-derlingas - żyzny | urodzajny
+derlingas - żyzny, urodzajny
 dešimt - dziesięć - 10
 dešimtas - dziesiąty
 dešimtinė - dziesięcina
 dešimtis - dziesiątka
-dešimtmetis - dziesięciolecie | dekada | dziesięcioletni
-dešinys - prawostronny | prawy
+dešimtmetis - dziesięciolecie, dekada, dziesięcioletni
+dešinys - prawostronny, prawy
 dešra - kiełbasa
 dėstytojas - wykładowca
-detalė - detal | szczegół
-dėti - kłaść | składać - gromadzić | nieść się
+detalė - detal, szczegół
+dėti - kłaść, składać - gromadzić, nieść się
 devalvacija - dewaluacja
 devintas - dziewiąty
 devynetas - dziewiątka
-devyni - dziewięć | 9
+devyni - dziewięć, 9
 devyniasdešimt - dziewięćdziesiąt
 devyniasdešimtas - dziewięćdziesiąty
 devyniasdešimtmetis - dziewięćdziesięciolecie
-devyniolika - dziewiętnaście | 19
+devyniolika - dziewiętnaście, 19
 devyniolikmetis - dziewiętnastolatek
 devynioliktas - dziewiętnasty
-devynios auklės, vaikas be galvos - gdzie kucharek sześć, tam nie ma co jeść | dziewięć nauczycielek | a dziecko bez głowy
+devynios auklės, vaikas be galvos - gdzie kucharek sześć, tam nie ma co jeść, dziewięć nauczycielek, a dziecko bez głowy
 devynmetis - dziewięciolatek
-dėžė - pudło | skrzynia
+dėžė - pudło, skrzynia
 dezinformacija - dezinformacja
 diabetas - cukrzyca
 diabetikas - cukrzyk
@@ -1568,13 +1568,13 @@ dializė - dializa
 dialogas - dialog
 didelis - duży
 didvyris - bohater
-didvyriškas - bohaterski | heroiczny
+didvyriškas - bohaterski, heroiczny
 Didžioji Britanija - Wielka Brytania
 diena - dzień
 dievas - bóg
 Dievas - Bóg
 dieveris - szwagier
-dievinti - uwielbiać | ubóstwiać
+dievinti - uwielbiać, ubóstwiać
 dieviškas - boski
 dievotas - pobożny
 dievybė - bóstwo
@@ -1583,7 +1583,7 @@ dilgėlė - pokrzywa
 dimorfizmas - dymorfizm
 dinamitas - dynamit
 dinaras - dinar
-dingti - znikać | zniknąć | przepaść | przepadać
+dingti - znikać, zniknąć, przepaść, przepadać
 dinozauras - dinozaur
 dioskorėja - pochrzyn
 diplomas - dyplom
@@ -1591,7 +1591,7 @@ diplomatija - dyplomacja
 dirbti - pracować
 direktorius - dyrektor
 dirigentas - dyrygent
-diržas - pas | pasek
+diržas - pas, pasek
 diskas - dysk
 disprozis - dysproz
 distancija - dystans
@@ -1605,7 +1605,7 @@ dokumentacija - dokumentacja
 doleris - dolar
 Dominika - Dominika
 Dominikos Respublika - Republika Dominikańska
-dominti - budzić zamiłowanie | ciekawić | interesować
+dominti - budzić zamiłowanie, ciekawić, interesować
 domofonas - domofon
 Doneckas - Donieck
 donoras - dawca
@@ -1617,30 +1617,30 @@ dovanoti - darować
 dovanotojas - darczyńca
 dozė - dawka
 dozimetras - dozymetr
-drabužis - ubranie | odzież
+drabužis - ubranie, odzież
 Dramblio Kaulo Krantas - Wybrzeże Kości Słoniowej
 dramblys - słoń
 drąsa - animusz
-drąsus - odważny | śmiały
+drąsus - odważny, śmiały
 dratharas - wyżeł niemiecki szorstkowłosy
-draugas - przyjaciel | towarzysz (w partii)
+draugas - przyjaciel, towarzysz (w partii)
 draugauti - przyjaźnić się
 draugė - przyjaciółka
 draugystė - przyjaźń
-drausti - zabraniać | zakazywać | ubezpieczać
+drausti - zabraniać, zakazywać, ubezpieczać
 drebulė - osika
 dresiruotojas - treser
 dribt - bęc
 driežas - jaszczurka
 drožtukas - temperówka
 drugelis - motylek
-drugys - motyl | febra | malaria
+drugys - motyl, febra, malaria
 drungnas - ciepławy
 druska - sól
 druskinė - solniczka
-druskos rūgštis - kwas solny | kwas chlorowodorowy
+druskos rūgštis - kwas solny, kwas chlorowodorowy
 Drvenca - Drwęca
-du - dwa | 2
+du - dwa, 2
 dublikatas - duplikat
 Dublinas - Dublin
 dubnis - dubn
@@ -1652,7 +1652,7 @@ dukterėčia - bratanica
 dulkių siurblys - odkurzacz
 dūmai - dym
 dūmas - dym
-dumblas - muł | szlam
+dumblas - muł, szlam
 dumblynas - bagnisko
 dūminis - dymny
 dumti - dąć
@@ -1664,26 +1664,26 @@ duoklė - danina
 duombazė - baza danych
 duomenų bazė - baza danych
 duona - chleb
-duoti - dać | dawać
-durijus - durian | zybuczkowiec
+duoti - dać, dawać
+durijus - durian, zybuczkowiec
 durniams sekasi - głupi ma zawsze szczęście
 durpės - torf
 durtuvas - bagnet
 durys - drzwi
 Dušanbė - Duszanbe
-dušas - natrysk | prysznic
+dušas - natrysk, prysznic
 dvasia - duch
 dvejaip - dwojako
 dvejetas - dwójka
-dvejoti - wątpić | powątpiewać
+dvejoti - wątpić, powątpiewać
 dvibalsis - dwugłoska
-dvidešimt - dwadzieścia | 20
+dvidešimt - dwadzieścia, 20
 dvidešimtas - dwudziesty
 dvigubai - podwójnie
 dvimetis - dwuletni
 dviratis - rower
 dvokti - cuchnąć
-dvylika - dwanaście | 12
+dvylika - dwanaście, 12
 dvyliktas - dwunasty
 Dvyniai - Bliźnięta
 dvynukai - bliźniaki
@@ -1699,10 +1699,10 @@ Dzeusas - Zeus
 Dzežbia - Dzierzbia
 Dzialdovas - Działdowo
 džiaugsmingai - radośnie
-džiaugsmingas - wesoły | radosny
+džiaugsmingas - wesoły, radosny
 džiaugtis - cieszyć się
 Džibutis - Dżibuti
-džiūgauti - radować się | cieszyć się
+džiūgauti - radować się, cieszyć się
 Džordžija - Georgia
 Dzūkija - Dzukia
 ę - dziewiąta litera litewskiego alfabetu
@@ -1716,19 +1716,19 @@ egzaminas - egzamin
 egzilis - banicja
 egzistencializmas - egzystencjalizm
 egzistencija - egzystencja
-egzistuoti - egzystować | istnieć
+egzistuoti - egzystować, istnieć
 egzotiškas - cytrusowy
-eilė - kolejka sklepowa | wiersz | linia (w tekście)
+eilė - kolejka sklepowa, wiersz, linia (w tekście)
 einšteinis - einstein
 eismas - ruch
-eiti - iść | poruszać się z jednego miejsca w drugie | przemieszczać się | chodzić | wędrować | upływać | mijać (o czasie) | postępować | nastąpić (o zdarzeniu)
+eiti - iść, poruszać się z jednego miejsca w drugie, przemieszczać się, chodzić, wędrować, upływać, mijać (o czasie), postępować, nastąpić (o zdarzeniu)
 ekologija - ekologia
-ekonomika - gospodarka | ekonomika
+ekonomika - gospodarka, ekonomika
 ekonomistas - ekonomista
 ekosistema - ekosystem
 ekskavatorius - koparka
 ekslibrisas - ekslibris
-eksplozija - wybuch | eksplozja
+eksplozija - wybuch, eksplozja
 Ekvadoras - Ekwador
 Elbė - Łaba
 Elbingas - Elbląg
@@ -1740,20 +1740,20 @@ elektronika - elektronika
 elektroninis - elektroniczny
 elektroninis paštas - poczta elektroniczna
 elementas - element
-elgesys - postępowanie | zachowanie
-elgeta - żebrak | żebraczka
+elgesys - postępowanie, zachowanie
+elgeta - żebrak, żebraczka
 elgetauti - żebrać
 elgetavimas - żebractwo
-elgetiškas - żebraczy | nędzny
+elgetiškas - żebraczy, nędzny
 elgetynas - przytułek dla żebraków
-elgtis - zachowywać się | postępować
+elgtis - zachowywać się, postępować
 elnias - jeleń
 elniena - dziczyzna
 Elzasas - Alzacja
 Elzė - Eliza
 emancipacija - emancypacja
 embolija - zator
-embrionas - embrion | zarodek
+embrionas - embrion, zarodek
 emigracija - emigracja
 Emilė - Emilia
 Emilia - Emilia
@@ -1780,7 +1780,7 @@ erekcija - erekcja
 erelis - orzeł
 erezija - herezja
 Eritrėja - Erytrea
-ėriukas - baranek | jagnię
+ėriukas - baranek, jagnię
 erkė - kleszcz
 erogeninė zona - strefa erogenna
 erotomanija - erotomania
@@ -1810,7 +1810,7 @@ euras - euro
 Eurazija - Eurazja
 Euripidas - Eurypides
 Europa - Europa
-europarlamentaras - eurodeputowany | europoseł
+europarlamentaras - eurodeputowany, europoseł
 europietė - Europejka
 europietis - Europejczyk
 europietiškas - europejski
@@ -1840,10 +1840,10 @@ federacija - federacja
 felacija - fellatio
 feljetonas - felieton
 feminizmas - feminizm
-fenilketonurija - fenyloketonuria | oligofrenia fenylopirogronowa
+fenilketonurija - fenyloketonuria, oligofrenia fenylopirogronowa
 feodalinis - feudalny
 feodalizmas - feudalizm
-fermentas - enzym | ferment
+fermentas - enzym, ferment
 fermionas - fermion
 fermis - ferm
 Fidžis - Fidżi
@@ -1860,13 +1860,13 @@ fisharmonija - fisharmonia
 fistulė - przetoka
 fizika - fizyka
 fizioterapija - fizjoterapia
-flamingas - flaming | czerwonak
+flamingas - flaming, czerwonak
 fleita - flet
 flerovis - flerow
 flomasteris - flamaster
 Florencija - Florencja
 fluoras - fluor
-fokusininkas - iluzjoner | sztukmistrz
+fokusininkas - iluzjoner, sztukmistrz
 fonas - tło
 fondas - fundusz
 fonema - fonem
@@ -1886,18 +1886,18 @@ frakcija - frakcja
 francis - frans
 frankas - frank
 freska - fresk
-fricų - szwabski | szkopski
+fricų - szwabski, szkopski
 funkcija - funkcja
-futbolas - futbol | piłka nożna
+futbolas - futbol, piłka nożna
 futbolininkas - piłkarz
-gabalas - kawał | kawałek
+gabalas - kawał, kawałek
 Gabonas - Gabon
 gadolinis - gadolin
 gadynė - epoka
-gaidys - kogut | pietuch | ptak | fiut
+gaidys - kogut, pietuch, ptak, fiut
 gaigalas - kaczor
 gailėjimas - żal
-gailestis - żal | litość | współczucie
+gailestis - żal, litość, współczucie
 gailėti - żałować
 gaisras - pożar
 gaisrinė - straż pożarna
@@ -1907,7 +1907,7 @@ gal - może
 galaktika - galaktyka
 galas - koniec
 galerija - galeria
-galėti - móc | mieć możliwość zrobienia czegoś | mieć pozwolenie
+galėti - móc, mieć możliwość zrobienia czegoś, mieć pozwolenie
 galimybė - możliwość
 galininkas - biernik
 galis - gal
@@ -1915,27 +1915,27 @@ galva - głowa
 galva sienos pramuši - głową muru nie przebijesz
 galvoti - myśleć o
 Gambija - Gambia
-gaminti - produkować | wytwarzać
+gaminti - produkować, wytwarzać
 gamintojas - producent
 gamta - przyroda
 gamtinės dujos - gaz ziemny
-gamybinis - produkcyjny | wytwórczy
+gamybinis - produkcyjny, wytwórczy
 Gana - Ghana
 gandras - bocian
 ganėtinas - wystarczający
-ganyti - paść | wypasać
+ganyti - paść, wypasać
 garai - para
 garantinis - gwarancyjny
 garas - para
 garažas - garaż
 garbė - cześć
-garderobas - garderoba - miejsce (pomieszczenie) do przechowywania ubrań oraz do przebierania się | szatnia
+garderobas - garderoba - miejsce (pomieszczenie) do przechowywania ubrań oraz do przebierania się, szatnia
 Gargantiua - Gargantua
 garnys - czapla
 garsas - dźwięk
 garstyčia - gorczyca
-garsumas - głośność | sława
-garsus - sławny | słynny
+garsumas - głośność, sława
+garsus - sławny, słynny
 garšva - podagrycznik
 gastritas - zapalenie żołądka
 gatvė - ulica
@@ -1946,12 +1946,12 @@ gavialas - gawial
 Gdanskas - Gdańsk
 Gdynė - Gdynia
 gebenė - bluszcz
-gėda - wstyd | hańba
+gėda - wstyd, hańba
 gegnė - krokiew
 gegutė - kukułka
-gegužė - maj | kukułka
+gegužė - maj, kukułka
 gegužis - maj
-geisti - pożądać | pragnąć
+geisti - pożądać, pragnąć
 geizeris - gejzer
 gėjus - gej
 gelbėtojas - ratownik
@@ -1982,7 +1982,7 @@ gėrimas - napój
 gerklė - gardło
 germanas - Germanin
 germanis - german
-germanų - germański | germanas
+germanų - germański, germanas
 gerti - pić
 gerumas - dobro
 gervė - żuraw
@@ -1997,10 +1997,10 @@ gimda - macica
 gimdos kaklelis - szyjka macicy
 gimdymas - poród
 gimdyti - rodzić
-gimimas - narodziny | urodzenie
+gimimas - narodziny, urodzenie
 giminaitė - krewna
 giminaitis - krewny
-giminė - ród | rodzaj
+giminė - ród, rodzaj
 gimtadienis - urodziny
 gimtas - ojczysty
 gimtinė - ojczyzna
@@ -2011,7 +2011,7 @@ ginklas - broń
 gintaras - bursztyn
 girdėti - słyszeć
 girgždėti - skrzypieć
-giria - puszcza | las | pustkowie
+giria - puszcza, las, pustkowie
 girininkas - leśniczy
 girna - kamień młyński
 girnovė - warzęcha
@@ -2047,13 +2047,13 @@ grandinė - łańcuch
 grašis - grosz
 gravitacija - grawitacja
 gražiai - pięknie
-gražumas - piękno | uroda
-gražus - piękny | ładny | przystojny | śliczny
+gražumas - piękno, uroda
+gražus - piękny, ładny, przystojny, śliczny
 greipfrutas - grejpfrut
-greitai - szybko | prędko
-greitas - szybki | prędki
+greitai - szybko, prędko
+greitas - szybki, prędki
 Grenlandija - Grenlandia
-gretutinis - przyległy | sąsiedni
+gretutinis - przyległy, sąsiedni
 griausmavaldis - gromowładca
 grifas - sęp
 grikis - gryka
@@ -2075,16 +2075,16 @@ Gryfinas - Gryfino
 grynasis vidaus produktas - produkt krajowy netto
 Guamas - Guam
 Gubinas - Gubin
-gudas - Białorusin | mówiący innym dialektem/gwarą
+gudas - Białorusin, mówiący innym dialektem/gwarą
 Gudija - Białoruś
-gulbė - łabędź | łabędzica | samica łabędzia
+gulbė - łabędź, łabędzica, samica łabędzia
 guldenas - gulden
 gurkšnis - łyk
 Gvadelupa - Gwadelupa
 Gvatemala - Gwatemala
-gvelbti - kraść | zagarniać
+gvelbti - kraść, zagarniać
 Gvinėja - Gwinea
-GVP - PKN | produkt krajowy netto
+GVP - PKN, produkt krajowy netto
 gydykla - lecznica
 gydyti - leczyć
 gydytis - leczyć się
@@ -2093,13 +2093,13 @@ gydytojas - lekarz
 gynėjas - obrońca
 gyvas - żywy
 gyvatė - wąż
-gyvenimas - życie | żywot
-gyventi - żyć | mieszkać
+gyvenimas - życie, żywot
+gyventi - żyć, mieszkać
 gyventi kaip šuo su kate - żyć jak pies z kotem
 gyventojas - mieszkaniec
 gyvsidabris - rtęć
-gyvulys - zwierzę | bydlę | zwierzę bydła domowego | bydlak
-gyvūnas - zwierzę | stworzenie | istota
+gyvulys - zwierzę, bydlę, zwierzę bydła domowego, bydlak
+gyvūnas - zwierzę, stworzenie, istota
 gyvybė - życie
 hafnis - hafn
 Haga - Haga
@@ -2147,14 +2147,14 @@ horizontas - horyzont
 humanizmas - humanizm
 humoras - humor
 humoro jausmas - poczucie humoru
-į - czternasta litera alfabetu litewskiego | w | przed | na | ku | do
+į - czternasta litera alfabetu litewskiego, w, przed, na, ku, do
 įamžinti - uwieczniać
 ichtiologija - ichtiologia
 įdarbinti - zatrudnić
 idealas - ideał
 idealistas - idealista
 ideologija - ideologia
-įdomus - interesujący | ciekawy
+įdomus - interesujący, ciekawy
 įdukra - pasierbica
 įeiti - wejść
 ieškoti - szukać
@@ -2162,7 +2162,7 @@ Ieva - Ewa
 įgaubtas - wklęsły
 įkaitas - zakładnik
 įkarštis - apogeum
-iki - do | do zobaczenia
+iki - do, do zobaczenia
 įkurtuvės - ceremonia otwarcia
 įlanka - zatoka
 ilgaamžiškumas - długowieczność
@@ -2171,14 +2171,14 @@ ilgėtis - tęsknić
 iliuzija - iluzja
 įmotė - macocha
 impedansas - impedancja
-imperatorius - cesarz | imperator
+imperatorius - cesarz, imperator
 imperializmas - imperializm
 imperija - imperium
 impotencija - impotencja
 įnagininkas - narzędnik
-indas - naczynie | Hindus
+indas - naczynie, Hindus
 indeksas - indeks
-indėlis - lokata | wkład
+indėlis - lokata, wkład
 Indija - Indie
 indis - ind
 indonezietė - Indonezyjka
@@ -2196,7 +2196,7 @@ informatikas - informatyk
 infrastruktūra - infrastruktura
 inkaras - kotwica
 inkstas - nerka
-įnoringas - kapryśny | grymaśny
+įnoringas - kapryśny, grymaśny
 Inovroclavas - Inowrocław
 instrukcija - instrukcja
 instrumentas - instrument
@@ -2212,7 +2212,7 @@ ir - i
 Irakas - Irak
 Iranas - Iran
 įrankis - narzędzie
-įrašas - wpis | zapis
+įrašas - wpis, zapis
 iridis - iryd
 irklas - wiosło
 ironija - ironia
@@ -2233,27 +2233,27 @@ islandas - Islandczyk
 islandė - Islandka
 Islandija - Islandia
 islandiškas - islandzki
-išmatos - kał | odchody | stolec
+išmatos - kał, odchody, stolec
 išminčius - mędrzec
 išmintingas - mądry
 išmintis - mądrość
-išnaša - odnośnik | przypis | adnotacja | wyrwa
+išnaša - odnośnik, przypis, adnotacja, wyrwa
 ispanas - Hiszpan
 ispanė - Hiszpanka
 Ispanija - Hiszpania
 Ispanijos Karalystė - Królestwo Hiszpanii
 ispaniškas - hiszpański
-ispanų - hiszpański (język) | Hiszpanów | hiszpański | ispanas
-iš pasalų - znienacka | po kryjomu
+ispanų - hiszpański (język), Hiszpanów, hiszpański, ispanas
+iš pasalų - znienacka, po kryjomu
 išradėjas - wynalazca
 išrinkimas - wybór
 iššaukti - wywołać
 įstabus - cudowny
 įstaiga - instytucja
 įstatymas - ustawa
-įstatymdavystė - ustawodawstwo | władza ustawodawcza
+įstatymdavystė - ustawodawstwo, władza ustawodawcza
 įstatymleidis - ustawodawca
-ištiktukas - wykrzyknik | wykrzyknienie | onomatopeja | wyraz dźwiękonaśladowczy
+ištiktukas - wykrzyknik, wykrzyknienie, onomatopeja, wyraz dźwiękonaśladowczy
 istorija - historia
 istorikas - historyk
 istorinis - historyczny
@@ -2266,22 +2266,22 @@ italė - Włoszka
 Italija - Włochy
 Italijos Respublika - Republika Włoska
 itališkas - włoski
-italo - Włocha | włoski | italas
-italų - włoski (język) | Włochów | włoski | italas
+italo - Włocha, włoski, italas
+italų - włoski (język), Włochów, włoski, italas
 įtarimas - podejrzenie
 iterbis - iterb
 įtėvis - ojczym
 itris - itr
 įvaikinimas - adopcja
-įvaikinti - adoptować | usynowić | usynawiać
+įvaikinti - adoptować, usynowić, usynawiać
 įvaikis - przybrane dziecko
 įvairiaspalvis - różnokolorowy
 Ivanas - Iwan
 įvardis - zaimek
-įvartis - gol | bramka
-įvykis - wydarzenie | zdarzenie
+įvartis - gol, bramka
+įvykis - wydarzenie, zdarzenie
 Izaras - Izara
-izoliatorius - izolator | izolatka
+izoliatorius - izolator, izolatka
 izotopas - izotop
 izraelietė - Izraelka
 izraelietis - Izraelczyk
@@ -2303,7 +2303,7 @@ jaunatis - nów
 jaunimas - młodzież
 jaunuolis - młodzieniec
 jaunystė - młodość
-jausmas - uczucie | poczucie
+jausmas - uczucie, poczucie
 jausti - czuć
 jaustukas - wykrzyknik
 jautiena - wołowina
@@ -2311,8 +2311,8 @@ jautis - wół
 JAV - USA
 Javožnas - Jaworzno
 Jedvabnas - Jedwabne
-jei - jeśli | jeżeli | gdyby
-jeigu - jeśli | jeżeli | gdyby
+jei - jeśli, jeżeli, gdyby
+jeigu - jeśli, jeżeli, gdyby
 Jekaterinburgas - Jekaterynburg
 Jemenas - Jemen
 jena - jen
@@ -2325,7 +2325,7 @@ jie - oni/one
 jis - on
 jo - jego
 jodas - jod
-jog - że | iż
+jog - że, iż
 jogurtas - jogurt
 jonas - jon
 Jonijos jūra - Morze Jońskie
@@ -2348,52 +2348,52 @@ Jungtiniai Arabų Emyratai - Zjednoczone Emiraty Arabskie
 jungtinis - zjednoczony
 Jungtinių Tautų Organizacija - Organizacja Narodów Zjednoczonych
 jungtukas - spójnik
-juodadėmė menkė - plamiak | łupacz | wątłusz srebrzysty
+juodadėmė menkė - plamiak, łupacz, wątłusz srebrzysty
 juodas - czarny
 juodasis strazdas - kos
 juodkalnietis - Czarnogórzec
 Juodkalnija - Czarnogóra
 Juodoji jūra - Morze Czarne
 juokas - śmiech
-juokas - geriausias vaistas - śmiech to zdrowie | śmiech - najlepsze lekarstwo
+juokas - geriausias vaistas - śmiech to zdrowie, śmiech - najlepsze lekarstwo
 juokdarys - błazen
 juokiasi tas, kas juokiasi paskutinis - ten się śmieje, kto się śmieje ostatni
 juoktis - śmiać się
-juosta - wstęga | taśma | talia | pas | strefa
-Jupiteris - Jowisz | Jupiter
+juosta - wstęga, taśma, talia, pas, strefa
+Jupiteris - Jowisz, Jupiter
 jūra - morze
 jūreivis - marynarz
-jurginas - dalia | georginia
+jurginas - dalia, georginia
 juristas - prawnik
 jūrų agurkas - strzykwa
-jūs - wy | pan | pani
+jūs - wy, pan, pani
 jūsų - wasz
 juvelyras - jubiler
-kabelis - kabel | przewód
+kabelis - kabel, przewód
 kabinetas - gabinet
-kablys - hak | haczyk
+kablys - hak, haczyk
 Kabulas - Kabul
 kabutės - cudzysłów
-kad - że | żeby | aby
+kad - że, żeby, aby
 kada - kiedy
 kadagys - jałowiec
 kadaise - dawniej
 kadmis - kadm
-kad prisivirei košės tai ir srėbk - jak masz problemy ze sobą | rozwiąż je
+kad prisivirei košės tai ir srėbk - jak masz problemy ze sobą, rozwiąż je
 kai - gdy
 kaimanas - kajman
-kaimas - wieś | wioska
+kaimas - wieś, wioska
 kaimietis - wieśniak
-kaimiškas - rustykalny | wiejski
+kaimiškas - rustykalny, wiejski
 kaimynas - sąsiad
 kaimynė - sąsiadka
 kaimynystė - sąsiedztwo
-kaina - koszt | cena
+kaina - koszt, cena
 kainozojus - kenozoik
 kainuoti - kosztować
 kaip - jak
 Kairas - Kair
-kaitra - upał | skwar
+kaitra - upał, skwar
 kaklajuostė - smycz (na szyję)
 kaklaraištis - krawat
 kaklas - szyja
@@ -2402,11 +2402,11 @@ kaktusas - kaktus
 kalakutas - indyk
 kalambūras - kalambur
 kalavijas - miecz
-kalba - rozmowa | przemówienie | mowa | przemowa | oracja | język
-kalbėti - mówić | rozmawiać
+kalba - rozmowa, przemówienie, mowa, przemowa, oracja, język
+kalbėti - mówić, rozmawiać
 kalbotyra - językoznawstwo
 kalcis - wapń
-kalė - suka | suczka
+kalė - suka, suczka
 kalėdinis - bożonarodzeniowy
 Kalėdos - Boże Narodzenie
 Kalėdų sala - Wyspa Bożego Narodzenia
@@ -2416,11 +2416,11 @@ Kaliopė - Kaliopa
 kalis - potas
 Kališas - Kalisz
 kalk geležį, kol karšta - kuj żelazo, póki gorące
-kalnas - góra | stos
+kalnas - góra, stos
 kalnietis - góral
 kalnuotas - górzysty
 kalti - wykuwać
-kaltinti - oskarżać | obwiniać
+kaltinti - oskarżać, obwiniać
 kalvis - kowal
 kamanė - trzmiel
 kambarinė - pokojówka
@@ -2429,9 +2429,9 @@ Kambodža - Kambodża
 Kamerūnas - Kamerun
 kaminas - komin
 kaminkrėtys - kominiarz
-kampinis - kątowy | narożny
+kampinis - kątowy, narożny
 kampinis smūgis - rzut rożny
-kamuolys - piłka | kłąb | kula
+kamuolys - piłka, kłąb, kula
 Kanada - Kanada
 kanalizacija - kanalizacja
 kanalizacinis - kanalizacyjny
@@ -2457,17 +2457,17 @@ kareiva - wojak
 kareivinės - koszary
 kareivis - żołnierz
 kareiviška lovelė - łóżko polowe
-kareiviškas - żołnierski | wojskowy
+kareiviškas - żołnierski, wojskowy
 Karibų jūra - Morze Karaibskie
 kariūnas - kadet
-kariuomenė - armia | wojsko
+kariuomenė - armia, wojsko
 karklas - wierzba
 karosas - karaś
 karpis - karp
 karšis - leszcz
 karstas - trumna
 karštas - gorący
-kartais - czasami | niekiedy
+kartais - czasami, niekiedy
 kartas - raz
 kartkartėmis - od czasu do czasu
 kartoti - powtarzać
@@ -2475,7 +2475,7 @@ kartus - gorzki
 karvė - krowa
 karvedys - przywódca
 karvelis - gołąb
-karys - wojownik | żołnierz
+karys - wojownik, żołnierz
 kas - co
 kasdien - codziennie
 kasdieninis - codzienny
@@ -2491,13 +2491,13 @@ katalikas - katolik
 katalikė - katoliczka
 katalikiškas - katolicki
 Katalonija - Katalonia
-katalonų - kataloński | Katalończyków
+katalonų - kataloński, Katalończyków
 Katanija - Katania
 Kataras - Katar
-katė - kot | samica kota | kotka
+katė - kot, samica kota, kotka
 katedra - katedra
 kategorija - kategoria
-katinas - samiec kota | kocur
+katinas - samiec kota, kocur
 Katovicai - Katowice
 Katovicų - katowicki
 kaukė - maska
@@ -2521,7 +2521,7 @@ Keiptaunas - Kapsztad
 keistas - dziwny
 keisti - zmieniać
 keistis - zmieniać się
-kekšė - kurwa | dziwka
+kekšė - kurwa, dziwka
 kėkštas - sójka
 keleivis - pasażer
 kelias - droga
@@ -2530,14 +2530,14 @@ kelionė - podróż
 kelis - kolano
 Kelmė - Kielmy
 kelnės - spodnie
-keltas - prom | Celt
+keltas - prom, Celt
 Kempnas - Kępno
 kengūra - kangur
 Kenija - Kenia
 kentėjimas - cierpienie
 kepėjas - piekarz
 kepenys - wątroba
-kepti - piec (placek, tort) | smażyć (mięso)
+kepti - piec (placek, tort), smażyć (mięso)
 kepurė - czapka
 kepykla - piekarnia
 keramika - ceramika
@@ -2545,16 +2545,16 @@ keras - krzew
 kerštas - zemsta
 kęsti - cierpieć
 keturi - cztery
-keturiasdešimt - czterdzieści | 40
+keturiasdešimt - czterdzieści, 40
 keturiasdešimtas - czterdziesty
-keturiolika - czternaście | 14
+keturiolika - czternaście, 14
 keturioliktas - czternasty
 keturkampis - czworokąt
 ketvertas - czwórka
 ketvirtadienis - czwartek
 ketvirtas - czwarty
 ketvirtfinalis - ćwierćfinał
-ketvirtis - ćwierć | ćwiartka | kwartał
+ketvirtis - ćwierć, ćwiartka, kwartał
 ketvirtis valandos - kwadrans
 keverzonė - bazgroł
 keverzoti - bazgrać
@@ -2562,14 +2562,14 @@ kiaulė - świnia
 kiaunė - kuna
 kiaušialąstė - komórka jajowa
 kiaušidė - jajnik
-kiaušinis - jajo | jajko
+kiaušinis - jajo, jajko
 kiaušintakis - jajowód
 kibiras - wiadro
 kibirkštis - iskra
-kičas - kicz | tandeta
+kičas - kicz, tandeta
 kiek - ile
 kiekybinis - ilościowy
-kiemas - podwórze | gospodarstwo | wieś
+kiemas - podwórze, gospodarstwo, wieś
 kietas - twardy
 kietasis diskas - dysk twardy
 Kijevas - Kijów
@@ -2577,8 +2577,8 @@ kikilis - zięba
 kilmininkas - dopełniacz
 kilogramas - kilogram
 kilometras - kilometr
-kilpa - pętla | pułapka | dziurka od guzika | strzemię | dulka | meander | zakole
-kinas - Chińczyk | kino
+kilpa - pętla, pułapka, dziurka od guzika, strzemię, dulka, meander, zakole
+kinas - Chińczyk, kino
 kinė - Chinka
 Kinija - Chiny
 Kinijos Liaudies Respublika - Chińska Republika Ludowa
@@ -2588,8 +2588,8 @@ Kipras - Cypr
 kiprietė - Cypryjka
 kiprietis - Cypryjczyk
 kiprietiškas - cypryjski
-Kirgizija - Kirgizja | Kirgistan
-Kirgizstanas - Kirgistan | Kirgizja
+Kirgizija - Kirgizja, Kirgistan
+Kirgizstanas - Kirgistan, Kirgizja
 Kiribatis - Kiribati
 kirilica - cyrylica
 kiriliškas - cyrylicki
@@ -2597,11 +2597,11 @@ kirmėlė - robak
 kirminas - robak
 kirmis - robak
 kirpėjas - fryzjer
-kirvis - siekiera | topór
+kirvis - siekiera, topór
 kiškis - zając
 kiuris - kiur
-klaida - błąd | pomyłka
-klaidingas - błędny | mylny
+klaida - błąd, pomyłka
+klaidingas - błędny, mylny
 klaidžioti - błąkać się
 Klaipėda - Kłajpeda
 klajoti - błądzić
@@ -2612,7 +2612,7 @@ klasiokas - kolega ze szkoły
 klausa - słuch
 klausimas - pytanie
 klausti - pytać
-klaustukas - pytajnik | znak zapytania
+klaustukas - pytajnik, znak zapytania
 klausyti - słuchać
 klavesinas - klawesyn
 klaviatūra - klawiatura
@@ -2631,28 +2631,28 @@ klysti - błądzić
 Knuruvas - Knurów
 knyga - książka
 knygynas - księgarnia
-ko - kogo | czego
+ko - kogo, czego
 koala - koala
 kobaltas - kobalt
 Kobylka - Kobyłka
 kodėl - dlaczego
-koegzistuoti - koegzystować | współistnieć
+koegzistuoti - koegzystować, współistnieć
 kofeinas - kofeina
 koja - noga
 kokainas - kokaina
-kokliušas - krztusiec | koklusz
+kokliušas - krztusiec, koklusz
 kolagenas - kolagen
 kolega - kolega z pracy
 kolegiškas - koleżeński
 Kolobžegas - Kołobrzeg
 Kolumbija - Kolumbia
-komanda - komenda | rozkaz | oddział | załoga | ekipa | drużyna
+komanda - komenda, rozkaz, oddział, załoga, ekipa, drużyna
 kombinatas - kombinat
 komedija - komedia
 komiksas - komiks
 komisariatas - komisariat
 Komorai - Komory
-kompanija - kompania | towarzystwo
+kompanija - kompania, towarzystwo
 kompasas - kompas
 kompiuterastas - komputerowiec
 kompiuteris - komputer
@@ -2664,11 +2664,11 @@ konditerija - cukiernia
 konditerijos - cukierniczy
 koneveikti - besztać
 konfucianizmas - konfucjanizm
-Kongas - Kongo (rzeka) | Kongo (państwo)
+Kongas - Kongo (rzeka), Kongo (państwo)
 Kongo Demokratinė Respublika - Demokratyczna Republika Konga
 Kongo Respublika - Republika Konga
 Koninas - Konin
-konkurentas - konkurent | rywal
+konkurentas - konkurent, rywal
 konstitucija - konstytucja
 konstrukcija - konstrukcja
 konsulas - konsul
@@ -2680,7 +2680,7 @@ Kopenhaga - Kopenhaga
 kopernikis - kopernik
 koplyčia - kaplica
 kopūstas - kapusta
-koralas - koral | koralowiec
+koralas - koral, koralowiec
 Koralų jūra - Morze Koralowe
 Koranas - Koran
 Korėja - Korea
@@ -2704,44 +2704,44 @@ Kosovas - Kosowo
 Kosta Rika - Kostaryka
 kosulys - kaszel
 kova - walka
-kovas - marzec | gawron
+kovas - marzec, gawron
 kovoti - walczyć
 krabas - krab
 kranas - dźwig
 kranklys - kruk
 krantas - brzeg
 krapas - koper
-krapų - koperkowy | krapas
+krapų - koperkowy, krapas
 kraugerys - krwiopijca
 kraujagyslė - naczynie krwionośne
 kraujas - krew
 kraujavimas - krwotok
 kraujuoti - krwawić
-krautuvė - sklepik | kram
+krautuvė - sklepik, kram
 kreditas - kredyt
 kregždė - jaskółka
 kregždėtas - piegowaty
 kreivanosis - krzywonosy
-kreivas - krzywy | skrzywiony | koślawy
+kreivas - krzywy, skrzywiony, koślawy
 kreivė - krzywa
 kremzlė - chrząstka
 krepšinis - koszykówka
-krepšys - kosz | koszyk
+krepšys - kosz, koszyk
 krevetė - krewetka
-kriaušė - grusza | gruszka
+kriaušė - grusza, gruszka
 krikščionė - chrześcijanka
 krikščionis - chrześcijanin
 krikščionybė - chrześcijaństwo
 krikštamotė - matka chrzestna
 krikštas - chrzest
-krikštasūnis - chrześniak | syn chrzestny
+krikštasūnis - chrześniak, syn chrzestny
 krikštatėvis - ojciec chrzestny
 kriminalinis - kryminalny
 krioklys - wodospad
 krioterapija - krioterapia
 kriptonas - krypton
 kristalas - kryształ
-kristi - spaść | upaść
+kristi - spaść, upaść
 kristologija - chrystologia
 kritika - krytyka
 kritikas - krytyk
@@ -2760,7 +2760,7 @@ kronika - kronika
 Krotošynas - Krotoszyn
 krūmas - krzak
 kruša - grad
-krūtinė - pierś | klatka piersiowa
+krūtinė - pierś, klatka piersiowa
 krūtis - pierś
 kryptis - kierunek
 kryžius - krzyż
@@ -2770,22 +2770,22 @@ ksilitas - ksylitol
 kubas - sześcian
 kubilas - beczka
 kubilius - bednarz
-kūdikis - niemowlę | niemowlak
+kūdikis - niemowlę, niemowlak
 kūdikystė - niemowlęctwo
-kūdra - staw | sadzawka
+kūdra - staw, sadzawka
 kūgis - stożek
 kuklus - skromny
 kukutis - dudek
-kulkosvaidis - karabin maszynowy | kaem
+kulkosvaidis - karabin maszynowy, kaem
 Kulmas - Chełmno
-kulnas - pięta | obcas
+kulnas - pięta, obcas
 kultūra - kultura
-kultūrinis - kulturalny | kulturowy
+kultūrinis - kulturalny, kulturowy
 kumelė - klacz
 kumpis - szynka
 kumštis - pięść
 kūnas - ciało
-kunigas - kapłan | duchowny
+kunigas - kapłan, duchowny
 kuosa - kawka
 kupra - garb
 kupranugaris - wielbłąd
@@ -2794,27 +2794,27 @@ kur - gdzie
 kurapka - kuropatwa
 kurčias - głuchy
 kūrikas - palacz (w kotłowni)
-kūrinys - utwór | twór | dzieło
+kūrinys - utwór, twór, dzieło
 kuris - który
 kurmis - kret
 kurpė - but
 kurpius - szewc
 kursantas - kursant
-kurti - kreować | tworzyć
+kurti - kreować, tworzyć
 kurtinys - głuszec
 kurtizanė - kurtyzana
 Kutnas - Kutno
 Kuveitas - Kuwejt
 kvadratinis - kwadratowy
-kvailys - głupek | głupiec | dureń
-kvapas - zapach | woń
+kvailys - głupek, głupiec, dureń
+kvapas - zapach, woń
 kvarkas - kwark
 Kvidzynas - Kwidzyn
-kvorumas - kworum | quorum
+kvorumas - kworum, quorum
 kyšininkas - łapówkarz
 kyšininkystė - łapówkarstwo
 kyšis - łapówka
-kyšulys - przylądek | cypel
+kyšulys - przylądek, cypel
 laba diena - dzień dobry
 labai - bardzo
 labanakt - dobranoc
@@ -2824,31 +2824,31 @@ labas vakaras - dobry wieczór
 labdara - dobroczynność
 laborantas - laborant
 laboratorija - laboratorium
-laibas - szczupły | smukły
+laibas - szczupły, smukły
 laidotuvės - pogrzeb
 laidynė - żelazko
-laikas - czas | pora | termin
+laikas - czas, pora, termin
 laikraštis - gazeta
 laikrodininkas - zegarmistrz
-laikrodis - zegar | zegarek
-Laima - Laima | Łajma
+laikrodis - zegar, zegarek
+Laima - Laima, Łajma
 laimė - szczęście
 laimingas - szczęśliwy
 laiptai - schody
 laiškanešys - listonosz
 laiškas - list
-laisvas - wolny | swobodny | luźny | biegły
-laisvė - wolność | swoboda
-laivas - okręt | statek
+laisvas - wolny, swobodny, luźny, biegły
+laisvė - wolność, swoboda
+laivas - okręt, statek
 laižyti - lizać
-lakštingala - słowik szary | bekwarek
+lakštingala - słowik szary, bekwarek
 lakūnas - lotnik
 lakuotas - lakierowany
 langas - okno
 lankyti - odwiedzać
 lantanas - lantan
 Laosas - Laos
-lapas - liść | arkusz (papieru, blachy itp.) | kartka (papieru)
+lapas - liść, arkusz (papieru, blachy itp.), kartka (papieru)
 lapė - lis
 lapinas - lis
 lapkritis - listopad
@@ -2862,13 +2862,13 @@ Latvija - Łotwa
 Latvijos Respublika - Republika Łotewska
 latvis - Łotysz
 latviškas - łotewski
-laukimas - czekanie | oczekiwanie
-laukti - czekać (na) | oczekiwać | wyczekiwać
+laukimas - czekanie, oczekiwanie
+laukti - czekać (na), oczekiwać, wyczekiwać
 laumžirgis - ważka
 laureatas - laureat
 laurencis - lorens
-lavonas - zwłoki | trup
-lazda - kij | patyk
+lavonas - zwłoki, trup
+lazda - kij, patyk
 lazdynas - leszczyna
 ledas - lód
 Legionovas - Legionowo
@@ -2880,8 +2880,8 @@ lelija - lilia
 Lemborkas - Lębork
 lementi - bełkotać
 lėnas - powolny
-lengvas - lekki | łatwy
-lengvumas - łatwość | lekkość
+lengvas - lekki, łatwy
+lengvumas - łatwość, lekkość
 lenkaitė - młoda Polka
 lenkakalbis - polskojęzyczny
 lenkas - Polak
@@ -2891,7 +2891,7 @@ Lenkijos Respublika - Rzeczpospolita Polska
 lenkiškai - po polsku
 lenkiškas - polski
 lenkystė - polskość
-lentelė - tabela | tabelka
+lentelė - tabela, tabelka
 leonbergeris - leonberger
 leopardas - leopard
 leptonas - lepton
@@ -2899,8 +2899,8 @@ lesbietė - lesbijka
 Lešnas - Leszno
 Lesotas - Lesotho
 lėtai - wolno
-lėtas - wolny | powolny
-leukemija - białaczka | leukemia
+lėtas - wolny, powolny
+leukemija - białaczka, leukemia
 liaudis - lud
 liauka - gruczoł
 liaupsė - apoteoza
@@ -2911,11 +2911,11 @@ Liberija - Liberia
 Libija - Libia
 licencija - licencja
 Lichtenšteinas - Liechtenstein
-liemenėlė - biustonosz | stanik
-liemuo - tułów | pień
+liemenėlė - biustonosz, stanik
+liemuo - tułów, pień
 liepa - lipiec
 liepsna - płomień
-liepsnelė - płomyk | rudzik | raszka
+liepsnelė - płomyk, rudzik, raszka
 liesas - chudy
 lietus - deszcz
 Lietuva - Litwa
@@ -2923,16 +2923,16 @@ lietuvakalbis - litewskojęzyczny
 lietuvė - Litwinka
 lietuvis - Litwin
 lietuviškas - litewski
-lietuvių - litewski | Litwinów
-Lietuvos - litewski | Litwy
+lietuvių - litewski, Litwinów
+Lietuvos - litewski, Litwy
 Lietuvos Respublika - Republika Litewska
-liežuvis - język | ozór zwierzęcy
+liežuvis - język, ozór zwierzęcy
 liežuvi valdyti - trzymać język za zębami
 liftas - winda
 liga - choroba
 ligonė - pacjentka
 ligoninė - szpital
-ligonis - pacjent | chory
+ligonis - pacjent, chory
 limuzinas - limuzyna
 linas - len
 lingvistika - lingwistyka
@@ -2951,10 +2951,10 @@ Liubinas - Lubin
 Liubliana - Lublana
 Liublinas - Lublin
 Liublinecas - Lubliniec
-liūdesys - smutek | troska
+liūdesys - smutek, troska
 Liuksemburgas - Luksemburg
-liuksemburgietė - Luksemburka | luksemburka
-liuksemburgietis - Luksemburczyk | luksemburczyk
+liuksemburgietė - Luksemburka, luksemburka
+liuksemburgietis - Luksemburczyk, luksemburczyk
 liuksemburgietiškas - luksemburski
 liūnas - bagno
 liūtas - lew
@@ -2984,8 +2984,8 @@ Lvovas - Lwów
 lydeka - szczupak
 lygiagretainis - równoległobok
 lygintuvas - żelazko
-lyti - padać (o deszczu) | dżdżyć
-lytinis - seksualny | płciowy
+lyti - padać (o deszczu), dżdżyć
+lytinis - seksualny, płciowy
 Madagaskaras - Madagaskar
 Madridas - Madryt
 maginis mąstymas - myślenie magiczne
@@ -2993,10 +2993,10 @@ magnetas - magnes
 magnetofonas - magnetofon
 magnis - magnez
 Mahometas - Mahomet
-maistas - jedzenie | pożywienie | prowiant | żywność
+maistas - jedzenie, pożywienie, prowiant, żywność
 maišytuvas - betoniarka
 maitiakas - zasilacz
-maitinimas - wyżywienie | zasilanie
+maitinimas - wyżywienie, zasilanie
 maitinimo elementas - bateria
 Majotas - Majotta
 makaronai - makaron
@@ -3011,7 +3011,7 @@ malda - modlitwa
 Maldyvai - Malediwy
 Malis - Mali
 malnos - proso
-malonus - miły | uprzejmy
+malonus - miły, uprzejmy
 Malta - Malta
 maltietis - Maltańczyk
 maltietiškas - maltański
@@ -3020,12 +3020,12 @@ malūnininkas - młynarz
 mama - mama
 mamatė - mama
 mamytė - mamusia
-mandagus - uprzejmy | grzeczny
+mandagus - uprzejmy, grzeczny
 manganas - mangan
 Manila - Manila
 mano - mój
 manometers - manometr
-manyti - myśleć | sądzić
+manyti - myśleć, sądzić
 marihuana - marihuana
 markė - marka
 marksistas - marksista
@@ -3042,15 +3042,15 @@ masė - masa
 mašina - maszyna
 mašinistas - maszynista
 Maskva - Moskwa
-mastas - miara | rozmiar | zakres
+mastas - miara, rozmiar, zakres
 masturbacija - masturbacja
-mąstymas - myślenie | myśl
+mąstymas - myślenie, myśl
 mąstyti - myśleć
 matematika - matematyka
 matematikas - matematyk
 Matilda - Matylda
 matlankis - kątomierz
-matyti - widzeć | widać (forma bezosobowa)
+matyti - widzeć, widać (forma bezosobowa)
 maumedis - modrzew
 Mauricijus - Mauritius
 Mauritanija - Mauretania
@@ -3058,11 +3058,11 @@ mažakraujis - anemiczny
 mažakraujystė - anemia
 mažametis - małoletni
 mažas - mały
-maždaug - około | mniej więcej
+maždaug - około, mniej więcej
 mazgas - węzeł
 Mažoji Azija - Azja Mniejsza
 Mažoji Lietuva - Mała Litwa
-mažylis - maleństwo | maluch
+mažylis - maleństwo, maluch
 mečetė - meczet
 mechanikas - mechanik
 Mečislovas - Mieczysław
@@ -3084,15 +3084,15 @@ meilužis - kochanek
 meitneris - meitner
 Meka - Mekka
 Meksika - Meksyk
-melagis - kłamca | kłamczuch
+melagis - kłamca, kłamczuch
 melas - kłamstwo
 Melecas - Mielec
 melodingas - melodyjny
 melo trumpos kojos - kłamstwo ma krótkie nogi
 melstis - modlić się
-meluoti - kłamać | łgać
+meluoti - kłamać, łgać
 mėlynas - niebieski
-mėlynė - borówka czarna | czarna jagoda
+mėlynė - borówka czarna, czarna jagoda
 melžti - doić
 Menama - Manama
 menas - sztuka
@@ -3100,14 +3100,14 @@ mendelevis - mendelew
 Mendzyžečas - Międzyrzecz
 mėnesiena - światło księżyca
 meniškas - artystyczny
-menk. - lekcew. | lekceważąco
-menkinti - bagatelizować | pomniejszać | lekceważyć
+menk. - lekcew., lekceważąco
+menkinti - bagatelizować, pomniejszać, lekceważyć
 mėnraštis - miesięcznik
 mėnulis - księżyc
 Mėnulis - Księżyc
 mėnuo - miesiąc
-merga - dziewczyna | laska
-mergaitė - dziewczyna | dziewczynka | dziewczę
+merga - dziewczyna, laska
+mergaitė - dziewczyna, dziewczynka, dziewczę
 Mergelė - Panna
 mergina - dziewczyna
 Merkurijus - Merkury
@@ -3123,7 +3123,7 @@ metalas - metal
 metalurgija - metalurgia
 metanas - metan
 metanolis - metanol
-metas - okres | pora | czas
+metas - okres, pora, czas
 mėtas - rok
 meteoras - meteor
 meteoritas - meteoryt
@@ -3132,7 +3132,7 @@ metraštininkas - kronikarz
 metropolitenas - metro
 metų laikas - pora roku
 Mianmaras - Mjanma
-miegamasis - sypialny | sypialnia
+miegamasis - sypialny, sypialnia
 miegas - sen
 miegoti - spać
 miestas - miasto
@@ -3156,10 +3156,10 @@ mintis - myśl
 minutė - minuta
 mirti - umierać
 mirtingumas - śmiertelność
-mirtis - śmierć | zgon
+mirtis - śmierć, zgon
 miškas - las
 mįslė - zagadka
-mįslingas - enigmatyczny | zagadkowy
+mįslingas - enigmatyczny, zagadkowy
 mitas - mit
 mitochondrija - mitochondrium
 mitologija - mitologia
@@ -3169,28 +3169,28 @@ miuonas - mion
 Mlava - Mława
 mobilus - mobilny
 mobilusis telefonas - telefon komórkowy
-močiutė - babcia | babka
+močiutė - babcia, babka
 modemas - modem
-mokestis - opłata | podatek | składka
-mokėti - płacić | potrafić | umieć
+mokestis - opłata, podatek, składka
+mokėti - płacić, potrafić, umieć
 mokinė - uczennica
 mokinys - uczeń
 mokslas - nauka
 mokslininkas - naukowiec
-mokykla - szkoła | uczelnia
+mokykla - szkoła, uczelnia
 mokyklinis - szkolny
-mokyti - uczyć | nauczać
+mokyti - uczyć, nauczać
 mokytis - uczyć się
 mokytoja - nauczycielka
 mokytojas - nauczyciel
-mokytojauti - uczyć | nauczać
+mokytojauti - uczyć, nauczać
 molas - molo
 moldavas - Mołdawianin
 moldavė - Mołdawianka
 Moldavija - Mołdawia
 moldaviškas - mołdawski
 Moldova - Mołdawia
-molekulė - molekuła | cząsteczka
+molekulė - molekuła, cząsteczka
 molibdenas - molibden
 molis - glina
 moliūgas - dynia
@@ -3208,10 +3208,10 @@ mopsas - mops
 moralinis - moralny
 morka - marchew
 moša - szwagierka (siostra męża)
-motė - matka | żona
+motė - matka, żona
 moteris - kobieta
 moteriška giminė - rodzaj żeński
-moteriškas - żeński | kobiecy | damski
+moteriškas - żeński, kobiecy, damski
 motina - matka
 motininė - płyta główna
 motociklininkas - motocyklista
@@ -3238,10 +3238,10 @@ mylėti - kochać
 Myslibužas - Myślibórz
 myžti - szczać
 nacionalizmas - nacjonalizm
-nagas - paznokieć | pazur | szpon
+nagas - paznokieć, pazur, szpon
 Nairobis - Nairobi
 naktis - noc
-namas - dom (jako budynek) | dom
+namas - dom (jako budynek), dom
 Namibija - Namibia
 Namysluvas - Namysłów
 naras - nurek
@@ -3252,11 +3252,11 @@ narkomanas - narkoman
 narkomanija - narkomania
 našlė - wdowa
 natris - sód
-naudingas - pożyteczny | przydatny | użyteczny
+naudingas - pożyteczny, przydatny, użyteczny
 naudininkas - celownik
 naudotojas - użytkownik
 naujagimis - noworodek
-naujas - nowy | świeży | prekursorski
+naujas - nowy, świeży, prekursorski
 Naujasis Pietų Velsas - Nowa Południowa Walia
 naujiena - nowina
 Naujoji Gvinėja - Nowa Gwinea
@@ -3282,7 +3282,7 @@ Negyvoji jūra - Morze Martwe
 neišmanėlis - tępak
 neištikimas - niewierny
 nekantrus - niecierpliwy
-nekęsti - nienawidzić | nie znosić
+nekęsti - nienawidzić, nie znosić
 nekrologas - nekrolog
 nelaimėlis - nieudacznik
 nelegalus - nielegalny
@@ -3290,15 +3290,15 @@ nemirtingas - nieśmiertelny
 nemokamas - bezpłatny
 neodimis - neodym
 neonas - neon
-nepageidaujamas - niechciany | niepożądany
-nepaklusnus - niegrzeczny | nieposłuszny
+nepageidaujamas - niechciany, niepożądany
+nepaklusnus - niegrzeczny, nieposłuszny
 Nepalas - Nepal
 nepatogus - niewygodny
 nepažįstamasis - nieznajomy
 nepriklausomas - niezależny
 nepriklausomumas - niezależność
-nepriklausomybė - niepodległość | niezależność
-neprotingas - niemądry | nierozsądny
+nepriklausomybė - niepodległość, niezależność
+neprotingas - niemądry, nierozsądny
 Neptūnas - Neptun
 neptūnis - neptun
 nėra rožių be dyglių - nie ma róży bez kolców
@@ -3314,11 +3314,11 @@ nešikas - bagażowy
 nešnekus - małomówny
 nėštumas - ciąża
 nešulys - bagaż
-nesutarimas - niedomówienie | niezgodność
+nesutarimas - niedomówienie, niezgodność
 nešvarus - nieczysty
 ne šventieji puodus lipdo - nie święci garnki lepią
 netikras zuikis - fałszywy zając
-netvarka - bałagan | nieład | nieporządek
+netvarka - bałagan, nieład, nieporządek
 neutronas - neutron
 neutroninė žvaigždė - gwiazda neutronowa
 nevalyvas - niechlujny
@@ -3335,7 +3335,7 @@ Niu Braunsvikas - Nowy Brunszwik
 Niujorkas - Nowy Jork
 nobelis - nobel
 noragas - lemiesz
-noras - chęć | ochota | życzenie
+noras - chęć, ochota, życzenie
 norėti - chcieć
 norvegas - Norweg
 norvegė - Norweżka
@@ -3355,26 +3355,26 @@ nukristi kaip iš dangaus - spaść z nieba
 nulis - zero
 nuodai - trucizna
 nuodėmė - grzech
-nuogas - nagi | goły
+nuogas - nagi, goły
 nuogumas - nagość
 nuomonė - opinia
 nuosaka - tryb
 nuošalė - spalony
 nuosavybė - własność
 nuoseklus - konsekwentny
-nuoširdus - szczery | serdeczny
+nuoširdus - szczery, serdeczny
 nuostabus - cudowny
-nuostolis - strata | szkoda | niekorzyść
+nuostolis - strata, szkoda, niekorzyść
 nuotolis - odległość
-nuotrauka - fotografia | zdjęcie
+nuotrauka - fotografia, zdjęcie
 nuotykis - przygoda
 nusidėti - grzeszyć
 nusigerti - upić się
-nutarimas - postanowienie | uchwała
+nutarimas - postanowienie, uchwała
 Nužecas - Nurzec
-Nyderlandai - Holandia | Niderlandy
+Nyderlandai - Holandia, Niderlandy
 Nyderlandų Antilai - Antyle Holenderskie
-o - natomiast | o | och | ach
+o - natomiast, o, och, ach
 oazė - oaza
 obelis - jabłoń
 obeliskas - obelisk
@@ -3388,7 +3388,7 @@ Ochotsko jūra - Morze Ochockie
 oda - skóra
 Odinas - Odyn
 odininkas - garbarz
-oftalmologija - okulistyka | oftalmologia
+oftalmologija - okulistyka, oftalmologia
 okapija - okapi
 okarina - okaryna
 okeanas - ocean
@@ -3396,7 +3396,7 @@ Okeanija - Oceania
 oksidatorius - utleniacz
 okultizmas - okultyzm
 okupacija - okupacja
-ola - dziura | grota | jama | jaskinia | loch | nora | pieczara
+ola - dziura, grota, jama, jaskinia, loch, nora, pieczara
 Olandija - Holandia
 olandiškas - holenderski
 Olava - Oława
@@ -3420,10 +3420,10 @@ optimistiškas - optymistyczny
 oralinis - oralny
 oralinis seksas - seks oralny
 oranžinis - pomarańczowy (kolor)
-oras - powietrze | pogoda | pole | podwórko
+oras - powietrze, pogoda, pole, podwórko
 orchidėja - orchidea
 oregano - oregano
-organas - narząd | organ
+organas - narząd, organ
 organizacija - organizacja
 orgazmas - orgazm
 orgija - orgia
@@ -3436,13 +3436,13 @@ Ostrolenka - Ostrołęka
 Osvencimas - Oświęcim
 Otvockas - Otwock
 ovalus - owalny
-ovuliacija - owulacja | jajeczkowanie
-Ožiaragis - Koziorożec | Koziorożec - nazwa Znaku Zodiaku
+ovuliacija - owulacja, jajeczkowanie
+Ožiaragis - Koziorożec, Koziorożec - nazwa Znaku Zodiaku
 ožka - koza
 ožys - koza
 paantraštė - podtytuł
 paauglys - nastolatek
-pabaiga - kres | ukończenie
+pabaiga - kres, ukończenie
 pabaigtuvės - ceremonia pożegnalna
 pabaisa - potwór
 Pabaltijys - kraje bałtyckie
@@ -3451,14 +3451,14 @@ padaryti neaktualų - zdezaktualizować
 padavėjas - kelner
 padirbinys - podróbka
 Padniestrė - Naddniestrze
-pagal - według | wedle | zgodnie z
+pagal - według, wedle, zgodnie z
 pagalba - pomoc
 pagalbininkas - pomocnik
 pagalvė - poduszka
-pagarba - szacunek | respekt | poszanowanie | poważanie | uszanowanie
+pagarba - szacunek, respekt, poszanowanie, poważanie, uszanowanie
 pagauti - złapać
 pagrindinė mokykla - szkoła podstawowa (II etap)
-pagrindinis - podstawowy | zasadniczy
+pagrindinis - podstawowy, zasadniczy
 pagrobėjas - porywacz
 pakalnutė - konwalia
 pakarti - powiesić
@@ -3472,8 +3472,8 @@ Palestina - Palestyna
 palestinietė - Palestynka
 palestinietis - Palestyńczyk
 palestiniškas - palestyński
-palios - bagno | grzęzawisko
-palydovas - towarzysz | konduktor | satelita
+palios - bagno, grzęzawisko
+palydovas - towarzysz, konduktor, satelita
 pamiršti - zapomnieć
 pamoka - lekcja
 pamotė - macocha
@@ -3481,12 +3481,12 @@ panacėja - panaceum
 panaikinti - anulować
 pandemija - pandemia
 Pandora - Pandora
-panelė - panna | panienka
+panelė - panna, panienka
 panteizmas - panteizm
 papartis - paproć
 paplūdimys - plaża
-paprastai - po prostu | zwyczajnie
-paprastas - łatwy | prosty | zwykły
+paprastai - po prostu, zwyczajnie
+paprastas - łatwy, prosty, zwykły
 Papua Naujoji Gvinėja - Papua-Nowa Gwinea
 papūga - papuga
 papuošalai - biżuteria
@@ -3498,7 +3498,7 @@ parašiutininkas - spadochroniarz
 pardavėjas - sprzedawca
 parduoti - sprzedawać
 parduotuvė - sklep
-pareiga - obowiązek | powinność
+pareiga - obowiązek, powinność
 pareiti - wrócić
 parkas - park
 partija - partia
@@ -3506,7 +3506,7 @@ Paryžius - Paryż
 pasaka - bajka
 pasakėčia - bajka
 pasakininkas - bajarz
-pasakiškas - bajkowy | bajeczny
+pasakiškas - bajkowy, bajeczny
 pasas - paszport
 pasaulis - świat
 pasikarti - powiesić się
@@ -3516,24 +3516,24 @@ paskirstymas - alokacja
 paskirstyti - alokować
 paslaptingas - tajemniczy
 paslaptis - tajemnica
-paštas - poczta (instytucja) | poczta (korespondencja)
-pastatas - budynek | gmach
-pastatyti - ustawić | wybudować
+paštas - poczta (instytucja), poczta (korespondencja)
+pastatas - budynek, gmach
+pastatyti - ustawić, wybudować
 pasvajoti - pomarzyć
 patalpa - pomieszczenie
-patarlė - przysłowie | powiedzenie | powiedzonko
+patarlė - przysłowie, powiedzenie, powiedzonko
 patėvis - ojczym
 pati - żona
 patiekalas - danie
 patiekalų knyga - książka kucharska
 patikti - podobać się
-patranka - armata | działo
-patrauklus - atrakcyjny | pociągający
+patranka - armata, działo
+patrauklus - atrakcyjny, pociągający
 pats - mąż
-Paukščių Takas - Droga Mleczna | ścieżka ptaków
+Paukščių Takas - Droga Mleczna, ścieżka ptaków
 paukštis - ptak
 Paulius - Paweł
-pavakarys - wieczór | czas wieczorny
+pavakarys - wieczór, czas wieczorny
 pavardė - nazwisko
 pavasaris - wiosna
 pavasariškas - wiosenny
@@ -3543,7 +3543,7 @@ pavietas - powiat
 pavojingas - niebezpieczny
 pavojus - niebezpieczeństwo
 pavydėti - zazdrościć
-pavyzdys - przykład | wzór | wzorzec
+pavyzdys - przykład, wzór, wzorzec
 pažastis - pacha
 pažįstamas - znajomy
 pėda - stopa
@@ -3565,9 +3565,9 @@ pelkinis - bagienny
 penalas - piórnik
 penketas - piątka
 penki - pięć
-penkiasdešimt - pięćdziesiąt | 50
+penkiasdešimt - pięćdziesiąt, 50
 penkiasdešimtas - pięćdziesiąty
-penkiolika - piętnaście | 15
+penkiolika - piętnaście, 15
 penkioliktas - piętnasty
 penktadienis - piątek
 penktas - piąty
@@ -3580,12 +3580,12 @@ persikas - brzoskwinia
 personalas - personel
 persti - pierdzieć
 Peru - Peru
-pervedimas - przelew | przekaz
+pervedimas - przelew, przekaz
 pesimistas - pesymista
 pesimistiškas - pesymistyczny
 peteliškė - motyl
 Petrakavas - Piotrków Trybunalski
-petys - ramię | bark
+petys - ramię, bark
 pianinas - pianino
 pianistas - pianista
 piemuo - pasterz
@@ -3600,7 +3600,7 @@ Pietų Amerika - Ameryka Południowa
 Pietų Kinijos jūra - Morze Południowochińskie
 Pietų Korėja - Korea Południowa
 Pietų Osetija - Osetia Południowa
-pietūs - południe | południe (pora dnia)
+pietūs - południe, południe (pora dnia)
 pigiai - tanio
 pigti - tanieć
 pigus - tani
@@ -3612,7 +3612,7 @@ pilietis - obywatel
 pilietybė - obywatelstwo
 pilis - zamek
 pilkas - szary
-pilnas - pełny | pełen | dostatni
+pilnas - pełny, pełen, dostatni
 pilnatis - pełnia
 pilotas - pilot
 pilvas - brzuch
@@ -3625,7 +3625,7 @@ pirmadienis - poniedziałek
 pirmas - pierwszy
 pirmenybės - mistrzostwo
 pirštas - palec
-pirštinė - rękawica | rękawiczka
+pirštinė - rękawica, rękawiczka
 pistoletas - pistolet
 Pitsburgas - Pittsburgh (stolica Allegheny)
 pjūklas - piła
@@ -3636,12 +3636,12 @@ planas - plan
 planeta - planeta
 plaštaka - dłoń
 platina - platyna
-platus - szeroki | rozległy | obszerny
+platus - szeroki, rozległy, obszerny
 plaukas - włos
 plaukikas - pływak
 plaukimas - pływanie
 plaukti - pływać
-plauti - myć | zmywać
+plauti - myć, zmywać
 pleneras - plener
 plentas - szosa
 pliaukšti - bajdurzyć
@@ -3653,11 +3653,11 @@ plokščias - płaski
 plonas - cienki
 Plonskas - Płońsk
 Ploska - Płoska
-plotas - obszar | powierzchnia
+plotas - obszar, powierzchnia
 plūgas - pług
 plunksna - pióro
 plūsti - bluzgać
-pluta - skórka | skorupa
+pluta - skórka, skorupa
 Plutonas - Pluton
 plutonis - pluton
 plyta - cegła
@@ -3697,10 +3697,10 @@ portugalas - Portugalczyk
 portugalė - Portugalka
 Portugalija - Portugalia
 portugališkas - portugalski
-portugalų - portugalski (język) | Portugalczyków | portugalski | portugalas
-poryt - pojutrze | za dwa dni
+portugalų - portugalski (język), Portugalczyków, portugalski, portugalas
+poryt - pojutrze, za dwa dni
 posūnis - pasierb
-potvynis - przypływ | powódź
+potvynis - przypływ, powódź
 povas - paw
 Poznanė - Poznań
 pradinė mokykla - szkoła podstawowa (I etap)
@@ -3711,7 +3711,7 @@ pragmatikas - pragmatyk
 pragula - odleżyna
 Praha - Praga
 prakaitas - pot
-prakalba - przemowa | mowa | przemówienie | przedmowa | wstęp
+prakalba - przemowa, mowa, przemówienie, przedmowa, wstęp
 prakeiksmas - przekleństwo
 pramogauti - bawić się
 pramonė - przemysł
@@ -3725,7 +3725,7 @@ Prancūzijos Polinezija - Polinezja Francuska
 Prancūzijos Respublika - Republika Francuska
 prancūziškas - francuski
 Prancūzų Gviana - Gujana Francuska
-prasmė - sens | znaczenie
+prasmė - sens, znaczenie
 prašyti - prosić
 pravoslavas - prawosławny
 pražanga - faul
@@ -3733,9 +3733,9 @@ prazeodimis - prazeodym
 prelatas - prałat
 premjera - premiera
 prezervatyvas - prezerwatywa
-prezidentas - prezydent | prezes
+prezidentas - prezydent, prezes
 priebalsis - spółgłoska
-prieblanda - zmierzch (pora dnia) | półmrok
+prieblanda - zmierzch (pora dnia), półmrok
 priedas - aneks
 prieiti - dojść
 priekalas - kowadło
@@ -3744,10 +3744,10 @@ prieš - przed
 priešas - wróg
 priešininkas - przeciwnik
 priešpiečiai - przedpołudnie
-prietaras - przesąd | zabobon
+prietaras - przesąd, zabobon
 prieveiksmis - przysłówek
-priežastis - powód | przyczyna
-priklausyti - należeć | zależeć
+priežastis - powód, przyczyna
+priklausyti - należeć, zależeć
 primatas - prymat
 Pripetė - Prypeć
 prispaudėjas - gnębiciel
@@ -3763,7 +3763,7 @@ prometis - promet
 propeleris - śmigło
 proporcingas - proporcjonalny
 prosenė - prababcia
-prosenelė - prababcia | prababka
+prosenelė - prababcia, prababka
 prosenis - pradziad
 prostitucija - prostytucja
 prostitutė - prostytutka
@@ -3781,7 +3781,7 @@ pudelis - pudel
 pudra - puder
 pudrinė - puderniczka
 Puerto Rikas - Portoryko
-pūga - zamieć | śnieżyca
+pūga - zamieć, śnieżyca
 puodas - garnek
 puodelis - filiżanka
 puodžius - garncarz
@@ -3798,7 +3798,7 @@ pusiaunaktis - północ (pora dnia/nocy)
 pusiausvyra - równowaga
 pušis - sosna
 puslaidininkis - półprzewodnik
-puslapis - stronica | strona
+puslapis - stronica, strona
 pusryčiai - śniadanie
 pusseserė - kuzynka
 pūsti - dąć
@@ -3806,9 +3806,9 @@ puta - piana
 putpelė - przepiórka
 pyktis - złość
 pyplys - beksa
-pyzda - pizda | cipa | cipka
+pyzda - pizda, cipa, cipka
 Pžedzielna - Przedzielna
-rabarbaras - rabarbar | rzewień
+rabarbaras - rabarbar, rzewień
 Rabatas - Rabat
 rabinas - rabin
 Racibužas - Racibórz
@@ -3826,8 +3826,8 @@ raganosis - nosorożec
 ragas - róg
 raidė - litera
 raidinis - literowy
-raidynas - alfabet | abecadło
-raistas - bagno | bagnisko
+raidynas - alfabet, abecadło
+raistas - bagno, bagnisko
 raistinis - bagienny
 raketa - rakieta
 raktas - klucz
@@ -3837,7 +3837,7 @@ ramybė - spokój
 randas - blizna
 ranka - ręka
 rankelė - rączka
-rankinis - ręczny | piłka ręczna
+rankinis - ręczny, piłka ręczna
 rankinukas - torebka
 rankovė - rękaw
 rasa - rosa
@@ -3867,10 +3867,10 @@ recenzija - recenzja
 redaktorius - redaktor
 referendumas - referendum
 regbis - rugby
-reikalauti - żądać | wymagać | domagać się | dopominać się
-reikalavimas - żądanie | wymóg | wymaganie | roszczenie
+reikalauti - żądać, wymagać, domagać się, dopominać się
+reikalavimas - żądanie, wymóg, wymaganie, roszczenie
 reikalingas - potrzebny
-reikėti - potrzeba | trzeba
+reikėti - potrzeba, trzeba
 Reikjavikas - Reykjavík
 reikšmė - znaczenie
 Reinas - Ren
@@ -3889,7 +3889,7 @@ rentgenis - roentgen
 reportažas - reportaż
 reputacija - reputacja
 respublika - republika
-restauracija - restauracja | odnowienie
+restauracija - restauracja, odnowienie
 restoranas - restauracja
 retai - rzadko
 retsina - retsina
@@ -3906,26 +3906,26 @@ Riazanė - Riazań
 Ričardas - Ryszard
 riebus - tłusty
 Rijadas - Rijad
-riktas - błąd | pomyłka
+riktas - błąd, pomyłka
 rimbas - bat
 rimtai - poważnie
-rimtas - poważny | solidny | statyczny
+rimtas - poważny, solidny, statyczny
 rinka - rynek
-rinkėjas - wyborca | zbieracz
+rinkėjas - wyborca, zbieracz
 rinkimai - wybory
 ritualas - rytuał
 rizikuoti - ryzykować
 robotas - robot
 rodis - rod
 rodonitas - rodonit
-rodyti - pokazywać | wskazywać | okazywać
+rodyti - pokazywać, wskazywać, okazywać
 rojus - raj
 Roma - Rzym
-romanas - powieść | romans
+romanas - powieść, romans
 romantiškas - romantyczny
 romanų - romański
 Rona - Rodan
-roplys - gad | (Reptilia) | złośliwie/pogardliwie o człowieku
+roplys - gad, (Reptilia), złośliwie/pogardliwie o człowieku
 rotveileris - rottweiler
 rožančius - różaniec
 rožė - róża
@@ -3948,7 +3948,7 @@ rumunas - Rumun
 rumunė - Rumunka
 Rumunija - Rumunia
 rumuniškas - rumuński
-rungtynės - zawody | mecz
+rungtynės - zawody, mecz
 ruonis - foka
 rūpestingas - dbały
 rūpestingumas - dbałość
@@ -3963,11 +3963,11 @@ Rusijos Federacija - Federacja Rosyjska
 rusiškas - rosyjski
 rusiškumas - rosyjskość
 rūstauti - gniewać się
-rūsys - piwnica (pomieszczenie) | przechowalnia | loch | krypta | podziemie
+rūsys - piwnica (pomieszczenie), przechowalnia, loch, krypta, podziemie
 rutenis - ruten
 Rybnikas - Rybnik
 Ryga - Ryga
-ryklė - gardło | gardziel
+ryklė - gardło, gardziel
 ryklys - rekin
 ryšulys - bagaż
 rytai - wschód
@@ -3981,14 +3981,14 @@ Sachara - Sahara
 šachmatai - szachy
 šachmatininkas - szachista
 saga - guzik
-šaika - szajka | gang
+šaika - szajka, gang
 šaka - gałąź
 šakalas - szakal
 sakinys - zdanie
-šaknis - korzeń | rdzeń | pierwiastek
+šaknis - korzeń, rdzeń, pierwiastek
 saksofonas - saksofon
 šakutė - widelec
-sakyti - mówić | powiedzieć
+sakyti - mówić, powiedzieć
 sala - wyspa
 salamandra - salamandra
 saldus - słodki
@@ -3998,7 +3998,7 @@ Saliamono salos - Wyspy Salomona
 salieras - seler
 šalininkas - zwolennik
 šalis - kraj
-šalmas - kask | hełm
+šalmas - kask, hełm
 salonas - salon
 salota - sałata
 šaltas - zimny
@@ -4010,7 +4010,7 @@ salynas - archipelag
 samanė - samogon
 samaris - samar
 Sana - Sana
-sąnarys - staw | przegub
+sąnarys - staw, przegub
 Sandomieras - Sandomierz
 sankryža - skrzyżowanie
 San Marinas - San Marino
@@ -4018,15 +4018,15 @@ Sanokas - Sanok
 sanskritas - sanskryt
 santechnikas - hydraulik
 San Tomė ir Prinsipė - Wyspy Świętego Tomasza i Książęca
-santrauka - podsumowanie | streszczenie
+santrauka - podsumowanie, streszczenie
 santrumpa - skrót
 santuoka - małżeństwo
-sapnas - sen | marzenie
-sapnuoti - śnić | marzyć
+sapnas - sen, marzenie
+sapnuoti - śnić, marzyć
 Sarajevas - Sarajewo
 Sardinija - Sardynia
-sargyba - straż | warta
-sargybinis - strażnik | wartownik
+sargyba - straż, warta
+sargybinis - strażnik, wartownik
 šarka - sroka
 šarma - szadź
 šarvas - zbroja
@@ -4043,9 +4043,9 @@ saulė - słońce
 Saulė - Słońce
 saulėlydis - zachód słońca
 saulėtekis - wschód słońca
-Šaulys - Strzelec | Strzelec - nazwa jednego ze znaków zodiaku
+Šaulys - Strzelec, Strzelec - nazwa jednego ze znaków zodiaku
 sauna - sauna
-sausas - suchy | wytrawny
+sausas - suchy, wytrawny
 sausgyslė - ścięgno
 sausis - styczeń
 sausra - susza
@@ -4055,11 +4055,11 @@ savaitraštis - tygodnik
 savanoris - wolontariusz
 savas - jego
 sąveika - interakcja
-savininkas - właściciel | posiadacz
-savivalda - autonomia | samokontrola | samorządność | samorządowość | samorząd
+savininkas - właściciel, posiadacz
+savivalda - autonomia, samokontrola, samorządność, samorządowość, samorząd
 savotiškumas - osobliwość
-savybė - cecha | właściwość
-sąžiningumas - rzetelność | sumienność
+savybė - cecha, właściwość
+sąžiningumas - rzetelność, sumienność
 Ščeberka - Szczeberka
 scenarijus - scenariusz
 sėdėti - siedzieć
@@ -4068,15 +4068,15 @@ sėdėti - siedzieć
 Seišeliai - Seszele
 seismografas - sejsmograf
 seismologija - sejsmologia
-sėkla - nasiono | nasienie
+sėkla - nasiono, nasienie
 sėklidė - jądro
 sekmadieninis - niedzielny
 sekmadienis - niedziela
 sėkmė - pomyślność
-Sekminės - Zesłanie Ducha Świętego | Zielone Świątki | Pięćdziesiątnica
+Sekminės - Zesłanie Ducha Świętego, Zielone Świątki, Pięćdziesiątnica
 seksas - seks
 seksualumas - seksualność
-sekti - śledzić | opowiadać
+sekti - śledzić, opowiadać
 sekundė - sekunda
 selenas - selen
 Šelmenta - Szelmentka
@@ -4089,8 +4089,8 @@ Senegalas - Senegal
 senelė - babcia
 senelis - dziadek
 seniai - dawno
-senis - starzec | staruszek
-senmotė - prababcia | prababka
+senis - starzec, staruszek
+senmotė - prababcia, prababka
 senovinis - dawny
 Sen Pjeras ir Mikelonas - Saint-Pierre i Miquelon
 sentėvis - pradziad
@@ -4104,7 +4104,7 @@ septynetas - siódemka
 septyni - siedem
 septyniasdešimt - siedemdziesiąt
 septyniasdešimtas - siedemdziesiąty
-septyniolika - siedemnaście | 17
+septyniolika - siedemnaście, 17
 septynioliktas - siedemnaście
 Seradzas - Sieradz
 serbas - Serb
@@ -4124,21 +4124,21 @@ serveris - serwer
 šešėlis - cień
 šešetas - szóstka
 šeši - sześć
-šešiasdešimt - siedemdziesiąt | 70
+šešiasdešimt - siedemdziesiąt, 70
 šešiasdešimtas - siedemdziesiąty
-šešiolika - szesnaście | 16
+šešiolika - szesnaście, 16
 šešioliktas - szesnasty
 šeškas - tchórz
 šeštadieninis - sobotni
 šeštadienis - sobota
 šeštas - szósty
-sėsti - siąść | siadać
+sėsti - siąść, siadać
 sesuo - siostra
 Šešupė - Szeszupa
 Seulas - Seul
 Sevilija - Sewilla
 sezonas - sezon
-šiandien - dziś | dzisiaj
+šiandien - dziś, dzisiaj
 šiandieninis - dzisiejszy
 siauras - wąski
 šiaurė - północ
@@ -4155,7 +4155,7 @@ siekiamybė - dążenie
 siekimas - dążenie
 siekis - dążność
 siela - dusza
-siena - ściana | mur
+siena - ściana, mur
 šienas - siano
 siera - siarka
 Siera Leonė - Sierra Leone
@@ -4176,17 +4176,17 @@ silpnas - słaby
 šiltas - ciepły
 šiluma - ciepło
 simetriškas - symetryczny
-simpatiškas - sympatyczny | ładny | atrakcyjny
-šimtas - sto | setny
+simpatiškas - sympatyczny, ładny, atrakcyjny
+šimtas - sto, setny
 šimtmetis - stulecie
 sinagoga - synagoga
 Singapūras - Singapur
 sinonimas - synonim
-sintaksė - składnia | syntaktyka
+sintaksė - składnia, syntaktyka
 širdelė - serduszko
 širdingas - serdeczny
 širdis - serce
-sirgalius - ktoś ciągle chory | kibic
+sirgalius - ktoś ciągle chory, kibic
 sirgti - chorować
 Sirija - Syria
 širšė - szerszeń
@@ -4194,7 +4194,7 @@ Sirija - Syria
 sistema - system
 sistematinis - systematyczny
 situacija - sytuacja
-siūlas - nić | nitka
+siūlas - nić, nitka
 siurrealistas - surrealista
 siūti - szyć
 siuvėjas - krawiec
@@ -4213,24 +4213,24 @@ skalbėja - praczka
 skalbimo mašina - pralka
 skalbyklė - pralka
 skalikas - pies myśliwski
-skambinti - telefonować | dzwonić
+skambinti - telefonować, dzwonić
 skanaus - smacznego
 skandis - skand
 skanduoti - skandować
 skara - chusta
 skausmas - ból
-skelbėjas - głosiciel | kaznodzieja
+skelbėjas - głosiciel, kaznodzieja
 skeptikas - sceptyk
 skeptras - berło
 skersvėjis - przeciąg
 skėrys - szarańcza
-skiemuo - sylaba | zgłoska
+skiemuo - sylaba, zgłoska
 skiepyti - szczepić
 skirstyti - alokować
 skirti - oddzielić
 skirtumas - różnica
 skolintis - pożyczać
-skonis - smak | gust
+skonis - smak, gust
 skorpionas - skorpion
 Skorpionas - Skorpion
 škotas - Szkot
@@ -4240,7 +4240,7 @@ Skorpionas - Skorpion
 skrandis - żołądek
 skriauda - krzywda
 skriestuvas - cyrkiel
-skristi - latać | lecieć
+skristi - latać, lecieć
 skruostas - policzek
 skruzdė - mrówka
 skruzdėlė - mrówka
@@ -4251,15 +4251,15 @@ skulptorius - rzeźbiarz
 skulptūra - rzeźba
 skumbrė - makrela
 skundas - pozew
-skurdas - bieda | nędza | ubóstwo
-skurdeiva - nędzarz | biedak | nędzarka | biedaczka
-skurdinti - ubożyć | doprowadzać do nędzy
-skurdus - biedny | nędzny | marny | żałosny
-skurdžius - biedak | nędzarz | żebrak
-skųstis - skarżyć się | żalić się | narzekać | uskarżać się
+skurdas - bieda, nędza, ubóstwo
+skurdeiva - nędzarz, biedak, nędzarka, biedaczka
+skurdinti - ubożyć, doprowadzać do nędzy
+skurdus - biedny, nędzny, marny, żałosny
+skurdžius - biedak, nędzarz, żebrak
+skųstis - skarżyć się, żalić się, narzekać, uskarżać się
 skveras - skwer
 skylė - dziura
-skystis - ciecz | płyn
+skystis - ciecz, płyn
 šlakas - cętka
 Šlamica - Szlamica
 šlapias - mokry
@@ -4273,7 +4273,7 @@ slavas - Słowianin
 slavė - Słowianka
 slėgis - ciśnienie
 slėnis - dolina
-slėpti - chować | ukrywać
+slėpti - chować, ukrywać
 slibinas - smok
 slidininkas - narciarz
 Šlina - Ślina
@@ -4281,23 +4281,23 @@ slovakas - Słowak
 slovakė - Słowaczka
 Slovakija - Słowacja
 slovakiškas - słowacki
-šlovė - sława | honor
+šlovė - sława, honor
 slovėnas - Słoweniec
 slovėnė - Słowenka
 Slovėnija - Słowenia
 slovėniškas - słoweński
 Slupskas - Słupsk
 slyva - śliwa
-smakras - podbródek | bródka
+smakras - podbródek, bródka
 smegenys - mózg
-šmėkla - duch | upiór | zjawa
+šmėkla - duch, upiór, zjawa
 smėlinis - beżowy
 smėlis - piasek
 smilius - palec wskazujący
 smuikas - skrzypce
 smuikininkas - skrzypek
 smulkmena - szczegół
-snaigė - śnieżynka | płatek śniegu
+snaigė - śnieżynka, płatek śniegu
 snapas - dziób
 sniegas - śnieg
 šnipas - szpieg
@@ -4307,50 +4307,50 @@ socialistas - socjalista
 socializmas - socjalizm
 sociologija - socjologia
 soda - soda
-sodas - ogród | sad
+sodas - ogród, sad
 sodinys - sadzonka
-sodžius - wieś | wioska
+sodžius - wieś, wioska
 Sofija - Sofia
 šokis - taniec
 šokoladas - czekolada
 Sokratas - Sokrates
-šokti - skakać | tańczyć
+šokti - skakać, tańczyć
 Solonas - Solon
 Somalis - Somalia
 Sopotas - Sopot
 Sosnovecas - Sosnowiec
 sostinė - stolica
-šovinys - nabój | pocisk
+šovinys - nabój, pocisk
 spalis - październik
-spalva - kolor | barwa
+spalva - kolor, barwa
 šparagas - szparag
 sparnas - skrzydło
-sparnuotas - skrzydlaty | uskrzydlony
+sparnuotas - skrzydlaty, uskrzydlony
 sparva - bąk
 spausdintuvas - drukarka
-specialistas - fachowiec | specjalista
-sperma - sperma | nasienie
-spidometras - prędkościomierz | szybkościomierz
+specialistas - fachowiec, specjalista
+sperma - sperma, nasienie
+spidometras - prędkościomierz, szybkościomierz
 spinta - szafa
 spintelė - szafka
 sportas - sport
 sprandas - kark
 sprandinė - karkówka
-spūstis - ścisk | tłok | tłum
+spūstis - ścisk, tłok, tłum
 spyglys - igła drzew iglastych
 spyruoklė - sprężyna
 sraigė - ślimak
-sraigtasparnis - helikopter | śmigłowiec
-srautas - przepływ | ruch | strumień
+sraigtasparnis - helikopter, śmigłowiec
+srautas - przepływ, ruch, strumień
 Šri Lanka - Sri Lanka
-sritis - region | obwód | dziedzina
+sritis - region, obwód, dziedzina
 sriuba - zupa
-srovė - prąd | nurt
+srovė - prąd, nurt
 stabdys - hamulec
 stabligė - tężec
 stačiakampis - prostokątny
 stadionas - stadion
-staiga - nagle | znienacka | raptem
+staiga - nagle, znienacka, raptem
 stalas - stół
 stalius - stolarz
 staltiesė - cerata
@@ -4360,7 +4360,7 @@ starkis - sandacz
 startsakalis - drzemlik
 statinė - beczka
 statistika - statystyka
-statyba - budownictwo | budowa
+statyba - budownictwo, budowa
 statybinis - budowlany
 statyti - budować
 stebėti - obserwować
@@ -4370,19 +4370,19 @@ stebuklingas - cudowny
 stemplė - przełyk
 sterkas - sandacz
 stibis - antymon
-stiebas - łodyga | maszt
-stiklas - szkło | szyba
+stiebas - łodyga, maszt
+stiklas - szkło, szyba
 stiklinė - szklanka
 stipendija - stypendium
 stipendininkas - stypendysta
-stiprus - mocny | silny
-stiprybė - moc | siła
+stiprus - mocny, silny
+stiprybė - moc, siła
 stirna - sarna
 stogas - dach
 stoginis - dachowy
 Stokholmas - Sztokholm
 storas - gruby
-stotis - stacja | dworzec
+stotis - stacja, dworzec
 stovėti - stać
 strategija - strategia
 strazdanotas - piegowaty
@@ -4406,20 +4406,20 @@ Sudanas - Sudan
 šūdas - gówno
 sudedamoji lova - łóżko polowe
 Sudetai - Sudety
-sudėtingumas - zawiłość | złożoność
+sudėtingumas - zawiłość, złożoność
 sueiti - zejść się
-šūkis - hasło | slogan | okrzyk | apel
-suknelė - suknia | sukienka
+šūkis - hasło, slogan, okrzyk, apel
+suknelė - suknia, sukienka
 šukos - grzebień
 Sulechuvas - Sulechów
-suma - suma | kwota
+suma - suma, kwota
 sumanytojas - pomysłodawca
 sumokėti - zapłacić
-sunaikinti - wytępić | unicestwić
-sūnėnas - bratanek | siostrzeniec
+sunaikinti - wytępić, unicestwić
+sūnėnas - bratanek, siostrzeniec
 sunerimti - zaniepokoić się
-sunkus - ciężki | trudny
-sunkvežimis - ciężarówka | samochód ciężarowy
+sunkus - ciężki, trudny
+sunkvežimis - ciężarówka, samochód ciężarowy
 sūnus - syn
 šunvotė - czyrak
 šuo - pies
@@ -4450,10 +4450,10 @@ svainis - szwagier
 svajonė - marzenie
 svajotojas - marzyciel
 Svalbardas - Svalbard
-švankus - uprzejmy | przyzwoity
-svarbus - ważny | istotny
+švankus - uprzejmy, przyzwoity
+svarbus - ważny, istotny
 svarstybos - debata
-Svarstyklės - Waga | Waga - nazwa jednego ze znaków zodiaku
+Svarstyklės - Waga, Waga - nazwa jednego ze znaków zodiaku
 švarus - czysty
 Svazilandas - Suazi
 Svebodzinas - Świebodzin
@@ -4468,7 +4468,7 @@ svečias - gość
 Šveicarija - Szwajcaria
 sveikas - zdrowy
 sveikata - zdrowie
-sveiki - cześć | czołem | witaj | witam
+sveiki - cześć, czołem, witaj, witam
 sveikti - zdrowieć
 šventas - święty
 šventovė - świątynia
@@ -4482,7 +4482,7 @@ sviestas - masło
 svilikas - grubodziób
 švilpikas - świstak
 švilpukas - gwizdek
-švinas - ołów | kula (ołowiana)
+švinas - ołów, kula (ołowiana)
 svirplys - świerszcz
 svogūnas - cebula
 svoris - waga
@@ -4492,19 +4492,19 @@ syborgis - seaborg
 tabakas - tytoń
 tabletė - tabletka
 taburetė - taboret
-tachikardija - tachykardia | częstoskurcz
-tad - tak więc | zatem
+tachikardija - tachykardia, częstoskurcz
+tad - tak więc, zatem
 Tadas - Tadeusz
 Tadžikija - Tadżykistan
 taika - pokój
-taiklus - celny | trafny
+taiklus - celny, trafny
 Tailandas - Tajlandia
 taip - tak
-taisyklė - reguła | prawidło
+taisyklė - reguła, prawidło
 taisyklingas - regularny
 taisytuvė - debugger
 Taivanas - Tajwan
-takas - ścieżka | dróżka
+takas - ścieżka, dróżka
 taksi - taksówka
 taksistas - taksówkarz
 talentas - talent
@@ -4513,7 +4513,7 @@ talis - tal
 tamsa - ciemność
 tamsiai mėlynas - granatowy
 tamsus - ciemny
-tankas - czołg | tank
+tankas - czołg, tank
 tantalas - tantal
 Tanzanija - Tanzania
 tapyba - malarstwo
@@ -4521,28 +4521,28 @@ tapyti - malować
 tapytojas - malarz
 tarakonas - karaluch
 tarakonynas - lęgowisko karaluchów
-tardymas - śledztwo | dochodzenie
+tardymas - śledztwo, dochodzenie
 tardymo izoliatorius - areszt śledczy
 tarimas - wymowa
 tarnautojas - pracownik
 Tarnobžegas - Tarnobrzeg
 Tarnuvas - Tarnów
-tarp - między | pomiędzy | pośród | wśród
+tarp - między, pomiędzy, pośród, wśród
 tarptautinis - międzynarodowy
 Tarptautinis valiutos fondas - Międzynarodowy Fundusz Walutowy
 tarpvietė - krocze
 Tarybų Sąjunga - Związek Radziecki
 Tarybų Socialistinių Respublikų Sąjunga - Związek Socjalistycznych Republik Radzieckich
 tašas - belka
-taškas - kropka | punkt
+taškas - kropka, punkt
 Taškentas - Taszkent
 Tasmanija - Tasmania
 Tatrai - Tatry
 tatuiruotė - tatuaż
 taupyti - oszczędzać
-Tauras - Byk | (symbol ♉)
-tauta - naród | lud
-tautininkas - nacjonalista | narodowiec
+Tauras - Byk, (symbol ♉)
+tauta - naród, lud
+tautininkas - nacjonalista, narodowiec
 tautinis - narodowy
 tautybė - narodowość
 tavo - twój
@@ -4556,7 +4556,7 @@ teisė - prawo
 teisėjas - sędzia
 teisininkas - prawnik
 teismas - sąd
-tekėti - płynąć | wschodzić | wyjść za mąż
+tekėti - płynąć, wschodzić, wyjść za mąż
 tekintojas - tokarz
 tekstas - tekst
 telefonas - telefon
@@ -4591,12 +4591,12 @@ tikėtinumas - wiarygodność
 tikėtis - mieć nadzieję
 Tikocinas - Tykocin
 tikslas - cel
-tikslus - dokładny | bezbłędny
+tikslus - dokładny, bezbłędny
 tiltas - most
 tinginys - leń
 tingus - leniwy
 tinkas - tynk
-tinklas - sieć | niewód
+tinklas - sieć, niewód
 tinkuotojas - tynkarz
 Tirana - Tirana
 Tirėnų jūra - Morze Tyrreńskie
@@ -4606,7 +4606,7 @@ tirpumas - rozpuszczalność
 Tisa - Cisa
 titanas - tytan
 titnagas - krzemień
-titulas - tytuł | godność
+titulas - tytuł, godność
 Točna - Toczna
 Togas - Togo
 Tokijas - Tokio
@@ -4618,7 +4618,7 @@ toli - daleko
 toliaregis - dalekowzroczny
 toliaregiškas - dalekowzroczny
 toliaregiškumas - dalekowzroczność
-toliaregystė - nadwzroczność | dalekowzroczność
+toliaregystė - nadwzroczność, dalekowzroczność
 toliau - dalej
 tolimas - daleki
 Tolimieji Rytai - Daleki Wschód
@@ -4641,13 +4641,13 @@ tracheotomija - tracheotomia
 tradicija - tradycja
 traktorius - traktor
 tramvajus - tramwaj
-Transilvanija - Siedmiogród | Transylwania
+Transilvanija - Siedmiogród, Transylwania
 trapecija - trapez
-traškesys - trzask | chrupot
-traškėti - trzaskać | trzeszczeć
-traškus - trzaskający | chrupki | chrupiący
+traškesys - trzask, chrupot
+traškėti - trzaskać, trzeszczeć
+traškus - trzaskający, chrupki, chrupiący
 traukinys - pociąg
-traumatologija - traumatologia | chirurgia urazowa
+traumatologija - traumatologia, chirurgia urazowa
 trečiadienis - środa
 trečias - trzeci
 trejetas - trójka
@@ -4660,7 +4660,7 @@ trimitas - trąbka
 Trinidadas ir Tobagas - Trynidad i Tobago
 trisdešimt - trzydzieści
 trisdešimtas - trzydziesty
-trisdešimtmetis - trzydziestolatek | trzydziestolecie
+trisdešimtmetis - trzydziestolatek, trzydziestolecie
 trispalvis - trójkolorowy
 triukšmingas - hałaśliwy
 triušis - królik
@@ -4668,23 +4668,23 @@ trombonas - puzon
 trombozė - tromboza
 trotilas - trotyl
 trumpas - krótki
-trylika - trzynaście | 13
+trylika - trzynaście, 13
 tryliktas - trzynasty
-trys - trzy | 3
+trys - trzy, 3
 Tšebiatuvas - Trzebiatów
-TSRS - Związek Socjalistycznych Republik Radzieckich | ZSRR
+TSRS - Związek Socjalistycznych Republik Radzieckich, ZSRR
 tu - ty
 tūkstantas - tysięczny
-tūkstantis - tysiąc | 1000
-tūkstantmetis - tysiąclecie | millenium | tysiąc lat | tysiącletni
+tūkstantis - tysiąc, 1000
+tūkstantmetis - tysiąclecie, millenium, tysiąc lat, tysiącletni
 tulis - tul
 tulpė - tulipan
 tunelis - tunel
-Tunisas - Tunezja | Tunis
+Tunisas - Tunezja, Tunis
 tuopa - topola
-turėti - mieć | posiadać | musieć | trzymać | zawierać
-turgavietė - rynek | targ
-turgus - rynek | targ
+turėti - mieć, posiadać, musieć, trzymać, zawierać
+turgavietė - rynek, targ
+turgus - rynek, targ
 Turinas - Turyn
 tūris - objętość
 turistas - turysta
@@ -4696,16 +4696,16 @@ turkis - turkus
 turkiškas - turecki
 Turkmėnija - Turkmenistan
 turmalinas - turmalin
-turtas - mienie | dobytek | majątek
+turtas - mienie, dobytek, majątek
 turtėti - bogacić się
-turtingas - bogaty | zamożny
+turtingas - bogaty, zamożny
 tušas - tusz
 tuščias - pusty
 Tuvalu - Tuvalu
 tvarkaraštis - harmonogram
 tvartas - budynek przeznaczony dla zwierząt gospodarskich
-TVF - MFW | Międzynarodowy Fundusz Walutowy
-tvirtovė - forteca | twierdza
+TVF - MFW, Międzynarodowy Fundusz Walutowy
+tvirtovė - forteca, twierdza
 tvora - płot
 tyla - cisza
 tylėti - milczeć
@@ -4715,12 +4715,12 @@ tylus - cichy
 ugniagesys - strażak
 ugnikalninis - wulkaniczny
 ugnikalnis - wulkan
-ugningas - ognisty | płomienny
+ugningas - ognisty, płomienny
 ugnis - ogień
 uiti - besztać
 ūkas - mgławica
 ukinija - cukinia
-ūkis - gospodarka | gospodarstwo
+ūkis - gospodarka, gospodarstwo
 Ukraina - Ukraina
 ukrainietė - Ukrainka
 ukrainietis - Ukrainiec
@@ -4733,22 +4733,22 @@ universitetinis - uniwersytecki
 uodas - komar
 uodega - ogon
 uoga - jagoda
-uola - głaz | skała
+uola - głaz, skała
 uosis - jesion
 uostas - port
-uosti - wąchać | węszyć
+uosti - wąchać, węszyć
 uošvė - teściowa
-uošviai - teściowie | uošvis
+uošviai - teściowie, uošvis
 uošvis - teść
 upė - rzeka
-upelis - rzeczka | strumyk
+upelis - rzeczka, strumyk
 upėtakis - pstrąg
 upokšnis - strumień
 uraganas - huragan
 Uralas - Ural
 Uralo - uralski
 uranas - uran
-Uranas - Uranos | Uran
+Uranas - Uranos, Uran
 Urugvajus - Urugwaj
 urvas - jaskinia
 usnis - oset
@@ -4759,10 +4759,10 @@ Uzbekija - Uzbekistan
 užbūti - być opóźnionym
 uždavinys - ćwiczenie
 uždegti - zapalić
-užeiti - zajść | odwiedzić
+užeiti - zajść, odwiedzić
 užmiršti - zapomnieć
 užmušti - zabić
-užsakovas - klient | zleceniodawca
+užsakovas - klient, zleceniodawca
 užsispyrėliškas - uparty
 užuomina - aluzja
 užvakar - przedwczoraj
@@ -4770,26 +4770,26 @@ užvakarykštis - przedwczorajszy
 užvirinti - zagotować
 vabalas - chrząszcz
 vabzdys - owad
-vadas - przywódca | dowódca | wódz | herszt
-vadeiva - przywódca | dowódca | watażka
+vadas - przywódca, dowódca, wódz, herszt
+vadeiva - przywódca, dowódca, watażka
 vadovėlis - podręcznik
 vadukas - herszt
 vagis - złodziej
-vaidila - wieszcz | kapłan
+vaidila - wieszcz, kapłan
 vaiduoklis - duch
 vaikas - dziecko
 vaikinas - chłopak
-vaikščioti - chodzić | spacerować | uczęszczać
+vaikščioti - chodzić, spacerować, uczęszczać
 vaikų darželis - przedszkole
 vairuotojas - kierowca
-vaisingai - owocnie | płodnie | wydajnie
-vaisingas - owocny | płodny | wydajny
+vaisingai - owocnie, płodnie, wydajnie
+vaisingas - owocny, płodny, wydajny
 vaisius - owoc
-vaistas - lek | lekarstwo
+vaistas - lek, lekarstwo
 vaistinė - apteka
 vaistininkas - aptekarz
 vaivorykštė - tęcza
-vaizdas - obraz | widok
+vaizdas - obraz, widok
 vaizdingas - malowniczy
 vakar - wczoraj
 vakarai - zachód
@@ -4802,59 +4802,59 @@ valanda - godzina
 Valbžychas - Wałbrzych
 Valčas - Wałcz
 valdininkas - urzędnik
-valdyba - dyrekcja | zarząd
-valdyti - administrować | zarządzać | rządzić | panować | sprawować władzę | kierować | sterować | władać | poskramiać
-valdytojas - zarządca | administrator
-valdžia - rząd | władza
+valdyba - dyrekcja, zarząd
+valdyti - administrować, zarządzać, rządzić, panować, sprawować władzę, kierować, sterować, władać, poskramiać
+valdytojas - zarządca, administrator
+valdžia - rząd, władza
 Valeta - Valletta
-valgis - posiłek | jedzenie
+valgis - posiłek, jedzenie
 valgomas - jadalny
 valgomasis - jadalny
-valgomasis kambarys - jadalnia | pokój jadalny | pokój stołowy
-valgyti - jeść | spożywać
+valgomasis kambarys - jadalnia, pokój jadalny, pokój stołowy
+valgyti - jeść, spożywać
 valiuta - waluta
 valstija - stan
 valstybė - państwo
 valstybingumas - państwowość
-valstybinis - państwowy | krajowy
+valstybinis - państwowy, krajowy
 valtininkas - łódkarz
-valtis - łódź | łódka
+valtis - łódź, łódka
 valtorna - waltornia
 valytoja - sprzątaczka
 vampyras - wampir
-vamzdis - rura | lufa
+vamzdis - rura, lufa
 vanadis - wanad
 vanagas - jastrząb
 vandenilis - wodór
-Vandenis - Wodnik | Wodnik - nazwa jednego ze znaków zodiaku
+Vandenis - Wodnik, Wodnik - nazwa jednego ze znaków zodiaku
 vandenynas - ocean
 vanduo - woda
 Vanuatu - Vanuatu
 vapsva - osa
-vapsvaėdis - trzmielojad | pszczołojad
+vapsvaėdis - trzmielojad, pszczołojad
 varanas - waran
 vardadienis - imieniny
 vardas - imię
 vardininkas - mianownik
 varganas - ubogi
-vargas - nędza | ubóstwo
+vargas - nędza, ubóstwo
 vargonai - organy
 variklis - silnik
 varis - miedź
 varlė - żaba
 varna - wrona
 varnėnas - szpak
-varpa - prącie | penis | kłos
+varpa - prącie, penis, kłos
 varpas - dzwon
 varputė - łechtaczka
 Varšuva - Warszawa
 varšuvietė - warszawianka
 varšuvietis - warszawianin
 Varta - Warta
-vartai - brama | bramka
+vartai - brama, bramka
 vartininkas - bramkarz
-vartoti - używać | konsumować
-vartotojas - użytkownik - osoba korzystająca z danej rzeczy | konsument | spożywca | odbiorca
+vartoti - używać, konsumować
+vartotojas - użytkownik - osoba korzystająca z danej rzeczy, konsument, spożywca, odbiorca
 vasara - lato
 vasaris - luty
 Vašingtonas - Waszyngton
@@ -4873,8 +4873,8 @@ vegetarizmas - wegetarianizm
 veidas - twarz
 veidrodis - lustro
 Veiherovas - Wejherowo
-veikalas - dzieło | utwór
-veiksmas - akcja | czyn | działanie
+veikalas - dzieło, utwór
+veiksmas - akcja, czyn, działanie
 veiksmažodinis - czasownikowy
 veiksmažodis - czasownik
 veja - trawnik
@@ -4882,14 +4882,14 @@ vejas - wiatr
 vėjas - wiatr
 veksilologija - weksylologia
 vektorizacija - wektoryzacja
-vėl - znowu | znów
+vėl - znowu, znów
 vėlė - dusza
-velėna - darń | darnina
-vėliava - flaga | chorągiew | sztandar
+velėna - darń, darnina
+vėliava - flaga, chorągiew, sztandar
 vėliavėlė - chorągiewka
 Velička - Wieliczka
 Veliunis - Wieluń
-velnias - czart | diabeł
+velnias - czart, diabeł
 Velsas - Walia
 veltedys - darmozjad
 veltui - daremnie
@@ -4897,7 +4897,7 @@ Velykos - Wielkanoc
 vemti - wymiotować
 vena - żyła
 Venecija - Wenecja
-Venera - Wenus | Wenera
+Venera - Wenus, Wenera
 Venesuela - Wenezuela
 vengras - Węgier
 vengrė - Węgierka
@@ -4907,7 +4907,7 @@ ventiliatorius - wentylator
 vėplys - mors
 Vepša - Wieprza
 Vepšas - Wieprz
-verdenė - krynica | źródło
+verdenė - krynica, źródło
 vergas - niewolnik
 vergija - niewola
 vergovė - niewolnictwo
@@ -4915,17 +4915,17 @@ vergvaldys - ciemiężca
 verksmas - płacz
 verksnys - beksa
 verkti - płakać
-veršiukas - cielak | cielę
+veršiukas - cielak, cielę
 verslas - biznes
-verslininkas - biznesmen | przedsiębiorca
+verslininkas - biznesmen, przedsiębiorca
 verslo planas - biznesplan
-versmė - źródło | zdrój | krynica
+versmė - źródło, zdrój, krynica
 versminis - źródlany
 versmynas - miejsce obfitujące w źródła
 vertėjas - tłumacz
 vertimas - tłumaczenie
-veteranas - kombatant | weteran
-veteranų - kombatancki | veteranas
+veteranas - kombatant, weteran
+veteranų - kombatancki, veteranas
 veterinaras - weterynarz
 Vėtrėlauža - Wiatrołuża
 vėžlys - żółw
@@ -4933,7 +4933,7 @@ vezuvianitas - wezuwian
 Vėžys - Rak
 Vičenca - Vicenza (miasto)
 vidurinė mokykla - szkoła średnia
-vidurinis - średni | środkowy
+vidurinis - średni, środkowy
 vidurnaktis - północ (pora dnia)
 vidurys - środek
 Viduržemio jūra - Morze Śródziemne
@@ -4942,7 +4942,7 @@ Viena - Wiedeń
 vienas - jeden
 vienaskaita - liczba pojedyncza
 vienetas - jedynka
-vienuolika - jedenaście | 11
+vienuolika - jedenaście, 11
 vienuoliktas - jedenasty
 vienuolynas - klasztor
 viešbutis - hotel
@@ -4964,7 +4964,7 @@ vilnietis - wilnianin
 vilnietiškas - wileński
 Vilnius - Wilno
 vilti - oszukiwać
-viltis - nadzieja | mieć nadzieję
+viltis - nadzieja, mieć nadzieję
 Vincenta - Wincenta
 Vincentas - Wincenty
 vingiuotas - kręty
@@ -4975,11 +4975,11 @@ virdulys - samowar
 virėja - kucharka
 virėjas - kucharz
 virškinimas - trawienie
-viršūnė - szczyt | wierzchołek
+viršūnė - szczyt, wierzchołek
 viršus - wierzch
 virtualizacija - wirtualizacja
 virtuvė - kuchnia
-virvė - lina | sznur
+virvė - lina, sznur
 Visa - Wissa
 visada - zawsze
 visi keliai veda į Romą - wszystkie drogi prowadzą do Rzymu
@@ -5001,14 +5001,14 @@ Vladivostokas - Władywostok
 Vloclavekas - Włocławek
 Vlodavka - Włodawka
 vogti - kraść
-vokas - koperta | powieka
-vokiečių - niemiecki (język) | Niemców | niemiecki | vokietis
+vokas - koperta, powieka
+vokiečių - niemiecki (język), Niemców, niemiecki, vokietis
 vokietakalbis - niemieckojęzyczny
 vokietė - Niemka
 vokietėti - germanizować się
 Vokietija - Niemcy
 Vokietijos Federacinė Respublika - Republika Federalna Niemiec
-vokietinti - zniemczać | germanizować
+vokietinti - zniemczać, germanizować
 vokietis - Niemiec
 vokiškai - po niemiecku
 vokiškas - niemiecki
@@ -5017,29 +5017,29 @@ volframas - wolfram
 Volkušanka - Wołkuszanka
 voltas - wolt
 volungė - wilga
-voluoti - walcować | wałkować
-vonia - łazienka | wanna | kąpiel
-vora - rząd | kolejka | szereg | gatunek | klasa | odmiana | łańcuch
+voluoti - walcować, wałkować
+vonia - łazienka, wanna, kąpiel
+vora - rząd, kolejka, szereg, gatunek, klasa, odmiana, łańcuch
 voras - pająk
 voratinklis - pajęczyna
 voriškas - pajęczy
-vos - ledwo | omal
-votėtas - owrzodzony | pokryty wrzodami
+vos - ledwo, omal
+votėtas - owrzodzony, pokryty wrzodami
 votis - wrzód
-voveraitė - wiewióreczka | kurka
+voveraitė - wiewióreczka, kurka
 voverė - wiewiórka
 voveruška - kurka
-vožti - zamykać | uderzyć (z całych sił)
-vožtuvas - zawór | klapa | wentyl | zatrzask | zastawka
+vožti - zamykać, uderzyć (z całych sił)
+vožtuvas - zawór, klapa, wentyl, zatrzask, zastawka
 Vroclavas - Wrocław
-vualis - woal | woalka | welon
-vulgarėti - stawać się wulgarnym | wulgaryzować się
+vualis - woal, woalka, welon
+vulgarėti - stawać się wulgarnym, wulgaryzować się
 vulgarinti - wulgaryzować
 vulgarizatorė - wulgaryzatorka
 vulgarizatorius - wulgaryzator
 vulgarizmas - wulgaryzm
 vulgarizuoti - wulgaryzować
-vulgarus - wulgarny | chamski | ordynarny
+vulgarus - wulgarny, chamski, ordynarny
 vulgarybė - wulgaryzm
 vulkanas - wulkan
 vulkaninis - wulkaniczny
@@ -5049,7 +5049,7 @@ vulkanizuoti - wulkanizować
 vylius - oszustwo
 vynas - wino
 vynuogė - winogrono
-vyras - mężczyzna | mąż
+vyras - mężczyzna, mąż
 vyriausybė - rząd
 vyriška giminė - rodzaj męski
 vyriškas - męski
@@ -5062,23 +5062,23 @@ Vytautas - Witold
 vyturys - skowronek
 vyzdys - źrenica
 ydingas - uszkodzony
-ypač - szczególnie | w szczególności | zwłaszcza
-ypatingas - szczególny | osobliwy | niepowtarzalny
+ypač - szczególnie, w szczególności, zwłaszcza
+ypatingas - szczególny, osobliwy, niepowtarzalny
 yra - forma trzeciej osoby czasownika
 žadas - mowa
-žadėti - obiecywać | przyrzekać
+žadėti - obiecywać, przyrzekać
 žadintuvas - budzik
 Žagarė - Żagory
 Zagrebas - Zagrzeb
 žaibas - błyskawica
 žaibolaidis - piorunochron
 žaidėjas - gracz
-žaidimas - gra | zabawa
+žaidimas - gra, zabawa
 žaisti - bawić się
 žaizda - rana
 Zakopanė - Zakopane
 zakristija - zakrystia
-zakristijonas - zakrystian | kościelny
+zakristijonas - zakrystian, kościelny
 žala - szkoda
 žalia - zielony
 žalias - zielony
@@ -5086,20 +5086,20 @@ zakristijonas - zakrystian | kościelny
 žalvarinis - mosiężny
 žalvaris - mosiądz
 Zambija - Zambia
-žandas - policzek | pośladek
+žandas - policzek, pośladek
 žandikaulis - szczęka
 žanras - rodzaj
 žargonas - żargon
 žargoninis - żargonowy
 žargoniškas - żargonowy
-žargonybė - zwrot | wyraz żargonowy
+žargonybė - zwrot, wyraz żargonowy
 žarna - jelito
 Žarnica - Żarnica
 žąsis - gęś
 zauksoti - gapić się
-zauna - gadanina | paplanina
-zaunius - gaduła | papla | płaksa | beksa
-zaunyti - gadać głupstwa | paplać | popłakiwać
+zauna - gadanina, paplanina
+zaunius - gaduła, papla, płaksa, beksa
+zaunyti - gadać głupstwa, paplać, popłakiwać
 žavėtis - podziwiać
 žebenkštis - łasica
 zebras - zebra
@@ -5118,43 +5118,43 @@ zefyras - zefir
 zenitas - zenit
 zenitininkas - żołnierz artylerii przeciwlotniczej
 zenitinis - przeciwlotniczy
-ženklas - symbol | znak
+ženklas - symbol, znak
 žentas - zięć
-žėrėti - lśnić | połyskiwać
+žėrėti - lśnić, połyskiwać
 žiebtuvėlis - zapalniczka
-žiedas - kwiat | pierścień
+žiedas - kwiat, pierścień
 žiedynas - kwiatostan
 Zielava - Zielawa
 žiema - zima
 žievė - kora
 zigzagas - zygzak
-žilaplaukis - siwowłosy | siwy
+žilaplaukis - siwowłosy, siwy
 žilas - siwy
 Zimbabvė - Zimbabwe
 žinduolis - ssak
 žingsnis - krok
-žinia - wiadomość | wieść | nowina
+žinia - wiadomość, wieść, nowina
 žinoti - wiedzieć
 žiobris - certa
 žiogas - konik polny
-žiotys - gardziel | ujście (rzeki)
+žiotys - gardziel, ujście (rzeki)
 žirafa - żyrafa
 žirgas - rumak
 zirinti - piłować tępą piłą
-žirklės - nożyce | nożyczki
+žirklės - nożyce, nożyczki
 žirnis - groch
-zirzeklė - płaksa | beksa | mazgaj
-zirzeklis - płaksa | beksa | mazgaj
-zirzenti - brzęczeć | bzykać
-zirzesys - brzęczenie | bzykanie
-zirzeti - bzykać | brzęczeć | skrzypieć
-zirzinti - rzępolić | skrzypieć
-zirzlė - beksa | płaksa | mazgaj
-zirzlus - płaczliwy | mazgajowaty
-zirzlys - beksa | płaksa | mazgaj
-zirzti - brzęczeć | bzykać | nudzić | beczeć
+zirzeklė - płaksa, beksa, mazgaj
+zirzeklis - płaksa, beksa, mazgaj
+zirzenti - brzęczeć, bzykać
+zirzesys - brzęczenie, bzykanie
+zirzeti - bzykać, brzęczeć, skrzypieć
+zirzinti - rzępolić, skrzypieć
+zirzlė - beksa, płaksa, mazgaj
+zirzlus - płaczliwy, mazgajowaty
+zirzlys - beksa, płaksa, mazgaj
+zirzti - brzęczeć, bzykać, nudzić, beczeć
 Zita - Zyta
-žiūrėti - patrzeć | spoglądać
+žiūrėti - patrzeć, spoglądać
 žiurkė - szczur
 žiurkėnas - chomik
 žlėgtainis - befsztyk
@@ -5162,16 +5162,16 @@ Zita - Zyta
 žliumbis - beksa
 žliumbti - beczeć
 zlotas - złoty
-zmekti - osiąść | osiadać | obsunąć się | obsuwać się
+zmekti - osiąść, osiadać, obsunąć się, obsuwać się
 žmogiškas - ludzki
 žmogus - człowiek
 žmogus žmogui – vilkas - człowiek człowiekowi wilkiem
 žmogžudystė - zabójstwo
 žmona - żona
-žmonės - ludzie | žmogus
+žmonės - ludzie, žmogus
 žmoniškas - ludzki
 zodiakas - zodiak
-žodis - słowo | wyraz
+žodis - słowo, wyraz
 žodynas - słownik
 žodyniškas - słownikowy
 žolė - trawa
@@ -5190,7 +5190,7 @@ zootechnika - zootechnika
 zootechnikas - zootechnik
 zootechnikė - zootechnik (kobieta)
 žudikas - zabójca
-žudyti - mordować | zabijać
+žudyti - mordować, zabijać
 zuikelis - zajączek
 zuikena - zajęcza skórka
 zuikiauti - polować na zające
@@ -5203,32 +5203,32 @@ zuikiukas - zajączek
 zuikmiegis - czujny sen
 zuiktaukiai - zajęczy tłuszcz
 zuikutis - zajączek
-zuiti - biegać | latać
+zuiti - biegać, latać
 zujoti - biegać
-zulinti - trzeć | pocierać
-zulintis - ocierać się | drapać się
-zumeris - brzęczyk | przerywacz brzęczykowy
-žurnalas - dziennik | magazyn | czasopismo
+zulinti - trzeć, pocierać
+zulintis - ocierać się, drapać się
+zumeris - brzęczyk, przerywacz brzęczykowy
+žurnalas - dziennik, magazyn, czasopismo
 žurnalistas - dziennikarz
 žurnalistika - dziennikarstwo
-zurza - płaksa | beksa | mazgaj
-zurzėti - burczeć | narzekać | nudzić
+zurza - płaksa, beksa, mazgaj
+zurzėti - burczeć, narzekać, nudzić
 žuvis - ryba
 Žuvys - Ryby
 žvaigždė - gwiazda
 žvairas - zezowaty
-žvakė - świeczka | świeca
-zvėga - papla | gaduła
-zvėgauti - paplać | gadać głupstwa
+žvakė - świeczka, świeca
+zvėga - papla, gaduła
+zvėgauti - paplać, gadać głupstwa
 žvejys - rybak
-zvimbauti - brzęczeć | gwizdać | bzykać
-zvimbesys - brzęczenie | brzęk | gwizd
-zvimblys - płaksa | beksa
-zvimbteleti - zabrzęczeć | zagwizdać
-zvimbti - brzęczeć | bzykać | gwizdać | świstać | świsnąć
+zvimbauti - brzęczeć, gwizdać, bzykać
+zvimbesys - brzęczenie, brzęk, gwizd
+zvimblys - płaksa, beksa
+zvimbteleti - zabrzęczeć, zagwizdać
+zvimbti - brzęczeć, bzykać, gwizdać, świstać, świsnąć
 žvirblis - wróbel
-žydėti - kwitnąć | rozkwitać
-žydras - błękitny | gej
-zylė - sikorka | sikora
+žydėti - kwitnąć, rozkwitać
+žydras - błękitny, gej
+zylė - sikorka, sikora
 zylioti - gzić się (o bydle)
 žynys - kapłan

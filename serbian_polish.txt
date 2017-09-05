@@ -1,8 +1,8 @@
-а - a | ale
+а - a, ale
 абдикација - abdykacja
 Авганистан - Afganistan
 август - sierpień
-аврамски - abrahamowy | abrahamiczny
+аврамски - abrahamowy, abrahamiczny
 агломерација - aglomeracja
 адреса - adres
 Азербејџан - Azerbejdżan
@@ -19,7 +19,7 @@
 анархија - anarchia
 анархистички - anarchistyczny
 Андора - Andora
-анђел - anioł | cherubin
+анђел - anioł, cherubin
 Анђела - Aniela
 Анкара - Ankara
 антитело - przeciwciało
@@ -32,12 +32,12 @@
 арија - aria
 аристократија - arystokracja
 арханђел - archanioł
-астериск - asterysk | *
+астериск - asterysk, *
 Аустралија - Australia
 Аустрија - Austria
 аустријски - austriacki
 ауто - auto
-аутомобил - samochód | auto
+аутомобил - samochód, auto
 аутор - autor
 Африка - Afryka
 баба - babcia
@@ -61,21 +61,21 @@
 Бик - Byk
 биографија - biografia
 биологија - biologia
-бистрина - jasność | przejrzystość | bystrość umysłu | inteligencja
-бити - być | istnieć
+бистрина - jasność, przejrzystość, bystrość umysłu, inteligencja
+бити - być, istnieć
 Близанци - Bliźnięta
 болест - choroba
 Боливија - Boliwia
 Борис - Borys
 босански - bośniacki
 бретонски - bretoński
-број - cyfra | liczba | ilość
+број - cyfra, liczba, ilość
 будизам - buddyzm
 будућност - przyszłość
 Бутан - Bhutan
 Вага - Waga
 вагина - pochwa
-важно - znacząco | doniośle
+важно - znacząco, doniośle
 ваздух - powietrze
 вебсајт - strona internetowa
 Везув - Wezuwiusz
@@ -109,8 +109,8 @@
 гутати - połykać
 Дамаск - Damaszek
 дан - dzień
-дан рођења - urodziny | dzień narodzin
-два - dwa | 2
+дан рођења - urodziny, dzień narodzin
+два - dwa, 2
 Девица - Panna
 деклинација - deklinacja
 демократија - demokracja
@@ -135,8 +135,8 @@
 ђакон - diakon
 ђус - sok
 е - siódma litera serbskiego alfabetu
-екипа - ekipa | drużyna
-емоција - emocja | uczucie
+екипа - ekipa, drużyna
+емоција - emocja, uczucie
 емпатија - empatia
 енглески - angielski
 ентузијазам - entuzjazm
@@ -144,7 +144,7 @@
 естетика - estetyka
 етимологија - etymologia
 жељезо - żelazo
-жена - żona | kobieta
+жена - żona, kobieta
 живео - niech żyje
 живети - żyć
 живот - życie
@@ -152,16 +152,16 @@
 забава - rozrywka
 Замбија - Zambia
 звук - dźwięk
-згужвати - gnieść | miąć | zgnieść
+згужвати - gnieść, miąć, zgnieść
 зелен - zielony
 зима - zima
 Зимбабве - Zimbabwe
 злато - złoto
-значити - znaczyć | oznaczać | mieć dane znaczenie
+значити - znaczyć, oznaczać, mieć dane znaczenie
 и - i
-играч - gracz | zawodnik
+играч - gracz, zawodnik
 идеологија - ideologia
-извините - przepraszam | proszę
+извините - przepraszam, proszę
 Израел - Izrael
 имати - mieć
 име - imię
@@ -172,7 +172,7 @@
 интерференција - interferencja
 интуиција - intuicja
 искреност - szczerość
-исламски - islamski | muzułmański
+исламски - islamski, muzułmański
 историја - historia
 Исус - Jezus
 италијански - włoski
@@ -208,7 +208,7 @@
 камен - kamień
 Капернаум - Kafarnaum
 капитализам - kapitalizm
-караван - karawana | konwój
+караван - karawana, konwój
 кардиологија - kardiologia
 Каталонија - Katalonia
 Катар - Katar
@@ -232,16 +232,16 @@
 корунд - korund
 коса - włosy
 кофеин - kofeina
-кош - kosz | koszyk
+кош - kosz, koszyk
 крв - krew
 креолски - kreolski
 кретање - ruch
 криза - kryzys
-круг - koło | okrąg
+круг - koło, okrąg
 Кувајт - Kuwejt
 кула - wieża
 Куран - Koran
-курва - prostytutka | kurwa
+курва - prostytutka, kurwa
 кућа - dom
 кухиња - kuchnia
 лав - lew
@@ -259,7 +259,7 @@
 Либерија - Liberia
 литература - literatura
 лов - polowanie
-лук - łuk | cebula
+лук - łuk, cebula
 љубав - miłość
 љубити - kochać
 људи - ludzie
@@ -301,13 +301,13 @@
 морски - morski
 мотив - motyw
 мотивација - motywacja
-мотор - motor | silnik
+мотор - motor, silnik
 Најроби - Nairobi
 Намибија - Namibia
-напад - napad | atak | napaść
+напад - napad, atak, napaść
 наука - nauka
 Наум - Nahum
-нација - nacja | naród
+нација - nacja, naród
 небо - niebo
 недеља - niedziela
 немачки - niemiecki
@@ -324,14 +324,14 @@
 ноћ - noc
 Њујорк - Nowy Jork (miasto)
 о - o (czymś)
-објашњење - objaśnienie | wyjaśnienie
-облак - obłok | chmura
+објашњење - objaśnienie, wyjaśnienie
+облак - obłok, chmura
 Ован - Baran
 одбојка - siatkówka
 око - oko
 октобар - październik
 олигарх - oligarcha
-олуја - burza | sztorm | wiatr
+олуја - burza, sztorm, wiatr
 Оман - Oman
 он - on
 органогенеза - organogeneza
@@ -351,18 +351,18 @@
 пити - pić
 по - po
 површина - powierzchnia
-под - pod | podłoga | podłoże
+под - pod, podłoga, podłoże
 политика - polityka
 пољопривреда - rolnictwo
 Пољска - Polska
 пољски - polski
-помоћ - pomoc | ratunek | wsparcie
+помоћ - pomoc, ratunek, wsparcie
 понедељак - poniedziałek
 поноћ - północ
 постеља - łóżko
 почетак - początek
 правда - sprawiedliwość
-правопис - pisownia | ortografia
+правопис - pisownia, ortografia
 Праг - Praga
 први - pierwszy
 пријатељ - przyjaciel
@@ -371,8 +371,8 @@
 прољев - biegunka
 протокол - protokół
 радост - radość
-разум - rozum | mądrość
-Рак - Rak | ♋
+разум - rozum, mądrość
+Рак - Rak, ♋
 револуција - rewolucja
 регистарска таблица - tablica rejestracyjna
 реинкарнација - reinkarnacja
@@ -381,14 +381,14 @@
 риба - ryba
 Рибе - Ryby
 римски - rzymski
-рођење - urodzenie | narodziny
+рођење - urodzenie, narodziny
 рука - ręka
 рукомет - piłka ręczna
 Румунија - Rumunia
 Русија - Rosja
-Савезна Република Немачка - Republika Federalna Niemiec | Niemcy
-самотник - samotnik | pustelnik
-санскрт - sanskryt | санскрит
+Савезна Република Немачка - Republika Federalna Niemiec, Niemcy
+самотник - samotnik, pustelnik
+санскрт - sanskryt, санскрит
 Сао Томе и Принципе - Wyspy Świętego Tomasza i Książęca
 Сарајево - Sarajewo
 Сардинија - Sardynia
@@ -400,18 +400,18 @@
 свиња - świnia
 Северна Кореја - Korea Północna
 секс - seks
-секунда - sekunda | секунд
+секунда - sekunda, секунд
 село - wieś
 семе - ziarno
 семитски - semicki
 Сенегал - Senegal
 септембар - wrzesień
 сѐпте̄мбарскӣ - wrześniowy
-сестра - siostra | pielęgniarka | sanitariuszka | mniszka | zakonnica
+сестра - siostra, pielęgniarka, sanitariuszka, mniszka, zakonnica
 Сибир - Syberia
 симбол - symbol
 симпатија - sympatia
-симпатичан - sympatyczny | miły | serdeczny
+симпатичан - sympatyczny, miły, serdeczny
 Сингапур - Singapur
 синоним - synonim
 сир - ser
@@ -431,7 +431,7 @@
 Србија - Serbia
 Сребреница - Srebrenica
 среда - środa
-срећа - szczęście | zadowolenie
+срећа - szczęście, zadowolenie
 српски - serbski
 срце - serce
 Стеван - Stefan
@@ -447,14 +447,14 @@
 Тајланд - Tajlandia
 талас - fala
 Танзанија - Tanzania
-тата - tata | tatuś
+тата - tata, tatuś
 Таџикистан - Tadżykistan
 Ташкент - Taszkent
 телевизија - telewizja
 телефонија - telefonia
 Теодор - Teodor
 теорија - teoria
-термин - termin | pojęcie
+термин - termin, pojęcie
 тесто - ciasto
 Техеран - Teheran
 технологија - technologia
@@ -463,13 +463,13 @@
 тисућљеће - tysiąclecie
 Тихи океан - Ocean Spokojny
 тихо - cicho
-тоалет - ubikacja | toaleta
+тоалет - ubikacja, toaleta
 топао - ciepły
 Тоскана - Toskania
 трамвај - tramwaj
 транспорт - transport
-трансформација - transformacja | przekształcenie
-трг - targ | plac | forum
+трансформација - transformacja, przekształcenie
+трг - targ, plac, forum
 троцкизам - trockizm
 тугрик - tugrik
 Туркменистан - Turkmenistan
@@ -477,7 +477,7 @@
 ћерка - córka
 ћирилица - cyrylica
 ћирилични - związany z cyrylicą
-у - w | we
+у - w, we
 Уганда - Uganda
 угљеник - węgiel
 Узбекистан - Uzbekistan
@@ -491,7 +491,7 @@
 учтив - uprzejmy
 фебруар - luty
 Фениција - Fenicja
-феномен - zjawisko | fenomen
+феномен - zjawisko, fenomen
 филозофија - filozofia
 филологија - filologia
 фински - fiński
@@ -500,7 +500,7 @@
 фреквенција - częstotliwość
 фрустрација - frustracja
 футуризам - futuryzm
-халитоза - halitoza | cuchnący oddech
+халитоза - halitoza, cuchnący oddech
 Харков - Charków
 хашиш - haszysz
 хвала - dzięki!
@@ -510,7 +510,7 @@
 Хималаји - Himalaje
 хипотеза - hipoteza
 хладан - zimny
-холандски - niderlandzki | holenderski
+холандски - niderlandzki, holenderski
 хомеопатија - homeopatia
 Хонгконг - Hong Kong
 хор - chór

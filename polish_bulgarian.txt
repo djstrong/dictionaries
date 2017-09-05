@@ -1,5 +1,5 @@
 abdykacja - абдикация f
-abdykować - отказвам се от престола | абдикирам
+abdykować - отказвам се от престола, абдикирам
 abfal - грешка f
 Abidżan - Абиджан m
 Abisynia - Абисиния f
@@ -30,7 +30,7 @@ Alaska - Аляска f
 Albańczyk - албанец m
 Albania - Албания
 Albanka - албанка f
-albański - албански | албански език | шкип
+albański - албански, албански език, шкип
 Alberta - Албърта
 albo - или
 aleja - алея f
@@ -39,8 +39,8 @@ algebraiczny - алгебричен
 Algieria - Алжир
 Allach - Аллах m
 Allah - Аллах m
-alleluja - алелуя | алилуя
-alokacja - разпределение | отпускане
+alleluja - алелуя, алилуя
+alokacja - разпределение, отпускане
 alpinizm - алпинизъм m
 aluminiowy - алуминиев
 aluminium - алуминий m
@@ -87,8 +87,8 @@ apluzyna - портокал
 apostata - вероотстъпник m
 aprykoza - кайсия f
 apryl - април m
-apsik - апчиху! | апчих!
-a psik - апчиху! | апчих!
+apsik - апчиху!, апчих!
+a psik - апчиху!, апчих!
 Arab - арабин
 Arabia Saudyjska - Саудитска Арабия
 arabus - арабин
@@ -102,10 +102,10 @@ argumentacja - аргументация f
 arktyczny - арктичен
 Arktyka - Арктика f
 Armenia - Армения f
-armia - армия (armija) f | войска (vojska) f
-armijo - армия (armija) f | войска (vojska) f
+armia - армия (armija) f, войска (vojska) f
+armijo - армия (armija) f, войска (vojska) f
 arsen - арсен m
-artykuł - статия | член m
+artykuł - статия, член m
 Aruba - Аруба
 arystokrata - аристократ m
 arystokratka - аристократка f
@@ -114,7 +114,7 @@ aseksualizm - асексуалност f
 asfalt - асфалт (asfalt) m
 asfaltować - асфалтирам
 aspiryna - аспирин m
-astat - астатин m | астат m
+astat - астатин m, астат m
 astma oskrzelowa - бронхиална астма f
 astrofizyka - астрофизика f
 Asyria - Асирия
@@ -124,7 +124,7 @@ ateistyczny - атеистки
 Atlantyk - Атлантически океан m
 atol - атол m
 Augiasz - Авгий m
-australijski pies pasterski - австралийско пастирско куче | австралийски кетълдог
+australijski pies pasterski - австралийско пастирско куче, австралийски кетълдог
 Austria - Австрия
 austriacki - австрийски
 Austriak - австриец m
@@ -152,13 +152,13 @@ bakałarz - учител m
 baklawa - баклава f
 balet - балет
 Bałtyk - Балтийско море
-bałwan - снежен човек | идол | кумир
+bałwan - снежен човек, идол, кумир
 bana - трамвай m
 banał - баналност
 bandzioch - корем
 banerka - кутия f
 Bangladesz - Бангладеш m
-bania - тиква f | глава f
+bania - тиква f, глава f
 baniak - глава f
 banka - трамвай m
 baptyzm - баптизъм m
@@ -167,23 +167,23 @@ Barabasz - Варава m
 barabola - картоф m
 baran - овен m
 Baran - Овен
-bardzo - много | по
+bardzo - много, по
 bark - барк
 barki - барк
 barok - барок
 Bartłomiej - Вартоломей m
-barzej - много | по
+barzej - много, по
 bas - корем
-basarunek - обезщетение n | компенсация f
+basarunek - обезщетение n, компенсация f
 basetla - басетля f
 basior - бич m
 baskijski - баскски
 batalion - батальон m
 bażant - фазан m
 bazylia - босилек m
-bebech - корем | стомах m
+bebech - корем, стомах m
 bęben - корем
-bedki - гъба f | микоза f
+bedki - гъба f, микоза f
 bejm - пара f
 bekwarek - северен славей
 belfer - учител m
@@ -224,7 +224,7 @@ biograficzny - биографически
 biologia - биология f
 Birma - Бирма f
 biseksualizm - бисексуалност
-biskup - епископ m | владика m
+biskup - епископ m, владика m
 bitwa pod Termopilami - битка при Термопилите
 biurko - бюро n
 biuro podróży - туристическа агенция f
@@ -235,7 +235,7 @@ błąd poznawczy - когнитивно отклонение n
 blisko - близо
 Bliźnięta - Близнаци
 blumkol - карфиол m
-bo - защото (zaštoto) | тъй като (tǎj kato) | понеже (poneže)
+bo - защото (zaštoto), тъй като (tǎj kato), понеже (poneže)
 bóbr - бобър m
 bocian - щъркел m
 bóg - бог m
@@ -250,7 +250,7 @@ Boliwijczyk - боливиец
 bombka - халба f
 bor - бор m
 borowik szlachetny - обикновена манатарка f
-borówka - синя боровинка | буза f | шамар m | плесница f | пързалка f
+borówka - синя боровинка, буза f, шамар m, плесница f, пързалка f
 Borys - Борис
 Bośnia - Босна f
 Bośnia i Hercegowina - Босна и Херцеговина
@@ -277,13 +277,13 @@ brzemię - бреме
 brzmienie - звук
 brzoskwinia - праскова f
 brzuch - корем
-buc - кур | хуй
+buc - кур, хуй
 buda - училище f
 Budapeszt - Будапеща
 buła - хлебче n
 bulba - картоф m
 Bułgaria - България
-bułgarski - български | български език m
+bułgarski - български, български език m
 bułka - хлебче n
 bulwa - картоф m
 burak - цвекло
@@ -313,7 +313,7 @@ cez - цезий m
 chachoł - врат m
 chałwa - халва f
 chamera - облак m
-chan - хан | кан
+chan - хан, кан
 charakterystyczny - характерен
 charakterystyka - характеристика f
 chciwość - алчност
@@ -326,11 +326,11 @@ chlać - пия
 chleb - хляб m
 chłopak - момче (momče) n
 chlor - хлор m
-chmiel - хмел m | бира f
+chmiel - хмел m, бира f
 chmura - облак m
 choinka - коледна елха f
 chójk - коледна елха f
-chomik - хомяк m | хамстер m
+chomik - хомяк m, хамстер m
 choroba - болест
 Chorwacja - Хърватска
 chów wsobny - близкородствено размножаване n
@@ -338,16 +338,16 @@ chrom - хром m
 Chrystus - Христос m
 chrześcijanin - християнин m
 chrześcijanka - християнка f
-chuj - кур | хуй
+chuj - кур, хуй
 chwost - опашка f
-ciasto - тесто n | сладкиш m
-ciebie - ти | Вие
+ciasto - тесто n, сладкиш m
+ciebie - ти, Вие
 cień - сянка
 cienki - тънък
 ciepło - топло
 ciga - коза f
 ciocia - леля f
-cipa - пичка | путка
+cipa - пичка, путка
 cis - тис
 ciśnienie tętnicze - кръвно налягане
 ćmaga - водка
@@ -363,7 +363,7 @@ cudzoziemiec - чужденец m
 cudzysłów - кавички
 cukier - захар
 cukinia - тиквичка
-cyferblat - лице (lice) n | лик (lik) m | образ (obraz) m
+cyferblat - лице (lice) n, лик (lik) m, образ (obraz) m
 cyga - земна пчела f
 cyklon - циклон m
 cyna - калай m
@@ -396,12 +396,12 @@ czekan - пикел
 czekolada - шоколад m
 czekoladowy - шоколадов
 czereśnia - череша
-czernica - синя боровинка | къпина
+czernica - синя боровинка, къпина
 czerwiec - юни m
 czerwona porzeczka - червен касис m
 czerwony - червен
 czerwony olbrzym - червен гигант m
-cześć - здравей (do jednej osoby) | здравейте (do wielu osób) | здрасти
+cześć - здравей (do jednej osoby), здравейте (do wielu osób), здрасти
 cześnia - череша
 Częstochowa - Ченстохова
 częstoskurcz - тахикардия f
@@ -419,7 +419,7 @@ czystek - цистус m
 czytelnik - читател m
 Dafne - Дафне
 Dagestan - Дагестан
-dalece - много | по
+dalece - много, по
 dalekowzroczność - далекогледство n
 dalmatyńczyk - далматин
 darmowy - безплатен
@@ -436,10 +436,10 @@ detonator - детонатор m
 dezerter - беглец m
 dezinformacja - дезинформация f
 dialekt - диалект
-diament - диамант m | елмаз m
+diament - диамант m, елмаз m
 dietetyczny - диетичен
 dioda - диод
-Diogenes - Диоген m | Диоген m (Синопски)
+Diogenes - Диоген m, Диоген m (Синопски)
 dla - за
 długi - дълъг
 długopis - химикалка f
@@ -458,32 +458,32 @@ dolmen - долмен
 dolnołużycki - долнолужишки
 dom - къща f
 Dominika - Доминика f
-Dominikana - Доминиканска република | Доминикана f
+Dominikana - Доминиканска република, Доминикана f
 domowej roboty - домашно приготвен
 doradca - съветник m
-dostać - получа | придобия
+dostać - получа, придобия
 dostatecznie - достатъчно
-dostawać - получавам | придобивам | хващам | прихващам | заразявам се с | стигам | достигам
+dostawać - получавам, придобивам, хващам, прихващам, заразявам се с, стигам, достигам
 dostojnik - сановник m
 dotykać - допра
 do widzenia - довиждане
 do zobaczenia - довиждане
 dreszcz - тръпка f
 drewniany - дървен
-droga - път m | пътуване n | маршрут m
+droga - път m, пътуване n, маршрут m
 Droga Mleczna - Млечен път
-drogi - скъп m | драг m
+drogi - скъп m, драг m
 drogocenny - драгоценен
 drozd - дрозд m
 druh - приятел m
 drzewo - дърво n
-duch - призрак | фантом | душа | дух
+duch - призрак, фантом, душа, дух
 dudek - папуняк
 dudlać - пия
 Dunaj - Дунав
-dupa - гъз m | задник m
+dupa - гъз m, задник m
 dupek - задник m
-dusza - призрак | фантом | душа | дух
+dusza - призрак, фантом, душа, дух
 dutek - пара f
 dychawica oskrzelowa - бронхиална астма f
 dycht - доста
@@ -500,10 +500,10 @@ dziadek - дядо m
 działać - действам
 dziąsło - венец m
 Dżibuti - Джибути
-dziecinny - детски m | инфантилен m
+dziecinny - детски m, инфантилен m
 dziela - за
 dzień - ден m
-dzień dobry - добър ден | добро утро
+dzień dobry - добър ден, добро утро
 dziennikarstwo - журналистика f
 dziesięciolecie - десетилетие n
 dżihadysta - муджахидин m
@@ -557,7 +557,7 @@ Europa - Европа f
 eż - че (če)
 facet - мъж m
 facetka - жена f
-facjata - лице (lice) n | лик (lik) m | образ (obraz) m
+facjata - лице (lice) n, лик (lik) m, образ (obraz) m
 fakt - факт m
 falset - фалцет m
 fałszywy - фалшив
@@ -573,7 +573,7 @@ Federacja Rosyjska - Руска федерация f
 fedrować - работя
 felinologia - фелинология f
 ferska - праскова f
-fest - много | по
+fest - много, по
 fetor - смрад m
 fez - фес m
 fezeła - пчела f
@@ -583,19 +583,19 @@ figowiec - смокиня f
 fikus - смокиня f
 filatelistyka - филателия f
 Filipiny - Филипини
-filiżanka - чаша f (порцеланова) | чаша f
+filiżanka - чаша f (порцеланова), чаша f
 film - филм m
 filok - химикалка f
 filozofia dziejów - философия на историята f
 filozofia historii - философия на историята f
 Finlandia - Финландия f
-fioletowy - виолетов | лилав
+fioletowy - виолетов, лилав
 fiord - фиорд m
-fiut - кур | хуй
+fiut - кур, хуй
 fiżon - фасоль f
 flecista - флейтист m
 flep - документ m
-flet - кур | хуй
+flet - кур, хуй
 Florencja - Флоренция
 fluor - флуор m
 fonetyka - фонетика f
@@ -611,7 +611,7 @@ futbolista - футболист
 Gabon - Габон
 gad - влечуго n
 gadolin - годолиний m
-gała - око n | футбол | сива врана
+gała - око n, футбол, сива врана
 galaktyka - галактика f
 gałka muszkatołowa - индийско орехче n
 Gambia - Гамбия
@@ -620,15 +620,15 @@ gapa - сива врана
 gara - сън m
 garaż - гараж
 gardło - гърло n
-gdyż - защото (zaštoto) | тъй като (tǎj kato) | понеже (poneže)
-gdzie - къде | където
+gdyż - защото (zaštoto), тъй като (tǎj kato), понеже (poneže)
+gdzie - къде, където
 gdzieś - около
 generał - генерал m
 generał broni - генерал-лейтенант m
 generał dywizji - генерал-майор m
 genialny - гениален
 geologia - геология
-gęś - гъска f | патка f
+gęś - гъска f, патка f
 Ghana - Гана
 gibki - бърз
 Gibraltar - Гибралтар m
@@ -663,12 +663,12 @@ gorzałka - водка
 gorzki - горчив
 gorzoła - водка
 graba - ръка f
-grabarz - гробокопач m | гробар m
-gracz - играч m | плейър m
+grabarz - гробокопач m, гробар m
+gracz - играч m, плейър m
 grad - град m
 grajcarek - тирбушон
 gramatyka - граматика f
-granat - граната f | ръчна бомба f | нар m
+granat - граната f, ръчна бомба f, нар m
 granatowy - тъмносин
 graniczyć - гранича
 gratulacja - поздравление
@@ -677,7 +677,7 @@ grejpfrut - грейпфрут m
 Grenada - Гренада f
 Grenlandia - Гренландия f
 grób - гроб
-gróbarz - гробокопач m | гробар m
+gróbarz - гробокопач m, гробар m
 gronostaj - сибирска белка f
 grudzień - декември m
 gruszka - круша f
@@ -686,13 +686,13 @@ gryf - грифон
 grzebień - гребен m
 grzech - грях m
 grzeszny - грешен
-grzyb - гъба f | микоза f
+grzyb - гъба f, микоза f
 grzybowy - гъбен
-Gujana - Гвиана | Гаяна f
+Gujana - Гвиана, Гаяна f
 guła - пуйка f
 gułag - ГУЛАГ
 gularz - пуйка f
-guli - защото (zaštoto) | тъй като (tǎj kato) | понеже (poneže)
+guli - защото (zaštoto), тъй като (tǎj kato), понеже (poneže)
 Gwadelupa - Гваделупа f
 Gwatemala - Гватемала f
 gwiazda - звезда f (zvezda)
@@ -709,7 +709,7 @@ haplotyp - хаплотип m
 hara - водка
 harfista - арфист m
 has - хасий m
-hau - бау | джаф
+hau - бау, джаф
 haubica - гаубица
 haw - там
 hawerz - сапьор m
@@ -733,8 +733,8 @@ hirsutyzm - хирзутизъм m
 historiozofia - философия на историята f
 hiszpański - испански
 hokej - хокей m
-Holandia - Холандия f | Нидерландия f
-Holandyja - Холандия f | Нидерландия f
+Holandia - Холандия f, Нидерландия f
+Holandyja - Холандия f, Нидерландия f
 holenderski - холандски
 holm - холмий m
 homeopatia - хомеопатия f
@@ -778,7 +778,7 @@ ja - аз
 jabłko - ябълка f
 jabłoń - ябълката
 jadać - ям
-jagoda - синя боровинка | буза f | шамар m | плесница f | пързалка f
+jagoda - синя боровинка, буза f, шамар m, плесница f, пързалка f
 Jahwe - Яхве m
 jajecznica - бъркани яйца
 jajko - яйце n (jajce)
@@ -792,7 +792,7 @@ japoński - японски
 jarecka - майка f
 jarosz - вегетарианец m
 jarząbek - лещарка f
-jarzmo - хомот m | иго n
+jarzmo - хомот m, иго n
 jastrząb - ястреб m
 jaszczurka - гущер m
 Jaworzno - Явожно
@@ -801,7 +801,7 @@ jeden za wszystkich, wszyscy za jednego - един за всички, всичк
 jednorożec - носорог m
 Jędrzej - Андрей
 jedwab - коприна f
-jedwabnik - копринена пеперуда f (motyl) | копринена буба f (gąsienica)
+jedwabnik - копринена пеперуда f (motyl), копринена буба f (gąsienica)
 jego - негов
 jelonek rogacz - бръмбар рогач
 Jemen - Йемен m
@@ -829,25 +829,25 @@ kaban - свиня f
 kaczka - патица f
 Kafarnaum - Капернаум
 kaffa - кафе n
-kaj - къде | където
+kaj - къде, където
 kajak - каякът
 kajman - крокодил m
-Kajmany - Кайманови острови | Каймански острови
+Kajmany - Кайманови острови, Каймански острови
 kakadu - какаду
-kalafa - нос m | лице (lice) n | лик (lik) m | образ (obraz) m
+kalafa - нос m, лице (lice) n, лик (lik) m, образ (obraz) m
 kalafior - карфиол m
 kalapitra - глава f
 kalfas - корем
 kalifat - халифат m
 kaliforn - калифорний m
-kam - къде | където
+kam - къде, където
 Kambodża - Камбоджа f
 Kamerun - Камерун
 kamień - камък
 kamieniarz - каменар m
 Kanada - Канада f
 kaolin - каолин
-kapusta - зеле n | пара f
+kapusta - зеле n, пара f
 karaba - котка f
 karczoch - артишок
 kardamon - кардамон m
@@ -868,12 +868,12 @@ Katar - Катар
 katolicki - католически
 kaval - кавал m
 kawa - кафе n
-kawka - чавка | сестра f
+kawka - чавка, сестра f
 Kazachstan - Казахстан m
 każdy - всеки
 kaznodzieja - проповедник m
 kciuk - палец m
-kędy - къде | където
+kędy - къде, където
 kejter - куче n (kucze)
 Kenia - Кения (Kenija)
 keta - синджир m
@@ -904,10 +904,10 @@ kociamber - котка f
 kod kreskowy - баркод m
 koja - легло n
 kojo - легло n
-kolano - коляно n | завой m
+kolano - коляно n, завой m
 kolendra - кориандър
 koleś - мъж m
-koło - колело n | около
+koło - колело n, около
 Kolonia - Кьолн
 Kolumb - Колумб m
 komar - комар (komar) m
@@ -929,7 +929,7 @@ konieczność - необходимост f
 kontent - доволен
 kontrwywiad - контраразузнаване n
 kontynent - континент m
-kopala - гробокопач m | гробар m
+kopala - гробокопач m, гробар m
 Kopenhaga - Копенхаген
 kopruch - комар (komar) m
 Koran - Коран m
@@ -937,7 +937,7 @@ korbol - тиква f
 Koreańska Republika Demokratyczna - Корейска народнодемократична република f
 koreański - корейски
 Korea Północna - Северна Корея f
-Korea Południowa - Южна Корея f | Република Корея f
+Korea Południowa - Южна Корея f, Република Корея f
 korespondencja - кореспонденция
 korkociąg - тирбушон
 Korsyka - Корсика f
@@ -945,17 +945,17 @@ kosa - нож m
 kość - зар m
 kosmetyczny - козметичен
 Kostaryka - Коста Рика f
-kostka - костица f | кокълче n | глезен m | перце n | паве n
+kostka - костица f, кокълче n, глезен m, перце n, паве n
 kostka Rubika - куб на Рубик
-kosztowny - скъп m | драг m
+kosztowny - скъп m, драг m
 kot - котка f
 koza - коза f
 Kozak - казак m
 Koziorożec - Козирог
 koźlak - обикновена масловка f
-kraj - страна f | край m | държава | страна
+kraj - страна f, край m, държава, страна
 Kraków - Краков
-krasula - скот | крава f
+krasula - скот, крава f
 krauza - буркан m
 krawat - вратовръзка f
 krawatka - вратовръзка f
@@ -965,14 +965,14 @@ krokodyl - крокодил m
 królestwo - кралство n
 królewski - кралски
 królowa - кралица f
-krowa - скот | крава f
+krowa - скот, крава f
 krtań - ларинкс
 krucjata - кръстоносен поход
 krybuny - кръст m
 krypel - църква f
 krypton - криптон m
 krytyk - критик m
-krzeczek - хомяк m | хамстер m
+krzeczek - хомяк m, хамстер m
 krzem - силиций
 Krzysztof - Христо
 krzyż - кръст m
@@ -997,21 +997,21 @@ kurwacik - вратовръзка f
 kurz - прах m
 kusiciel - изкусител m
 kuskus - кускус
-kutafon - кур | хуй
-kutas - кур | хуй
+kutafon - кур, хуй
+kutas - кур, хуй
 Kuwejt - Кувейт m
 kwas akrylowy - акриловата киселина
 kwas chlebowy - квас m
 kwas foliowy - фолиева киселина f
 kwas hialuronowy - хиалуронова киселина f
-kwiat - цвят m | цвете n | саксийно растение n
+kwiat - цвят m, цвете n, саксийно растение n
 kwiecień - април m
 kwitnąć - цъфтя
 kynologia - кинология
 łabęć - лебед m
 łabędź - лебед m
 labrys - двойна брадва
-lacz - глава f | полицай m
+lacz - глава f, полицай m
 lakier do paznokci - лак за нокти
 laktaza - лактаза f
 łańcuch - синджир m
@@ -1021,7 +1021,7 @@ lantan - лантан m
 Laos - Лаос m
 laptop - лаптоп m
 las - гора f
-laska - бастун m | пръчка f | мацка f | свирка f
+laska - бастун m, пръчка f, мацка f, свирка f
 lato - лято n
 lebo - или
 lecieć - летя
@@ -1032,7 +1032,7 @@ leniwy - мързалив
 łepetyna - глава f
 leśny - партизанин m
 Lesotho - Лесото
-lew - лъв | лев
+lew - лъв, лев
 Lew - Лъв
 Liban - Ливан m
 Liberia - Либерия
@@ -1045,7 +1045,7 @@ listopad - ноември m
 lit - литий m
 literat - писател
 liturgiczny - богослужебен
-lód - лед m | сладолед m
+lód - лед m, сладолед m
 lodówka - хладилник m
 łokieć - лакът m
 Londyn - Лондон m
@@ -1087,10 +1087,10 @@ malin - малина f
 malina - малина f
 małpa - кльомба
 Malta - Малта
-mały palec - малък пръст m | кутре n | кутле n
-małżonek - съпруг m | мъж m
+mały palec - малък пръст m, кутре n, кутле n
+małżonek - съпруг m, мъж m
 małżonka - жена f
-mam - имам | трябва
+mam - имам, трябва
 mangan - манган m
 manierka - манерка f
 marchew - морков m
@@ -1102,7 +1102,7 @@ Mars - Марс m
 marzec - март m
 marzenie senne - сън m
 masa perłowa - седеф m
-maska - лице (lice) n | лик (lik) m | образ (obraz) m
+maska - лице (lice) n, лик (lik) m, образ (obraz) m
 maślak - масловка f
 maślak sitarz - кравешка масловка f
 maślak ziarnisty - зърнеста масловка f
@@ -1115,8 +1115,8 @@ matematyk - математик
 matka - майка f
 Mauretania - Мавритания f
 Mauritius - Мавриций
-mąż - мъж m | съпруг m
-mazak - лице (lice) n | лик (lik) m | образ (obraz) m
+mąż - мъж m, съпруг m
+mazak - лице (lice) n, лик (lik) m, образ (obraz) m
 meczet - джамия f
 medycyna - медицина f
 medyk - лекар m
@@ -1132,16 +1132,16 @@ meteoryt - метеорит
 metr kwadratowy - квадратен метър m
 mężczyzna - мъж m
 Miami - Маями
-mianownik - именителен падеж | знаменател m
+mianownik - именителен падеж, знаменател m
 miasto - град m
 miasto stołeczne - столица f
 miau - мяу
 miażdżyca - атеросклероза f
-mieć - имам | трябва
+mieć - имам, трябва
 miecznik - косатка
 miejska legenda - градска легенда
 mielcuch - бира f
-mieli - имам | трябва
+mieli - имам, трябва
 miesiąc - месец m
 mięsopustnik - февруари m
 mikologia - микология f
@@ -1167,7 +1167,7 @@ molibden - молибден m
 Monako - Монако
 monarchia - монархия
 Mongolia - Монголия f
-mora - призрак | фантом | душа | дух
+mora - призрак, фантом, душа, дух
 mordować - убия
 morela - кайсия f
 morkwa - морков m
@@ -1195,7 +1195,7 @@ muchomor jadowity - бяла мухоморка f
 muchomor plamisty - пантерка f
 muchomor sromotnikowy - зелена мухоморка f
 muchomor zielonawy - зелена мухоморка f
-mućka - скот | крава f
+mućka - скот, крава f
 mundurowy - полицай m
 muraszka - мравка f
 muzyczny - музикален
@@ -1218,7 +1218,7 @@ naj- - най
 Namibia - Намибия
 napisać - напиша
 naprawdę - наистина
-na razie - засега | за момента | до скоро
+na razie - засега, за момента, до скоро
 naród - народ m
 narodowy socjalizm - националсоциализъм m
 narzeczony - жених m
@@ -1236,7 +1236,7 @@ Neptun - Нептун m
 nerka - бъбрек m
 ni - не
 nic - нищо
-Niderlandy - Холандия f | Нидерландия f
+Niderlandy - Холандия f, Нидерландия f
 nie - не
 niebezpieczny - опасен
 niebieski - син
@@ -1248,8 +1248,8 @@ nieduch - болест
 niedziela - неделя f
 niegdysiejszy - бивш
 niemal - почти
-nie mieć - не | имам | трябва
-Niemiecka Republika Demokratyczna - Германска демократична република | Германска демократическа република
+nie mieć - не, имам, трябва
+Niemiecka Republika Demokratyczna - Германска демократична република, Германска демократическа република
 niemożliwy - невъзможен
 nie od razu Kraków zbudowano - Хубавите неща стават бавно
 niepodległość - независимост f (nezavisimost)
@@ -1301,24 +1301,24 @@ obłok - облак m
 obłudnik - лицемер m
 obój - обой m
 obojczyk - ключица
-obraz - картина f | филм m
+obraz - картина f, филм m
 Ocean Atlantycki - Атлантически океан m
 Ocean Indyjski - Индийски океан m
 Ocean Spokojny - Тихи океан m
 ocet - оцет m
-ociec - баща m | отец m
+ociec - баща m, отец m
 od - от
 ode - от
-odmiana - сорт m | род m
+odmiana - сорт m, род m
 odór - смрад m
-odszkodowanie - обезщетение n | компенсация f
-oficjalny - официално | официален
+odszkodowanie - обезщетение n, компенсация f
+oficjalny - официално, официален
 ogier - жребец m
 oglądać - гледам
 ogon - опашка f
 ogórek - краставица f
 ogród zoologiczny - зоологическа градина f
-ojciec - баща m | отец m
+ojciec - баща m, отец m
 ojczyc - син m
 ojczyzna - отечество n
 ojla - сова f
@@ -1355,19 +1355,19 @@ ośmiornica - октопод
 osoba - лице
 Ostia - Остия f
 ostrężyna - къпина
-ostry - остър | лют
+ostry - остър, лют
 owulacja - овулация f
 ożyna - къпина
 pachniarz - нос m
 paciuk - плъх (płych)
 Pacyfik - Тихи океан m
 pagórek - хълм
-pajęcznik - септември m | октомври m | ноември m
+pajęcznik - септември m, октомври m, ноември m
 Pakistan - Пакистан m
 pakli - ако (ako)
-pała - глава f | полицай m
+pała - глава f, полицай m
 palacz - водач
-pale - глава f | полицай m
+pale - глава f, полицай m
 palec wskazujący - показалец m
 paleoantropologia - палеоантропология f
 paleontologia - палеонтология f
@@ -1379,7 +1379,7 @@ pandemia - пандемия f
 Panna - Дева
 papier - хартия f
 papuga - папагал
-para - двойка f | чифт m | водна пара
+para - двойка f, чифт m, водна пара
 Paragwaj - Парагвай m
 parówka - кренвирш m
 partyzant - партизанин m
@@ -1387,7 +1387,7 @@ Paryż - Париж
 pasieka - пчелин m
 paszenog - баджанак m
 patria - отечество n
-patriota - патриот m | родолюбец m
+patriota - патриот m, родолюбец m
 patriotka - патриотка f
 patriotyzm - патриотизъм m
 pawęża - щит
@@ -1406,7 +1406,7 @@ Peru - Перу
 piana - бира f
 piątek - петък m
 pić - пия
-piczka - пичка | путка
+piczka - пичка, путка
 piekło - смола f
 pieniądz - пара f
 pierdzieć - пърдя
@@ -1425,36 +1425,36 @@ pióro - перо
 piorun - мълния f
 Piotr - Петър m
 Piotra - Петра f
-pipa - пичка | путка
+pipa - пичка, путка
 Pireneje - Пиренеи
 pisarz - писател
 pistacja - шам фъстък
 pistolet maszynowy - картечен пистолет
 Pittsburgh - Питсбърг m
 piwo - бира f
-pizda - пичка | путка
+pizda - пичка, путка
 pizza - пица f
 pizzeria - пицария
 planeta - планета
 planta - растение n
 plaża - плаж m
 plecak - раница
-plik - сноп m | вързоп m (dokumentów) | пачка f (banknotów) | файл m
+plik - сноп m, вързоп m (dokumentów), пачка f (banknotów), файл m
 pluskwa - дървеница
-pluton - плутоний m | чета f
+pluton - плутоний m, чета f
 płynny - течност
-płyta - плоча m | диск | оптичен диск m (dysk optyczny) | плоча | грамофонна плоча f (płyta gramofonowa)
+płyta - плоча m, диск, оптичен диск m (dysk optyczny), плоча, грамофонна плоча f (płyta gramofonowa)
 pływać - плувам
 pocieszyciel - утешител m
 początkowy - първоначален
 poczta - поща f
 pocztówka - пощенска картичка f
 podobać się - харесвам
-poganin - поганец | езичник m
+poganin - поганец, езичник m
 pojutrze - вдругиден
 poleku - бавно
 policjant - полицай m
-policzek - буза f | шамар m | плесница f | пързалка f
+policzek - буза f, шамар m, плесница f, пързалка f
 polityczny - политически
 polityka - политика (polítika) f
 półkula - полукълбо n
@@ -1471,7 +1471,7 @@ Półwysep Bałkański - Балкански полуостров
 pomagać - помагам
 pomarańcza - портокал
 poniedziałek - понеделник m
-ponieważ - защото (zaštoto) | тъй като (tǎj kato) | понеже (poneže)
+ponieważ - защото (zaštoto), тъй като (tǎj kato), понеже (poneže)
 pop - поп
 popadia - попадия f
 popielniczka - пепелник m
@@ -1485,7 +1485,7 @@ pośladek - задник m
 pospolity - обикновен
 potas - калий m
 potop - наводнение
-potrafić - зная | знам
+potrafić - зная, знам
 potrawa - ястие n
 potrzeba - нужда f
 potrzebizna - нужда f
@@ -1499,7 +1499,7 @@ powoli - бавно
 poza - освен
 pozawczoraj - завчера
 pracować - работя
-pracowitość - работливост f | трудолюбие n
+pracowitość - работливост f, трудолюбие n
 pracowity - работен
 Praga - Прага
 praktyczny - практичен
@@ -1516,7 +1516,7 @@ prezydent - президент
 probówka - епруветка f
 próbówka - епруветка f
 proch - прах m
-produkować - произвеждам | продуцирам
+produkować - произвеждам, продуцирам
 prom - ферибот m
 promet - прометий m
 promienica - актиномикоза f
@@ -1527,7 +1527,7 @@ protaktyn - протактиний m
 prowansalski - Октански
 Prusy - Прусия f
 przebiśnieg - кокиче n
-przebój - хит m | шла́гер m
+przebój - хит m, шла́гер m
 przeciwciało - антитяло
 przeciwnik - противник m
 przed - пред
@@ -1535,7 +1535,7 @@ przede - пред
 przedimek - член m
 przedpokój - коридор (koridór) m
 przedrostek - представка f
-przedsiębiorstwo - предприятие n | фирма f
+przedsiębiorstwo - предприятие n, фирма f
 przedsięwzięcie - предприятие n
 przedwczoraj - завчера
 przemysł - индустрия f
@@ -1544,19 +1544,19 @@ przepiórka - пъдпъдък m
 przestrzeń kosmiczna - космическо пространство
 przeszłość - минало n
 przewlekły - хроничен
-przewód - проводник m | кабел m | тръба f | канал m | тракт m | процес m (съдебен)
+przewód - проводник m, кабел m, тръба f, канал m, тракт m, процес m (съдебен)
 przeznaczony - предназначен
 przychylnie - благосклонно
 przyjaciel - приятел m
 przynęta - примамка f
-przypadek - случай m | падеж m
+przypadek - случай m, падеж m
 przypadkiem - случайно
 przypadkowo - случайно
 przyroda - природа f
 przyrodniczy - природен
 przyrostek - наставка f
 przysięgać - заклевам се (zaklevam se)
-przytcza - случай m | падеж m
+przytcza - случай m, падеж m
 psisko - куче n (kucze)
 psy szczekają, karawana idzie dalej - кучетата лаят, керванът си върви
 pszczoła - пчела f
@@ -1570,7 +1570,7 @@ pultok - пуйка f
 purpurowy - пурпурен
 pustułka - керкенез m
 pusty - глупав
-puszka - кутия f | бира f
+puszka - кутия f, бира f
 puter - пуйка f
 Pyjter - Петър m
 pyra - картоф m
@@ -1602,10 +1602,10 @@ reklama - реклама f
 ren - рений m
 Republika Federalna Niemiec - Федерална Република Германия (Federalna Republika Germanija)
 Republika Korei - Република Корея
-Republika Południowej Afryki - Република Южна Африка | Южноафриканска република
+Republika Południowej Afryki - Република Южна Африка, Южноафриканска република
 Republika Słowacka - Словашка република
 Republika Środkowoafrykańska - Централноафриканска република
-Republika Zielony Zielonego Przylądka - Кабо Верде | Република Кабо Верде | Република Зелени нос
+Republika Zielony Zielonego Przylądka - Кабо Верде, Република Кабо Верде, Република Зелени нос
 restauracja - ресторант m
 rewolucja - революция
 rezerwuar - резервоар m
@@ -1614,7 +1614,7 @@ RNA - РНК f
 robić - правя
 robotyka - роботика f
 rod - родий m
-rodzaj - сорт m | род m
+rodzaj - сорт m, род m
 rodzajnik - член m
 rodzicielski - родителски
 rodzina - семейство n
@@ -1643,7 +1643,7 @@ rufa - задник m
 rugby - ръгби m
 Rumun - румънец m
 Rumunia - Румъния f
-rura - тръба f | пилон m
+rura - тръба f, пилон m
 rurociąg - тръбопровод m
 ruten - рутений m
 rutherford - ръдърфордий m
@@ -1656,11 +1656,11 @@ rywal - съперник m
 ryż - ориз m
 rzadko - рядко
 rzeciądz - синджир m
-rzecz - вещ f | предмет m | тема f
+rzecz - вещ f, предмет m, тема f
 rzeka - река
 rzęsa - ресница f
 rzeżączka - гонорея
-rzić - гъз m | задник m
+rzić - гъз m, задник m
 rzodkiewka - репичка f
 Rzym - Рим
 sagan - глава f
@@ -1705,9 +1705,9 @@ sieczeń - февруари m
 siedem grzechów głównych - седемте смъртни гряха
 sierpień - август m
 sikora - синигер m
-silno - много | по
+silno - много, по
 Singapur - Сингапур m
-sinologia - синология f | китаистика f
+sinologia - синология f, китаистика f
 sioło - село
 siostra - сестра f
 sirpień - август m
@@ -1725,7 +1725,7 @@ skowronek - чучулига f
 skrobia - нишесте n
 skromność - скромност f
 skrzyp polny - полски хвощ
-slawistyka - славянознание n | славистика f
+slawistyka - славянознание n, славистика f
 śleboda - свобода f
 śledź - вратовръзка f
 śledziona - слезка
@@ -1733,7 +1733,7 @@ slawistyka - славянознание n | славистика f
 ślips - вратовръзка f
 śliwa - слива
 śliwka - слива f
-słodki - сладък (sladǎk) m | сладка (sladka) f | сладко (sladko) n
+słodki - сладък (sladǎk) m, сладка (sladka) f, сладко (sladko) n
 słoik - буркан m
 słoń - слон m
 Słońce - Слънце
@@ -1790,17 +1790,17 @@ stadion - стадион m
 stal - стомана
 stan - щат m
 stan wyjątkowy - извънредно положение
-Stany - Съединени американски щати | САЩ
-Stany Zjednoczone - Съединени американски щати | САЩ
-Stany Zjednoczone Ameryki - Съединени американски щати | САЩ
+Stany - Съединени американски щати, САЩ
+Stany Zjednoczone - Съединени американски щати, САЩ
+Stany Zjednoczone Ameryki - Съединени американски щати, САЩ
 stara panna - стара мома f
 starek - дядо m
-stare miasto - стар | град m
+stare miasto - стар, град m
 starka - баба
 starosek - дядо m
 staroszek - дядо m
 starożytny - античен
-starszy - баща m | отец m
+starszy - баща m, отец m
 starszy kapral - ефрейтор
 stary - стар
 starzyk - дядо m
@@ -1846,7 +1846,7 @@ syntagma - синтагма f
 syra - крак f
 systematyzacja - систематизация f
 szac - жених m
-szachy - шахмат m | шах m
+szachy - шахмат m, шах m
 szamot - муцуна f
 szczaw - киселец m
 Szczecin - Шчечин
@@ -1863,18 +1863,18 @@ szklanka - чаша f (стъклена)
 szkło - стъкло n
 Szkocja - Шотландия f
 szkoła - училище f
-szlauch - змия f | маркуч m
+szlauch - змия f, маркуч m
 szlips - вратовръзка f
 szmaragd - изумруд m
-szneka - лице (lice) n | лик (lik) m | образ (obraz) m
-szolka - чаша f (порцеланова) | чаша f
+szneka - лице (lice) n, лик (lik) m, образ (obraz) m
+szolka - чаша f (порцеланова), чаша f
 szpak - скорец m
 szpiegostwo - шпионаж m
-szpilka - карфица f | високо токче n | игличка f | шпилка f
+szpilka - карфица f, високо токче n, игличка f, шпилка f
 szpinak - спанак m
 szpital - болница f
 szpuk - гълъб m
-sztuka - изкуство | бройка | пиеса
+sztuka - изкуство, бройка, пиеса
 szuflada - чекмедже n
 szukać - търся
 szulak - ястреб m
@@ -1891,9 +1891,9 @@ szyja - шия f
 szykowny - елегантен
 szynka - шунка f
 tachykardia - тахикардия f
-tacik - баща m | отец m | дядо m
+tacik - баща m, отец m, дядо m
 Tadżykistan - Таджикистан
-tajemnica poliszynela - обществена тайна f | публична тайна f
+tajemnica poliszynela - обществена тайна f, публична тайна f
 Tajlandia - Тайланд
 tajski - тайски
 Tajwan - Тайван m
@@ -1905,16 +1905,16 @@ tamdotąd - там
 tank - танк m
 tantal - тантал
 Tanzania - Танзания
-tarcza - щит | лице (lice) n | лик (lik) m | образ (obraz) m
+tarcza - щит, лице (lice) n, лик (lik) m, образ (obraz) m
 tarcza krystaliczna - щит
-tarcza strzelecka - щит | лице (lice) n | лик (lik) m | образ (obraz) m
+tarcza strzelecka - щит, лице (lice) n, лик (lik) m, образ (obraz) m
 tarcza szkolna - щит
 taternictwo - алпинизъм m
 technet - технеций m
 technologia - технология f
 tęcza - дъга f
 tęgoskór cytrynowy - брадавичеста пърхутка f
-tej - ти | Вие
+tej - ти, Вие
 telewizor - телевизор m
 tellur - телур m
 temat - тема f
@@ -1928,7 +1928,7 @@ Timor Wschodni - Източен Тимор m
 tkanka - тъкан
 tkanka tłuszczowa - мастна тъкан f
 tlen - кислород m
-tobie - ти | Вие
+tobie - ти, Вие
 Togo - Того
 tolerować - толерирам
 tonfa - тонфа
@@ -1936,7 +1936,7 @@ topaz - топаз m
 tor - торий m
 tort - торта f
 tory - торий m
-traf - случай m | падеж m
+traf - случай m, падеж m
 trambimba - трамвай m
 tramwaj - трамвай m
 tramwajka - трамвай m
@@ -1958,10 +1958,10 @@ Turcja - Турция
 Turkmenistan - Туркменистан
 tuż - почти
 twardy - твърд
-twarz - лице (lice) n | лик (lik) m | образ (obraz) m
+twarz - лице (lice) n, лик (lik) m, образ (obraz) m
 twój - твой
 twórca - баща m
-ty - ти | Вие
+ty - ти, Вие
 tydzień - седмица f
 tyfus - тиф m
 tyj - чай m
@@ -1974,13 +1974,13 @@ ubiór - облекло n
 ucho - ухо n
 uczciwie - честно
 Uganda - Уганда
-uj - чичо m | вуйчо m
-ujec - чичо m | вуйчо m
-ujek - чичо m | вуйчо m
+uj - чичо m, вуйчо m
+ujec - чичо m, вуйчо m
+ujek - чичо m, вуйчо m
 układ okresowy - периодична таблица
 Ukraina - Украйна f
 ul - кошер m
-umieć - зная | знам
+umieć - зная, знам
 umiejętność - вещина
 umywalka - умивалник m
 Unia Europejska - Европейски съюз f
@@ -1989,12 +1989,12 @@ uón - той
 urlopowicz - летовник m
 urologia - урология f
 usta - уста
-uzależnienie - зависимост | пристрастеност
+uzależnienie - зависимост, пристрастеност
 uzasadniać - оправдаят
 Uzbekistan - Узбекистан
 użytkownik - потребител
 w - на
-wacha - море (móre) n | вода f
+wacha - море (móre) n, вода f
 Waga - Везни
 wajco - яйце n (jajce)
 walczerz - батальон m
@@ -2006,7 +2006,7 @@ warga - бърна f
 wąski - тесен (tesen)
 wata cukrowa - захарен памук
 Watykan - Ватикан
-wąż - змия f | маркуч m
+wąż - змия f, маркуч m
 ważka - водно конче n
 wczoraj - вчера
 we - на
@@ -2021,13 +2021,13 @@ wenezuelski - венецуелски
 Wenus - Венера f
 wersja - версия f
 wesoło - весело
-Wesołych Świąt - Весела Коледа | Честита Коледа
+Wesołych Świąt - Весела Коледа, Честита Коледа
 wezwanie - титла
 widzieć - виждам
 Wiedeń - Виена f
-wiedzieć - зная | знам
+wiedzieć - зная, знам
 wielbłąd - камила f
-Wielkanoc - Великден (wielikden) m | Възкресение Христово n (Vŭzkresenie Khristovo) | Пасха f (Pascha)
+Wielkanoc - Великден (wielikden) m, Възкресение Христово n (Vŭzkresenie Khristovo), Пасха f (Pascha)
 wielokulturowość - мултикултурализъм m
 wielokulturowy - междукултурен
 wierzyciel - кредитор m
@@ -2068,21 +2068,21 @@ Wołgograd - Волгоград m
 wolna miłość - свободна любов f
 wolność - свобода f
 wolność słowa - свобода на словото f
-wolny - свободен | бавен
+wolny - свободен, бавен
 wołowina - говеждо месо
 woniączka - водка
 wóz - каруца f
 wróbel - врабче n
-wróg - враг m | неприятел m
+wróg - враг m, неприятел m
 wrona - сива врана
 wrzesień - септември m
 wszechobecny - вездесъщ
 wtorek - вторник m
 w tym - на
-wuj - чичо m | вуйчо m
-wujek - чичо m | вуйчо m
-wujko - чичо m | вуйчо m
-wujo - чичо m | вуйчо m
+wuj - чичо m, вуйчо m
+wujek - чичо m, вуйчо m
+wujko - чичо m, вуйчо m
+wujo - чичо m, вуйчо m
 wulgarny - вулгарен
 wulkan - вулкан m
 wulkaniczny - вулканичен
@@ -2105,8 +2105,8 @@ wystarczać - стигам
 wystarczający - достатъчен
 wywielga - авлига f
 wyżłobienie - жлеб m
-z - от | с | със
-za - зад | след | за
+z - от, с, със
+za - зад, след, за
 ząb - зъб m
 żaba - жаба f
 zabijać - убия
@@ -2128,21 +2128,21 @@ Zambia - Замбия f
 zamorski - задморски
 żandarm - заптие m
 zapalenie płuc - пневмония
-zapałka - клечка f | кибрит m
+zapałka - клечка f, кибрит m
 zapraszać - каня
 żargon - жаргон
 zawartość - предмет
-zbiór - сноп m | вързоп m (dokumentów) | пачка f (banknotów) | файл m
-zdanie - изречение n | мнение n
+zbiór - сноп m, вързоп m (dokumentów), пачка f (banknotów), файл m
+zdanie - изречение n, мнение n
 zdrowie - здраве n
-ze - от | с | със
+ze - от, с, със
 że - че (če)
 zegar - часовник m
 żegleń - въглерод m
 żelazko - ютия
 żelazo - желязо (željazo) n
 żeńczyna - жена f
-zez - от | с | със
+zez - от, с, със
 ziele angielskie - бахар m
 zielnik - хербарий
 Ziemia - Земя f
@@ -2163,12 +2163,12 @@ zoo- - зоо-
 zoolog - зоологическа градина f
 zoologiczny - зоологически
 zooplankton - зоопланктон m
-źrenica - зеница f | око n
+źrenica - зеница f, око n
 zrozumienie - понятие n
 Zurych - Цюрих
 Związek Socjalistycznych Republik Radzieckich - Съюз на Съветските Социалистически Републики
 zwierzak - животно (životno) n
-zwierzątko - животинка f | животинче n
+zwierzątko - животинка f, животинче n
 zwierzę - животно (životno) n
 życie - живот m
 żyła - вена f

@@ -1,16 +1,16 @@
-AA - AA | AA-liike (Anonyymit Alkoholistit)
+AA - AA, AA-liike (Anonyymit Alkoholistit)
 Aaron - Aaron
-abak - abakus | helmitaulu
-abakus - abakus | helmitaulu
+abak - abakus, helmitaulu
+abakus - abakus, helmitaulu
 abandon - hylkääminen
 abażur - lampunvarjostin
 ABC - aakkoset
 Abchazja - Abhasia
 abecadlnik - aapinen
-abecadło - aakkoset | kirjaimisto
-abfal - jäte | uskaltaa | anomalia
+abecadło - aakkoset, kirjaimisto
+abfal - jäte, uskaltaa, anomalia
 Abidżan - Abidjan
-abiecadło - aakkoset | kirjaimisto
+abiecadło - aakkoset, kirjaimisto
 abiturient - abiturientti
 ablatyw - ablatiivi
 ablegierek - lapsi
@@ -18,10 +18,10 @@ aborcja - abortti
 ABS - ABS
 absolut - absoluutti
 abstrakcyjny - abstrakti
-abstynent - absolutisti | raitis
+abstynent - absolutisti, raitis
 Adam - Aadam
 Adelajda - Adelaide
-administrator - kuraattori | selvitysmies
+administrator - kuraattori, selvitysmies
 admirał - amiraali
 Adonis - Adonis
 adres - osoite
@@ -31,9 +31,9 @@ aeracja - ilmastus
 aerodrom - lentoasema
 aerodynamika - aerodynamiikka
 aeroplan - lentokone
-afelzina - appelsiini | appelsiinipuu
+afelzina - appelsiini, appelsiinipuu
 Afganistan - Afganistan
-afro - afro | afrokampaus
+afro - afro, afrokampaus
 Afrodyzja - Afrodisias
 Afryka - Afrikka
 afrykanerski - afrikaans
@@ -57,15 +57,15 @@ akwedukt - akvedukti
 Akwitania - Akvitania
 Aladyn - Aladdin
 Albania - Albania
-albański - albanialainen | albania
+albański - albanialainen, albania
 Alberta - Alberta
 Albin - Alpo
 alczyk - pikkuruokki
 ale - mutta
 Aleksander - Aleksanteri
 Aleuty - Aleutit
-alfabet - aakkoset | kirjaimisto
-alfabetu - aakkoset | kirjaimisto
+alfabet - aakkoset, kirjaimisto
+alfabetu - aakkoset, kirjaimisto
 Alfred - Alfred
 algebra - algebra
 algebraiczny - algebrallinen
@@ -77,13 +77,13 @@ Alina - Alina
 alka - ruokki
 alka olbrzymia - siivetönruokki
 alka zwyczajna - ruokki
-alkohol - alkoholi | alkoholijuoma
+alkohol - alkoholi, alkoholijuoma
 alkoholizm - alkoholismi
 Allach - Allah
 Allah - Allah
 alleluja - halleluja
 almanach - kalenteri
-alokacja - jako | jakaminen | allokointi
+alokacja - jako, jakaminen, allokointi
 Alpy - Alpit
 ałsztojer - myötäjäiset
 altannik - lavastaja
@@ -116,11 +116,11 @@ Andromeda - Andromeda
 Andrzej - Antero
 Andy - Andit
 Aneta - Anette
-angielski - englantilainen | englanti
+angielski - englantilainen, englanti
 Anglia - Englanti
 anglicyzm - anglismi
 Anglija - Englanti
-angol - englantilainen | englanti
+angol - englantilainen, englanti
 angryst - karviainen
 animista - animisti
 anioł - enkeli
@@ -136,7 +136,7 @@ Antares - Antares
 Antarktyda - Etelämanner
 antena - antenni
 Antoni - Anton
-antrejka - käytävä | eteiskäytävä
+antrejka - käytävä, eteiskäytävä
 antropofagia - antropofagia
 antropologia - antropologia
 antryj - käytävä
@@ -144,41 +144,41 @@ antybakteryjny - antibakteerinen
 antykomunizm - antikommunismi
 Antyle Holenderskie - Alankomaiden Antillit
 antyoksydacyjny - antioksidanttinen
-Anzelm - Anselmi | Anssi
+Anzelm - Anselmi, Anssi
 apartament - asunto
 Apeniny - Apenniinit
-apluzyna - appelsiini | appelsiinipuu
+apluzyna - appelsiini, appelsiinipuu
 Apollo - Apollon
 aprykoza - aprikoosi
 apryl - huhtikuu
-apsik - ätsii! | ätsiih!
-a psik - ätsii! | ätsiih!
+apsik - ätsii!, ätsiih!
+a psik - ätsii!, ätsiih!
 aptek - apteekki
 apteka - apteekki
-Arab - arabi | arabialainen
+Arab - arabi, arabialainen
 Arabia Saudyjska - Saudi-Arabia
 arabika - arabiankahvi
-arabski - arabia | arabialainen
-arabus - arabi | arabialainen
+arabski - arabia, arabialainen
+arabus - arabi, arabialainen
 Aragonia - Aragonia
-arbuz - vesimeloni | arbuusi
+arbuz - vesimeloni, arbuusi
 Archangielsk - Arkangeli
 archipelag - saaristo
 arfa - harppu
 Argentyna - Argentiina
 argon - argon
 arka - arkki
-armia - maavoimat | armeija
-armijo - maavoimat | armeija
+armia - maavoimat, armeija
+armijo - maavoimat, armeija
 arogancja - arroganssi
 arsen - arseeni
 artykuły gospodarstwa domowego - kodinkone
 as - ässä
-asafetyda - hajupihka | pirunpihka
+asafetyda - hajupihka, pirunpihka
 asceza - askeesi
 aseksualizm - aseksuaalisuus
 aspiryna - aspiriini
-astat - astaatti | astatiini
+astat - astaatti, astatiini
 astrofizyka - astrofysiikka
 astronomia - tähtitiede
 astronomio - tähtitiede
@@ -196,7 +196,7 @@ austriacki - itävaltalainen
 Austriak - itävaltalainen
 Austro-Węgry - Itävalta-Unkari
 autobana - moottoritie
-autobus - bussi | linja-auto
+autobus - bussi, linja-auto
 autoklaw - autoklaavi
 autonomia - autonomia
 autonomiczny - autonominen
@@ -227,16 +227,16 @@ balkon - parveke
 bałtycki - balttilainen
 Bałtyk - Itämeri
 bałwan - lumiukko
-bana - juna | raitiotievaunu | ratikka
+bana - juna, raitiotievaunu, ratikka
 banan - banaani
 banana - banaani
 bandzioch - maha
-bania - kurpitsa | pää | nuppi | hamara
-baniak - pää | nuppi | hamara
+bania - kurpitsa, pää, nuppi, hamara
+baniak - pää, nuppi, hamara
 bank - pankki
-banka - raitiotievaunu | ratikka
+banka - raitiotievaunu, ratikka
 baptyzm - baptismi
-bar - baari | barium
+bar - baari, barium
 barabola - peruna
 Baran - Oinas
 baranek - taivaanvuohi
@@ -247,17 +247,17 @@ barglik - vilistäjä
 barszcz - borssi
 barwa - väri
 barzoł - suo
-bas - basso | maha
+bas - basso, maha
 basen - allas
-baskijski - baskilainen | baski
-batuta - tahtipuikko | pinna
+baskijski - baskilainen, baski
+batuta - tahtipuikko, pinna
 bażant - fasaani
 bazylia - basilika
 beatyfikacja - beatifikaatio
-bebech - maha | vatsa
+bebech - maha, vatsa
 bęben - maha
 bębenek - tärykalvo
-beczeć - itkeä | parkua | vollottaa
+beczeć - itkeä, parkua, vollottaa
 befsztyk - pihvi
 bejm - raha
 bekasik - jänkäkurppa
@@ -286,23 +286,23 @@ bernikla rdzawoszyja - punakaulahanhi
 beryl - beryllium
 Betlejem - Betlehem
 beton - betoni
-bety - pyjama | yöpuku
+bety - pyjama, yöpuku
 bezchmurny - pilvetön
 bezdomny - koditon
 bezlistny - lehdetön
 beznadzieja - epätoivo
 bezosobowy - persoonaton
-beżowy - beige | beesi
+beżowy - beige, beesi
 bezpłetwiec - puuhanhi
 bezradność - avuttomuus
 bezręki - kädetön
 bezrobotny - työtön
 bezsenność - unettomuus
 Białoruś - Valko-Venäjä
-białoruski - valkovenäläinen | valkovenäjä
+białoruski - valkovenäläinen, valkovenäjä
 białorzytka - kivitasku
 białozór - tunturihaukka
-biały - valkoinen | valkea
+biały - valkoinen, valkea
 Biblia - Raamattu
 bibliografia - bibliografia
 biblioteka - kirjasto
@@ -321,12 +321,12 @@ bierne palenie - passiivinen tupakointi
 biglosko - silitysrauta
 bilbil - bulbuli
 bilet - lippu
-bimba - raitiotievaunu | ratikka
+bimba - raitiotievaunu, ratikka
 bindał - lannevaate
-binder - solmio | kravatti
-bindka - solmio | kravatti
+binder - solmio, kravatti
+bindka - solmio, kravatti
 biografia - elämäkerta
-biograficzny - biografinen | elämäkerrallinen
+biograficzny - biografinen, elämäkerrallinen
 biolog - biologi
 biologia - biologia
 bioniczny - bioninen
@@ -355,7 +355,7 @@ blumkol - kukkakaali
 blumsztynder - kukkapenkki
 bluszcz - muratti
 błyskawica - salama
-bo - koska | sillä | siksi
+bo - koska, sillä, siksi
 bób - härkäpapu
 boba - hattu
 bóbr - majava
@@ -364,7 +364,7 @@ bocian czarny - mustahaikara
 bóg - jumala
 Bóg - Jumala
 bogatka - talitiainen
-Bohemia - Tšekki | Böömi
+Bohemia - Tšekki, Böömi
 bohr - bohrium
 bójka - tappelu
 bojler - boileri
@@ -373,12 +373,12 @@ Boliwia - Bolivia
 bomba atomowa - ydinpommi
 bombel - lapsi
 bor - boori
-borówka - marja | mustikka
+borówka - marja, mustikka
 borówka bagienna - juolukka
 borsuk - mäyrä
 Bośnia i Hercegowina - Bosnia ja Hertsegovina
 botanik - kasvitieteilijä
-boźdór - poika | poikaystävä
+boźdór - poika, poikaystävä
 Boże Narodzenie - joulu
 brachol - veli
 bracieniec - veli
@@ -388,14 +388,14 @@ brązowy - ruskea
 Brazylia - Brasilia
 brazyliana - kahvi
 briftreger - postinkantaja
-bród - kahlaamo | kahluupaikka
+bród - kahlaamo, kahluupaikka
 broda - parta
 brodaty - partainen
 brodziec pławny - lampiviklo
 brodziec śniady - mustaviklo
 broń - ase
 broń biologiczna - biologinen ase
-browar - panimo | olut | kalja | kotikalja | mallasjuoma
+browar - panimo, olut, kalja, kotikalja, mallasjuoma
 brudny - likainen
 Bruksela - Bryssel
 brukselka - brysselinkaali
@@ -423,35 +423,35 @@ buddyzm - buddhalaisuus
 budynek - rakennus
 buk - pyökki
 bulba - peruna
-buldożer - puskutraktori | raivaustraktori
+buldożer - puskutraktori, raivaustraktori
 Bułgar - bulgarialainen
 Bułgaria - Bulgaria
 Bułgarka - bulgarialainen
-bułgarski - bulgarialainen | bulgarian kieli
+bułgarski - bulgarialainen, bulgarian kieli
 bulić - maksaa
 bulwa - peruna
 burak - juurikas
-burdel - ilotalo | bordelli
+burdel - ilotalo, bordelli
 Burkina Faso - Burkina Faso
 bursztyn - meripihka
 burunduk - siperianmaaorava
-burza - ukkonen | ukkosmyrsky
+burza - ukkonen, ukkosmyrsky
 burza w szklance wody - myrsky vesilasissa
-burzowiny - olut | kalja | kotikalja | mallasjuoma
+burzowiny - olut, kalja, kotikalja, mallasjuoma
 być - olla
 Byk - Härkä
 Była Jugosłowiańska Republika Macedonii - Entisen Jugoslavian Tasavalta Makedonia
 bzybzać - varastaa
-całkiem - aika | melko
+całkiem - aika, melko
 camper - leiriytyjä
-cebula - sipuli | laukka
+cebula - sipuli, laukka
 cegła - tiili
 celtycki - kelttiläinen
 cel uświęca środki - tarkoitus pyhittää keinot
 cena - hinta
 centrum - keskusta
-cepeen - bensiiniasema | bensa-asema
-cepelin - ilmalaiva | zeppeliini
+cepeen - bensiiniasema, bensa-asema
+cepelin - ilmalaiva, zeppeliini
 cera - tytär
 chabaj - teurastaja
 chabanina - liha
@@ -466,15 +466,15 @@ chart - vinttikoira
 chata - maja
 chemiczny - kemiallinen
 chemik - kemisti
-chętny - hanakka | kärkäs
+chętny - hanakka, kärkäs
 chiński - kiinalainen
 Chiny - Kiina
 chitozan - kitosaani
 chlać - juoda
 chleb - leipä
-chłopak - poika | poikaystävä
+chłopak - poika, poikaystävä
 chlor - kloori
-chmiel - humala | olut | kalja | kotikalja | mallasjuoma
+chmiel - humala, olut, kalja, kotikalja, mallasjuoma
 chmura - pilvi
 choćby - esimerkiksi
 choinka - joulukuusi
@@ -482,9 +482,9 @@ chójk - joulukuusi
 choroba - sairaus
 choroba von Willebranda - von Willebrandin tauti
 Chorwacja - Kroatia
-chorwacki - kroatialainen | kroatia
+chorwacki - kroatialainen, kroatia
 chów wsobny - sisäsiittoisuus
-chrobak - mato | aivomato
+chrobak - mato, aivomato
 chrom - kromi
 chromosfera - kromosfääri
 chruścik - vesiperhonen
@@ -495,10 +495,10 @@ chrząszcz - kovakuoriainen
 chuj - kyrpä
 chuśle - viulu
 chyc - helle
-ciało - keho | ruumis
+ciało - keho, ruumis
 ciało szkliste - lasiainen
 ciapryka - kura n
-ciebie - sinä (język pisany) | sä (język mówiony) | Te
+ciebie - sinä (język pisany), sä (język mówiony), Te
 ciemnia - pimiö
 ciemnia fotograficzna - pimiö
 cień - varjo
@@ -507,18 +507,18 @@ cietrzew - teeri
 ciężarny - raskaana
 ciężarówa - kuorma-auto
 ciężarówka - kuorma-auto
-ciężki - painava | raskas | hankala | ankea
+ciężki - painava, raskas, hankala, ankea
 ciga - vuohi
 ciocia - täti
-ciota - poljin | hinttari
-cipa - pillu | vittu
-cipka - keltavahvero | liejukana | kana
+ciota - poljin, hinttari
+cipa - pillu, vittu
+cipka - keltavahvero, liejukana, kana
 cis - lehtikuusi
-ciśnienie - paine | verenpaine
+ciśnienie - paine, verenpaine
 ciupa - vankila
 ciurma - vankila
-ciut - vähän | hiukan
-ćma - yöperhonen | prostituoitu
+ciut - vähän, hiukan
+ćma - yöperhonen, prostituoitu
 ćmić - polttaa
 cnotliwy - hyveellinen
 co - mikä
@@ -535,7 +535,7 @@ cug - juna
 cukier - sokeri
 cukier puder - tomusokeri
 curig - takaisin
-cwel - poljin | hinttari
+cwel - poljin, hinttari
 ćwiczenie czyni mistrza - harjoitus tekee mestarin
 ćwierć - neljännestunti
 ćwierćfinał - quartierfinal
@@ -558,24 +558,24 @@ Cyrkiel - Harppi
 cytryna - sitruuna
 cytrynat - sitruuna
 cytrynowożółty - sitruunankeltainen
-czad - hiilimonoksidi | hiilioksidi
+czad - hiilimonoksidi, hiilioksidi
 czaj - tee
 czajka - töyhtöhyyppä
-czajnik - pää | nuppi | hamara
+czajnik - pää, nuppi, hamara
 czapka - hattu
 czarna dziura - musta aukko
 czarna jagoda - mustikka
 czarnogłówka zwyczajna - hömötiainen
 Czarnogóra - Montenegro
 czarny - musta
-czas - aika | hetki | aikamuoto
+czas - aika, hetki, aikamuoto
 czasopismo - aikakauslehti
 czasownik - verbi
 czas to pieniądz - aika on rahaa
-czaszka - pääkallo | kallo
+czaszka - pääkallo, kallo
 Czechosłowacja - Tšekkoslovakia
 Czecho-Słowacja - Tšekkoslovakia
-Czechy - Tšekki | Böömi
+Czechy - Tšekki, Böömi
 Czeczenia - Tšetšenia
 czeczotka - urpiainen
 czeczotka tundrowa - tundraurpiainen
@@ -584,21 +584,21 @@ czekista - tšekisti
 czekolada - suklaa
 Czelabińsk - Tšeljabinsk
 czepiga - hiiro
-czereśnia - kirsikkapuu | kirsikka
+czereśnia - kirsikkapuu, kirsikka
 czernica - mustikka
 czerwiec - kesäkuu
-czerwone jagody - ahomansikka | metsämansikka
+czerwone jagody - ahomansikka, metsämansikka
 Czerwony Krzyż - Punainen Risti
 czesać - kammata
-cześć - terve | moi | hei
-czeski - tšekkiläinen | böömiläinen | tšekki
-cześnia - kirsikkapuu | kirsikka
+cześć - terve, moi, hei
+czeski - tšekkiläinen, böömiläinen, tšekki
+cześnia - kirsikkapuu, kirsikka
 częstoskurcz - takykardia
 czkawka - hikka
 człowiek - ihminen
 czoło - otsa
 czołoczub - harjalepinkäinen
-czorny - musta | likainen
+czorny - musta, likainen
 czosnek - valkosipuli
 czubatka - töyhtötiainen
 czujny - valpas
@@ -609,13 +609,13 @@ czyhunka - torium
 czynsz - vuokra
 czyrwiec - kesäkuu
 czyrwień - kesäkuu
-czysło - luku | lukumäärä
+czysło - luku, lukumäärä
 czyż - vihervarpunen
 czyżyk - vihervarpunen
 dać - antaa
 dach - katto
 dała - antaa
-dalekowzroczność - kaukotaittoisuus | kaukonäköisyys
+dalekowzroczność - kaukotaittoisuus, kaukonäköisyys
 dama - kuningatar f
 dana - antaa
 Dania - Tanska
@@ -623,28 +623,28 @@ dany - antaa
 darowanemu koniowi w zęby się nie zagląda - lahjahevosen suuhun ei saa katsoa
 defenestracja - defenestraatio
 deizm - deismi
-dekiel - pää | nuppi | hamara
+dekiel - pää, nuppi, hamara
 dekoracja - koriste
 dekoracyjny - koristeellinen
 demiurg - demiurgi
-demografia - väestötiede | demografia
-demokracja - demokratia | kansavalta
+demografia - väestötiede, demografia
+demokracja - demokratia, kansavalta
 demokrata - demokraatti
 Demokratyczna Republika Wyspy Świętego Tomasza i Wysp Świętego Tomasza i Książęcej - São Tomén ja Príncipen demokraattinen tasavalta
 demokratyczny - demokraattinen
 dentysta - hammaslääkäri
 deskorolka - rullalauta
 deszczowy - sateinen
-dezelować - tuhota | hävittää
+dezelować - tuhota, hävittää
 dezinformacja - disinformaatio
 diabelski młyn - maailmanpyörä
 diabeł tkwi w szczegółach - piru asuu yksityiskohdissa
 diagnoza - diagnoosi
-dialekt - murre | aluemurre
+dialekt - murre, aluemurre
 diament - timantti
 difalia - difallia
 dioda - diodi
-Diogenes - Diogenes | Diogenes (Sinopelainen)
+Diogenes - Diogenes, Diogenes (Sinopelainen)
 diplodok - diplodocus
 diuna - dyyni
 dłoń - käsi
@@ -653,26 +653,26 @@ długoszpon - jassana
 dłuto - taltta
 dmuchnąć - varastaa
 Dniepr - Dnepr
-dno - pohja | alapää
+dno - pohja, alapää
 dobranoc - hyvää yötä
 dobry wieczór - hyvää iltaa
 docent - dosentti
 doić - lypsää
-doktor - lääkäri | tohtori | lekuri
+doktor - lääkäri, tohtori, lekuri
 dolar - dollari
 dolina - laakso
 dolmen - dolmen
-dom - talo | koti
+dom - talo, koti
 dom dziecka - lastenkoti
 Dominika - Dominica
 doradca - neuvonantaja
 doskonałość - eksellenssi
 dostęp - pääsy
-dostojnik - arvohenkilö | merkkihenkilö
+dostojnik - arvohenkilö, merkkihenkilö
 do trzech razy sztuka - kolmas kerta toden sanoo
 dotykać - koskea
-do widzenia - näkemiin | hyvästi | jäähyväiset
-do zobaczenia - näkemiin | hyvästi | jäähyväiset
+do widzenia - näkemiin, hyvästi, jäähyväiset
+do zobaczenia - näkemiin, hyvästi, jäähyväiset
 dramat - draama
 dramatyczny - dramaattinen
 drętki - hapan
@@ -683,7 +683,7 @@ drozd - rastas
 drożdże - hiiva
 droździk - punakylkirastas
 druga wojna światowa - toinen maailmansota
-drugdy - muualla (z innego miejsca muualta) | toisaalla | muualle | toisaalle
+drugdy - muualla (z innego miejsca muualta), toisaalla, muualle, toisaalle
 druh - ystävä
 drukarka - tulostin
 drzazga - säle
@@ -693,36 +693,36 @@ drzewo iglaste - havupuu
 drzwi - ovi
 drzym - laiskuri
 dubelt - heinäkurppa
-duch - sielu | henki
+duch - sielu, henki
 dudek - harjalintu
-dudlać - itkeä | parkua | vollottaa | juoda
+dudlać - itkeä, parkua, vollottaa, juoda
 dudy - keuhko
 dufać - toivoa
 dumnie - ylpeästi
 Duńczyk - tanskalainen
 Dunka - tanskalainen
-duński - tanskalainen | tanska
+duński - tanskalainen, tanska
 dupa - perse
 durnica - juolukka
-dusza - sielu | henki
+dusza - sielu, henki
 dutek - raha
 dwucyfrowy - kaksinumeroinen
 dwujęzyczny - kaksikielinen
 dwujęzykowy - kaksikielinen
 dwukropek - kaksoispiste
 dwulicowy - kaksinaamainen
-dycht - aika | melko
+dycht - aika, melko
 dycki - aina
 dyktator - diktaattori
 dym - savu
 dymić - savuta
 dynastia - dynastia
 dynia - kurpitsa
-dyplom - diplomi | päättötodistus | päästötodistus
+dyplom - diplomi, päättötodistus, päästötodistus
 dyplomata - diplomaatti
 dysfagia - dysfagia
 dysk twardy - kovalevy
-dysleksja - lukivaikeus | lukihäiriö | dysleksia
+dysleksja - lukivaikeus, lukihäiriö, dysleksia
 dywan - matto
 dżez - jatsi
 dziabka - kuokka
@@ -743,11 +743,11 @@ dziedzina - ala
 dziękówa - kiitos
 dziękówka - kiitos
 dziękuję - kiitos
-dzielić - jakaa | jakautua
+dzielić - jakaa, jakautua
 dzień - päivä
-dzień dobry - hyvää huomenta | huomenta
+dzień dobry - hyvää huomenta, huomenta
 dziennikarstwo - journalismi
-dziennikarz - toimittaja | lehtimies | journalisti
+dziennikarz - toimittaja, lehtimies, journalisti
 dzierzba - lepinkäinen
 dżihadysta - jihadisti
 dziób - nokka
@@ -773,32 +773,32 @@ efekt uboczny - sivuvaikutus
 Egina - Aígina
 Egipt - Egypti
 egzamin - tentti
-ejber - poika | poikaystävä
+ejber - poika, poikaystävä
 eka - sarvi
 ekologia - ekologia
 ekologio - ekologia
 ekosystem - ekosysteemi
 ekstrapolacja - ekstrapolaatio
 Ekwador - Ecuador
-elefant - elefantti | norsu
+elefant - elefantti, norsu
 elektrolit - elektrolyytti
 elektroliza - elektrolyysi
 elektroniczny - elektroninen
 elementarz - aapinen
 emigracja - maastamuutto
-Emili - Emilia | Milja | Milla
-Emilia - Emilia | Milja | Milla
+Emili - Emilia, Milja, Milla
+Emilia - Emilia, Milja, Milla
 empatyczny - empaattinen
 encyklopedia - tietosanakirja
 energia - energia
-epitafium - epitafi | hautakirjoitus
+epitafium - epitafi, hautakirjoitus
 epruwetka - koeputki
 Erytrea - Eritrea
-eskalator - rullaportaat | liukuportaat
-eskulap - lääkäri | tohtori | lekuri
+eskalator - rullaportaat, liukuportaat
+eskulap - lääkäri, tohtori, lekuri
 Estera - Esteri
-Estonia - Viro | Eesti
-estoński - virolainen | viro
+Estonia - Viro, Eesti
+estoński - virolainen, viro
 Etiopia - Etiopia
 etymologia - etymologia
 euforia - euforia
@@ -826,12 +826,12 @@ fajera - juhla
 faks - faksi
 fakt - tosiasia
 fałszywy przyjaciel - väärä ystävä
-familio - perhe | heimo
-famuła - perhe | heimo
-fanatyzm - fanaattisuus | fanatismi
+familio - perhe, heimo
+famuła - perhe, heimo
+fanatyzm - fanaattisuus, fanatismi
 fandzolić - valehdella
 fara - pappila
-farerski - färsaarelainen | fääri
+farerski - färsaarelainen, fääri
 faryna - sokeri
 faryzeusz - fariseus
 fasola - papu
@@ -855,8 +855,8 @@ Fin - suomalainen
 finansowy - taloudellinen
 finka - puukko
 Finlandia - Suomi
-finlandzki - suomalainen | suomi
-fiński - suomalainen | suomi
+finlandzki - suomalainen, suomi
+fiński - suomalainen, suomi
 fioł - orvokki
 fiołek - orvokki
 fioletowy - violetti
@@ -866,7 +866,7 @@ fiza - fysiikka
 fizjologia - fysiologia
 fizjoterapeuta - fysioterapeutti
 fiżon - papu
-fizyczny - fysikaalinen | fyysinen
+fizyczny - fysikaalinen, fyysinen
 fizyka - fysiikka
 flet - kyrpä
 fliger - lentokone
@@ -896,20 +896,20 @@ furosemid - furosemidi
 fusbal - jalkapallo
 futbol - jalkapallo
 gad - matelija
-gadałka - keijukainen | keiju
+gadałka - keijukainen, keiju
 gadożer - käärmekotka
 gągoł - telkkä
 gągołek - pikkutelkkä
 gajer - puku
-gała - silmä | jalkapallo | korppi | varis
+gała - silmä, jalkapallo, korppi, varis
 Galilea - Galilea
 galoty - housut
 gama - sävelasteikko
-ganc - aika | melko
+ganc - aika, melko
 gangol - puku
-gapa - korppi | varis
+gapa - korppi, varis
 gar - ruukku
-gara - uni | unennäkö
+gara - uni, unennäkö
 gardło - kurkku
 garnek - ruukku
 garnitur - puku
@@ -919,18 +919,18 @@ gaz cieplarniany - kasvihuonekaasu
 gaz musztardowy - sinappikaasu
 gaz szklarniowy - kasvihuonekaasu
 gdy kota nie ma, myszy harcują - kun kissa on poissa, hiiret hyppivät pöydällä
-gdyż - koska | sillä | siksi
-gdzie - jossa | missä
+gdyż - koska, sillä, siksi
+gdzie - jossa, missä
 gdzie drwa rąbią, tam wióry lecą - munakasta ei voi tehdä rikkomatta munia
-gdzie indziej - muualla (z innego miejsca muualta) | toisaalla | muualle | toisaalle
+gdzie indziej - muualla (z innego miejsca muualta), toisaalla, muualle, toisaalle
 gdziekolwiek - missä tahansa
 gędźba - musiikki
 gęgawa - merihanhi
 genetyczny - geneettinen
-geografia - maantiede | maantieto | geotiede
+geografia - maantiede, maantieto, geotiede
 geologia - geologia
 geriatria - geriatria
-germański - saksalainen | saksa
+germański - saksalainen, saksa
 gęś - hanhi
 gęś białoczelna - tundrahanhi
 gęś krótkodzioba - lyhytnokkahanhi
@@ -947,21 +947,21 @@ gira - jalka
 gitara - kitara
 glacok - kalju
 glajda - kura n
-glajza - kisko | torium
+glajza - kisko, torium
 glapa - varis
 glin - alumiini
-globus - karttapallo | pää | nuppi | hamara
+globus - karttapallo, pää, nuppi, hamara
 głód - nälkä
-głowa - pää | nuppi | hamara
+głowa - pää, nuppi, hamara
 głowienka - punasotka
-głównie - erityisesti | varsinkin
+głównie - erityisesti, varsinkin
 głuchota - kuurous
 głuchy - kuuro
 głupota - älyttömyys
 głuptak - suula
 głuszec - metso
 gmina - kunta
-gnat - luu | noppa | arpakuutio
+gnat - luu, noppa, arpakuutio
 gniew - kiukku
 gnój - lanta
 gnot - lapsi
@@ -979,13 +979,13 @@ górą - vuori
 góra lodowa - jäävuori
 górniczek - tunturikiuru
 górnik - kaivosmies
-gorzała - alkoholi | alkoholijuoma
+gorzała - alkoholi, alkoholijuoma
 gorzyk - tanssija
 göteborski - göteborgilainen
 gówniany - paska
 gówno - paska
 goździk - neilikka
-gra - peli | leikki | kisa
+gra - peli, leikki, kisa
 graba - käsi
 gracz - pelaaja
 gramatyka - kielioppi
@@ -996,8 +996,8 @@ Grecja - Kreikka
 grejpfrut - greippi
 grobowiec - flyygeli
 grochówka - hernekeitto
-groźba - uhka | uhkakuva
-groźny - julma | raivokas | raivopäinen
+groźba - uhka, uhkakuva
+groźny - julma, raivokas, raivopäinen
 gruba - kaivos
 grubodziób - nokkavarpunen
 gruchacz - kyssäkurki
@@ -1005,23 +1005,23 @@ gruczoł - rauhanen
 grudzień - joulukuu
 grusza - päärynäpuu
 gruszka - päärynä
-gruziński - georgia | georgialainen
+gruziński - georgia, georgialainen
 gryf - aarnikotka
-grypa - flunssa | influenssa
+grypa - flunssa, influenssa
 gryzoń - jyrsijä
-grzebień - kampa | harja
+grzebień - kampa, harja
 grzech - synti
 Grzegorz - Reijo
 grzywa - harja
-guli - koska | sillä | siksi
-guma - kumi | kondomi
-gumka - kumi | kondomi
+guli - koska, sillä, siksi
+guma - kumi, kondomi
+gumka - kumi, kondomi
 gwałciciel - raiskaaja
 gwałtowny - raju
 gwiazda - tähti
 gwiazdka - jouluaatto
 Gwinea Równikowa - Päiväntasaajan Guinea
-gzub - lapsi | maha
+gzub - lapsi, maha
 haczka - kuokka
 hadron - hadroni
 Haiti - Haiti
@@ -1034,11 +1034,11 @@ hańba - häpeä
 handlarz - kauppias
 handszuły - käsine
 harfa - harppu
-haś - jäte | uskaltaa
+haś - jäte, uskaltaa
 haszysz - hasis
-hau - hau | vuh | rauf
+hau - hau, vuh, rauf
 haubica - haupitsi
-hawajski - havaijilainen | havaiji
+hawajski - havaijilainen, havaiji
 hę - mikä
 hedonizm - hedonismi
 hel - helium
@@ -1067,15 +1067,15 @@ histeria - hysteria
 historiozofia - historianfilosofia
 historyk - historioitsija
 Hiszpania - Espanja
-hiszpański - espanjalainen | espanja
+hiszpański - espanjalainen, espanja
 holajza - taltta
-Holandia - Hollanti | Alankomaat
-Holandyja - Hollanti | Alankomaat
+Holandia - Hollanti, Alankomaat
+Holandyja - Hollanti, Alankomaat
 holenderski - hollantilainen
 homeopatia - homeopatia
 homeostaza - homeostaasi
 homiletyka - homiletiikka f
-homo- - homo- | sama- | saman-
+homo- - homo-, sama-, saman-
 Hongkong - Hongkong
 Horus - Horus
 hotel - hotelli
@@ -1085,30 +1085,30 @@ hydrostatyka - hydrostatiikka
 i - ja
 Ida - Iida
 idea - idea
-igrzyska olimpijskie - olympialaiset | olympiakisat
+igrzyska olimpijskie - olympialaiset, olympiakisat
 II wojna światowa - toinen maailmansota
 imbir - inkivääri
-imię - nimi | etunimi
+imię - nimi, etunimi
 imieniny - nimipäivä
-indonezyjski - indonesialainen | indonesia
+indonezyjski - indonesialainen, indonesia
 informatyka - tietotekniikka
 infrastruktura - infrastruktuuri
-instrument - soitin | instrumentti
-intryga - juoni | juonittelu
-inundacyja - tulva | ryöppy
+instrument - soitin, instrumentti
+intryga - juoni, juonittelu
+inundacyja - tulva, ryöppy
 inżynier - insinööri
 Irak - Irak
 Irlandia - Irlanti
 iryd - iridium
 iść na skibę - varastaa
 Islandia - Islanti
-islandzki - islantilainen | islanti
+islandzki - islantilainen, islanti
 istnienie - olemassaolo
 Italok - italialainen
-italski - italialainen | italia
+italski - italialainen, italia
 itd. - jne.
 iż - että
-izba - rauha | huone
+izba - rauha, huone
 ize - että
 Izrael - Israel
 ja - minä
@@ -1120,26 +1120,26 @@ jąderko - tumajyvänen
 Jadwiga - Heta
 Jadzia - Hetti
 jagnię - karitsa
-jagoda - marja | mustikka
+jagoda - marja, mustikka
 Jahwe - Jahve
 jajecznica - munakokkeli
 jajko - muna
-jajo - munasolu | muna
+jajo - munasolu, muna
 jajówa - munakokkeli
 jak cię widzą, tak cię piszą - vaatteet tekevät miehen
-jakmiarz - aika | melko
+jakmiarz - aika, melko
 jakość - laatu
 jak się masz? - mitä kuuluu?
 Jakub - Jaakko
 Jakucja - Jakutia
 Jakuck - Jakutsk
 Jamalsko-Nieniecki Okręg Autonomiczny - Jamalin nenetsien autonominen piirikunta
-Jan - Jukka | Juhani | Jussi | Janne
+Jan - Jukka, Juhani, Jussi, Janne
 jangryst - karviainen
 Jan Kowalski - Matti Meikäläinen
 jantar - meripihka
 japa - luola
-japoński - japanilainen | japani
+japoński - japanilainen, japani
 jarecka - äiti
 jarząbek - pyy
 jaskinia - luola
@@ -1148,7 +1148,7 @@ jaśmin - jasmiini
 jaszczurka - lisko
 jazda - ajo
 jazz - jatsi
-jebadło - makuuhuone | sänky
+jebadło - makuuhuone, sänky
 jedna jaskółka nie czyni wiosny - ei yksi pääsky kesää tee
 jedna jaskółka wiosny nie czyni - ei yksi pääsky kesää tee
 jednojęzyczny - yksikielinen
@@ -1190,54 +1190,54 @@ Jordan - Jordanjoki
 Jordania - Jordania
 Jugosławia - Jugoslavia
 juny - nuori
-już - jo | ei enää
-kaban - porsas | sika
+już - jo, ei enää
+kaban - porsas, sika
 kac - krapula
 kaczeniec - rentukka
 kaczka - ankka
-kaczka dziennikarska - uutisankka | ankka
+kaczka dziennikarska - uutisankka, ankka
 Kafarnaum - Kapernaum
 kafej - kahvila
 kaffa - kahvi
-kaj - jossa | missä
-kajman - kaimaani | krokotiili
+kaj - jossa, missä
+kajman - kaimaani, krokotiili
 kajuta - hytti
 kajuto - hytti
 kakadu - kakadu
 kakao - kaakao
 kalafa - kasvot
 kalafior - kukkakaali
-kalapitra - pää | nuppi | hamara
+kalapitra - pää, nuppi, hamara
 kalejdoskop - kaleidoskooppi
 kalendarz - kalenteri
 kalfas - maha
 kalifat - kalifaatti
-kam - jossa | missä
+kam - jossa, missä
 Kamczatka - Kamtšatka
 Kamerun - Kamerun
 kamfora - kamferi
 kamień - kivi
 kamieniuszka - virta-alli
 kamień szlachetny - jalokivi
-kamper - kämppäri | matkailuauto
+kamper - kämppäri, matkailuauto
 kamusznik - karikukko
 kanibalizm - kannibalismi
 kaniuk - liitohaukka
 kaolin - kaoliini
 kąpiółka - kylpyhuone
-kapusta - kaali | raha
+kapusta - kaali, raha
 kapusta kiszona - hapankaali
-kara - rangaistus | kottikärryt
+kara - rangaistus, kottikärryt
 karaba - kissa
 karabin maszynowy - konekivääri
 karawana - karavaani
 karczoch - artisokka
-kardiolog - sydänlääkäri | kardiologi
+kardiolog - sydänlääkäri, kardiologi
 kardiologia - kardiologia
-kardynał - kardinaali | punakardinaali
+kardynał - kardinaali, punakardinaali
 Karelia - Karjala
 karelski - karjalainen
-karibu - poro | peura
+karibu - poro, peura
 kark - niska
 karlus - komea
 karo - ruutu
@@ -1245,36 +1245,36 @@ karta kredytowa - luottokortti
 kartofel - peruna
 kaszalot - kaskelotti
 kaszel - yskä
-katana - katana | krapula
-Katarzyna - Kaarina f | Kaisa f | Katri f
+katana - katana, krapula
+Katarzyna - Kaarina f, Kaisa f, Katri f
 katastrofa - onnettomuus
 katedra - tuomiokirkko
 katus - lehtopöllö
 Kaukaz - Kaukasia n
 kawa - kahvi
 kawa arabska - arabiankahvi
-kawaler - poikamies | vanhapoika
-kawiarka - espressopannu | mokkapannu
+kawaler - poikamies, vanhapoika
+kawiarka - espressopannu, mokkapannu
 kawiarnia - kahvila
-kawka - naakka | nunna
-kawon - vesimeloni | arbuusi
+kawka - naakka, nunna
+kawon - vesimeloni, arbuusi
 kazarka - ruostesorsa
 każdy - kunkin
 kaznodzieja - saarnaaja
 kciuk - peukalo
-kędy - jossa | missä
+kędy - jossa, missä
 kefir - kefiiri
 kejter - koira
 kejza - juusto
 Kenia - Kenia
-kiecka - mekko | hame
+kiecka - mekko, hame
 kieł - kulmahammas
 kiełbasa - makkara
-kiepeła - pää | nuppi | hamara
+kiepeła - pää, nuppi, hamara
 kij - kerros
 kijanka - nuijapää
 Kijów - Kiova
-kimono - uni | unennäkö
+kimono - uni, unennäkö
 kino - elokuvateatteri
 kintop - elokuvateatteri
 Kirgistan - Kirgisia
@@ -1293,13 +1293,13 @@ kłamstwo ma krótkie nogi - valheella on lyhyet jäljet
 kłapaczka - suu
 klara - Aurinko
 klasy - ruutuhyppely
-klaustrofobia - klaustrofobia | umpiokammo
+klaustrofobia - klaustrofobia, umpiokammo
 klej - liima
 klekotun - haikara
 klimat - ilmasto
 kłochtun - siperiantavi
 kłódka miłości - lemmenlukko
-klucz - avain | koodiavain
+klucz - avain, koodiavain
 klupać - etsiä
 kluza - vankila
 kniądz - prinssi
@@ -1309,7 +1309,7 @@ kobalt - koboltti
 kobiecy - naisellinen
 kobieta - nainen
 kobieta lekkich obyczajów - prostituoitu
-kochać - rakastaa | rakastella
+kochać - rakastaa, rakastella
 kochanie - kulta
 kociamber - kissa
 kociątko - kissanpentu
@@ -1321,7 +1321,7 @@ kogut - kukko
 koja - sänky
 kojo - sänky
 kokosz - kana
-kokoszka - kana | liejukana
+kokoszka - kana, liejukana
 kokot - kukko
 kokota - prostituoitu
 koks - koksi
@@ -1336,11 +1336,11 @@ kolorowanka - värityskirja
 koło sterowe - ruori
 Kolumb - Kolumbus
 Kolumbia - Kolumbia
-koma - koma | pilkku
-komar - hyttynen | sääski | moskiitto
-komat - koma | pilkku
+koma - koma, pilkku
+komar - hyttynen, sääski, moskiitto
+komat - koma, pilkku
 kometa - komeetta
-komórka - komero | solu | kännykkä
+komórka - komero, solu, kännykkä
 komp - tietokone
 kompas - kompassi
 komputer - tietokone
@@ -1360,7 +1360,7 @@ koniunkturalność - opportunismi
 konserwatywny - konservatiivi
 konspiracja - konspiraatio
 kontrabas - kontrabasso
-kontynent - maanosa | manner | mantere
+kontynent - maanosa, manner, mantere
 kopa - viisi tusinaa
 kopalnia - kaivos
 koparka - kaivinkone
@@ -1371,19 +1371,19 @@ kopernik - kopernikium
 kopernikański - kopernikaaninen
 koperta - kirjekuori
 kopica - viisi tusinaa
-kopruch - hyttynen | sääski | moskiitto
+kopruch - hyttynen, sääski, moskiitto
 kopyto - kavio
 kora - kaarna
 Koran - Koraani
 korbol - kurpitsa
-koreański - korealainen | korea
+koreański - korealainen, korea
 korytarz - eteiskäytävä
 kos - mustarastas
 Kos - Kos
 kosa - veitsi
-kość - luu | noppa | arpakuutio
+kość - luu, noppa, arpakuutio
 kościół - kirkko
-kostka - nilkka | plektra
+kostka - nilkka, plektra
 kot - kissa
 kotek - kissanpentu
 kotka - kissa
@@ -1405,10 +1405,10 @@ krakwa - harmaasorsa
 kraść - varastaa
 Krasnojarsk - Krasnojarsk
 krasula - lehmä
-krawat - solmio | kravatti
-krawatka - solmio | kravatti
+krawat - solmio, kravatti
+krawatka - solmio, kravatti
 krążownik - risteilijä
-krepel - munkki | silmu
+krepel - munkki, silmu
 krew - veri
 krogulec - varpushaukka
 kroić - varastaa
@@ -1416,7 +1416,7 @@ krokodyl - krokotiili
 krokodyle łzy - krokotiilinkyyneleet
 król - kuningas
 królestwo - kuningaskunta
-królik - kaniini | kani
+królik - kaniini, kani
 królowa - kuningatar f
 krótki - lyhyt
 krótkoszpon - käärmekotka
@@ -1450,7 +1450,7 @@ Kuba - Kuuba
 kubek - muki
 kubizm - kubismi
 Kubuś Puchatek - Nalle Puh
-kuchnia - keittiö | kyökki
+kuchnia - keittiö, kyökki
 kucza - maja
 kuć żelazo, póki gorące - takoa silloin kun rauta on kuuma
 kukurydza - maissi
@@ -1464,16 +1464,16 @@ kupować - ostaa
 kupować kota w worku - ostaa sika säkissä
 kur - kukko
 kura - kana
-kurka - keltavahvero | liejukana | kana
+kurka - keltavahvero, liejukana, kana
 kurka wodna - liejukana
-kurki - keltavahvero | liejukana | kana
+kurki - keltavahvero, liejukana, kana
 kuropatwa - peltopyy
 kurs - kurssi
 kurtyzana - prostituoitu
-kurwa - huora | vittu
-kurwacik - solmio | kravatti
+kurwa - huora, vittu
+kurwacik - solmio, kravatti
 kuskus - kuskus
-Kusz - Kus | Kush
+Kusz - Kus, Kush
 kutafon - kyrpä
 kutas - kyrpä
 kuzaj - serkku
@@ -1497,9 +1497,9 @@ kynologia - kynologia
 łabędź krzykliwy - laulujoutsen
 łabędź niemy - kyhmyjoutsen
 łacina - latina
-lacz - pää | nuppi | hamara
+lacz - pää, nuppi, hamara
 łącznik - kopula
-ład - järjestys | siivous
+ład - järjestys, siivous
 laga - kerros
 lajbik - rintaliivit
 łąka - niitty
@@ -1510,7 +1510,7 @@ Laponia - Lappi
 larmo - melu
 las - metsä
 lat - vuosi
-lata - vuosi | hame
+lata - vuosi, hame
 latarnia morska - majakka
 lateks - lateksi
 lato - kesä
@@ -1523,33 +1523,33 @@ leberka - maksamakkara
 lecz - mutta
 łęczak - liro
 legalizacja - laillistaminen
-lekarz - lääkäri | tohtori | lekuri
+lekarz - lääkäri, tohtori, lekuri
 lekarz choroby chorób kobiecych - gynekologi
 lekcja - oppitunti
 lekka atletyka - yleisurheilu
 lekkoatletyka - yleisurheilu
 lekomania - lääkeaineriippuvuus
-lemoniada - limonadi | limonaati | limsa | limu
+lemoniada - limonadi, limonaati, limsa, limu
 leniwy - laiska
-łepetyna - pää | nuppi | hamara
+łepetyna - pää, nuppi, hamara
 lepszy wróbel w garści niż gołąb na dachu - parempi pyy pivossa kuin kaksi oksalla
 lerka - kangaskiuru
 leszcz - lahna
-letni - kesäinen | haalea
+letni - kesäinen, haalea
 Lew - Leijona
 lewy - vasen
 łgać - valehdella
 łgarz - valehtelija
-liceum - lyseo | lyceum
-liczba - luku | lukumäärä
-liczba atomowa - järjestysluku | atomiluku
+liceum - lyseo, lyceum
+liczba - luku, lukumäärä
+liczba atomowa - järjestysluku, atomiluku
 liczba mnoga - monikko
 liczba pierwsza - alkuluku
 liczba podwójna - kaksikko
 likier - likööri
 lin - suutari
 linie lotnicze - ilmailuyhtiö
-liniowiec - matkustajalaiva | linjalaiva
+liniowiec - matkustajalaiva, linjalaiva
 link - linkki
 lipa - lehmus
 lipiec - heinäkuu
@@ -1560,14 +1560,14 @@ lista - lista
 listonosz - postinkantaja
 listopad - marraskuu
 litera - aakkonen
-litewski - liettualainen | liettua
+litewski - liettualainen, liettua
 Litwa - Liettua
 lizać - nuolla
 łochynia - juolukka
 lód - jää
 lodowaty - jääkylmä
 lodowiec - jäätikkö
-lodówka - jääkaappi | alli
+lodówka - jääkaappi, alli
 łódź - vene
 logarytm - logaritmi
 logika - logiikka
@@ -1582,8 +1582,8 @@ los - arpa
 łoś - hirvi
 łosoś - lohi
 łosprawiać - kertoa
-lot - lento | lentomatka
-łotewski - latvialainen | latvia
+lot - lento, lentomatka
+łotewski - latvialainen, latvia
 lotnisko - lentoasema
 lotniskowiec - lentotukialus
 Łotwa - Latvia
@@ -1596,12 +1596,12 @@ ludność - väestö
 ludożerstwo - ihmissyönti
 łudzikwiat - huhtikuu
 łuk - jousi
-luksus - luksus | ylellisyys
+luksus - luksus, ylellisyys
 luna - kuu
 luńt - koira
 łupież - hilse
 łuskowiec - taviokuurna
-lustro - peili | kuvastin
+lustro - peili, kuvastin
 luty - helmikuu
 lwia część - leijonanosa
 łydka - pohje
@@ -1625,12 +1625,12 @@ majeranek - meirami
 mąka - jauho
 makolągwa - hemppo
 makrela - makrilli
-mała czarna - pikkukahvi mustana | pikkumusta | pieni tummaverikkö
+mała czarna - pikkukahvi mustana, pikkumusta, pieni tummaverikkö
 malin - vadelma
 malina - vadelma
-mało - vähän | hieman
+mało - vähän, hieman
 Malta - Malta
-maltański - maltalainen | malta
+maltański - maltalainen, malta
 mały palec - pikkusormi
 małżeństwo - avioliitto
 małżonek - aviomies
@@ -1645,9 +1645,9 @@ markaczka - mustalintu
 martwy - kuollut
 marzec - maaliskuu
 marzenie - haave
-marzenie senne - uni | unennäkö
+marzenie senne - uni, unennäkö
 marznący deszcz - jäätävä sade
-marzyć - haaveilla | haaveksia
+marzyć - haaveilla, haaveksia
 masakra - joukkomurha
 masa krytyczna - kriittinen massa
 maska - kasvot
@@ -1666,17 +1666,17 @@ mazidło - linimentti
 ME - EM
 mecenas - asianajaja
 mechaniczny - mekaaninen
-mecz - ottelu | matsi
+mecz - ottelu, matsi
 męczennik - marttyyri
 meczet - moskeija
 Med - meedialainen
 mediana - mediaani
-medyk - lääkäri | tohtori | lekuri
+medyk - lääkäri, tohtori, lekuri
 Merkury - Merkurius
 metafizyka - metafysiikka
 metafora - metafora
 meteor - meteori
-meteorologia - ilmatiede | meteorologia
+meteorologia - ilmatiede, meteorologia
 meteoryt - meteoriitti
 metr kwadratowy - neliömetri
 metropolia - metropoli
@@ -1688,21 +1688,21 @@ mewa srebrzysta - harmaalokki
 mewa trójpalczasta - pikkukajava
 mężczyzna - mies
 Miami - Miami
-miasto - kaupunki | kantakaupunki | keskusta
+miasto - kaupunki, kantakaupunki, keskusta
 miasto stołeczne - pääkaupunki
-miażdżyca - ateroskleroosi | valtimonrasvoittumistauti
+miażdżyca - ateroskleroosi, valtimonrasvoittumistauti
 micela - miselli
-Michał - Mikael | Mikko
+Michał - Mikael, Mikko
 mieć nadzieję - toivoa
 miedźwiedź - karhu
 międzynarodowy - kansainvälinen
-miejsce - paikka | tila
+miejsce - paikka, tila
 miękkopiór - haahka
 miękkość - pehmeys
-mielcuch - panimo | olut | kalja | kotikalja | mallasjuoma
-mieśćce - paikka | tila
-mieśce - paikka | tila
-miesiąc - kuukausi | kuu
+mielcuch - panimo, olut, kalja, kotikalja, mallasjuoma
+mieśćce - paikka, tila
+mieśce - paikka, tila
+miesiąc - kuukausi, kuu
 miesiąc miodowy - kuherruskuukausi
 miesiączek - kuu
 mięso - liha
@@ -1714,29 +1714,29 @@ mieszkaniec - asukas
 mięta - minttu
 miętus - made
 mikrobiologia - mikrobiologia
-Mila - Emilia | Milja | Milla
+Mila - Emilia, Milja, Milla
 miliarder - miljardööri
 milioner - miljonääri
 militarny - sotilaallinen
 miliwolt - millivoltti
-miłość - rakkaus | lempi
-miłosierny - armelias | armollinen | armahtavainen | laupias | armoinen
+miłość - rakkaus, lempi
+miłosierny - armelias, armollinen, armahtavainen, laupias, armoinen
 minaret - minareetti
 minerał - mineraali
 minuta - minuutti
-miód - hunaja | sima
+miód - hunaja, sima
 miodojad - mesikko
 miodowód - hunajaopas
 miś - nalle
 misiek - nalle
 misjonarz - lähetyssaarnaaja
-mistrz - mestari | nuoriherra | oppi-isä
+mistrz - mestari, nuoriherra, oppi-isä
 mistyk - mystikko
 miteser - finni
 mitra - mitra
 mleczarz - maitomies
 mleko - maito
-młode - pentu | poikanen
+młode - pentu, poikanen
 młody - nuori
 młodzie - hiiva
 młodzież - nuoriso
@@ -1755,14 +1755,14 @@ Monachium - München
 monarchista - monarkisti
 moneta - kolikko
 monocykl - yksipyöräinen
-monopolowy - viinakauppa | alko | alkoholiliike | pitkäripainen
+monopolowy - viinakauppa, alko, alkoholiliike, pitkäripainen
 mops - mopsi
-mora - sielu | henki
+mora - sielu, henki
 morda - turpa
 morela - aprikoosi
 morena - moreeni
 mornel - keräkurmitsa
-moroszka - hilla | lakka | muurain
+moroszka - hilla, lakka, muurain
 morze - meri
 Morze Bałtyckie - Itämeri
 Morze Białe - Vienanmeri
@@ -1810,13 +1810,13 @@ mżawka - tihkusade
 nacjonalizm - nationalismi
 nacjonalizować - kansansallistaa
 naczyniak - angiooma
-naczyniak krwionośny - hemangiooma | verisuoniluomi
+naczyniak krwionośny - hemangiooma, verisuoniluomi
 nadgarstek - ranne
-nadwzroczność - kaukotaittoisuus | kaukonäköisyys
+nadwzroczność - kaukotaittoisuus, kaukonäköisyys
 nagrobek - hautakivi
 nagroda - palkinto
 Nairobi - Nairobi
-najemnik - palkkasoturi | palkkasotilas
+najemnik - palkkasoturi, palkkasotilas
 napój - juoma
 naprany - humalassa
 na przykład - esimerkiksi
@@ -1840,10 +1840,10 @@ neologizm - uudissana
 neon - neon
 Nepal - Nepal
 nestorianin - nestorilainen
-neutralność - neutraalisuus | neutraalius | neutraliteetti
+neutralność - neutraalisuus, neutraalius, neutraliteetti
 neutralny - neutraali
 ni - ei
-Niderlandy - Hollanti | Alankomaat
+Niderlandy - Hollanti, Alankomaat
 nie - ei
 niebawem - pian
 niebiańskie pnie - taivaalliset rungot
@@ -1858,18 +1858,18 @@ niedźwiedź - karhu
 niedźwiedź polarny - jääkarhu
 nieestetyczny - epäesteettinen
 nieetyczny - epäeettinen
-niełatwy - hankala | ankea
+niełatwy - hankala, ankea
 nie ma dymu bez ognia - ei savua ilman tulta
 Niemcy - Saksa
 Niemiec - saksalainen
 nie mieć - ei
 Niemiecka Republika Demokratyczna - Saksan Demokraattinen Tasavalta
-niemiecki - saksalainen | saksa
+niemiecki - saksalainen, saksa
 Nieniecki Okręg Autonomiczny - Nenetsien autonominen piirikunta
 nieodmienny - taipumaton
 nie od razu Kraków zbudowano - Roomaa ei rakennettu yhdessä päivässä
-niepodległość - riippumattomuus | itsenäisyys
-niepokalane poczęcie - neitseestäsyntymisoppi | perisynnitön sikiäminen
+niepodległość - riippumattomuus, itsenäisyys
+niepokalane poczęcie - neitseestäsyntymisoppi, perisynnitön sikiäminen
 nieposłuszny - tottelematon
 nieprzyjazny - epäystävällinen
 nierealny - epätodellinen
@@ -1888,19 +1888,19 @@ niewolnictwo - orjuus
 niewolnik - orja
 nie wszystko złoto, co się świeci - kaikki ei ole kultaa mikä kiiltää
 nie wywołuj wilka z lasu - älä herätä nukkuvaa karhua
-niezdolność - kyvyttömyys | kykenemättömyys
+niezdolność - kyvyttömyys, kykenemättömyys
 nigdy - koskaan
 nihilizm - nihilismi
 nikczemny - kurja
 nikiel - nikkeli
 nim - hän
 niski - matala
-niszczyć - tuhota | hävittää
+niszczyć - tuhota, hävittää
 Nix - Nix
 niż - kuin
 niża - alanko
 nizina - alanko
-no - niin | kyllä
+no - niin, kyllä
 noc - yö
 nocna zmiana - yövuoro
 noga - jalka
@@ -1911,10 +1911,10 @@ nordycki - pohjoismainen
 Norfolk - Norfolkinsaari
 Norweg - norjalainen
 Norwegia - Norja
-norweski - norjalainen | norja
+norweski - norjalainen, norja
 nosorożec - sarvikuono
 nosówka - kissarutto
-Nowa Holandia - Uudet-Alankomaat | Uusi Hollanti
+Nowa Holandia - Uudet-Alankomaat, Uusi Hollanti
 Nowa Zelandia - Uusi-Seelanti
 Nowa Ziemia - Novaja Zemlja
 nowicjat - noviisi
@@ -1932,7 +1932,7 @@ Numidia - Numidia
 nur - kuikka
 nur białodzioby - jääkuikka
 nur czarnoszyi - kuikka
-nurek - sukeltaja | sarvikiisla
+nurek - sukeltaja, sarvikiisla
 nurniczek - kiislanen
 nurniczek ciemny - ulappakiislanen
 nurniczek czubaty - töyhtökiislanen
@@ -1948,12 +1948,12 @@ nur rdzawoszyi - kaakkuri
 nurzec - myrskysukeltaja
 nurzyk - kiisla
 nurzyk polarny - pohjankiisla
-nyga - hyttynen | sääski | moskiitto
+nyga - hyttynen, sääski, moskiitto
 obcokrajowiec - ulkomaalainen
 obelisk - obeliski
 oberżyna - munakoiso
-obiecadło - aakkoset | kirjaimisto
-obierać ogóra - runkata | vetää käteen
+obiecadło - aakkoset, kirjaimisto
+obierać ogóra - runkata, vetää käteen
 objaw - oire
 oblężenie - piiritys
 obłok - pilvi
@@ -1975,14 +1975,14 @@ oddzielnie - erikseen
 ode - alkaen
 odmieniec jaskiniowy - olmi
 odmowa - epuu
-odpadek - jäte | uskaltaa
+odpadek - jäte, uskaltaa
 odpowiedzialność - edesvastuu
 odsyłacz - linkki
 odwet - kostoisku
 odwracalny - reversiibeli
 ogień - tuli
-ognisko - nuotio | valkea | polttopiste
-ogórecznik lekarski - rohtopurasruoho | kurkkuyrtti
+ognisko - nuotio, valkea, polttopiste
+ogórecznik lekarski - rohtopurasruoho, kurkkuyrtti
 ogórek - kurkku
 ogorzałka - lapasotka
 ogród - puutarha
@@ -2013,7 +2013,7 @@ opium - oopiumi
 oportunizm - opportunismi
 opowiadać - kertoa
 oraz - ja
-ordnung - järjestys | siivous
+ordnung - järjestys, siivous
 organista - urkuri
 organy - urut
 orgazm - orgasmi
@@ -2025,7 +2025,7 @@ osika - haapa
 osioł - aasi
 osłomuł - muuliaasi
 osoba - henkilö
-osobliwy - erikoinen | outo
+osobliwy - erikoinen, outo
 osobno - erikseen
 ostatni - viimeinen
 Ostia - Ostia
@@ -2043,23 +2043,23 @@ ożarty - humalassa
 pacha - kainalo
 pachwina - nivunen
 paciuk - rotta
-Pacyfik - Tyynimeri | Tyyni valtameri
-pączek - munkki | silmu
+Pacyfik - Tyynimeri, Tyyni valtameri
+pączek - munkki, silmu
 pagórek - kumpu
 pająk - hämähäkki
-pajęcznik - syyskuu | lokakuu | marraskuu
+pajęcznik - syyskuu, lokakuu, marraskuu
 pakli - jos
-pała - pää | nuppi | hamara
+pała - pää, nuppi, hamara
 palacz - tupakoija
-pale - pää | nuppi | hamara
-palec - sormi (palec u ręki) | varvas (palec u nogi)
+pale - pää, nuppi, hamara
+palec - sormi (palec u ręki), varvas (palec u nogi)
 palec wskazujący - etusormi
 Palestyńczyk - palestiinalainen
 pali - pali
 palić - polttaa
 palindrom - palindromi
 pamięć - muisto
-pancernik - vyötiäinen | panssarilaiva
+pancernik - vyötiäinen, panssarilaiva
 pandeizm - pandeismi
 panleukopenia - kissarutto
 panna - neiti
@@ -2067,12 +2067,12 @@ Panna - Neitsyt
 państwowość - osavaltioasema
 panteon - pantheon tai pantheoni
 pantoflarz - vihtori
-papier - paperi | asiapaperi
+papier - paperi, asiapaperi
 papier śniadaniowy - voipaperi
 papież - paavi
 para - vesihöyry
 paranoidalny - paranoidinen
-parasol - sateenvarjo | auringonvarjo
+parasol - sateenvarjo, auringonvarjo
 pardwa górska - kiiruna
 pardwa mszarna - riekko
 park - puisto
@@ -2088,7 +2088,7 @@ paszkot - kulorastas
 paszport - passi
 pasztet strasburski - hanhenmaksa
 patelnia - paistinpannu
-pątnik - pyhiinvaeltaja | toiviomatkalainen | toivioretkeläinen
+pątnik - pyhiinvaeltaja, toiviomatkalainen, toivioretkeläinen
 patronimiczny - patronyymi
 paw - riikinkukko
 pawęża - kilpi
@@ -2096,12 +2096,12 @@ październik - lokakuu
 paździerzeń - lokakuu
 paznokieć - kynsi
 pchnięcie kulą - kuulantyöntö
-pedał - poljin | hinttari
-pedryl - poljin | hinttari
+pedał - poljin, hinttari
+pedryl - poljin, hinttari
 pędzel - sivellin
 Pentateuch - pentateukki
 pępek - napa
-perfumy - hajuvesi | parfyymi | hajuste
+perfumy - hajuvesi, parfyymi, hajuste
 perka - peruna
 perkołyska - uikkukana
 perkoz - uikku
@@ -2113,13 +2113,13 @@ Perm - Perm
 persona - henkilö
 Peru - Peru
 peruka - peruukki
-piana - olut | kalja | kotikalja | mallasjuoma
+piana - olut, kalja, kotikalja, mallasjuoma
 piaskowiec - pulmussirri
 piaskownica - hiekkalaatikko
 piątek - perjantai
 pić - juoda
-piczka - pillu | vittu
-pidżama - pyjama | yöpuku
+piczka - pillu, vittu
+pidżama - pyjama, yöpuku
 piec - leipoa
 piecuszek - pajulintu
 pieczara - luola
@@ -2128,7 +2128,7 @@ piegża - hernekerttu
 piekarz - leipuri
 piekielny - helvetillinen
 piękny - kaunis
-pielgrzym - pyhiinvaeltaja | toiviomatkalainen | toivioretkeläinen
+pielgrzym - pyhiinvaeltaja, toiviomatkalainen, toivioretkeläinen
 piemontyt - piemontiitti
 pień - runko
 pieniądz - raha
@@ -2151,32 +2151,32 @@ pieszy - jalankulkija
 piętro - kerros
 Pietropawłowsk Kamczacki - Petropavlovsk-Kamtšatski
 Pietrozawodsk - Petroskoi
-pietruszka - persilja | juuripersilja
-pietruziel - persilja | juuripersilja
+pietruszka - persilja, juuripersilja
+pietruziel - persilja, juuripersilja
 pietuch - kukko
 pijanica - juolukka
 pijany - humalassa
 pijawa - sateenkaari
 pikawa - sydän
-pikieta - piquet | piketti
+pikieta - piquet, piketti
 piksel - pikseli
 piłka nożna - jalkapallo
 piłkarzyki - pöytäjalkapallo
 piorun - salama
 piosenka - laulu
 piosenkarz - laulaja
-Piotr - Petteri | Pekka
+Piotr - Petteri, Pekka
 Piotra - Petra f
-pipa - pillu | vittu
+pipa - pillu, vittu
 piromania - pyromania
 pisać - kirjoittaa
-pismo - kirjoitus | kirjoittaminen | aikakauslehti | aakkoset | kirjaimisto
+pismo - kirjoitus, kirjoittaminen, aikakauslehti, aakkoset, kirjaimisto
 pistolet maszynowy - konepistooli
 Pitagoras - Pythagoras
 Pittsburgh - Pittsburgh
-piwo - olut | kalja | kotikalja | mallasjuoma
-piżama - pyjama | yöpuku
-pizda - pillu | vittu
+piwo - olut, kalja, kotikalja, mallasjuoma
+piżama - pyjama, yöpuku
+pizda - pillu, vittu
 piżmowół - myskihärkä
 pizza - pitsa
 plac - aukio
@@ -2184,7 +2184,7 @@ plac budowy - rakennustyömaa
 płacić - maksaa
 plagiator - plagioija
 plajster - laastari
-płakać - itkeä | parkua | vollottaa
+płakać - itkeä, parkua, vollottaa
 planeta - planeetta
 planetarium - planetaario
 planta - kasvi
@@ -2197,7 +2197,7 @@ pliszka górska - virtavästäräkki
 pliszka siwa - västäräkki
 płuco - keuhko
 plurale tantum - plurale tantum
-płynny - neste | sujuva | sulava
+płynny - neste, sujuva, sulava
 płyta główna - emolevy
 pływak - uimari
 pochwodziób - tuppinokka
@@ -2213,18 +2213,18 @@ podpułkownik - everstiluutnantti
 podrodzina - alaheimo
 podróżniczek - sinirinta
 podstawówka - peruskoulu
-poduszka - tyyny | ruutu
+poduszka - tyyny, ruutu
 poduszka powietrzna - turvatyyny
 poeta - runoilija
 poganin - pakana
 pogaństwo - pakanuus
-pogoda - ilma | sää
+pogoda - ilma, sää
 pogrzeb - hautajaiset
 pohybel - hirsipuu
-pojazd - kulkuneuvo | ajonuvo
+pojazd - kulkuneuvo, ajonuvo
 pokładełko - munanasetin
 pokląskwa - pensastasku
-pokój - rauha | huone
+pokój - rauha, huone
 pokrzewka - kerttu
 pokrzewka piegża - hernekerttu
 pokrzywa - nokkonen
@@ -2233,15 +2233,15 @@ polatucha - liito-orava
 pole - pelto
 polędwica - filee
 poleku - hitaasti
-poli- - moni- | poly-
+poli- - moni-, poly-
 policja - poliisi
 poliptyk - polyptyykki
-politeizm - polyteismi | monijumalisuus
+politeizm - polyteismi, monijumalisuus
 politura - pulituuri
 polityk - poliitikko
 polityka - politiikka
 półka - hylly
-północ - puoliyö | pohjoinen
+północ - puoliyö, pohjoinen
 północnoamerykański - pohjoisamerikkalainen
 północny wschód - koillinen
 polon - polonium
@@ -2249,35 +2249,35 @@ położenie - sijainti
 położnica - synnyttäjä
 półsamogłoska - puolivokaali
 Polska - Puola
-polski - puolalainen | puola
+polski - puolalainen, puola
 polskość - puolalaisuus
 polszczyzna - puola
 półtora - puolitoista
 półtorej - puolitoista
 południowy zachód - lounas
 Półwysep Arabski - Arabian niemimaa
-pomarańcza - appelsiini | appelsiinipuu
+pomarańcza - appelsiini, appelsiinipuu
 pomarańczowy - oranssi
 pomidor - tomaatti
-pomoc - ohje | apu
+pomoc - ohje, apu
 poniedziałek - maanantai
-ponieważ - koska | sillä | siksi
+ponieważ - koska, sillä, siksi
 popielniczka - tuhkakuppi
 populizm - populismi
 pornografia - pornografia
-pornograficzny - pornografinen | siveetön
+pornograficzny - pornografinen, siveetön
 port - satama
 portier - talonmies
 portki - housut
 portu - satama
-portugalski - portugalilainen | portugali
+portugalski - portugalilainen, portugali
 porucznik - luutnantti
-porządek - järjestys | siivous
-porzeczka - herukka | viinimarja
+porządek - järjestys, siivous
+porzeczka - herukka, viinimarja
 posag - myötäjäiset
-posiadać - omata | omistaa
+posiadać - omata, omistaa
 pośledni - viimeinen
-posowa - katto | sisäkatto
+posowa - katto, sisäkatto
 postępowy - edistyksellinen
 poświerka - lapinsirkku
 poszukiwacz - etsijä
@@ -2287,19 +2287,19 @@ potrzebować - tarvita
 potrzeszcz - harmaasirkku
 potrzos - pajusirkku
 powiadać - kertoa
-powiestka - nimi | etunimi
+powiestka - nimi, etunimi
 powietrze - ilma
-powódź - tulva | ryöppy
+powódź - tulva, ryöppy
 powoli - hitaasti
 powstanie warszawskie - Varsovan kansannousu
-poziomka - ahomansikka | metsämansikka
-pozwalać - sallia | antaa | suoda
+poziomka - ahomansikka, metsämansikka
+pozwalać - sallia, antaa, suoda
 pożyczka - laina
 pożyteczny idiota - hyödyllinen idiootti
 pożywienie - ruoka
 PP - PP
 praca - työ
-praca domowa - kotitehtävä | läksy
+praca domowa - kotitehtävä, läksy
 pralka - pesukone
 prawda - totuus
 prawdziwych przyjaciół poznaje się w biedzie - hädässä ystävä tunnetaan
@@ -2308,7 +2308,7 @@ prawo jazdy - ajokortti
 prażyć - paistaa
 prekariat - prekariaatti
 premier - pääministeri
-prezentacja - esitys | esitelmä
+prezentacja - esitys, esitelmä
 prezerwatywa - kondomi
 prezydent - presidentti
 probówka - koeputki
@@ -2316,7 +2316,7 @@ próbówka - koeputki
 proca - ritsa
 proch - ruuti
 proch strzelniczy - ruuti
-produkcja - valmistaminen | tuotanto | valmistus
+produkcja - valmistaminen, tuotanto, valmistus
 prom - lautta
 prosiak - porsas
 prosię - porsas
@@ -2329,13 +2329,13 @@ proton - protoni
 prowansalski - oksitaani
 Prusy - Preussi
 pryszcz - finni
-przać - rakastaa | rakastella
+przać - rakastaa, rakastella
 przebiśnieg - lumikello
-przebój - hitti | menestys
+przebój - hitti, menestys
 przecinek - pilkku
 przeciwwaga - vastapaino
 przedchrześcijański - esikristillinen
-przede wszystkim - erityisesti | varsinkin
+przede wszystkim - erityisesti, varsinkin
 przedmiot - esine
 przedpokój - käytävä
 przedsiębiorca - yrittäjä
@@ -2353,7 +2353,7 @@ przestrzeń kosmiczna - ulkoavaruus
 przeszkoda - este
 przewodnik - johde
 przewrotka - saksipotku
-przoć - rakastaa | rakastella
+przoć - rakastaa, rakastella
 przybity - masentunut
 przydomek - lempinimi
 przyjaciel - ystävä
@@ -2371,27 +2371,27 @@ psisko - koira
 Psków - Pihkova
 pstrąg - forelli
 psychologia - psykologia
-psy szczekają, karawana idzie dalej - koirat haukkuvat ja karavaani kulkee | karavaani kulkee, mutta koirat haukkuvat
+psy szczekają, karawana idzie dalej - koirat haukkuvat ja karavaani kulkee, karavaani kulkee, mutta koirat haukkuvat
 pszczoła - mehiläinen
 Ptah - Ptah
 ptak - lintu
 ptaszę - lintu
 PTFE - PTFE
 puchacz - huuhkaja
-puder - puuteri | tomusokeri
+puder - puuteri, tomusokeri
 punkt - piste
 purpurowy - purppura
 puste - tyhjä
 pusty - tyhjä
-pustynia - aavikko | autiomaa
+pustynia - aavikko, autiomaa
 puszczyk - lehtopöllö
 puszczyk mszarny - lapinpöllö
 puszczyk uralski - viirupöllö
-puszka - vankila | olut | kalja | kotikalja | mallasjuoma
-Pyjter - Petteri | Pekka
+puszka - vankila, olut, kalja, kotikalja, mallasjuoma
+Pyjter - Petteri, Pekka
 pyra - peruna
 pytanie retoryczne - retorinen kysymys
-rachatłukum - lokum | loukoum
+rachatłukum - lokum, loukoum
 raciądz - ritari
 racjonalność - rationaliteetti
 rączka - korva
@@ -2406,7 +2406,7 @@ raróg - aavikkohaukka
 rasizm - rasismi
 raszka - punarinta
 raz - kerta
-razdziawa - korppi | varis
+razdziawa - korppi, varis
 realizm - realismi
 ręce do góry - kädet ylös!
 ręcznik - pyyhe
@@ -2415,16 +2415,16 @@ redźka - retiisi
 reformacja - uskonpuhdistus
 regularnie - säännöllisesti
 ręgulec - petos
-reinkarnacja - jälleensyntyminen | sielunvaellus
+reinkarnacja - jälleensyntyminen, sielunvaellus
 rękawica - käsine
 rękawiczka - käsine
 rekin - hai
-reklama - mainos | mainostus
+reklama - mainos, mainostus
 rekomendować - suositella
 rekrut - alokas
 remiz - pussitiainen
-ren - poro | peura
-renifer - poro | peura
+ren - poro, peura
+renifer - poro, peura
 republika - tasavalta
 republika bananowa - banaanitasavalta
 Republika Czeska - Tšekin tasavalta
@@ -2435,17 +2435,17 @@ Republika Słowacka - Slovakian Tasavalta
 restauracja - ravintola
 rewolucjonista - vallankumouksellinen
 RNA - RNA
-robak - mato | aivomato
+robak - mato, aivomato
 Robert - Roope
 robić z igły widły - tehdä kärpäsestä härkänen
 rodzaj męski - maskuliini
 rodzaj nijaki - neutri
-rodzina - perhe | heimo
+rodzina - perhe, heimo
 róg - sarvi
-rok - vuosi | hame
+rok - vuosi, hame
 rok przestępny - karkausvuosi
 ropień - paise
-ropucha - rupikonna | konna
+ropucha - rupikonna, konna
 rosa - kaste
 Rosja - Venäjä
 Rosjanin - venäläinen
@@ -2453,14 +2453,14 @@ roślina - kasvi
 roślinożerca - kasvinsyöjä
 roso - kaste
 rosomak - ahma
-rosyjski - venäläinen | venäjä
+rosyjski - venäläinen, venäjä
 rouza - ruusu
 rów - oja
 rower - polkupyörä
 rowerzysta - pyöräilijä
 równanie - yhtälö
-również - myös | -kin
-równoważny - ekvivalentti | ekvivalenttinen | yhtäpitävä | samanarvoinen
+również - myös, -kin
+równoważny - ekvivalentti, ekvivalenttinen, yhtäpitävä, samanarvoinen
 róż - vaaleanpunainen
 róża - ruusu
 rozdzielać - jakaa
@@ -2468,7 +2468,7 @@ rożeniec - jouhisorsa
 rozgrzeszenie - synninpäästö
 rozgwiazda - meritähti
 różnica - erotus
-różnorodność - diversiteetti | monimuotoisuus | moninaisuus
+różnorodność - diversiteetti, monimuotoisuus, moninaisuus
 różowy - vaaleanpunainen
 rozsierdzie - kiukku
 roztargniony - hajamielinen
@@ -2477,14 +2477,14 @@ różyczka - vihurirokko
 rtęć - elohopea
 rubel - rupla
 rubid - rubidium
-ruchome schody - rullaportaat | liukuportaat
+ruchome schody - rullaportaat, liukuportaat
 ruda darniowa - suomalmi
 rudzik - punarinta
 ruina - raunio
 rum - rommi
 rumianek - kamomilla
 Rumun - romanialainen
-rumuński - romanialainen | romania
+rumuński - romanialainen, romania
 rura - putki
 ruten - rutenium
 ryba - kala
@@ -2494,7 +2494,7 @@ rybołów - sääksi
 Ryby - Kalat
 rycerz - ritari
 Ryga - Riika
-ryma - flunssa | influenssa
+ryma - flunssa, influenssa
 rynka - ruukku
 ryś - ilves
 rysować - piirtää
@@ -2521,7 +2521,7 @@ rzut rożny - kulmapotku
 sabotaż - sabotaasi
 sadło - silava
 sadzić - istuttaa
-sagan - pää | nuppi | hamara
+sagan - pää, nuppi, hamara
 sałata - taksi
 sałatka - salaatti
 salceson - aladobi
@@ -2540,18 +2540,18 @@ sarnapa - kirahvi
 sąsiad - naapuri f
 satyra - satiiri
 sauna - sauna
-schody ruchome - rullaportaat | liukuportaat
+schody ruchome - rullaportaat, liukuportaat
 ściany mają uszy - seinilläkin on korvat
 ścięgno - jänne
 ściemniać - valehdella
 seaborg - seaborgium
-seksualność - seksuaalisuus | seksualiteetti | sukupuolisuus
+seksualność - seksuaalisuus, seksualiteetti, sukupuolisuus
 seksuologia - seksologia
 selen - seleeni
 seler - selleri
-sen - uni | unennäkö
+sen - uni, unennäkö
 sęp - korppikotka
-sepsa - verenmyrkytys | sepsis
+sepsa - verenmyrkytys, sepsis
 ser - juusto
 Serbia i Czarnogóra - Serbia ja Montenegro
 serce - sydän
@@ -2575,7 +2575,7 @@ siestrzeniec - sisarenpoika m
 siewka złota - kapustarinta
 siewka złotawa - siperiankurmitsa
 siewnica - tundrakurmitsa
-sikać - pissata | pisauttaa
+sikać - pissata, pisauttaa
 siki - virtsa
 sikora - tiainen
 sikora bogatka - talitiainen
@@ -2594,19 +2594,19 @@ siostrzan - sisarenpoika m
 siostrzanek - sisarenpoika m
 siostrzeniec - sisarenpoika m
 sirpień - elokuu
-siurać - pissata | pisauttaa
+siurać - pissata, pisauttaa
 siwerniak - vuorikirvinen
 skąd - mistä
 skała - kallio
 skand - skandium
 Skandynawia - Skandinavia n
 skandynawski - skandinaavinen
-skąpy - saita | niukka
+skąpy - saita, niukka
 skiba - varkaus
 skibać - varastaa
-skład - kauppa | katto | sisäkatto
-sklep - kauppa | katto | sisäkatto
-sklep monopolowy - viinakauppa | alko | alkoholiliike | pitkäripainen
+skład - kauppa, katto, sisäkatto
+sklep - kauppa, katto, sisäkatto
+sklep monopolowy - viinakauppa, alko, alkoholiliike, pitkäripainen
 skoczek - hevonen
 skok o tyczce - seiväshyppy
 skok wzwyż - korkeushyppy
@@ -2628,27 +2628,27 @@ skuter - skootteri lub (rzadko używane) potkulauta
 slang - slangi
 Śląsk - Sleesia
 śleboda - vapaus
-śledź - solmio | kravatti
+śledź - solmio, kravatti
 śledziona - perna
-śleptać - itkeä | parkua | vollottaa
+śleptać - itkeä, parkua, vollottaa
 ślepucha - kana
 ślepy lelek - lepakko
 ślimak - etana
-ślips - solmio | kravatti
+ślips - solmio, kravatti
 śliwa - luumupuu
 śliwka - luumu
-słodki - makea | imelä | suloinen | herttainen
-słoń - elefantti | norsu
+słodki - makea, imelä, suloinen, herttainen
+słoń - elefantti, norsu
 słońce - aurinko
 Słońce - Aurinko
 słonecznica - aurinkokurki
 słonecznik - auringonkukka
-słoneczny - auringon- | aurinko- | aurinkoinen
+słoneczny - auringon-, aurinko-, aurinkoinen
 słonina - silava
 słonka - lehtokurppa
 słony - suolainen
 słowa - sana
-słowacki - slovakialainen | slovakki
+słowacki - slovakialainen, slovakki
 Słowenia - Slovenia
 Słowianin - slaavi
 słowik - satakieli
@@ -2658,16 +2658,16 @@ słup słoneczny - auringonpilari
 smacznego - hyvää ruokahalua
 smagły - tummaihoinen
 smażonka - munakokkeli
-smerf - Smurffi | Smurffit
+smerf - Smurffi, Smurffit
 smętny - haikea
-śmieć - jäte | uskaltaa
+śmieć - jäte, uskaltaa
 śmierć - kuolema
 śmieszka - naurulokki
 śmietana - kerma
 smutniak - leipä
-smutny - haikea | ankea | surullinen
+smutny - haikea, ankea, surullinen
 smysł - järki
-śniadanie - aamiainen | aamupala
+śniadanie - aamiainen, aamupala
 śnieg - lumi
 śnieguła - pulmunen
 sobaka - koira
@@ -2700,7 +2700,7 @@ sowa jarzębata - hiiripöllö
 sowa śnieżna - tunturipöllö
 spadochroniarz - laskuvarjohyppääjä
 spalanie - palaminen
-spam - spämmi | roskaposti
+spam - spämmi, roskaposti
 śpiący - uninen
 śpiewać - laulaa
 śpiewak - laulaja
@@ -2710,7 +2710,7 @@ spódnica - hame
 spodnie - housut
 sport - urheilu
 sport narodowy - kansallispeli
-spowiedź - rippi | tunnustaminen | tunnustus
+spowiedź - rippi, tunnustaminen, tunnustus
 spragniony - janoinen
 sprzedawca - myyjä
 sraka - takamus
@@ -2722,17 +2722,17 @@ Sri Lanka - Sri Lanka
 ŚRK - KMN
 środa - keskiviikko
 sroka - harakka
-śruba - ruuvi | potkuri
+śruba - ruuvi, potkuri
 ssak - nisäkäs
-stacja benzynowa - bensiiniasema | bensa-asema
+stacja benzynowa - bensiiniasema, bensa-asema
 stadion - stadion
 stanik - rintaliivit
-Stany - Amerikan Yhdysvallat | Yhdysvallat
+Stany - Amerikan Yhdysvallat, Yhdysvallat
 Stany Zjednoczone - Yhdysvallat
-Stany Zjednoczone Ameryki - Amerikan Yhdysvallat | Yhdysvallat
+Stany Zjednoczone Ameryki - Amerikan Yhdysvallat, Yhdysvallat
 stara panna - vanhapiika
 starek - isoisä
-stare miasto - vanha | kaupunki | kantakaupunki | keskusta
+stare miasto - vanha, kaupunki, kantakaupunki, keskusta
 starorzecze - juolua
 starosek - isoisä
 staroszek - isoisä
@@ -2748,15 +2748,15 @@ Stefan - Stefanos
 stefka - lentoemäntä
 stegnisko - jälki
 ster - peräsin
-sterowiec - ilmalaiva | zeppeliini
+sterowiec - ilmalaiva, zeppeliini
 stewardesa - lentoemäntä
 stół - pöytä
 stolica - pääkaupunki
 stomatolog - hammaslääkäri
 stopa - jalka
 stopień wyższy - komparatiivi
-strach - pelko | linnunpelätin | linnunpelätti | variksenpelätin
-strach na wróble - pelko | linnunpelätin | linnunpelätti | variksenpelätin
+strach - pelko, linnunpelätin, linnunpelätti, variksenpelätin
+strach na wróble - pelko, linnunpelätin, linnunpelätti, variksenpelätin
 strąpacz - helmikuu
 strategia - strategia
 strażak - palomies
@@ -2769,9 +2769,9 @@ strychnina - strykniini
 strzała - nuoli
 Strzelec - Jousimies
 student - opiskelija
-stulecie - ikä | vuosisata
+stulecie - ikä, vuosisata
 styczeń - tammikuu
-sufit - katto | sisäkatto
+sufit - katto, sisäkatto
 sukienka - mekko
 sumienie - omatunto
 surrealistyczny - surrealistinen
@@ -2787,16 +2787,16 @@ swastyka - hakaristi
 Święty Hufiec - pyhä joukko
 święty mikołaj - joulupukki
 Święty Zastęp - pyhä joukko
-świnia - porsas | sika
+świnia - porsas, sika
 świnka - sikotauti
 świostka - käly
 świstun - haapana
 Syberia - Siperia
-syczek - pöllönen | kyläpöllönen
-syfilis - syfilis | kuppa | kuppatauti
+syczek - pöllönen, kyläpöllönen
+syfilis - syfilis, kuppa, kuppatauti
 sylaba - tavu
-sylwek - uudenvuodenaatto | uusivuosi
-sylwester - uudenvuodenaatto | uusivuosi
+sylwek - uudenvuodenaatto, uusivuosi
+sylwester - uudenvuodenaatto, uusivuosi
 sympatia - sympatia
 synapsa - synapsi
 synergia - synergia
@@ -2812,7 +2812,7 @@ szara strefa - harmaa talous
 szarłat - revonhäntä
 szary - harmaa
 szczepionka - rokotus
-szczęśliwego Nowy Nowego Roku - onnellista uutta vuotta | hyvää uutta vuotta
+szczęśliwego Nowy Nowego Roku - onnellista uutta vuotta, hyvää uutta vuotta
 szczoteczka do zębów - hammasharja
 szczotka - harja
 szczudłak - pitkäjalka
@@ -2836,7 +2836,7 @@ szlachetny - jalo
 szlafrok - aamutakki
 Szląsk - Sleesia
 szlauch - käärme
-szlips - solmio | kravatti
+szlips - solmio, kravatti
 szminka - huulipuna
 szmucha - petos
 szneka - kasvot
@@ -2851,7 +2851,7 @@ szpuk - kyyhky
 Sztokholm - Tukholma
 sztokholmski - tukholmalainen
 sztrof - rangaistus
-sztrofa - rangaistus | kottikärryt
+sztrofa - rangaistus, kottikärryt
 sztuka - taide
 szubienica - hirsipuu
 szukać - etsiä
@@ -2862,33 +2862,33 @@ Szwajcaria - Sveitsi
 szwajcarski - sveitsiläinen
 Szwecja - Ruotsi
 Szwecyjo - Ruotsi
-szwedzki - ruotsalainen | ruotsi
+szwedzki - ruotsalainen, ruotsi
 szwestera - sisko
 szybki - nopea
 szyna - kisko
 tabaka - tupakka
-tabliczka - kertotaulu | kertomataulu | suklaapatukka
+tabliczka - kertotaulu, kertomataulu, suklaapatukka
 tabliczka czekolady - suklaapatukka
-tabliczka mnożenia - kertotaulu | kertomataulu
+tabliczka mnożenia - kertotaulu, kertomataulu
 tachykardia - takykardia
-tacik - isä | isoisä
+tacik - isä, isoisä
 taczka - kottikärryt
 Tadżykistan - Tadžikistan
 Tajlandia - Thaimaa
-tak - niin | kyllä
+tak - niin, kyllä
 taksonomia - taksonomia
 taksówka - taksi
-także - myös | -kin
-tak zwany - niin sanottu | niin kutsuttu
+także - myös, -kin
+tak zwany - niin sanottu, niin kutsuttu
 tal - tallium
 talasemia - talassemia
-tanksztela - bensiiniasema | bensa-asema
+tanksztela - bensiiniasema, bensa-asema
 tantal - tantaali
 Tanzania - Tansania
 tapeta - tapetti
-tarcza - kilpi | kasvot
+tarcza - kilpi, kasvot
 tarcza krystaliczna - kilpi
-tarcza strzelecka - kilpi | kasvot
+tarcza strzelecka - kilpi, kasvot
 tarcza szkolna - kilpi
 tarczyca - kilpirauhanen
 tarło - kutu
@@ -2900,7 +2900,7 @@ te - tämä
 technet - technetium,
 tęcza - sateenkaari
 teista - teisti
-tej - sinä (język pisany) | sä (język mówiony) | Te
+tej - sinä (język pisany), sä (język mówiony), Te
 tekst - teksti
 telefon - puhelin
 telefon komórkowy - kännykkä
@@ -2921,12 +2921,12 @@ terier szkocki - skotlanninterrieri
 termodynamika - termodynamiikka
 Termopile - Thermopylai
 terroryzm - terrorismi
-terytorium - territorio | alue | reviiri (terytorium zwierząt:)
+terytorium - territorio, alue, reviiri (terytorium zwierząt:)
 testament - testamentti
-tetraplegia - neliraajahalvaus | kvadriplegia | tetraplegia
+tetraplegia - neliraajahalvaus, kvadriplegia, tetraplegia
 tetrapylon - tetrapylon
 tetum - tetumin kieli
-też - myös | -kin
+też - myös, -kin
 tg - tan
 Timor Wschodni - Itä-Timor
 tiul - tylli
@@ -2934,10 +2934,10 @@ tkactwo - kutominen
 tkanka - kudos
 tkanka tłuszczowa - rasvakudos
 tlen - happi
-tlenek węgla - hiilimonoksidi | hiilioksidi
+tlenek węgla - hiilimonoksidi, hiilioksidi
 tłum - väkijoukko
 tłumaczenie - käännös
-tobie - sinä (język pisany) | sä (język mówiony) | Te
+tobie - sinä (język pisany), sä (język mówiony), Te
 toksykologia - toksikologia
 toksyna - toksiini
 topografia - topografia
@@ -2951,18 +2951,18 @@ tracić - kadottaa
 tracz - koskelo
 tradycyjny - perinteinen
 trajkotka - heinätavi
-trambimba - raitiotievaunu | ratikka
-tramwaj - raitiotievaunu | ratikka
-tramwajka - raitiotievaunu | ratikka
+trambimba - raitiotievaunu, ratikka
+tramwaj - raitiotievaunu, ratikka
+tramwajka - raitiotievaunu, ratikka
 transliteracja - translitterointi
 transsubstancjacja - transsubstantiaatio
 trichotillomania - trikotillomania
 troć - forelli
-trochę - vähän | hiukan
-trójkąt - kolmio | triangeli
+trochę - vähän, hiukan
+trójkąt - kolmio, triangeli
 trójskok - kolmiloikka
 truchło - ruumis
-trudny - hankala | ankea
+trudny - hankala, ankea
 trujący - myrkyllinen
 trybalizm - tribalismi
 trzaszczka - korsi
@@ -2972,17 +2972,17 @@ trznadel zwyczajny - keltasirkku
 trzustka - haima
 tudzież - ja
 Tunezja - Tunisia
-turecki - turkkilainen | turkki
+turecki - turkkilainen, turkki
 Turkmenistan - Turkmenistan
 tusz - tussi
-tuż - lähes | melkein
+tuż - lähes, melkein
 tuzin - tusina
 twardość - kovuus
 twardziel - kovalevy
 twarz - kasvot
 twierdza - linnake
 twój - sinun
-ty - sinä (język pisany) | sä (język mówiony) | Te
+ty - sinä (język pisany), sä (język mówiony), Te
 Tybetańczyk - tiibetiläinen
 tyczkarz - seiväshyppääjä
 tydzień - viikko
@@ -2992,7 +2992,7 @@ tyj - tee
 tyłek - takamus
 tylne światło - perävalo
 typografia - typografia
-tyrania - tyrannia | tyrannius
+tyrania - tyrannia, tyrannius
 Tyrteusz - Tyrtaios
 tytoń - tupakka
 ubezpieczenie - vakuutus
@@ -3010,10 +3010,10 @@ uhla - pilkkasiipi
 uhla pstrodzioba - pilkkaniska
 ujgurski - uiguuri
 ukaz - ukaasi
-układ okresowy pierwiastków - jaksollinen järjestelmä | alkuaineiden jaksollinen järjestelmä
+układ okresowy pierwiastków - jaksollinen järjestelmä, alkuaineiden jaksollinen järjestelmä
 ukleja - salakka
 Ukraina - Ukraina
-ukraiński - ukrainalainen | ukraina
+ukraiński - ukrainalainen, ukraina
 ulica - katu
 umiak - umiakki
 umywalka - pesuallas
@@ -3025,7 +3025,7 @@ upiec dwie pieczenie na jednym ogniu - tappaa kaksi kärpästä yhdellä iskulla
 uprzedzenie - ennakkoluulo
 urępny - kaunis
 urna - uurna
-urologia - virtsaelintautioppi | urologia
+urologia - virtsaelintautioppi, urologia
 uryna - virtsa
 uśmiech - hymy
 uśmiechać się - hymyillä
@@ -3034,15 +3034,15 @@ uszatka - sarvipöllö
 uwertura - alkusoitto
 użyteczny idiota - hyödyllinen idiootti
 używka - nautintoaine
-wacha - raitamakrilli | meri | vesi
+wacha - raitamakrilli, meri, vesi
 waga - vaaka
 Waga - Vaaka
 wajco - muna
-wałach - ruuna | valakka
+wałach - ruuna, valakka
 Waldemar - Valdemar
 wałek - petos
 Walia - Wales
-walić konia - runkata | vetää käteen
+walić konia - runkata, vetää käteen
 wampir - vampyyri
 wandal - vandaali
 wandalizm - vandalismi
@@ -3061,30 +3061,30 @@ Watykan - Vatikaan
 wawrzyn - laakeri
 wąż - käärme
 wcześniactwo - ennenaikainen synnytys
-wczoraj - eilinen | eilispäivä
+wczoraj - eilinen, eilispäivä
 wdzięczność - kiitollisuus
 wedyjski - vedalainen
 weganin - vegaani
 weganizm - veganismi
 wegański - vegaaninen
-wegetarianizm - kasvissyönti | vegetarismi
+wegetarianizm - kasvissyönti, vegetarismi
 węgiel - hiili
 Węgier - unkarilainen
 Węgierka - unkarilainen
-węgierski - unkarilainen | unkari
+węgierski - unkarilainen, unkari
 węgierskojęzyczny - unkarinkielinen
 węgorz - ankerias
 Węgry - Unkari
 wełna - villa
-wena - haltioituminen | innoitus
+wena - haltioituminen, innoitus
 wentroba - maksa
 wesele - häät
-Wesołych Świąt - hyvää joulua | hyvää pääsiäistä
+Wesołych Świąt - hyvää joulua, hyvää pääsiäistä
 węszyć - haistaa
 weterynarz - eläinlääkäri
 węzeł - solmu
 wężówka - käärmekaula
-wezwanie - nimi | etunimi
+wezwanie - nimi, etunimi
 wiatr - tuuli
 wichura - vihuri
 widelec - haarukka
@@ -3095,7 +3095,7 @@ więc - siksi
 wieczność - iankaikkisuus
 wieczny - ikuinen
 wieczór - ilta
-wiek - ikä | vuosisata
+wiek - ikä, vuosisata
 wiek emerytalny - eläkeikä
 Wielka Brytania - Britannia
 Wielkanoc - pääsiäinen
@@ -3104,7 +3104,7 @@ wielokulturowość - monikulttuurisuus
 wielokulturowy - monikulttuurinen
 wiersz - runo
 wieś - kylä
-wietnamski - vietnamilainen | vietnam
+wietnamski - vietnamilainen, vietnam
 wiewiór - tippuri
 wiewiórka - orava
 wieża ciśnień - vesitorni
@@ -3116,7 +3116,7 @@ Wikisłownik - Wikisanakirja
 Wikiźródła - Wikiaineisto
 wilga - kuhankeittäjä
 wilgotny - humidi
-wilk - susi | hukka
+wilk - susi, hukka
 wilkołak - ihmissusi
 wilk w owczej skórze - susi lampaan vaatteissa
 willa - huvila
@@ -3124,7 +3124,7 @@ winien - syyllinen
 winnica - viinitila
 winny - syyllinen
 wino - viini
-winograd - viinitila | viinirypäle | viini
+winograd - viinitila, viinirypäle, viini
 winogrono - viinirypäle
 wioska - kylä
 wiosło - airo
@@ -3135,17 +3135,17 @@ wiśnia - hapankirsikka
 wizytkarta - käyntikortti
 wizytówka - käyntikortti
 wkrótce - pian
-wkurwiony - vihainen | ärsyyntynyt
+wkurwiony - vihainen, ärsyyntynyt
 Włoch - italialainen
 włochatka - helmipöllö
 włos - hius
-włoski - italialainen | italia
+włoski - italialainen, italia
 wnęta - syötti
 woda - vesi
 woda mineralna - mineraalivesi
 wodnik - luhtakana
 Wodnik - Vesimies
-wodny - vesi- | veden-
+wodny - vesi-, veden-
 wodór - vety m
 wodospad - koski
 wójcik zielony - idänuunilintu
@@ -3163,13 +3163,13 @@ wózek inwalidzki - pyörätuoli
 wózek sklepowy - ostoskärryt
 wróg - vihollinen
 wrona - varis
-wróżka - keijukainen | keiju
+wróżka - keijukainen, keiju
 wrzesień - syyskuu
 wrzód - haavauma
 wrzos - kanerva
 wschód - itä
 wschodni - itä
-wścieklizna - vesikauhu | raivotauti
+wścieklizna - vesikauhu, raivotauti
 współczucie - myötätunto
 wszystek - kaikki
 wszystkie drogi prowadzą do Rzymu - kaikki tiet vievät Roomaan
@@ -3192,7 +3192,7 @@ wymię - utare
 wymowa - ääntäminen
 wyprysk - finni
 wyraz - sana
-wyścig w workach - pussijuoksu | kenguruhyppely
+wyścig w workach - pussijuoksu, kenguruhyppely
 wyspa - saari
 Wyspa Bożego Narodzenia - Joulusaari
 Wyspa Świętego Tomasza - São Tomé
@@ -3207,13 +3207,13 @@ wzajemny - keskinäinen
 wzdręga grecka - kreikansorva
 ząb - hammas
 żaba - sammakko
-zabawka - lelu | leikkikalu
+zabawka - lelu, leikkikalu
 ząbek czosnku - valkosipulinkynsi
-zachód - auringonlasku | länsi | vaiva
+zachód - auringonlasku, länsi, vaiva
 zachód księżyca - kuun lasku
 zachód słońca - auringonlasku
 zaćmienie - pimennys
-zadanie domowe - kotitehtävä | läksy
+zadanie domowe - kotitehtävä, läksy
 zagadka - arvoitus
 zaganiacz - kultarinta
 żagiel - purje
@@ -3221,18 +3221,18 @@ zaganiacz - kultarinta
 zaimek dzierżawczy - ossessiivipronominit
 zakład karny - vankila
 zakonnica - nunna
-zakrystia - sakasti | sakaristo
+zakrystia - sakasti, sakaristo
 żal - suru
 zalany - humalassa
 żałoba narodowa - maansuru
 założyciel - perustaja
 zamach stanu - vallankaappaus
-zamieć - tuisku | lumimyrsky
+zamieć - tuisku, lumimyrsky
 zamknąć - sulkea
-zapad - auringonlasku | länsi | vaiva
+zapad - auringonlasku, länsi, vaiva
 zapalenie płuc - keuhkokuume
 zarodek - sikiö
-żart - vitsi | pila | kuje | kepponen
+żart - vitsi, pila, kuje, kepponen
 zaskroniec - rantakäärme
 zastrużka - kynänteroitin
 zatoka - lahti
@@ -3247,10 +3247,10 @@ zbieg okoliczności - yhteensattuma
 zbrodnia - rikos
 zbroja - haarniska
 zdrowie - terveys
-zdrowy - hyvinvoipa | terve | terveellinen
-zdrzadło - peili | kuvastin
+zdrowy - hyvinvoipa, terve, terveellinen
+zdrzadło - peili, kuvastin
 źdźbło - korsi
-ździebluchno - vähän | hiukan
+ździebluchno - vähän, hiukan
 że - että
 zebra - seepra
 żec - polttaa
@@ -3269,20 +3269,20 @@ zelżywość - häpeä
 żeńczyna - nainen
 Zenon - Zenon
 żeń-szeń - ginseng
-zespół - ryhmä | yhtye | oireyhtymä
+zespół - ryhmä, yhtye, oireyhtymä
 zespół kanał kanału nadgarstka - rannekanavaoireyhtymä
-zespół napięcia przedmiesiączkowego - premenstruaalisyndrooma | kuukautisia edeltävä oireyhtymä
-zespół Sjögrena - Sjögrenin oireyhtymä | Sjögrenin syndrooma
+zespół napięcia przedmiesiączkowego - premenstruaalisyndrooma, kuukautisia edeltävä oireyhtymä
+zespół Sjögrena - Sjögrenin oireyhtymä, Sjögrenin syndrooma
 zez - karsastus
 żgak - säle
 żgok - säle
 zicherka - hakaneula
 zięba - peippo
-zielarstwo - kasvilääkintä | herbalismi
+zielarstwo - kasvilääkintä, herbalismi
 ziele angielskie - maustepippuri
 zielnik - kasvikokoelma
 zielony - vihreä
-zielony ludzik - pieni vihreä mies | pieni vihreä ukkeli
+zielony ludzik - pieni vihreä mies, pieni vihreä ukkeli
 Ziemia Franciszka Józefa - Frans Joosefin maa
 Ziemia Północna - Severnaja Zemlja
 ziemniak - peruna
@@ -3307,7 +3307,7 @@ znajomy - tuttu
 znak drogowy - liikennemerkki
 znak wodny - vesileima
 znak zapytania - kysymysmerkki
-żołądek - maha | vatsa
+żołądek - maha, vatsa
 żółć - keltainen
 żółtaczka - keltaisuus
 żółtko - keltuainen
@@ -3320,7 +3320,7 @@ znak zapytania - kysymysmerkki
 zoo - eläintarha
 zoofilia - zoofilia
 zoofobia - zoofobia
-zoolatria - eläintenpalvonta | zoolatria
+zoolatria - eläintenpalvonta, zoolatria
 zoologia - eläintiede
 zooplankton - eläinplankton
 zorza polarna - revontulet
@@ -3333,17 +3333,17 @@ zszywacz - nitoja
 ZUM - VTI
 zupa - keitto
 żuraw biały - lumikurki
-żurawina - amerikankarpalo | pensaskarpalo
+żurawina - amerikankarpalo, pensaskarpalo
 żurnal - aikakauslehti
-żurnalista - toimittaja | lehtimies | journalisti
+żurnalista - toimittaja, lehtimies, journalisti
 Zurych - Zürich
 Związek Socjalistycznych Republik Radzieckich - Sosialististen Neuvostotasavaltojen Liitto
-zwierciadło - peili | kuvastin
-zwierzak - eläin | elukka
-zwierzę - eläin | elukka
+zwierciadło - peili, kuvastin
+zwierzak - eläin, elukka
+zwierzę - eläin, elukka
 zwierzę domowe - kotieläin
 zwłoki - ruumis
-zwycięski - voitollinen | voitokas | voittoisa
+zwycięski - voitollinen, voitokas, voittoisa
 zymft - sinappi
 żyrafa - kirahvi
 żywe srebro - elohopea

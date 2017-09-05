@@ -10,8 +10,8 @@ abecadłowo - alphabeticamente
 abecadłowy - alphabetic
 abfal - anomalia
 abiecadło - alphabeto
-abiogeneza - abiogenese | abiogenesis
-abiogenezo - abiogenese | abiogenesis
+abiogeneza - abiogenese, abiogenesis
+abiogenezo - abiogenese, abiogenesis
 abiotyczny - abiotic
 Abisyńczyk - abyssino
 Abisynia - Abyssinia
@@ -20,7 +20,7 @@ ablegat - delegato
 ablegierek - infante
 abnegacja - abnegation
 abolicjonizm - abolitionismo
-abonament - subscription | abonamento
+abonament - subscription, abonamento
 abonent - subscriptor
 aborcja - abortamento
 absolutyzm - absolutismo
@@ -33,7 +33,7 @@ acetylen - acetylen
 adadżio - adagio
 Adam - Adam
 adapter - gramophono
-adaptować - adaptar | appropriar | aptar
+adaptować - adaptar, appropriar, aptar
 addendum - addendum
 adiunkt - adjuncto
 adiutant - adjutante
@@ -49,7 +49,7 @@ adwentnik - decembre
 adwokat - advocato
 aeracja - aeration
 aerobus - aerobus
-aerodrom - aerodromo | aeroporto
+aerodrom - aerodromo, aeroporto
 aerodynamika - aerodynamica
 aerologia - aerologia
 aeronauta - aeronauta
@@ -102,18 +102,18 @@ akwarela - aquarella
 akwarium - aquario
 akwatinta - aquatinta
 akwedukt - aqueducto
-alabaster - alabastrite | alabastro
-alarm - alerta | allerta
-Albańczyk - albaniano | albanese
+alabaster - alabastrite, alabastro
+alarm - alerta, allerta
+Albańczyk - albaniano, albanese
 Albania - Albania
-albański - albanese | albaniano
+albański - albanese, albaniano
 albatros - albatros
 album - album m
 albumina - albumina
 albuminuria - albuminuria
 alegoria - allegoria
 alegoryczny - allegoric
-aleja - allee | vico
+aleja - allee, vico
 alergen - allergene
 alergia - allergia
 alergiczny - allergic
@@ -145,7 +145,7 @@ alkoholowy - alcoholic
 alkowa - alcova
 alleluja - alleluia
 almanach - calendario
-alpejski - alpestre | alpin
+alpejski - alpestre, alpin
 alpinista - alpinista
 alpinizm - alpinismo
 Ałtaj - Altai
@@ -161,7 +161,7 @@ ambasada - ambassada
 ambasador - ambassator
 ambicja - ambition
 ambirz - gingibre
-ambitny - ambitiose | arriviste
+ambitny - ambitiose, arriviste
 ambulans - ambulantia
 ameba - ameba
 Ameryka - America
@@ -185,7 +185,7 @@ amplituda - amplitude
 ampułka - ampulla
 Amsterdam - Amsterdam
 amulet - amuleto
-anachroniczny - anachronic | anachrone
+anachroniczny - anachronic, anachrone
 anachronizm - anachronismo
 anagram - anagramma
 analfabeta - analphabeto
@@ -194,7 +194,7 @@ analityk - analysta
 analiza - analyse
 analizator - analysator
 analizować - analysar
-analogiczny - analoge | analogic
+analogiczny - analoge, analogic
 anarchia - anarchia
 anarchizm - anarchismo
 anatomia - anatom
@@ -207,7 +207,7 @@ anegdociarz - anecdotista
 anegdota - anecdota
 anekdota - anecdota
 aneksja - annexion
-anektować - annecter | annexar
+anektować - annecter, annexar
 anemia - anemia
 anestetyk - anesthetico
 anestezja - anesthesia
@@ -219,12 +219,12 @@ angiologia - angiologia
 Anglia - Anglaterra
 anglicyzm - anglicismo
 Anglija - Anglaterra
-Anglik - anglese | anglo
+Anglik - anglese, anglo
 anglikanin - anglicano
 anglomania - anglomania f
 anglosaski - anglosaxone
-angol - anglese | anglo
-Angol - anglese | anglo
+angol - anglese, anglo
+Angol - anglese, anglo
 anilina - anilina
 animista - animista
 animozja - animositate
@@ -233,7 +233,7 @@ anioł stróż - angelo tutelar
 anoda - anodo
 anomalia - anomalia
 anonimowość - anonymitate
-anonimowy - anonyme | innominate
+anonimowy - anonyme, innominate
 antagonista - antagonista
 antidotum - contraveneno
 antonim - antonymo
@@ -245,7 +245,7 @@ antybiotyk - antibiotico
 antyczny - antique
 antyfaszysta - antifascista
 antyinflacyjny - antiinflationari
-antyk - antiquo | antiquitate
+antyk - antiquo, antiquitate
 antykatolicki - anticatholic
 antyklerykalizm - anticlericalismo
 antykomunizm - anticommunismo
@@ -268,24 +268,24 @@ apartheid - apartheid
 apasz - delinquente
 apeniński - apennin
 apetyczny - appetitive
-apetyt - appetentia | appetito
+apetyt - appetentia, appetito
 apologia - apologia
 apostata - apostata
 apostazja - apostasia
 apostrof - apostropho
 apoteoza - apotheosis
 appendektomia - appendicectomia
-aprobata - accollada | approbation | sanction
-aprykoza - albricochiero | armeniaca
+aprobata - accollada, approbation, sanction
+aprykoza - albricochiero, armeniaca
 apryl - april
 apsyda - apside
-aptek - apotheca | pharmacia
-apteka - apotheca | pharmacia
+aptek - apotheca, pharmacia
+apteka - apotheca, pharmacia
 aptekarz - apothecario
 Arab - arabe
 Arabia Saudyjska - Arabia Saudi
 arabista - arabista
-arabski - arabe | arabic
+arabski - arabe, arabic
 arabus - arabe
 arbiter - arbitro
 arbitralny - arbitrari
@@ -295,9 +295,9 @@ archeologia - archeologia
 archetyp - archetypo
 archipelag - archipelago
 architekt - architecto
-architektoniczny - architectonic | architectural
+architektoniczny - architectonic, architectural
 architektonika - architectonica
-architektoński - architectonic | architectural
+architektoński - architectonic, architectural
 architektura - architectonica
 architraw - architrave
 arcybiskup - archiepiscopo
@@ -307,7 +307,7 @@ aresztant - arrestato
 arfa - harpa
 Argentyna - Argentina
 Argentyńczyk - argentino
-argentyński - argentin | argentinian
+argentyński - argentin, argentinian
 argon - argon
 argument - argumento
 argumentacja - argumentation
@@ -317,7 +317,7 @@ Arizona - Arizona
 arkada - arcada
 Arkansas - Arkansas
 arlekinada - arlequinada
-armeński - armenie | armenian
+armeński - armenie, armenian
 armia - armea
 armijo - armea
 arsen - arsenico
@@ -325,7 +325,7 @@ arsenał - arsenal
 artefakt - artefacto
 arteria - arteria
 artykuł - articulo
-artyleria - artilleria | cannoneria
+artyleria - artilleria, cannoneria
 artystycznie - artisticamente
 artystyczny - artistic
 Aryjczyk - aryano
@@ -353,15 +353,15 @@ astronautyka - astronautica
 astronomia - astronomia
 astronomiczny - astronomic
 astronomio - astronomia
-asymetryczny - asymmetric | asymmetre
+asymetryczny - asymmetric, asymmetre
 asymptota - asymptote
 aszynbecher - cineriera
 atawizm - atavismo
-ateista - atheista | atheo
+ateista - atheista, atheo
 ateizm - atheismo
-atencja - advertentia | advertimento
+atencja - advertentia, advertimento
 Ateny - Athenas
-ateusz - atheista | atheo
+ateusz - atheista, atheo
 Atlantyk - Oceano Atlantic
 atlas - atlas
 atmosfera - atmosphera
@@ -376,7 +376,7 @@ auszpik - aspic
 autentycznie - authenticamente
 auto - auto
 autobiografia - autobiographia
-autobus - autobus | omnibus | bus
+autobus - autobus, omnibus, bus
 autodafe - autodafe
 autograf - autographo
 autoklaw - autoclave
@@ -386,14 +386,14 @@ autonomiczny - autonomic
 autopsja - autopsia
 autostop - autostop m
 awantura - altercation
-awanturnik - picaro | aventurero
-awaria - avaria | emergentia
+awanturnik - picaro, aventurero
+awaria - avaria, emergentia
 awokado - avocato
 Azerbejdżan - Azerbaidzhan
 Azja - Asia
 Azjata - asiatico
 azjatycki - asiatic
-azot - nitrogeno | nitro
+azot - nitrogeno, nitro
 B - accusativo
 Babilon - Babylon
 babiloński - babylonian
@@ -404,7 +404,7 @@ Bachus - Baccho
 bać się - angustiar
 badminton - badminton
 Bagdad - Baghdad
-bagnet - baionetta | bayonetta
+bagnet - baionetta, bayonetta
 bagno - palude
 bagrować - dragar
 bajerować - mentir
@@ -413,7 +413,7 @@ bajtel - infante
 bakcyl - bacillo
 bakelit - bakelite
 bakteria - bacterio
-bakteriobójczy - antiseptic | bacteriocide | germicidal
+bakteriobójczy - antiseptic, bacteriocide, germicidal
 bakteriolog - bacteriologo
 bakteriologia - bacteriologia
 bakteryjny - bacterial
@@ -425,10 +425,10 @@ balista - ballista
 bałkański - balkanic
 Bałkany - Balkanes
 ballada - ballada
-balsam - balsamo | unguento
+balsam - balsamo, unguento
 balsamiczny - unguentari
 Bałt - balto
-Bałtyk - Mar Baltic | Baltico
+Bałtyk - Mar Baltic, Baltico
 balustrada - balustrada
 balustrado - balustrada
 bałwan - beotio
@@ -436,7 +436,7 @@ banan - banana
 banana - banana
 bandaż - bandage
 bandażować - bandar
-bania - cucurbita | capite
+bania - cucurbita, capite
 baniak - capite
 baniok - ferroviero
 baniorz - ferroviero
@@ -460,7 +460,7 @@ baśń - fabula
 basta - assatis
 bastard - bastardo
 bastylia - bastille
-basza - pasha | forrage | pastura
+basza - pasha, forrage, pastura
 batłąch - bottilia
 batożyć - flagellar
 Bawaria - Bavaria
@@ -471,8 +471,8 @@ Bazylea - Basel
 beatyfikacja - beatification
 bebech - stomacho
 bęben - tamburo
-beczeć - lacrimar | plorar | luger
-bednarz - barrilero | cupero
+beczeć - lacrimar, plorar, luger
+bednarz - barrilero, cupero
 Beduin - beduin
 befsztyk - beefsteak
 bejc - dipsomano
@@ -484,45 +484,45 @@ belgijski - belge
 benedyktyn - benedictino
 Benin - Benin
 benzol - benzol
-benzyna - gasolina | benzina
+benzyna - gasolina, benzina
 berbela - vodka
 Berlin - Berlin
 Berno - Bern
-beryl - beryllium | beryllo
+beryl - beryllium, beryllo
 beton - beton
-bezbarwny - achromate | achromatic
+bezbarwny - achromate, achromatic
 bezbożny - athee
-bezdyskusyjnie - indisputabilemente | indiscutibilemente
-bezgraniczny - dismensurate | dismesurate | immense | illimitabile | illimitate
-bezkształtny - amorphe | informe
+bezdyskusyjnie - indisputabilemente, indiscutibilemente
+bezgraniczny - dismensurate, dismesurate, immense, illimitabile, illimitate
+bezkształtny - amorphe, informe
 bezlistny - disfoliate
 beznadzieja - desperantia
 beżowy - beige
 bezpieczeństwo - securitate
 bezpośredni - directe
-bezsporny - indiscutibile | indisputabile | indubitabile | incontestabile | incontrovertibile
+bezsporny - indiscutibile, indisputabile, indubitabile, incontestabile, incontrovertibile
 bezstronność - impartialitate
 bezwarunkowo - inconditionalmente
-bezzwłocznie - immediatemente | promptemente
+bezzwłocznie - immediatemente, promptemente
 białaczka - leucemia
 białko - albumine
-Białoruś - Bielorussia | Belorussia
-białoruski - belorusse | belorusso
+Białoruś - Bielorussia, Belorussia
+białoruski - belorusse, belorusso
 biały - albe
 Biblia - Biblia
 bibliotekarz - bibliothecario
 biblista - biblista
-bić - bastonar | colpar | disgranar | frappar | massar | percuter | palpitar
+bić - bastonar, colpar, disgranar, frappar, massar, percuter, palpitar
 biceps - bicipite
-bida - miseria | paupertate | povressa
-bieda - miseria | paupertate | povressa
+bida - miseria, paupertate, povressa
+bieda - miseria, paupertate, povressa
 biedny - impecuniose
-biegacz - currero | cursor
-biegunka - diarrhea | lienteria
+biegacz - currero, cursor
+biegunka - diarrhea, lienteria
 Bielsko-Biała - Bielsko-Biala
 biernik - accusativo
-bigel - distraction | intertenimento
-bigiel - distraction | intertenimento
+bigel - distraction, intertenimento
+bigiel - distraction, intertenimento
 bigot - bigot
 bigoteria - bigoteria
 bikini - bikini
@@ -537,7 +537,7 @@ Birma - Burma
 biseksualny - bisexual
 biskup - episcopo
 biskupi - episcopal
-biurko - bureau | scriptorio
+biurko - bureau, scriptorio
 biust - busto
 Bizancjum - Byzantio
 bizantyjski - byzantin
@@ -545,9 +545,9 @@ bizantyński - byzantin
 bizon - bisonte
 bladź - meretrice
 blaga - auripelle
-błagać - deprecar | obsecrar | rogar | supplicar | implorar
-błaganie - obsecration | prece | conjuration
-blagier - bluffator | prevaricator
+błagać - deprecar, obsecrar, rogar, supplicar, implorar
+błaganie - obsecration, prece, conjuration
+blagier - bluffator, prevaricator
 błahy - futil
 błecha - pulice
 blef - bluff
@@ -556,7 +556,7 @@ bliskość - proximitate
 blizna - cicatrice
 błogość - beatitude
 blondyn - blonde
-blondynka - blonda | blondessa
+blondynka - blonda, blondessa
 błotnik - guardafango
 bluza - blusa
 bluźnierstwo - blasphemia
@@ -565,35 +565,35 @@ bocian - ciconia
 Bóg - Deo
 bogactwo - ricchessa
 bogacz - ricco
-bogaty - ric | affluente
+bogaty - ric, affluente
 Bohemia - Tchechia
-bojkot - boycott | boycottage
-bojtlik - cartiera | portafolio
+bojkot - boycott, boycottage
+bojtlik - cartiera, portafolio
 ból - algesia
 boleściwy - dolorose
-bolesny - dolorose | afflictive
+bolesny - dolorose, afflictive
 Boliwia - Bolivia
 Boliwijczyk - boliviano
 bolszewik - bolchevico
 bombardon - bombardon
-bombardować - bombar | cannonar
+bombardować - bombar, cannonar
 bombel - infante
 bor - boro
 Bośnia - Bosnia
 bośniacki - bosnie
-Bośnia i Hercegowina - Bosnia-Herzegovina | Bosnia e Herzegovina
+Bośnia i Hercegowina - Bosnia-Herzegovina, Bosnia e Herzegovina
 Bośniak - bosniaco
 botanik - botanista
-botanika - botanica | botanologia
-boży - divin | dive
-brać - sumer | prender
+botanika - botanica, botanologia
+boży - divin, dive
+brać - sumer, prender
 brachol - fratre
 bracieniec - fratre
-brakować - mancar | carer
+brakować - mancar, carer
 brat - fratre
 bratanek - nepote
 braterski - fraternal
-braterstwo - fraternitate | confraternitate
+braterstwo - fraternitate, confraternitate
 bratni - fraternal
 bratobójstwo - fratricidio
 brauza - ducha
@@ -603,12 +603,12 @@ brązowy - brun
 Brazylia - Brasil
 brazyliana - caffe
 brele - berillos
-briftasza - cartiera | portafolio
-briftreger - postero | currero
-broda - barba | mento
+briftasza - cartiera, portafolio
+briftreger - postero, currero
+broda - barba, mento
 brokuł - broccoli
 brom - bromo
-broń - arma | armamento
+broń - arma, armamento
 bronować - hirpicar
 broszka - broche
 broszura - brochure
@@ -616,11 +616,11 @@ browar - bira
 brudny - immunde
 bruk - pavimento
 brukarz - pavitor
-brusić - acuminar | acutiar | affilar
-bryka - auto | automobile | carro
+brusić - acuminar, acutiar, affilar
+bryka - auto, automobile, carro
 brylant - brillante
 bryle - berillos
-Brytyjczyk - Britanno | anglo
+Brytyjczyk - Britanno, anglo
 bryza - brisa
 brzeg - ripa
 brzoskwinia - albricoc
@@ -629,7 +629,7 @@ brzuchomówca - ventriloquo
 brzuchomówstwo - ventriloquia
 brzydki - fede
 brzydota - feditate
-buda - canil | schola
+buda - canil, schola
 buddyjski - buddhic
 buddyzm - buddhismo
 budka telefoniczna - cabina telephonic
@@ -646,7 +646,7 @@ buła - musculo
 bulba - patata
 Bułgar - bulgaro
 Bułgaria - Bulgaria
-bułgarski - bulgare | bulgaro
+bułgarski - bulgare, bulgaro
 bułka - musculo
 bulwa - patata
 bumelować - otiar
@@ -659,7 +659,7 @@ burzyć - fermentar
 busola - bussola
 but - scarpa
 butelka - bottilia
-być - esser | ser
+być - esser, ser
 byk - tauro
 bystry - argute
 bździągwa - cimice
@@ -667,13 +667,13 @@ C - dativo
 całkiem - assatis
 całkowicie - totalmente
 car - czar/tsar
-carski - czarian | czarista
+carski - czarian, czarista
 cebula - cibolla
 cecha - contramarca
 cegła - bricca
 Cejlon - Ceylon
 cela - cella
-celestyn - celestina | celestite
+celestyn - celestina, celestite
 celny - doanal
 celofan - cellophan
 celownik - dativo
@@ -688,7 +688,7 @@ cesarstwo - imperio
 cesarzowa - imperatrice
 cętka - lentigine
 cewka moczowa - urethra
-chachor - dipsomano | mendico
+chachor - dipsomano, mendico
 Cham - Cham
 chamera - nube
 chamicki - chamitic
@@ -699,12 +699,12 @@ charakterystyka - characteristica
 charczeć - roncar
 charkać - sputar
 charlać - tussir
-chatować - insidiar | chattar
-chciwość - avidia | aviditate | rapacitate | cupiditate
-chciwy - insatiabile | avide | rapace
+chatować - insidiar, chattar
+chciwość - avidia, aviditate, rapacitate, cupiditate
+chciwy - insatiabile, avide, rapace
 chemia - chimia
 chemiczny - chimic
-chemik - chimico | chimista
+chemik - chimico, chimista
 chemioterapia - chimotherapia
 chemoterapia - chimotherapia
 cherub - cherubin
@@ -721,15 +721,15 @@ chlać - potar
 chleb - pan
 chłodny - frigide
 chłodzić - refrigidar
-chlor - chloro | dipsomano
-chlorek - chloruro | chlorido
-chmiel - lupulo | bira
+chlor - chloro, dipsomano
+chlorek - chloruro, chlorido
+chmiel - lupulo, bira
 chmura - nube
 choinka - arbore de Natal
 chójk - arbore de Natal
 cholera - cholera
 choreograf - choreographo
-choroba morska - cinetosis | nausea
+choroba morska - cinetosis, nausea
 Chorwacja - Croatia
 Chorwat - croato
 chować - abstruder
@@ -743,62 +743,62 @@ chronometria - chronometria
 chrystianizacja - christianisation
 Chrystus - Christo
 chryzantema - chrysanthemo
-chrząstka - cartilagine | chondro
+chrząstka - cartilagine, chondro
 chrześcijanin - christiano
 chrześcijański - christian
 chrzest - baptismo
-chudoba - miseria | paupertate | povressa
+chudoba - miseria, paupertate, povressa
 churchać - tussir
 chuśle - violino
-chwalebny - commendabile | laudabile
-chwiejny - indecise | instabile | irresolute | vacillatori
+chwalebny - commendabile, laudabile
+chwiejny - indecise, instabile, irresolute, vacillatori
 chyc - canicula
 ciążowy - gestatori
 cichy - quiete
-cielesny - carnal | corporal | corporee
+cielesny - carnal, corporal, corporee
 ciemnia - camera obscur
 ciemnia fotograficzna - camera obscur
 ciemno - tenebrositate
 ciemność - tenebrositate
-ciemny - obscur | tenebrose | analphabete | analphabetic | ignorante | illitterate
+ciemny - obscur, tenebrose, analphabete, analphabetic, ignorante, illitterate
 cień - umbra
 ciepły - affectionate
-ciernisty - aculeate | spinose
-cierpieć - patir | indurar
-cierpkość - acerbitate | acritate
+ciernisty - aculeate, spinose
+cierpieć - patir, indurar
+cierpkość - acerbitate, acritate
 cieść - patre affin
 cieśnina - stricto
-cieszyć - allegrar | jubilar | joiar
-ciężki - ardue | difficile | intricate
+cieszyć - allegrar, jubilar, joiar
+ciężki - ardue, difficile, intricate
 ciotka - amita
 ciupa - prision
 ciurma - prision
 ciżma - scarpa
-ćma - tenebrositate | meretrice
+ćma - tenebrositate, meretrice
 ćmaga - vodka
 cmentarz - cemeterio
 ćmić - adurer
 ćmik - cigarretta
-ćmy - obscur | tenebrose | analphabete | analphabetic | ignorante | illitterate
-cnotliwy - virtuose | caste
+ćmy - obscur, tenebrose, analphabete, analphabetic, ignorante, illitterate
+cnotliwy - virtuose, caste
 cofać - disdicer
 córa - filia
 córczysko - filia
 córka - filia
-coś - alco | alique
+coś - alco, alique
 ćpać - manducar
 cudowny - admirabile
-cudzić - appurar | expurgar | purificar | depurar | furbir | mundificar | mundar | nettar
+cudzić - appurar, expurgar, purificar, depurar, furbir, mundificar, mundar, nettar
 cudzołożnica - adultera
 cudzołożyć - adulterar
-cugle - brida | redina
+cugle - brida, redina
 cukier - sucro
 cukrzyca - diabete
 cupać - tussir
 ćwiczenia - exercitio
 ćwiczenie - exercitio
 cydr - cidra
-cygan - vagabundo | deceptor | dupator | fraudator
+cygan - vagabundo, deceptor, dupator, fraudator
 Cygan - bohemo
 cygański - tsigan
 cygareta - cigarretta
@@ -820,19 +820,19 @@ cytra - cithera
 cytryna - limon
 cytrynat - limon
 cyzelować - cisellar
-czaj - theiero | the
+czaj - theiero, the
 czajnik - capite
 czarna ryba - dahlia w
 Czarnogóra - Montenegro
 czarny - nigre
-czarodziej - mago | incantator
-czasami - aliquando | alquando
-czasem - aliquando | alquando
-czasopismo - periodico | revista
+czarodziej - mago, incantator
+czasami - aliquando, alquando
+czasem - aliquando, alquando
+czasopismo - periodico, revista
 czasownik - verbo
 czasowy - temporal
 czaszka - cranio
-czatować - insidiar | chattar
+czatować - insidiar, chattar
 czcionka - typo
 Czech - Checo
 Czechosłowacja - Checoslovachia
@@ -842,41 +842,41 @@ Czeczenia - Chechenia
 czędo - infante
 czekolada - chocolate
 czerwiec - junio
-czerwony - rubie | communista
+czerwony - rubie, communista
 cześć - salute
-czeski - chec | Checo | tchec
+czeski - chec, Checo, tchec
 człowiek - homine
 czołg - tank
-czorny - nigre | immunde
+czorny - nigre, immunde
 czosnek - allio
 czteroletni - quadriennal
-czteronogi - quadrupede | tetrapode
-czteronożny - quadrupede | tetrapode
+czteronogi - quadrupede, tetrapode
+czteronożny - quadrupede, tetrapode
 czterosilnikowy - quadromotor
 czuły - affectionate
 czwartek - jovedi
-czworonogi - quadrupede | tetrapode
-czworonożny - quadrupede | tetrapode
+czworonogi - quadrupede, tetrapode
+czworonożny - quadrupede, tetrapode
 czy - esque
 czynność - activitate
 czyrwiec - junio
 czyrwień - junio
-czyścić - appurar | expurgar | purificar | depurar | furbir | mundificar | mundar | nettar
+czyścić - appurar, expurgar, purificar, depurar, furbir, mundificar, mundar, nettar
 czyście - bellemente
 czyściec - purgatorio
 czysto - purmente
-czystość - puritate | castitate
-czysty - munde | nitide | nette | caste
-czyszczenie - nettage | mundification | appuramento | depuration
+czystość - puritate, castitate
+czysty - munde, nitide, nette, caste
+czyszczenie - nettage, mundification, appuramento, depuration
 czytać - leger
 czytelnia - cabinetto de lectura
 dać wolną rękę - dar carta blanc
-daktyl - dactylo | dattilo
+daktyl - dactylo, dattilo
 dalia - dahlia w
 dama - dama
 Dania - Danmark
 dar - souvenir
-daremny - otiose | frustranee
+daremny - otiose, frustranee
 darwinista - darwinista
 dawca - dator
 dążenie - aspiration
@@ -887,7 +887,7 @@ definitywnie - definitivemente
 deflacja - deflation
 deforestacja - deforestation
 defraudacja - defraudation
-dega - sabla | sabra
+dega - sabla, sabra
 deista - deista
 deizm - deismo
 dekada - decade
@@ -904,7 +904,7 @@ delegat - delegato
 delfin - delphino
 deliberować - deliberar
 delicja - delicia
-delikatność - delicatessa | mansuetude
+delikatność - delicatessa, mansuetude
 delta - delta
 demiurg - demiurgo
 demografia - demographia
@@ -934,7 +934,7 @@ despota - despota
 despotyzm - despotismo
 destrukcja - destruction
 deszcz - pluvia
-deszczowy - pluviose | pluvial
+deszczowy - pluviose, pluvial
 detonator - detonator m
 deuter - deuterium
 deuteron - deuteron
@@ -952,24 +952,24 @@ dietetyka - dietetica
 digamma - digamma
 diorama - diorama
 dla - por
-dławić - strangular | suffocar
+dławić - strangular, suffocar
 dłuto - cisello
 dłużnik - debitor
 dno - fundo
-dobitnie - emphaticamente | expressemente
+dobitnie - emphaticamente, expressemente
 dobosz - timbalero
 dobrobyt - benesser
 doceniać - appreciar
 docent - docente
-dochód - rendimento | lucro | ganio | renta
+dochód - rendimento, lucro, ganio, renta
 dodatek - accessorio
-dodawać - adder | additionar
+dodawać - adder, additionar
 dogmat - dogma
 dogmatyzm - dogmatismo
-dogodny - commode | convenibile | expediente | opportun
-dojrzały - adulte | matur
+dogodny - commode, convenibile, expediente, opportun
+dojrzały - adulte, matur
 dokładny - precise
-doktor - medico | doctor
+doktor - medico, doctor
 dół - fossa
 dolar - dollar
 dołek - abattimento
@@ -978,16 +978,16 @@ dołować - abstruder
 dom - casa
 dom dziecka - casa de infantes
 Dominik - Dominico
-dorosły - adulte | adulto
+dorosły - adulte, adulto
 Dorota - Dorothea
 doś - quot
 dość - assatis
-doskonałość - perfection | excellentia
-dostany - adulte | matur
-dostarczać - approvisionar | aprovisionar | delivrar | fornir | livrar | munir | provider | subministrar | suppler
+doskonałość - perfection, excellentia
+dostany - adulte, matur
+dostarczać - approvisionar, aprovisionar, delivrar, fornir, livrar, munir, provider, subministrar, suppler
 dostatecznie - sufficientemente
 dostęp - accesso
-dostrzegalny - discernibile | apprehensibile
+dostrzegalny - discernibile, apprehensibile
 dosyć - assatis
 dotyczyć - concerner
 dotyk - tacto
@@ -1004,7 +1004,7 @@ drewno - ligno
 drobnoustrój - animalculo
 druid - druida
 druk - typo
-drwal - abattitor | serrator
+drwal - abattitor, serrator
 drwić - irrider
 drzemać - dormettar
 drzewce - fuste
@@ -1013,7 +1013,7 @@ duch - apparition
 duchowo - spiritualmente
 duchowość - spiritualitate
 dudek - upupa
-dudlać - lacrimar | plorar | luger | potar
+dudlać - lacrimar, plorar, luger, potar
 dukat - ducato
 duma - orgolio
 dumnie - orgoliosemente
@@ -1022,18 +1022,18 @@ Dunaj - Danubio
 duński - dan
 dupa - culo
 durniacha - credule
-durszlak - colatorio | colo
+durszlak - colatorio, colo
 dusza - apparition
-duży - ample | grosse
+duży - ample, grosse
 dwojaki - duple
 dwubarwny - bicolor
 dwuczęściowy - bipartite
-dwudzielny - bifide | dichotomic
+dwudzielny - bifide, dichotomic
 dwujęzyczny - bilingue
 dwujęzykowy - bilingue
 dwukierunkowy - bidirectional
 dwulicowość - duplicitate
-dwulicowy - duplice | pharisaic
+dwulicowy - duplice, pharisaic
 dwupłat - biplano
 dwupłatowiec - biplano
 dwuramienny - bicipital
@@ -1042,21 +1042,21 @@ dwusilnikowy - bimotor
 dwutomowy - ditome
 dwuwymiarowy - bidimensional
 dwuznaczny - ambigue
-dycht - assatis | totalmente
+dycht - assatis, totalmente
 dygnitarz - dignitario
 dykcja - diction
-dyktat - dictato | dictamine
+dyktat - dictato, dictamine
 dyktator - dictator
 dylać - dansar
 dyletancki - dilettante
 dyletant - dilettante
-dymać - captar | deluder | dupar | deciper
+dymać - captar, deluder, dupar, deciper
 dynastia - dynastia
 dynia - cucurbita
-dyplomata - diplomate | diplomatico | diplomato
+dyplomata - diplomate, diplomatico, diplomato
 dysertacja - dissertation
 dyskryminować - discriminar
-dysputacja - contention | contestation | controversia
+dysputacja - contention, contestation, controversia
 dystrykt - districto
 dżez - jazz
 dziad - mendico
@@ -1064,7 +1064,7 @@ dziadkowie - granparentes
 działać - ager
 działalność - activitate
 działanie - activitate
-dziąsło - gingiva | alveolo
+dziąsło - gingiva, alveolo
 dziąsłowy - gingival
 dzieciobójstwo - infanticidio
 dzieciszczko - infante
@@ -1081,9 +1081,9 @@ dzień - jorno
 dziennikarstwo - jornalismo
 dziennikarz - jornalista
 dziesięciolecie - decennio
-dziób - becco | rostro
+dziób - becco, rostro
 dżistać - peder
-dziwaczność - bizarria | peculiaritate
+dziwaczność - bizarria, peculiaritate
 dziwny - peculiar
 dżuma - peste
 dżungla - jungla
@@ -1102,7 +1102,7 @@ egzamin - examine
 egzorcysta - exorcista m
 egzystencja - existentia
 egzystencjalizm - existentialismo
-egzystować - exister | subsister
+egzystować - exister, subsister
 ekologia - ecologia
 ekologiczny - ecologic
 ekologio - ecologia
@@ -1156,7 +1156,7 @@ epitafium - epitaphio
 epoka kamienia gładzonego - neolitho
 epoka kamienia łupanego - paleolitho
 eponim - eponymo
-epsilon - epsilon | epsylon
+epsilon - epsilon, epsylon
 eremita - eremita
 Eros - Eros
 erudycja - erudition
@@ -1167,7 +1167,7 @@ eschatologia - eschatologia
 eseista - essayista
 esej - essayo
 eskapada - escappada
-eskulap - medico | doctor
+eskulap - medico, doctor
 esperancki - esperantistic
 esperanto - esperanto
 Estonia - Estonia
@@ -1192,16 +1192,16 @@ ewidentny - evidente
 eż - que
 Ezop - Esopo
 ezoteryczny - esoteric
-facet - homine | viro
+facet - homine, viro
 facetka - femina
-fagot - basson | fagotto
+fagot - basson, fagotto
 fajek - cigarretta
 fajerwer - cigarretta
 fajka - cigarretta
 faks - fax
-falisty - undose | undulose
+falisty - undose, undulose
 falsyfikacja - falsification
-fałszywy - contrafacte | apocryphe | false | pharisaic | erronee | mendose | posticie | suppositicie
+fałszywy - contrafacte, apocryphe, false, pharisaic, erronee, mendose, posticie, suppositicie
 fama - fama
 fan - devoto
 fanatycznie - fanaticamente
@@ -1221,7 +1221,7 @@ felieton - folieton
 Fenicja - Phenicia
 ferment - enzyma
 ferska - albricoc
-fezeła - ape | apicula
+fezeła - ape, apicula
 Fidżi - Fiji
 figa - fico
 Filadelfia - Philadelphia
@@ -1233,7 +1233,7 @@ film - film
 filmować - filmar
 filolog - philologo
 filozof - philosopho
-finalizować - compler | completar | finir | complir | clausurar
+finalizować - compler, completar, finir, complir, clausurar
 finansowy - financiari
 finezja - finessa
 Finlandia - Finlandia
@@ -1250,7 +1250,7 @@ flanela - flanella
 flaszka - bottilia
 flet - flauta
 fliger - avion
-flirt - flirt | amoretto
+flirt - flirt, amoretto
 flora - flora
 fluktuacja - fluctuation
 fluor - fluor
@@ -1261,7 +1261,7 @@ forhang - cortina
 fortel - stratagema
 fortuna - fortuna f
 fosfor - phosphoro
-fotel - sede a bracios | sedia confortabile
+fotel - sede a bracios, sedia confortabile
 fotograficzny - photographic
 fotografować - photographar
 Franciszek - Francisco m
@@ -1272,25 +1272,25 @@ francuski - francese
 francuz - clave anglese
 frank - franco
 frankofilski - francophile
-frasunek - enoio | affliction
+frasunek - enoio, affliction
 frazeologia - phraseologia
 fryc - germano
 Fryc - germano
 fulać - mentir
-fundament - fundamento | fundation
+fundament - fundamento, fundation
 fundamentalista - fundamentalista
 fundamentalny - fundamental
-fura - carrettata | auto | automobile | carro
+fura - carrettata, auto, automobile, carro
 furdygarnia - prision
 furia - furia
 furt - altere vice
 fusbal - football
 futbol - football
-fyrać - escappar | discampar | fugir | evader
+fyrać - escappar, discampar, fugir, evader
 gąbczasty - spongiose
 gaduła - confabulator
-gaj - arboreto | boschetto
-gała - football | corvo
+gaj - arboreto, boschetto
+gała - football, corvo
 gałąź - branca
 galeon - galeon
 galera - galera
@@ -1299,19 +1299,19 @@ gałka muszkatołowa - nuce muscate
 galon - galon
 gambit - gambito
 gamma - gamma
-ganc - assatis | totalmente
+ganc - assatis, totalmente
 Ganges - Gange
 gangster - gangster
 gapa - corvo
 gara - somno
 garaż - garage
-gardło - gorga | gurgite | gutture | jugulo
+gardło - gorga, gurgite, gutture, jugulo
 garnirować - guarnir
 gasa - strata
 gastronomiczny - gastronomic
 gaża - gage
 gazon - gazon
-Gdańsk - Gdansk | Danzig
+Gdańsk - Gdansk, Danzig
 gdzie - ubi
 gdzieś - alicubi
 gelender - balustrada
@@ -1324,7 +1324,7 @@ geografia - geographia
 geograficzny - geographic
 geologia - geologia
 geologiczny - geologic
-geometra - agrimensor | geometra
+geometra - agrimensor, geometra
 geometria - geometria
 geopolityczny - geopolitic
 georginia - dahlia w
@@ -1337,25 +1337,25 @@ ginekolog - gynecologo
 gips - gypso
 gitara - gitarra
 gitarzysta - gitarrista
-głąb - fundo | profunditate
-glancować - appurar | expurgar | purificar | depurar | furbir | mundificar | mundar | nettar
-głębia - fundo | profunditate
+głąb - fundo, profunditate
+glancować - appurar, expurgar, purificar, depurar, furbir, mundificar, mundar, nettar
+głębia - fundo, profunditate
 głęboko - profundemente
-głębokość - profundor | profunditate
+głębokość - profundor, profunditate
 glicerol - glycerina
 gliceryna - glycerina
 glicerynowy - glyceric
 glina - argilla
 globus - capite
-głodny - affamate | famelic
+głodny - affamate, famelic
 glon - alga
 głośnik - altoparlator
-głosowanie - ballotta | votation | suffragio
+głosowanie - ballotta, votation, suffragio
 głowa - capite
 głównie - supertoto
-gnat - osso | dato
+gnat - osso, dato
 gniazdo - nido
-gnilny - putrefactive | putride
+gnilny - putrefactive, putride
 gnot - infante
 godka - allocution
 godło - emblema
@@ -1371,9 +1371,9 @@ goniometria - goniometria
 gora - incendio
 gorąc - ardorosemente
 gorąco - ardorosemente
-gorący - calorose | ardorose
+gorący - calorose, ardorose
 górka - collinetta
-górnik - minator | minero
+górnik - minator, minero
 gorset - corset
 gorszy - pejor
 gorzałka - vodka
@@ -1381,28 +1381,28 @@ gorzoła - vodka
 górzysty - montaniose
 gość - convitato
 gościnność - hospitalitate
-gotować - cocer | cocinar | bullir
+gotować - cocer, cocinar, bullir
 gotowanie - coction
 graba - mano
-grabież - depredation | despoliamento | rapina | spoliation
+grabież - depredation, despoliamento, rapina, spoliation
 gramofon - gramophono
 granat - granata
-graniczny - frontieral | frontier
+graniczny - frontieral, frontier
 granit - granito
-gratulować - congratular | gratular | felicitar
+gratulować - congratular, gratular, felicitar
 Grecja - Grecia
 grecki - grec
 grejpfrut - pompelmus
 greka - grec
 Grenlandia - Groenlandia
-grobowiec - cenotaphio | sepulchro | sepulcro | cellario
-gromadzić - accumular | amassar | colliger | agglomerar | assemblar
+grobowiec - cenotaphio, sepulchro, sepulcro, cellario
+gromadzić - accumular, amassar, colliger, agglomerar, assemblar
 gronostaj - armenio
 groźba - menacia
 grubiański - aspere
 gruby - crasse
 grudzień - decembre
-grula - dilatori | tardive | ponderose
+grula - dilatori, tardive, ponderose
 grupa - aggrupamento
 gryczpan - buxo
 grymaśny - argutiose
@@ -1421,10 +1421,10 @@ habitat - habitat
 haftować - brodar
 Haiti - Haiti
 haja - altercation
-hak - uncino | croc
-haki - uncino | croc
+hak - uncino, croc
+haki - uncino, croc
 hałaburda - altercation
-hałaśliwy - ruitose | strepitose
+hałaśliwy - ruitose, strepitose
 halka - subgonnella
 hamować - refrenar
 hańbić - dishonorar
@@ -1433,7 +1433,7 @@ harfa - harpa
 harfista - harpista
 harmonijka - concertina
 harmonijka ustna - concertina
-harmonijny - accordante | harmoniose | concorde
+harmonijny - accordante, harmoniose, concorde
 harmonizacja - harmonisation
 harmonogram - horario
 Hawaje - Hawai
@@ -1444,13 +1444,13 @@ heklować - crochetar
 hektar - hectar
 hektolitr - hectolitro
 hel - helium
-Hellada - Hellade | Grecia
+Hellada - Hellade, Grecia
 hellenistyczny - hellenistic
 hełm - casco
 Helsinki - Helsinki
-hemisfera - hemisphera | hemispherio
+hemisfera - hemisphera, hemispherio
 herb - blason
-herbata - theiero | the
+herbata - theiero, the
 herbatnik - biscuit
 heretycki - heretic
 heroicznie - heroicamente
@@ -1463,13 +1463,13 @@ hiacynt - hyacintho
 hica - canicula
 hierarchiczny - hierarchic
 hinduski - indian
-hipotetyczny - hypothetic | suppositive
+hipotetyczny - hypothetic, suppositive
 histeria - hysteria
 historyczny - historic
 Hiszpania - Espania
 holajza - cisello
-Holandia - Hollanda | Pais Basse | Nederland | Nederlanda
-Holandyja - Hollanda | Pais Basse | Nederland | Nederlanda
+Holandia - Hollanda, Pais Basse, Nederland, Nederlanda
+Holandyja - Hollanda, Pais Basse, Nederland, Nederlanda
 hołota - populaceo
 homeopatyczny - homeopathic
 homerycki - homeric
@@ -1481,14 +1481,14 @@ horyzont - horizonte
 hospitalizacja - hospitalisation
 hrabia - conte
 hrabina - contessa
-humorystyczny - humoristic | humorose
-huragan - huracan | hurracan
+humorystyczny - humoristic, humorose
+huragan - huracan, hurracan
 huśtawka - balanciatoria
 hyca - canicula
 hydrograficzny - hydrographic
 hydroplan - hydroplano
 hymn - hymno
-i - e | (rzadziej et)
+i - e, (rzadziej et)
 idea - idea
 idealista - idealista
 identyczny - identic
@@ -1497,11 +1497,11 @@ ideologiczny - ideologic
 idiota - idiota
 idiotyczność - idiotismo
 idylliczny - idyllic
-igła - acicula | agulia
+igła - acicula, agulia
 ile - quot
 ilość - amonta
 ilustrować - illustrar
-iluzoryczny - illusori | prestigiose
+iluzoryczny - illusori, prestigiose
 imaginacja - imagination
 imbir - gingibre
 imigracja - immigration
@@ -1518,14 +1518,14 @@ inflacja - inflation
 influenca - influenza
 ingerencja - ingerentia
 inhalacja - inhalation
-inkszy - alie | altere
+inkszy - alie, altere
 inkunabuł - incunabulo
-inny - alie | altere
+inny - alie, altere
 inspiracja - inspiration
 instytucjonalny - institutional
 instytut - instituto
 insurekcja - insurrection
-insurekcyjny - insurgente | insurrectional | insurgite
+insurekcyjny - insurgente, insurrectional, insurgite
 integracja - integration
 integralność - integritate
 inteligencja - intelligentia
@@ -1542,7 +1542,7 @@ inwalida - invalido
 inwazja - invasion
 inwentaryzować - inventariar
 inwestycja - investimento
-iny - alie | altere
+iny - alie, altere
 inżynier - ingeniero
 inżynieria - ingenieria
 Irak - Iraq
@@ -1555,7 +1555,7 @@ iryd - iridium
 iskra - scintilla f
 islam - islam
 islamizować - islamisar
-islamski - islamic | islamitic
+islamski - islamic, islamitic
 Islandia - Islanda
 islandzki - islandic
 istny - aquelle
@@ -1571,7 +1571,7 @@ jabłkowy - pomacee
 jadać - manducar
 jadalny - comestibile
 jadeit - jada
-jadowity - venenose | virulente
+jadowity - venenose, virulente
 jagnię - agno
 jaguar - jaguar
 Jahwe - Jahveh
@@ -1588,11 +1588,11 @@ jaskier - ranunculo
 jaszczurka - lacerta
 jawny - apparente
 jazz - jazz
-jednobarwny - monochromatic | monochrome | unicolor
+jednobarwny - monochromatic, monochrome, unicolor
 jednokierunkowy - unidirectional
 jednomyślność - unanimitate
 jednorożec - unicorne
-jednoznaczny - inambigue | inequivoc
+jednoznaczny - inambigue, inequivoc
 jedynie - solmente
 Jerozolima - Jerusalem
 Jerycho - Jerico
@@ -1601,19 +1601,19 @@ jeść - manducar
 jesień - autumno
 jesienny - autumnal
 jesion - fraxino
-jest - esser | ser
+jest - esser, ser
 Jezus - Jesus
 Jezus Chrystus - Jesus Christo
-językowy - lingual | liguistic | linguistic
+językowy - lingual, liguistic, linguistic
 jidysz - yiddish
 jogurt - yogurt
-Jowisz - Jove | Jupiter
+Jowisz - Jove, Jupiter
 Józef - Joseph
 judaizm - judaismo
 judeochrześcijański - judeochristian
 juny - juvene
 jupa - blusa
-Jupiter - Jove | Jupiter
+Jupiter - Jove, Jupiter
 Jur - Georgio
 jutrzenka - alba
 kabalistyczny - cabalistic
@@ -1621,17 +1621,17 @@ kaban - porco
 kabareciarz - cabaretero
 kabaret - cabaret
 kabat - collega
-kaczan - fundo | profunditate
+kaczan - fundo, profunditate
 kaczka - anate
 kadm - cadmium
 kądziel - rocca
-kafej - cafe | caffe
+kafej - cafe, caffe
 kaffa - caffe
 Kair - Cairo
 kaj - ubi
-kajak - kayak | canoa
+kajak - kayak, canoa
 kajakarz - canoero
-kajet - fasciculo | quaderno
+kajet - fasciculo, quaderno
 kaktus - cacto
 kalafa - alcoholico
 kalapitra - capite
@@ -1662,7 +1662,7 @@ kapitalista - capitalista
 kapitalistyczny - capitalistic
 kaplica - capella
 kapłon - capon
-kapować - apprehender | comprehender
+kapować - apprehender, comprehender
 kaptur - cappucio
 karaba - catto
 karabin - carabina
@@ -1676,7 +1676,7 @@ kariatyda - caryatide
 karibu - ren
 kariera - carriera
 karlica - nana
-karman - cartiera | portafolio
+karman - cartiera, portafolio
 karmel - caramello
 karmenadel - cotelette
 karmin - carmino
@@ -1688,7 +1688,7 @@ kartofel - patata
 kartografia - cartographia
 kartograficzny - cartographic
 Karwat - croato
-karygodny - reprehensibile | vituperabile
+karygodny - reprehensibile, vituperabile
 karykatura - caricatura
 karykaturzysta - caricaturista
 karzeł - nano
@@ -1699,7 +1699,7 @@ kaskada - cascada
 kast - coffro
 kasta - coffro
 kastrat - castrato
-kastrować - castrar | emascular
+kastrować - castrar, emascular
 kastylijski - castilian
 kaszleć - tussir
 katakumby - catacomba
@@ -1718,7 +1718,7 @@ kaukaski - caucasian
 Kaukaz - Caucaso
 kawa - caffe
 kawaler - baccalaureo
-kawiarnia - cafe | caffe
+kawiarnia - cafe, caffe
 kazeina - caseina
 kaznodzieja - predicator
 kędy - ubi
@@ -1733,21 +1733,21 @@ keta - catena
 khmerski - khmer
 kiedy indziej - altere vices
 kiedykolwiek - quandocunque
-kiedyś - aliquando | alquando
+kiedyś - aliquando, alquando
 kiełek - germine
 kiepeła - capite
-kierowca - autoista | automobilista | chauffeur | conductor | guidator
+kierowca - autoista, automobilista, chauffeur, conductor, guidator
 kierunek - senso
 kieszonkowiec - pickpocket
-kilka - alcun | aliquot | alicun
-kilkujęzyczny - multilingual | multilingue | multilinguistic | plurilingual | polyglotte
-kilkujęzykowy - multilingual | multilingue | multilinguistic | plurilingual | polyglotte
+kilka - alcun, aliquot, alicun
+kilkujęzyczny - multilingual, multilingue, multilinguistic, plurilingual, polyglotte
+kilkujęzykowy - multilingual, multilingue, multilinguistic, plurilingual, polyglotte
 kilt - kilt
-kimać - dormir | addormite
+kimać - dormir, addormite
 kimono - somno
 kino - cine
 kinol - alcoholico
-kintop - cine | distraction | intertenimento | divertimento | amusamento
+kintop - cine, distraction, intertenimento, divertimento, amusamento
 kira - vodka
 kirasjer - cuirassero
 kirchóf - cemeterio
@@ -1756,7 +1756,7 @@ kista - coffro
 kiszka - lacte
 klaka - claque
 kłamać - mentir
-kłamny - contrafacte | apocryphe | false | pharisaic | erronee | mendose | posticie | suppositicie
+kłamny - contrafacte, apocryphe, false, pharisaic, erronee, mendose, posticie, suppositicie
 klarnet - clarinetto
 klarowanie - clarification
 klarownica - clarificator
@@ -1768,7 +1768,7 @@ klej - adhesivo
 klękać - genicular
 klekotun - ciconia
 klerykalizm - clericalismo
-klęska - deroute | disfacta | disastro
+klęska - deroute, disfacta, disastro
 kleszcze - forcipe
 kleszcze porodowe - forcipe
 kliber - alcoholico
@@ -1776,13 +1776,13 @@ klikać - cliccar
 klima - climatisation
 klimatyczny - climatic
 klimatyzacja - climatisation
-klon - acere | clono
-kłopotliwy - embarrassante | disconcertante | moleste
+klon - acere, clono
+kłopotliwy - embarrassante, disconcertante, moleste
 kluber - alcoholico
 klucz francuski - clave anglese
-klupać - perquirer | bastonar | colpar | disgranar | frappar | massar | percuter | palpitar
+klupać - perquirer, bastonar, colpar, disgranar, frappar, massar, percuter, palpitar
 kluza - prision
-kminek - cumino | carvi
+kminek - cumino, carvi
 kniądz - prince
 knot - micca
 koabitacja - cohabitation
@@ -1802,33 +1802,33 @@ kohorta - cohorte
 kokietować - coquettar
 kokota - meretrice
 koksownik - brasiero
-kolarz - bicyclista | cyclista
+kolarz - bicyclista, cyclista
 kołdra - coperilecto
 kolega - collega
 kolejarz - ferroviero
 kolejowy - ferroviari
 kolektywnie - collectivemente
-kolektywny - collaborative | collective
-koleś - homine | viro
+kolektywny - collaborative, collective
+koleś - homine, viro
 kolidować - collider
-koło - bicyclo | bicycletta
+koło - bicyclo, bicycletta
 kolokacja - collocation
 kolokwializm - colloquialismo
 kolonializm - colonialismo
 kolonizator - colonisator
 kolorowanie - coloration
-kołowy - giratori | rotatori
+kołowy - giratori, rotatori
 Kolumb - Columbo
 kolumbarium - columbario
 Kolumbia - Colombia
-kolumna - colonna | pilastro | columna
+kolumna - colonna, pilastro, columna
 kołyska - cuna
 koma - comma
 komar - mosquito
 komat - comma
 komedia - comedia
 komediopisarz - comediano
-komentator - commentator | explicator
+komentator - commentator, explicator
 komentować - commentar
 komercjalizacja - commercialisation
 kometa - cometa
@@ -1836,11 +1836,11 @@ komfort - commoditate
 komicznie - comicamente
 kominek - camino
 komisja - commission
-komora - camera | ventriculo
+komora - camera, ventriculo
 komp - computator
 kompania - compania
 komparatywny - comparative
-kompensacyjny - compensatori | compensative
+kompensacyjny - compensatori, compensative
 kompensować - compensar
 kompetycja - competion
 kompleks - complexo
@@ -1849,7 +1849,7 @@ kompozycja - composition
 kompromis - compromisso
 kompulsywny - compulsive
 komputer - computator
-komputerowy - computational | computatori | computatorial
+komputerowy - computational, computatori, computatorial
 komuch - communista
 komunikacja - communication
 komunikat - communicato
@@ -1857,12 +1857,12 @@ komunista - communista
 komunizm - communismo
 koń - cavallo m
 kóń - cavallo m
-koncentrować - concentrar | focalisar
-koncentryczny - coaxial | concentric
-koncepcja - conception | concepto
+koncentrować - concentrar, focalisar
+koncentryczny - coaxial, concentric
+koncepcja - conception, concepto
 koncert - concerto
-koncesyjny - concessionari | concessive
-kończyć - finir | compler | complir | completar | clausurar
+koncesyjny - concessionari, concessive
+kończyć - finir, compler, complir, completar, clausurar
 kondensator - condensator
 kondolencje - condolentia
 konfesjonał - confessionario
@@ -1876,40 +1876,40 @@ konfucjanizm - confucianismo
 Konfucjusz - Confucio
 kongestia - congestion
 Kongo - Congo
-koniak - cognac | aquardente
+koniak - cognac, aquardente
 koniec - fin
 koniugacja - conjugation
 konklawe - conclave
 konkordat - concordato
-konkubinat - concubinato | concubinage
+konkubinat - concubinato, concubinage
 konkwistador - conquisitor
 konny - equestre
 Konstantynopol - Constantinopole
 konstelacja - constellation
 konsternacja - consternation
 konstytucyjny - constitutional
-konsumpcja - consumo | consumption
+konsumpcja - consumo, consumption
 kontakt - continger
 kontekst - contexto
 kontemplacja - contemplation
-kontent - contente | complacente | satisfacite
+kontent - contente, complacente, satisfacite
 kontestacja - contestation
 kontinuum - continuo
 kontrabanda - contrabando
 kontrola - appuramento
-kontrowersyjny - controverse | controversial
+kontrowersyjny - controverse, controversial
 kontrrewolucja - contrarevolution
 kontrwywiad - contraspionage
 kontur - contorno
 konurbacja - conurbation
 konwencjonalny - conventional
-konwojować - conviar | convoyar
+konwojować - conviar, convoyar
 kooperacja - cooperation
 koparka - excavator
 koper - anetho
 koperta - inveloppe
 kopruch - mosquito
-koral - corallo | corallina
+koral - corallo, corallina
 korbol - cucurbita
 kordialny - cordial
 kordła - coperilecto
@@ -1917,26 +1917,26 @@ Kordoba - Cordova
 Kordowa - Cordova
 Korea - Corea
 Koreańczyk - coreano
-koreański - corean | coreano
+koreański - corean, coreano
 kornet - cornetta
-korona - corolla | corona | monarchia
+korona - corolla, corona, monarchia
 koronka - dentella
-korpulentny - corpulente | abdominose
+korpulentny - corpulente, abdominose
 Korsyka - Corsica
 koryncki - corinthie
 korzystać - profitar
-kos - merla | falce
+kos - merla, falce
 kosa - falce
-kosaciec - iride | iris
-kość - osso | dato
-kościsty - ossose | ossee | ossute
+kosaciec - iride, iris
+kość - osso, dato
+kościsty - ossose, ossee, ossute
 kosmetyczny - cosmetic
 kosmogoniczny - cosmogonic
 kosmopolita - cosmopolita
 koszt - sumpto
 kot - catto
 kotka - catta
-kotlarz - caldierero | latonero
+kotlarz - caldierero, latonero
 kotlet - cotelette
 kotwica - ancora
 kotwicowisko - ancorage
@@ -1959,15 +1959,15 @@ krokiet - croquet
 król - rege
 królik - conilio
 królowa - regina
-kropla - globulo | gutta | stilla
-krople - globulo | gutta | stilla
+kropla - globulo, gutta, stilla
+krople - globulo, gutta, stilla
 krosta - pustula
-krotofila - divertimento | amusamento | intertenimento
+krotofila - divertimento, amusamento, intertenimento
 krowa - vacca
 krucyfiks - crucifixo
 kruk - corvo
 krużganek - claustro
-krykiet - cricket | croquet
+krykiet - cricket, croquet
 Krym - Crimea
 kryminał - prision
 kryminalista - criminalista
@@ -1977,10 +1977,10 @@ krytyk - critico
 krytyka - animadversion
 kryzys - crise
 krzem - silice
-krzesło - sedia | chaise
+krzesło - sedia, chaise
 krzest - baptismo
 krzyczeć - critar
-krzyk - clamor | crito
+krzyk - clamor, crito
 krzywoprzysięstwo - perjurio
 krzyżówka - cruciamento
 ksenofobia - xenophobia
@@ -1990,7 +1990,7 @@ ksylofag - xylophage
 ksylofon - xylophono
 kształt - forma
 kto - qui
-ktoś - alcuna | alicuna f | alicuno
+ktoś - alcuna, alicuna f, alicuno
 któż - qui
 Kuba - Cuba
 kubański - cuban
@@ -2001,14 +2001,14 @@ kucać - tussir
 kuchnia - cocina
 kukurydza - mais
 kulis - coolie
-kulminacja - apogeo | culmine | culmination
+kulminacja - apogeo, culmine, culmination
 kulminacyjny - culminante
 kuloodporny - paraballa
 kultura - cultura
-kumulacja - accumulamento | cumulation
+kumulacja - accumulamento, cumulation
 kumulować - cumular
-kupować - comprar | emer
-kuraż - braveria | corage
+kupować - comprar, emer
+kuraż - braveria, corage
 kuriozum - curiositate
 kurs - curso
 kurtyzana - meretrice
@@ -2025,27 +2025,27 @@ kwaśny - acetose
 kwestionować - questionar
 kwiatowy - floral
 kwiecień - april
-kwitnąć - florar | florer | florescer | inflorescer
-labija - distraction | intertenimento
+kwitnąć - florar, florer, florescer, inflorescer
+labija - distraction, intertenimento
 labirynt - labyrintho
 Labrador - Labrador
 łacina - latin
 lacz - capite
 łączność - communication
-łączyć - conjunger | adjunger | agglutinar | amalgamar
+łączyć - conjunger, adjunger, agglutinar, amalgamar
 lądowy - terrestrial
 łagodnieć - mollir
-łagodzić - alleviar | amortir | appaciar | attemperar | dulcificar | emollir | mitigar | moderar | mollificar | placar | quietar
+łagodzić - alleviar, amortir, appaciar, attemperar, dulcificar, emollir, mitigar, moderar, mollificar, placar, quietar
 łąka - prato
 laktacja - lactation
 łamliwy - fragile
 lampart - leopardo
 łańcuch - catena
-land - campania | village
+land - campania, village
 łapka - insidia
 lapoński - lapponese
-larmo - altercation | alerta | allerta
-las - foreste | bosco
+larmo - altercation, alerta, allerta
+las - foreste, bosco
 lat - anno
 lata - anno
 latarnia morska - pharo
@@ -2059,16 +2059,16 @@ lawina - avalanche
 Łazarz - Lazaro
 łazienka - camera de banio
 łazior - vagabundo
-leberwuszt - pastata | pastisso
+leberwuszt - pastata, pastisso
 łechtaczka - clitoride
 leczniczy - curative
 legalizacja - legalisation
 legenda - legenda
 legionista - legionario
-lejce - brida | redina
-lekarz - medico | doctor
+lejce - brida, redina
+lekarz - medico, doctor
 lekarz choroby chorób kobiecych - gynecologo
-lekceważyć - despicer | disobligar
+lekceważyć - despicer, disobligar
 lekka atletyka - athletica
 lekkoatletyka - athletica
 leksykon - lexico
@@ -2079,7 +2079,7 @@ leopard - leopardo
 lepak - altere vice
 łepetyna - capite
 lepszy - melior
-lesisty - silvose | silvatic | silvan
+lesisty - silvose, silvatic, silvan
 lewarek - levator
 leworęczny - sinistromane
 lewszun - sinistromane
@@ -2093,7 +2093,7 @@ libretto - libretto
 licencja - licentia
 lichwiarski - usurari
 liczba pierwsza - numero prime
-liczenie - calculation | conto
+liczenie - calculation, conto
 ligatura - ligatura
 likwidacja - liquidation
 likwidować - liquidar
@@ -2108,7 +2108,7 @@ lira - lyra
 liryczny - lyric
 lis - vulpe
 lista - lista
-listonosz - postero | currero
+listonosz - postero, currero
 listopad - novembre
 litera - littera
 litr - litro
@@ -2125,23 +2125,23 @@ lokator - locatario
 łokciowy - cubital
 łokieć - cubito
 Londyn - London
-łono - utero | sino
+łono - utero, sino
 lornetka - binoculo
 łosoś - salmon
 losowy - aleatori
 lotniczy - aeronautic
-lotnisko - aerodromo | aeroporto
+lotnisko - aerodromo, aeroporto
 lotniskowiec - portaaeroplanos
 lotos - loto
 lotus - loto
 Łotwa - Latvia
 łów - chassa
-lśniący - fulgente | fulgide | lustrose | resplendente
+lśniący - fulgente, fulgide, lustrose, resplendente
 lub - o
 lubić - affectionar
 łucznik - archero
 ludobójstwo - genocidio
-łudzić - illusionar | prestigiar
+łudzić - illusionar, prestigiar
 łudzikwiat - april
 ludzkość - humanitate
 lufa - cannon
@@ -2151,29 +2151,29 @@ luksus - luxo
 lulka - cigarretta
 luńt - can
 łupież - furfure
-łuska - scalia | flocco
+łuska - scalia, flocco
 lut - soldatura
 luteranin - lutherano
-lutować - bastonar | colpar | disgranar | frappar | massar | percuter | palpitar
+lutować - bastonar, colpar, disgranar, frappar, massar, percuter, palpitar
 luty - februario
 luźno - laxemente
 łyżwiarz - patinator
 mać - matre
 Macedonia - Macedonia
 machinacja - machination
-macica - utero | nacre | nacrate
+macica - utero, nacre, nacrate
 macierzyński - maternal
 mączkować - moler
 mafia - mafia
 mafijny - mafiose
 mafioso - mafioso
-mag - mago | magico
+mag - mago, magico
 magicznie - magicamente
 magnes - magnete
 magnetofon - magnetophono
-Mahomet - Mahomet | Mohammed
+Mahomet - Mahomet, Mohammed
 maj - maio
-majestatyczny - majestatic | majestose | excelse | auguste | sublime
+majestatyczny - majestatic, majestose, excelse, auguste, sublime
 majstersztyk - obra de maestro
 mak - papavere
 mąka - farina
@@ -2185,11 +2185,11 @@ malarz - pictor
 maleć - discrescer
 malin - frambese
 malina - frambese
-małpi - simian | simiesc
+małpi - simian, simiesc
 Malta - Malta
-małżeński - conjugal | connubial | matrimonial | sponsal
-mam - haber | mama
-mama - mama | matre affin
+małżeński - conjugal, connubial, matrimonial, sponsal
+mam - haber, mama
+mama - mama, matre affin
 Mandżuria - Manchuria
 manewr - manovra
 mango - mango
@@ -2200,31 +2200,31 @@ mańkut - sinistromane
 mansarda - mansarda
 manufaktura - manufactura
 manuskrypt - manuscripto
-mapa - mappa | carta
+mapa - mappa, carta
 marchew - carota
 marchewka - carota
 margaryna - margarina
-markiza - marchesa | marquise
+markiza - marchesa, marquise
 marksizm - marxismo
 marmur - marmore
 marność - vanitate
-Maroko - Marocco | Morocco
+Maroko - Marocco, Morocco
 marszałek - marechal
 martyrologia - martyrologio
 marynarka wojenna - armea de mar
 marzec - martio
-marzenie - desiderio | reverie
+marzenie - desiderio, reverie
 marzenie senne - somno
 marzyć - soniar
 masakra - massacro
-masa perłowa - nacre | nacrate
+masa perłowa - nacre, nacrate
 maść - unguento
 mason - mason
-masoneria - masoneria | francmasoneria
+masoneria - masoneria, francmasoneria
 masywny - massive
 maszyna - machina
 maszyna do pisania - machina a scriber
-matczyny - materne | maternal
+matczyny - materne, maternal
 matematyk - mathematico
 matka - matre
 matriarchalny - matriarchal
@@ -2240,15 +2240,15 @@ mediana - mediana
 mediewalny - medieval
 mędrzec - sagio
 medycyna - medicina
-medyk - medico | doctor
+medyk - medico, doctor
 megaloman - megalomano
 megalomański - megalomane
-męka - tormento | cruciation | calvario
+męka - tormento, cruciation, calvario
 Meksyk - Mexico
-melać - moler | sputar
-melancholia - melancholia | atrabile
+melać - moler, sputar
+melancholia - melancholia, atrabile
 melić - moler
-melodyjny - melodic | melodiose | canor
+melodyjny - melodic, melodiose, canor
 memorandum - memorandum
 menel - dipsomano
 merdać - aberrar
@@ -2256,8 +2256,8 @@ Merkury - Mercurio m
 mesjanizm - messianismo
 Mesjasz - Messia
 metafizyczny - metaphysic
-metafora - allegoria | metaphora
-metaforyczny - metaphoric | figurative
+metafora - allegoria, metaphora
+metaforyczny - metaphoric, figurative
 metempsychoza - metempsychosis
 meteorologia - meteorologia
 meteorologiczny - meteorologic
@@ -2265,16 +2265,16 @@ metoda - methodo
 Metody - Methodio
 metropolia - metropole
 mewa - laro
-mężczyzna - homine | viro
+mężczyzna - homine, viro
 Mezopotamia - Mesopotamia
 mezozoiczny - mesozoic
 mezzosopranistka - mezzosopranista
 mgła - bruma
-miałki - superficial | cursori
+miałki - superficial, cursori
 miasto stołeczne - capital
 miąższ - pulpa
 mieć - haber
-mieć gdzieś - despicer | disobligar
+mieć gdzieś - despicer, disobligar
 mieć gzik w kolanach - angustiar
 miecz - gladio
 między Scyllą a Charybdą - inter Scylla e Charybdis
@@ -2287,7 +2287,7 @@ mięsień - musculo
 mięsopust - carneval
 mięsopustnik - februario
 mięsożerca - creophago
-mięsożerny - creophage | carnivore
+mięsożerny - creophage, carnivore
 mieszczaństwo - burgesia
 mieszkalny - habitabile
 mieszkanie - appartamento
@@ -2303,61 +2303,61 @@ militaryzacja - militarisation
 militaryzm - militarismo
 miło - agradabilemente
 miłość - amor
-miłosierny - gratiose | misericorde | misericordiose
+miłosierny - gratiose, misericorde, misericordiose
 miłosny - amorose
-miły - amabile | agradabile | affabile | complacente
+miły - amabile, agradabile, affabile, complacente
 mimoza - mimosa
 minaret - minaret
 miód - melle
 miotła - scopa
 miscellanea - miscellanea
-miseczka - bassinetto | scutella
+miseczka - bassinetto, scutella
 misjonarz - missionario
-miteser - button | carbunculo
+miteser - button, carbunculo
 mitra - mitra
 mleć - moler
 mleko - lacte
 młody - juvene
 młodziec - baby
 młyn - molino
-mnich - cenobita | monacho
+mnich - cenobita, monacho
 mnogość - multitude
 mobilizacja - mobilisation
-moc - fortitudo | fortitude | robore
+moc - fortitudo, fortitude, robore
 moczowy - urinose
 modlić się - orar
-modlitwa - oration | precaria | prece
+modlitwa - oration, precaria, prece
 modrakowy - blau
 modry - blau
 Mojżesz - Moses
 mokry - humide
-Mołdawia - Moldova | Moldavia
+Mołdawia - Moldova, Moldavia
 monarchia - monarchia
-monogamiczny - monogame | monogamic
+monogamiczny - monogame, monogamic
 monografia - monographia
 monopol - monopolio
 monoteistyczny - monotheistic
 monotonia - monotonia
 montaż - montage
-montować - assemblar | attruppar | montar
+montować - assemblar, attruppar, montar
 mora - apparition
 moralista - moralista
 moralność - moralitate
 moralny - moral
-mord - assassinato | assassination | homicidio | occision
+mord - assassinato, assassination, homicidio, occision
 morda - musello
-morderca - assassinator | assassino
-morderstwo - assassinato | assassination | homicidio | occision
-morela - albricochiero | armeniaca
+morderca - assassinator, assassino
+morderstwo - assassinato, assassination, homicidio, occision
+morela - albricochiero, armeniaca
 morkwa - carota
 morski - maritime
 morze - mar
-Morze Bałtyckie - Mar Baltic | Baltico
+Morze Bałtyckie - Mar Baltic, Baltico
 Morze Karaibskie - Mar Caribe
 Morze Kaspijskie - Mar Caspie
 Morze Południowochińskie - Mar de China Meridional
 Morze Śródziemne - Mediterraneo
-moskit - culice | mosquito
+moskit - culice, mosquito
 moskitiera - mosquitiera
 Moskwa - Moscova
 motocykl - motocyclo
@@ -2374,13 +2374,13 @@ mroźny - frigorifere
 mruczenie - murmure
 mrugać - palpebrar
 mućka - vacca
-muł - mulo | fango | bicipite
+muł - mulo, fango, bicipite
 mumia - mumia
 musieć - deber
-muskularny - muscular | musculate
+muskularny - muscular, musculate
 musztarda - mustarda
 muzułmanin - musulman
-mużyk - homine | viro
+mużyk - homine, viro
 mykita - vulpe
 mylić - aberrar
 myśl - pensata
@@ -2388,33 +2388,33 @@ N - ablativo
 nacja - nation
 nacjonalizować - nationalisar
 na cołki łeb - totalmente
-naczynie - alveo | vasculo
+naczynie - alveo, vasculo
 nadarzyciel - dator
-naddźwiękowy - hypersonic | supersonic
-nadmiar - excesso | redundantia | surplus | profusion
+naddźwiękowy - hypersonic, supersonic
+nadmiar - excesso, redundantia, surplus, profusion
 nadnaturalny - supernatural
 nadprzyrodzony - supernatural
-nadziany - ric | affluente
+nadziany - ric, affluente
 nadzieja - sperantia
-nadzorca - vigilator | supervidente | superintendente | controlator
+nadzorca - vigilator, supervidente, superintendente, controlator
 nagi - nude
-nagle - abruptemente | urgentemente
+nagle - abruptemente, urgentemente
 nagość - nuditate
 nagota - nuditate
-naiwny - naive | credule
+naiwny - naive, credule
 najeżdżać - invader
 naleganie - insistentia
 należeć - appertiner
 nałożenie - superposition
 namacalny - tangibile
-namawianie - insistentia | exhortation
+namawianie - insistentia, exhortation
 namiętny - passional
 namiot - tenta
 naonczas - alora
 napalm - napalm
 napastnik - assalitor, assaltator
 napój - bibitura
-napotny - sudatori | sudorific | sudoripare
+napotny - sudatori, sudorific, sudoripare
 naprawdę - vermente
 narba - cicatrice
 narciarz - skiator
@@ -2422,21 +2422,21 @@ nareszcie - finalmente
 naród - nation
 narzędnik - ablativo
 narzucanie - imposition
-nasiono - semine | grana
+nasiono - semine, grana
 następowanie - sequentia
 na sto procent - totalmente
 natenczas - alora
 naturalność - naturalitate
-natychmiastowy - instantanee | prompte
-nauczać - docer | erudir | inseniar | instruer | professar | regentar | apprender
-nauka - scientia | apprension | apprendimento | apprentissage
+natychmiastowy - instantanee, prompte
+nauczać - docer, erudir, inseniar, instruer, professar, regentar, apprender
+nauka - scientia, apprension, apprendimento, apprentissage
 naukowiec - scientista
 naukowy - scientific
 na uwięzi - captif
 nawigacyjny - navigational
 nawilżać - humectar
 nazista - nazista
-nazywać - appellar | nominar
+nazywać - appellar, nominar
 Neapol - Neapole
 negacja - negation
 nękać - plagar
@@ -2450,53 +2450,53 @@ neologizm - neologismo
 neon - neon
 Nepal - Nepal
 nepotyzm - nepotismo
-nerwowy - nervose | nerval | irritabile
+nerwowy - nervose, nerval, irritabile
 neurotyczny - neurotic
 neutralność - neutralitate
-neutralny - neutral | neutre
+neutralny - neutral, neutre
 neutron - neutron
 nić Ariadny - filo de Ariadna
-Niderlandy - Paises Basse | Hollanda | Pais Basse | Nederland | Nederlanda
+Niderlandy - Paises Basse, Hollanda, Pais Basse, Nederland, Nederlanda
 nieakceptowalny - inacceptabile
 nieaktywny - inactive
 niebieski - blau
-niechęć - animositate | antipathia
+niechęć - animositate, antipathia
 niechętny - nolente
-niedojrzały - immatur | impubere | pueril
+niedojrzały - immatur, impubere, pueril
 niedokrwistość - anemia
 niedoskonałość - imperfection
 niedostępny - inaccessibile
-niedostrzegalny - imperceptibile | insensibile
+niedostrzegalny - imperceptibile, insensibile
 niedziela - dominica
 niedźwiedzi - ursin
 niefortunny - infortunate
-niegdyś - aliquando | alquando
-niegodziwy - damnabile | ignobile | indigne
+niegdyś - aliquando, alquando
+niegodziwy - damnabile, ignobile, indigne
 niegrzeczny - discortese
 niehigieniczny - inhygienic
-niehonorowy - improbe | dishonorabile | ignominiose
+niehonorowy - improbe, dishonorabile, ignominiose
 niejadalny - inedibile
 niejasność - equivoco
 niekompetentny - incompetente
-niekonsekwentny - inconsequente | inconsequential
-niektóry - alicuno | alicun
-niełatwy - ardue | difficile | intricate
+niekonsekwentny - inconsequente, inconsequential
+niektóry - alicuno, alicun
+niełatwy - ardue, difficile, intricate
 niemądry - insipiente
 niemal - quasi
 Niemcy - Germania
 Niemiec - germano
 nie mieć - haber
-niemiły - displacente | ingratiose
+niemiły - displacente, ingratiose
 niemoralny - immoral
 niemowlę - baby
 niemożliwy - impossibile
-nienaturalny - innatural | non-natural
+nienaturalny - innatural, non-natural
 nienawidzić - odiar
 nieobecny - absentista
-nieodpowiedni - improprie | inadequate
-nieodpowiedzialny - irresponsabile | negligente
+nieodpowiedni - improprie, inadequate
+nieodpowiedzialny - irresponsabile, negligente
 nieodwracalny - irreversibile
-nieograniczony - illimitabile | illimitate
+nieograniczony - illimitabile, illimitate
 nieomylny - infallibile
 nieostrożny - incaute
 nieożywiony - inanimate
@@ -2504,63 +2504,63 @@ niepamięć - oblivion
 niepewny - dubitabile
 niepodległy - independente
 niepodważalny - irrefutabile
-niepokoić - disconcertar | molestar | turbar | perturbar
-niepokój - agitation | angustia | anxietate
+niepokoić - disconcertar, molestar, turbar, perturbar
+niepokój - agitation, angustia, anxietate
 niepomyślny - adverse
-nieposłuszny - disobediente | indocile | refractori / refractari | contumace
+nieposłuszny - disobediente, indocile, refractori / refractari, contumace
 nieprecyzyjny - imprecise
 nieprzemakalny - impermeabile
 nieprzewidywalny - imprevisibile
 nieprzyjazny - inamical
-nierealny - imaginari | irreal
+nierealny - imaginari, irreal
 niereformowalny - irreformabile
-nierówność - inequalitate | disequalitate
+nierówność - inequalitate, disequalitate
 nierozpoznawalny - irrecognoscibile
-niesforny - indocile | ingovernabile | intractabile
+niesforny - indocile, ingovernabile, intractabile
 nieskończony - interminabile
-nieskromny - immodeste | impudic | inhoneste
-nieskuteczny - inefficace | inefficiente
+nieskromny - immodeste, impudic, inhoneste
+nieskuteczny - inefficace, inefficiente
 niesłyszalny - inaudibile
 niesmaczny - disgustose
 nieśmiertelny - immortal
-niespodziewany - impreviste | insperate
+niespodziewany - impreviste, insperate
 niestabilny - instabile
-niestały - inconstante | labile | varie
+niestały - inconstante, labile, varie
 nieświadomie - inconsciemente
-nieszczęście - afflixtion | disastro | affliction | infortuna
+nieszczęście - afflixtion, disastro, affliction, infortuna
 nietolerancja - intolerantia
 nieuczciwy - dishoneste
-nieuprzejmy - discortese | inurban
+nieuprzejmy - discortese, inurban
 nieuzasadniony - injustificabile
-niewdzięczny - ingrate | ingratiose
+niewdzięczny - ingrate, ingratiose
 niewiarygodny - incredibile
 niewiasta - femina
-niewłaściwy - incorrecte | improprie | inappropriate
-niewolniczy - sclave | serve
-niewykonalny - inexecutabile | infacibile
-niewypowiedziany - indicibile | ineffabile
+niewłaściwy - incorrecte, improprie, inappropriate
+niewolniczy - sclave, serve
+niewykonalny - inexecutabile, infacibile
+niewypowiedziany - indicibile, ineffabile
 niewyraźny - indistincte
-niewystarczający - insufficiente | inadequate
-niezadowolony - discontente | dissatisfacite | dissatisfacte | malcontente | miscontente
-niezależny - independente | inattaccabile | substantive
+niewystarczający - insufficiente, inadequate
+niezadowolony - discontente, dissatisfacite, dissatisfacte, malcontente, miscontente
+niezależny - independente, inattaccabile, substantive
 niezapominajka - auricula
-niezaprzeczalny - indisputabile | incontestabile | incontrovertibile
+niezaprzeczalny - indisputabile, incontestabile, incontrovertibile
 niezatapialny - insubmersibile
-niezgodny - discrepante | inconsequente | inconsistente | discordante | discorde | incompatibile | incongrue | incongruente
-niezgrabny - disgratiose | inhabile
-niezmienny - immutabile | inalterabile | invariabile
+niezgodny - discrepante, inconsequente, inconsistente, discordante, discorde, incompatibile, incongrue, incongruente
+niezgrabny - disgratiose, inhabile
+niezmienny - immutabile, inalterabile, invariabile
 nieznany - incognoscite
 niezniszczalny - indestructibile
 nieżonaty - celibe
-nieźrzały - immatur | impubere | pueril
-niezwyciężony - imbattibile | invicte | invincibile
-nieżyczliwy - inamical | incaritabile
+nieźrzały - immatur, impubere, pueril
+niezwyciężony - imbattibile, invicte, invincibile
+nieżyczliwy - inamical, incaritabile
 nigdy - nunca
 Nigeria - Nigeria
 nihilizm - nihilismo
 niob - columbium
 niszczyć - annihilar
-niszczyciel - destructor | devastator | chassa-torpedineros
+niszczyciel - destructor, devastator, chassa-torpedineros
 niuans - nuance
 no - si
 nominowanie - nomination
@@ -2568,7 +2568,7 @@ nonkonformista - nonconformista
 nonszalancja - nonchalance
 nordycki - nordic
 Norweg - norvegiano
-Norwegia - Norvegia | Norvega
+Norwegia - Norvegia, Norvega
 nos - alcoholico
 nostalgia - nostalgia
 nostalgiczny - nostalgic
@@ -2587,13 +2587,13 @@ nyga - mosquito
 oaza - oase
 obcas - calce
 obchodzić - ambir
-obejmować - circumferer | accollar
+obejmować - circumferer, accollar
 obejmowanie - adition
 obelisk - obelisco
 obiecadło - alphabeto
-obiecny - consuete | consuetudinari
+obiecny - consuete, consuetudinari
 obiegowy - currente
-obierać - pellar | bastonar | colpar | disgranar | frappar | massar | percuter | palpitar
+obierać - pellar, bastonar, colpar, disgranar, frappar, massar, percuter, palpitar
 obietnica - promissa
 obnażać - denudar
 obój - oboe
@@ -2601,17 +2601,17 @@ obojczyk - clavicula
 obojętność - indifferentia
 obolewiec - sinistromane
 obowiązek - deber
-obraz - pictura | film
-obraza - insulto | offensa | ultrage
+obraz - pictura, film
+obraza - insulto, offensa, ultrage
 obrażanie - affrontamento
 obrona - defensa
 obrońca - advocato
-obrotowy - giratori | rotatori
+obrotowy - giratori, rotatori
 obrzydliwie - abominabilemente
-obrzydliwy - horride | nauseabunde | detestabile
+obrzydliwy - horride, nauseabunde, detestabile
 obserwator - observator
 obserwowalny - observabile
-obwiniać - culpar | accusar | criminar | inculpar
+obwiniać - culpar, accusar, criminar, inculpar
 obżarstwo - gluttonia
 ocean - oceano
 Ocean Atlantycki - Oceano Atlantic
@@ -2619,48 +2619,48 @@ Oceania - Oceania
 oceanograf - oceanographo
 Ocean Spokojny - Oceano Pacific
 ocet - aceto
-ochota - desiderio | inclination
+ochota - desiderio, inclination
 ochrona - salveguarda
 ochronka - asylo
 ociec - patre
-ociężały - dilatori | tardive | ponderose
+ociężały - dilatori, tardive, ponderose
 octan - acetato
 oczyszczać - appurar
-oczyszczanie - appuramento | purification | depuration
+oczyszczanie - appuramento, purification, depuration
 oczywisty - apparente
-od - de | ab
+od - de, ab
 od czubka głowy do pięt - de capite a pedes
 odczucie - impression
-oddział - formation | truppa
+oddział - formation, truppa
 oddziaływać - affectar
-ode - de | ab
+ode - de, ab
 odkupiciel - redemptor
 odkurzacz - aspirator
-odmiana - flexion | genere
-odmienny - altere | conjugabile
-odmowa - refusa | recusation
+odmiana - flexion, genere
+odmienny - altere, conjugabile
+odmowa - refusa, recusation
 odpoczynek - reposo
 odpowiedni - applicabile
-odpowiedniość - conformitate | correspondentia
+odpowiedniość - conformitate, correspondentia
 odpowiedź - replica
 odpowiedzialność - responsabilitate
-odrażający - abhorribile | disgustose | horride | repulsive
-odraźny - abhorribile | disgustose | horride | repulsive
+odrażający - abhorribile, disgustose, horride, repulsive
+odraźny - abhorribile, disgustose, horride, repulsive
 odrębny - distincte
 od stóp do głów - de capite a pedes
 odtrutka - contraveneno
-odwaga - braveria | corage
+odwaga - braveria, corage
 odważny - prode
 odwet - retaliation
 odwieczny - immemorial
-odwracalny - reversibile | invertibile
+odwracalny - reversibile, invertibile
 odzyskiwać - recuperar
-odżywczy - alimentose | alibile
+odżywczy - alimentose, alibile
 oficjalny - officialmente
-oftalmologiczny - oculistic | ophthalmologic
+oftalmologiczny - oculistic, ophthalmologic
 oglądać - spectar
-ogórek - cucumere | cucumbre
-ogród - jardin | horto
+ogórek - cucumere, cucumbre
+ogród - jardin, horto
 ogrodnik - horticulturista
 ojciec - patre
 ojczyc - filio
@@ -2672,12 +2672,12 @@ okno - fenestra
 okoliczność - circumstantia
 określać - definir
 określony - definir
-okrucieństwo - cruelitate | diaboleria | atrocitate | ferocitate
+okrucieństwo - cruelitate, diaboleria, atrocitate, ferocitate
 okrutnie - atrocemente
 okrutny - cruel
 okulary - berillos
-okulista - oculista | ophthalmologo
-okulistyczny - oculistic | ophthalmologic
+okulista - oculista, ophthalmologo
+okulistyczny - oculistic, ophthalmologic
 olej - oleo
 ołów - plumbo
 omnibus - omnibus
@@ -2685,33 +2685,33 @@ ona - illa
 ontologiczny - ontologic
 opat - abbate
 opcja - option
-operacyjny - operational | operative | operatori
+operacyjny - operational, operative, operatori
 operator - operator
 opiąć - altere vice
 opięć - altere vice
 opierać - accular
 opium - opium
-opłacalny - remunerative | remuneratori
+opłacalny - remunerative, remuneratori
 opłakać - luger
 opłakiwać - luger
 opłata - quota
 opona - pneumatico
-oponować - opponer | adversar
+oponować - opponer, adversar
 opozycja - opposition
 oprócz - extra
-opryszczka - herpes | herpete
+opryszczka - herpes, herpete
 optymizm - optimismo
 oracz - arator
 oranżeria - estufa
-oraz - e | (rzadziej et)
+oraz - e, (rzadziej et)
 orbita - orbita
 orchidea - orchidea
 organista - organista
 organizacja - organisation
 organizm - organismo
-orgia - saturnales | bacchanalia | orgia
+orgia - saturnales, bacchanalia, orgia
 orientalny - oriental
-orlab - congedo | commeato
+orlab - congedo, commeato
 orli - aquilin
 orlik - aquilegia
 ormiański - armenian
@@ -2719,8 +2719,8 @@ ornitologiczny - ornithologic
 ortografia - orthographia
 ortopedyczny - orthopedic
 orzeczenie - adjudication
-orzeł - aquila | reverso
-orżnąć - captar | deluder | dupar | deciper
+orzeł - aquila, reverso
+orżnąć - captar, deluder, dupar, deciper
 oscylacja - oscillation
 ósemka - octena
 ośli - asinin
@@ -2729,50 +2729,50 @@ osmotyczny - osmotic
 osoba - persona
 osobistość - personalitate
 ostatecznie - definitivemente
-ostateczny - conclusive | definitive | final | peremptori | probante | terminal | ultimate
-ostentacja - ostentation | fasto
-ostentacyjny - fastose | ostentatiose
+ostateczny - conclusive, definitive, final, peremptori, probante, terminal, ultimate
+ostentacja - ostentation, fasto
+ostentacyjny - fastose, ostentatiose
 ostrosłup - pyramide
-ostrożny - avisate | circumspecte | caute
-ostry - argute | acuminate
+ostrożny - avisate, circumspecte, caute
+ostry - argute, acuminate
 ostryga - ostrea
-ostrzeżenie - admonestation | admonition | advertimento
-ostrzyć - acuminar | acutiar | affilar
+ostrzeżenie - admonestation, admonition, advertimento
+ostrzyć - acuminar, acutiar, affilar
 oświadczać - allegar
-oszczędność - frugalitate | economisation | parsimonia
+oszczędność - frugalitate, economisation, parsimonia
 oszczep - lancea
-oszczerstwo - calumnia | diffamation
-oszukiwać - captar | deluder | dupar | deciper
-oszust - deceptor | dupator | fraudator
+oszczerstwo - calumnia, diffamation
+oszukiwać - captar, deluder, dupar, deciper
+oszust - deceptor, dupator, fraudator
 otaczać - circumferer, ambir
 otwarcie - apertemente
-otwarty - aperite | aperte
-otwór - apertura | foramine
-otyłość - adiposis | adipositate
+otwarty - aperite, aperte
+otwór - apertura, foramine
+otyłość - adiposis, adipositate
 ów - aquelle
 owies - avena
 owulacja - ovulation
 owy - aquelle
 ozdoba - adornamento
-ozdobny - ornamental | decorative
+ozdobny - ornamental, decorative
 ozon - ozono
 ozonować - ozonisar
 ożyrok - dipsomano
-pachnący - redolente | fragrante | odorose | odorifere | odorante
-paciuk - ratto m | ratta f
+pachnący - redolente, fragrante, odorose, odorifere, odorante
+paciuk - ratto m, ratta f
 Pacyfik - Oceano Pacific
-pacyfikacja - appaciamento | pacification
+pacyfikacja - appaciamento, pacification
 padać - faller
 Padwa - Padua
 paginacja - pagination
 paginować - paginar
 pagoda - pagoda
 pająk - aranea
-pajęcznik - septembre | octobre | novembre
+pajęcznik - septembre, octobre, novembre
 pakt - pacto
 pała - capite
 pałacowy - palatin
-palacz - autoista | automobilista | chauffeur | conductor | guidator
+palacz - autoista, automobilista, chauffeur, conductor, guidator
 pale - capite
 palenie - adustion
 paleolit - paleolitho
@@ -2797,17 +2797,17 @@ papierośnica - cigarriera
 papieski - papal
 paproć - filice
 papuć - scarpa
-papuga - papagai | psittaco
+papuga - papagai, psittaco
 parabola - parabola
 paraboliczny - parabolic
 paradygmatyczny - paradigmatic
-parafialny - parochial | parochian
+parafialny - parochial, parochian
 parafianin - parochiano
 Paragwaj - Paraguay
 paraplegia - paraplegia
-parasol - parapluvia | parasol
-parking - autoparco | parcatorio
-parkowanie - parcamento | parcage
+parasol - parapluvia, parasol
+parking - autoparco, parcatorio
+parkowanie - parcamento, parcage
 Parma - Parma
 parodia - parodia
 parytet - paritate
@@ -2817,8 +2817,8 @@ paschał - cereo paschal
 pasieka - apiario
 pasożyt - parasito
 pasterz - pastor
-pasza - pasha | forrage | pastura
-pasztet - pastata | pastisso
+pasza - pasha, forrage, pastura
+pasztet - pastata, pastisso
 pat - pat
 patio - patio
 pątnik - pelegrino
@@ -2856,10 +2856,10 @@ perła - perla
 perliczka - pintada
 Pers - persa
 Persja - Persia
-perski - perse | persian
+perski - perse, persian
 persona - persona
 Peru - Peruvia
-perwersyjny - perverse | prave
+perwersyjny - perverse, prave
 peryskop - periscopio
 pętla - ansa
 piana - bira
@@ -2899,7 +2899,7 @@ piłka nożna - football
 pingwin - pinguin
 piołun - absinthio
 pionowo - verticalmente
-pióro - penna | pluma
+pióro - penna, pluma
 piosenka - canto
 Piotr - Petro
 piramidalny - pyramidal
@@ -2909,16 +2909,16 @@ piroman - pyromano
 piryt - pyrite
 pismo - alphabeto
 pistacja - pistacia
-piterka - cartiera | portafolio
+piterka - cartiera, portafolio
 Pittsburgh - Pittsburgh
 piwiarnia - bireria
 piwnica - cellario
 piwo - bira
-pizgać - bastonar | colpar | disgranar | frappar | massar | percuter | palpitar
+pizgać - bastonar, colpar, disgranar, frappar, massar, percuter, palpitar
 pizza - pizza
 plądrować - despoliar
 plagiator - plagiator
-płakać - lacrimar | plorar | luger
+płakać - lacrimar, plorar, luger
 plakat - placard
 planetarium - planetario
 planista - planator
@@ -2936,8 +2936,8 @@ pluć - sputar
 pług - aratro
 pluskwa - cimice
 płynnie - fluentemente
-płynny - liquide | fluide
-pochodzenie - lineage | ancestria | ascendentia
+płynny - liquide, fluide
+pochodzenie - lineage, ancestria, ascendentia
 pocieszyciel - consolator
 poczwarka - chrysalide
 podatek - imposto
@@ -2946,29 +2946,29 @@ podciśnienie - subpression
 poddany - regnicola
 poddasze - subtecto
 poddźwiękowy - subsonic
-podłość - bassessa | ignobilitate | ignominia
+podłość - bassessa, ignobilitate, ignominia
 podniebienie - palato
 podnieta - incentivo
 podnosić - altiar
 podówczas - alora
-podrabianie - contrafaction | adulteration
+podrabianie - contrafaction, adulteration
 podstawa - basamento
 podstawowy - basal
-podsumowanie - summario | summation
+podsumowanie - summario, summation
 podświadomie - subconscientemente
-poduszka - cossino | diamante
+poduszka - cossino, diamante
 poduszkowiec - hovercraft
 podwójny - duple
 podwyższać - altiar
-podzielony - dividite | divise
+podzielony - dividite, divise
 poeta - poeta
 poetycki - poetic
 pogaństwo - paganismo
 pointer - pointer
 pojawiać się - apparer
-pojedynczy - singule | simplice
+pojedynczy - singule, simplice
 pokaz - gala
-pokrewny - affin | cognate
+pokrewny - affin, cognate
 pokrywa - copertura
 pokrzywa - urtica
 pokrzywowy - urticacee
@@ -2981,7 +2981,7 @@ polio - polio
 polityka - politica
 polka - polka
 półka - planca
-półkula - hemisphera | hemispherio
+półkula - hemisphera, hemispherio
 półnagi - seminude
 północnoamerykański - nord-american
 polo - polo
@@ -2992,28 +2992,28 @@ Polska - Polonia
 polski - polac
 południe - sud
 południowoamerykański - sudmerican
-południowy - meridional | austral
+południowy - meridional, austral
 półwysep - peninsula
 Półwysep Bałkański - Peninsula Balkanic
-pomagać - adjutar | adjuvar | auxiliar | coadjuvar | juvar
+pomagać - adjutar, adjuvar, auxiliar, coadjuvar, juvar
 pomarańczowy - orange
 pomidor - tomate
-pomoc - adjuta | succurso | adjutor
-pomocniczy - adjuncte | accessori | subsidiari
+pomoc - adjuta, succurso, adjutor
+pomocniczy - adjuncte, accessori, subsidiari
 pompa - pompa
-pomysłowy - imaginative | industriose | ingeniose | inventive
-ponaddźwiękowy - hypersonic | supersonic
+pomysłowy - imaginative, industriose, ingeniose, inventive
+ponaddźwiękowy - hypersonic, supersonic
 poniedziałek - lunedi
 ponownie - altere vice
 ponton - ponton
-poparcie - appoio | indorsamento
+poparcie - appoio, indorsamento
 popielniczka - cineriera
 popiersie - busto
 popołudnie - tarde
 poprawa - correction
-poprawiać - corriger | adjustar | affinar
+poprawiać - corriger, adjustar, affinar
 poprawny - correcte
-poprzedni - anterior | previe
+poprzedni - anterior, previe
 popularność - popularitate
 popularyzacja - popularisation
 popularyzować - popularisar
@@ -3024,90 +3024,90 @@ pornografia - pornographia
 pornograficzny - pornographic
 poronienie - abortamento
 porównanie - comparation
-porównywać - comparar | commensurar
-portfel - cartiera | portafolio
+porównywać - comparar, commensurar
+portfel - cartiera, portafolio
 portret - portrait
 portretować - effigiar
 Portugalia - Portugal
 portugalski - portugese
 poruszać - actionar
-poruta - vergonia | altercation
+poruta - vergonia, altercation
 porwanie - abduction
-porządkowy - administrative | ordinal
+porządkowy - administrative, ordinal
 porzucać - abandonar
 pościć - jejunar
 posesor - possessor
 posiadać - posseder
 posiadacz - detentor
-pośladek - culo | podice
-pośpiech - haste | urgentia
-pospolity - indelicate | trivial
+pośladek - culo, podice
+pośpiech - haste, urgentia
+pospolity - indelicate, trivial
 pośrednik - mediator
 postanowienie - adjudication
 postulować - postular
 poszerzać - allargar
 potajemny - clandestin
-potas - potassium | kalium
+potas - potassium, kalium
 potaż - potassa
-potępiać - disapprobar | blasmar | condemnar | reprobar
-potępienie - blasmo | disapprobation | condemnation | damnation
-potmanyj - cartiera | portafolio
+potępiać - disapprobar, blasmar, condemnar, reprobar
+potępienie - blasmo, disapprobation, condemnation, damnation
+potmanyj - cartiera, portafolio
 potwierdzenie - confirmation
-potwierdzić - reaffirmar | confirmar | sancir
+potwierdzić - reaffirmar, confirmar, sancir
 potylica - occipite
 powątpiewać - questionar
 powieka - palpebra
 powiększanie - aggrandimento
-powierzchowny - superficial | cursori
-powieściopisarz - romanciero | romancero
+powierzchowny - superficial, cursori
+powieściopisarz - romanciero, romancero
 powiestka - citation
-powietrze - aer | aere
+powietrze - aer, aere
 powietrzny - aeree
 powiewać - undear
-powodować - causar | ingenerar | occasionar
+powodować - causar, ingenerar, occasionar
 powódź - alluvion
 powolnie - tardivemente
 powściągliwość - continentia
-powstańczy - insurgente | insurrectional | insurgite
+powstańczy - insurgente, insurrectional, insurgite
 powstrzymywać - impedir, inhibir, moderar, refrenar, remorar, restringer
-powtarzać - reiterar | repeter
-poza - posa | extra
+powtarzać - reiterar, repeter
+poza - posa, extra
 pożądać - appeter
-pożądanie - concupiscentia | anxietate
+pożądanie - concupiscentia, anxietate
 pożar - incendio
-pozawczoraj - anteheri | ante-heri
+pozawczoraj - anteheri, ante-heri
 pozaziemski - extraterrestre
-pozłacać - aurar | aurificar | dorar
-pozór - apparentia | advertentia | advertimento
-pozostały - remanente | restante | alie | cetere
-pożywny - alimentari | alimentose | nutriente | nutritive
+pozłacać - aurar, aurificar, dorar
+pozór - apparentia, advertentia, advertimento
+pozostały - remanente, restante, alie, cetere
+pożywny - alimentari, alimentose, nutriente, nutritive
 praca - obra
 pracodawca - empleator
 prądnica - dynamo
 pradziad - atavo
 pragmatycznie - pragmaticamente
-pragnąć - appeter | aspirar | desirar
+pragnąć - appeter, aspirar, desirar
 pragnienie - aspiration
 prałat - prelato
 prawa ręka - mano
-prawdopodobny - plausibile | possibile | probabile | verisimile | verosimilante
-prawdziwy - authentic | genuin
+prawdopodobny - plausibile, possibile, probabile, verisimile, verosimilante
+prawdziwy - authentic, genuin
 prawdziwych przyjaciół poznaje się w biedzie - un ver amico se cognosce in besonio
-praworęczny - dexteromane | dextromane
+praworęczny - dexteromane, dextromane
 prawość - probitate
 precyzja - precision
 prędko - precipitatemente
 predylekcja - predilection
 preferować - preferer
 prekolumbijski - precolumbian
-prekursor - precursor | predecessor
+prekursor - precursor, predecessor
 prenatalny - prenatal
 prewencja - prevention
 prezent - souvenir
 probabilistyczny - probabilistic
 problematyczny - problematic
 prócz - extra
-profilaktyczny - prophylactic | preventive
+profilaktyczny - prophylactic, preventive
 programista - programmator
 programować - programmar
 programowanie - programmation
@@ -3121,18 +3121,18 @@ propanotriol - glycerina
 propedeutyka - propedeutica
 proporcja - proportion
 prosię ziemne - orycteropo
-prostoduszny - innocente | inculpabile
-prostokątny - rectangular | rectangule
+prostoduszny - innocente, inculpabile
+prostokątny - rectangular, rectangule
 prostoliniowość - rectilineitate
 prostytutka - meretrice
 protein - albumine
 proteina - albumine
 protestantyzm - protestantismo
-protokół - protocollo | protocolo | acto
+protokół - protocollo, protocolo, acto
 proton - proton
 proweniencja - provenientia
 pryncypał - principe
-pryszcz - button | carbunculo
+pryszcz - button, carbunculo
 prysznic - ducha
 przać - amar
 przebytek - appartamento
@@ -3142,58 +3142,58 @@ przeciwbólowy - analgic
 przeciwciało - anticorpore
 przeciwlotniczy - antiaeree
 przeciwny - adverse
-przeciwwaga - contrapeso | contrabalancia
+przeciwwaga - contrapeso, contrabalancia
 przedchrześcijański - prechristian
 przede wszystkim - supertoto
 przedni - anterior
 przedsiębiorca - interprenditor
 przedsięwzięcie - interprisa
 przedtem - antea
-przedwczoraj - anteheri | ante-heri
+przedwczoraj - anteheri, ante-heri
 przejrzysty - limpide
-przeklinać - blasphemar | maledicer | damnar | execrar
-przekraczać - contravenir | superpassar | exceder | ultrapassar
-przekształcać - modificar | transmutar | transformar
+przeklinać - blasphemar, maledicer, damnar, execrar
+przekraczać - contravenir, superpassar, exceder, ultrapassar
+przekształcać - modificar, transmutar, transformar
 przelewać - transvasar
 przemówienie - speech
-przemożność - fortitudo | fortitude | robore
+przemożność - fortitudo, fortitude, robore
 przemysł - industria
 przemyt - contrabando
 przemytnik - contrabandero
-przenośnia - allegoria | metaphora
+przenośnia - allegoria, metaphora
 przeorysza - abbatessa
-przepaść - precipitio | casse
-przepowiednia - augurio | prophetia | prediction
-przerażający - espaventabile | horrificante
+przepaść - precipitio, casse
+przepowiednia - augurio, prophetia, prediction
+przerażający - espaventabile, horrificante
 przerywać - abscinder
-przesadny - exaggerative | exaggerate
+przesadny - exaggerative, exaggerate
 przesądny - superstitiose
 przesadzać - exaggerar
-przeskakiwać - voltear | salir
+przeskakiwać - voltear, salir
 prześladowanie - persecution
 przesłanka - premissa
-przestarzały - antiquate | obsolete
+przestarzały - antiquate, obsolete
 przestawienie - transposition
 przestępca - delinquente
-przestępczy - delictuose | criminose
+przestępczy - delictuose, criminose
 przestrzegać - obsequer
 przeświadczenie - convincimento
-przesyłka - depeche | inviage
+przesyłka - depeche, inviage
 przeszukiwanie - perquisition
-przeważność - braveria | corage
-przewinienie - delicto | demerito
-przewód - filo | conducto | tubo
+przeważność - braveria, corage
+przewinienie - delicto, demerito
+przewód - filo, conducto, tubo
 przewoźnik - barchero
 przeznaczenie - destino
 przoć - amar
 przy - apud
 przybliżenie - approximation
-przychylny - acquiescente | propitie
+przychylny - acquiescente, propitie
 przyczyniać się - contribuer
 przydatność - applicabilitate
 przydomek - supernomine
-przygotowywać - apparar | apprestar
-przyjacielski - amicabile | amic
+przygotowywać - apparar, apprestar
+przyjacielski - amicabile, amic
 przyjaciółka - amica
 przyjaźń - amicitate
 przyjaźnić się - amicar se
@@ -3201,65 +3201,65 @@ przyjemność - agradamento
 przyjmować - adoptar
 przykład - instantia
 przymiotnik - adjectivo
-przymus - coaction | coercition | compulsion | obligation
+przymus - coaction, coercition, compulsion, obligation
 przynosić - apportar
 przypadek - hasardo
-przypadkowy - fortuite | aleatori | casual
-przypisywać - tribuer | ascriber | attribuer
+przypadkowy - fortuite, aleatori, casual
+przypisywać - tribuer, ascriber, attribuer
 przyprawa - condimento
 przyrodniczy - natural
 przysłówek - adverbio
 przysłowie - proverbio
 przysłowiowy - proverbial
-przytcza - instantia | hasardo
+przytcza - instantia, hasardo
 przywoływać - adducer
 przyzapuście - carneval
-przyznawać - conceder | accordar
+przyznawać - conceder, accordar
 przyzwoitka - chaperon
 pseudonim - pseudonymo
 psi - canin
 psisko - can
-psychiatra - alienista | psychiatro
-psychiatria - alienismo | psychiatria
-pszczelarz - apiario | apicultor
-pszczoła - ape | apicula
+psychiatra - alienista, psychiatro
+psychiatria - alienismo, psychiatria
+pszczelarz - apiario, apicultor
+pszczoła - ape, apicula
 ptak - ave
 ptaszę - ave
 Ptolemeusz - Ptolemeo
 puchar - cuppa
 pudel - pudel
-pugilares - cartiera | portafolio
+pugilares - cartiera, portafolio
 pułapka - insidia
-pulares - cartiera | portafolio
-pularysek - cartiera | portafolio
+pulares - cartiera, portafolio
+pularysek - cartiera, portafolio
 pulyr - dipsomano
 punktualnie - punctualmente
 punktualny - punctual
 purysta - purista
-puste - cave | casse | vacue
-pustelnik - eremo | solitario | eremita
-pustka - desolation | vacuo | vacuitate
-pusty - cave | casse | vacue
+puste - cave, casse, vacue
+pustelnik - eremo, solitario, eremita
+pustka - desolation, vacuo, vacuitate
+pusty - cave, casse, vacue
 pustynia - deserto
-puszka - prision | bira
+puszka - prision, bira
 putnia - situla
 Pyjter - Petro
 pyra - patata
 pyszny - succulente
 pytać - questionar
 rabin - rabbin
-rabować - despoliar | piratar
+rabować - despoliar, piratar
 raciądz - cavaliero
 racjonalista - rationalista
-racjonalny - rationabile | rational | rationate
-rączka - manetta | ansa | corregia | manico
-radosny - gaudiose | gai | hilare | exhilarante | allegre
+racjonalny - rationabile, rational, rationate
+rączka - manetta, ansa, corregia, manico
+radosny - gaudiose, gai, hilare, exhilarante, allegre
 radzić - advertir
 rafinować - raffinar
 Rajch - Germania
 rajza - excursion
 rajzer - vagabundo
-rak - cambaro | carcinoma
+rak - cambaro, carcinoma
 rakuski - austriac
 rasizm - racismo
 rasowy - de racia
@@ -3279,9 +3279,9 @@ region - region
 regresywny - regressive
 reinkarnacja - reincarnation
 ręka - mano
-reklama - annuncio | publicitate | reclamo | propaganda
+reklama - annuncio, publicitate, reclamo, propaganda
 rekomendować - recommendar
-rekrutacja - levata | recrutamento
+rekrutacja - levata, recrutamento
 rekwizyt - requisito
 religijność - religiositate
 relikwia - reliquia
@@ -3291,10 +3291,10 @@ renifer - ren
 renowacja - renovation
 reporter - reporter m
 reprodukcja - reproduction
-reprymenda - reprimenda | reproche
+reprymenda - reprimenda, reproche
 Republika Czeska - Republica Chec
 Republika Federalna Niemiec - Republica Federal de Germania
-restauracja - restaurante | restauration
+restauracja - restaurante, restauration
 reumatyczny - rheumatic
 reumatyzm - rheumatismo
 rewers - reverso
@@ -3307,17 +3307,17 @@ robaczywy - verminose
 robieniec - laborator
 robotnik - laborator
 rocznica - anniversario
-roczny - annue | annual | annal
+roczny - annue, annual, annal
 rodzaj - genere
 rodzicielski - parental
-rodzimy - indigene | nativo
+rodzimy - indigene, nativo
 rój - essame
 rok - anno
 rok przestępny - anno bissextil
 rok świetlny - anno de lumine
-rolniczy - agrari | agricole | agricultural
-rolnik - agricola | agricultor | cultor
-rolny - agricole | agricultural
+rolniczy - agrari, agricole, agricultural
+rolnik - agricola, agricultor, cultor
+rolny - agricole, agricultural
 romantyczny - romantic
 romb - rhombo
 ropa naftowa - petroleo
@@ -3328,47 +3328,47 @@ roślina - planta
 rosnąć - crescer
 rotacja - rotation
 rotor - rotor
-rower - bicyclo | bicycletta
+rower - bicyclo, bicycletta
 rowerowy - bicyclic
 rowerzysta - cyclista
 równie - equalmente
-również - alsi | anque
-równina - plana | plateau
+również - alsi, anque
+równina - plana, plateau
 równolegle - parallelmente
 równoległobok - parallelogrammo
-równoległy - collateral | parallel
+równoległy - collateral, parallel
 równonoc - equinoctio
-rozbieżność - discrepantia | divergentia
+rozbieżność - discrepantia, divergentia
 rozbój - depredation
-rozczarowanie - disillusion | anticlimax
+rozczarowanie - disillusion, anticlimax
 rozdział - capitulo
-rozdzielać - disaggregar | disarticular | disassociar | scinder | separar | secerner | repartir | apportionar | disjunger | disponer
+rozdzielać - disaggregar, disarticular, disassociar, scinder, separar, secerner, repartir, apportionar, disjunger, disponer
 rozeta - reseda
-rozgałęzienie - arborisation | arborescentia
+rozgałęzienie - arborisation, arborescentia
 rozgoryczać - acerbar
-rozmowny - garrule | multiloque | multiloquente
+rozmowny - garrule, multiloque, multiloquente
 rozmyślać - cogitar
 rozmyślnie - deliberatemente
-różniczkowalny - differentiabile | derivabile
-różnojęzyczny - multilingual | multilingue | multilinguistic | plurilingual | polyglotte
-różnojęzykowy - multilingual | multilingue | multilinguistic | plurilingual | polyglotte
-różnorodność - diversitate | varietate
-różowy - rosate | rosee
+różniczkowalny - differentiabile, derivabile
+różnojęzyczny - multilingual, multilingue, multilinguistic, plurilingual, polyglotte
+różnojęzykowy - multilingual, multilingue, multilinguistic, plurilingual, polyglotte
+różnorodność - diversitate, varietate
+różowy - rosate, rosee
 rozpacz - despero
 rozpaczliwy - desperante
-rozrywka - divertimento | amusamento | intertenimento
-rozsądny - judiciose | prudente | prudential | avisate | rationabile | consiliabile
+rozrywka - divertimento, amusamento, intertenimento
+rozsądny - judiciose, prudente, prudential, avisate, rationabile, consiliabile
 rozszerzanie - aggrandimento
-rozumieć - apprehender | comprehender
-rozwaga - sagacitate | circumspection | prudentia
+rozumieć - apprehender, comprehender
+rozwaga - sagacitate, circumspection, prudentia
 rozżarty - rancorose
 rubel - rublo
 rubid - rubidium
 rubin - carbunculo
 ruch - movimento
-ruchomy - cinesthetic | cinetic | locomotive | locomotor | movibile | rolante | mobile
-rudny - rubie | communista
-rufa - culo | podice
+ruchomy - cinesthetic, cinetic, locomotive, locomotor, movibile, rolante, mobile
+rudny - rubie, communista
+rufa - culo, podice
 rumianek - camomilla
 Rumun - romaniano
 Rumunia - Romania
@@ -3381,7 +3381,7 @@ ryba - pisce
 rybny - piscose
 rycerski - cavallerose
 rycerz - cavaliero
-rychtować - apparar | apprestar
+rychtować - apparar, apprestar
 rycina - gravure
 ryma - influenza w
 rymować - rimar
@@ -3391,9 +3391,9 @@ rzadny - fede
 rządzić - governar
 rzeciądz - catena
 rzecz - cosa
-rzeczny - fluvial | fluviatile
-rzemieślnik - artisano | artifice
-rzemiosło - artisaneria | mestiero
+rzeczny - fluvial, fluviatile
+rzemieślnik - artisano, artifice
+rzemiosło - artisaneria, mestiero
 rzęsa - cilio
 rzeź - massacro
 rzeźnia - macello
@@ -3412,9 +3412,9 @@ Salomon - Salomon
 salon - salon
 salto - salto
 Salwador - El Salvador
-samochód - auto | automobile | carro
+samochód - auto, automobile, carro
 samolot - avion
-samotny - solitari | singule | recluse
+samotny - solitari, singule, recluse
 sanskrycki - sanskrite
 satelita - satellite
 scenarzysta - inscenator
@@ -3422,12 +3422,12 @@ scenografia - scenographia
 sceptycyzm - scepticismo
 schizmatyk - schismatico
 schowek - celario
-schronienie - albergamento | asylo
+schronienie - albergamento, asylo
 schronisko - asylo
-ściana - muro | pariete
-ścichapęk - impreviste | insperate
-ścięgno - ligamento | tendine
-ściemniać - annoctar | mentir
+ściana - muro, pariete
+ścichapęk - impreviste, insperate
+ścięgno - ligamento, tendine
+ściemniać - annoctar, mentir
 ściskać - accollar
 Scylla - Scylla
 sękaty - nodose
@@ -3449,7 +3449,7 @@ Serbia - Serbia
 sernik - caseina
 serum - sero
 Seszele - Seychelles
-sezonowy - stational | saisonal
+sezonowy - stational, saisonal
 siać - seminar
 siarkowy - sulfuric
 siatkówka - retina
@@ -3458,18 +3458,18 @@ siećmiory - septuple
 sieczeń - februario
 siedmioraki - septuple
 siedzieć na jajach - covar
-sielankowy - idyllic | pastoral
+sielankowy - idyllic, pastoral
 sierociniec - casa de infantes
 sierpień - augusto
 sierść - pilo
-siła - fortitudo | fortitude | robore
+siła - fortitudo, fortitude, robore
 Singapur - Singapore
 sinolog - sinologo
 sinologa - sinologo
 sinologia - sinologia
 sinusoida - sinusoide
-siodłak - agricola | agricultor | cultor
-sioło - campania | village
+siodłak - agricola, agricultor, cultor
+sioło - campania, village
 siostra - soror
 sioty - polka
 sirpień - augusto
@@ -3478,19 +3478,19 @@ skamieniałość - fossile
 skand - scandium
 Skandynawia - Scandinavia
 skandynawski - scandinave
-skąpy - avaritiose | exigue
-skarbiec - thesauro | tresor | tresoreria
-skład - boteca | cellario
+skąpy - avaritiose, exigue
+skarbiec - thesauro, tresor, tresoreria
+skład - boteca, cellario
 składnik - ingrediente
-sklep - boteca | cellario
+sklep - boteca, cellario
 skłonny - alacre
 skomplikowany - complicate
-skończony - finite | finir | compler | complir | completar | clausurar
+skończony - finite, finir, compler, complir, completar, clausurar
 skorupiak - crustaceo
 skowronek - aloda
 skra - scintilla f
 skrajnie - extrememente
-skrobia - amylo | fecula
+skrobia - amylo, fecula
 skromność - modestia
 skroń - tempora
 skrót - abbreviato
@@ -3503,16 +3503,16 @@ skrzynia - coffro
 skrzypce - violino
 skrzyżowanie - cruciamento
 skutecznie - efficacemente
-skuteczność - efficacia | efficacitate
-skuteczny - efficiente | efficace | effective | operante
+skuteczność - efficacia, efficacitate
+skuteczny - efficiente, efficace, effective, operante
 słabość - debilitate
-słaby - adyname | adynamic
+słaby - adyname, adynamic
 ślad - vestigio
 śląski - silesian
 sławny - celebre
 śleboda - libertate
 ślepiec - ceco
-śleptać - lacrimar | plorar | luger
+śleptać - lacrimar, plorar, luger
 ślepy - ceco
 ślicznie - bellemente
 ślimak - limace
@@ -3521,26 +3521,26 @@ słojerz - cortina
 słoń - elephante
 słonecznik - heliantho
 słonina - lardo
-słony - salin | salate
-słowa - parola <!-- ' vocabulo | ' verbo -->
+słony - salin, salate
+słowa - parola <!-- ' vocabulo, ' verbo -->
 Słowacja - Slovachia
 słowacki - slovac
 Słowianin - slavo
-słowiański - slave | slavon
+słowiański - slave, slavon
 słownik - dictionario
-słowo - parola <!-- ' vocabulo | ' verbo -->
+słowo - parola <!-- ' vocabulo, ' verbo -->
 słuchać - ascoltar
 słuchalnia - auditorio
-słuchanie - audita | ascoltamento
+słuchanie - audita, ascoltamento
 sługa - servo
 słynny - celebre
 słyszalny - audibile
-smaczny - gustabile | delicate
+smaczny - gustabile, delicate
 smętny - dolorose
 smok - dracon
 smolny - piciose
 smutniak - pan
-smutny - desolate | elegiac | luctuose | lugubre
+smutny - desolate, elegiac, luctuose, lugubre
 śniadanie - jentaculo
 śniedny - comestibile
 śnieg - nive
@@ -3552,8 +3552,8 @@ sobota - sabbato
 socjalizm - socialismo
 socjologia - sociologia
 socjologiczny - sociologic
-soczysty - succose | succulente
-sód - sodium | natrium
+soczysty - succose, succulente
+sód - sodium, natrium
 soda - soda
 sojusznik - alliato
 sok - succo
@@ -3567,8 +3567,8 @@ sopranistka - sopranista
 sos - sauce
 sosjerka - sauciera
 sowiecki - sovietic
-spać - dormir | addormite
-spacer - promenada | ambulatura
+spać - dormir, addormite
+spacer - promenada, ambulatura
 spaghetti - spaghetti
 Sparta - Sparta
 specjalność - specialitate
@@ -3580,15 +3580,15 @@ spichrz - granario
 śpiew - canto
 śpiewać - cantar
 spinel - spinello
-spisek - complot | conjuration
-spiskować - complotar | conspirar
+spisek - complot, conjuration
+spiskować - complotar, conspirar
 spodziewać się - expectar
 spojówka - conjunctiva
 spojrzeć - reguardar
 spojrzenie - reguardo
 spółdzielnia - cooperativa
 sponsor - sponsor
-spór - contention | contestation | controversia
+spór - contention, contestation, controversia
 sporadyczny - sporadic
 sport - sport
 sportowy - sportive
@@ -3596,19 +3596,19 @@ sposób - guisa
 spostrzeżenie - remarca
 spotkanie - appunctamento
 spowiednia - confessionario
-spowiednik - penitentiero | confessor
+spowiednik - penitentiero, confessor
 sprawdzalny - verificabile
 sprawiedliwie - justemente
 sprawiedliwość - justitia
 sprawiedlność - justitia
 sprężyna - resorto
-sprzeciwiać się - adversar | antagonisar
-sprzeczać się - altercar | arguer
-sprzeczność - contrarietate | disaccordo
+sprzeciwiać się - adversar, antagonisar
+sprzeczać się - altercar, arguer
+sprzeczność - contrarietate, disaccordo
 sprzyjać - fomentar
 sprzymierzeniec - alliato
 sputnik - sputnik
-spylać - escappar | discampar | fugir | evader
+spylać - escappar, discampar, fugir, evader
 srebrna - argentee
 srebrny - argentee
 srebro - argento
@@ -3624,27 +3624,27 @@ stadion - stadio
 stagnacja - stagnation
 stal - aciero
 stalinizm - stalinismo
-Stany - Statos Unite de America | Statos Unite
-Stany Zjednoczone - Statos Unite | Statos Unite de America
-Stany Zjednoczone Ameryki - Statos Unite de America | Statos Unite
+Stany - Statos Unite de America, Statos Unite
+Stany Zjednoczone - Statos Unite, Statos Unite de America
+Stany Zjednoczone Ameryki - Statos Unite de America, Statos Unite
 staroświecki - antiquate
 starożytność - ancianitate
 starszy - patre
-statki - alveo | vasculo
-statory - alveo | vasculo
+statki - alveo, vasculo
+statory - alveo, vasculo
 statua - statua
 staw - articulation
 stęchlizna - mucor
 stegnisko - vestigio
 stereotyp - stereotypo
 stężenie - concentration
-stok - costa | scarpa | montata
+stok - costa, scarpa, montata
 stolica - capital
 stomatolog - dentista
 stop - alligato
 stopień wyższy - comparativo
 stosować - applicar
-stosowny - apte | decorose | expediente | pertinente
+stosowny - apte, decorose, expediente, pertinente
 stożek - cono
 strach - angustia
 strach na wróble - angustia
@@ -3655,7 +3655,7 @@ straszyć - espaventar
 strateg - stratego
 strategicznie - strategicamente
 strawa - sumpto
-strofować - admoner | admonestar
+strofować - admoner, admonestar
 strój - cotta
 struktur - structura
 struktura - structura
@@ -3669,7 +3669,7 @@ stwórca - creator
 styczeń - januario
 subsoniczny - subsonic
 subsydium - subsidio
-subtelność - subtilitate | finessa
+subtelność - subtilitate, finessa
 subwencja - subvention
 suchy - aride
 Sudety - Sudetes
@@ -3678,19 +3678,19 @@ sułtanat - sultanato
 suma - aggregato
 sumienie - conscientia
 sumienny - conscientiose
-sumować - additionar | aggregar
-supersoniczny - hypersonic | supersonic
+sumować - additionar, aggregar
+supersoniczny - hypersonic, supersonic
 suponować - supponer
-supremacja - suprematia | dominantia
+supremacja - suprematia, dominantia
 suwerenność - soveranitate
 swędzić - prurir
-świadomie - consciemente | conscientemente
+świadomie - consciemente, conscientemente
 światło - luce
 światowy - mundial
 świątynia - templo
 świeca - candela
 świecę - candela
-świecznik - candelabro | candeliero
+świecznik - candelabro, candeliero
 świekier - patre affin
 świekra - matre affin
 świerzb - scabie
@@ -3706,7 +3706,7 @@ Syjam - Siam
 syjonizm - sionismo
 symetria - symmetria
 syn - filio
-synonimiczny - synonymic | synonyme
+synonimiczny - synonymic, synonyme
 synowiec - nepote
 syntetyczny - synthetic
 synteza - synthese
@@ -3714,26 +3714,26 @@ Syria - Syria
 syrop - sirop
 syryjski - syriac
 systematyczny - systematic
-szabla - sabla | sabra
-szach - chac | chaco
+szabla - sabla, sabra
+szach - chac, chaco
 szachista - chachista
 szachownica - chachiera
-szacunek - estimation | deferentia | respecto | veneration
+szacunek - estimation, deferentia, respecto, veneration
 szakal - chacal
 szalej - cicuta
-szaleństwo - phrenesia | insanitate
+szaleństwo - phrenesia, insanitate
 szaman - shaman
 szantaż - chantage
 szary - gris
-szczegółowy - detaliate | minutiose | minute
+szczegółowy - detaliate, minutiose, minute
 szczekać - latrar
 szczekanie - latrato
 szczepionka - vaccino
 szczery - candide
 szczewik - scarpa
-szczodry - generose | munificente
+szczodry - generose, munificente
 szczotka - brossa
-szczur - ratto m | ratta f
+szczur - ratto m, ratta f
 szczyt - summitate
 sześcian - cubo
 sześcioraki - sextuple
@@ -3761,7 +3761,7 @@ sztuczny - affectate
 szuflada - tiratorio
 szukać - perquirer
 szwab - germano
-Szwajcaria - Suissa | Switza
+Szwajcaria - Suissa, Switza
 Szwecja - Svedia
 Szwecyjo - Svedia
 Szwed - svedo
@@ -3782,7 +3782,7 @@ Tajlandia - Thailandia
 tak - si
 taksonomia - taxinomia
 taksydermia - taxidermia
-także - alsi | anque
+także - alsi, anque
 talizman - talisman
 tamten - aquelle
 tan - dansa
@@ -3810,19 +3810,19 @@ tekst - texto
 tektoniczny - tectonic
 telegraficzny - telegraphic
 telegrafista - telegraphista
-teleskop - telescopio | telescopo
+teleskop - telescopio, telescopo
 temat - thema
 temperatura - temperatura
 tendencyjny - tendentiose
 tenis - tennis
-tenże - aquello | aquesto
+tenże - aquello, aquesto
 teofania - theophania m
 teolog - theologo
 teologia - theologia
 teologiczny - theologic
-teozoficzny - theosophe | theosophic
+teozoficzny - theosophe, theosophic
 terapeuta - therapeuta
-terapia - therapia | curamento
+terapia - therapia, curamento
 teratologia - teratologia
 terier - terrier
 terminator - apprentisse
@@ -3841,22 +3841,22 @@ test - test
 testament - testamento
 tętnica - arteria
 tetrarcha - tetrarcha
-też - alsi | anque
+też - alsi, anque
 tezaurus - thesauro
 tezauryzować - thesaurisar
 Timor Wschodni - Timor Oriental
 tiul - tulle
 tkanie - textura
 tlen - oxygeno
-tłumacz - interprete | traductor
+tłumacz - interprete, traductor
 tłusty - adipose
-to - aquello | aquesto
-toksyczny - venenose | virose
-tolerancja - tolerantia | toleration
+to - aquello, aquesto
+toksyczny - venenose, virose
+tolerancja - tolerantia, toleration
 tonsura - tonsura
 topnieć - disgelar
 torf - turfa
-torpedować - torpedar | torpedinar
+torpedować - torpedar, torpedinar
 tort - torta
 totalitaryzm - totalitarismo
 trąbka - trompetta
@@ -3864,40 +3864,40 @@ traf - hasardo
 tragedia - tragedia
 tragiczny - tragic
 transcendentalny - transcendental
-translator - interprete | traductor
+translator - interprete, traductor
 transmisja - transmission
 transsubstancjacja - transubstantiation
 trąt - bombo
-tratować - calcar | fullar
+tratować - calcar, fullar
 trawnik - gazon
-tren - cauda | traino
-trena - cauda | traino
-trenodja - cauda | traino
-trezor - thesauro | tresor | tresoreria
+tren - cauda, traino
+trena - cauda, traino
+trenodja - cauda, traino
+trezor - thesauro, tresor, tresoreria
 trias - trias
 tróhła - feretro
 Troja - Troia
-trojaki - triplice | triple
+trojaki - triplice, triple
 Trójprzymierze - Triple Alliantia
 tron - throno
 truchło - cadavere
 trud - arduitate
-trudny - ardue | difficile | intricate
+trudny - ardue, difficile, intricate
 truflowy - trufari
 trujący - venenose
 trumna - feretro
 truskawka - fraga
 truteń - bombo
-trwałość - durabilitate | constantia
+trwałość - durabilitate, constantia
 trybula - cerefolio
 trygonometryczny - trigonometric
 trzask - crac
-trzeć - fricar | frictionar
+trzeć - fricar, frictionar
 trzęsienie ziemi - seismo
 trzustka - pancreas
-tu - hic | iste loco
-tudzież - e | (rzadziej et)
-tukej - hic | iste loco
+tu - hic, iste loco
+tudzież - e, (rzadziej et)
+tukej - hic, iste loco
 tulipan - tulipan
 tulp - tulipan
 tunel - tunnel
@@ -3906,7 +3906,7 @@ turbina - turbina
 Turcja - Turchia
 turysta - tourista
 turystyka - turismo
-tutaj - hic | iste loco
+tutaj - hic, iste loco
 tybetański - tibetan
 tyć - ingrassiar
 tydzień - septimana
@@ -3915,8 +3915,8 @@ tygiel - crucibulo
 tygr - tigre
 tygrys - tigre
 tygrysica - tigressa
-tyj - theiero | the
-tymczasem - intertanto | interea | interim
+tyj - theiero, the
+tymczasem - intertanto, interea, interim
 tymianek - thymo
 typ - typo
 typografia - typographia
@@ -3924,16 +3924,16 @@ tyrania - tyrannia
 tytan - titanium
 ubezpieczenie - assecurantia
 ubogi - impecuniose
-uchodźca - refugiato | fugitivo
-uciążliwy - ardue | onerose | penose
-uciekać - escappar | discampar | fugir | evader
-uciskać - astringer | constringer | premer
-uczciwość - honestate | honestitate
-uczciwy - eque | honeste | sincer
-uczeń - alumno | apprentisse
+uchodźca - refugiato, fugitivo
+uciążliwy - ardue, onerose, penose
+uciekać - escappar, discampar, fugir, evader
+uciskać - astringer, constringer, premer
+uczciwość - honestate, honestitate
+uczciwy - eque, honeste, sincer
+uczeń - alumno, apprentisse
 uczuć - affecto
 uczucie - affecto
-uczyć - docer | erudir | inseniar | instruer | professar | regentar | apprender
+uczyć - docer, erudir, inseniar, instruer, professar, regentar, apprender
 ugrofiński - finnougrian
 uj - oncle
 ujec - oncle
@@ -3945,7 +3945,7 @@ ukrzyżowanie - crucifixion
 ul - apiculario
 ulica - strata
 ultimatum - ultimato
-umieszczać - collocar | implaciar | locar | situar
+umieszczać - collocar, implaciar, locar, situar
 umowa - pacto
 umysł - mente
 umyślnie - deliberatemente
@@ -3957,17 +3957,17 @@ unikatowy - unic
 uniwersalny - universal
 upadek - fallimento
 upał - canicula
-upierdliwy - ardue | onerose | penose
-uporczywość - perseverantia | obstination
-uprzejmy - affabile | amabile | amicabile
+upierdliwy - ardue, onerose, penose
+uporczywość - perseverantia, obstination
+uprzejmy - affabile, amabile, amicabile
 Uran - Urano
-urlop - congedo | commeato
-uroczystość - celebration | festino | festivitate | pompa
+urlop - congedo, commeato
+uroczystość - celebration, festino, festivitate, pompa
 urodzajność - fertilitate
 uspokajać - appaciar
 usprawiedliwiać - exonerar
 ustępstwo - concession
-ustny - buccal | oral | verbal
+ustny - buccal, oral, verbal
 usuwać - amover
 utęsknienie - aspiration
 utopia - utopia
@@ -3975,14 +3975,14 @@ utopijny - utopic
 utopista - utopista
 utrzymywać - allegar
 utylitarny - utilitari
-uwaga - advertentia | advertimento
+uwaga - advertentia, advertimento
 uważny - advertente
 uwertura - overtura
 uzyskiwać - obtener
-wacha - gasolina | benzina | pluvia | mar | aqua
-wagon - wagon | carro
+wacha - gasolina, benzina, pluvia, mar, aqua
+wagon - wagon, carro
 wajco - ovo
-walczyć - battaliar | contender | guerrear | propugnar | pugnar
+walczyć - battaliar, contender, guerrear, propugnar, pugnar
 Walia - Galles
 walka - combatto
 waluta - valuta
@@ -3993,11 +3993,11 @@ warga - labio
 wargowy - labial
 wariancja - variantia
 warkocz - tressa
-wartościowy - valorose | preciose
-warzyć - cocer | cocinar | bullir
+wartościowy - valorose, preciose
+warzyć - cocer, cocinar, bullir
 wątpić - questionar
-wątpliwy - dubitabile | dubitative | dubitose | insecur
-wątroba - hepate | ficato
+wątpliwy - dubitabile, dubitative, dubitose, insecur
+wątroba - hepate, ficato
 Watykan - Vaticano
 wąż - angue
 wbiegać - incurrer
@@ -4018,10 +4018,10 @@ wehikuł - vehiculo
 wejście - adito
 wełnisty - lanose
 Wenecja - Venetia
-wenecki - venetian | veneteveneto
+wenecki - venetian, veneteveneto
 Wenera - Venere
 Wenezuela - Venezuela
-wentroba - hepate | ficato
+wentroba - hepate, ficato
 Wenus - Venere
 werdykt - verdicto
 Wergiliusz - Vergilio
@@ -4034,24 +4034,24 @@ weto - veto
 wewnątrzmaciczny - intrauterin
 Wezuwiusz - Vesuvio
 wezwanie - citation
-wiadomość - aviso | depeche
+wiadomość - aviso, depeche
 wiadro - situla
 wiadukt - viaducto
 wiarygodność - credibilitate
-widelec - furca | furchetta
+widelec - furca, furchetta
 widnokrąg - horizonte
 widoczny - apparente
-widołka - furca | furchetta
+widołka - furca, furchetta
 widz - spectator
 więc - alora
 wieczność - eternitate
-wieczny - sempiterne | perenne
+wieczny - sempiterne, perenne
 wieczór - vespere
 wieczorny - vesperal
 Wiedeń - Vienna
-wiejski - rustic | villan | campestre
+wiejski - rustic, villan, campestre
 wiek - seculo
-większość - grosso | majoritate
+większość - grosso, majoritate
 wiela - quot
 wielbłąd - camelo
 Wielka Brytania - Grande Britannia
@@ -4059,8 +4059,8 @@ Wielka Niedźwiedzica - Ursa Major
 Wielkanoc - Pascha
 Wielki Piątek - Venerdi Sancte
 wielkość - amplitude
-wielojęzyczny - multilingual | multilingue | multilinguistic | plurilingual | polyglotte
-wielojęzykowy - multilingual | multilingue | multilinguistic | plurilingual | polyglotte
+wielojęzyczny - multilingual, multilingue, multilinguistic, plurilingual, polyglotte
+wielojęzykowy - multilingual, multilingue, multilinguistic, plurilingual, polyglotte
 wielokomórkowy - multicellular
 wielokulturowy - multicultural
 wieloryb - balena
@@ -4068,27 +4068,27 @@ wielość - multiplicitate
 wieńcowy - coronari
 wierzba - salice
 wierzchołek - summitate, apice
-wieś - campania | village
+wieś - campania, village
 Wietnam - Vietnam
 wietrzny - ventose
 wieża - turre
-więzień - prisionero | convicto
+więzień - prisionero, convicto
 więzienie - prision
 wigor - brio
 Wikipedia - Wikipedia
 Wikisłownik - Wiktionario
-wiktoria - victoria | vincimento
+wiktoria - victoria, vincimento
 wilgoć - humiditate
 wilk - lupo
 wilkołak - lycanthropo
-winien - culpabile | vinari
+winien - culpabile, vinari
 winnica - vinia
-winny - culpabile | vinari
-winograd - vite | vinia | uva
+winny - culpabile, vinari
+winograd - vite, vinia, uva
 winogrono - uva
 winorośl - vite
 wiolonczela - violoncello
-wioska - campania | village
+wioska - campania, village
 wiosło - remo
 wiosna - primavera
 wirowanie - centrifugation
@@ -4096,7 +4096,7 @@ wirtuoz - virtuoso
 wiszczeć - critar
 witalność - vitalitate
 witaminowy - vitaminic
-wiwenda - victo | vivandas | alimento
+wiwenda - victo, vivandas, alimento
 wizjer - dativo
 w końcu - finalmente
 Władywostok - Vladivostok
@@ -4105,7 +4105,7 @@ właściwy - apposite
 właśnie - exactemente
 własny - proprie
 włóczęga - vagabundo
-włos - capillo | villo
+włos - capillo, villo
 włoski - italian
 wnęk - nepto
 wniwecz - totalmente
@@ -4115,36 +4115,36 @@ wóda - vodka
 woda mineralna - aqua mineral
 wódka - vodka
 wodnopłat - hydroplano
-wodny - aquatic | aquatile | aquee
-wodolot - hydrofoil | hydroplano
+wodny - aquatic, aquatile, aquee
+wodolot - hydrofoil, hydroplano
 wodór - hydrogeno
 wodospad - cascada
 wojak - combattente
-wojna - guerra | bello
+wojna - guerra, bello
 wojna religijna - guerra religiose
 wojowniczy - bellicose
-wojskowy - bellicista | combattente
+wojskowy - bellicista, combattente
 wokabularz - dictionario
-wół - bove | bovello
+wół - bove, bovello
 wola - voluntate
 wolfram - wolfram
 Wołga - Volga
 wolicjonalny - volitive
 wolitywny - volitive
-wolnomularstwo - masoneria | francmasoneria
+wolnomularstwo - masoneria, francmasoneria
 wolnomularz - mason
 wolność - libertate
 woniączka - vodka
-wóz - cochi | carretta | carro
+wóz - cochi, carretta, carro
 wozatarz - cochiero
 wózek - carretta
 woźnica - cochiero
 wpędzać - figer
 w pełni - totalmente
-wpływać - affectar | afficer | influentiar | influer
+wpływać - affectar, afficer, influentiar, influer
 wrażenie - impression
 wrażliwość - affectibilitate
-wrażliwy - affectabile | affectibile
+wrażliwy - affectabile, affectibile
 wreszcie - finalmente
 wrodzony - innate
 wrotycz - balsamita
@@ -4159,24 +4159,24 @@ wścieklizna - rabie
 wskazywać - indicar
 wspaniały - admirabile
 współczesny - contemporanee
-współczuć - commiserar | condoler
+współczuć - commiserar, condoler
 wspólnie - conjunctemente
 współzawodnictwo - competion
-wstępny - preliminar | liminar | exordial | initiative
+wstępny - preliminar, liminar, exordial, initiative
 wstyd - vergonia
 wstydzić się - vergoniar
 wtedy - alora
 wtenczas - alora
 wtorek - martedi
-wtrącać - interloquer | ingerer | intruder | interponer
-w tym - aquello | aquesto
+wtrącać - interloquer, ingerer, intruder, interponer
+w tym - aquello, aquesto
 wuj - oncle
 wujek - oncle
 wujko - oncle
 wujo - oncle
 wulkan - vulcano
-wulkaniczny - volcanic | vulcanic
-wybrzeże - litore | costa
+wulkaniczny - volcanic, vulcanic
+wybrzeże - litore, costa
 Wybrzeże kość Kości Słoniowej - Costa de Ebore
 wychudzony - emaciate
 wyciąg - abstrakt
@@ -4184,21 +4184,21 @@ wycieczka - excursion
 wydatkować - erogar
 wydawać - erogar
 wygląd - apparentia
-wyjaśnianie - clarification | acclaramento
-wyjście - exito | sortita
+wyjaśnianie - clarification, acclaramento
+wyjście - exito, sortita
 wykałaczka - mundadentes
 wykonalny - agibile
 wykrywacz kłamstw - detector de mentitas
-wykształcony - culte | cultivate | educate | erudite | litterate | scholarisate
-wyłącznie - exclusivemente | solmente
+wykształcony - culte, cultivate, educate, erudite, litterate, scholarisate
+wyłącznie - exclusivemente, solmente
 wymachiwanie - brandimento
 wymiana - excambio
 wymieniać - excambiar
-wymienialny - excambiabile | intercambiabile
-wymienny - intercambiabile | permutabile
+wymienialny - excambiabile, intercambiabile
+wymienny - intercambiabile, permutabile
 wymowa - pronunciation
-wymuszać - concuter | extorquer
-wynagrodzenie - gage | remuneration
+wymuszać - concuter, extorquer
+wynagrodzenie - gage, remuneration
 wynalazca - inventor
 wynalazek - invention
 wynosić - amontar
@@ -4207,35 +4207,35 @@ wyolbrzymianie - aggrandimento
 wypalać - cauterisar
 wyposażenie - equipamento
 wypowiadać - exprimer
-wyprysk - button | carbunculo
+wyprysk - button, carbunculo
 wyprzedzać - anticipar
 wypukły - convexe
-wyraz - parola <!-- ' vocabulo | ' verbo -->
+wyraz - parola <!-- ' vocabulo, ' verbo -->
 wysiadywać - covar
-wysiłek - arduitate | effortio | fatiga
+wysiłek - arduitate, effortio, fatiga
 wyśmienicie - excellentemente
-wysokość - altessa | altor | altura
+wysokość - altessa, altor, altura
 wyspa - insula
 Wyspa Świętego Wyspy Świętego Tomasza i Wyspa Książęca - São Tomé e Príncipe
-Wyspy Kanaryjskie - Canarias | Insulas Canarias | Insulas Canari
+Wyspy Kanaryjskie - Canarias, Insulas Canarias, Insulas Canari
 wystarczający - sufficiente
-wystarczyć - sufficer | bastar
+wystarczyć - sufficer, bastar
 wystawa - exhibition
-wytrwałość - perseverantia | tenacitate
+wytrwałość - perseverantia, tenacitate
 wywiad - abuccamento
 wywijanie - brandimento
-wyża - altessa | altor | altura
+wyża - altessa, altor, altura
 wyznaczenie - nomination
-wyższość - superioritate | predomination
+wyższość - superioritate, predomination
 wzniesienie - altura
-wzrost - augmento | accrescimento
+wzrost - augmento, accrescimento
 żaba - rana
-zabawa - distraction | intertenimento
+zabawa - distraction, intertenimento
 ząbek - denticulo
 żabie oczko - auricula
 zabijak - assassinator
 zabójca - assassinator
-zabójstwo - assassinato | assassination | homicidio | occision
+zabójstwo - assassinato, assassination, homicidio, occision
 zabór - annexion
 zachodni - occidental
 zachowanie - comportamento
@@ -4243,25 +4243,25 @@ zacieniać - umbrar
 zaczynać - inciper
 żądło - aculeo
 zadowolenie - contentamento
-zadowolony - contente | complacente | satisfacite
+zadowolony - contente, complacente, satisfacite
 zagłada - extermination
-zagraniczny - extere | estranier
+zagraniczny - extere, estranier
 zagrożony - menaciate
-zainteresowania - incursion | interesse
-zainteresowanie - incursion | interesse
+zainteresowania - incursion, interesse
+zainteresowanie - incursion, interesse
 zając - lepore
 zajadły - rancorose
-zakaz - interdicto | interdiction
+zakaz - interdicto, interdiction
 zakażać - contaminar
 zakład karny - prision
 zakochany - inamorate
-zakonnik - cenobita | monacho
+zakonnik - cenobita, monacho
 zakrystia - sacristia
-załącznik - annexo | appendice | attaccamento
+załącznik - annexo, appendice, attaccamento
 zalesiać - forestar
 zależność - dependentia
-żałobny - obituari | elegiac | funebre | funerari | lugubre | luctuose
-założyciel - erector | fundator
+żałobny - obituari, elegiac, funebre, funerari, lugubre, luctuose
+założyciel - erector, fundator
 zamknąć - clauder
 zamówienie - commanda
 zamożność - ricchessa
@@ -4273,10 +4273,10 @@ zapalenie wyrostek wyrostka robaczkowego - appendicitis
 zapałka - flammifero
 zapamiętywać - memorisar
 zapiekanka - casserola
-zapisywać - inscriber | legar
-zapominać - oblidar | disapprender
+zapisywać - inscriber, legar
+zapominać - oblidar, disapprender
 zapominalski - obliviose
-zapora - dica | barrage
+zapora - dica, barrage
 zapowiadać - annunciar
 zaprzeczenie - negation
 zarabiać - lucrar
@@ -4284,45 +4284,45 @@ Zaratusztra - Zoroastre
 zaratusztrianizm - zoroastrismo
 zaraza - epidemia
 żargon - jargon
-żarliwy - ardente | ardorose | inflammate | passional | fervente
+żarliwy - ardente, ardorose, inflammate, passional, fervente
 żarłoczny - vorace
 zarodek - embryon
 zarozumialstwo - vangloria
-żartować - burlar | scherzar
+żartować - burlar, scherzar
 zaś - altere vice
-zasada - alcalino | alcali
+zasada - alcalino, alcali
 zasłona - cortina
-zasłużony - emerite | meritose | condigne
+zasłużony - emerite, meritose, condigne
 zasnąć - addormir se
 zasobny - opulente
 zaszczytciel - advocato
-zatoka - baia | golfo
+zatoka - baia, golfo
 zawartość - contento
 zawiadomienie - advertimento
 zawieszać - appender
-zawieszenie broni - tregua | armistitio
+zawieszenie broni - tregua, armistitio
 zawilec - anemone
 zawiść - invidia
-zawistny - cupide | invidiose | jelose
+zawistny - cupide, invidiose, jelose
 zawód - anticlimax
 zawrotny - vertiginose
-zazdrosny - invidiose | invide | zelose | jelose
+zazdrosny - invidiose, invide, zelose, jelose
 zazwyczaj - solitemente
-zbawienny - benefic | salubre
+zbawienny - benefic, salubre
 zbędny - dispensabile
 zbieg okoliczności - coincidentia
 zbierać - assemblar
 zbiór - conjuncto
-zbliżać - approchar | approximar
+zbliżać - approchar, approximar
 zbroić - artillar
-zdalasiały - afflicte | preoccupate | lasse | fatigate | fatigabile
-zdolny - capabile | capace
-zdradziecki - insidiose | perfidiose
-zdrowieć - refacer (se) | se resanar
+zdalasiały - afflicte, preoccupate, lasse, fatigate, fatigabile
+zdolny - capabile, capace
+zdradziecki - insidiose, perfidiose
+zdrowieć - refacer (se), se resanar
 zdrowotny - curative
 że - que
 zebra - zebra
-żebrak - mendicante | mendico
+żebrak - mendicante, mendico
 zebu - zebu
 żec - adurer
 żeglarz - nauta
@@ -4338,38 +4338,38 @@ zelus - zelotismo
 zemsta - vengiantia
 żeńczyna - femina
 zenit - zenit
-zeszyt - fasciculo | quaderno
+zeszyt - fasciculo, quaderno
 zgadzać - accordar, acquiescer
 zginąć - cader
-zgniły - putride | infecte | corrupte
+zgniły - putride, infecte, corrupte
 zgodny - accordante
 z góry - anticipatemente
 ziele angielskie - pimento
 zielony - verde
 ziemniak - patata
 zima - hiberno
-zimno - frigido | frigor | herpes | herpete
+zimno - frigido, frigor, herpes, herpete
 zimorodek - martin piscator
 zimowy - hibernal
-ziołowy - herbal | herbacee
-złocić - aurar | dorar
+ziołowy - herbal, herbacee
+złocić - aurar, dorar
 złodziej - fur
 złośliwość - malitia
 złoto - auro
 złotówka - zloty
 złoty - zloty
-zmartwienie - enoio | affliction
-zmartwiony - afflicte | preoccupate
-zmęczony - lasse | fatigate | fatigabile
+zmartwienie - enoio, affliction
+zmartwiony - afflicte, preoccupate
+zmęczony - lasse, fatigate, fatigabile
 zmiana - alteration
 zmieniać - alternar
 zmierzch - crepusculo
-zmysłowy - sensori | voluptuose | voluptuari
-znienacka - abruptemente | urgentemente
+zmysłowy - sensori, voluptuose, voluptuari
+znienacka - abruptemente, urgentemente
 znieważanie - affrontamento
 zniewieściały - effeminate
-zniszczalny - destructibile | peribile
-zniszczenie - annihilation | annulation
+zniszczalny - destructibile, peribile
+zniszczenie - annihilation, annulation
 znosić - annullar
 znów - altere vice
 znowu - altere vice
@@ -4384,37 +4384,37 @@ zoolatria - zoolatria
 zoologia - zoologia
 zoologiczny - zoologic
 zooplankton - zooplancton
-zręczność - agilitate | dexteritate | habilitate
+zręczność - agilitate, dexteritate, habilitate
 źrenica - pupilla
 źródło - fonte
-źródłosłów - etymo | radicula
+źródłosłów - etymo, radicula
 zrostek - affixo
-zrozumiały - comprehensibile, comprehensive, intelligibile | plan | comprensive | perspicue | justificabile
-zrozumienie - apprehensibilitate | apprehension | comprehension
-źrzały - adulte | matur
+zrozumiały - comprehensibile, comprehensive, intelligibile, plan, comprensive, perspicue, justificabile
+zrozumienie - apprehensibilitate, apprehension, comprehension
+źrzały - adulte, matur
 żuć - masticar
-zuchwały - audace | audaciose | insolente
+zuchwały - audace, audaciose, insolente
 żul - dipsomano
 zupełnie - totalmente
 żuraw - cabestan
 żurawina - oxycocco
-żurnal - periodico | revista
+żurnal - periodico, revista
 żurnalista - jornalista
-zwać - appellar | nominar
+zwać - appellar, nominar
 zwiastować - portender
 związek - affinitate
 Związek Radziecki - Union Sovietic
-zwierzak - animal | bestia
-zwierzę - animal | bestia
+zwierzak - animal, bestia
+zwierzę - animal, bestia
 zwieszać się - clinar
 zwłoki - cadavere
-zwolennik - adherente | partisano | partitario
+zwolennik - adherente, partisano, partitario
 zwoływać - advocar
 zwrotnik - tropico
-zwycięski - victoriose | triumphante
-zwycięstwo - victoria | vincimento
+zwycięski - victoriose, triumphante
+zwycięstwo - victoria, vincimento
 zwycięzca - victor
-zwyczajny - consuete | consuetudinari
+zwyczajny - consuete, consuetudinari
 z wyjątkiem - extra
 z wyłączeniem - extra
 żydowski - judee
@@ -4425,6 +4425,6 @@ zymft - mustarda
 żyroskop - gyroscopio
 żyto - secale
 żywić - manducar
-żywność - victo | vivandas | alimento
+żywność - victo, vivandas, alimento
 żywnościowy - alimentari
 żywokost - consolida

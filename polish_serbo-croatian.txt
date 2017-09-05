@@ -1,7 +1,7 @@
-abdykować - abdicirati | odreći se
+abdykować - abdicirati, odreći se
 abfal - anomalija f
 Adam - Адам m
-Afganistan - Afganistan | Avganistan
+Afganistan - Afganistan, Avganistan
 aktyn - aktinij m
 Albania - Albanija
 alergiczny - alergičan
@@ -23,7 +23,7 @@ bąk - bumbar m
 bar - barij m
 Benin - Benin
 berkel - berkelij m
-beryl - berilijum m | berilij m
+beryl - berilijum m, berilij m
 biocybernetyka - biokibernetika f
 biseksualizm - biseksualnost f
 bizmut - bizmut m
@@ -31,22 +31,22 @@ bluza - bluza f
 bor - bor m
 Brazylia - Brazil m
 brydż - bridž / бриџ m
-ciało - telo n | tijelo n
+ciało - telo n, tijelo n
 ciśnienie - tlak
 cybernetyka - kibernetika f
 cyga - bumbar m
 cypresz - čempres m
 cyprys - čempres m
 Czarnogóra - Crna Gora f
-czarodziej - čarobnjak m | čarobnik m
+czarodziej - čarobnjak m, čarobnik m
 czasownik - глагол / glagol m
 dezinformacja - dezinformacija f
-dobranoc - лаку ноћ | laku noć
+dobranoc - лаку ноћ, laku noć
 dobrobyt - prosperitet m
 dogmat - dogma f
 doktryna - doktrina f
 doradca - savjetnik/саветник m
-dramatyczny - dramski | dramatičan
+dramatyczny - dramski, dramatičan
 dyktator - diktator m
 emigracja - emigracija f
 epitafium - epitaf m
@@ -55,9 +55,9 @@ film - филм / film m
 Finlandia - Finska
 genetyczny - genetički
 glin - aluminij m
-groźba - prijetnja f | pretnja f
+groźba - prijetnja f, pretnja f
 harfa - harfa f
-harmonijny - složan | harmoničan
+harmonijny - složan, harmoničan
 histeria - histerija f
 homilia - homilija f
 hydrologia - hidrologija f
@@ -71,9 +71,9 @@ Kafarnaum - Kapernaum
 kałasznikow - kalašnjìkov m
 kanibalizm - kanibalizam m
 kaplica - kapela f
-kaznodzieja - propovjednik m | propovednik m
-kołacz - колач m | kolač m
-konspiracja - zavera f | zavjera f
+kaznodzieja - propovjednik m, propovednik m
+kołacz - колач m, kolač m
+konspiracja - zavera f, zavjera f
 krokus - barbička
 krtań - grkljan
 kwarantanna - karantena f
@@ -81,12 +81,12 @@ lateks - lateks m
 leksykon - leksikon m
 lojalność - lojalnost f
 lub - или / ili
-luksus - luksus m | luksuz m
+luksus - luksus m, luksuz m
 męczennik - mučenik m
 meczet - mošeja f
 metafizyka - metafizika f
 meteor - meteor
-minaret - minaret m | munara f
+minaret - minaret m, munara f
 modlitewnik - молитвеник (molitvenik) m
 Mostar - Mostar
 neutralność - neutralnost f
@@ -95,11 +95,11 @@ nieodwracalny - ireverzibilan
 niepodległość - nezavisnost / независност f
 nieposłuszny - neposlušan
 nieprzewidywalny - nepredvidljiv
-nierealny - irealan | nestvaran
+nierealny - irealan, nestvaran
 nierówność - nejednakost f
 nieskuteczny - neefikasan
 nie wywołuj wilka z lasu - ne diraj lava dok spava
-niezwyciężony - nepobjediv | nepobediv
+niezwyciężony - nepobjediv, nepobediv
 niż - него / nego
 obraz - филм / film m
 Ocean Spokojny - Tihi okean m
@@ -112,28 +112,28 @@ perfumy - parfem
 pielgrzym - hodočasnik m
 pocestny - putnik m
 podróżnik - putnik m
-poduszkowiec - hoverkraft m | aerogliser m | lebdelica f | lebdjelica f
-poezja - pjesništvo n | poezija f
+poduszkowiec - hoverkraft m, aerogliser m, lebdelica f, lebdjelica f
+poezja - pjesništvo n, poezija f
 Polska - Poljska
 pornograficzny - pornografski
 poruta - skandal m
-pożyczka - zajam | posudba
-prawdopodobny - verojatan | vjerojatan
+pożyczka - zajam, posudba
+prawdopodobny - verojatan, vjerojatan
 przejaw - pokazatelj m
-przesądny - praznovjeran | sujevjeran
+przesądny - praznovjeran, sujevjeran
 rasizm - rasizam m
 realizm - realizam m
 równoważny - ekvivalentan
-różnorodność - diverzitet m | raznolikost f
+różnorodność - diverzitet m, raznolikost f
 ruchome schody - eskalator m
-rytuał - ritual m | obred m
+rytuał - ritual m, obred m
 sałatka - salata f
 schody ruchome - eskalator m
 siano - seno n
 Singapur - Singapur m
 skandal - skandal m
-slawistyka - славистика f | slavistika f
-smerf - Štrumpf | Štrumpfovi
+slawistyka - славистика f, slavistika f
+smerf - Štrumpf, Štrumpfovi
 sojusznik - saveznik m
 staw łokciowy - lakat
 syfilis - sifilis m
@@ -148,13 +148,13 @@ trend - trend m
 trzmiel - bumbar m
 tudzież - i / и
 Tunezja - Tunis
-twardość - tvrdina f | tvrdoća f
+twardość - tvrdina f, tvrdoća f
 tyrania - tiranija f
 wacha - voda
-wieczność - vječnost f | večnost f
+wieczność - vječnost f, večnost f
 Wikiźródła - Wikiteka
 woda - voda
-wolnomyślicielstwo - slobodoumlje | slobodnoumnost | slobodna misao
+wolnomyślicielstwo - slobodoumlje, slobodnoumnost, slobodna misao
 Wyspa Bożego Narodzenia - Božićni otok m
 założyciel - osnivač m
 zapominalski - zaboravan

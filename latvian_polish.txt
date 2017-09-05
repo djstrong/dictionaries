@@ -3,13 +3,13 @@ abandons - zaniechanie
 abats - opat
 abažūrs - abażur
 abdikācija - abdykacja
-abdomens - jama brzuszna | brzuch
+abdomens - jama brzuszna, brzuch
 abdomināls - brzuszny
 abduktors - odwodziciel
 ābele - jabłoń
 aberācija - aberracja
 abioģenēze - abiogeneza
-abiotisks - nieożywiony | abiotyczny
+abiotisks - nieożywiony, abiotyczny
 abioze - abioza
 ablācija - ablacja
 ablaktācija - odstawienie dziecka od piersi
@@ -19,7 +19,7 @@ abolicionisms - abolicjonizm
 abolicionists - abolicjonista
 ābols - jabłko
 aborts - aborcja
-absints - absynt | bylica piołun
+absints - absynt, bylica piołun
 absolūcija - absolucja
 absolūti - absolutnie
 absolvēt - ukończyć szkołę
@@ -44,11 +44,11 @@ akadēmisks - akademicki
 akadēmisms - akademizm
 akmens - kamień
 aktīnijs - aktyn
-aktīvs - aktyw | aktywny
+aktīvs - aktyw, aktywny
 akvedukts - akwedukt
 alabastrs - alabaster
 alpīnisms - alpinizm
-alumīnijs - glin | aluminium
+alumīnijs - glin, aluminium
 alus - piwo
 alva - cyna
 Alžīrija - Algieria
@@ -64,7 +64,7 @@ aprikoze - morela
 aprīlis - kwiecień
 Apvienotā Karaliste - Zjednoczone Królestwo
 apziņa - świadomość
-ar - z | wraz
+ar - z, wraz
 argons - argon
 Aristotelis - Arystoteles
 arsēns - arsen
@@ -73,16 +73,16 @@ aseksualitāte - aseksualność
 asinis - krew
 aspirīns - aspiryna
 astats - astat
-astoņi - osiem | 8
+astoņi - osiem, 8
 astotais - ósmy
 atā - do widzenia
 Atlantijas okeāns - Ocean Atlantycki
 atmosfēra - atmosfera
 atomskaitlis - liczba atomowa
-atpakaļ - z powrotem | wstecz | nazad | wcześniej | trzy dni temu)
+atpakaļ - z powrotem, wstecz, nazad, wcześniej, trzy dni temu)
 atrast - znaleźć
 atvērt - otworzyć
-audzināt - kształcić | edukować | wychowywać
+audzināt - kształcić, edukować, wychowywać
 auglis - owoc
 augusts - sierpień
 Auns - Baran
@@ -106,8 +106,8 @@ Bangladeša - Bangladesz
 Barbadosa - Barbados
 bārda - broda
 bārijs - bar
-baznīca - kościół | świątynia
-bēdrozis - sójka syberyjska | sójka złowroga
+baznīca - kościół, świątynia
+bēdrozis - sójka syberyjska, sójka złowroga
 Beļģija - Belgia
 Beliza - Belize
 Benina - Benin
@@ -133,7 +133,7 @@ botānika - botanika
 Botsvāna - Botswana
 brālis - brat
 brīvība - wolność
-brīvs - wolny | swobodny
+brīvs - wolny, swobodny
 broms - brom
 bruņurupucis - żółw
 burkāns - marchew
@@ -144,11 +144,11 @@ caurs - dziurawy
 Čehija - Czechy
 cēlgāze - gaz szlachetny
 ceļš - droga
-celt - wznosić | budować | konstruować
+celt - wznosić, budować, konstruować
 cena - cena
 centrs - centrum
 cepure - czapka
-cerēt - mieć nadzieję | ufać
+cerēt - mieć nadzieję, ufać
 cērijs - cer
 ceturtais - czwarty
 ceturtdiena - czwartek
@@ -163,16 +163,16 @@ cimds - rękawiczka
 cinks - cynk
 cirkonijs - cyrkon
 cīrulis - skowronek
-cirvis - topór | siekiera
+cirvis - topór, siekiera
 citrons - cytryna
 civilizācija - cywilizacja
 civilizēt - cywilizować
 civils - cywilny
 cūka - świnia
 cukurs - cukier
-daba - przyroda | natura
+daba - przyroda, natura
 dabisks - naturalny
-dabūt - wziąć | dostać | dobyć
+dabūt - wziąć, dostać, dobyć
 dadaisms - dadaizm
 dadzītis - szczygieł
 dalīt - dzielić
@@ -180,7 +180,7 @@ darbības vārds - czasownik
 darīt - robić
 dārzs - ogród
 dators - komputer
-daudz - dużo | wiele
+daudz - dużo, wiele
 debesis - niebo
 decembris - grudzień
 dejot - tańczyć
@@ -193,7 +193,7 @@ diena - dzień
 Dienvidāfrika - Republika Południowej Afryki
 dievināt - czcić
 Dievs - Bóg
-dīķis - staw | sadzawka
+dīķis - staw, sadzawka
 dinamika - dynamika
 dinamisks - dynamiczny
 diskutēt - dyskutować
@@ -203,7 +203,7 @@ divi - dwa
 divpadsmitais - dwunasty
 divvalodība - dwujęzyczność
 dogmatiķis - dogmatyczny
-doktors - doktor | lekarz
+doktors - doktor, lekarz
 doktrīna - doktryna
 Dominika - Dominika
 Dominikāna - Dominikana
@@ -226,12 +226,12 @@ džezs - jazz
 Džibutija - Dżibuti
 dziedāt - śpiewać
 dziesma - piosenka
-dzimta - rodzina | ród
+dzimta - rodzina, ród
 dzimumloceklis - penis
 dzinējs - silnik
 dzintars - bursztyn
 dzirdēt - słyszeć
-dzirnavas - młyn | żarna
+dzirnavas - młyn, żarna
 dzīvība - życie
 dzīvnieks - zwierzę
 dzīvsudrabs - rtęć
@@ -318,19 +318,19 @@ Grenāda - Grenada
 gribēt - chcieć
 Grieķija - Grecja
 guba - sterta
-gudrs - mądry | rozsądny
+gudrs - mądry, rozsądny
 gulags - gułag
 guļamistaba - sypialnia
 gulbis - łabędź
 gulēt - spać
-gulta - siano | łóżko
+gulta - siano, łóżko
 gurķis - ogórek
 Gvatemala - Gwatemala
 hafnijs - hafn
 Haiti - Haiti
 hedonisms - hedonizm
 hēlijs - hel
-hematūrija - hematuria | krwiomocz
+hematūrija - hematuria, krwiomocz
 heteroseksualitāte - heteroseksualizm
 hidroloģija - hydrologia
 hlors - chlor
@@ -344,7 +344,7 @@ Horvātija - Chorwacja
 hroms - chrom
 iela - ulica
 iesākums - początek
-iespējams - możliwy | prawdopodobny | ewentualny
+iespējams - możliwy, prawdopodobny, ewentualny
 Ieva - Ewa
 Igaunija - Estonia
 igauņu valoda - język estoński
@@ -354,7 +354,7 @@ indijs - ind
 Indonēzija - Indonezja
 informācija - informacja
 informātika - informatyka
-informēt - informować | instruować
+informēt - informować, instruować
 Irāka - Irak
 Irāna - Iran
 irīdijs - iryd
@@ -385,17 +385,17 @@ jūgs - jarzmo
 jūlijs - lipiec
 jumts - dach
 jūnijs - czerwiec
-Jupiters - Jowisz | Jupiter
+Jupiters - Jowisz, Jupiter
 jūra - morze
 jūrascūciņa - świnka morska
 jūras gurķis - strzykwa
-jūs - wy | pan | pani | państwo
+jūs - wy, pan, pani, państwo
 just - czuć
 kadmijs - kadm
 kafejnīca - kawiarnia
 kafija - kawa
 kaija - mewa
-kails - nagi | goły
+kails - nagi, goły
 Kaira - Kair
 kaķis - kot
 kaklarota - naszyjnik
@@ -414,9 +414,9 @@ karalis - król
 Karību jūra - Morze Karaibskie
 karš - wojna
 kartupelis - ziemniak
-kas - kto | co
+kas - kto, co
 kašalots - kaszalot
-kataloniešu - kataloński | język kataloński
+kataloniešu - kataloński, język kataloński
 Katara - Katar
 katastrofa - katastrofa
 Katiņas - Katyń
@@ -430,12 +430,12 @@ kirijs - kiur
 ķirurģija - chirurgia
 klasifikācija - klasyfikacja
 klasiķis - klasyczny
-klauns - clown | klaun
+klauns - clown, klaun
 klaustrofobija - klaustrofobia
 kobalts - kobalt
 koks - drzewo
 kompjūters - komputer
-komponents - składnik | komponent
+komponents - składnik, komponent
 kontinents - kontynent
 Korāns - Koran
 korozija - korozja
@@ -444,7 +444,7 @@ Kostarika - Kostaryka
 kovārnis - kawka
 krauķis - gawron
 krauklis - kruk
-kreiss - lewy | lewicowy
+kreiss - lewy, lewicowy
 krēsls - krzesło
 krevele - strup
 krieviete - Rosjanka
@@ -458,12 +458,12 @@ kristāls - kryształ
 krūms - krzak
 krupis - ropucha
 ksenons - ksenon
-kubs - sześcian | kostka
+kubs - sześcian, kostka
 kultūra - kultura
 kur - gdzie
 labdien - dzień dobry!
 labējs - prawicowy
-labs - dobry | prawy | po prawej
+labs - dobry, prawy, po prawej
 lācis - niedźwiedź
 laiks - czas
 laizīt - lizać
@@ -484,7 +484,7 @@ Libāna - Liban
 Lībija - Libia
 lidmašīna - samolot
 lidosta - lotnisko
-lidot - lecieć | latać
+lidot - lecieć, latać
 liellopigovs - krowa
 liels - duży
 lieta - rzecz
@@ -504,10 +504,10 @@ maijs - maj
 maize - chleb
 Maķedonija - Macedonia
 mākonis - chmura
-maksts - pochwa | wagina | pokrowiec
+maksts - pochwa, wagina, pokrowiec
 makulatūra - makulatura
 Maldīvija - Malediwy
-malt - mleć | siekać (mięso) | mruczeć
+malt - mleć, siekać (mięso), mruczeć
 Malta - Malta
 mangāns - mangan
 mans - ojciec
@@ -537,7 +537,7 @@ mest - rzucać
 metabolisms - metabolizm
 metāls - metal
 mežs - las
-miegs - sen | spanie
+miegs - sen, spanie
 mieži - jęczmień
 mikrobioloģija - mikrobiologia
 mīksts - miękki
@@ -553,7 +553,7 @@ monarhija - monarchia
 Mozambika - Mozambik
 murgi - koszmar
 nakts - noc
-neatkarība - niezależność | niepodległość
+neatkarība - niezależność, niepodległość
 nedēļa - tydzień
 nekad - nigdy
 nektārs - nektar
@@ -596,7 +596,7 @@ papagailis - papuga
 parks - park
 pārstāvis - przedstawiciel
 partija - partia
-pavadonis - przewodnik | satelita
+pavadonis - przewodnik, satelita
 pavasaris - wiosna
 pedagogs - pedagog
 pele - mysz
@@ -612,11 +612,11 @@ piemēram - na przykład
 piemērs - przykład
 piens - mleko
 pīle - kaczka
-pilnība - pełnia | kompletność
+pilnība - pełnia, kompletność
 pilsēta - miasto
 pingvīns - pingwin
 pipari - pieprz
-pirkt - kupować | nabywać
+pirkt - kupować, nabywać
 pirmais - pierwszy
 pirmdiena - poniedziałek
 Pitsburga - Pittsburgh (stolica Allegheny)
@@ -649,17 +649,17 @@ reinkarnācija - reinkarnacja
 reliģija - religia
 rēnijs - ren
 republika - republika
-rezultāts - rezultat | wynik
+rezultāts - rezultat, wynik
 Rīga - Ryga
 rodijs - rod
 roka - ręka
-rožains - różowy | różany
+rožains - różowy, różany
 rūda - ruda
 rudens - jesień
 ruds - rudy
-runāt - mówić | rozmawiać
-sabrukšana - rozpad | rozkład
-sacīt - mówić | powiedzieć
+runāt - mówić, rozmawiać
+sabrukšana - rozpad, rozkład
+sacīt - mówić, powiedzieć
 sadistisks - sadystyczny
 sadists - sadysta
 Saeima - Sejm
@@ -675,7 +675,7 @@ Santome un Prinsipi - Wyspy Świętego Tomasza i Książęca
 sapnis - sen
 saprast - rozumieć
 sarežģīts - trudny
-sargāt - chronić | pilnować
+sargāt - chronić, pilnować
 sargs - obrońca
 sarkanrīklīte - rudzik
 sarkans - czerwony
@@ -685,7 +685,7 @@ Saūda Arābija - Arabia Saudyjska
 saule - słońce
 Saule - Słońce
 Saules sistēma - Układ Słoneczny
-šeit - tu | tutaj
+šeit - tu, tutaj
 seksuālā orientācija - orientacja seksualna
 seksualitāte - seksualność
 sekunde - sekunda
@@ -712,9 +712,9 @@ sist - bić
 sivēns - prosię
 skābeklis - tlen
 skaisti - ładnie
-skaists - piękny | ładny
+skaists - piękny, ładny
 skaistums - piękno
-šķidrums - płyn | ciecz
+šķidrums - płyn, ciecz
 šķist - wydawać się
 skola - szkoła
 skudra - mrówka
@@ -728,13 +728,13 @@ soda - soda
 Somālija - Somalia
 Somija - Finlandia
 somu valoda - język fiński
-spārns - skrzydło | błotnik
+spārns - skrzydło, błotnik
 sportisks - sportowy
 sports - sport
 Šrilanka - Sri Lanka
 stārķis - bocian
 strauss - struś
-strazds - drozd | szpak
+strazds - drozd, szpak
 studēt - studiować
 Sudāna - Sudan
 sudrabbalts - srebrzystobiały
@@ -749,7 +749,7 @@ svētdiena - niedziela
 svētīt - błogosławić
 svilpis - gil
 svins - ołów
-tā - to | ta
+tā - to, ta
 Tadžikistāna - Tadżykistan
 tagad - teraz
 Tanzānija - Tanzania
@@ -770,7 +770,7 @@ tīģeris - tygrys
 tik - tak
 tipisks - typowy
 tīrs - czysty
-toksisks - toksyczny | trujący
+toksisks - toksyczny, trujący
 tomāts - pomidor
 Tora - Tora
 trešais - trzeci
@@ -778,7 +778,7 @@ trešdiena - środa
 trusis - królik
 tu - ty
 tuberkuloze - gruźlica
-tulkojums - tłumaczenie | przekład
+tulkojums - tłumaczenie, przekład
 tulkot - tłumaczyć
 tulkotājs - tłumacz
 tumšs - ciemny
@@ -796,7 +796,7 @@ un - i
 upe - rzeka
 Urāli - Ural
 urāns - uran
-Urāns - Uran | Uranos
+Urāns - Uran, Uranos
 Vācija - Niemcy
 vācu valoda - język niemiecki
 vairāk - więcej
@@ -814,14 +814,14 @@ Varšava - Warszawa
 vasara - lato
 Vatikāns - Watykan (państwo)
 veģetārisms - wegetarianizm
-veidoties - tworzyć się | kształtować | powstawać
-veids - forma | kształt | aspekt
+veidoties - tworzyć się, kształtować, powstawać
+veids - forma, kształt, aspekt
 vējš - wiatr
 veksiloloģija - weksylologia
-vēlējumies - życzenie | pragnienie | chęć
+vēlējumies - życzenie, pragnienie, chęć
 vēlēšanas - wybory
-vēlēties - chcieć | życzyć sobie
-Venēra - Wenus | Wenera
+vēlēties - chcieć, życzyć sobie
+Venēra - Wenus, Wenera
 Veronika - Weronika
 Vērsis - Byk
 veselība - zdrowie
@@ -839,9 +839,9 @@ viens - jeden
 vieta - miejsce
 Vikipēdija - Wikipedia
 vilciens - pociąg
-vīrs - mąż | mężczyzna
+vīrs - mąż, mężczyzna
 vīruss - wirus
-viss - wszystkie | cały
+viss - wszystkie, cały
 visu labu - do widzenia
 vītols - wierzba
 vizualizācija - wizualizacja
@@ -852,7 +852,7 @@ zagt - kraść
 zaķis - zając
 zaļš - zielony
 zem - pod
-zeme - ziemia | grunt | kraj | państwo
+zeme - ziemia, grunt, kraj, państwo
 Zeme - Ziemia
 zīdaste - jemiołuszka
 ziema - zima

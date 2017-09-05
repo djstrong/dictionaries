@@ -5,14 +5,14 @@ abażur - lámpaernyő
 Abchaz - abház
 Abchazja - Abházia
 Abdon - Abdon
-abdykacja - feladás | lemondás
+abdykacja - feladás, lemondás
 abdykować - lemond
-abecadło - betűrend | ábécé
-abfal - hiba | anomália
+abecadło - betűrend, ábécé
+abfal - hiba, anomália
 Abidżan - Abidjan
-abiecadło - betűrend | ábécé
+abiecadło - betűrend, ábécé
 ablutomania - mosakodási kényszer
-abonament - előfizetés | bérlet
+abonament - előfizetés, bérlet
 abonent - előfizető
 aborcja - abortusz
 Abraham - Ábrahám
@@ -29,20 +29,20 @@ Adam - Ádám m
 adamaszek - damaszt
 adapter - lemezjátszó
 Adelajda - Adelaida
-administrator - adminisztrátor | ügyintéző
+administrator - adminisztrátor, ügyintéző
 Adonis - Adónisz
 adopcja - örökbefogadás
 adrenalina - adrenalin
 adresat - címzett
 adwokat - ügyvéd
 aerodrom - repülőtér
-aeroplan - repülő | repülőgép
+aeroplan - repülő, repülőgép
 afa - majom
 afelzina - narancs
 Afganistan - Afganisztán
 afrykanerski - afrikaans
 agawa - agáve
-Agnieszka - Ágnes | Ági
+Agnieszka - Ágnes, Ági
 agonia - agónia
 agresja - agresszió
 agrest - egres
@@ -52,7 +52,7 @@ aikido - aikidó
 ajmer - vödör
 ajzynbaniok - vasutas
 akacja - akác
-akcent - hangsúly | ékezet
+akcent - hangsúly, ékezet
 akordeon - harmonika
 akrobata - akrobata
 aksamit - bársony
@@ -64,7 +64,7 @@ akupunktura - akupunktúra
 akuratnie - alaposan
 akuratny - alapos
 akuszer - szülész
-akuszerka - szülésznő | bába
+akuszerka - szülésznő, bába
 akwarela - akvarell
 akwarium - akvárium
 alabaster - alabástrom
@@ -82,8 +82,8 @@ Aleksander - Sándor
 alergia - allergia
 alergiczny - allergiás
 alergologia - allergológia
-alfabet - betűrend | ábécé
-alfabetu - betűrend | ábécé
+alfabet - betűrend, ábécé
+alfabetu - betűrend, ábécé
 Alfred - Alfréd
 algebra - algebra
 algebraiczny - algebrai
@@ -107,7 +107,7 @@ Alojzy - Alajos
 alpinista - hegymászó
 Alpy - Alpok
 altruista - altruista
-altruizm - altruizmus | önzetlenség
+altruizm - altruizmus, önzetlenség
 aluminium - alumínium
 Amadeusz - Amadeusz
 amajza - hangya
@@ -138,7 +138,7 @@ ampułka - ampulle
 amputacja - amputáció
 Amu-daria - Amu-darja
 anachronizm - anakronizmus
-analiza - analízis | elemzés
+analiza - analízis, elemzés
 ananas - ananász
 anarchia - anarchia
 anarchizm - anarchizmus
@@ -152,17 +152,17 @@ Andrea - Andrea
 Andromeda - Androméda
 Andrzej - András
 Andy - Andok
-anegdota - adoma | anekdota
-anekdota - adoma | anekdota
+anegdota - adoma, anekdota
+anekdota - adoma, anekdota
 anemia - vérszegénység
-anestezjolog - altatóorvos | aneszteziológus
+anestezjolog - altatóorvos, aneszteziológus
 Aneta - Anetta
 anewryzm - körülírt értágulat
-Angelika - Angyalka | Angelika
+Angelika - Angyalka, Angelika
 angielski - angol
 angiografia - érábrázolás
-Anglia - Anglia | Angolország
-Anglija - Anglia | Angolország
+Anglia - Anglia, Angolország
+Anglija - Anglia, Angolország
 angol - angol
 angryst - egres
 Ania - Ancsa
@@ -181,7 +181,7 @@ anodowanie - eloxálás
 anodyzacja - eloxálás
 anomalia - anomália
 anonimowy - névtelen
-anons - hirdetés | hirdetmény
+anons - hirdetés, hirdetmény
 anoreksja - anorexia
 antagonista - antagonista
 Antananarywa - Antananarivo
@@ -214,7 +214,7 @@ apasz - bűnöző
 apatia - apátia
 Apeniny - Appenninek
 aperitif - aperitif
-apetyt - apetítus | étvágy
+apetyt - apetítus, étvágy
 apetyt rośnie w miarę jedzenia - evés közben jön meg az étvágy
 aplikator - applikátor
 aplikować - bead
@@ -234,7 +234,7 @@ Aragonia - Aragónia
 arbuz - dinnye
 archanioł - arkangyal
 archeolog - archeológus
-archeologia - archeológia | régészet
+archeologia - archeológia, régészet
 architekt - építész
 arfa - hárfa
 Argentyna - Argentína
@@ -244,15 +244,15 @@ argentyński - argentin
 argon - argon
 arka Noego - Noé bárkája
 armata - ágyú
-armia - hadsereg | honvédség | had | sereg
-armijo - hadsereg | honvédség | had | sereg
+armia - hadsereg, honvédség, had, sereg
+armijo - hadsereg, honvédség, had, sereg
 aromaterapia - aromaterápia
 arsen - arzén
 artefakt - mütermék
 artykuł - cikk,szócikk
 artysta - művész
 Aruba - Aruba
-arytmia - szívritmuszavar | aritmia
+arytmia - szívritmuszavar, aritmia
 asceta - aszkéta
 aseksualny - aszexuális
 asfalt - aszfalt
@@ -262,11 +262,11 @@ asta - ág
 astat - asztácium
 astma - asztma
 astrofizyka - asztrofizika
-astrolog - asztrológus | csillagjós
-astrologia - asztrológia | csillagjóslás
-astrologio - asztrológia | csillagjóslás
-astronomia - asztronómia | csillagászat
-astronomio - asztronómia | csillagászat
+astrolog - asztrológus, csillagjós
+astrologia - asztrológia, csillagjóslás
+astrologio - asztrológia, csillagjóslás
+astronomia - asztronómia, csillagászat
+astronomio - asztronómia, csillagászat
 asygnata - bankjegy
 Asyria - Asszíria
 asza - hamu
@@ -277,7 +277,7 @@ Ateny - Athén
 ateusz - ateista m
 Atlantyk - Atlanti-óceán
 atlas - atlasz
-atmosfera - atmoszféra | légkör
+atmosfera - atmoszféra, légkör
 atom - atom
 atu - adu
 atut - adu
@@ -293,7 +293,7 @@ Austro-Węgry - Osztrák–Magyar Monarchia
 autentyczny - autentikus
 auto - autó
 autobana - autópálya
-autobus - busz | autóbusz
+autobus - busz, autóbusz
 autograf - autogram
 autoklaw - autokláv
 autonomia - autonómia
@@ -316,7 +316,7 @@ Badenia-Wirtembergia - Baden-Württemberg
 badyl - gaz
 Bagdad - Bagdad
 Bahamy - Bahama-szigetek
-bajzel - rendetlenség | rumli | bordély
+bajzel - rendetlenség, rumli, bordély
 bąk - dongó
 bakałarz - tanár
 bakcyl - bacilus
@@ -326,7 +326,7 @@ bakteriolog - bakteriológus
 bakteryjny - bakteriális
 bal - bál
 bala - labda
-bałagan - rendetlenség | rumli
+bałagan - rendetlenség, rumli
 balet - balett
 bałkański - balkáni
 Bałkany - Balkán
@@ -336,9 +336,9 @@ bal maskowy - álarcosbál
 balsam - balzsam
 balsamiczny - balzsamos
 Bałtyk - Balti-tenger
-bałwan - hóember | bálvány
+bałwan - hóember, bálvány
 bambus - bambusz
-bana - vonat | villamos
+bana - vonat, villamos
 banan - banán
 banana - banán
 banda - banda
@@ -355,7 +355,7 @@ banka - villamos
 bańka - kanna
 bank krwi - vérbank
 banknot - bankjegy
-bankomat - bankautomata | bankjegykiadó automata
+bankomat - bankautomata, bankjegykiadó automata
 bank spermy - spermabank
 bar - bárium
 barabola - burgonya
@@ -373,10 +373,10 @@ Bartłomiej - Bertalan
 barwa - szín
 barykada - barikád
 barzej - nagyon
-bas - basszus | basszista | has
+bas - basszus, basszista, has
 Bask - baszk
 baszta - bástya
-batłąch - üvegpalack | palack
+batłąch - üvegpalack, palack
 Bawarka - bajor
 bawół - bivaly
 baza - alap
@@ -385,7 +385,7 @@ bażant - fácán
 bazar - bazár
 Bazylea - Bázel
 bazylia - bazsalikom
-bebech - has | gyomor
+bebech - has, gyomor
 bęben - has
 beczeć - sír
 beczka - hordó
@@ -414,7 +414,7 @@ bety - pizsama
 beza - habcsók
 bezdech - légzésleállás
 bezgorączkowy - láztalan
-bezlistny - levéltelen | lombtalan
+bezlistny - levéltelen, lombtalan
 bezmocz - vizeletelapadás
 bezosobowy - személytelen
 bez pracy nie ma kołaczy - aki nem dolgozik, ne is egyék
@@ -422,7 +422,7 @@ bez pracy nie ma płacy - aki nem dolgozik, ne is egyék
 bezwarunkowo - feltétlenül
 białaczka - leukémia
 białko - fehérje
-Białoruś - Fehéroroszország | Belorusszia | Belarusz
+Białoruś - Fehéroroszország, Belorusszia, Belarusz
 białoruski - fehérorosz
 biały - fehér
 Bianka - Bianka
@@ -441,8 +441,8 @@ bilet - jegy
 bimba - villamos
 bindasz - hímvessző
 binder - nyakkendő
-bindka - nyakkendő | védőkötés
-biografia - biográfia | életrajz
+bindka - nyakkendő, védőkötés
+biografia - biográfia, életrajz
 biograficzny - életrajzi
 biolog - biológus
 biologia - biológia
@@ -457,7 +457,7 @@ blacha - bádog
 błąd - hiba
 błecha - bolha
 bliski - közeli
-blizna - forradás | sebhely
+blizna - forradás, sebhely
 Bliźnięta - Ikrek
 bliźnięta syjamskie - sziámi ikrek
 błona dziewicza - szűzhártya
@@ -471,11 +471,11 @@ bocian - gólya
 bodziec - inger
 Bóg - Isten
 Bóg pomaga tym, co sami sobie pomagają - segíts magadon, s az Isten is megsegít
-Bohemia - Csehország | Bohémia f
+Bohemia - Csehország, Bohémia f
 boja - bója
 bojler - bojler
 bojtel - kiszögellés
-boks - ökölvívás | boksz
+boks - ökölvívás, boksz
 ból - kín
 Boliwia - Bolívia
 bomba - bomba
@@ -483,7 +483,7 @@ bomba atomowa - atombomba
 bonsai - bonszai
 bor - bór
 borowina - iszap
-borówka - bogyó | arc | arculütés
+borówka - bogyó, arc, arculütés
 borsuk - borz
 Bośnia i Hercegowina - Bosznia és Hercegovina
 Bośniak - bosnyák
@@ -491,10 +491,10 @@ botanik - botanikus
 botanika - botanika
 boża krówka - katicabogár
 boźdór - kisfiú
-brachol - fivér | fiútestvér
-bracieniec - fivér | fiútestvér
+brachol - fivér, fiútestvér
+bracieniec - fivér, fiútestvér
 brak miesiączki - periódus kimaradása
-brat - fivér | fiútestvér
+brat - fivér, fiútestvér
 bratanek - unokaöcs
 bratek - árvácska
 Bratysława - Pozsony
@@ -510,7 +510,7 @@ brokuł - brokkoli
 brom - bróm
 broń - fegyver
 browar - sör
-brudny - piszkos | mocskos | koszos
+brudny - piszkos, mocskos, koszos
 Brunei - Brunei
 brunet - barna
 brydż - bridzs
@@ -521,7 +521,7 @@ brzmienie - hang
 brzoskwinia - őszibarack
 brzoza - nyírfa
 brzuch - has
-brzydki - csúnya | ronda
+brzydki - csúnya, ronda
 buda - iskola
 Budapeszt - Budapest
 buddyzm - buddhizmus
@@ -545,14 +545,14 @@ Burkina Faso - Burkina Faso
 burza mózgów - ötletgyűjtés
 burzowiny - sör
 but - cipő
-butelka - üvegpalack | palack
+butelka - üvegpalack, palack
 butersznyt - szendvics
 butik - butik
 być - lenni
 byk - bika
 Byk - Bika
 Była Jugosłowiańska Republika Macedonii - Macedónia Volt Jugoszláv Köztársaság
-bzybzać - vág | lop
+bzybzać - vág, lop
 Caracas - Caracas
 cebula - hagyma
 cedi - cedi
@@ -586,7 +586,7 @@ chlew - disznóól
 chłopak - kisfiú
 Chłopek - Parasztocska
 chlor - klór
-chmiel - komló | sör
+chmiel - komló, sör
 chmura - felhő
 chodnik - járda
 chodzić - jár
@@ -606,29 +606,29 @@ chory - beteg
 chrapać - horkol
 chrobak - kukac
 chromosom - kromoszóma
-chruścik - tegzes | tegzes-moly
+chruścik - tegzes, tegzes-moly
 chrząstka - porc
 chrząszcz - bogár
 chuj ci w dupę - bazd meg!
 chuśle - hegedű
-chustka - szövet | posztó | kendő
+chustka - szövet, posztó, kendő
 chwast - gaz
 chwiejny - bizonytalan
-chwost - gaz | farok
+chwost - gaz, farok
 chyc - meleg
 ciąć - vág
 ciągnik - traktor
 ciało - test
 ciało obce - idegen test
 cicha woda brzegi rwie - lassú víz partot mos
-ciebie - te | maga | ön
+ciebie - te, maga, ön
 ciecz łzowa - könnyfolyadék
 ciemnia - sötétkamra
 ciemnia fotograficzna - sötétkamra
 ciemno - sötét
 ciemność - sötét
 ciemny - sötét
-cień - árny | árnyék
+cień - árny, árnyék
 ciepło - hő
 ciepły - meleg
 cieść - após
@@ -662,7 +662,7 @@ cukier - cukor
 cukiernia - cukrászda
 cukrowiec lekarski - cukornád
 cukrzyca - cukorbetegség
-ćwiczenie czyni mistrza - ismétlés a tudás anyja | gyakorlat teszi a mestert
+ćwiczenie czyni mistrza - ismétlés a tudás anyja, gyakorlat teszi a mestert
 ćwierć - negyed
 ćwikła - célkla
 cybernetyka - kibernetika f
@@ -671,7 +671,7 @@ cyfra - cifero
 cyga - dongó
 Cygan - cigány m
 cygański - cigány
-cyklista - biciklista | kerékpáros
+cyklista - biciklista, kerékpáros
 cyngiel - szemüveg
 cynk - cink
 cypel - kiszögellés
@@ -684,7 +684,7 @@ cytrynowożółty - citromsárga
 cząber - borsikafű
 czador - csador
 czaj - tea
-czajnik - kanna | fej
+czajnik - kanna, fej
 czapka - sapka
 czarna dziura - fekete lyuk
 czarna skrzynka - fekete doboz
@@ -703,27 +703,27 @@ czciciel - imádó
 Czech - cseh
 Czechosłowacja - Csehszlovákia
 Czecho-Słowacja - Csehszlovákia
-Czechy - Csehország | Bohémia f
+Czechy - Csehország, Bohémia f
 czekolada - csokoládé
 czekoladka - bonbon
 czereśnia - cseresznye
 czernica - szeder
 czerwiec - június
-czerwony - piros | vörös
+czerwony - piros, vörös
 Czerwony Krzyż - Vöröskereszt f
 czerwony olbrzym - vörös óriás
-cześć - szia | szervusz
+cześć - szia, szervusz
 czeski - cseh
 cześnia - cseresznye
 częstoskurcz - tachycardia
 czkawka - csuklás
 członek - hímvessző
-człowieczy - emberi | humán
+człowieczy - emberi, humán
 człowiek - ember
 człowiek człowiekowi wilkiem - ember embernek farkasa
 człowiek strzela, Pan Bóg kule nosi - ember tervez, Isten végez
 czoło - homlok
-czorny - fekete | piszkos | mocskos | koszos
+czorny - fekete, piszkos, mocskos, koszos
 czosnek - fokhagyma
 czucie - érzés
 czujność - óvatosság
@@ -733,28 +733,28 @@ czworokąt - négyszög
 czyhunka - tórium
 czyrwiec - június
 czyrwień - június
-czyściec - tisztítótűz | purgatórium
+czyściec - tisztítótűz, purgatórium
 czytać - olvas
 Dafne - Daphné
 Dagestan - Dagesztán
 daktyl - datolya
 dalece - nagyon
 Dania - Dánia
-dar - ajándék | adottság
+dar - ajándék, adottság
 darowanemu koniowi w zęby się nie zagląda - ajándék lónak ne nézd a fogát
 darwinista - darwinista
 Debreczyn - Debrecen
 definicja - meghatározás
 dega - szablya
 dekiel - fej
-dekoracja - dekoráció | díszítés
+dekoracja - dekoráció, díszítés
 delikatny - gyengéd
 demografia - demográfia
 Demokratyczna Republika Wyspy Świętego Tomasza i Wysp Świętego Tomasza i Książęcej - São Tomé és Príncipe Demokratikus Köztársaság
 dentysta - fogorvos
 deprecha - depresszió
 depresja - depresszió
-dermatologia - bőrgyógyászat | dermatológia
+dermatologia - bőrgyógyászat, dermatológia
 deska - deszka
 despota - despota
 deszcz - eső
@@ -765,7 +765,7 @@ dezinformacja - félretájékoztatás
 dialekt - nyelvjárás
 diament - gyémánt
 dioda - dióda
-Diogenes - Diogenész | Diogenész (Szinópéi)
+Diogenes - Diogenész, Diogenész (Szinópéi)
 dłoń - kéz
 dłużnik - adós
 dmuchnąć - lop
@@ -782,7 +782,7 @@ dogmat - dogma
 dogmatyzm - dogmatizmus
 dokładnie - alaposan
 dokładny - alapos
-doktor - doktor | orvos
+doktor - doktor, orvos
 dołek - depresszió
 dolina - völgy
 dolny - alsó
@@ -800,12 +800,12 @@ doś - mennyi
 dostojnik - méltóság
 dotyk - érintés
 dotykać - megérint
-do widzenia - viszontlátásra | viszlát
-do zobaczenia - viszontlátásra | viszlát
+do widzenia - viszontlátásra, viszlát
+do zobaczenia - viszontlátásra, viszlát
 draństwo - csőcselék
 drapać - vakar
 droga - út
-Droga Mleczna - Tejút | Tejútrendszer
+Droga Mleczna - Tejút, Tejútrendszer
 druh - barát
 drukarnia - nyomda
 drumla - doromb
@@ -813,7 +813,7 @@ drwal - favágó
 drzewo - fa
 drzwi - ajtó
 duch - lélek
-dudlać - sír | iszik
+dudlać - sír, iszik
 dudy - tüdő
 duet - kettős
 dukat - dukát
@@ -837,13 +837,13 @@ dysleksja - diszlexia
 dżem - íz
 dziadek - nagyapa
 dziąsło - íny
-dziękówa - köszi | köszönöm | megköszön
+dziękówa - köszi, köszönöm, megköszön
 dziękować - megköszön
-dziękówka - köszi | köszönöm | megköszön
-dziękuję - köszi | köszönöm | megköszön
+dziękówka - köszi, köszönöm, megköszön
+dziękuję - köszi, köszönöm, megköszön
 dziękuję bardzo - nagyon köszönöm
 dzień dobry - jó reggelt
-dziennikarstwo - újságírás | zsurnalisztika
+dziennikarstwo - újságírás, zsurnalisztika
 dziennikarz - újságíró
 dzierżyć - tart
 dziewa - szűz
@@ -852,16 +852,16 @@ dziób - csőr
 dziura - barlang
 dziurkacz - irodai lyukasztógép
 dziurkacz biurowy - irodai lyukasztógép
-dziwny - fura | furcsa
+dziwny - fura, furcsa
 dżungla - dzsungel
 edyficjum - épület
 Edyta - Edit
 Egina - Éjina
 Egipt - Egyiptom
-egoizm - egoizmus | önzés
+egoizm - egoizmus, önzés
 egzemplarz - minta
 ejber - kisfiú
-eka - banda | sarok
+eka - banda, sarok
 Ekwador - Ecuador
 elefant - elefánt
 elektron - elektron
@@ -892,7 +892,7 @@ eskimoski - eszkimó
 eskulap - orvos
 esperancki - eszperantó
 esperanto - eszperantó
-espresso - eszpresszó | eszpresszókávé
+espresso - eszpresszó, eszpresszókávé
 Estera - Eszter
 Estonia - Észtország
 etanol - etanol
@@ -903,13 +903,13 @@ euforia - eufória
 Eugeniusz - Jeno m
 Europa Środkowa - Közép-Európa
 Europa Wschodnia - Kelet-Európa
-Ewaryst - Evariszt | Evarisztusz
+Ewaryst - Evariszt, Evarisztusz
 eż - hogy
 Ezdrasz - Ezra
 Ezop - Aiszóposz
 fabryka - gyár
 facet - férfi
-facetka - nő | tanárnő
+facetka - nő, tanárnő
 facjata - arc
 fajfus - hímvessző
 fakt - tény
@@ -922,12 +922,12 @@ fanatyczny - fanatikus
 farmaceuta - gyógyszerész
 faryna - cukor
 faryzeusz - farizeus
-fasola - bab | paszuly
+fasola - bab, paszuly
 faszysta - fasiszta
 faszystowski - fasiszta
 fazan - fácán
 fedra - rugó
-fedrować - dolgozik | ás
+fedrować - dolgozik, ás
 fefer - bors
 feminizm - feminizmus
 ferska - őszibarack
@@ -939,7 +939,7 @@ figa - füge
 filip - nyúl
 Filip - Fülöp m
 Filipiny - Fülöp-szigetek
-filolog - filológus | bölcsész
+filolog - filológus, bölcsész
 filozof - filozófus
 filozofia dziejów - történelemfilozófia
 filozofia historii - történelemfilozófia
@@ -947,10 +947,10 @@ Finlandia - Finnország
 fitogeografia - növényföldrajz
 fiza - fizika
 fizjologia - élettan
-fiżon - bab | paszuly
+fiżon - bab, paszuly
 fizyka - fizika
-flaszka - üvegpalack | palack
-fliger - repülő | repülőgép
+flaszka - üvegpalack, palack
+fliger - repülő, repülőgép
 Florencja - Firenze
 flota - flotta
 fluor - fluor
@@ -973,17 +973,17 @@ funkcja - funkció
 fura - autó
 furdygarnia - börtön
 furosemid - furoszemid
-furt - újból | ismét
+furt - újból, ismét
 fyjderbiksa - tolltartó
 fyjderkasta - tolltartó
 gad - hüllő
-gała - szem | holló | varjú
+gała - szem, holló, varjú
 galarypa - karalábé
 gałąź - ág
 Galicja - Galícia
 Galilea - Galilea
 Gambia - Gambia
-gapa - holló | varjú
+gapa - holló, varjú
 garaż - garázs
 gasa - utca
 gąść - zenél
@@ -992,15 +992,15 @@ gaza - géz
 gazo - géz
 gdy kota nie ma, myszy harcują - ha nincs otthon a macska, cincognak az egerek
 gdyż - mert
-gdzie - ahol | ahová
+gdzie - ahol, ahová
 gędźba - zene
 gędzić - zenél
-gemyla - rendetlenség | rumli
-genetyczny - genetikai | genetikus
+gemyla - rendetlenség, rumli
+genetyczny - genetikai, genetikus
 Genowefa - Genovéva f
 geograf - földrajztudós
-geologia - földtan | geológia
-geometria - geometria | mértan
+geologia - földtan, geológia
+geometria - geometria, mértan
 gepard - gepárd
 geriatria - geriátria
 Gerwazy - Gerváz m
@@ -1017,7 +1017,7 @@ glapa - varjú
 glaska - pohár
 głaskać - simogat
 glin - alumínium
-glina - agyag | rendőr
+glina - agyag, rendőr
 gliniarz - rendőr
 globalne ocieplenie - globális felmelegedés
 globus - fej
@@ -1084,10 +1084,10 @@ gułag - gulag
 gularz - pulyka
 guli - mert
 Gwatemala - Guatemala
-gwer - puska | karabély
+gwer - puska, karabély
 gwiazda - csillag
-gwiazdarz - asztrológus | csillagjós
-gwiaździarz - asztrológus | csillagjós
+gwiazdarz - asztrológus, csillagjós
+gwiaździarz - asztrológus, csillagjós
 Gwinea Bissau - Bissau-Guinea
 Gwinea Równikowa - Egyenlítői-Guinea
 gwóźdź - szög
@@ -1134,7 +1134,7 @@ Horacy - Horác
 hormonozależny - hormonfüggő
 Horus - Hórusz
 horyzont - látóhatár
-hotel - hotel | szálloda
+hotel - hotel, szálloda
 Hucuł - Huculok
 hyca - meleg
 hydrologia - hidrológia
@@ -1170,20 +1170,20 @@ Irena - Iren
 Irlandia - Írország
 iryd - irídium
 iść - megy
-iście - bizonnyal | bizonyára | biztosan
+iście - bizonnyal, bizonyára, biztosan
 iść na skibę - lop
 iskra - szikra
 islamizm - iszlamizmus
 Italok - olasz m
 italski - olasz
 iż - hogy
-izba - béke | szoba
+izba - béke, szoba
 ize - hogy
 izotop - izotóp
 Izrael - Izrael
 ja - én
 jabłko - alma
-jabłko Adama - ádámcsutka | ádámscsutka
+jabłko Adama - ádámcsutka, ádámscsutka
 jabłoń - almafa
 Jacek - Jácint m
 jacht - jacht
@@ -1191,7 +1191,7 @@ jad - méreg
 jadać - eszik
 jąderko - sejtmagvacska
 Jadwiga - Hedvig
-jagoda - bogyó | arc | arculütés
+jagoda - bogyó, arc, arculütés
 jajko - tojás
 jajnik - petefészek
 jajo - tojás
@@ -1208,11 +1208,11 @@ Jan - János
 jangryst - egres
 japa - barlang
 jara - anyós
-Jarosław - Jaroszlav | Jaroszláv
+Jarosław - Jaroszlav, Jaroszláv
 jaskier - boglárka
 jaskinia - barlang
 jątrznica - hurka
-jebadło - hálószoba | ágy
+jebadło - hálószoba, ágy
 jeden za wszystkich, wszyscy za jednego - egy mindenkiért, és mindenki egyért
 jedlina - jegenyefenyő
 jedna jaskółka wiosny nie czyni - egy fecske nem csinál nyarat
@@ -1227,12 +1227,12 @@ Jerzy - György
 jeść - eszik
 jesień - ősz
 jesienny - őszi
-jeśli - ha | vajon
+jeśli - ha, vajon
 jeśli wejdziesz między wrony, musisz krakać jak i one - ha Rómában élsz, élj úgy, mint a rómaiak
 jest - lenni
 jeszcze - még
 jeż - sün
-jeżeli - ha | vajon
+jeżeli - ha, vajon
 jezioro - tó
 Jezus - Jézus
 Jezus Chrystus - Jézus Krisztus
@@ -1247,7 +1247,7 @@ Jozafat - Jósafát m
 Judyta - Judit
 Jugosławia - Jugoszlávia
 Juliusz - Juliánusz
-juny - fiatal | ifjú
+juny - fiatal, ifjú
 jupa - blúz
 Jur - György
 jurta - jurta
@@ -1258,13 +1258,13 @@ Kabul - Kabul
 kabza - zseb
 Kafarnaum - Kafarnaum
 kafej - kávéház
-kaj - ahol | ahová
+kaj - ahol, ahová
 kajak - kajak
 kajzerka - császárzsemle
 kakadu - kakadu
 kakao - végbélnyílás
 kałabania - pocsolya
-kalafa - alkoholista | arc
+kalafa - alkoholista, arc
 kalafior - karfiol
 kalapitra - fej
 kalarepa - karalábé
@@ -1273,7 +1273,7 @@ kalejdoskop - kaleidoszkóp
 kalendarz - naptár
 kalfas - has
 kałuża - pocsolya
-kam - ahol | ahová
+kam - ahol, ahová
 kamasz - cipő
 Kambodża - Kambodzsa
 kambr - kambrium
@@ -1282,7 +1282,7 @@ kamfora - kámfor
 kanapka - szendvics
 kanarek - kanári
 kancerogenny - rákkeltő
-kandydat - pályázó | jelölt
+kandydat - pályázó, jelölt
 kangur - kenguru
 kanibalizm - kannibalizmus
 kanka - kanna
@@ -1294,7 +1294,7 @@ kapelusz - kalap
 kąpiółka - fürdőszoba
 kapusta - káposzta
 karaba - macska
-karabin - puska | karabély
+karabin - puska, karabély
 karabin maszynowy - géppuska
 karakuły - perzsabunda
 karate - karate
@@ -1308,24 +1308,24 @@ Karpaty - Kárpátok
 karta kredytowa - hitelkártya
 kartofel - burgonya
 kasjer - pénztáros
-kastoreum - hódzsír | kasztoreum
+kastoreum - hódzsír, kasztoreum
 kasza gryczana - hajdinakása
 kaszalot - ámbráscet
 kaszanka - hurka
 kasztan - gesztenye
 Katalonia - Katalónia
 Katar - Katar
-Katarzyna - Katalin f | Kata f | Kato f | Katinka f
+Katarzyna - Katalin f, Kata f, Kato f, Katinka f
 katedra - székesegyház
 Katyń - Katyńi vérengzés
-kawaler - agglegény | lovag
+kawaler - agglegény, lovag
 kawa wesoła - bordély
 kawiarnia - kávéház
-kawka - csóka | apáca
+kawka - csóka, apáca
 kawon - dinnye
 kaznodzieja - prédikátor m
 kciuk - hüvelykujj
-kędy - ahol | ahová
+kędy - ahol, ahová
 kefir - kefir
 kejter - kutya
 kejza - sajt
@@ -1338,7 +1338,7 @@ kicz - giccs
 kiejda - zseb
 kiełbasa - kolbász
 kiepeła - fej
-kierowca - autóvezető | sofőr | vezető m | járművezető
+kierowca - autóvezető, sofőr, vezető m, járművezető
 kierownik - vezető m
 kierz - bokor
 kierzek - bokor
@@ -1346,7 +1346,7 @@ kieszeń - zseb
 kieszonkowiec - zsebtolvaj
 kij - emelet
 Kilimandżaro - Kilimandzsáró
-kilka - néhány | egy pár
+kilka - néhány, egy pár
 kimać - alszik
 kino - mozi
 kinol - alkoholista
@@ -1355,7 +1355,7 @@ kira - pálinka
 kirchóf - temető
 Kirgistan - Kirgizisztán
 Kiribati - Kiribati
-kiszka - tej | hurka
+kiszka - tej, hurka
 kit - gitt
 kłącze - rizóma
 klajdać - öltöztet
@@ -1368,7 +1368,7 @@ klasy - ugróiskola
 klej - ragasztószer
 klekotun - gólya
 kliber - alkoholista
-klimat - éghajlat | klíma
+klimat - éghajlat, klíma
 kłódka miłości - szerelmesek lakatjai
 kluber - alkoholista
 kluza - börtön
@@ -1394,7 +1394,7 @@ kołchoz - kolhoz
 kolejarz - vasutas
 kolejność - sorrend
 koleś - férfi
-koło - kerékpár | bicikli
+koło - kerékpár, bicikli
 kolor - szín
 kolorowy - színes
 Kolumb - Kolumbusz
@@ -1407,7 +1407,7 @@ kominiarz - kéményseprő
 komp - számítógép
 kompres - borogatás
 komputer - számítógép
-koń - ló | hímvessző
+koń - ló, hímvessző
 kóń - ló
 koncert - koncert
 kondensator - kondenzátor
@@ -1423,7 +1423,7 @@ konspiracja - konspiráció
 konstruktywizm - konstruktivizmus
 konstytucja - alkotmány
 konsumpcjonizm - konzumizmus
-kontynent - földrész | kontinens
+kontynent - földrész, kontinens
 kopać - ás
 kopalnia - bánya
 koper - kapor
@@ -1442,7 +1442,7 @@ kość - csont
 kościsty - csontos
 kosmogoniczny - kozmogóniai
 Kostaryka - Costa Rica
-koszary - laktanya | kaszárnya
+koszary - laktanya, kaszárnya
 kosztować - megkóstol
 kot - macska
 kowal - kovács
@@ -1452,9 +1452,9 @@ Koziorożec - Bak
 koźlak - barna gyűrűstinóru
 koźlarz babka - barna érdestinóru
 koźlarz czerwony - vörös érdestinóru
-koźlę - kiskecske | kecskegida | bakkecske
-kraj - ország | állam
-krajać - vág | lop
+koźlę - kiskecske, kecskegida, bakkecske
+kraj - ország, állam
+krajać - vág, lop
 krajopis - földrajztudós
 Kraj Sudetów - Szudétavidék
 Kraków - Krakkó
@@ -1469,14 +1469,14 @@ kręgosłup - gerinc
 krepel - fánk
 krew - vér
 Krista - Krisztina
-kroić - vág | lop
+kroić - vág, lop
 król - király m
 królestwo - királyság
 królewski - királyi
 królik - nyúl
 kronika - krónika
-kropla - csepp | esőcsepp '
-krople - csepp | esőcsepp '
+kropla - csepp, esőcsepp '
+krople - csepp, esőcsepp '
 krowa - tehén
 krowa, która dużo ryczy, mało mleka daje - amelyik kutya ugat, az nem harap
 krtań - gége
@@ -1484,7 +1484,7 @@ krucjata - keresztes háborúk
 kruk - holló
 krupier - krupié
 krupniok - hurka
-krybuny - kereszt | keresztcsont
+krybuny - kereszt, keresztcsont
 krykiet - krikett
 kryminał - börtön
 kryptografia - kriptográfia
@@ -1493,10 +1493,10 @@ krzak - bokor
 krzeczek - hörcsög
 krzesło - szék
 krzew - bokor
-krzyczeć - kiált | kiabál
+krzyczeć - kiált, kiabál
 Krzysztof - Kristóf
 krzywa - görbe
-krzyż - kereszt | keresztcsont
+krzyż - kereszt, keresztcsont
 Ksenia - Xénia
 książka - könyv
 książka kucharska - szakácskönyv
@@ -1514,12 +1514,12 @@ Kubuś Puchatek - Micimackó
 kucharz - szakács
 kuć żelazo, póki gorące - addig üsd a vasat, amíg meleg
 kukurydza - kukorica
-kula - golyó | láb
+kula - golyó, láb
 kulka - golyó
 kulos - láb
 kultura - kultúra
-kuna - nyest | nyuszt
-kupować - elad | vásárol
+kuna - nyest, nyuszt
+kupować - elad, vásárol
 kur - kakas
 kura - tyúk
 kurczak - csirke
@@ -1541,7 +1541,7 @@ kwas askorbinowy - aszkorbinsav
 kwas chlorogenowy - klorogénsav
 kwas krotonowy - krotonsav
 kwiecień - április
-lacz - fej | hímvessző | rendőr
+lacz - fej, hímvessző, rendőr
 laga - emelet
 lala - baba
 lalka - baba
@@ -1569,7 +1569,7 @@ lelek - lappantyú
 lelek kozodój - lappantyú
 len - len
 leniwy - lusta
-lepak - újból | ismét
+lepak - újból, ismét
 łepetyna - fej
 lepiej późno niż wcale - jobb későn, mint soha
 lepszy wróbel w garści niż gołąb na dachu - jobb ma egy veréb, mint holnap egy túzok
@@ -1577,7 +1577,7 @@ Lesotho - Lesotho
 lew - oroszlán
 Lew - Oroszlán
 lewicowy - baloldali
-liceum - líceum | lyceum
+liceum - líceum, lyceum
 liczba podwójna - kettős szám
 Lidia - Lídia
 Lima - Lima
@@ -1595,7 +1595,7 @@ literat - író
 liturgiczny - liturgikus
 Litwa - Litvánia
 Lizbona - Lisszabon
-lód - jég | fagylalt
+lód - jég, fagylalt
 lodowiec - gleccser
 łódź - csónak
 lojalność - hűség
@@ -1618,44 +1618,44 @@ lub - vagy
 lubić - kedvel
 łucznictwo - íjászat
 łudzikwiat - április
-ludzki - emberi | humán
+ludzki - emberi, humán
 łuk - íj
 Luksemburg - Luxemburg
 luksus - luxus
 lumbago - hexensussz
 luńt - kutya
 lustro - tükör
-luty - február | enyheges
+luty - február, enyheges
 lwia część - oroszlánrész
 łza - könny
 macha - arc
 machinacja - machináció
-macica - anyaméh | méh
+macica - anyaméh, méh
 Maciej - Mátyás
 maciek - has
 macoszka - árvácska
 Madera - Madeira
-madla - szülésznő | bába
+madla - szülésznő, bába
 mądrej głowie dość dwie słowie - az okos ember félszóból is ért
 mądry - bölcs
 MAEA - NAÜ
 Maghreb - Magreb
 magnet - magnó
-magnetofon - magnetofon | magnó
+magnetofon - magnetofon, magnó
 maj - május
 mak - mák
 mąka - liszt
 makaron - tészta
 makrela - makréla
 malarstwo - festészet
-malarz - festő | festőművész
+malarz - festő, festőművész
 Malawi - Malawi
 Malezja - Malajzia
 Mali - Mali
 małpa - majom
 Malta - Málta
 mam - mama
-mama - mama | anyós
+mama - mama, anyós
 mammografia - mammográfia
 mamut - mamut
 manierka - kulacs
@@ -1694,7 +1694,7 @@ Mauritius - Mauritius
 mazak - arc
 Mazowsze - Mazóvia
 mecenas - ügyvéd
-męczennik - vértanú | mártír
+męczennik - vértanú, mártír
 meczet - mecset
 mediana - medián
 medyk - orvos
@@ -1720,18 +1720,18 @@ miasto stołeczne - főváros
 micela - micella
 Michał - Mihály
 miecz - kard
-miedź - réz | vörösréz
+miedź - réz, vörösréz
 miedźwiedź - medve
 miejsce - hely
-miejscowość - helység | hely
-miejska legenda - szóbeszéd | városi legenda
+miejscowość - helység, hely
+miejska legenda - szóbeszéd, városi legenda
 miejski - városi
 mielcuch - sör
 mieśćce - hely
 mieśce - hely
 miesiąc - hónap
 mięsień - izom
-mięsopustnik - február | enyheges
+mięsopustnik - február, enyheges
 mięsożerca - húsevő
 mieszkanie - lakás
 Mila - Emilia
@@ -1740,12 +1740,12 @@ mina - arc
 minaret - minaret
 miód - méz
 miotła - seprű
-miska - tálacska | tálka
+miska - tálacska, tálka
 mistrz - bajnok
 mitra - mitra
 mleko - tej
-młody - fiatal | ifjú
-młodziec - csecsemő | baba
+młody - fiatal, ifjú
+młodziec - csecsemő, baba
 młodzież - fiatal
 młyn - malom
 młynarz - molnár
@@ -1807,13 +1807,13 @@ nagórny - felső
 Nairobi - Nairobi
 naleśnik - palacsinta
 namiot - sátor
-na pewno - bizonnyal | bizonyára | biztosan
+na pewno - bizonnyal, bizonyára, biztosan
 napletek - fityma
-narba - forradás | sebhely
+narba - forradás, sebhely
 narciarz - síelő
 nareszcie - végül
 narodowość - nemzetiség
-na sto procent - bizonnyal | bizonyára | biztosan
+na sto procent - bizonnyal, bizonyára, biztosan
 natura ciągnie wilka do lasu - kutyából nem lesz szalonna
 nauczyciel - tanár
 nauczycielka - tanárnő
@@ -1822,7 +1822,7 @@ na wszelki wypadek - mindenesetre
 na zdrowie - egészségedre
 nazwisko - vezetéknév
 neapolitański - nápolyi
-nekrolog - nekrológ | gyászjelentés
+nekrolog - nekrológ, gyászjelentés
 neofaszysta - neofasiszta
 neogotycki - neogótikus
 neon - neon
@@ -1851,10 +1851,10 @@ Niemcy - Németország
 nie mieć - nem
 Niemiecka Republika Demokratyczna - Német Demokratikus Köztársaság
 niemiły - kellemetlen
-niemowlę - csecsemő | baba
+niemowlę - csecsemő, baba
 nienawidzić - utál
 niepodległość - függetlenség
-nieprzyjazny - barátságtalan | rideg
+nieprzyjazny - barátságtalan, rideg
 nierówność - egyenlőtlenség
 nieściora - unokatestvér
 nieśmiertelny - halhatatlan
@@ -1867,7 +1867,7 @@ niewiasta - nő
 nie wszystko złoto, co się świeci - nem mind arany, ami fénylik
 niewybaczalny - megbocsáthatatlan
 niewyobrażalny - elképzelhetetlen
-nie wywołuj wilka z lasu - ne keltsd fel az alvó oroszlánt | ne ébreszd fel az alvó oroszlánt
+nie wywołuj wilka z lasu - ne keltsd fel az alvó oroszlánt, ne ébreszd fel az alvó oroszlánt
 niezgrabny - ügyetlen
 Niger - Niger
 nihilizm - nihilizmus
@@ -1901,9 +1901,9 @@ nudle - tészta
 nudny - unalmas
 nyga - szúnyog
 obelisk - obeliszk
-obiecadło - betűrend | ábécé
+obiecadło - betűrend, ábécé
 obiekt - tárgy
-obiektywność - objektivitás | tárgyilagosság
+obiektywność - objektivitás, tárgyilagosság
 obłok - felhő
 obój - oboa
 obojczyk - kulcscsont
@@ -1930,7 +1930,7 @@ odczuwać - érez
 oddzielnie - külön
 ode - -tól
 odpowiadać - válaszol
-odpowiedź - felelet | válasz
+odpowiedź - felelet, válasz
 odrębny - különálló
 odwiedzać - meglátogat
 Ofelia - Ofélia
@@ -1960,7 +1960,7 @@ okulista - szemész
 okulistyczny - szemészeti
 okultyzm - okkultizmus
 olcha - éger
-Olimpia - Olümpia | Olimpia
+Olimpia - Olümpia, Olimpia
 ołów - ólom
 ołtarz - oltár
 oma - nagymama
@@ -1974,10 +1974,10 @@ ono - ő
 opactwo - apátság
 opal - opál
 opat - apát
-opera - opera | operaház
-opero - opera | operaház
-opiąć - újból | ismét
-opięć - újból | ismét
+opera - opera, operaház
+opero - opera, operaház
+opiąć - újból, ismét
+opięć - újból, ismét
 opium - ópium
 opona - abroncs
 Oradea - Nagyvárad
@@ -1997,10 +1997,10 @@ osobno - külön
 ostatecznie - végül
 ostatni - utolsó
 ostrężyna - szeder
-ostry - éles | csípős
+ostry - éles, csípős
 ostryga - osztriga
 ouberiba - karalábé
-owca - juh | birka
+owca - juh, birka
 owies - zab
 owoc - gyümölcs
 owulacja - ovuláció
@@ -2012,13 +2012,13 @@ Pacyfik - Csendes-óceán
 pączek - fánk
 pagórek - domb
 pająk - pók
-pajęcznik - szeptember | november
+pajęcznik - szeptember, november
 pakistański - pakisztáni
-pakli - ha | vajon
-pała - fej | hímvessző | rendőr
-palacz - autóvezető | sofőr | vezető m | járművezető
+pakli - ha, vajon
+pała - fej, hímvessző, rendőr
+palacz - autóvezető, sofőr, vezető m, járművezető
 Palau - Palau
-pale - fej | hímvessző | rendőr
+pale - fej, hímvessző, rendőr
 palec - ujj
 Palestyna - Palesztina
 Palestyńczyk - palesztin
@@ -2031,7 +2031,7 @@ Panna - Szűz
 panorama - panoráma
 państwo - állam
 państwowy - állami
-pantoflarz - papucsférj | papucs
+pantoflarz - papucsférj, papucs
 papuć - cipő
 papuga - papagáj
 paragraf - paragrafus
@@ -2052,14 +2052,14 @@ pediatra - gyermekorvos
 pędzel - ecset
 pekator - hímvessző
 Pelagiusz - Pelágiusz
-pełny - tele | teli
+pełny - tele, teli
 pendżabski - pandzsábi
 peniak - gyáva
 penis - hímvessző
 pępek - köldök
 Pepik - cseh
 Peregryn - Pellegrin
-perfumy - illatszer | parfüm
+perfumy - illatszer, parfüm
 perka - burgonya
 perła - gyöngy
 peron - peron
@@ -2077,7 +2077,7 @@ pić - iszik
 pidżama - pizsama
 pieczara - barlang
 pieczęć - bélyegző
-pieczeń - sült | ügy
+pieczeń - sült, ügy
 piędź - arasz
 piegowaty - szeplős
 pielgrzym - zarándok
@@ -2086,7 +2086,7 @@ pierścionek - gyűrű
 pierwsze wrażenie - első benyomás
 pies - kutya
 pięść - ököl
-pięściarstwo - ökölvívás | boksz
+pięściarstwo - ökölvívás, boksz
 pieśń - ének
 pieszy - gyalogos
 piętro - emelet
@@ -2103,14 +2103,14 @@ ping-pong - asztalitenisz
 pingwin - pingvin
 piórnik - tolltartó
 pióro - toll
-piorun - villám | villámcsapás
-piosenka - ének | dal
+piorun - villám, villámcsapás
+piosenka - ének, dal
 Piotr - Péter
 Piotra - Petra
 piro- - piro-
 piromania - pirománia
 pisarz - író
-pismo - betűrend | ábécé
+pismo - betűrend, ábécé
 pistolet maszynowy - géppisztoly
 Pittsburgh - Pittsburgh
 piwnica - pince
@@ -2151,16 +2151,16 @@ podróżować - utazik
 podwójny - kettős
 poezja - költészet
 pogłoska - szóbeszéd
-pogoda - idő | időjárás
+pogoda - idő, időjárás
 pohybel - akasztófa
 pokaz - bemutató
-pokój - béke | szoba
+pokój - béke, szoba
 Polak, Węgier – dwa bratanki, i do szabli, i do szklanki - lengyel, magyar – két jó barát, együtt harcol, s issza borát
 polędwica - bélszín
-poleku - lassan | lassacskán
+poleku - lassan, lassacskán
 poli- - poli-
 policjant - rendőr
-policzek - arc | arculütés
+policzek - arc, arculütés
 polifenol - polifenol
 poliginia - többnejűség
 poligynia - többnejűség
@@ -2185,14 +2185,14 @@ pomoc - segítség
 poncz - puncs
 poniedziałek - hétfő
 ponieważ - mert
-ponownie - újból | ismét
+ponownie - újból, ismét
 popiół - hamu
 Poprad - Poprád
 poprawny - helyes
 popularny - népszerű
-por - póréhagyma | pórus
+por - póréhagyma, pórus
 pornografia - pornográfia
-pornograficzny - pornográf | trágár | szeméremsértő
+pornograficzny - pornográf, trágár, szeméremsértő
 poronienie - abortusz
 Portoryko - Puerto Rico
 portret - arckép
@@ -2213,19 +2213,19 @@ powieka - szemhéj
 powiestka - név
 powietrze - levegő
 powódź - árvíz
-powoli - lassan | lassacskán
+powoli - lassan, lassacskán
 pozaziemski - földönkívüli
 pożyteczny idiota - hasznos idióta
 pozywać - beidéz
-praca - dolog | munka
+praca - dolog, munka
 praca domowa - házi feladat
 prącie - hímvessző
 pracować - dolgozik
 pracowity - szorgalmas
-pracownik - dolgozó | alkamazott
+pracownik - dolgozó, alkamazott
 prąd - áram
 Praga - Prága
-pragnienie - áhítozás | szomjúság
+pragnienie - áhítozás, szomjúság
 prawda - igazság
 prawdopodobny - valószínű
 prawdziwych przyjaciół poznaje się w biedzie - bajban ismerszik meg a jó barát
@@ -2241,7 +2241,7 @@ prezent - ajándék
 prezydent - államelnök
 próba - próba
 probiotyk - probiotikum
-próbować - kóstol | megkóstol
+próbować - kóstol, megkóstol
 produkcja - termelés
 prom - komp
 promień - sugár
@@ -2263,7 +2263,7 @@ przedmiot - tárgy
 przedsiębiorstwo - vállalat
 przedsięwzięcie - vállalkozás
 przekąska - imbisz
-przekształcenie - átalakítás | megváltoztatás
+przekształcenie - átalakítás, megváltoztatás
 Przełęcz pod Chłopkiem - Vadorzóhágó
 przemysł - ipar
 przenośnia - metafora
@@ -2294,15 +2294,15 @@ psy szczekają, karawana idzie dalej - a kutya ugat, a karaván halad
 pszczoła - méh
 pszenica - búza
 Ptah - Ptah
-ptak - madár | hímvessző
-ptaszę - madár | hímvessző
+ptak - madár, hímvessző
+ptaszę - madár, hímvessző
 pultok - pulyka
 puma - puma
 puste - üres
 pustka - üresség
 pusty - üres
 pustynia - sivatag
-puszka - börtön | sör
+puszka - börtön, sör
 puter - pulyka
 putnia - vödör
 Pyjter - Péter
@@ -2311,7 +2311,7 @@ pyta - hímvessző
 pytać - kérdez
 pytanie - kérdés
 rabarbar - rebarbara
-rąbek - szövet | posztó | kendő
+rąbek - szövet, posztó, kendő
 rachatłukum - lokum
 raciądz - lovag
 radar - rádiólokátor
@@ -2325,17 +2325,17 @@ rajzować - utazik
 Rak - Rák
 rasizm - rasszizmus
 ratusz - városháza
-razdziawa - holló | varjú
+razdziawa - holló, varjú
 reagować - reagál
-reaktor - reaktor | atomreaktor
+reaktor - reaktor, atomreaktor
 realizm - realizmus
 ręczna - kézilabda
 regent - régens
 rekin - cápa
-reklama - hirdetés | reklám
+reklama - hirdetés, reklám
 rekluza - reclusa
 religia - vallás
-relikwia - ereklye | relikvia
+relikwia - ereklye, relikvia
 republika bananowa - banánköztársaság
 Republika Czeska - Cseh Köztársaság
 Republika Federalna Niemiec - Német Szövetségi Köztársaság
@@ -2353,17 +2353,17 @@ rodzić - szül
 rodzina - család
 róg - sarok
 rok - év
-Roland - Roland | Lóránt
+Roland - Roland, Lóránt
 rolnictwo - agrárium
 Rom - roma
 Roman - Román
-ropa naftowa - kőolaj | ásványolaj
+ropa naftowa - kőolaj, ásványolaj
 ropień - tályog
 Rosja - Oroszország
 rosomak - rozsomák
 rouza - rózsa
-rower - kerékpár | bicikli
-rowerzysta - biciklista | kerékpáros
+rower - kerékpár, bicikli
+rowerzysta - biciklista, kerékpáros
 równanie - egyenlet
 również - is
 równik - Egyenlítő
@@ -2378,7 +2378,7 @@ rtęć - higany
 rubel - rubel
 rubid - rubídium
 ruchome schody - mozgólépcső
-rudny - piros | vörös
+rudny - piros, vörös
 rufa - fenék
 rum - rum
 Rumun - román
@@ -2389,14 +2389,14 @@ rycerz - lovag
 rysować - rajzol
 rysowanie - rajzolás
 rysownik - rajzoló
-rysunek - ábra | rajz
+rysunek - ábra, rajz
 Rysy - Tengerszem-csúcs
-rytuał - szertartás | rítus
-rywal - rivális | versenytárs
+rytuał - szertartás, rítus
+rywal - rivális, versenytárs
 ryż - rizs
-rzadny - csúnya | ronda
+rzadny - csúnya, ronda
 rzeciądz - lánc
-rzecz - dolog | tárgy
+rzecz - dolog, tárgy
 rzeczownik - főnév
 rzeka - folyó
 rzeź - mészárlás
@@ -2405,18 +2405,18 @@ SA - rt.
 sąd - bíróság
 sadło - szalonna
 sadzielnik - kéményseprő
-sagan - fej | kanna
+sagan - fej, kanna
 saharyjski - szaharai
 sala - terem
 sałatka - saláta
-salceson - disznósajt | rendőr
+salceson - disznósajt, rendőr
 salon - szalon
-Salwador - El Salvador | Salvador
+Salwador - El Salvador, Salvador
 samar - szamárium
 Samoa Amerykańskie - Amerikai Szamoa
 samobójstwo - öngyilkosság
 samochód - autó
-samolot - repülő | repülőgép
+samolot - repülő, repülőgép
 samowar - szamovár
 sanki - szánkó
 sardela - ajóka
@@ -2447,9 +2447,9 @@ serwatka - savó
 Sfederowane Stany Mikronezji - Mikronéziai Szövetségi Államok
 siano - széna
 siarka - kén
-siarkowodór - hidrogén-szulfid | kén-hidrogén
+siarkowodór - hidrogén-szulfid, kén-hidrogén
 sieć - háló
-sieczeń - február | enyheges
+sieczeń - február, enyheges
 siedem grzechów głównych - hét főbűn
 Siedmiogród - Erdély
 sierociniec - árvaház
@@ -2470,8 +2470,8 @@ skała - szikla
 skałosz - szirtiborz
 skand - szkandium
 skibać - lop
-skład - bolt | pince | mennyezet
-sklep - bolt | pince | mennyezet
+skład - bolt, pince, mennyezet
+sklep - bolt, pince, mennyezet
 sklep monopolowy - italbolt
 skok - ugrás
 skok o tyczce - rúdugrás
@@ -2510,7 +2510,7 @@ słowo - szó
 smacznego - jó étvágyat
 smaczny - jóizű
 smakować - megkóstol
-smerf - Törp | Törpök
+smerf - Törp, Törpök
 smutniak - kenyér
 smyczek - vonó
 smysł - értelem
@@ -2524,30 +2524,30 @@ sokół - sólyom
 Solon - Szolón
 Somalia - Szomália
 somsiad - szomszéd
-sopel - csap | jégcsap
-sos - szósz | mártás
+sopel - csap, jégcsap
+sos - szósz, mártás
 sowa - bagoly
 spać - alszik
 spaghetti - spagetti
 spawacz - hegesztő
-śpiący - álmos | álmosító
+śpiący - álmos, álmosító
 śpiew - ének
 śpiewać - énekel
 śpiewak - énekes
 spiker - bemondó
-spis rzeczy - tartalomjegyzék | tartalom
-spis treści - tartalomjegyzék | tartalom
+spis rzeczy - tartalomjegyzék, tartalom
+spis treści - tartalomjegyzék, tartalom
 społeczeństwo - társadalom
 społeczny - társadalmi
 sport - sport
 sportowiec - sportoló
-spowiednik - gyóntató | gyóntatóatya
+spowiednik - gyóntató, gyóntatóatya
 spragniony - szomjas
-sprawa - dolog | kérdés | ügy
+sprawa - dolog, kérdés, ügy
 Sprawiedliwy wśród Narodów Świata - Világ Igaza
 sprężyna - rugó
 spróbować - megkóstol
-sprzedawać - árul | elad
+sprzedawać - árul, elad
 sp. z o.o. - Kft
 srać - szarik
 srebro - ezüst
@@ -2563,12 +2563,12 @@ stacja - állomás
 stadion - stadion
 stal - acél
 stała - állandó
-Stany - Egyesült Államok | Amerikai Egyesült Államok
-Stany Zjednoczone - Egyesült Államok | Amerikai Egyesült Államok
-Stany Zjednoczone Ameryki - Egyesült Államok | Amerikai Egyesült Államok
+Stany - Egyesült Államok, Amerikai Egyesült Államok
+Stany Zjednoczone - Egyesült Államok, Amerikai Egyesült Államok
+Stany Zjednoczone Ameryki - Egyesült Államok, Amerikai Egyesült Államok
 stara panna - vénkisasszony
 starek - nagyapa
-stare miasto - régi | város
+stare miasto - régi, város
 starka - nagymama
 starosek - nagyapa
 staroszek - nagyapa
@@ -2582,9 +2582,9 @@ stół - asztal
 stolarz - asztalos
 stolica - főváros
 stomatolog - fogorvos
-strach - félelem | madárijesztő
-strach na wróble - félelem | madárijesztő
-strąpacz - február | enyheges
+strach - félelem, madárijesztő
+strach na wróble - félelem, madárijesztő
+strąpacz - február, enyheges
 straszny - szörnyű
 strażak - tűzoltó
 strit - sor
@@ -2618,8 +2618,8 @@ swędzić - viszket
 świekier - após
 świekra - anyós
 świeść - anyós
-Święty Hufiec - szent csapat | szent sereg
-Święty Zastęp - szent csapat | szent sereg
+Święty Hufiec - szent csapat, szent sereg
+Święty Zastęp - szent csapat, szent sereg
 świeży - friss
 świnia - sertés
 świostka - anyós
@@ -2627,7 +2627,7 @@ swok - bácsi
 syfilis - szifilisz
 Syjam - Sziám
 Sylwester - Szilveszter
-symbol - jelkép | szimbólum
+symbol - jelkép, szimbólum
 syn - fiú
 synapsa - szinapszis
 syndrom miodowy miodowego miesiąca - nászutas szindróma
@@ -2667,7 +2667,7 @@ szkoła - iskola
 szlag - csapás
 szlauch - kígyó
 szlips - nyakkendő
-szminka - rúzs | ajakrúzs
+szminka - rúzs, ajakrúzs
 szneka - arc
 sznur - kötél
 szok - sokk
@@ -2684,7 +2684,7 @@ szyć - varr
 szynal - szög
 tableau - tabló
 tachykardia - tachycardia
-tacik - apa | nagyapa
+tacik - apa, nagyapa
 Tadżykistan - Tádzsikisztán
 tajemnica poliszynela - nyílt titok
 tajfun - tájfun
@@ -2702,9 +2702,9 @@ tangens - tangens
 tani - olcsó
 tantal - tantál
 tapczan - rekamié
-tarcza - pajzs | arc
+tarcza - pajzs, arc
 tarcza krystaliczna - pajzs
-tarcza strzelecka - pajzs | arc
+tarcza strzelecka - pajzs, arc
 tarcza szkolna - pajzs
 tarczyca - pajzsmirigy
 tartrazyna - tartrazin
@@ -2714,10 +2714,10 @@ tchórzliwy - gyáva
 technet - technécium
 technologia - technológia
 tęcza - szivárvány
-tej - te | maga | ön
+tej - te, maga, ön
 telewizor - televízió
 tellur - tellúr
-temat - tárgy | téma
+temat - tárgy, téma
 tenis stołowy - asztalitenisz
 Teofania - Teofánia
 teraz - most
@@ -2739,7 +2739,7 @@ tiul - tüll
 tlen - oxigén
 tłum - tömeg
 tłumaczenie - fordítás
-tobie - te | maga | ön
+tobie - te, maga, ön
 Togo - Togo
 toksyna - méreg
 topór - fejsze
@@ -2764,15 +2764,15 @@ Trójmiasto - Hármasváros
 trumna - koporsó
 trup - hulla
 truskawka - eper
-trychologia - hajgyógyászat | trichológia
+trychologia - hajgyógyászat, trichológia
 Trynidad i Tobago - Trinidad és Tobago
-trzaszczka - szár | szál
+trzaszczka - szár, szál
 trzcina cukrowa - cukornád
 trzeźwy - józan
 trzmiel - dongó
 trznadel zwyczajny - citromsármány
 trzymać - tart
-tsunami - cunami | szökőár
+tsunami - cunami, szökőár
 tudzież - és
 tuńczyk - tonhal
 tunel - alagút
@@ -2781,7 +2781,7 @@ tunfisz - tonhal
 turbina - turbina
 Turcja - Törökország
 Turkmenistan - Türkmenisztán
-turkusowy - türkiz | türkizkék
+turkusowy - türkiz, türkizkék
 Turyn - Torino
 Tuvalu - Tuvalu
 tuzin - tucat
@@ -2790,7 +2790,7 @@ twarz - arc
 twierdza - vár
 twórca - alkotó
 tworzyć - alkot
-ty - te | maga | ön
+ty - te, maga, ön
 Tybet - Tibet
 tyj - tea
 tylko - csak
@@ -2798,23 +2798,23 @@ typografia - tipográfia
 tyrania - zsarnokság
 ubierać - öltöztet
 ubóstwo - szegénység
-uczuć - érzés | érzelem
-uczucie - érzés | érzelem
+uczuć - érzés, érzelem
+uczucie - érzés, érzelem
 udziec - befogó
 ufnal - szög
 Uganda - Uganda
-UGW - EGMU | GMU
+UGW - EGMU, GMU
 uj - bácsi
 ujec - bácsi
 ujek - bácsi
 ukaz - ukáz
 układ okresowy - periódusos rendszer
-układ okresowy pierwiastków - periódusos rendszer | kémiai elemek periódusos rendszere
+układ okresowy pierwiastków - periódusos rendszer, kémiai elemek periódusos rendszere
 Układ Słoneczny - Naprendszer
 Ukraina - Ukrajna
 ul. - u.
 ulica - utca
-umiak - oomiac | oomiak | umiac | umiak | umialak | umiaq
+umiak - oomiac, oomiak, umiac, umiak, umialak, umiaq
 umywalka - mosdó
 Unia Europejska - Európai Unió
 unikać - elkerül
@@ -2834,7 +2834,7 @@ uzasadniać - igazolják
 Uzbek - üzbég
 Uzbekistan - Üzbegisztán
 użyteczny idiota - hasznos idióta
-wacha - benzin | eső | tenger | víz
+wacha - benzin, eső, tenger, víz
 Wag - Vág
 Waga - Mérleg
 wajco - tojás
@@ -2842,7 +2842,7 @@ wałach - herélt
 Walia - Wales
 Walijczyk - walesi
 waltornia - vadászkürt
-waran - sárkánygyík | varánusz
+waran - sárkánygyík, varánusz
 warga - ajak
 warstwowy - rétegzett
 Warszawa - Varsó
@@ -2869,7 +2869,7 @@ wena - ihlet
 Wenezuela - Venezuela
 wesele - nász
 wesoło - vígan
-Wesołych Świąt - boldog karácsonyt | kellemes húsvétot
+Wesołych Świąt - boldog karácsonyt, kellemes húsvétot
 weterynarz - állatorvos
 wezwanie - név
 wiadro - vödör
@@ -2889,7 +2889,7 @@ Wielki Piątek - Nagypéntek
 wielobóstwo - többistenhit
 wielokulturowość - multikulturalizmus
 wielokulturowy - multikulturális
-Wielopole - Szélesmező | Valopolya
+Wielopole - Szélesmező, Valopolya
 wieloryb - bálna
 wielorybnictwo - bálnavadászat
 wielożeństwo - többnejűség
@@ -2908,12 +2908,12 @@ wilk - farkas
 wimperga - vimperga
 wino - bor
 winograd - bor
-wiolonczela - cselló | gordonka | kisbőgő
+wiolonczela - cselló, gordonka, kisbőgő
 wiolonczelista - csellista
 wioska - falu
 wiosna - tavasz
 Wisła - Visztula
-wiszczeć - kiált | kiabál
+wiszczeć - kiált, kiabál
 Wit - Vitus
 w końcu - végül
 władza - tekintély
@@ -2959,7 +2959,7 @@ wujek - bácsi
 wujko - bácsi
 wujo - bácsi
 wuszt - kolbász
-wy - ti | maguk | önök
+wy - ti, maguk, önök
 wyborca - választó
 wybory - választás
 wybrzeże - tengerpart
@@ -3000,13 +3000,13 @@ za kratkami - rács mögött
 założyciel - alapító
 zamach stanu - államcsíny
 Zambia - Zambia
-zamieć - hóvihar | hófúvás | hóförgeteg
+zamieć - hóvihar, hófúvás, hóförgeteg
 zapalenie płuc - tüdőgyulladás
 zapominalski - feledékeny
-żarłok - haspárti | nagyétkű
-żart - tréfa | vicc
-zaś - újból | ismét
-zawistny - irigy | irigykedő
+żarłok - haspárti, nagyétkű
+żart - tréfa, vicc
+zaś - újból, ismét
+zawistny - irigy, irigykedő
 zawód - hivatás
 zazdrosny - féltékeny
 zazulka - katicabogár
@@ -3017,7 +3017,7 @@ zbrodnia katyńska - Katyńi vérengzés
 zdalasiały - aggódó
 zdecydować - elhatároz
 zdrzadło - tükör
-źdźbło - szár | szál
+źdźbło - szár, szál
 że - hogy
 zebra - zebra
 żebrak - koldus
@@ -3054,25 +3054,25 @@ znaczenie - értelem
 znajomy - ismerős
 znak wodny - vízjel
 żniwa - aratás
-znów - újból | ismét
-znowu - újból | ismét
+znów - újból, ismét
+znowu - újból, ismét
 znużenie - bágyadtság
 zol - padló
 zola - padló
 żołądek - gyomor
-żółć - epe | sárga
+żółć - epe, sárga
 żołnierz - katona
 żółty - sárga
-żółw - teknősök | teknősbéka
+żółw - teknősök, teknősbéka
 żółw lamparci - leopárdteknős
 żongler - zsonglőr
 zoolog - állatkert
-zoologia - állattan | zoológia
+zoologia - állattan, zoológia
 źrebak - csikó
 źrebię - csikó
 źrebiec - csikó
 zręczność - ügyesség
-źrenica - pupilla | szembogár | látás | szem
+źrenica - pupilla, szembogár, látás, szem
 źródło - forrás
 zuchwały - szemtelen
 zupa - leves
